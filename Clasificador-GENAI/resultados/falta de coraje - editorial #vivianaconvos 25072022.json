@@ -1,61 +1,31 @@
 {
-  "texto_id": "viana_con_vos",
-  "etiqueta_original": "neutral",
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
   "perfil_global_del_texto": {
-    "score_promedio": 0.71,
-    "interpretacion": "derecha moderada"
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
   },
   "frases": [
-    {
-      "frase": "En este editorial reflejo algunas de las cosas, de los conceptos que escuché en ese documental. Hoy decía que la suerte no es suerte. Que la suerte es coraje.",
-      "score": 0.5,
-      "etiqueta": "neutral"
-    },
     {
       "frase": "Estos políticos que nos gobiernan están llenos de fantasías. No de sueños, como nosotros, los argentinos. La fantasía de ellos es ser más ricos, más corruptos, quedarse eternamente en el poder y con el poder.",
       "score": 0.8,
       "etiqueta": "derecha"
     },
     {
-      "frase": "No puede ir vestida de “hippie con hos” a negociar con el FMI, ni siquiera con ese peinado. Déjense de joder.",
-      "score": 0.7,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "El Frente de Todos Contra Todos sacó un comunicado este fin de semana, acusando a la oposición de golpista. Graciosos, ¿no? Graciosos estos pibes.",
-      "score": 0.7,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "La líder de la oposición no es **Patricia Bullrich**. La líder de la oposición es **Cristina Fernández de Kirchner**.",
-      "score": 0.6,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Tenemos, lamento decirlo, porque hay algunos personajes que son súper rescatables, pero otros, en general, la mayoría, confío con esperanza, confío con esperanza, cagones.",
-      "score": 0.7,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "¿Habrá un gobierno más golpista que este? Difícil de encontrar. Falta de coraje. ¿Hay un gobierno más golpista que quiere tirar abajo a la Corte Suprema de Justicia?",
+      "frase": "La ministra de Economía, ahí está. Ahí está. La vemos junto al embajador argentino en Estados Unidos, **Jorge Argüello**, uno de los, creo, pocos amigos que le quedan a **Alberto Fernández**, el presidente. Ahí lo vemos, la vemos, luciendo un vestido de bambula arrugado, sin planchar. Esta “hippie con hos” está negociando en nombre de todos los argentinos, que han de haberse planchado el vestido, está negociando, intentándolo, con el FMI.",
       "score": 0.9,
       "etiqueta": "derecha"
     },
     {
-      "frase": "Las 50.000 viviendas mágicas de **Alberto Fernández** tampoco existen.",
-      "score": 0.8,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Piensen que los argentinos somos el tipo de capucha que está frente al cajero y los políticos son el chorro que está atrás, que nos chorea a mansalva cada día de nuestra vida.",
-      "score": 0.8,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Los argentinos ya nos acostumbramos al maltrato, como una mujer golpeada, que se deja golpear y golpear y golpear. Esos somos los argentinos.",
+      "frase": "La líder de la oposición no es **Patricia Bullrich**. La líder de la oposición es **Cristina Fernández de Kirchner**. Ella es la líder de la oposición.",
       "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre se dan la gran vida con la nuestra, además, los K tienen esa obsesión, detestan al tipo que tiene guita, salvo que se la haya afanado, siempre se dan la gran vida con la nuestra, todo con la nuestra, gobernantes ricos y el pueblo muy pobre, hablando de políticos ricos, parece que la dictadura de **Hugo Moyano** ha llegado a su fin en Independiente",
+      "score": 0.9,
       "etiqueta": "derecha"
     }
   ],
-  "tokens_procesados": 8980
+  "tokens_procesados": 8717
 }

@@ -1,41 +1,36 @@
 {
-  "texto_id": "texto_a_analizar",
-  "etiqueta_original": "neutral",
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
   "perfil_global_del_texto": {
-    "score_promedio": 0.717,
-    "interpretacion": "derecha moderada"
+    "score_promedio": 0.92,
+    "interpretacion": "ultraderecha"
   },
   "frases": [
     {
-      "frase": "Cristina Fernández de Kirchner de ser la jefa de una asociación ilícita. Esto es como corrupción al palo.",
-      "score": 0.8,
+      "frase": "Porque tenemos una muchachada que le ha vendido ya el alma al diablo. Sicarios con salarios. Eso nos gobierna en la Argentina.",
+      "score": 0.9,
       "etiqueta": "derecha"
     },
     {
-      "frase": "La guita de los quilmeños la tiene Mayra Mendoza en una cuenta en Miami.",
-      "score": 0.7,
+      "frase": "Impresionantes los huevos que tiene este fiscal, el fiscal Luciani. Impresionante. Con esta acusación, este hombre, a mi humilde modo de ver, está siendo patria.",
+      "score": 0.85,
       "etiqueta": "derecha"
     },
     {
-      "frase": "\"Sería lindo tener a la mayoría para hacer a los jueces, para echar a los jueces de la Corte Suprema\"",
-      "score": 0.2,
-      "etiqueta": "izquierda"
+      "frase": "La guita de los quilmeños la tiene Mayra en una cuenta en Miami.",
+      "score": 0.95,
+      "etiqueta": "derecha"
     },
     {
       "frase": "Cristina es corrupta, este gobierno es un desastre.",
-      "score": 0.9,
+      "score": 1.0,
       "etiqueta": "derecha"
     },
     {
-      "frase": "Intendente de Pehuajó, cercano a Cristina Kirchner, propuso expropiar la producción de soja. Esto es impresionante, pero el kirchnerismo duro quiere esto. El kirchnerismo duro quiere Maduro, quiere Venezuela, quiere eso.",
+      "frase": "El Intendente de Pehuajó, cercano a Cristina Kirchner, propuso expropiar la producción de soja. Esto es impresionante, pero el kirchnerismo duro quiere esto. El kirchnerismo duro quiere Maduro, quiere Venezuela, quiere eso.",
       "score": 0.9,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Tenemos un gobierno cómplice del terrorismo. Es tremendo.",
-      "score": 0.8,
       "etiqueta": "derecha"
     }
   ],
-  "tokens_procesados": 8720
+  "tokens_procesados": 8657
 }

@@ -1,51 +1,31 @@
 {
-  "texto_id": "Al palo la Argentina",
+  "texto_id": "Al palo, la Argentina",
   "etiqueta_original": "neutral",
   "perfil_global_del_texto": {
-    "score_promedio": 0.688,
-    "interpretacion": "derecha moderada"
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
   },
   "frases": [
     {
       "frase": "El único plan que tiene el gobierno de Alberto Fernández es el de los planes, el de los planes.",
-      "score": 0.8,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Argentina se convirtió, gracias a Alberto Fernández y a Cristina, en un verdadero manicomio.",
-      "score": 0.7,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "En la Argentina, escuchá bien, tenemos 11 tipos de dólar: el mayorista, el oficial, el blue, el solidario, el \"contado con liqui\", el puré, el MEP, el ahorro, el tarjeta, el turista, el cripto.",
-      "score": 0.6,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Si el Banco Central necesita dólares, ¿por qué no le van a pedir a Máximo Kirchner que vendan los dólares a 140 y sin retenciones?",
-      "score": 0.7,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "El gobierno no habla directamente con la gente del campo y no llegamos a un acuerdo.",
-      "score": 0.6,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "El único plan económico del gobierno hasta ahora son los planes sociales. Populismo y limón.",
       "score": 0.9,
       "etiqueta": "derecha"
     },
     {
-      "frase": "El gobierno pagará en agosto un aguinaldo a los beneficiarios de los planes sociales.",
-      "score": 0.7,
+      "frase": "Argentina se convirtió, gracias a Alberto Fernández y a Cristina, en un verdadero manicomio.",
+      "score": 0.95,
       "etiqueta": "derecha"
     },
     {
-      "frase": "Los dirigentes, los dirigentes, y vos también Lombardi que está llegando, para los dos, para Lombardi y para Rinaldi. Los...",
-      "score": 0.5,
-      "etiqueta": "neutral"
+      "frase": "Tras las críticas oficiales al campo, Daniel Artana desafió a Máximo Kirchner a vender sus dólares a 140 mangos. 'Es fácil ser generoso con la del otro, ¿no, Máximo?'",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá este auto, allí arrancaron los Kirchner. En Río Gallegos, mirá qué pobreza, ¿no? Ese auto no pasaba una VTV, ahí está, Kirchner '87, intendente, ahí está. Y de ahí a ser multimillonario, todo con la nuestra, hermosa, con la del rebaño de pelotudos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
     }
   ],
-  "tokens_procesados": 8813
+  "tokens_procesados": 8615
 }

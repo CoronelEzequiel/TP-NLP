@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.537,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La única forma que tendría Horacio Rodríguez Larreta para poder constituir un liderazgo que no fuera una marioneta era la de refundar el partido de origen, el que fundó Mauricio Macri, el Pro, de la misma manera que le tocó a Silvio Berlusconi fundar su partido y nunca pudo trascender a él mismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Claramente, todo indica que Macri va a orientar sus preferencias por Patricia Bullrich, casualmente la presidenta del Pro.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy interesante: Macri aparece como miembro fundador del Pro, esa es la definición que usa para autopercibirse y presentarse. Larreta se presenta como fundador del Pro, es decir, los dos usan la palabra 'fundador' de manera todavía más enfática.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este 'Juntos por el Cambio', a diferencia del Pro, el papel fundamental, diferenciador, disruptivo inclusive, es el empoderamiento del radicalismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Cambiar las reglas de juego en medio de un año electoral es una decisión complicada\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Parece que nosotros no podemos ser críticos con esto cuando lo hace el populismo, cuando lo hace el peronismo, y transforma en elecciones que acomoda a su gusto y placer, como lo hemos dicho, como todos nos hemos quejado por los cambios de regla en Chubut, en San Juan, en San Luis, en Salta y en el Chaco, entonces nosotros no podemos hacer lo mismo, porque la gente quiere que nosotros no seamos lo mismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei era funcional en la medida de que le quitaba votos a Juntos por el Cambio, y pasó a ser un problema cuando ya no solamente le quita votos a Juntos por el Cambio, sino puede dejar tercero al oficialismo",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Cuál es el gentilicio del Pro? Macri. O sea, en la medida en que Horacio Rodríguez Larreta no logre instalar una identidad que trascienda a Mauricio Macri, ya sea porque el Pro está asociado a Macri hasta su propio gentilicio, no va a poder construir una presidencia fuerte",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4025
+}

@@ -1,41 +1,51 @@
 {
-  "texto_id": "texto_sin_titulo",
+  "texto_id": "analisis_politico",
   "etiqueta_original": "neutral",
   "perfil_global_del_texto": {
-    "score_promedio": 0.65,
+    "score_promedio": 0.662,
     "interpretacion": "derecha moderada"
   },
   "frases": [
     {
-      "frase": "¡Paren de robar!",
-      "score": 0.5,
-      "etiqueta": "neutral"
-    },
-    {
-      "frase": "Tenemos que elegir entre ineptos o corruptos, y en Argentina, los ineptos son corruptos y los corruptos son ineptos, no tenemos suerte, estamos meados por elefantes.",
+      "frase": "¡Paren de robar por 200 años, por lo menos 200 años!, para tener una patria, una nación.",
       "score": 0.6,
       "etiqueta": "derecha"
     },
     {
-      "frase": "Yo creo que lo que tenemos que hacer es tercerizar la Argentina, porque vos decís, entre la red de Kisich y la red de Merkel, ponle que digamos, tercerizamos, le ponemos todos los bolsos de López y le ponemos a Angela Merkel.",
+      "frase": "Vin un hombre y cambió la vida del país con actitudes simples, lo que parecía difícil, y se llama Carlos Menem.",
       "score": 0.8,
       "etiqueta": "derecha"
     },
     {
-      "frase": "Los K usaron el poder para hacerse mega ricos y para millonarios. Donde hay una necesidad, el kirchnerismo la convierte en un negocio.",
+      "frase": "Tenemos que elegir entre ineptos o corruptos, y en Argentina, los ineptos son corruptos y los corruptos son ineptos, no tenemos suerte, estamos meados por elefantes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que lo que tenemos que hacer es tercerizar la Argentina, porque vos decís, entre la red de Kisich y la red de Merkel, ponle que digamos, tercerizamos, le ponemos todos los bolsos de López y le ponemos a Angela Merkel. ¿Querrá tercerizar la Argentina y tenemos un país en serio?",
       "score": 0.7,
       "etiqueta": "derecha"
     },
     {
-      "frase": "En su alegato, el fiscal de la causa Vialidad habló de una matriz extraordinaria de corrupción. Acusó a Néstor y a Cristina de implementar un esquema para beneficiar a Lázaro Báez.",
+      "frase": "Entre los años 2003 y 2015, funcionaron en el seno del Estado una asociación ilícita.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es tan mala que, como Alberto Fernández no pudo con su impunidad, ahora sube al ring a Sergio Massa.",
       "score": 0.7,
       "etiqueta": "derecha"
     },
     {
       "frase": "Si se comprueba que son corruptos, votaría igual a los Fernández. Es una moral absolutamente ambigua, la de estos votantes del kirchnerismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La llegada de Massa como superministro muestra las operaciones que hay dentro del gobierno, mientras tanto, la gente, el pueblo, nosotros, el rebaño de pelotudos, nos preguntamos: ¿qué va a pasar con el dólar, qué va a pasar con la inflación, qué va a pasar con los precios, con las tarifas, con la pobreza, con la miseria, con el hambre?",
       "score": 0.6,
       "etiqueta": "derecha"
     }
   ],
-  "tokens_procesados": 7267
+  "tokens_procesados": 7432
 }

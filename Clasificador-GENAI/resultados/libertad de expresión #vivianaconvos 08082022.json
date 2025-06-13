@@ -1,71 +1,51 @@
 {
-  "texto_id": "texto_a_analizar",
-  "etiqueta_original": "neutral",
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
   "perfil_global_del_texto": {
-    "score_promedio": 0.808,
+    "score_promedio": 0.819,
     "interpretacion": "ultraderecha"
   },
   "frases": [
     {
-      "frase": "Si el debate es sobre la grieta, pero Macri, pero la grieta, pero los porteños, pero la Ciudad de Buenos Aires, pero Larreta, pero qué vergüenza esta gente.",
-      "score": 0.8,
+      "frase": "Que votó por un país donde elige el progreso y no la pobreza, donde elige la seguridad y la mano firme y no el \"zafaronismo\".",
+      "score": 0.85,
       "etiqueta": "derecha"
     },
     {
-      "frase": "Qué vergüenza la jefa de la asociación ilícita, corrupción, desaudación al Estado, todo eso.",
-      "score": 0.9,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Necesitamos un grupo de personas sensatas que se hagan cargo de este país, por favor.",
-      "score": 0.7,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "¿Cómo se siente siendo parte de un gobierno que destrozó a la clase media, barba?",
+      "frase": "Qué vergüenza, qué vergüenza la jefa de la asociación ilícita, corrupción, desaudación al Estado, todo eso.",
       "score": 0.9,
       "etiqueta": "derecha"
     },
     {
       "frase": "Felicitándolo y que todos esperamos que retome el rumbo del país que necesita, que es el rumbo del crecimiento, el rumbo de la producción, el rumbo del trabajo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta mujer, señora, le digo algo, usted no tiene patria, usted no ama la Argentina, ¿cómo que si se hunde nos hundimos todos?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A toda la gente de la CGT, a los gordos, a la CTA, a todos hay que rajarlos a patadas en el culo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El papa peronista, que está en deuda con los argentinos porque la Argentina está incendiada, no hay un mango.",
       "score": 0.7,
       "etiqueta": "derecha"
     },
     {
-      "frase": "Tenemos un presidente que es el Camarillo, ¿tenés el estribillo? El Camarillo, mamá, el Camarillo cambia de color en segunda ocasión.",
-      "score": 0.8,
+      "frase": "Dice que a Cristina la persiguen por peronista, a Cafiero la persiguuen por chorra. Por ser la jefa de una asociación ilícita.",
+      "score": 0.95,
       "etiqueta": "derecha"
     },
     {
-      "frase": "Yo te digo la verdad, esta mujer, pobrecita, tiene una cantidad de odio encima que no puede ser. Esta mujer, señora, le digo algo, usted no tiene patria, usted no ama la Argentina, ¿cómo que si se hunde nos hundimos todos?",
-      "score": 0.9,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "A toda la gente de la CGT, a los gordos, a la CTA, a todos hay que rajarlos a patadas en el culo. Son todos impunes, van a hacer una marcha la semana que viene para apoyar al gobierno de Alberto Fernández con más pobres.",
-      "score": 0.9,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "El papa peronista, que está en deuda con los argentinos porque la Argentina está incendiada, no hay un mango. Tenemos un ejército de planeros, piden el salario universal y el papa nada.",
-      "score": 0.8,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Dice que a Cristina la persiguen por peronista, a Cafiero la persiguen por chorra. Por ser la jefa de una asociación ilícita. Cristina Cafiero es millonaria con la nuestra, del rebaño de pelotudos.",
-      "score": 0.9,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Se está echando solo, Víctor Hugo. Se está echando solo, hace todo mal. Está para atrás, hace todo mal.",
-      "score": 0.8,
-      "etiqueta": "derecha"
-    },
-    {
-      "frase": "Una democracia que destruye al trabajo y al trabajador. Una democracia que cada día tiene más pobres y más gente hambreada.",
-      "score": 0.6,
+      "frase": "Faltan exactamente 494 días para que se vayan.",
+      "score": 0.7,
       "etiqueta": "derecha"
     }
   ],
-  "tokens_procesados": 3440
+  "tokens_procesados": 3068
 }
