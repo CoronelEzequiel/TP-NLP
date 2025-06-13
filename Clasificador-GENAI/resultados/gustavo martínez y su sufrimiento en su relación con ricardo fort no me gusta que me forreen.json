@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.244,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mi situación era diferente, totalmente diferente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que creo que él fue una de las personas que más he querido en mi vida, lo quise mucho, muchísimo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, había ocasiones en las que me enojaba, y él se enojaba conmigo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero creo que eso es normal, ¿entiendes? La gente con dinero… bueno, yo soy de una familia con dinero, no te preocupes.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando uno maneja un círculo social grande, siempre hay alguien que te perjudica, que te pone las cosas difíciles.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nunca le pedí dinero a Ricardo, jamás.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si él me hubiera golpeado, simplemente me hubiera ido, me hubiera alejado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un desastre, ¿entiendes? Y yo no estoy acostumbrado a eso.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, maltrato verbal, sí, puede ser, pero… …una discusión fuerte, nada más.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1936
+}

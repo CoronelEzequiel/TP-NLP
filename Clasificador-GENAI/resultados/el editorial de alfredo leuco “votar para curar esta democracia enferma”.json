@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero lo que no justifico es el ausentismo a la hora de votar.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es, que nuestros hijos estén mejor que nosotros, como nosotros estuvimos mejor que nuestros padres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No ir a votar es el triunfo de los corruptos y de los ineptos, de los que usan la democracia para llenarse los bolsillos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El voto es obligatorio, pero sobre todo es un derecho.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No permitamos que haya cada día más pobres y más crímenes en las calles.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No es lo mismo el que se enriquece en el Estado metiendo la mano en la lata que el que trabaja con honradez en bien de la comunidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única salida es mayor compromiso y participación para tener mejores dirigentes y una mejor democracia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con el voto se puede expulsar a los delincuentes y a los patoteros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2119
+}

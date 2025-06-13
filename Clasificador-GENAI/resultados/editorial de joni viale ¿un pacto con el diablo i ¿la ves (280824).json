@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.779,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Hay pacto con el diablo? ¿Sí o no?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, cuidado, porque el pacto con el diablo es como el populismo: es muy tentador al principio, pero muy peligroso.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una pregunta que ahora le vamos a plantear al ministro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Va a seguir apoyando la candidatura del hijo?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No, el hijo es funcional a Cristina y el presidente Milei transó con Cristina para...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Hay un pacto de impunidad a favor de Cristina Fernández de Kirchner?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí me sorprende la paciencia que tuvo el pueblo para bancarse un asesinato, el de Nisman.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente lo entendió.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una ola de libertad muy difícil de frenar, que no es Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay más lugar para que impriman cinco bases monetarias.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "esa misma gente, esa misma sociedad que está haciendo un esfuerzo, estamos haciendo un esfuerzo descomunal para lograr que esto más o menos funcione, jamás le podría perdonar al gobierno cualquier mínimo acercamiento y/o pacto con el diablo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que, justicia, justicia perseguirás.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3207
+}

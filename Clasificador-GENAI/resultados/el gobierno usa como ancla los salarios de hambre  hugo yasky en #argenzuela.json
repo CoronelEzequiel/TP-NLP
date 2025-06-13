@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.121,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno, por su parte, anuncia $279.314 a partir del 1° de diciembre, cuando el costo de la canasta básica de indigencia es de $590.000.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gobierno y empresarios parecen ir de la mano para mantener el salario mínimo en niveles de indigencia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos un salario mínimo vital y móvil que refleje realmente su valor.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos tienen que hacer changas para llegar a fin de mes.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, los empresarios celebran el auge de la bolsa, mientras que el consumo de carne cae, y las ventas de alimentos disminuyen en estas fiestas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los salarios bajos son la herramienta del gobierno para controlar la inflación, pero quienes pagan el precio son los que sufren para llegar a fin de mes.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ni hablar de los jubilados, a quienes además les recortaron el acceso a medicamentos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1681
+}

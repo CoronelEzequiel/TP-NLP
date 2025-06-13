@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "“Regalar heladeras, garrafas, viajes de egresados, planes, platita, lo que sea, lo que venga. Qué triste no escuchar nunca la palabra trabajo, esfuerzo, futuro, porvenir. Los va a volver a derrotar la dignidad del pueblo”.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obviamente se estaba refiriendo al colegio donde sabemos ahora, lo sabe todo el mundo, gracias al ministro de, subrayo esta palabra, seguridad, manda a sus hijas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos frente a un oficialismo sin orden y frente a un oficialismo, a un peronismo que asusta. ¿Por qué asusta? Porque está asustado, porque está frente a la posibilidad de una derrota y vemos reacciones irracionales como ésta que involucra al ministro de seguridad frente a un periodista, un humorista gráfico, que se limitó a emitir una opinión bastante corriente respecto de los subsidios y el reparto de plata de un gobierno que, según dice Alberto Fernández, nos cuida.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue el presidente, el jefe de gabinete, el gobernador, obviamente estaba el intendente, el ministro de trabajo, el secretario general de la presidencia, el ministro de seguridad, a celebrar una inversión de 650 mil dólares, un departamento en Caballito.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el gobierno dicen eso no sucedió, todavía estamos negociando, en el Fondo no desmintieron, tampoco afirmaron, no hacemos comentarios sobre trascendidos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8382
+}

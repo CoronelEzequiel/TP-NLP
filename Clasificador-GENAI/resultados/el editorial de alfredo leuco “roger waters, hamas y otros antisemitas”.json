@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.911,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Lo que nos ocupa en esta columna es su judeofobia recalcitrante y su fanatismo, activismo antiisraelí.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Waters dice allí que los judíos son humanos de forma diferente y que van a matar a todo el planeta.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Roger Waters y minúsculos grupos trotskistas argentinos defienden esto. Son fascistas de izquierda que se disfrazan de antisionistas, que es la nueva forma del antisemitismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La masacre que Hamás perpetró con fusilamientos a civiles, torturas, vejaciones, incineración de personas, de niños, de bebés y violaciones, y con más de 200 secuestrados, fue un día de holocausto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quedó claro que la única garantía de la existencia del pueblo judío es un estado de Israel fuerte que pueda defenderse con contundencia, como lo está haciendo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Waters superó todos los límites al igualar el emblema que es Ana Frank en la lucha contra el nazismo con una periodista palestina que murió en Cisjordania en una situación confusa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En sus delirios enfermizos, dijo que fue Israel el que le enseñó a la policía de Estados Unidos a matar negros cuando asesinaron a George Floyd.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Waters es parte del movimiento llamado BDS (Boicot, Desinversión y Sanciones) que ordena a los artistas que no actúen en Israel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un gran músico y una basura discriminatoria como persona.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2448
+}

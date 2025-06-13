@@ -1,0 +1,96 @@
+{
+  "texto_id": "Unión por la Patria",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a comenzar por esta excelente noticia que son los BRICS, que para la oposición es algo terrible, una entrada al infierno casi.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, tanto Brasil como China son los principales aliados comerciales de Argentina, tanto por la compra de insumos como por las ventas que realizamos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La vaca vieja, la que ya tuvo todas sus crías y la dejábamos morir en el campo porque no tenía valor, encontró un mercado en China.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, Argentina, Jorge, vende el 85% de su producción de trigo a granel a 350 dólares la tonelada.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se ha demostrado en los últimos dos años que esos países, como Estados Unidos y Europa, han emprendido un proceso de reindustrialización enorme.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que pasa es que la única respuesta es negarse por negarse.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Patricia Bullrich dice: “si yo llego a la presidencia, salimos de los BRICS al toque”.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando uno mira las propuestas esotéricas de salir dolarizando, y uno mira por otro lado, Jorge, la capacidad que Argentina, no en el futuro, sino ahora mismo tiene…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya Argentina en materia de energía dio vuelta la ecuación del déficit energético cuando terminamos el gasoducto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, Jorge, somos el cuarto productor mundial de litio e YPF, a través de Y-TEC, una empresa tecnológica, ya está terminando el desarrollo tecnológico para la producción de acumuladores y baterías.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inversión hoy en Argentina está en el 18,9% del producto.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y por qué los empresarios después aplauden el “plan motosierra”?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que propuso este señor Martín Guzmán está en la antítesis del dominio público.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha es macro, textual.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está en la antesala de un proceso de desarrollo y crecimiento extraordinario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque no hay ningún modelo sustentable de crecimiento sin poder adquisitivo del salario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para nosotros, salario es mercado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5988
+}

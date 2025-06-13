@@ -1,0 +1,136 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.292,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La desesperanza, la resignación… hablamos de eso recién.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece algo insensato.  Hemos conversado sobre esto, y la sensación que tenemos es que lo que a nosotros nos angustia, a otros les alegra.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lamentablemente, en mi opinión, ni la dirección ni el método son los correctos, pero como dirigente político, asumo la responsabilidad de lo que ocurre, sobre todo de que haya gente que celebre la situación, que atropelle, que se quede sin trabajo.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Se ha quebrado un contrato social en Argentina, y debemos asumirlo.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Primero hay que entender eso. ¿Se puede volver a la situación anterior? ¿La política argentina, y particularmente el peronismo, puede reconstruir su vínculo con la sociedad? O, ¿ya no existe?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La única forma de salir de estos procesos casi autocráticos, como el que se está viviendo en Argentina y que se profundizará con el tiempo, es con grandes acuerdos nacionales.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Creo que Argentina sale con acuerdos, no hay otra manera.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "El de fondo es que no comparto la dirección; creo que nos lleva a un lugar equivocado. Y el de forma es que el proceso genera mucho daño, un daño irreparable.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que pensar en la gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si lo somos, hay que definir los impuestos, las provincias los cobran, porque la nación es la suma de las 23 provincias más la Ciudad de Buenos Aires.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "No se puede ir del populismo irresponsable al ajuste salvaje.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "¿Para qué sirve el ajuste si la economía no crece? El ajuste no tendrá fin.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que tener un Estado más eficiente.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "El ajuste monetario está secando la actividad económica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si dicen que con esto se ordenará el país, yo creo que no lo van a lograr, y aunque lo hicieran, es ineficiente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que amigarse con la gente, no solo con los dirigentes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que construir a futuro, no aferrarse a la nostalgia del pasado.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "El peronismo debe trascender los personalismos.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Hay que entender que no se puede construir un país sin los demás. Argentina necesita a Cristina Kirchner, Mauricio Macri, Axel Kicillof y a todos.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Yo sigo con mi camino, aunque por ahora sea poco transitado. No planteo algo sin diferencias, sino administrar los disensos.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Seremos una sociedad seria cuando entendamos que pensamos diferente y podemos caminar juntos.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Hay que impulsar nuevos dirigentes, con una mentalidad acorde al mundo actual.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Hay que construir algo nuevo.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Romper sirve para generar un cambio.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Vendrá la etapa de construir, entendiendo el mundo actual e integrando sectores que sienten que la política les daña la vida. Ese es el gran desafío.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    }
+  ],
+  "tokens_procesados": 4028
+}

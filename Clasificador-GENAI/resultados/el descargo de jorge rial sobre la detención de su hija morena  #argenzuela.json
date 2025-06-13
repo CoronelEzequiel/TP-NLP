@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.788,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mi principal preocupación ahora es mi nieto, Amadeo, que está bien.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nunca aprobé su estilo de vida marginal y, a pesar de la distancia, siempre intenté orientarla y ayudarla.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No la justificaré ni intervendré en el proceso judicial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Morena es una mujer independiente que tomó decisiones equivocadas, escuchando a las personas equivocadas, y ahora debe asumir las consecuencias.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quiero privilegios para mi hija; si cometió delitos, debe pagar por ello.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No victimicemos a nadie. Las víctimas son los afectados por los robos, no quienes los cometieron.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1992
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "el_mosquito_rojo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.525,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En Mendoza se está practicando ya con la mosquita mediterránea, la mosca de la fruta, la famosa mosquita de la fruta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta técnica consiste en generar mosquitos estériles. Se llama técnica del insecto estéril.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después, lo demás, todo son medidas temporarias, el tema de la fumigación, el tema del repelente, el tema del mosquito estéril, los pescaditos que se comen los huevitos de los mosquitos que están en las zanjas largas que están en los bordes de los lugares con agua, son todas estrategias, pero la clave acá está en el descacharrizado y en eliminar los criaderos y eliminar al mosquito, cuando se va el mosquito se acaba el dengue, se acabó el dengue y se acabó la próxima enfermedad que transmite justamente este tipo de mosquitos, que es el dengue, el chinkunguña, el chinkungunña, la chikungunña, etcétera, etcétera.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mirá, ahora por lo menos hicieron oídos a lo que pasaba, varias provincias compraron vacunas contra el dengue, con estrategias diferentes quiero decir, a cada uno le parece que es correcto, es por ejemplo, la estrategia de provincia de Buenos Aires con respecto a la estrategia de Ciudad, son distintas, Ciudad vacuna entre 15 y 39 años, desde aquellas personas que hayan tenido o no dengue, la provincia de Buenos Aires de 15 a 59 años que hayan tenido dengue, lo cual también es complejo porque yo pude haber tenido dengue y fue dengue asintomático, y yo no sé si tuve dengue o no, y también la controversia de si la segunda infección por otro serotipo de dengue es peor que la primera o no, ahí depende del libro que agarres, hay un libro en Ciudad, hay otro libro en otras provincias, los dos tienen una verdad a medias, nadie tiene la última palabra en todo esto, pero bueno, estamos en un periodo de tranquilidad todavía, quiero decir esto, yo creo que vamos a tener un verano, ojalá que me equivoque, un verano movidito con el dengue, seguramente como el año pasado, hay vacunas, no de manera tan fluida como había al principio, porque la gente empezó a tomar conciencia de que hay dengue, que la vacuna es la estrategia que puede servir, no está en el calendario de vacunación, quiero también decir esto, están simplemente en algunos grupos como dijimos, con estrategias diferentes, Misiones, Salta, Santa Fe, Córdoba, Ciudad de Buenos Aires, provincias suaves, que son parecidas, y otras diferentes que han comprado vacunas para vacunar a determinados grupos, me parece que la iniciativa está buena, está bien, por lo menos no fueron negativos, tampoco como fue al principio que nos dijeron de la vacunación, que decían no, que esa vacuna no servía, que no había aprobado lo suficiente, es decir, es una vacuna aprobada por el ANMAT desde los cuatro años sin límite superior, que tiene un costo para aquellas personas que no están dentro de sus grupos, y más costo aún, porque es un costo importante de bolsillos, para aquellas personas que ni siquiera tienen un sistema de medicina privada, o de obra social, que puedan tener un descuento considerable para comprar alguna, que es alrededor de unos 100.000 pesos cada dosis, y que cubre los cuatro tipos, y recordemos que son dos dosis de vacunas, por lo tanto el gasto es elevado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3180
+}

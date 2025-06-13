@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Yo creo que no, yo creo que va a seguir, pero quiero traducirte lo que está pasando porque es delicado, es muy delicado y tenemos acelerando la curva.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los gobiernos caen porque se financia el estado de desesperación del gobierno, tiene que ver con su incapacidad, tiene que ver con una corrupción que les puedo asegurar que cuando todo salga a la luz van a ver que nunca hubo un gobierno tan corrupto como este, han estado todos afanando a manos llenas y tiene que ver con que hay un reloj que le está diciendo a Milei: se te acaban los dólares y ahí es donde se te pudre todo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es un momento donde la mafia pasa al ataque, este es un momento donde la mafia pasa al ataque.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este fue candidato a presidente del kirchnerismo, mira vos, y vas a ser de vuelta el candidato el año que viene, seguro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso la violencia. Ahora bien, la situación de Petrovelo, esta, Manuel, me lo voy a desmentir, pero no hay problema, es compleja, es compleja.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo estrenó, digamos, durante la última campaña, pegar en cualquier lado, el ensuciar en cualquier lado, usar a los servicios para perseguir candidatos, sí.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, que el kirchnerismo levante la bandera de los jubilados es aberrante, es vergonzoso y es profundamente cínico.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca se olviden que este chanta fue presidente de Argentina durante 4 años, nunca, nunca en la vida el gobierno anterior usó la plata de las Leliq para aumentarle nada a los jubilados, nada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por lo tanto, lo que están haciendo ahora es un show político para dejar al gobierno knockout y echar a Milei, echar a Milei, es exactamente así.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No tengan duda de que estamos en la fase preliminar del golpe, te guste o no, Milei es así.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 5703
+}

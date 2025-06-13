@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.23,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La cobertura mediática de la condena a Cristina Fernández de Kirchner representó una degradación, no solo del periodismo, sino también de la democracia y la convivencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El martes, Juan Cruz Ávila, entonces gerente de programación de  \"La Nación Más\", visitó a Santiago Caputo, responsable de la imagen de Eduardo Miele y de los ataques a la oposición.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La proliferación de la desinformación se manifiesta en programas como el de Jonathan Biale, quien, con un estilo similar al de Woody Allen, crea narrativas ficticias sin sustento probatorio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Incluso entrevistas a figuras políticas, como la realizada a un representante de \"La Libertad Avanza\" que demostró un desconocimiento total del tema, evidencian la falta de rigor informativo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La presencia de trolls y figuras como Javier Milei, con su retórica violenta, agrava la situación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1449
+}

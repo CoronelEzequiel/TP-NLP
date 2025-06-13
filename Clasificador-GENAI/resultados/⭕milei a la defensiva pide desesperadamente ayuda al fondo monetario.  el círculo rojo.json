@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esa era la lectura predominante casi durante el primer año de gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un antes y un después, evidentemente, de la crisis que se generó a partir de que el presidente promocionó una criptomoneda que disparó su valor, que subió y que estafó básicamente a mucha gente, en primer lugar porque el escándalo sigue.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces esto llevó a que en la entrevista con Jonathan Viale se metiera a Santiago Caputo, la editara prácticamente en vivo, eso quedó mal, se demostró como que está ensobrado, que por lo menos está arreglado, llevó a enfrentamientos como por ejemplo con el Grupo Clarín, que hoy se lo ve, no sé si en modo periodismo de guerra, para decirlo con un clásico, sino por lo menos mucho más opositor.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ruido de fondo de todo este escenario, es lo complicado que se está poniendo para el gobierno por los límites que encuentra el esquema económico tomando como un todo, es decir el dólar planchado, es decir una especie de 'plan platita' para la clase media, que a la vez lo utilizan como ancla para el principal activo que tiene este gobierno que es la desinflación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si vos mandas un decreto necesitas dos tercios para que te lo rechacen, en cambio la ley se puede aprobar por mayoría simple, en ambas cámaras. Bueno, el gobierno decidió, hizo la cuenta y dijo me conviene mando un decreto y trato de que no me lo rechacen y que un acuerdo que no se sabe de qué se trata termina aprobado o de hecho avalado también por el Congreso de una manera rara.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo vamos a ver hoy, muy probablemente, la movilización del 8M, que como todas en Argentina va a ser importante y que es un sector que ha sido muy atacado por este gobierno al margen de las comparaciones históricas digo, va a ser importante, esa va a ser la realidad y lo vamos a ver el miércoles, muy probablemente, de todos los gustos cuando la movilización se terminó transformando también en un catalizador de los jubilados, y los jubilados era una pregunta que se hacía todo el mundo, hasta cuándo vamos a ver en la televisión que le peguen a los viejos todos los miércoles la policía con la hazaña que le pegó, en un momento había aflojado, ahora el último tiempo volvió con todo y se generó esta ola que incluye la 'cinchada' de fútbol, pero qué sintomático.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3632
+}

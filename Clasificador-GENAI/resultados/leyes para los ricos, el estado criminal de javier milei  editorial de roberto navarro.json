@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.114,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Mi ley necesita los votos de quienes manejan la UBA para sacar adelante leyes, leyes que benefician a los ricos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El día anterior, el Estado había ingresado de madrugada a humildes casas de los pobres para disciplinarlos y que dejen de pedir comida.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este Estado propone una ley de inversiones que, si invertís 200 millones de dólares para establecer una empresa nueva hoy, pagás la mitad del impuesto a las ganancias que la empresa que está al lado tuyo y que funciona hace 20 años.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado está haciendo ricos a pocos y pobres a muchos con las medidas que toma todos los días.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese Estado decide lograr el equilibrio fiscal quitándole lo poco que reciben los pobres, pero a la vez le baja el impuesto a la riqueza a los ricos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado de Milei es un Estado más presente que nunca.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Estado de Milei, ahora sí, es una organización criminal.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1670
+}

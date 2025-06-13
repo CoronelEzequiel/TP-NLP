@@ -1,0 +1,41 @@
+{
+  "texto_id": "Juan Jorge Real",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.047,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La verdad, prefería que se pusieran remeras que dijeran \"Repartan los alimentos\", porque, en última instancia, el centro no debe ser ni Petovello, ni Grabois, ni los movimientos sociales; tiene que ser la gente que pasa hambre en un país donde se duplicó la indigencia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que me indigna, y me parece de un sadismo e irracionalidad absolutos, es que, en vez de resolver un problema concreto, siguen enfrascados en sus guerras internas o en su conspiranoia de que hay un complot marxista, kirchnerista, peronista, populista…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es sadismo, o un plan de gobierno. Es lo que el gobierno se trazó y cumpliría si no estallara todo. Creo que hay un elemento dentro del plan de gobierno: la miseria planificada (Rodolfo Walsh).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para ustedes, la justicia social es una aberración; para nosotros, es el principio basal de la convivencia democrática.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Han hecho un daño gigantesco e innecesario por sus objetivos políticos. Matar de hambre a la gente… ¿cuál es el sentido?",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras no vea que no pasa nada, seguimos de cerca el tema.  Te agradezco la charla.  Sigamos haciendo fuerza porque perder esta batalla nos degrada a todos como sociedad y es aceptar la deshumanización en un punto extremo que no creo que se pueda revertir.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3693
+}

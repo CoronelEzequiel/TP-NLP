@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.735,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Milei, que lo sabe, se muestra tan feliz que, cada tanto, desafía a su interlocutor ocasional y le pregunta, como lo hizo muchas veces, desde la campaña hasta ahora: \"¿Cuál es la diferencia entre un genio y un loco?\"",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno disfruta de la intensa racha de buenas noticias.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La seguidilla de buenas noticias también incluye un anuncio de alto, altísimo impacto, como hablábamos con Daniel Santoro: la suspensión inmediata de las dos asignaciones especiales o jubilaciones de privilegio de Cristina Kirchner, y esto fue horas después de haber sido condenada por corrupta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei logró un encuentro cara a cara de 45 minutos con el presidente electo Donald Trump, donde hablaron, según tengo entendido, sobre la hoja de ruta de la relación bilateral.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, en Buenos Aires, Santiago Caputo, Manuel Adorni y Sandra Pettovello, creo que Patricia Bullrich también, volvieron a cargar de sentido, un sentido que a una parte de la sociedad le encanta y a otra no, a la denominada batalla cultural.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sí se puede constatar que, así como la mayoría del sistema político no vio venir la victoria de Milei, tampoco sabe ahora cómo enfrentarlo, porque el posicionamiento político del presidente coloca a la mayoría de sus adversarios en un lugar incómodo, sospechoso, pasado de moda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que su autenticidad es lo más valioso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Prometió bajar la inflación y lo está haciendo, porque prometió el ajuste más grande de la historia y lo está haciendo, porque prometió terminar con los piquetes, volver el orden a la calle y los gerentes de la pobreza, y lo está haciendo, y porque con sus últimas decisiones responde a una demanda que atraviesa toda la sociedad: juicio y condena a los chorros, a los corruptos, y que devuelvan la plata que le robaron al Estado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por su parte, los dueños y los hijos de las empresas más grandes de la Argentina no tienen de qué quejarse, al contrario, un informe que acaba de publicar Melisa Reinhold para La Nación, basado en un reporte de Cocos Capital, revela que las 21 empresas con mayor volumen de operaciones en la bolsa aumentaron su valor en un 130% en comparación con la misma fecha del año pasado.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ya se empieza a notar, cómo analistas políticos siempre críticos, honestos intelectualmente, como Jorge Fernández Díaz, hablando de honestidad intelectual, tiene la honestidad intelectual de reconocer, como lo hizo en su columna de hoy en La Nación, que Milei en modo bombero está pagando el incendio provocado por Alberto, Cristina y Massa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6645
+}

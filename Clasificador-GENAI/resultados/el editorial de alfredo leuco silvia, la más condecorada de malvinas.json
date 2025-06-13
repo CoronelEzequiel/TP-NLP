@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.731,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Son deudas eternas que tenemos con los excombatientes y que nunca terminaremos de pagar.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer fue el día del veterano y la veterana de esa guerra, y en este caso, mi plegaria laica está dedicada a las heroínas de aquellos combates que nos dejaron un agujero negro de luto en el alma.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se ofreció como voluntaria para ir al frente a curar a los valientes soldados argentinos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eligió el amor a la patria.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fueron tan solidarias que arriesgaron un helicóptero propio para donarle sangre y plasma al hospital flotante de los ingleses, que se las pidieron en el medio del océano.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ya nadie se atrevía a discriminar a Silvia ni a Susana Masa, ni a María Marta Leme, a Norma Navarro, a María Cecilia Riccieri o a María de los Ángeles Sendés.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una veterana de guerra igual que sus compañeras.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son las mujeres argentinas que perfumaron de coraje nuestras islas Malvinas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2155
+}

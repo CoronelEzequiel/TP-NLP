@@ -1,0 +1,36 @@
+{
+  "texto_id": "audio",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Juan Grabois se posicionó como el mayor referente de la oposición al gobierno, adoptando una postura particularmente similar a la que ahora es presidente, que tomó desde el inicio de su carrera política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Grabois parece haber asumido aquel mandato de Eva Perón de ser la voz de los que no tienen voz en más de un sentido.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vos sos una mierda que le saca la comida a los pobres. ¡Una mierda! ¡Le cagás no vas, choro! ¡Mierda, mierda, mierda, mierda! ¡Mierda, mierda! ¡No tenés credibilidad!",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La figura de Juan Grabois, un dirigente que se define como cristiano, humanista, revolucionario, cuyo vínculo con el Papa es muy conocido, está en la primera plana de la política nacional a través de la denuncia de la retención de los alimentos por parte del gobierno, pero también lo está por un estilo confrontativo que roza la incorrección política a la manera del primer Javier Milei.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Estamos dispuestos a dejar la sangre en la calle para que no haya hambre en la Argentina.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6743
+}

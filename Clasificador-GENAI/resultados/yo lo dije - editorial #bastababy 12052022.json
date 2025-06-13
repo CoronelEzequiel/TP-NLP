@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Que en la época de Macri, Ritondo, reventaba tres autos por día y quemaba 1500 kilos de cocaína.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y hay droga en la política. Y hay políticos que hacen la vista gorda. Y hay políticos que se enriquecen.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y después, ¿sabes qué? Nos persiguieron 20 años con lo que dice el facho, el xenófobo, el misógino.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después va un pelotudo a entregar la patria a... Recién entraba el canal porque hoy están brotados, porque vienen de la 9 de julio.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque el único que vendió la patria hasta ahora y se la entregó a Putin, fue Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que firmaron con el Fondo son ustedes. Los que le piden guita a todo el mundo son ustedes. Y los que le abrieron la puerta de la Argentina a Rusia son ustedes.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1909
+}

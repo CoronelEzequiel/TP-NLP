@@ -1,0 +1,41 @@
+{
+  "texto_id": "La misiva de 33 páginas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.417,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "De hecho, la carta menciona algunos aspectos al respecto, y parece considerar a Macri como el enemigo principal y a Milei como un territorio en disputa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La carta realiza un repaso histórico con una descripción periodística —en el peor sentido del término—, presentando los ciclos económicos y políticos como si fueran el producto de tendencias naturales, \"objetivas\", cambios de época.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como explica Esteban Mercatante en una nota de *La Izquierda Diario*, durante el kirchnerismo se mantuvieron pilares centrales del neoliberalismo en materia de deuda, privatizaciones, reformas laborales y primarización de la economía.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, propone más videovigilancia para la seguridad, desligando la inseguridad de la desigualdad social.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se ofrece un programa con matices: contra la dualización y el déficit fiscal como única causa de la inflación, pero a favor de privatizaciones, reformas laborales y mayor control punitivista.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdadera fuerza de cambio reside en la organización y la movilización colectiva, no en liderazgos mesiánicos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2410
+}

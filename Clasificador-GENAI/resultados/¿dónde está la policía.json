@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La madrugada del lunes 14 de febrero presintió que algo andaba mal, y tenía razón.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ya parece natural tener que explicar a las víctimas por qué, acaso, cumplieron con el instinto de defensa más natural, en vez de recordar que no sería necesario trenzarse a sangre y fuego con delincuentes si la indefensión no fuera la más anómala de las costumbres.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si los últimos minutos de vida de una persona pueden contar su historia, en el caso de Rolando, lo hicieron con justeza.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hace tiempo que el monopolio de la fuerza que ostenta el Estado no significa garantizar la vida de los ciudadanos, pero esos derechos no les importan, y tampoco lo disimulan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los narcos viven más seguros en las cárceles, donde nadie les impide seguir haciendo negocios y hasta tener de empleados a los policías que deberían cuidarnos, mientras a la gente de bien la matan como moscas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Han puesto del revés lo justo: persiguen a los buenos y custodian a los malos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1947
+}

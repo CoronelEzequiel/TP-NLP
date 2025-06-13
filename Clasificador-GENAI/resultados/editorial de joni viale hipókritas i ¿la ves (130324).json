@@ -1,0 +1,111 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El hipócrita es el que te da la mano con una sonrisa pero te apuñala por la espalda, ¿viste?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El hipócrita es el que habla en contra del aborto pero mandó a abortar a su mujer, el peor.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El que presume honestidad pero se llena de guita negra, ¿no?",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El que habla de fiestas del capitalismo pero se compra 70 propiedades en Miami.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo rompió el INDEC para dar una inflación falsa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un gobierno de imbéciles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hombre que habló recién es el que destruyó el INDEC.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hombre fue socio de Milani en una panchería.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este hombre tranzó con la barra de River, yo me acuerdo, para que pusieran una bandera que decía “Clarín miente”.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este hombre que se queja de las importaciones hizo cerrar casi 140 frigoríficos con su política económica desastrosa.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este tipo ahora da consejos sobre cómo gobernar la Argentina. Es hipocresía a la enésima potencia, muchachos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ajuste lo está pagando la gente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peor presidente de la democracia viene a pedir un cambio de rumbo tres meses después de haber perdido por paliza en el balotaje.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El milagro es que Alberto Fernández haya durado cuatro años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta gente defendió la presencia de un avión venezolano iraní con serias sospechas de estar vinculado al terrorismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según Berni, con él en el gobierno, el narcotráfico prácticamente había desaparecido.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los mismos que cenaron efedrina en Argentina para triangular con los carteles mexicanos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es hora de que lo auténtico, la autenticidad, reemplace la hipocresía.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Basta de hipócritas que juegan con la frágil memoria de los argentinos.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pichetto es un traidor.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 8032
+}

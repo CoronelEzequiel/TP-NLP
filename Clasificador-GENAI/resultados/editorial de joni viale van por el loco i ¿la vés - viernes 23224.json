@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.771,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Qué le genera cuando dice que el Congreso es un nido de ratas? Bueno, yo creo que tiene sus facultades mentales alteradas realmente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo soy una persona que tiene problemas de salud mental. ¿El presidente? Sí, sí, sí.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que habría que analizar si este muchacho está en condiciones de seguir conduciendo los destinos del país.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por primera vez el kirchnerismo te blanquea en vivo y en directo el mecanismo institucional por el cual quieren echar al presidente ahora: juicio político.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo no quiero que este proyecto político, el de Milei, le vaya bien. Quiero que le vaya muy mal. Quiero que fracase. Quiero que se hunda.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso van a seguir diciendo que está loco. ¿Y sabés qué? Cuantas más cajas toque, más loco va a estar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Condenado por peculado, Guillermo Moreno. Destruyó el INDEC. Tranzó con la barra de River con la bandera \"Clarín miente\", ¿no?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4568
+}

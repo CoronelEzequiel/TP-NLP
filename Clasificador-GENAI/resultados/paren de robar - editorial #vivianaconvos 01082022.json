@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¡Paren de robar!",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que elegir entre ineptos o corruptos, y en Argentina, los ineptos son corruptos y los corruptos son ineptos, no tenemos suerte, estamos meados por elefantes.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que lo que tenemos que hacer es tercerizar la Argentina, porque vos decís, entre la red de Kisich y la red de Merkel, ponle que digamos, tercerizamos, le ponemos todos los bolsos de López y le ponemos a Angela Merkel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los K usaron el poder para hacerse mega ricos y para millonarios. Donde hay una necesidad, el kirchnerismo la convierte en un negocio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su alegato, el fiscal de la causa Vialidad habló de una matriz extraordinaria de corrupción. Acusó a Néstor y a Cristina de implementar un esquema para beneficiar a Lázaro Báez.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si se comprueba que son corruptos, votaría igual a los Fernández. Es una moral absolutamente ambigua, la de estos votantes del kirchnerismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7267
+}

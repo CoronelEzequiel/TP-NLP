@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.708,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La justicia es el pilar fundamental de la República.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alguien podría haber asesinado a Cartacía, y también al fiscal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De la misma manera que lo hicieron con Nisman.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, los fiscales y los hombres de la justicia que trabajan con honestidad e investigan a las mafias, pueden convertirse en otro Nisman sin problema alguno.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Nisman murió, la investigación sobre el pacto con Irán y otros asuntos relacionados con la AMIA se detuvo.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, la impunidad prevaleció.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 884
+}

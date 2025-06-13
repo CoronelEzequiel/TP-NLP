@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La culpa es del gobierno que no la vacunó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el único lugar donde todavía tenemos que andar como en Medio Oriente, con túnica, barbijo, es acá porque no nos vacunan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, te pido brevemente, un espacio corto, o largo, para hablar de Cuba, pero no para nosotros, sino para que se entere Alberto que hubo un señor que se llamaba Fidel Castro, que fue un dictador, que después está Raúl Castro, y ahora hay otro, y que el pueblo cubano estuvo sometido 60 años a la miseria, a la desesperación.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto, ¿no se enteró todavía, maestro?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque hace 40 años que estamos en democracia… o no es ni democracia, espero que no me caigan encima por este nombre de “Argenzuela”, que lo armé yo y ahora se lo quedó otro para hacer un programa de radio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero muchachos, les digo tanto a Macri como a Patricia Bullrich, como a Alberto, como a Cristina, el tema no es llegar, sino para qué.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y no le permitamos a estos ineptos, en estos dos años que quedan, a ganarse lo que falta de la Argentina para dejarnos en la ruina como los países que admiran.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3246
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "La medida debe ser temporal",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.71,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Claro, si buscan en Google, hay muchas películas con ese nombre o similares. Y aquí tienen otra “trampa”: Cristina y Alberto Fernández.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La verdadera trampa, la de Alberto y Cristina y sus cómplices, es peor porque nos está destruyendo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos están empobreciendo día tras día.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, viernes 22 de julio, el presidente volvió a culpar al campo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A lo largo de 12 años y medio, ya perdieron hasta la mínima cuota de credibilidad.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno terminó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en año par, y algo no está funcionando.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En 2019, Macri creía que iba a ganar, pero el mal manejo de la economía en 2018 y la campaña del peronismo lo hicieron perder.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es un caos económico y político fenomenal, un descontrol total.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Batakis está ahí porque es lo que hay. No iban a conseguir a alguien con prestigio y trayectoria que se siente ahí con La Cámpora y Cristina atrás.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2965
+}

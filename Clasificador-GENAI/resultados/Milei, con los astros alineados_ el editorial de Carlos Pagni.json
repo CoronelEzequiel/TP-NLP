@@ -1,0 +1,31 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, *Milei* entendió que, llegando al gobierno de manera muy débil, desprovisto de capital institucional, de diputados, de senadores, de gobernadores, de anclaje en el mundo sindical, con todas esas limitaciones, lo que tenía era un colchón de opinión pública y que tenía que satisfacer la lealtad de esa opinión pública, que lo sostenía con un tema: revertir el problema de la inflación, que es revertir el problema del deterioro del ingreso, probablemente la variable que más determina el voto cuando llegan las elecciones.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, todos estos números que implican una gran recomposición económica en los precios, que implican una mejora en los niveles de aceleración de los precios, es decir, una derrota relativa de la inflación, porque, como vimos, queda estabilizado en números mensuales altos, 2% sigue siendo mucha inflación, la insinuación de que, en determinados sectores, la actividad se recompone. Todo eso contrasta con estos números que vamos a ver ahora, que son los números de empleo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y muchos atribuyen a ese dato, a la generosidad con que el fisco ha asistido a los más débiles con una transferencia directa, ya no por la vía de asistir a los comedores comunitarios, tampoco por la vía de pagar a las cooperativas que estaban intermediadas por los movimientos sociales. La AUH y la tarjeta alimentar son los dos recursos con los cuales el gobierno atiende a los más vulnerables, y para muchos son la explicación de la paz social con la que estamos asistiendo a estas fiestas, a este fin de año, en un año difícil de ajuste.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pregunta, a propósito de todo esto y de los temas que estamos mencionando, ¿finalmente qué va a hacer **Vázquez** con Tabacalera Zarandí? ¿Se la va a sancionar o no? Bueno, ahora depende de **Paso**. **Vázquez** parece que está congelado, está esperando que le den instrucciones. Y ahora, después de la nota de **Alconada Mon**, probablemente más congelado. Otro escándalo de estos días, se van entrelazando los escándalos en este fin de año: la fiesta del fiscal **Ramiro González**.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9023
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "El relato de [Nombre del relator]",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Considera que el gobierno kirchnerista ha generado una profunda crisis moral e institucional, manifestándose a través de la corrupción, la impunidad y la polarización.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Critica la violencia política, el uso de la intimidación y la manipulación de la información por parte del kirchnerismo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se muestra esperanzado en un cambio político y en la posibilidad de una reconstrucción del país.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalmente, expresa un cierto optimismo cauteloso por el futuro, a la vez que anticipa la necesidad de rendición de cuentas de los responsables de la situación actual.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se lamenta del daño causado a las futuras generaciones, la falta de oportunidades para sus hijos y nietos, y la destrucción del tejido social.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 973
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei constituyó su personalidad pública, evolucionó en el afecto de un sector importante de la sociedad argentina, generó expectativa, ganó la elección haciendo palanca sobre una base, sobre un punto de apoyo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese punto de apoyo es un nivel pocas veces visto de desencanto de buena parte de la sociedad con el sistema político, con la dirigencia política, un estado muy profundo de frustración que se traduce en indignación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su estrategia es identificar un enemigo y proponerle a esa parte de la sociedad derrotarlo. Ese enemigo es la casta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La promesa de Milei es resolver los problemas a partir de la derrota de un enemigo, que es la dirigencia convencional, sobre todo la dirigencia política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No necesitamos ilustrar esto con la infinidad de expresiones, movimientos, escenografías que monta el gobierno para que tengamos claro que aquí se trata de una guerra entre amigos y enemigos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema que plantea una paradoja, una contradicción, para Milei un dilema. Que la casta es más numerosa, él contesta con esa cita célebre del libro de los Macabeos: \"No importa cuánto sea el ejército, cuán numeroso sea el ejército que tenés por delante, lo que importa son las fuerzas del cielo que están detrás tuyo\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero estamos hablando de un equipo político, de un líder que carece de fuerza parlamentaria, que carece de anclaje territorial, no tiene un solo gobernador que sea propio, que sea de su partido, que carece de influencia directa, felizmente, sobre la justicia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En su enfoque amigo-enemigo, en esta consigna de Javier Milei que dice: \"Yo no doy un paso atrás\", lo dice, no sabemos si lo hace, después vamos a ver hasta dónde eso es realidad o marketing, hay un principio básico de la política populista que aparece por todos lados en el discurso presidencial.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Anoche Milei le explicó a Luis Majul que él, y esta es una fantasía recurrente en todos los liderazgos populistas, no tiene intermediación entre él y la sociedad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es importante porque es una disrupción, es una contradicción entre un discurso y una práctica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8305
+}

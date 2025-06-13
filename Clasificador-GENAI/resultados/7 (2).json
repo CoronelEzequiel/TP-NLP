@@ -1,0 +1,41 @@
+{
+  "texto_id": "Germán Ángel, presidente del club Torino de Rosario",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.117,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es importante la formación, ¿no?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y sí, viste, nosotros hacemos un gran trabajo, no solo deportivo, sino social, de inclusión de chicos que se acercan al deporte.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, por lo menos yo no lo haría. ¿Qué les digo a los chicos que no pueden pagar una cuota? Que se queden en la calle?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, el deporte solo será para quienes tengan dinero para pagar una cuota societaria (pongamos $20.000 aquí, prácticamente se bonifica el 50% de las cuotas porque muchos no llegan).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos un refugio para una copa de leche, un mate cocido…  tenemos que conseguir un quincho, chapas…  golpeamos a la municipalidad, a otras instituciones…",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a dar una mano a los clubes de barrio y de pueblos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2317
+}

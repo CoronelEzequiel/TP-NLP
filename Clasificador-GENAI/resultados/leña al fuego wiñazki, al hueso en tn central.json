@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente, al primer día de flexibilización de las restricciones, emitió fuertes declaraciones contra los distritos que retomaron las clases presenciales, afirmando: \"Los distritos con clases presenciales están jugando con fuego, y el fuego va a quemar a la gente\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta crítica apuntó principalmente a Horacio Rodríguez Larreta, jefe de gobierno de la Ciudad de Buenos Aires, que reanudó las clases en nivel inicial, primaria y parte de la secundaria.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobernador Juan Schiaretti refutó las declaraciones presidenciales, asumiendo la responsabilidad de la decisión provincial.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las declaraciones presidenciales parecen señalar a las clases presenciales como el nuevo responsable del aumento de contagios, después de haber culpado anteriormente a otros factores como los runners, los turistas, la Ciudad de Buenos Aires e incluso al tenista Novak Djokovic.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta narrativa preocupa a padres, alumnos y docentes, quienes perciben la frase \"el fuego va a quemar a la gente\" como una amenaza directa a la salud de sus hijos, a diferencia de la Sociedad Argentina de Pediatría, que mantiene una postura contraria.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1232
+}

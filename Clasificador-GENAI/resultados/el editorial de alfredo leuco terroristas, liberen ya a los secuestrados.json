@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.86,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy se cumple un mes de los crímenes de guerra y la invasión al territorio de Israel perpetrados por el grupo terrorista Hamás.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mundo democrático exige la liberación inmediata de todos ellos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Foro Argentino contra el Antisemitismo, en su documento fundacional, asegura que todas las víctimas lo fueron por el solo hecho de ser judíos y que la humanidad ya guardó silencio una vez, y el resultado fue Auschwitz.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Desde el régimen nazi de Adolf Hitler no se había matado a tantos judíos, y muchos murieron durmiendo en sus camas, otros fueron quemados vivos, mutilados, torturados delante de sus hijos o de sus padres, bebés que fueron degollados y mujeres violadas que fueron exhibidas desnudas como trofeos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quienes creemos en la libertad debemos exigir a gritos a todos los gobiernos que todos los rehenes sean liberados de forma inmediata.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay 21 argentinos, y el gobierno de Sergio Massa, Alberto Fernández y Cristina Fernández de Kirchner se mueve con una lentitud y con una frialdad muy parecida a la complicidad.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Insisto, los organismos de derechos humanos podrían decir \"con vida los llevaron, con vida los queremos\" o \"devuelvan a los nietos\", pero como tienen puesta la camiseta del cristianismo, callan y otorgan.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El fascismo de izquierda inventó una nueva forma de antisemitismo que disfrazan de antisionismo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Muchos desinformados o cómplices piden el cese del fuego para frenar la defensa de Israel, pero no se puede mientras no liberen a los rehenes; son civiles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un crimen de guerra que se sigue cometiendo, no han sido capaces ni siquiera de dar una lista oficial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2478
+}

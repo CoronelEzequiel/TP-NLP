@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Porque no se merece que le dé la mano. A ver, digamos, es un camaleón. O sea, es el ministro de la 125. O sea, dejó al país al borde de una guerra civil.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es bien casta, digamos, las cosas que proponés son las cosas que hunden al país. Cuando te dice, no, no sé dónde estamos, en el Estado Grande. Más Estado, menos libertad. En el límite. ¿Sabés qué? Una presión fiscal del 100%, ¿sabés cómo se llama? Esclavitud. ¿Querés vivir en esclavitud? Yo no.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estaba con un grupo de gente cuando estábamos así, pendientes de la votación, y se vivió con, con más vasos chocando copas, no, por menos del campo nacional y popular, se vive así.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei, este fin de semana, hola, Cristina, acabo de anular los aumentos del sueldo de todo el gabinete, ya que la vi tan preocupada por las jubilaciones, ¿qué les parece si le anulo los 14 millones que cobra usted como jubilación de privilegio?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la hipocresía: alquilerismo, me pongo la remera inka, pero es de La Costa, critico ferozmente a Mercado Libre, pero compro acciones de quién? De Mercado Libre, defiendo Aerolíneas, pero viajo en primera de American, eh, critico las prepagas, pero los también de Aflu, defenestro la ciudad, pero vivo en Puerto Madero o en Recoleta, castigo al DNU de Milei, pero te encierro a vos por decreto, dicen una cosa y siempre, siempre, siempre hacen la otra, hablan con la izquierda, le pegan con la derecha, no pasa, eh.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7892
+}

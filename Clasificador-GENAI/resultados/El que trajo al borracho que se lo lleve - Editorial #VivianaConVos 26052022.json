@@ -1,0 +1,121 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.848,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "No me tomen por pelotudo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa es que la banda está borracha.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos un país lógico, señores, serio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un país sin mentiras, un país sin miedos, sin narcos, sin hambre, sin miseria, con justicia, sin pobreza, sin piquetes, sin que te maten por un par de zapatillas o por un celular.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández obtuvo un crédito del Banco Santander por tres millones de pesos.",
+      "score": 0.7,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mensaje del presidente a la sociedad es cada vez más claro: los poderosos y los ricos pueden cagarse en absolutamente todo, pero vos no.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿De qué igualdad me hablan? Mentirosos, cínicos, caraduras, delincuentes, dan vergüenza.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos patriotas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero la gente para pagar impuestos. Primero la gente para perder derechos. Primero la gente para que nos encierren.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un gobierno que está totalmente borracho.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández tiene menos palabra que un mudo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ginés González García lidera un equipo que analiza la reforma de la salud.",
+      "score": 0.75,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De ser la París de Sudamérica, somos ¿qué somos?, Venezuela.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina sigue tirando manteca al techo. Mirá, continúa el despilfarro.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que crece en la Argentina es la indigencia, la miseria, los planes.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández opinó sobre el consumo de vino. Por ahí dice Alberto Fernández \"hay que producir vino sin alcohol\".",
+      "score": 0.7,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina y Argentina, no sé mucho de fútbol, tienen mucho en común, los colores, por ejemplo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que si sigue así, Juntos por el Cambio va a ser un zoológico.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno de delincuentes.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este país es el país de la impunidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado es como un socio vago, vago, que te roba y no te da nada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De ser la París de Sudamérica, somos ¿qué somos?, Venezuela.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7936
+}

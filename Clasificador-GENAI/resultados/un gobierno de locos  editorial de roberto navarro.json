@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.425,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lemoyne insultó a Esper llamándolo \"maricón\". Cunha Lebarón afirmó que en Argentina se acabó el género, y Villa-Roel amenazó con juzgar a todos los montoneros, sin aclarar si se incluía a sí misma.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este grotesco escenario, con sus toques de humor negro y mucha crueldad, se desarrolla mientras los salarios cayeron un 15% en promedio en los pocos meses de gobierno. La pobreza alcanza el 58%, las clínicas pretenden cobrar copagos a los jubilados, los colectivos anuncian un paro indefinido y la recesión amenaza con ser la más profunda de la historia argentina, como suele afirmar Milley.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo se debate entre aliarse con defensores de genocidas, disputar la presidencia del PJ e intentar colocar jueces afines para evitar problemas judiciales.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si prestaran atención a las voces del pueblo, escucharían al niño que, antes de dormir sin cenar, le pregunta a su madre: \"Mamá, ¿quién tiene la culpa de que tenga hambre?\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1074
+}

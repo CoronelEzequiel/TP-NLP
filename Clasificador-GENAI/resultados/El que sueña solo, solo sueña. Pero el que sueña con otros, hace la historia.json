@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.317,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y vamos a abrir el programa primero aclarándoles que esto que van a escuchar, esta música, milonga del 900, van a escuchar primero la voz de Antonio Cafiero y de Aldeana Varela.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué hubiera pasado en Argentina y en el peronismo contemporáneo si Cafiero le hubiera ganado la interna a Carlos Menem en 1988 y él hubiera sido presidente de la Argentina, sin llevar el peronismo hacia un extremo económico de derecha, generando las reacciones posteriores y la crisis del 2001 y 2002?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dejemos a Cafiero no solamente como un homenaje a una figura importantísima de la historia argentina, sino también por lo que representa el mensaje de Cafiero, de concordia, de unión.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y que el mensaje de Cafiero, aunque un poco desactualizado, y hablando de una Argentina que ya no existe, persista la idea de la concordia, el entendimiento, el respeto al otro, de un peronista hablando de la grandeza del radicalismo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Evidentemente, la sociedad argentina eligió un hedonismo más moderno, que era el de Carlos Menem en ese momento, pero ¡qué distinto hubiera sido este país en los 90 presidido por Cafiero, sin plantear además la antinomia que luego se planteó con el radicalismo y con Alfonsín!",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No me gusta el empedrado ni me doy con lo moderno, descanso cuando ando enfermo y después que me he sanado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2845
+}

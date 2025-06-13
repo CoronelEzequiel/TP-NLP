@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.233,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Perteneció al Cuerpo de Ingenieros del Ejército Argentino y lamentablemente no pudo ingresar al acto conmemorativo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Venir hasta aquí para encontrarse con esta burocracia estúpida no suma nada. Solo genera bronca.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que todos los veteranos fuimos víctimas de eso, incluidos los mandos. Fue algo orquestado desde arriba.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El trato británico fue excelente, muy correcto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recuerdo bien cuando volvieron, ese intento de ‘desmalvinizar’ y esconder lo sucedido… ¿te pasó?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero también hubo cobardes en la cúpula del ejército.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1839
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.386,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mi trabajo siempre fue tratar de agrandar el espacio, no achicarlo, abrir puertas, no cerrarlas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante la falta de consenso, di un paso al costado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se trata de solucionar problemas y cerrar grietas en el Poder Legislativo, grietas que a veces no son tan graves como parecen.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vale la pena intentarlo, porque detrás están los argentinos que sufren y no pueden esperar toda la vida a que encontremos un punto en común: radicales, peronistas, desarrollistas, de izquierda, de derecha… a veces, urge la discusión por el bienestar de los argentinos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos un reglamento; hay que investigar quién está detrás de esto.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre digo: no desplumemos más a la gallina. Hay que agotar el diálogo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No soy de la vieja política, de las malas costuras.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1998
+}

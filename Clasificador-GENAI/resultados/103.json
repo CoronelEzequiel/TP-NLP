@@ -1,0 +1,41 @@
+{
+  "texto_id": "El hermoso amanecer",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero si ustedes cuando ganaron, nosotros salimos con la cara de Gavi. ¿De qué hablamos?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí me dijeron, la rosca va del 5 al 11 de noviembre, ahí se definen las listas, hasta el 14 hay tiempo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, ahora con una derrota, aparece otro escenario y principalmente lo que aparece es la posibilidad concreta de que juegue Mauricio Macri en la oposición.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Majul operó vergonzosamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El objetivo de ayer fue sacarlo a Massa, chicos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos más hablando en la entrevista. Una es lo de la investigación del Fondo Monetario. El Fondo Monetario va a investigar de verdad al gobierno de Mauricio Macri. ¿A dónde mierda se fue la plata?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6932
+}

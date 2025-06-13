@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina está atrapada en una vieja trampa cíclica en la que su economía cae, reiteradamente, desde hace 40 o 50 años de manera dramática: la falta de dólares.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa volvió a arrodillar al país delante del sector agropecuario, ofreciendo de nuevo un dólar especial para aquellos que, por razones de precio, no se ven tentados a liquidar la producción que tienen retenida.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el gobierno del desendeudamiento, según la mitología de Cristina Kirchner, o debería serlo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gobierno, falta de dólares, emergencias y decisiones que se toman al calor de esa necesidad y que comprometen problemas de largo plazo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina no tiene razón. Cristina no tiene razón. Cristina es la razón.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8064
+}

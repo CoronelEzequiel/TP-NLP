@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.493,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Argentina parece ser un automóvil que se maneja con todos nosotros a bordo, pero en lugar de parabrisas tiene un gran espejo retrovisor.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siempre parecemos estar mirando hacia atrás, al menos buena parte de la clase política.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner habla de Macri y de problemas que parecen inamovibles: la inflación, el FMI, el dólar, el desempleo, la pandemia y el confinamiento del año anterior, que parece repetirse.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Resulta llamativo que Fabrizio Macri haya declarado que si Juan Domingo Perón estuviera vivo, se anotaría en Juntos por el Cambio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, con una actitud ambigua, elogió a Horacio Rodríguez Larreta en un tuit.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner celebra que un dirigente opositor tenga vivencias similares respecto a la dictadura.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá Argentina comience a mirar hacia el futuro, sin olvidar el pasado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1507
+}

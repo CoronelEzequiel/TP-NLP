@@ -1,0 +1,36 @@
+{
+  "texto_id": "riquelme",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.28,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sabemos que por ahí se valora poco lo que consigue Boca, pero ver a la hinchada tan contenta, eso hace que uno se sienta bien.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, tenemos clarísimo que la hinchada está bien. Está bien porque sabemos que al club lo vamos a cuidar mucho.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos volviendo a ser un club de fútbol, y es solamente lo que queremos: queremos ser un club de fútbol, queremos cuidarlo, queremos competir.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No es mi obligación. Yo a mi club se lo debo todo. Yo soñaba con ser futbolista, a lo mejor. Con ser futbolista ya estaba más que feliz. Quería comprarle una casa a mi mamá.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros nos vamos a quedar todo el tiempo que la hinchada quiera.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6070
+}

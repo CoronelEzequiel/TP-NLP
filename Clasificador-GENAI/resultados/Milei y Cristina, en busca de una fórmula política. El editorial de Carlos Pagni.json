@@ -1,0 +1,46 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.514,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay desconcierto en el peronismo, ¿por qué? Por una derrota muy importante, probablemente, si uno mira la trayectoria de ese partido a lo largo de la historia, una derrota histórica.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La mayoría del público, la mayoría del electorado, eligió otro instrumento para cambiar de gobierno y eventualmente para castigar al gobierno anterior.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Podríamos recurrir, para caracterizar lo que está pasando en la personalidad de Milei, y tal vez a él le gustaría, a categorías bíblicas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mucha gente dice: ¿por qué no fue a presentar su plan de gobierno, a vender el país, a buscar inversiones? Y él no, fue a Davos con un mensaje profético para todo Occidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno recuerda el gobierno de De la Rúa, y mucho más el gobierno de Duhalde, son gobiernos que tienen que implementar todo lo que se les ocurre en acuerdo con una especie de colegio de cardenales, de colegio de gobernadores que son, justamente, los líderes provinciales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este gobierno está llevando adelante un ajuste fiscal imprescindible, eso lo digo yo, no lo dice ella, sobre la base de avanzar sobre las finanzas provinciales y ella está razonando en estos términos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a empezar Odisea en un diálogo con Juan Manuel Olmos, que institucionalmente es el auditor general de la Nación, después vamos a hablar, como ya les dije, con Pancho Olivera y Daniel Bilotta sobre la situación social en la provincia de Buenos Aires desde todos los puntos de vista, Anita P. Regi revuelve, después de una larga estadía en EE. UU. y va a poner el discurso del viernes de Milei a la luz de la inteligencia artificial, una gran decodificación de todo lo que Milei dijo y no dijo el viernes, y quédese para el whisky, porque Carola Gil reabre “Quenan” en “Real Estate” y nos va a hablar de algunas propiedades de famosos de la política flamantes en Punta del Este y otros balnearios del Uruguay, y en la biblioteca Quenan, que también se reabre, Editorial Quenan lanza el gran libro de Alberto Fernández, recién salido del horno, aseguró, lo llevaron preso, empezamos Odisea.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9015
+}

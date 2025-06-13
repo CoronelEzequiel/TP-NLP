@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La media sanción del proyecto de ley de Bases empieza a consolidar un proyecto de poder.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este apoyo popular se nutre fundamentalmente del antiperonismo histórico, sumado a un creciente antikirchnerismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La mayoría de los argentinos no es de extrema derecha.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una posición que no repita errores del pasado, que no represente solo a quienes se consideran kirchneristas, que se presente ante la sociedad como alguien que interpreta los desafíos de la época",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Kicillof hace bien en no responder a los agravios de La Cámpora; su forma de acumulación de poder debe darse por la prepotencia del trabajo, como decía Roberto Arlt.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1577
+}

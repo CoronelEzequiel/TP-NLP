@@ -1,0 +1,26 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El Torino se fabricó, si no me equivoco, entre la década del 60 y el 70,  en la fábrica IKA-Renault.  Tiene una historia particular: compitió en Europa, incluso en las 24 Horas.  Aunque no recuerdo bien los detalles, creo que ganaron y luego fueron descalificados, pero la realidad es que ganaron.  Argentina era capaz de construir un auto de competición de primer nivel mundial. ¡Increíble!",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los pilotos exitosos suelen tener mucho positivismo. Piensan en ganar en todas las carreras, aunque la mayoría no lo consiguen.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esos momentos aprecias a quienes realmente están ahí. El WhatsApp explotó el domingo, a diferencia de los pocos mensajes que suelo recibir.  Los \"amigos del campeón\" aparecen en los buenos momentos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1569
+}

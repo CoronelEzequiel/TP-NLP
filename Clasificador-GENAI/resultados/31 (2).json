@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que su gestión en materia de desregulación, el decreto de necesidad y urgencia (DNU) y la ley de base, en lugar de buscar consensos, se impuso al Congreso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno tiene un plan económico, pero es un plan económico enfocado exclusivamente en cuestiones monetarias y sin percepción de la realidad de la economía argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre se ha intentado atribuir una ideología al campo (antiperonista, liberal, promercado), pero la ideología del productor no le importa al gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno, supuestamente fundamentalista de la no emisión, sí está emitiendo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Materialmente, la dolarización no es posible, sin contar los bonos del tesoro que también deberían dolarizarse.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno es extraño: dos ministros de Economía y ningún ministro de Educación, a pesar de que la educación es un tema central en el acta de mayo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1944
+}

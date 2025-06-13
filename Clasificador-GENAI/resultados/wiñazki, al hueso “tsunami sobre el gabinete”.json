@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.607,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto no es responsabilizar a cada ministro de todas estas situaciones conflictivas, pero si se evalúa lo que está pasando en diferentes áreas, la verdad es que no hay una buena respuesta en muchos casos.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Insisto, no es obviamente responsabilidad total de Juan Cabandié, pero ha pasado un año de gestión y parece que el gabinete, como dijo Cristina Kirchner, tiene áreas donde efectivamente no funciona, donde todavía no hay respuestas a problemas estructurales, pero tampoco grandes ideas o proyectos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Daniel Arroyo tiene muy buenas intenciones, siempre es muy bien valorado, y también corre tras lo que produjo la pandemia, ¿no?",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La inseguridad es un problema estructural en la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El campo sigue muy enojado con la Nación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si solamente actúan en temas que tengan que ver con las denuncias de Mauricio Macri, la Agencia Anticorrupción no fue creada para eso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina es un lugar complejo, pero parece que el gabinete no está caminando.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2296
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Los datos muestran una fuerte disminución de la inflación, un crecimiento económico sectorial (desigual, pero sostenido) y una considerable reducción del índice de pobreza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto representa aproximadamente 8 millones de personas menos en situación de pobreza en un año, y en medio de un ajuste económico.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él mismo afirma ser una persona áspera, poco apegada a las buenas maneras, argumentando que lo importante son los resultados, no las formas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Consiste en seguir eliminando regulaciones, avanzar hacia una mayor libertad económica (este año subimos 70 puestos en el índice de libertad económica, pasando del pelotón de los 35 peores al pelotón medio, habiendo aplicado solo una cuarta parte de las reformas, con 3200 pendientes), avanzar en una agenda de privatizaciones y, en la medida que se apruebe la reforma laboral, en una reforma previsional.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Además, se eliminará cerca del 90% de los impuestos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milei ha planteado un ultimátum a Mauricio Macri: ir juntos en todos los distritos o separados en todos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei defendió a Ritondo en Tucumán, denunciando que es víctima de operaciones políticas por colaborar con el gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2450
+}

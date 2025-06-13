@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esteban Bullrich tiene el cuerpo deteriorado y una lucidez republicana que provoca admiración.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esteban Bullrich tiene autoridad moral y política para darles ese tirón de orejas a los dirigentes del PRO, del radicalismo y la Coalición Cívica.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue un gran ministro de Educación y un senador ejemplar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esteban dignifica la política con sus manos limpias y uñas cortas, con ética y transparencia, y con una vocación patriótica maravillosa en la búsqueda de consensos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene cinco hijos que adora y más de 680 mil seguidores en Twitter.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Muchos buscan alternativas, dice Bullrich, porque nos ven lejos y como parte del problema y no como parte de la solución.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ejemplo es el triunfo en 2015 de la fórmula Macri-Gabriela Michetti, que consiguió 13 millones de votos y se impuso sobre la boleta de Daniel Scioli y Carlos Zannini.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Deja de mirarse el ombligo y Esteban Bullrich mira mucho más adelante.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1795
+}

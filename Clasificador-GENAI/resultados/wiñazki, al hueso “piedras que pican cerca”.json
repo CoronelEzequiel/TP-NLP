@@ -1,0 +1,46 @@
+{
+  "texto_id": "Archivo de log de correcciones",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Manifestantes, algunos con antecedentes penales, apedrearon en Chubut, provincia con un clima social complejo, la camioneta en la que viajaba el presidente Alberto Fernández, junto a su pareja Fabiola Yañez y colaboradores.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Chubut, la bronca social se debe a la propuesta de ley minera, rechazada por gran parte de la población debido a la crisis provocada por los incendios y a las deficiencias en materia de seguridad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aunque cualquier manifestación frente a un domicilio particular es repudiable, se trató de padres reclamando por la educación de sus hijos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ministro de Obras Públicas, Gabriel Katopodis, declaró en \"Tengo Razón Central\" que la agenda ciudadana prioriza el trabajo, la salud y la pandemia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, el discurso presidencial y vicepresidencial parece ajeno a estas preocupaciones, priorizando temas como la justicia, según encuestas,  no prioritarios para el 80% de la población.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chubut enfrenta un déficit de 3000 millones de pesos, problemas de pago de sueldos estatales y la suspensión de clases durante tres años.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A pesar de la oposición social, el gobernador Mariano Arcioni insiste con la ley minera.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1927
+}

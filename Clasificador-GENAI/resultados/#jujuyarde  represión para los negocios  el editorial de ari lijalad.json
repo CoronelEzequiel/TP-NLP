@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.075,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y creo que es incluso peor, porque es una suerte de visto bueno a que Jujuy sigue siendo otro país donde vale todo y donde Gerardo Morales puede disponer de la vida, de los bienes, de la tierra, de los recursos naturales, de los argentinos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque parece extraño recordarlo, pero los jujeños son argentinos y se merecen la misma protección, los mismos derechos y las mismas garantías que todos los argentinos, por ejemplo, que nosotros los porteños.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peor crimen de Gerardo Morales es someter a la miseria planificada a los jujeños y querer llevar ese modelo al resto del país.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Represión y negocios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Represión para los negocios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el sábado vamos a saber quiénes son los candidatos de la represión para los negocios, pero también vamos a saber quiénes son los candidatos que quieren frenar eso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2513
+}

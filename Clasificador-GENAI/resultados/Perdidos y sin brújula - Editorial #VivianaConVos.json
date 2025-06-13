@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno está perdido y sin brújula, y esa tarde lo comprobamos escuchando a Juan Cabandié, que todavía sigue hablando.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un gobierno que no cree en el mérito, entonces cualquiera puede ser ministro, ministro de cualquier cosa.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Corrientes, el gobernador Gustavo Valdés, de Juntos por el Cambio, le ganó las elecciones por más de 20 puntos al Frente de Todos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ustedes, vos que estás en tu casa, ¿le crees a Cabandié? ¿Te parece bien que Cabandié siga siendo ministro? ¿No debería renunciar?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fíjense lo que nos dice el comunista de Puerto Madero: 'Argentina tiene que ser la puerta de entrada para que Rusia ingrese a América Latina de modo más decidido.' Vergonzoso, es un cara dura.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto está con arresto domiciliario, está preso en su casa y da clases de moral con tobillera. Increíble.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les Gordes vayan a trabajar. Les Gordes vayan a laburar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quebraron 200.000 comercios. Cerraron 300.000 pymes. Y se detuvo todo. Cerraron 300.000 pymes y 400 colegios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Faltan 655 días para que se vayan.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5148
+}

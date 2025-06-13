@@ -1,0 +1,46 @@
+{
+  "texto_id": "Leandro Díaz",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.257,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Al intentar ingresar, no figurábamos en la lista. Mi esposa también estaba anotada, y ambos quedamos afuera.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Venir desde tan lejos para encontrarse con una estupidez burocrática… solo genera frustración.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El trato de los británicos fue excelente, muy correcto. Recuerdo el rostro de uno de ellos… fue muy correcto, no puedo hablar mal porque estaría mintiendo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que todos los veteranos fuimos víctimas de eso, incluyendo a los mandos que estuvieron allí. Fue algo orquestado desde arriba, pero uno era muy joven y tal vez no lo percibió en ese momento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, para nada. Hay más muertos en la posguerra que en el combate, muchos por suicidio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Leandro, está claro que cualquier cosa que diga un gobierno, como el discurso de hoy, más a favor de los británicos que de los argentinos, no afecta el cariño que le tenemos a ustedes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo muchos oficiales héroes también, pero la cúpula militar… los Menéndez, los Galtieri… los verdaderos cobardes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2195
+}

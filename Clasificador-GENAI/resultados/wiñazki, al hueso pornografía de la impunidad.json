@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.594,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Un sector del oficialismo, afín a Cristina Fernández de Kirchner, busca el fin de las causas de corrupción, no solo contra la vicepresidenta, sino también contra exfuncionarios, muchos de ellos presos, otros con beneficios o excarcelaciones judiciales.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto no ocurría desde la última dictadura militar (1976-1983).",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sergio Massa, una figura influyente del Frente de Todos, declaró en una entrevista con *El País* que dictar leyes de amnistía o indulto sería un absurdo y un error, quizás actuando como vocero del presidente Alberto Fernández, quien siente la presión de un sector del oficialismo.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La polémica reside en que Edenor, propiedad de Marcelo Mindlin (empresario vinculado al macrismo), fue vendida a un grupo de socios que incluyen a Daniel Vila y José Luis Manzano (accionistas de América TV y A24), y a Mauricio Filiberti (proveedor de cloro de Aysa, empresa administrada por Mariana Garmarini, esposa de Massa).",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "D'Elía amenazó a Massa con información comprometedora sobre el negocio del cloro en Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La comparación entre los mencionados y los responsables de los crímenes de la dictadura (Jorge Rafael Videla, Eduardo Emilio Massera, Orlando Ramón Agosti, Roberto Viola, Armando Lambruschini, Alfredo Astiz, y otros beneficiados por leyes de amnistía e indulto, incluyendo a Firmenich y otros participantes de la lucha armada) es inaplicable.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La exigencia de indultos y amnistías por parte de un sector del gobierno, expresada por un exministro, una ex embajadora y un preso con prisión domiciliaria, es inédita.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como dijo Emilio Mignone, fundador del Centro de Estudios Legales y Sociales (CELS), al negar la justicia se fomenta la venganza privada y la violencia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2130
+}

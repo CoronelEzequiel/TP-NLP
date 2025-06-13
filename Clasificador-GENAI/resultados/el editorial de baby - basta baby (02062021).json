@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.782,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy hablaba con el doctor Quirós acá, que estaba esperando para entrar al programa. Y le decía, doctor, esto cuando termine, en la provincia, creo que amerita un juicio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que se van a tener que presentar Biassotti, el gracioso de Ginés González García, el presidente Fernández, Cristina, Kicillof.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos, como boludos que ponen en el cuerpo y se cagan muriendo con la familia, presidente, que nos diga, por favor, ¿dónde están los 14 millones de vacunas de Pfizer?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto, ¿no le da vergüenza reírse con 80.000 muertos bajo su tutela?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes no pueden revisar ni los dedos en un club de barrio en La Tablada para ver si tienen hongos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si algo hay que agradecerle a Macri, que tampoco es santo de mi devoción, es que nos hizo republicanos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto, compre un reglamento de democracia, hermano, y denos el derecho a no morir más.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto, ¿qué le causa gracia? ¿Las tumbas? ¿Qué le causa gracia la ceniza de los muertos, Alberto?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": " Alberto Corazón, dígale a Dylan que le compre un reglamento de cómo ser presidente, cómo se maneja un país y cómo parar esta matanza terrible de argentinos por su ineptitud",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy dijo Cafiero III, en línea de sucesión, dueño de una biblioteca de autoayuda que la fundió. Dijo: \"Tenemos 10 millones de vacunados\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": " Alberto ahora está con el cemento como si fuera un albañil.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3571
+}

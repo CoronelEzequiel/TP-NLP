@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Voy a hablar del INCAA… pero antes voy a hablar de Milei.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo, como no tengo nada…  inmediatamente te votaría, por supuesto… Es un hombre inteligente… Pero no mandes a los trolls… Él está haciendo campaña con un ejército de trolls…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque yo les voy a contar lo que va a pasar… Lo mejor es que yo no esté… Pero si este chico Javier gana… Lo vamos a ver en la Corporación… Igual que a todos… Haciendo lo mismo que todos… Porque se va a tener que juntar con todos… Para que no lo dejen afuera y lo sequen…",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, después de 8 años que el boludo lo dice… Se dieron cuenta que el INCAA es una cueva de coimeros… De sinvergüenzas… Y de actores de turno… Y de aburrimiento del gobierno…",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso hay que hablar… Un poco de la dignidad… De los que durante 20 años… Nos estuvieron sometiendo a que eran mejores… Con los jubilados no… Y con eso solo ya se creía que era más… Entonces ahora… Se despiertan… Las… dormilonas… Del letargo…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya que mandaste a tus trolls a decir que yo cobro sobres, te reto a duelo: tráeme uno que me haya dado alguna vez una coima.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3276
+}

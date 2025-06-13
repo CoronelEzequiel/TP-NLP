@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.713,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina tiene un problema con la \"negrada\", no quiere a la gente de ellos, prefiere a los blanquitos de clase media de La Cámpora.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La acusó, en definitiva, de discriminar a los pobres.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está más acorralada que nunca, como dice hoy Joaquín Morales Solá.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus acusaciones fueron demoledoras contra quien fuera su jefa política hasta hace poco.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, con su discurso en La Plata, desafió a los movimientos sociales, conocidos como los \"callejeros\" por su cercanía ideológica con el Papa Francisco.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hacen lo que quieren con la plata de todos los argentinos que trabajamos, que producimos y que pagamos impuestos, que son, además, cada vez más confiscatorios y asfixiantes para la actividad económica.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy solo cuatro de cada 10 trabajadores son formales y en blanco, y cuatro de cada 10 argentinos son pobres.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El discurso de Cristina fue despectivo, estigmatizante y maltratador de los pobres, y eso duele muchísimo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2701
+}

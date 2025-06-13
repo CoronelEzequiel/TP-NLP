@@ -1,0 +1,36 @@
+{
+  "texto_id": "Guillermo_Duran",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.08,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Durán critica la falta de transparencia y la ineficacia de las medidas tomadas por las autoridades, alegando que se trata de acciones superficiales que ocultan la verdadera problemática del financiamiento universitario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 11 meses, los salarios de los docentes han perdido un 25% de su poder adquisitivo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durán propone una consulta popular vinculante para una ley de financiamiento universitario, amparados en el artículo 40 de la Constitución Nacional, para que la decisión no dependa del veto presidencial.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta propuesta ha recibido el apoyo de diversos bloques de la oposición, incluyendo Unión por la Patria y la Democracia para Siempre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durán considera la consulta popular como una herramienta para presionar al gobierno y asegurar un financiamiento adecuado para las universidades nacionales.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1160
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.925,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Desde el retorno de la democracia en 1983, nadie le hizo tanto daño a la República Argentina como Cristina Fernández de Kirchner.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chavista y vengativa, atropelló la división de poderes, avanzó a paso redoblado en su plan de impunidad y lo único que le faltó fue cambiar el nombre de nuestro bendito país y bautizarlo \"República Cristina\".",
+      "score": 0.98,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nadie abusó tanto de su poder.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La diputada Mariana Zuvic dijo que no hay forma de que Cristina Fernández de Kirchner se salve de ir a la cárcel.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Declarar la inexistencia de delito y plantear que Cristina Fernández de Kirchner es inocente sin que se realice el juicio produjo uno de los mayores escándalos judiciales de los últimos tiempos.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El lavado de dinero fue brutal, estaba probado por una metodología burda que hablaba del sentimiento de impunidad que tenían.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En realidad, lo que Daniel Obligado y Adrián Grünberg produjeron fue un fallo que consagró la inexistencia de justicia.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca en la historia judicial hubo tantas pruebas documentales, audios, videos, cuentas bancarias, testimonios de arrepentidos y cruces de llamadas que confirman que Cristina Fernández de Kirchner es culpable y que se convirtió en la mujer más corrupta de toda la historia democrática.",
+      "score": 0.97,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy podríamos hablar de una película de terror llamada *La República Herida*.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juicio, castigo y condena a los culpables era la consigna de aquellos tiempos de sangre y muerte.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos nos acordamos de aquel momento emblemático en que Cristina Fernández de Kirchner le pegó la gran puñalada a la república, le gritó a los jueces en la cara que a ella ya la había absuelto la historia.",
+      "score": 0.96,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Toda su actividad conspira contra la convivencia democrática y el respeto a la ley, pero lo más grave es haber herido a la república.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2324
+}

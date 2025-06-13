@@ -1,0 +1,46 @@
+{
+  "texto_id": "atentado_cristina",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En vivo y en directo pudimos ver a este energúmeno, Fernando Sabag Montiel, gatillar su pistola a 15 centímetros de la cabeza de quien entonces era la vicepresidenta de la nación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina declaró en ese juicio durante una hora y media. Como siempre, habló mucho de política, de lo que ella definió como \"clima de violencia\" previo, y reclamó que se buscara a los autores intelectuales y a los que financiaron el fallido atentado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No se privó, por supuesto, de acusar al \"partido judicial\" y, asombrosamente, calificó de diatriba la acusación del valiente fiscal Diego Luciani, que pidió 12 años de prisión para ella por ser la jefa de la asociación ilícita en la causa Vialidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los abogados y los periodistas de Cristina, sin evidencia alguna y con fanatismo, sostienen lo contrario, buscan en vano, pero siguen buscando sin encontrar datos sobre algún vínculo político con la oposición.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina públicamente dijo que con el intento de asesinarla se rompió el pacto democrático.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Martín Soria, en aquel entonces ministro de Justicia, o de Injusticia, dijo: \"Los jueces macristas tienen un plan sistemático de impunidad para los autores materiales del atentado contra Cristina\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A dos años, a dos años, está cada vez más claro que, en este y en todos los casos, Cristina miente y necesita una justicia arrodillada a sus pies y cumpliendo sus órdenes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2640
+}

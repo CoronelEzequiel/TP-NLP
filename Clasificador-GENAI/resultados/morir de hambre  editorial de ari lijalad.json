@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.514,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Estos empresarios, si bien no traen inversiones a Argentina, buscan obtener provecho de ciertas cuestiones futuras del país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señaló que algunos individuos tienen grandes reservas de alimentos sin comprar más, lo cual genera una situación preocupante.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Consideró que la gente, ante el riesgo de morir de hambre, tomará las decisiones necesarias para sobrevivir, por lo que la intervención del Estado es innecesaria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei instó a quienes desean vivir sin Estado a hacerlo completamente: sin educación pública, infraestructura estatal, servicios públicos, etc.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ustedes creen que la gente es tan idiota que no va a poder decidir? Va a llegar el momento en que se va a morir de hambre, con lo cual va a decidir de alguna manera para no morirse.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei consideró preferible la explotación laboral a morir de hambre, una posición que generó mucha controversia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta posición ignora la realidad de la mayoría, que no tiene la capacidad de elegir, y que el hambre es una tragedia, no una opción.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1501
+}

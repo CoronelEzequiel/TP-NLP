@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei tuvo que emitir un DNU para establecer la fórmula para calcular los incrementos de las jubilaciones, y esto está lejos de mostrar un momento de fortaleza; por el contrario, evidencia el aislamiento en el que se encuentra el oficialismo, podría ser la razón.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno necesita una foto que muestre respaldo político para encarar el relanzamiento de la Ley de Bases y el Pacto de Mayo, que, desde que lo anunció el 1 de marzo, le dio hasta el 25 de mayo, tres meses de respiro, y está colapsando, por lo menos con dificultades, porque esta reunión, por ejemplo, no pudo realizarse.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si no se aprueba la ley de Bases antes del pacto del 25 de mayo, no hay sentido. No tiene sentido el Pacto de Mayo. El Pacto de Mayo son básicamente 10 pilares al funcionamiento de la economía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podemos gobernar sin la Ley de Bases, pero no es lo que queremos. ¿Este gobierno, el presidente, usted, el gabinete, puede gobernar sin Ley de Bases, sin reforma del Estado, sin que se apruebe una sola ley? Sí, la respuesta es sí. ¿Es lo que queremos? No.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando fueron las políticas públicas para enfrentar el temporal que golpeó durante las dos semanas la zona sur del Conurbano y la plaga histórica de dengue, lo que sí se viralizó fue la respuesta del vocero presidencial, Manuel Adorni, a una joven periodista acerca de que el gobierno nacional no se hará cargo de ninguna campaña de vacunación contra el dengue.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4470
+}

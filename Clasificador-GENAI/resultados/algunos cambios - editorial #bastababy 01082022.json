@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Espero que todos los argentinos aprendan a no meter más la pata y no votar a estos delincuentes, y espero que la Argentina salga una vez por todas, porque la idea no es que me vaya yo, sino que se vayan ellos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Espero que se purgue la Argentina y podamos tener el país que nos merecemos, como fue hace 40 años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y nosotros quedarnos y poder volver a tomar las playas de Mar del Plata, de Villa Gesell, de Pinamar, caminar por la calle Florida, por la calle Corrientes, que no haya motochorros, que no haya \"boludos\" que piensan y llegan, eh, gente de Cristina.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a eximirme un poco, lo único que les dejo es tarea para el hogar.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1295
+}

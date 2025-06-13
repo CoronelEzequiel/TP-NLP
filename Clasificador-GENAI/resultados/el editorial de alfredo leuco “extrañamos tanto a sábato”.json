@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.333,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nunca debemos olvidar a patriotas como Sábato, y mucho menos en estos tiempos de cólera.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Deberíamos construir un altar literario donde podamos recordar la figura de un grande entre los grandes, llamado Ernesto Sábato.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo necesitamos porque era un imprescindible para salir definitivamente de esta trampa de autoritarios y ladrones, y recuperar el valor de la palabra y la dignidad de los honestos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "América Latina le debe a Ernesto Sábato el haber comprendido que, para salir de las dictaduras, había que enfrentar el pasado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reconozco que algunos lo humillaron y profanaron ese texto, agregándole otro más oficialista y kirchnerista que sincero, o que otros prefieren pasarle facturas por su tristemente célebre reunión inicial con Videla, cuando todavía ni la ficción podía ayudar a comprender la dimensión titánica del drama.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Don Ernesto fue un pequeño gran hombre que nos enseñó mucho cómo ser una nación respetada y respetable.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2329
+}

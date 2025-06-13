@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.173,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lo que vimos el miércoles indica que las fuerzas de seguridad, al menos las federales, actuaron con órdenes estrictas de reprimir la manifestación popular.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue una represión premeditada y agresiva que puso a Pablo en profundo riesgo y le causó daños, que Dios quiera que no sean irreversibles.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando un diputado del oficialismo dice que va a pegarle dos tiros a los ladrones y colgarlos en la plaza, eso no es mano dura, sino dictadura y un discurso absurdo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que hay más autoritarismo que un golpe de Estado. No va a ser que, con esa excusa, fortalezcan un autoritarismo inexplicable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que separar ambos conceptos: la represión en el marco de una protesta, con claros abusos (el caso del fotógrafo Pablo es un abuso increíble, al igual que lo sucedido con la señora jubilada), y la seguridad urbana.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este último caso, creo que se necesita una política de Estado, en lugar de bravuconadas entre el presidente, la ministra y el gobernador.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Te llevo al territorio más ligado a la política: cómo el discurso \"miliarista\" degrada un sistema institucional que costó mucho construir.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Da la impresión de que, como dice Jorge, falta que alguien se ponga una corona y se siente como Napoleón.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No podemos estar inmersos en una interna estéril; necesitamos conectar con los problemas de la gente: económicos, de seguridad (cotidiana y urbana), de salud, y reformar el sistema educativo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Comparto que la actitud del gobierno no me gusta, pero, dentro del límite constitucional, tiene facultades como la de vetar.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El delito que más creció es la violencia, de todo tipo. Es muy importante ponerle racionalidad a esta locura.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No creo que la violencia genere paz.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo tiene la responsabilidad de conservar sus valores y presentar una nueva propuesta que nos vuelva competitivos y sea una alternativa democrática frente a este gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2226
+}

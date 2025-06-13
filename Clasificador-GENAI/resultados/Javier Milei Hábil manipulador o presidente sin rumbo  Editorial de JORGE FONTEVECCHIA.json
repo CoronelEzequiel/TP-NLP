@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Milei trata a los gobernadores como monos, relacionándolo con un texto de un científico, un científico muy importante de la Universidad de Stanford.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, ¿estamos ante un hábil manipulador o, en realidad, solo intentamos darle sentido a conductas espasmódicas y caóticas de un presidente que no encuentra el rumbo?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente acusó a los diputados y a los gobernadores, a quienes llamó \"conjunto de delincuentes\" que quieren una Argentina peor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Lo que se viene es una coalición entre el PRO y La Libertad Avanza, no le haría falta un rediseño político donde incorporar a una nueva conformación política los sectores del PRO, La Libertad Avanza, para hacer algo mucho más homogéneo y fuerte.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina piensa que Milei es el político que más coraje tiene, piensa Cristina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5671
+}

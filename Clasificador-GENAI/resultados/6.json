@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_temperley",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Necesitamos gente así, que impulse la vuelta de los hinchas y las nuevas afiliaciones, como lo promovemos en nuestras redes sociales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos un presupuesto ajustado, por lo que agradecemos enormemente su colaboración.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre respetando la historia del club y el profesionalismo de los jugadores.  No haremos nada que perjudique al club, solo suma.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A Fabián no lo incorporaremos, no puede correr ni 20 metros. Pero si entrenamos al Polaco, podríamos hacerlo debutar en algún partido menos importante. Eso depende de otros factores, debemos ser realistas y respetuosos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1572
+}

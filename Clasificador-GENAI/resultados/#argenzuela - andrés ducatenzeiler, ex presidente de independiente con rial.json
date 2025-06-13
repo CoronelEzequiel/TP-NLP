@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto es un plan político que comenzó hace años.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri está enamorado del Emir de Qatar, quiere ser un emir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora juegan Grindetti y Ritondo, dos empleados pequeños.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El fútbol puso a Macri y lo sacará de todos lados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no hay 50.000 personas en la puerta de la sede, el club está perdido.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3570
+}

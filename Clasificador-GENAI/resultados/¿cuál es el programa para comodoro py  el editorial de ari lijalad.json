@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "De la campaña que me están haciendo desde Juntos por el Cambio y desde el Frente de Todos con respecto a mi ley.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero se menosprecia lo que, insisto, con la palabra, e incluso Cristina Kirchner la ha usado muchas veces, lo que es la insatisfacción democrática que han generado partidos políticos que, para darle una categoría mundial entre conservadores y progresistas, no han solucionado problemas concretos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque, ustedes saben que yo tengo una mirada de que hay un poder del Estado que ha sido cooptado directamente por las corporaciones económicas. Entonces tienen un poder fuera del Estado muy grande, que es el poder económico, y después de los tres poderes del Estado se quedaron con uno, que es el Poder Judicial, y con pedacitos de los otros dos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri logró apartar al juez Alejandro Slokar del caso por el espionaje a los familiares de Lara San Juan.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué van a hacer los candidatos con esto? ¿No tienen una propuesta, no tienen algo que decir? ¿No tienen una idea de qué Poder Judicial quieren? ¿No tienen una idea de cómo lo van a cambiar?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Corte Suprema es la que garantiza que el Grupo Clarín te cobre lo que quiera, mientras no quiere que nosotros estemos en cada edición, te cobre lo que quiera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2686
+}

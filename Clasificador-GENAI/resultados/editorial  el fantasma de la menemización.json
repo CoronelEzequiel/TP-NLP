@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.321,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los libertarios, como los llamo yo, liderados por Javier Milei, y el ala más extrema de Juntos por el Cambio, representada por Mauricio Macri y Patricia Bullrich, proponen un ajuste drástico y se ubican, obviamente, en la derecha o extrema derecha.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Frente a ellos, el Frente de Todos, actualmente bajo el liderazgo de Sergio Massa (quien desde el Ministerio de Economía toma las decisiones más importantes), parece situarse en el centroizquierda o en el progresismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los rasgos principales de este proceso, según Lozano, son la ratificación de los lineamientos estructurales del modelo de pago de la deuda, un perfil cada vez más extractivista y promotor de desigualdades, políticas regresivas que impactan sobre salarios, jubilaciones y transferencias a las provincias, y la consecuente desaceleración de la actividad económica.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto consolida la reprimarización de las exportaciones argentinas, sin considerar el impacto ambiental.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El acuerdo con el FMI impulsa la devolución en cuotas de la deuda, el aumento de tarifas (inflacionario, como reiteró Pablo Ansaldo), y la suba de tasas de interés.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La participación de la masa salarial en el ingreso sigue siendo inferior a la del final de la gestión de Cambiemos (43,6% vs 45,7%).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reprimarización, uso de recursos estratégicos para pagar deuda, inflación vía recesión y baja salarial...  Esto recuerda al menemismo, aunque las condiciones nacionales e internacionales son diferentes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2060
+}

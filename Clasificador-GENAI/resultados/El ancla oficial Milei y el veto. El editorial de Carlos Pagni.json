@@ -1,0 +1,56 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esto es verdad en todos los casos, pero sobre todo es verdad en el caso del gobierno de Javier Milei, por una razón bastante obvia: es un gobierno que, por la forma en que llegó, por el momento histórico en que se dio y por lo que significa en esta coyuntura de la Argentina, carece de capital o de bagaje institucional.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay discusiones entre los encuestadores sobre cómo se está comportando esa opinión pública respecto del gobierno, pero ahí está su principal capital.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estas son las dos cosas que hizo ayer centralmente Milei: Después vamos a analizar con un poco más de detalle qué mensajes son los más significativos de lo que pasó ayer y es lo que va a seguir haciendo, pero a una escala más global: el sábado que viene, cuando viaje a los Estados Unidos para hablar en la Asamblea de las Naciones Unidas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es significativo que, a pesar del conflicto acotado, encapsulado, entre Milei y Lula, el jefe de gabinete haya tenido especial interés en ir a la celebración que hacía Julio Bitelli, el embajador de Brasil en el Colón.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el gobierno creen que hay una campaña mediática contra Santiago Caputo. Creen que esa campaña está dirigida a perforar justamente la estrategia de comunicación o la repercusión de la comunicación del gobierno, y creen que detrás de esa campaña hay una mano oculta, que es la mano de Mauricio Macri, que mantiene un conflicto sordo o soterrado, más o menos soterrado, con Santiago Caputo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vuelve entonces Milei a los argumentos con los que gana a las peleas que gana contra el Estado, contra el descalabro fiscal, que está detrás de la inflación, porque se ha venido financiando con emisión monetaria, y contra la casta, y tiene una repercusión aceptable en los mercados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ancla de este oficialismo, desde hace algunos días, y probablemente es un mensaje que el gobierno quiere enfatizar delante de los inversores, de los que tienen miedo a las ingobernabilidades, está compuesta esa ancla de dos piezas: la capacidad de comunicación de Milei y la capacidad de veto de Milei.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un Milei que está mirando las elecciones del año que viene, mira las elecciones, mira la fragmentación de su propio espacio, mira la fragmentación de sus propios aliados, por ejemplo, los radicales y establece una estrategia: pelear contra la casta y pelear contra Cristina, y Cristina acepta esa pelea, y hay una especie de acuerdo tácito del que hablamos el lunes pasado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esa polarización que Milei eligen contra de Cristina, que Cristina eligen contra de Milei, tiene un límite y el límite es la composición de la justicia, mostramos la semana pasada declaraciones muy duras de Juliana di Tullio, diciendo: 'Nosotros no vamos a votar los candidatos a jueces de Milei, son jueces de Milei', estamos en la vereda en frente, hablaba del hijo y de García Mancilla.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 9115
+}

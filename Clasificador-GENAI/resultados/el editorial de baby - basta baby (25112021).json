@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.69,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Veo a la vocera presidencial, a la voz del presidente. Todos los días vemos que todo en este gobierno es una cosa distinta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando agarran el poder, todos empiezan a hacer negocios turbios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me gusta ver cómo los demás lo hacen.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Veo con todo respeto a… que usted está haciendo esa charla para seguir convenciendo, no que están haciendo algo y que se están preocupando, ¿verdad?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se ríen de nosotros, porque si no, estaríamos cada día peor.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos hartos de Cristina, de Alberto, estamos hartos de todos los políticos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Terminó la película de la mentira, terminó la película de los grandes negociados, la de los inocentes, el silencio de los inocentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes nos cagaron, nos pusieron los cuernos, y son tan pelotudos que nos siguen poniendo los cuernos…",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo que son todos payasos, muchachos. Nadie les cree nada, porque saben que todo el país sabe que son oportunistas.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No queremos ni a Alberto, ni a… ni a Cristina, ni a la oposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2887
+}

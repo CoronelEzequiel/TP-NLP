@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Una de las críticas de ciertos economistas es que sus planes pueden estar construidos en una situación de vacío, propia de laboratorio, en condiciones de ascetismo perfecto, donde agentes y pacientes del plan se comportan siguiendo un protocolo que solo funciona en la teoría.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora, a pesar de que los argentinos reciben alguna forma de suicidio, tema que comenzó en la Argentina a partir de la crisis del 2002, se redujo en algún sentido durante el gobierno de Néstor Kirchner, volvió a crecer enormemente durante el gobierno de Macri, siguió creciendo, obviamente, a partir de la pandemia en el gobierno de Alberto Fernández.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"160.000 personas son apenas la punta del iceberg. Imaginemos lo que podría ser en una situación de ajuste real en un eventual nuevo gobierno de Juntos por el Cambio\", decía la valiente ministra Victoria Tolosa Paz, porque ella es la que enfrenta esta situación de recorte de planes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, hay dos alternativas: al señor Belliboni y a toda Unidad Piquetera, los iba invitando a que todo ese esfuerzo de movilización, de pago de colectivos, de acampes, de baños químicos y de todo lo que hacen, harán tratar de hacer lo que sí le salió en el gobierno anterior, que es la extorsión para seguir amontonando a organizaciones que hacen política con la pobreza y con el dinero del Estado Nacional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuevamente, esto nos hace reflexionar sobre aquella idea de las críticas a ciertos economistas que están construidos en una situación de vacío. Esto le vale a los libertarios, que plantean que la sociedad es como si fuese un túnel de viento perfecto, donde los planes se llevan adelante en una aplicación matemática sin tener en cuenta que los pacientes de ese plan se comportan de manera distinta a un protocolo perfecto y que nos permite que los pacientes que están creados en el territorio, que lo que juntos propone no tienen en cuenta la sociedad argentina real, que son creadas por economistas que viven en barrios donde no hay ninguna de estas carencias y que no imaginan cuál será la resistencia de la Argentina real y que en los próximos minutos es muy parecido al de Mauricio Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3660
+}

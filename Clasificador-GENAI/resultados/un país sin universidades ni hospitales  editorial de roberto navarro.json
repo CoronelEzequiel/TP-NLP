@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.193,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Milei acerca a la barbarie y nos lleva a fuerza de mentiras que algunos creerán –yo creo que la mayoría no–, pero que son eficaces para él; es decir, él va destruyendo todos los días algo más.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad incómoda de la educación argentina es que la Universidad Pública Nacional hoy no le sirve a nadie más que a los hijos de la clase alta, los ricos y la clase media alta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, está intentando que esas universidades desaparezcan o, por lo menos, dejen de ser nacionales o pasen a ser aranceladas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué cosa somos si le quitamos la salud a la población? ¿Qué cosa somos si le quitamos la salud a la población? ¿Qué cosa somos si le quitamos la salud a la población? ¿Qué cosa somos si le sacamos la educación a la población? ¿En qué nos estamos convirtiendo?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos legisladores no fueron capaces de levantar la mano para terminar con el DNU. La mayor parte de los gobernadores votó ese consejo de mayo en donde confirmaron que están de acuerdo con bajar el gasto total al 25%.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está pasando en la Argentina es mucho más que una discusión de capitalismo, un poquito más de Estado, un poquito menos de Estado. No, es una buena parte de la clase dirigente, lo suficientemente importante, como para seguir con este plan, que es partícipe –por complicidad, por miedo, por lo que sea– de esto que está ocurriendo hoy, de esta aberración.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que luchar para frenarlo ya mismo, porque el daño es tremendo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3850
+}

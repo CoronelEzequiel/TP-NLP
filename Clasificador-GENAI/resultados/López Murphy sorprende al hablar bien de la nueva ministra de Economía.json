@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_batakis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Sorprende que distintos sectores, tanto de los liberales como de los radicales, como de los macristas, como de los kirchneristas, coinciden en que se trata de una decisión o una elección acertada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A diferencia de otros economistas que tienen, a lo mejor, una visión académica o que tienen más una visión financiera, su perfil es un perfil productivo, que yo creo que hoy hace falta a la Argentina, porque la Argentina que produce hoy está mejor...",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros necesitamos una economía en donde el Estado sea solvente. Yo creo que eso es fundamental.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad que es un mercado muy marginal, pero lamentablemente está como en la conciencia colectiva de todos nosotros, no, esta cosa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estoy convencida que los dólares que tiene Argentina, las reservas que tiene Argentina, tienen que estar puestos a disposición del crecimiento de Argentina y uno en eso tiene que ser muy asertivo en dónde hace las alocaciones de esos dólares, no.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4227
+}

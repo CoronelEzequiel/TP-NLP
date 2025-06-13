@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.844,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El chavismo no se rinde.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La dictadura venezolana se cae, pero el kirchnerismo sigue apostando a las relaciones con esa narcotiranía.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El jefe del ejército organizó un aparato de inteligencia propio para espiar a opositores y periodistas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy sabemos que el gobierno acaba de impulsar una reforma militar que fue rechazada por la oposición por el peligro de ideologización.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy nos enteramos de que el gobierno de Bolivia, aliado al kirchnerismo, firmó un pacto militar con la República Islámica de Irán, cómplice de los prófugos por el atentado terrorista a la AMIA.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Deberían preocuparse Cristina Fernández de Kirchner, Julio De Vido y su ultraderechista, el \"Vasco\" Olazagasti.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos da vergüenza ajena que siempre el gobierno de Cristina Fernández de Kirchner, Alberto Fernández y Sergio Massa se ponga del lado de un régimen antidemocrático donde los presos políticos son torturados diariamente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Les recuerdo que el FBI confirmó que el piloto principal iraní, Gholam Reza Hashemi, tiene vinculaciones con el terrorismo de Hezbollah y Al-Quds, la guardia sanguinaria de Irán.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En Argentina sí avanzó mucho el autoritarismo chavista, pero por ahora eso no se hace.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2353
+}

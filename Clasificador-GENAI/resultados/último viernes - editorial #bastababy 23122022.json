@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Sí, él tiene que pagar tres puntos y medio, cuatro puntos de share.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer, en el canal del Estado, ayer un tipo plantó una frase nueva que es \"desclasado\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No queríamos ser ricos, no soñábamos con Miami y ninguno soñaba con ser más que el otro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuidemos a Alberto, que no nos guste este año que queda porque hay que vivir en democracia y a la justicia que juzgue sin miedo que los periodistas independientes los vamos a estar respaldando y apoyando.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El año que viene es un año electoral y la verdad que vamos a los cinco a la puerta, así, porque te podemos hacer mierda si tenemos ganas, así que bueno, esto digo, en democracia, libertad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2693
+}

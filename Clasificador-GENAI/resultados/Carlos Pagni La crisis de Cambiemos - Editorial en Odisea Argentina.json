@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea_neuquen",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si ganaba el candidato peronista Ramón Rioseco, que iba en una alianza que incluía el kirchnerismo, e hizo en los últimos días campaña con un mensaje grabado de Cristina Fernández de Kirchner, se viera en el mercado ese triunfo eventual de Rioseco como un adelanto de lo que podría ser, en una enorme simplificación, en un enorme malentendido, en una tergiversación, se viera el triunfo de Rioseco como el anticipo de un triunfo nacional de Cristina Kirchner.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sonríen también Nicolás Dujovne, ministro de Hacienda, y su secretario de Energía, Gustavo Lopetegui, que en este momento están en Houston hablando de energía ante una convención de argentinos y mañana ante una convención, probablemente una de las más importantes del mundo, de un centro internacional ligado al negocio de los hidrocarburos que sesiona en Houston.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir que los contratos petroleros, las concesiones petroleras en Neuquén van a ser más discutidas, las inversiones de Vaca Muerta van a tener que pasar por exámenes más complejos, más endiablados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Córdoba se acaba de romper Cambiemos, o sea, no estamos hablando de Neuquén, una provincia con una composición del voto bastante de centro-izquierda, una provincia con gran afecto por la presencia del Estado en la vida económica, en la que a Macri nunca le va a ir demasiado bien.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina tiene un 30% que no se mueve. Es como que vive en una fortaleza donde no entra ni sale nadie, ni gana un voto ni pierde un voto. El que puede perder votos es Macri.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5887
+}

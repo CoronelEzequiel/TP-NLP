@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.358,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me involucro porque aprecio a [Nombre de la persona] y porque existe una disputa que trasciende la rivalidad entre [Nombre del equipo rival de Oka] y [Nombre del equipo de Oka].",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Espero que [Nombre del equipo] gane y lucharé por ello.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recientemente, [Nombre de la persona] mencionó la disputa con [Macri, si es correcto, o especificar a quién se refiere], y yo, como hincha de mi club, amo a mi club y a sus hinchas.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En los últimos dos meses se han producido acontecimientos que me alegran, pues mucha gente está tomando conciencia de realidades que antes parecían impensables.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí, es gratificante contribuir a que uno, dos o muchos argentinos se den cuenta de su potencial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como él mismo dijo, finalmente apareció \"la basura\" y llegó a Boca Juniors.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1113
+}

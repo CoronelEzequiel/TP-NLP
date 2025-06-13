@@ -1,0 +1,51 @@
+{
+  "texto_id": "Modo_Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.244,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cada acción tiene una reacción. Bueno, si vas a poner el plan \"licuadora\", vas a bajar, aplastar los sueldos, a achatar los sueldos, va a haber una reacción y la reacción la tienen, en este caso, los gremios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Está la idea de una demonización de lo que tiene que ver con los gremios, de lo que tiene que ver con la actividad sindical? ¿Hay eso detrás de esta decisión gubernamental, de esta decisión del gobierno nacional de dejar correr el paro, que no haya conciliación obligatoria?",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, una escalada de conflictos, esta conflictividad avanza, que comienza en el día de hoy, y va a seguir en los próximos días.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los sindicatos diciendo: \"Nosotros estamos parando en defensa propia, nos están ofreciendo un aumento salarial muy por debajo de la inflación, estamos pidiendo que, por lo menos, se respete el aumento que tiene que ver con la inflación\",",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina sale adelante trabajando, y los problemas que tiene hoy la Argentina, en un 100%, son heredados de una política que ha destrozado a la Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decíamos, Boletín Oficial, hoy hay varias novedades con respecto a esto, obras sociales es una, finalmente hay salario mínimo, vital y móvil, está también en el Boletín Oficial de hoy, 180 mil pesos a partir del 1 de febrero, 202 mil y piquito a partir de marzo, y en las próximas horas va a haber novedades también con respecto a paritaria docente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vamos camino a un gran paro nacional\", fue lo que dijo Pablo Moyano, y de esto se está hablando la CGT.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, la violencia la hace el gobierno con las medidas y por unas ocasiones permanentes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5094
+}

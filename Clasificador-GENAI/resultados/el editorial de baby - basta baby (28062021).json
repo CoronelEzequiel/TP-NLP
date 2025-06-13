@@ -1,0 +1,131 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.629,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por respeto a los muertos, no hablaré del acto de ayer.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer, Gerardo Morales ganó en Jujuy.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que, si Dios quiere, Milagros Sala está terminada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y así nos vamos sacando de a poco a los corruptos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por un lado, Morales hizo una excelente elección.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y por otro lado, Juntos por el Cambio sigue peleándose por el liderazgo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos quieren ser líderes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y para que haya una república, hay que tratar de votar bien y cambiar a algunos delincuentes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sacar la mugre que hay.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tema de la hidrovía, que había pasado como un acto patriótico encabezado por Roberto Baradel,  Pablo Moyano y un grupo más de impresentables.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, yo había dicho que la democracia hay que limpiarla de estos personajes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y me interpretaron mal.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque en un proceso hay que limpiar el extremismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que no se comentó que el negocio involucra a Camilo Vaca Narvaja, hermano del yerno de Cristina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que se lo quieren dar a China a cambio de que China haga una ruta paralela a la aerovía y un ferrocarril que pase por Entre Ríos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que sería una hipoteca para la Argentina a 50 años, pero no en plata, sino en obras.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque yo estaba criticando otra cosa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ferrocarril es negocio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La hidrovía es un negocio brutal, que además de los 300 millones que deja por año, es un gran negocio de lo que puedes entrar y sacar del país: contrabando, ilícitos… la cantidad de basura que puedes hacer.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Baradel, Moyano, Milagro Sala… eran unos patriotas bárbaros que habían llevado la bandera para que la hidrovía siga siendo del Estado, un Estado que se la iba a entregar a los chinos, y unos chinos que nos iban a dar a cambio una ruta y unos ferrocarriles, y nos iban a hipotecar por 50 años más, pero que Alberto podría mostrar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y me preocupa mucho más que el acto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ginés González García. Sinvergüenza ese, poniendo la cara en lugar de estar sentado, desparramado con la panza al aire, en España tomándose una cañita como hacía Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos demostró que hay una oposición que todavía, como chicos en un colegio, están viendo quién se queda con la campana.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Habla de la oposición de Juntos por el Cambio, que son todavía unos irresponsables, unos inmaduros políticos que, con el peligro que tenemos encima, que entreguen la hidrovía y otros negocios más, como por ejemplo la medicina privada, siguen jugando a ver quién la tiene más grande para poder estar en la boleta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3243
+}

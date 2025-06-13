@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.193,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se trata de determinar qué información consideran relevante para el público, que tiene derecho a la información, un derecho que, lamentablemente, suele ser limitado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy quiero comentar dos asuntos estrechamente relacionados, aunque a primera vista no lo parezca. Uno es la situación en Jujuy: hoy se realizó un allanamiento en la casa —prácticamente una cárcel— de Milagro Sala, quien sigue siendo considerada una presa política en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿De qué acusan a Milagro Sala? ¿Qué justifica el allanamiento a su domicilio? Es, una vez más, un acto de amedrentamiento para encubrir los negocios económicos y electorales de Gerardo Morales, quien se benefició políticamente de mantener a Milagro Sala presa durante más de siete años, incluso en su candidatura a vicepresidente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Goldman Sachs declaró en Bloomberg, que Argentina y otros mercados emergentes no se han devaluado lo suficiente, especialmente el peso argentino y la libra egipcia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Considero que sí, ya que evitó que Clarín cayera en manos de un megafondo internacional, evitando que conflictos se resolvieran en tribunales norteamericanos. Prefiero que las empresas sean argentinas y que los litigios se resuelvan en el país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es fundamental que los candidatos se pronuncien sobre el futuro de las empresas argentinas, las políticas de devaluación, y las inversiones extranjeras, estableciendo límites sin impedir la llegada de inversiones legítimas, como sucede en otros países con menor estabilidad jurídica y democrática.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos discutir sobre Milagro Sala y los fondos internacionales que ven en Argentina un negocio rentable, buscando una devaluación para maximizar sus ganancias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1778
+}

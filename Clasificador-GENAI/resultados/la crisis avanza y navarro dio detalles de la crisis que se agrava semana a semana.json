@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En la primera semana de agosto, según datos de la consultora Sentir, el consumo masivo cayó casi un 19%, cifras alarmantes, propias de una situación de crisis.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei afirmó recientemente, en referencia a los cambios legislativos, que se votó 'un disparate que implica un 62% del PBI en deuda, lo que cuesta a los argentinos 370.000 millones de dólares, arruinándoles la vida a generaciones futuras'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La afirmación de Milei de que un mínimo aumento salarial equivaldría a 370.000 millones de dólares es una de las grandes mentiras de la historia argentina por su desmesura, pero fue dicha el viernes pasado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También mencionó que murieron 30.000 personas más por la pandemia debido a la cuarentena y las vacunas, una afirmación crucial ya que la cuarentena es un factor clave en el descontento social con el peronismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El apoyo a Milei se basa en gran medida en el enojo con el peronismo, no tanto en un entusiasmo por su figura.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un pueblo que no distingue entre verdad y mentira, tampoco distingue entre el bien y el mal, quedando sometido al imperio de la mentira.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1483
+}

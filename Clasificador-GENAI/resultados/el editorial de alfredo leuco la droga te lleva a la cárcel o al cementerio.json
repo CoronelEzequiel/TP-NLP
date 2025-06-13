@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.917,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esto se llama naturalización del consumo, y es la previa a la legalización, porque vamos camino a eso.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El intendente de Morón cometió la salvajada de fomentar el consumo de drogas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La droga te lleva a la cárcel o al cementerio.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es intencional, porque nos quieren pobres, brutos y enfermos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La droga es un veneno, está absolutamente comprobado.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La droga te quita la libertad, la droga te convierte en esclavo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La droga es el padre y la madre de todos los delitos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo siempre tuvo una actitud cómplice y negadora, no solo por los millones de dólares que embolsaron con el contrabando de efedrina o por el triple crimen, sino también porque personajes fuertes del gobierno como Aníbal Fernández miraban para otro lado y subestimaban el problema.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay otro camino que matar a la droga antes de que la droga nos mate a nosotros.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2396
+}

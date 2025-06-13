@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Me preocupa el riesgo que corre la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy ocurrieron dos hechos que, en mi opinión, ponen en riesgo la democracia en Argentina.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi postura es clara: no votaré con un sistema hackeable y vulnerable.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella podría ser presidenta. Además, se anunció la fórmula de Horacio Rodríguez Larreta y Gerardo Morales. Esta fórmula representa un riesgo para la democracia: Rodríguez Larreta pone en riesgo la democracia en la Ciudad de Buenos Aires, y Morales en Jujuy, donde existe una presa política desde hace casi ocho años.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la democracia es el gobierno del pueblo, éste debe beneficiarse de lo que generan las autoridades elegidas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero si todo lo que se ofrece implica represión, fraude electoral y eliminación del adversario político, con el objetivo de generar negocios, entonces la democracia está verdaderamente en peligro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1699
+}

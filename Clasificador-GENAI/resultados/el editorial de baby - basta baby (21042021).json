@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.863,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Se quedaron con la educación, se quedaron con la vacuna, se quedaron con el dinero, se quedaron con la libertad.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en Venezuela, en un país con el nivel de pobreza que tenemos, en un país que damos lástima al mundo, pero fundamentalmente en un país donde el mundo nos compara con Venezuela.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Digo, realmente es un país en franca decadencia, similar a la venezolana, pero ya no somos “Argenzuela”.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un país donde tenés tres gobiernos, ¿viste? Donde tenés la estupidez que dijo Axel Kicillof hoy, del 53% de la media hay 53%.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando salen, a ese pobre tipo que tiene que trabajar y pagar los impuestos, le afanan el auto y le violan a la mujer.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La Argentina está revolcada en la mierda, está inmoralizada, con un gobierno de amorales, inútiles e ineficientes.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ya nadie se ríe en la Argentina, ya nadie sonríe, ya nadie festeja un chiste, y todos vivimos mirando para atrás a ver si Luis D´Elía, Hugo Moyano, Alberto Fernández, Cristina Kirchner, Máximo Kirchner, o alguno de ellos se molesta por lo que dijiste.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¡Hicieron mierda la Argentina, muchachos, y es irrecuperable!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2792
+}

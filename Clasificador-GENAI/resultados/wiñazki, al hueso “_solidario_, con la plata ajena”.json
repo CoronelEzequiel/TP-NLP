@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Desde 2016, Máximo Kirchner y Florencia Kirchner no pagan los impuestos a la AFIP.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando asumió Alberto Fernández, por razones ajenas al azar, y quizás también influyó que la excuñada de Máximo Kirchner sea la nueva directora de la DGI, la AFIP decidió no iniciarles juicio impositivo a estos dos contribuyentes.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner, que les está pidiendo a los hombres más ricos de la Argentina, y no tan ricos tal vez, los que tienen 200 millones de pesos y se van a contabilizar los bienes (y hay una gran polémica), hace muy poco, le pidió a la AFIP, a través de su apoderada, que es su prima, la hija de Alicia Kirchner, una moratoria para no pagar una deuda de 1.948.098 pesos que tiene con el organismo recaudador.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto lo digo porque Máximo Kirchner hizo un discurso, porque él fue el autor de la ley (junto con Heller) del impuesto a las grandes fortunas, y dijo que el fisco, la AFIP, necesitaba recaudar más para comprar más vacunas por el impacto de la segunda ola del COVID.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, ¿quién nos está diciendo lo que tenemos que hacer? ¿Cuál es la conducta de las personas que nos están diciendo qué hacer?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Andá vos a conseguir esto!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "200 millones tiene Máximo, y por 1.900.000 pidieron una prórroga de ocho años a la AFIP y se la dieron, se la dieron, hay que aportar porque hace falta plata para las vacunas y para el gas y para no sé qué, los que más tienen.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2098
+}

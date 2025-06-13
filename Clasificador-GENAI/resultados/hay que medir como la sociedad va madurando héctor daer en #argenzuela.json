@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Muchos coincidimos en que era necesario: las centrales sindicales debían asumir la responsabilidad de canalizar la protesta social generalizada, ante el avance del plan económico del gobierno de Javier Milei, percibido como recesivo y perjudicial para la población.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se observa una fuerte presión a la baja de los salarios, intentado anclar la inflación a través del tipo de cambio, lo cual conduce a la destrucción de la industria, a la desregulación y a la exportación de materias primas sin valor agregado, como la exportación de ganado en pie, perjudicando gravemente a los frigoríficos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta ecuación, combinada con la restricción de la libertad de expresión y movilización, es insostenible.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Coincido con la idea de una sola manifestación unificada ese día, dejando de lado las diferencias, para mostrar contundencia y defender la institucionalidad democrática.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero buscamos el consenso interno. Un paro debe construirse cuidadosamente; de lo contrario, puede resultar contraproducente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1639
+}

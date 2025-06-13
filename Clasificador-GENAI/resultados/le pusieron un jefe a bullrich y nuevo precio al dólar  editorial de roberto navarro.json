@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, el gobierno militarizó la ciudad de Buenos Aires.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reemplazaron las balas de Patricia Bullrich con el miedo de Santiago Caputo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es la ventaja de gobernar para los ricos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Constitución, la policía detuvo gente, pidiendo documentos como en la dictadura.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Congreso aprobó el DNU, aunque las encuestas muestran que el 64% (Analogías) y el 65% (Manán-Fennanfit) de la población se opone al acuerdo con el FMI.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un gobierno con una caída del consumo del 10%, que sube los precios, corre al FMI y militariza el país.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1812
+}

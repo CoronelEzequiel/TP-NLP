@@ -1,0 +1,36 @@
+{
+  "texto_id": "Beatriz Sarlo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Beatriz había sido militante de izquierda en tiempos de represión militar.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Criticó a todos los gobiernos. Fue una polemista temible que puso en jaque a todos los relatos políticos y nunca se dejó llevar por las opiniones de las mayorías circunstanciales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Luego, evolucionó hacia posiciones socialdemócratas y fue una gran crítica de la deriva que tuvo el peronismo, tanto en la fase menemista como en la fase kirchnerista.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kirchner era un político muy inteligente que, además, marca que para ser político no es necesariamente ser un hombre muy culto, sino tener una especie de sensibilidad de lectura de cómo van los ríos, los ríos subterráneos, cómo se organizan las tendencias, y era un político muy inteligente en ese sentido, y carente totalmente de escrúpulos en el uso del aparato del Estado en su beneficio, totalmente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei tiene un discurso populista que mezcla con un discurso economicista durísimo, pero lo mezcla. Eso no lo hacía Menem, para poner un ejemplo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6081
+}

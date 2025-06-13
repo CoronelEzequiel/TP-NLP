@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_sin_extension",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, mientras Lali hablaba, yo me preguntaba recién: ¿por qué recién ahora lo lloran, después de haberle hecho la vida prácticamente imposible a algunos de estos muchachos que tengo por acá a mi izquierda?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo trataban de basura, fascista, cómplice de la dictadura, amigo de Clarín, jefe de la oposición.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta misma gente ahora habla de Francisco como el mejor papa de la historia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su responsabilidad en la desaparición de dos curas jesuitas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bergoglio es el jefe espiritual de la oposición política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso digo que estamos ante impostores de la moral. ",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No lo cuidamos, no lo supimos cuidar, no lo quisimos cuidar, no sé.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2872
+}

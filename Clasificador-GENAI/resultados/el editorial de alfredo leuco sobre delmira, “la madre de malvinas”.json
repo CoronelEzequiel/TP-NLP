@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Siempre llevó la bandera de las necesidades y del reconocimiento que todavía siguen reclamando nuestros héroes desde abril de 1982.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Julio se presentó como voluntario para ir a Malvinas y fue abatido a los 21 años.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue uno de los pocos soldados voluntarios y un apoyo permanente de sus compañeros de colimba del Regimiento de Infantería Motorizada de La Tablada.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chicos, quiero que sepan que en las noches, cuando me acuesto, cierro los ojos y veo cada una de sus caritas riéndose y jugando.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace 43 años que comenzó aquella guerra, su hija Julia tiene 43 años.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tras un manto de neblina, no lo olvidemos, ni a nuestras Malvinas ni a nuestros héroes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se lo juro por la memoria de Julio, el soldado y maestro, y de Delmira, la madre de Malvinas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y por ellos vale la pena gritar: \"¡Viva la Patria!\"",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2212
+}

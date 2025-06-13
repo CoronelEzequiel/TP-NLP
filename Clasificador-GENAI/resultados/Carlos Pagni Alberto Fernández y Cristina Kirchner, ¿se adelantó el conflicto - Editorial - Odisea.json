@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner se está retirando y repartió su herencia en vida. A Axel Kicillof le dio la provincia, a mí me dio la nación. Segundo, La Cámpora ocupa un lugar marginal, algunos tradujeron eso como La Cámpora no existe. Tercero, conmigo lo que viene no es kirchnerismo sino peronismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que ponerle de una vez punto final al tema de tomar deuda. Negociar con el mercado financiero, el tema del endeudamiento y la relación con el mercado financiero debe modificar radicalmente su dinámica y habló de un punto final.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández dice que pretende manejar o seguir manejando la economía en el marco de un acuerdo con el Fondo Monetario Internacional.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4498
+}

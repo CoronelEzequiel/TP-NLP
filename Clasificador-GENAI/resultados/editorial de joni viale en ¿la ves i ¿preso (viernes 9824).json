@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Les voy a contar la estrategia, que es básicamente ensuciar a Fabiola Yáñez con dos elementos: dinero y alcohol.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Razonamiento típico, argumento de un golpeador.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella salía siempre con sus amigas, ¿no? Ella se vestía provocativa. Ella tomaba mucho. Ella empezaba las discusiones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si vos te quejás de eso, estás operando para Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que sí sabemos es que Alberto ya está preso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3556
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "uhh Dopamina",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Avancemos con Cristina hacia el triunfo, ni un paso atrás, defendamos a los conseguidos, sigamos adelante, hagamos una nación más justa, libre y soberana.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina, como presidente del Senado, protegió a Alperovich ya procesado por la violación de su sobrina.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo me quiero ilusionar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En los últimos cuatro años hubo una reivindicación de esta delincuencia organizada, y eso no lo quiero más.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso sostengo que el kirchnerismo va a hacer lo que tenga que hacer para consagrar la impunidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es momento de acabar definitivamente con la era de la impunidad.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3914
+}

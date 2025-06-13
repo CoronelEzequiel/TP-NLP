@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.211,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, es que, como vos decís, es una metáfora perfecta de lo que sentimos los porteños con el gobierno actual de Jorge Macri, ¿no?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí… mirá, a mí hubo un momento, por ahí, después de su derrota con Patricia Bullrich en las PASO, y sobre todo después del triunfo de Milei, cuando tanta gente del PRO y de otros lados salió corriendo, abandonando convicciones detrás de la nueva moda de la ultraderecha, y yo lo vi quedarse parado en la misma valija, ¿entendés?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí me queda muy claro que traicionar al PRO es gobernar mal, gestionar mal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El PRO, cuando apareció a principios de este siglo, se planteaba varias cosas: una era la gestión por encima de todo; la otra tenía que ver con la construcción de un liberalismo que se alejara de aquella tradición autoritaria que había tenido el liberalismo durante tantas décadas en la Argentina; un liberalismo moderno que hablaba de la preocupación por el ambiente, que hablaba de género, que llegó a plantear el debate sobre el aborto en el Congreso Nacional por primera vez en nuestra historia, que terminó abrazando aquel autoritarismo con la llegada de Milei y que perdió su identidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo, tu responsabilidad es construir algo mejor, no buscar la eliminación del otro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí la responsabilidad de esto es una mala gestión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el PRO estuviera haciendo una buena gestión, la chance de Santoro, de La Libertad Avanza, de Rodríguez Larreta, serían nulas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Haber salido corriendo apoyando a Milei y haber dicho que se le iban a poner límites que después nunca se le pusieron, tiene costos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Digo, el republicanismo intermitente es un problema.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3550
+}

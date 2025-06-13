@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Después va a hablar detenidamente **Pancho Oliveira** sobre las vinculaciones del gobierno del Chaco con la desaparición y muerte de **Cecilia Strzyzowski**, pero el interés del Chaco excede lo que está pasando electoralmente y lo que pasó ayer en esa provincia con la competencia electoral.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daría la impresión de que la Argentina, más allá de las leyes, se está convirtiendo en un país de voto voluntario, dados los niveles de resistencia y reticencia a participar: abstención y voto en blanco.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos estamos viendo, no solo viendo, pensando, sino además sintiendo -después vamos a hablar de economía- que las tareas que tiene que realizar la clase política para devolvernos una mejor calidad de vida y, básicamente, para triunfar y ser eficaz en un desafío central que es la derrota de la inflación, bueno, exigen muchísimo poder político.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El 42,66 por ciento de los votos los obtiene Juntos por el Cambio; gana como precandidato a gobernador.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay algo más que hay que mirar en el voto en blanco y en la abstención, y es algo, si uno quiere, desalentador, problemático.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hace semanas en un acto público, **Cristina Fernández de Kirchner** dijo -creo que fue en La Plata- que el objetivo del Frente de Todos, ahora llamado Unión por la Patria, es entrar al balotaje.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una posición activa de Alberto Fernández de dañar al kirchnerismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Scioli la explota. A él le preguntan: 'Pero, ¿cómo te animás a esta aventura en contra de Cristina?', ha tenido comunicaciones este fin de semana con viejos amigos de él que hoy no están más en el kirchnerismo, más ni siquiera forman parte de las filas electorales del peronismo en general.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa traiciona los dos lados de la mesa, no sabemos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Patricia Bullrich se ofrece como la candidata del corte, de la ruptura con el sistema, tiene alrededor de ella a un grupo de dirigentes políticos que son más acordistas que Larreta, empezando por Monzón, todo está un poco como simulado detrás de lo que parecen proyectos distintos de poder, proyectos políticos, parece haber nada más que proyectos biográficos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9211
+}

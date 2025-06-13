@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a hablar sobre las declaraciones de Cristina Kirchner, tanto sobre la oposición como sobre el escándalo de los últimos días, que intenta opacar el pedido de condena de la fiscalía, a cargo de Diego Luciani, en la causa Vialidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estos tres departamentos se entremezclan pruebas de corrupción, maltrato a subordinados por parte de los Kirchner, y la estrecha relación entre Cristóbal López y Lázaro Báez con la familia Kirchner.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si bien el oficialismo afirma que todos los testigos declararon a favor de Cristina Kirchner, muchos testificaron en su contra.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno de ellos revela información asombrosa sobre las finanzas de los Kirchner, Lázaro Báez y Cristóbal López, que operaban casi como un holding.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Kirchner son propietarios del quinto piso, desde donde Cristina observa a quienes la defienden.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Varios de sus socios, como Osvaldo de Sousa (hermano de Fabián de Sousa, socio de Cristóbal López), compraron los departamentos primero y cuarto por casi 430.000 dólares cada uno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego, Cristóbal López compró ambos departamentos a De Sousa, pagándolos en efectivo, lo que lo llevó a ser investigado y procesado por lavado de dinero.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entre 2007 y 2011, ¿quién figuraba como inquilino del quinto piso? Lázaro Báez.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristóbal López compró el primero y el cuarto, a través de Osvaldo de Sousa, en efectivo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según el expediente, el remisero Oscar Centeno, junto a Roberto Barata, realizó 87 viajes a Juncal y Uruguay.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si agentes honestos hubieran investigado durante el apogeo del kirchnerismo, hubieran notado la actividad nocturna en el departamento, aparentemente deshabitado pero alquilado a Lázaro Báez.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entiendo que Patricia Bullrich la insultó llamándola \"borracha\", mientras afirmaba que las movilizaciones a su casa eran pacíficas, lo cual no fue cierto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué Lázaro Báez alquiló su departamento si ella no vivía allí? ¿Por qué Cristóbal López compró dos pisos? ¿Qué hay sobre la declaración de Centeno?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esos cinco pisos se resume lo que Cristina Kirchner debería explicar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Bonadío allanó el departamento de Cristina Kirchner, el Senado frenó el procedimiento.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2410
+}

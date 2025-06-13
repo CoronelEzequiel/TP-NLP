@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Porque son unos hijos de puta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No tienen vergüenza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y vienen estos tarados, y perdonen por tarados, siempre digo tarados, pelotudos, no, tampoco, estos hijos de puta, y se votan una ley para cobrar siete millones por mes cuando el argentino promedio gana trescientos mil.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si pueden voltear al gobierno, ellos van a poder volver a robar como era antes con la banda de Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana estos cobran siete millones y nosotros nos olvidamos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3065
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "José Mallán",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.158,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Critica la delegación general de facultades al Poder Ejecutivo, permitiéndole actuar prácticamente sin control del Parlamento, especialmente en relación a la declaración de emergencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Critica duramente el Régimen de Inversiones (RIGI), calificándolo como una reforma encubierta de la Constitución de 1994 que favorece a grandes inversores en detrimento de las provincias argentinas, dejándolas indefensas ante el CIADI (Centro Internacional de Arreglo de Diferencias Relativas a Inversiones), un tribunal del Banco Mundial.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También critica fuertemente la reforma fiscal, considerándola un blanqueo para funcionarios del gobierno anterior, permitiendo la evasión fiscal sin trazabilidad y facilitando la entrada del narcotráfico.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Destaca la precarización laboral y la falta de transparencia en la información oficial sobre inflación, desempleo y emisión monetaria.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Indica que las leyes gravan excesivamente a la clase media, y finaliza afirmando que estos proyectos de ley son inaceptables y que deberían priorizarse las negociaciones entre Nación y provincias para un desarrollo armónico del país.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuestiona la falta de debate y el apuro por la aprobación de las leyes, con consecuencias negativas para el país, como el aumento de la deuda pública y la pérdida de empleos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1480
+}

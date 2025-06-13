@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ya hemos descrito las inconsistencias y la variabilidad de Alberto Fernández: ciertos gestos de genuflexión, exageración, entrega y amistad hacia Rusia y China.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No creo que haya estrategia, creo que hay una improvisación permanente, una visión muy ideologizada y superficial de cómo funciona el sistema internacional, y por supuesto, un presidente que tal vez no conozca el lenguaje, las normas y las cuestiones básicas de la diplomacia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina se convirtió en un país bastante irrelevante.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fracasos que no se le pueden atribuir solamente a la oposición: errores de visión, errores no forzados.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si efectivamente vamos a una alternancia de poder (un escenario de alta probabilidad en 2023), sería lamentable que la oposición, una vez más, pierda la oportunidad para demostrar que está para mejorar la calidad de la política pública.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2754
+}

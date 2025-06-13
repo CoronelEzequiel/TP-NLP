@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.37,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Una vez más, en Argentina, asistimos a una operación mediática, política, judicial y geopolítica en torno al atentado terrorista contra la AMIA que asesinó a 85 personas el 19 de julio de 1994.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mahiques difundió una gacetilla, anticipada a Joaquín Morales Solá y otros comunicadores, donde afirmaba haber logrado verdad y justicia en el caso AMIA.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La operación y la alineación con los intereses de Estados Unidos quedó en evidencia al celebrar el fallo el gobierno argentino, afirmando que se comprobó la autoría del atentado a la Embajada de Israel y a la AMIA, y acusando al kirchnerismo de intentar encubrir la responsabilidad de Irán y de traicionar a la patria con el Memorándum de Entendimiento con Irán de 2013.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nisman se sumó a la campaña contra el gobierno de Cristina Fernández de Kirchner, un gobierno que había logrado una distribución del ingreso más equitativa, los salarios reales más altos del siglo y las jubilaciones más altas de Latinoamérica.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri dio de baja el Memorándum y reabrió la causa, dándosela a Claudio Bonadio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3131
+}

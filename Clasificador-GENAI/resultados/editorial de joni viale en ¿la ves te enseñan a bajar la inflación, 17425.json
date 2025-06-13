@@ -1,0 +1,66 @@
+{
+  "texto_id": "¿Cuál es el colmo de los colmos?",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.873,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Breve recordatorio de la época de gobierno, de Orcolandia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, nosotros teníamos a Guillermo Moreno con una 9 milímetros arriba de la mesa hablando con los empresarios.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y la otra variante era mintiendo en el INDEC.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta misma gente ahora te enseña sobre inflación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más soviético que Gorbachov tomando vodka en el Kremlin.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta gente te da, mira la papa, 2092%.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El diablo Clarín.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este tipo, Massa, fue el peor ministro de Economía de la historia.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo, se tienen que callar la boca, al menos por dos o tres años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que hizo el viernes no es ninguna tercera fase, no me vengan con esos cuentos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, no hay ninguna razón para que la inflación explote como quiere el kirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3237
+}

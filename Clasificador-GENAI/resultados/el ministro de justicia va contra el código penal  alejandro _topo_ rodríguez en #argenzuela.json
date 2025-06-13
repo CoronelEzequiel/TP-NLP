@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estas medidas conculcan derechos, retrocediendo en la legislación que, desde un punto de vista progresista, generaba y ampliaba derechos para diversas comunidades.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De algún modo, haciendo gala de un preocupante desconocimiento de la ley, el ministro habilitó el debate en el Congreso sobre la eliminación del femicidio como agravante del homicidio en el Código Penal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Vamos a eliminar la figura del femicidio del Código Penal argentino\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Código Penal vigente no viola el principio de igualdad ante la ley entre varones y mujeres, sino que protege a las mujeres en un país donde se las mata por cuestiones de género, por el hecho de ser mujeres, entre otras razones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considero que el ministro de Justicia debe ser enjuiciado, en los términos del artículo 51 de la Constitución Nacional, por mal desempeño de sus funciones y removido del cargo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1875
+}

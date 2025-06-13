@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El hombre que ayer asumió la presidencia no tuvo el tipo de comunicación, de presentación, de estética de un tecnócrata. Parece ser alguien que pretende mover emociones, se presenta a sí mismo como el protagonista de una saga histórica, se conecta con una narración que ayer llegaba hasta 1816 y la independencia, la generación del 37, Sarmiento, Roca, y la reposición de esa tradición después de lo que él llama 100 años de colectivismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo convive este fenómeno de un líder que pretende sostenerse en la opinión pública y en la adhesión de la opinión pública, entre otras cosas, porque carece de recursos institucionales, sobre todo en el Congreso, con este otro fenómeno: un ajuste feroz, que es lo que anunció ayer.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este va a ser el ajuste por licuación. Piso el gasto, lo congelo en términos nominales y dejo que la inflación vaya degradando la cantidad de pesos de que dispongo, que destino para solventar un déficit gigantesco, un gasto delirante.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un programa que se está cifrando en un decreto. Mañana vamos a conocer un decreto que tiene que ver con reorganizaciones del Estado con muchas cláusulas. Entre otras, una muy importante, un detalle pero estratégico, se modifica la edad del Procurador del Tesoro, que es el abogado del Estado, que es el que va a tener que ir a litigar a los tribunales cuando vengan los reclamos y las cautelares por lo que contiene el ajuste estructural, que es Rodolfo Barra, que como está excedido en la edad que se prevé para el Procurador del Tesoro, le modifican esa cláusula para que él pueda ser el abogado frente, sobre todo, al fuero contencioso administrativo y ante la Corte, un gran administrativista que es Rodolfo Barra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Eliminación de estatutos laborales que conceden como cotos de casa determinados sectores sindicales. Eliminación o permiso para privatizar empresas públicas que se les darían, la primera idea era dárselas a los trabajadores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9001
+}

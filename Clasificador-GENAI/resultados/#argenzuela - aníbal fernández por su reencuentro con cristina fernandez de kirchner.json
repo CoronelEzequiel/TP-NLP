@@ -1,0 +1,36 @@
+{
+  "texto_id": "radio10_anibal_fernandez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner es la figura más importante de la política argentina en los últimos cien años.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era imperioso, se dio la posibilidad de juntarme con Cristina; hacía años que no hablábamos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no nací de un repollo y tengo dos carreras universitarias, contador y abogado. Pude hacerlo porque un día Juan Perón me permitió entrar a la universidad y lo vamos a seguir haciendo, porque acá no hay ninguno de estos personajes que vaya a frenarnos ni a los jóvenes ni a los que estamos atrás de los jóvenes empujando y ayudando en todo lo que se pueda para la defensa de sus intereses.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, pero los pobres no van a las universidades.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peronismo, a diferencia del radicalismo…",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3936
+}

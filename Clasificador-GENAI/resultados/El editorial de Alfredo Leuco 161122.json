@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "No quisieron ser cómplices de la aberración ilegal impulsada por Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una metáfora perfecta porque refleja que quien hoy es la presidenta de la nación se ha \"pintado la cara\" y se ha sublevado contra una orden de la Corte Suprema de Justicia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insistir con la designación del senador Claudio Martín Doñate en el Consejo de la Magistratura es mantener la trampa con la que intentó robar una silla al senador Luis Juez.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, además, esos delirios golpistas confirman que se siente atrapada y sin salida, porque se avecina el peor \"árbol de Navidad\" de su vida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema para Cristina es que, en una democracia republicana como la que estamos tratando de mejorar los argentinos, no hay súbditos, hay ciudadanos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina está más autoritaria e irracional que nunca, porque sabe que se le viene la noche del veredicto en la causa Vialidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1959
+}

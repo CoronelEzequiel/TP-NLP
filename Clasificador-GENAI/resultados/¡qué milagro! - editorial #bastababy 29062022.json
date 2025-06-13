@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Porque lo que hizo con Milagro Sala fue digno de no tenerle más respeto como presidente, mire lo que le digo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Terribles, terribles hijos de puta lo de la Tupac Amaru.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo viví en Jujuy y conviví con la Tupac Amaru.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sinceramente, eso que está haciendo hoy este hombre que tiene el país incendiado, hecho mierda, quebrado, fundido, destruido, se toma un avión, nos costó algo de 60.000 dólares el viaje y se va a hacer esa payasada para darle gusto a Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina cree que puede volver y que la van a amar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Le pido al presidente por favor que no nos tome más de tontos, que todos sabemos que Milagro Sala es una delincuente, que él está haciendo papel de idiota, que los argentinos no lo queremos allá, lo queremos acá, arreglarnos los quilombos, el dólar que se fue a la mierda, la falta de gasoil, los pobres que se matan entre ellos, lo queremos acá solucionando los problemas que nos causó en la Argentina, y no es por la pandemia, es porque no supo manejar la pandemia, y nos encerró un año y medio y nos fundió, mientras él hacía las bacanales y se afanaba las vacunas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3605
+}

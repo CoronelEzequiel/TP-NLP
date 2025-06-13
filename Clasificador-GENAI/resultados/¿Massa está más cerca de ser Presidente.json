@@ -1,0 +1,36 @@
+{
+  "texto_id": "massa2023",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Desde la oposición le dicen: “Mire, usted es joven, si tiene pretensiones para 2023, no va a hacer el ajuste que necesita la economía para funcionar a largo plazo. Tenga una actitud patriótica, haga el ajuste que tiene que hacer, no sea candidato para 2023 y sea el candidato de 2027, cuando usted tenga 54 años, todavía tiene mucho tiempo para presentarse en futuras elecciones presidenciales”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta perspectiva, que es la que tienen los economistas y los políticos de la oposición, que de alguna manera, Ricardo López Murphy lo planteó ayer en la sesión, cuando le dijo a Massa, \"exclúyase como candidato de 2023\", parte de la hipótesis de que la única solución para que la economía mejore es producir un ajuste que genere dolor en la población y que, por lo tanto, no sería electoralmente atractivo para quien lo produce, y luego ser un buen candidato.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Versus la mirada que tienen algunos economistas cercanos al oficialismo, más heterodoxos, que suponen que se puede hacer simultáneamente un ajuste que, al mismo tiempo, sea expansivo o que no sea recesivo, porque lo que se corte del Estado se pueda generar en el ámbito privado y, simultáneamente, se produzca un ordenamiento de la macroeconomía, pero, al mismo tiempo, mejorándole la vida a la gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa fue el principal impulsor para que se apruebe, que puso Argentina arriba de la mesa para discutir con el Fondo, dijo: “Miren, hasta acá, los programas que ustedes le proponen a los países, y que en la Argentina propusieron con el ingeniero Macri, que llevó adelante un ajuste, sobre todo en el año 2019, de 12 mil millones de dólares, no funcionó.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Nosotros estamos convencidos de que no hay una receta que le mejore la vida a la sociedad en el mediano plazo a partir de seguir pidiendo a la gente que la pase mal, para que, en un futuro que nunca sabemos cuándo llega, estemos todos un poco mejores”.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6104
+}

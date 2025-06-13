@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Debemos estabilizar el precio de los alimentos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El otro gran problema es el endeudamiento familiar; mucha gente se endeuda para llegar a fin de mes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este acuerdo debe contemplar una mayor distribución de recursos del Estado hacia los sectores más vulnerables.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema principal es que a gran parte de la población no le alcanza el dinero, independientemente de si tiene trabajo, un plan social o realiza changas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La extrema derecha aprovecha este descontento, aunque sus propuestas (venta de bebés y órganos, dolarización) son inaceptables para gran parte de la población.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que se está agotando un modelo y hay que explorar otras alternativas, como las que Cristina ha planteado (economía bimonetaria, nuevas políticas).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considero que un proceso interno con varios candidatos fortalecería al Frente de Todos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me inspira el modelo del Frente Amplio uruguayo, donde se prioriza la discusión de un plan de gobierno y la selección de un candidato a partir de ese debate.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1967
+}

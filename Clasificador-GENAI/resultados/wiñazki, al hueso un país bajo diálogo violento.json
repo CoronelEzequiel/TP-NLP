@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.442,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La polarización política en Argentina se manifiesta en un preocupante deterioro del diálogo público.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las redes sociales y los medios de comunicación amplifican un discurso agresivo y confrontativo, donde las descalificaciones personales se imponen sobre el debate de ideas.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este tipo de lenguaje, reproducido también en los cruces entre funcionarios del oficialismo y la oposición, obstaculiza cualquier posibilidad de consenso y entendimiento.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta falta de diálogo no solo afecta la vida política, sino que también genera un clima de hostilidad social.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La polarización extrema y el uso indiscriminado de insultos impiden la búsqueda de soluciones consensuadas y la resolución pacífica de conflictos.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Argentina, la necesidad de recuperar este ideal se hace cada vez más urgente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1695
+}

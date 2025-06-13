@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pablo Moyano, alias El Salvaje, se convirtió en el dueño del poder.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue el patrón del mal.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández estaba en Chilecito, en La Rioja.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo que nos estamos recuperando, que estamos creciendo y estamos avanzando. Más mentiroso no se puede ser.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández también se oculta.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa no se mostró ni a la hora de anunciar una segmentación incomprensible de tarifas.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Oscar Laborde y Sabino Vaca Narvaja son dos embajadores del chavismo y del capitalismo maoísta en la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El príncipe heredero, Máximo Kirchner, también está en la clandestinidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El país está estallado en mil pedazos con cortes y movilizaciones diarias, con inflación galopante que erosiona el salario y el poder adquisitivo, con cierre de empresas que están en la lona, con más desocupación y pobreza.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2249
+}

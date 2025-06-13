@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se enferman los fines de semana para faltar menos al trabajo, y la relación con el trabajo que tenían los japoneses es la que tenía mi padre, quien murió en la mañana del sábado, haciendo que el velatorio y el funeral quedaran concluidos el domingo y el lunes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos sus allegados, de los cuales muchos integraban esta empresa, vinieron a trabajar normalmente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y siempre me decía: 'No dejes de trabajar'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si nos estás escuchando y viendo desde algún lado, aquí estamos trabajando igual que siempre, como vos querías.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1565
+}

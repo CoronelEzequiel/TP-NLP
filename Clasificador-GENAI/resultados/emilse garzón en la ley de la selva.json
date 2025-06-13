@@ -1,0 +1,101 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.189,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Por supuesto, es un hecho que hay que analizar en profundidad, y no solo porque creo que intentarán complejizarlo para eximir de responsabilidad a Javier Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo primero que debo decir es que hoy cayeron las acciones un 6%, el dólar subió 15 pesos, y como mañana no es feriado en Estados Unidos, puede haber más consecuencias para la economía argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que ya ahí había una alerta, era como un *scan* profesional utilizando a Milei, diciendo que otros asistirían.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, fue el clásico esquema Ponzi: \"Si participás, accedés a esto\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, cuando sucedió el Tech Forum en octubre del año pasado, dije que había una posibilidad de que estuviéramos cerca del uso de la imagen de Javier Milei en el Ponzi más grande a nivel nacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y también algo que vos dijiste, Allie, que me parece importante, es que hay molestia dentro del ecosistema cripto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, por lo que dijo Caputo recientemente, diciendo que es un grupito pequeño, que son pocos los que saben, se desarrolla hace años el blockchain y las criptomonedas con gente muy responsable que intentó advertir de distintas maneras, y de ninguna forma les hicieron caso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirai lo presentó como un proyecto serio que iba a ayudar a financiar a las PyMEs argentinas, lo cual, me imagino, a las PyMEs que están en dificultades no les debe hacer mucha gracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo lo dije en la radio porque me impresionó mucho y contrasta con lo que dijo Milei hace un rato en esa conversación que tuvo en TN, donde no le preguntaron ni por la denuncia ante el FBI, ni por la denuncia ante la Securities and Exchange Commission, ni cuál podía ser la repercusión de este escándalo en la negociación con el Fondo Monetario Internacional, ni en la perspectiva de financiamiento de Argentina, ni tampoco en la cotización de sus valores, porque hoy las acciones cayeron un 6% en este país y eso tiene consecuencias para todos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es así, ¿no, Emi?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, sí, porque lo que pasa es que esperaban, desde el mundo cripto, que sea un año en el que empiece a tener mucha más relevancia Bitcoin, que empiece a tener muchísima más relevancia la oportunidad que la CNV estaba dando para regular, y que la regulación ayude a que haya más adopción.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No creo necesariamente que haya sido una manipulación estrictamente, porque hace más de cinco años que tiene relación con Novelli.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es la ley de la selva.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sería una situación inédita, ¿no?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá tampoco sabemos si Javier Milei había cobrado algo o había alguna promesa para promocionarlo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que la impunidad que creían que podían llegar a tener en el mundo de los criptobros…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, Milei tiene una vieja relación con Novelli, que data de cuando era su empleador en NW Trading.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y mirá quién está ahí también, Agustín Lage, el faro moral de la ultraderecha latinoamericana.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4456
+}

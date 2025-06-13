@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando en 2015 Cristina Fernández de Kirchner resignó prácticamente la candidatura a favor de Daniel Scioli, una de las estrategias que encontró el kirchnerismo para impulsar a un candidato percibido como ajeno, casi un extraño, fue decir que 'el candidato es el proyecto'.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 2019, con la premisa de ampliar el espectro político hacia la derecha, se eligió a Alberto Fernández.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como escribió Diego Genoud, el ascenso de Massa como sucesor de Cristina Fernández de Kirchner representa para los círculos financieros internacionales una posibilidad muy deseada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con Massa, 'el candidato es el proyecto' se vuelve literal: no hay proyecto más allá del candidato; en realidad, el candidato es el ajuste.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Intentar enfrentar a la derecha con candidatos que 'toquen su música' solo la fortalece.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1685
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.879,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La mayoría de los ministros y funcionarios son inútiles, vagos y mentirosos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su pertenencia afectiva y efectiva al chavismo y su admiración hacia autócratas nefastos como Vladimir Putin los llevan inexorablemente a cometer torpezas que perjudican a los argentinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Antiimperialismo jurásico y voracidad por las coimas y los sobreprecios fueron los caminos que nos llevaron a la falta de vacunas suficientes para afrontar el momento más terrible de esta pandemia criminal.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si su modelo de dirigente sindical es un mafioso como Hugo Moyano y su ejemplo como gobernador es un señor feudal como Gildo Insfrán, y admiran el fracaso integral de Cuba, bueno, no hay nada más que agregar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos llevan derechito al caos y a la sinrazón.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso se instaló con tanta rapidez en las redes y en la conciencia social que este es el peor gobierno de la historia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El fin de la meritocracia es la única promesa que Alberto cumplió.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2379
+}

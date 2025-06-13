@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.122,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y uno lo escucha hablar al Presidente, habla con una soberbia y una ignorancia supina que grafica que él piensa que, bueno, el problema de la mortalidad se resolverá solo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, estamos viendo el desguace, la destrucción del Estado.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero cuando está en riesgo la patria hay que proponerse dar una lucha ordenada y dentro del marco de la Constitución para conseguir que el hombre y la mujer común, los jóvenes, los mayores, las mujeres embarazadas, las personas con discapacidad se enteren de que hay otra salida y que no es lastimando a nadie.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, ¿mi ley es hija de los errores y los enfrentamientos del peronismo? Sí, 80%.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me parece que lo que hay que hacer acá es hablar menos, no sentirse los dueños de todo, y dejar de manosear una lapicera que no les pertenece y poner a los amigos en las listas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cada vez hay más pobreza, cada vez hay más indigencia. Están haciendo pedazos a las pymes, al campo, a la industria, están rompiendo todo y encima el Presidente se da el lujo de decir que él es el topo y que desde adentro está rompiendo el Estado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y creo que en algún momento va a ser tanto el daño que van a provocar que van a generar una movilización.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo siempre hago honor a los que se han ganado espacios políticos y que no se comen los mocos cuando les están empujando o pretendiendo tirar el saco para que hagan o digan determinadas cosas que se les ocurren a ellos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hoy Axel Kicillof es un ejemplo gráfico.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4643
+}

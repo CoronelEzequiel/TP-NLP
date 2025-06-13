@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.425,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Quiero reiterar algo que he sostenido consistentemente: sin importar quién gobierne y ante situaciones diversas, como las que presenciamos hoy, que me causan gran tristeza, estas problemáticas se manifestaron durante el kirchnerismo y antes, con el caso de Cresta Roja, entre otros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un trabajo es algo distinto. Hay cosas que no se solucionan con una indemnización, por beneficiosa que esta sea, tanto para quienes la reciben como para quienes no. El trabajo, el empleo, representa mucho más que el salario, que ya de por sí es significativo. Representa una situación de dignidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien estoy en contra de las tomas y otras acciones similares, considero que es importante entender la angustia de la gente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incluso aquellos que aceptaron las indemnizaciones, perder un trabajo afecta la dignidad de las personas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 932
+}

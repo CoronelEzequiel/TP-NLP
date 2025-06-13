@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los argentinos, que nos consideramos excepcionales, sobre todo respecto de América Latina, por no tener el drama de la pobreza, ahora somos excepcionales porque somos una fábrica de pobres.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La política está capturada por la pobreza, lógicamente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es lógico que el kirchnerismo sea el nombre del peronismo en toda esta época y que, tal vez, lo siga siendo, con el nombre kirchner o con otro nombre, va a haber una variante populista dominante, que también la hay en Juntos por el Cambio porque, mire qué curioso, ahora hay un debate de si Larreta gobierna una ciudad que es Bruselas, una ciudad pulenta, rica, ahora el principal proyecto político de Larreta, su nave insignia, su showroom, cuando quiere mostrar su gobernación, su administración, es la villa 31, es decir, lo que más le interesa a él en su configuración como líder político es mostrarle a la sociedad lo que él hace con la pobreza, toda la política empieza a estar regida por esto.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una disputa respecto de quién representa a los pobres dentro del propio gobierno, ¿es Arroyo con la tarjeta alimentaria impersonal o es el clientelismo de los movimientos sociales que dicen: \"No, no, no, dame los planes que tenemos que repartir y ver la cara a los que se los repartimos\"?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8152
+}

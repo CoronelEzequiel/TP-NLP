@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.856,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El país está, como digo todas las noches, destrozado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que es la primera vez en la Argentina, después de la dictadura militar, que hay un motivo para quejarse porque no hay horizonte.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con un presidente que miente, que dice que los puertos y la construcción no dan abasto, le pagan para mentir.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y yo creo que entre nosotros alguien está. Creo que está Maduro, que está Irán, creo que está Putin, creo que está la escoria del mundo, llegó un avión a Argentina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso mi monólogo de hoy es esto: el miedo a que pase algo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque la idea de Cristina Kirchner, Maduro e Irán es llevarnos a todos debajo de la línea de pobreza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy nadie sale porque le tiene miedo a los piqueteros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a los chicos no les enseñan historia, pero sí a usar el lenguaje inclusivo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y cuando nos queramos dar cuenta no salimos más, como le pasó a los venezolanos en manos de ese traidor tirano de mierda.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3251
+}

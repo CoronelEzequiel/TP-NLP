@@ -1,0 +1,36 @@
+{
+  "texto_id": "Audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es el contraste entre un mercado, agentes económicos, sobre todo los financieros, muy entusiasmados o crecientemente entusiasmados con la política económica y con la marcha del gobierno, y una opinión pública que empieza a manifestar algunos reflejos de negatividad, de pesimismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un contraste también entre la concepción ideológica de un gobierno que, en lo económico, se presenta como liberal, como muy apegado a las reglas del mercado, o con una vocación de cumplirlas, y que, en lo institucional, tiene reflejos, por lo menos, de una actitud mandona y agresiva de acumulación de poder, no necesariamente liberales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando uno mira la política institucional de este gobierno, no se parece tanto a un proyecto liberal. Y uno puede hasta sospechar que hay algunos indicios de reflejos autoritarios en el gobierno. Como si hubiera una especie de autoritarismo de mercado, por decirlo de alguna manera.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que vemos es que hay una descomposición opositora en lo que estaría fuera de La Libertad Avanza: Juntos por el Cambio –como es obvio– ya estalló, ya no existe más, y si hubiera que encontrar una prueba, la prueba está en **Martín Lousteau** diciendo: \"Macri se entiende con Milei por negocios\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "dando la impresión de que la filosofía de este gobierno, en la concepción última de la comunicación, es favorecer las redes y debilitar a los medios tradicionales o a los medios profesionales.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8840
+}

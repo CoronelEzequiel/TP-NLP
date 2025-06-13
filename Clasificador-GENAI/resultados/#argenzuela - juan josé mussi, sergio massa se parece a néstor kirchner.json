@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.343,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando nos unimos somos invencibles, y es cierto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El único que persiste es el peronismo en Argentina. Y persiste por la militancia, por su doctrina, por su filosofía de preocuparse por los que menos tienen. Eso es fundamental.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi ley perdió un punto, no solo se estancó, perdió puntos, y ni hablar de Juntos por el Cambio.",
+      "score": 0.7,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que pagar, pero como podamos.  Tenemos que decir: 'Te pago como puedo'.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero veo en él condiciones de liderazgo muy importantes. Se me parece a Néstor Kirchner.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que hay gente que no quiere un gobierno antidemocrático, no está de acuerdo con lo que dice el candidato, que confunde y grita.",
+      "score": 0.7,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El único que llamó a la unidad nacional fue Sergio Massa, y lo hizo antes de la elección.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2191
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Indudablemente, el mundo giró políticamente a la derecha, y las mayores novedades son las extraordinarias elecciones que impulsan a la ultraderecha, lideradas por personajes que eran inverosímiles y bizarros en otros momentos políticos y suscitarían risa en la audiencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como fiscal general, derrotó a los bancos que dejaron a familias sin un hogar. Como nuestra vicepresidenta, lucha todos los días por los derechos reproductivos de las mujeres y derrotó a las compañías farmacéuticas para bajar el precio de la insulina y los medicamentos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El nuevo líder de un lugar llamado Argentina es genial, y es un gran fan de MAGA. Hizo su campaña con MAGA y lo llevó al extremo también. Hizo su campaña con MAGA y escuché que está haciendo un trabajo realmente genial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a derrotar el culto a las ideologías de género y reafirmar que Dios creó dos géneros, llamados hombre y mujer. No permitiremos que hombres compitan en deportes femeninos, ya que cuando lo hacen, ustedes saben lo que pasa. Vamos a salvar la dignidad de las mujeres y vamos a salvar los deportes femeninos. Lo que hacen es ridículo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kamala Harris, a diferencia de Trump, se posiciona como una defensora de los derechos de los trabajadores frente a las corporaciones, los bancos, las grandes empresas, que también muchas veces son vistas como responsables de los dramas que sufren la mayoría de los norteamericanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3741
+}

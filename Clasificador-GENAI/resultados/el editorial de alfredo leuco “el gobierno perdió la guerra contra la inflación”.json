@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay que bajar el gasto público, frenar la maquinita de fabricar billetes, plantear un camino de acuerdos serios que den un poco de credibilidad y, sobre todo, tomar medidas razonables y capitalistas y terminar con tanto infantilismo chavista.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La superinflación está a un paso de la hiperinflación y hace correr frío por la espalda de los argentinos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los peronistas como Alberto, Cristina y Sergio Massa no hicieron otra cosa que multiplicar este drama.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una torpeza más de Massita.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay más pobreza, más indigencia, más inflación, menos inversión, menos crecimiento, casi nulas reservas quedan en el Banco Central y menos ilusiones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Emilio Pérsico, comandante del movimiento Evita, confirmó que Sergio Massa le había pedido que salieran juntos a apretar a los empresarios para que bajaran los precios.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina es la autora intelectual del blindaje a Sergio Massa y los Daer de la vida son los autores materiales.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este gobierno es una autoconstrucción psicológica y su objetivo es volvernos locos a todos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2336
+}

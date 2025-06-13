@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Massa, por su parte, apunta a desacreditar a Milei, presentándolo como un candidato caótico, manipulado por Mauricio Macri, quien, según Massa, ya generó un caos económico anterior, sin tener en cuenta las condiciones geopolíticas y macroeconómicas del presente gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa destaca la recuperación del empleo registrado privado desde la pandemia, contrastándola con la disminución durante el gobierno de Cambiemos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien el formato no fue una entrevista tradicional, Massa planteó ideas interesantes, como la recuperación del valor de la moneda no a través de la dolarización, sino impulsando la producción y las exportaciones argentinas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su propuesta se basa en ofrecer incentivos a las exportaciones, particularmente a través del diferencial exportador: reducir impuestos a las empresas que aumenten sus exportaciones por encima de un determinado nivel.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para Massa, la solución radica en un agresivo programa exportador, incluyendo un cambio en el sistema de trabajo de los embajadores, vinculando sus ascensos al éxito en la apertura de nuevos mercados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La economista Mariana Mazzucato, autora de \"El Estado emprendedor: la colaboración público-privada y sus mitos\", refuerza la idea de un rol activo del Estado en la dirección de la inversión y el crecimiento, y no solo como un actor reactivo ante las fallas del mercado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este enfoque, similar al de Estados Unidos y China, demuestra que un Estado activo puede dirigir el crecimiento económico.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, la propuesta de Massa, alineada con la visión de Mazzucato, ofrece una alternativa viable para el futuro del país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1754
+}

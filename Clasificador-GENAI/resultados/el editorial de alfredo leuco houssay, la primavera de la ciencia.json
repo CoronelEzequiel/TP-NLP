@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.694,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por eso, es necesario un poco de luz para no volvernos locos en la oscuridad y para salir de la hecatombe económica de este gobierno, nada mejor que apelar a nuestros mejores héroes de la meritocracia.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me gustaría mostrar la contracara de tanto chanta y delincuente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso es meritocracia en estado puro, aunque a los Fernández no les guste.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tuvo un rechazo visceral por el autoritarismo y por eso tuvo problemas en 1943 cuando el gobierno militar dispuso expulsar a todos los profesores de la universidad que habían firmado un manifiesto antioficialista y él, por supuesto, lo había firmado.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La memoria del doctor Houssay es un talismán al que tenemos que aferrarnos para construir un país mejor para nuestros hijos, con más ciencia y con menos ignorancia, con más austeridad franciscana y menos frivolidad, con más honradez y menos corrupción, con más meritocracia y menos acomodados.",
+      "score": 0.82,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2734
+}

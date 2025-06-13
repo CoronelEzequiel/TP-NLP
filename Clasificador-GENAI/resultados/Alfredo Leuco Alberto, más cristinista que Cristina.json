@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.838,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández reacciona peor que Cristina Fernández de Kirchner.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto no escucha las exigencias de las multitudes, ni las de la oposición, ni de gran parte de la justicia.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En lugar de detenerse, reflexionar y recalcular el rumbo caótico del gobierno, al igual que su jefa política, redobla la apuesta, niega la realidad y acelera hacia el precipicio donde lo espera un gigantesco conflicto de poderes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto se muestra más \"cristinista\" que Cristina, y aún así Cristina le sigue \"comiendo\" piezas del ajedrez y complicándole la vida.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, al que algunos todavía siguen considerando una persona moderada, dice que ahora estamos mejor que con Macri.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin justicia independiente, con mordaza a la prensa libre, sin respeto a la propiedad privada, ni a nuestras libertades, ni a la Constitución, perdemos los estándares de una sociedad democrática y la esencia misma de la República.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Crece en el gobierno el peso del \"frente para la venganza\" y la \"agrupación para la impunidad\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La degradación de Alberto es la noticia de la semana.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con este sistema de gobierno, sus jardineros volverán a tener helicópteros.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La frutilla del postre fue el encuentro que Alberto y la señora Fernández tuvieron con Hugo Moyano y su esposa en Olivos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Violador serial de las leyes en el corazón formal del poder.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alberto reacciona peor que Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2871
+}

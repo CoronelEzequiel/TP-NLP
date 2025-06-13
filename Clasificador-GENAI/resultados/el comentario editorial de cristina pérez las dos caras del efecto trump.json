@@ -1,0 +1,56 @@
+{
+  "texto_id": "Corrección del texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que este lunes las dos caras de Trump incidieron en cosas que tenían que ver con Argentina, porque cuando las acciones y bonos de nuestro país reverdecían en Wall Street por efecto del discurso del presidente Javier Milei y su anuncio de un acuerdo con el Fondo Monetario Internacional (FMI), esa racha positiva se detuvo, quedó como en vilo, cuando el mandatario norteamericano redobló su cruzada proteccionista, anunciando el inicio implacable de aranceles del 25% para sus vecinos de México y Canadá.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, la pregunta, que escuchábamos en inglés, se la hacía el corresponsal de La Nación, Rafael Matus Ruiz, y el presidente norteamericano le contestaba: \"Con Argentina voy a hacer cualquier cosa, lo que sea\", le decía, \"porque creo que Milei es un tipo genial, es un gran líder y está muy bien. Rescató a Argentina del olvido\", dijo Trump.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la voluntad que manifestó Trump, con seguridad, con determinación, con pocas palabras, por parte de un líder mundial que centra sus relaciones internacionales en su voluntad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que hay una oportunidad de trabajar con Argentina, pero yo creo que algún tipo de acuerdo que pueda proporcionar más inversiones, oportunidades, pero los acuerdos de libre comercio como se conocían en los años 90, ya esa etapa en nuestra historia terminó.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el mensaje ante el Congreso, de hecho, el propio Javier Milei había adelantado su voluntad, y por eso también esta confirmación de Trump impacta favorablemente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no hay que tomar esta afirmación de Trump desde la literalidad del acuerdo de libre comercio, sino más bien, yo les diría, como un pulgar para arriba, tan amplio como necesario de cara a un problema que tiene Argentina y a una oportunidad.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El alineamiento del presidente Milei con los Estados Unidos, incluso a expensas de posiciones como la de su apoyo incondicional a Ucrania, puede verse como un acierto desde el punto de vista de las necesidades económicas del país y en un año donde también van a jugar otras dinámicas que son las dinámicas electorales.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras el kirchnerismo busca, por ejemplo, mantener vivo el \"criptogate\" en las noticias, el gobierno apunta a la inseguridad en el conurbano.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno de Milei busca una primavera, exactamente cuando arranca el otoño y en su costado más fuerte hasta ahora, que es la economía.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3534
+}

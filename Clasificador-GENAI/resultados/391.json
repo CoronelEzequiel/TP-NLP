@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.207,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La muerte de Silvina Luna conmocionó al país, pero este hecho lamentable también puso en evidencia un problema mucho más profundo: la operatoria de Aníbal Lotocki.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace más de una década que se conoce su accionar, acumulando numerosas víctimas, muchas más de las que sabemos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ha creado la \"tormenta perfecta\": la existencia de Lotocki, los medios que fomentan un canon de belleza irreal, y las redes sociales que lo amplifican y lo vuelven cruelmente implacable.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este caso pone en evidencia la falta de regulación y control en el ámbito de la cirugía estética.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante recordar a otras víctimas de Lotocki, como Raquel Mancini, Susana Giménez (que se sometió a múltiples rinoplastias), y las numerosas travestis y trans que sufrieron las consecuencias del uso de materiales inadecuados durante las décadas de 1980 y 1990.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un mercado que incentiva la búsqueda de la perfección física, presionando a las mujeres a someterse a procedimientos estéticos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Silvina Luna se operó a los 30 años, impulsada por la presión de la industria del entretenimiento y el miedo a ser considerada \"vieja\" a esa edad.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1599
+}

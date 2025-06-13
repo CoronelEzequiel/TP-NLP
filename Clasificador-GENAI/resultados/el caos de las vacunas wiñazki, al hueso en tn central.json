@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Según información oficial de la Presidencia, Argentina ya recibió 24 millones de dosis de vacunas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De estas 24 millones, son 23 y pico millones de dosis; 18 millones de personas se vacunaron con la primera dosis, y quedan alrededor de 6 millones de personas que se tienen que vacunar con la segunda dosis.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pagamos casi 90 millones de dólares por el 60% de 23 millones de dosis de vacunas que no llegaron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto, el gobierno lo sabía desde diciembre pasado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después, Carla Vizzotti avisó, si se acuerdan, que en un momento dijo: \"Vamos a tener otra estrategia, vamos a dar una primera dosis a más gente\", y después la segunda, pero el propio presidente de la República desautorizó esta idea hace ya unos meses.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, finalmente, se confirmó lo que iba a ser un hecho: las vacunas de Rusia, para la segunda dosis, no están llegando.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Axel Kicillof, entiendo que sin querer, envió un mail a todas las personas que se habían inscripto para vacunarse, hablando del diferimiento de la segunda dosis, que no había que tener miedo a una segunda fecha que todavía no se aseguraba en el plan de vacunación a quienes se habían dado la primera dosis porque iba con un retraso, pero que se iban a garantizar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un momento, en Argentina, hubo un comando unificado de vacunación, donde estaban involucrados varios ministerios, incluidas las Fuerzas Armadas, e iban a salir a vacunar masivamente a todos los argentinos. No pasó, y todavía no hay certidumbre ni transparencia sobre cuándo, cómo y cuánto nos van a costar estas vacunas que tienen que llegar a Argentina para que se cumpla lo que dice la ciencia: primera dosis, segunda dosis, inmunidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1994
+}

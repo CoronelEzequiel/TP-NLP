@@ -1,0 +1,31 @@
+{
+  "texto_id": "alfa",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Siempre he sido antikirchnerista y he criticado las políticas que, en mi opinión, destruyeron al país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre fui enemigo de la política, pero ahora me interesa sumarme a un proyecto de cambio. No necesito nada, soy feliz con lo que tengo, pero quiero ayudar a construir una Argentina fuerte. No me interesa la política como un medio para enriquecerme.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy abierto a sumarme al proyecto “Mi Ley” y analizar en qué puedo contribuir. Si veo que estoy capacitado y que puedo aportar, me sumaré.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me preocupa la inseguridad en la provincia de Buenos Aires, donde vive mi hija y mis nietas. Quiero ayudar a implementar políticas que mejoren la seguridad. También me preocupa la educación; vi a un estudiante de segundo año de economía que no sabía sumar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1401
+}

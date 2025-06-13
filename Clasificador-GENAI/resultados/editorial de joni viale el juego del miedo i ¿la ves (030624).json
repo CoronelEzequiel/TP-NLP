@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.805,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "No descartemos que los delincuentes kirchneristas quieran generar una situación de conflicto que involucre muertes.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque los kirchneristas son así.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina, muchas veces se han utilizado muertes políticamente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y ahora, según mi análisis, están buscando una situación de conflicto que involucre muertes para desestabilizar el gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes se habrán dado cuenta que el kirchnerismo coquetea permanentemente con la palabra muerte.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sueño que Milei se vaya como De la Rúa, porque si no se va como Pinochet, y los muertos los pone el pueblo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este es un gobierno asesino capaz de matar.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y Milei lo confesó: \"Hasta que no estén los cadáveres en la calle, él no la ve\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es muy importante tomar conciencia de que, del otro lado, hay gente jugándose la vida.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto ya no es un invento del periodismo, esto ya pasó.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4336
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.08,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Señaló que, así como en la década de 1990 Estados Unidos ejercía una fuerte influencia (la época de las \"relaciones carnales\" con Carlos Menem), ahora enfrenta un proceso de contención por parte de China, emergente como potencia mundial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La excepción, un gobierno de extrema derecha o de derecha alternativa (como se lo denomina en Estados Unidos), es la Argentina, país crucial para la región, miembro del G20, con abundantes recursos naturales, que requiere un fortalecimiento para evitar la formación de un eje regional alineado con una agenda común contraria a sus intereses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estados Unidos tiene gran responsabilidad en la falta de avances en el caso AMIA.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Concluyo con la pregunta inicial: ¿Por qué el gobierno argentino confronta públicamente a Petro, López Obrador y Lula?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estados Unidos necesita que Argentina contrarreste la influencia de estos líderes, y el gobierno argentino es parte de esa estrategia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1680
+}

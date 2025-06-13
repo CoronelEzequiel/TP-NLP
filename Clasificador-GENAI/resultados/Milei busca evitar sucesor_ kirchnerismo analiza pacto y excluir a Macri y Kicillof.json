@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_paso",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno envió al congreso la ley de eliminación de las PASO y el cambio en el financiamiento partidario para que sea tratado en sesiones extraordinarias.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se podría decir que esta nueva ley formó las condiciones políticas que permitieron que dirigentes como **Mauricio Macri** y **Javier Milei** llegaran al poder, es decir, la creación del kirchnerismo se volvió en contra de él.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si ahora se dejaran de financiar las campañas y los partidos políticos y se dejara de otorgarles espacios gratuitos en los medios de comunicación, quienes puedan llegar a hablarle a la población serán solamente quienes consigan financiamiento, algo que generalmente está asociado al oficialismo, y, obviamente, esto es un paso atrás para la apertura democrática que vive la Argentina desde el fin de la dictadura, que ha permitido todo tipo de alternancia, tanto a nivel nacional como a nivel provincial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el año 2008, **Cristina Fernández de Kirchner** desafió a quienes cuestionaban al gobierno a que hagan un partido y le ganen las elecciones, lo que recientemente citó **Mauricio Macri**: 'Recuerden cuando nos amenazaron y dijeron: 'Hagan un partidito y gánennos'', y finalmente le ganaron, le ganaron con este sistema que hoy se va a modificar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, una vez que llegó al poder quiere cambiar las reglas de juego, quizá para que otro candidato disruptivo no pueda llegar en las mismas condiciones, es decir, lo que se llama siempre 'patear la escalera'.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6267
+}

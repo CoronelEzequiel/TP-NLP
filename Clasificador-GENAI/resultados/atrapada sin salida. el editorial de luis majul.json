@@ -1,0 +1,86 @@
+{
+  "texto_id": "A desmontar mentiras, nosotros desarmemos y desmontemos sus operaciones",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner hizo lo imposible para despegarse de las acusaciones y del pedido de prisión, les recuerdo, de 12 años e inhabilitación para ejercer cargo público.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Amenazó a los fiscales y a los jueces.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su problema del que no puede zafar. Y hoy encontré algo, viendo viejos archivos, porque tiene que ver con esto que te voy a decir, con Lázaro Báez, pero encontré algo que nosotros presentamos como la ruta del petróleo acá.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El domingo si puedo les voy a mostrar. ¿Sabes que yo creo que todavía no le quitaron la concesión de petróleo a Lázaro Báez y a Cristóbal López en Río Ballejo, en Río Ballejo no, en la provincia de Santa Cruz?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que el respeto a las instituciones no es justamente lo que la ha caracterizado.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Eso se llama, en los libros de Weber, se llaman patrimonialismo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero hubo varios juicios de instrucción y se discutió todo esto ya y no le dieron la razón, ni los fiscales, ni los jueces, ni los camaristas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero lo de hoy fue un poco más grave porque Cristina se dirigió directamente al juez Jorge Gorini, a quien la semana pasada le tiraron un artefacto no explosivo en la puerta de su casa para pedirle que se pusiera en su lugar mientras revolvía carpetazos hacia Luciani, hacia el propio juez Gorini y también, cuando no, a Peromacri.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vincular el atentado con figuras desvinculadas del cambio y el PRO, como ya lo hizo, y usar al juez Gorini como el nuevo blanco móvil de su militancia cabeza de termo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que Lázaro fue un invento de Néstor Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras en Argentina muchos ciudadanos por los altos niveles de pobreza y ocupación no logran cubrir necesidades básicas, Lázaro Baez, que era Néstor Kirchner y Cristina Fernández, su familia, su entorno y los expresidentes eran la contra cara del país, porque se enriquecían ilegalmente a costa de los magros recursos del Estado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Igual que, y además no se metieron en los mensajes. Igual que el dato de que no hay mensaje directo, ¿viste? Beraldi dice, no le encontraron un solo mensaje directo a Cristina con las Árobaes y con José López, pero sí se encontró mil veces.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El hecho de que Luciani y el juez Rodrigo Jiménez Uriburu jueguen en el mismo equipo de fútbol y hayan pisado la cancha de los abrojos a metros de la quinta alfamilia de Macri es recontra divertido.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso voy a pedir que se extraigan testimonios de todos y cada uno de los hechos donde, perdón, donde confrontados los dichos del fiscal con la prueba obrante en autos, sea pericial, testimonial o documental, queda demostrado que el fiscal Luciani y el fiscal Mola mintieron en el alegato final de acusación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero, pero no, señora vicepresidenta, a ver, no somos tan tontos. La verdad es que no se trata de un gobierno entero.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6105
+}

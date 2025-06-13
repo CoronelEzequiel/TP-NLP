@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina intenta apropiarse de una juventud que no le responde y la desprecia, y nunca más.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ese joven hoy no está representado ni por Lustó, ni por Cristina, ni por Del Caño, ni por Bregman, ni por Larreta, ni por Giacobitti, nada, eso no.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sergio Massa diciendo en la marcha del año pasado que por suerte no había ido a la educación pública.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa, cuando fue ministro, hizo un tremendo ajuste de la educación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una cosa son los estudiantes quejándose porque quieren agua, y yo solo banco, y otra cosa son estos ineptos que arruinaron al país y van a la marcha a colgarse de los pibes, eso no.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Volvemos, volvemos, volvemos. ¿Qué queremos? Educación pública, fuerte, robusta, bien financiada, bien paga, con buenos sueldos, con buenos edificios, con buenas aulas, computadoras, buenos profesores, hospital de clínica funcionando.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que también votó la gente el año pasado es que no usen causas nobles para caja política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno debe entender que esto no es excusa, eh. No es excusa de ninguna manera.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ni Lustón, ni Cristina, ni Mochano, ni Lacan, por ahora, van a capitalizar un sorongo porque son impresentables.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3693
+}

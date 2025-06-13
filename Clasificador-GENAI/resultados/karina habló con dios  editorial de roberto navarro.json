@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se planteó la posibilidad de obligar a las prepagas a retrotraer sus precios.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, Javier Millay se negó rotundamente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta situación, aunque inusual, no es excepcional; existe abundante bibliografía al respecto, y cualquier persona que conozca a Millay desde hace tiempo puede corroborarlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su proceso de toma de decisiones se ve influenciado por la supuesta conexión de Karina Millay con una médium.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se trata de un hombre muy poderoso, jefe de las Fuerzas Armadas Argentinas, la Gendarmería Nacional, la Prefectura Naval Argentina y la Policía Federal.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta noche ofrecerá un mensaje a la nación, donde anunciará un supuesto superávit fiscal, primario y financiero en marzo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según la Oficina de Presupuesto del Congreso de la Nación y la Asociación Argentina de Presupuesto y Administración Financiera Pública (AAPAFP), la información es inexacta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro asunto preocupante es su discurso donde calificó de \"héroes\" a quienes fugan capitales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La contradicción es evidente entre la postura de Millay sobre la fuga de capitales y la solicitud de fondos al FMI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1834
+}

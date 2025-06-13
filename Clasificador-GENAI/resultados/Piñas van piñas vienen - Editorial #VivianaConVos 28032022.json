@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y la guita, señores, creo que eso es lo único que les importa. Ahí vemos a **Cristina Fernández de Kirchner**, que deja a su gente en las principales cajas del país con su plata, que es la nuestra, y lanza una candidatura nueva para reemplazar a **Alberto Fernández**.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa es que todos esperábamos que el \"enfermo\" de Alberto Fernández, el \"ocupa\" de Alberto Fernández, el lunes a las ocho de la mañana estuviera haciendo una conferencia de prensa en un escritorio con todas las renuncias sobre la mesa, diciéndole a la Argentina que no había escuchado el mensaje de las urnas, como dijo hipócritamente el domingo, porque obviamente se ve que además el ciego es sordo, porque jamás ha escuchado nada y tampoco aprendió nada de **Néstor** ni de nadie.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá este tweet del cara dura. En 2018 el gobierno de **Mauricio Macri**, ah, pero Macri y sus aliados de Juntos por el Cambio tomó la mayor deuda de la historia con el Fondo Monetario Internacional y la cargó en las espaldas de las argentinas y los argentinos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Víctor Hugo antes decías algo parecido, pero de Néstor Kirchner. Hasta que un día sonó el teléfono, clincaja y nunca más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro fanático del dinero es **Marcelo Tinelli**. Mirá como en 2015 se baboseaba por **Daniel Scioli**, por Scioli, y dejaba a un costado a Mauricio Macri.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Carlotto apoya a Maduro, sabiendo que en Venezuela se violan los derechos humanos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Axel Kicillof, sin duda, hubiera negociado mejor el acuerdo con el FMI. Guzmán se dedicó dos años a humanizar al FMI. Mejor pídale a Kicillof que se ocupe de la provincia de Buenos Aires, que es un quilombo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8934
+}

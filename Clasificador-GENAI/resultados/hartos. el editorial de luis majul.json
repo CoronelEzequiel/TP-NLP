@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.693,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La inseguridad, la inflación descontrolada y la falta de justicia son problemas gravísimos que afectan a toda la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es fundamental que las autoridades tomen medidas urgentes para abordar estas cuestiones y brindar seguridad y protección a todos los ciudadanos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es imprescindible que se investigue a fondo lo sucedido y se castigue a los responsables con todo el rigor de la ley.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La situación económica del país es preocupante.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es vital que se implementen políticas económicas responsables que controlen la inflación y mejoren la calidad de vida de los argentinos.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Respecto a las acusaciones que usted formula, considero importante que se investiguen exhaustivamente para garantizar la transparencia y la justicia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La paz y la justicia son imprescindibles para construir una Argentina mejor para todos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1082
+}

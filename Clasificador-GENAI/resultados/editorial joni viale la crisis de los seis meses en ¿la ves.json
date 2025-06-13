@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.731,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno necesita ley de bases, reforma fiscal, reforma laboral, privatizaciones, el régimen de incentivos, aplacar lo de Misiones, repartir alimentos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei es una consecuencia del desastre que hicieron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Alberto Fernández, ¿no fueron los cuatro años más caóticos de la democracia?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milei entendió que no se pueden repetir las internas tóxicas.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La sociedad eligió a este loquito, a este outsider, a este raro, a este distinto porque se agotó del fracaso de la política tradicional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El consumo está derrumbado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei tiene de su lado a los más jóvenes y a los más grandes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Misiones es un juego.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4207
+}

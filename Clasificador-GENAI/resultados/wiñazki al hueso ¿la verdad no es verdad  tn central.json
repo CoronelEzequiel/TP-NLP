@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.527,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En su momento, cuando Donald Trump estaba acorralado, o parecía estarlo, por el caso ruso, una affaire que lo vinculaba a las autoridades rusas, salió en Fox News, cadena de noticias muy importante de Estados Unidos, su abogado, Rudolph Giuliani, que fue alcalde de Nueva York, que impuso la política de tolerancia cero y bajó la inseguridad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Tigre, una manifestación (lo contábamos ayer y hablábamos con el intendente), de gente en auto, enojada porque se le había prometido una apertura mayor de la cuarentena en ese distrito y no pasó.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ricardo Lorenzetti, juez de la Corte Suprema que fue presidente de la Corte, dijo que la cuarentena tiene que tener un fin y que se estaban restringiendo las libertades, algo que también debía considerarse.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto Fernández dijo que no tiene que haber más discusión, que el problema no es la cuarentena sino la pandemia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy se reunió la comisión bicameral del Congreso de Inteligencia (por lo que contaba antes Maru) y también ayer se derogó un decreto de Macri para poner bajo la órbita del jefe de los fiscales las escuchas telefónicas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vimos la fiesta de Rubén Ulloa en casa de la familia David, organizadores de esta fiesta clandestina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Tucumán denunciaron al vicegobernador Osvaldo Jaldo por haber roto la cuarentena porque se vio un asado en casa de otro intendente, y se supo que en ese asado había estado también el gobernador Manzur, un miembro de la Corte Suprema de Justicia de Tucumán.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "“Somos políticos, nosotros estamos exceptuados del aislamiento. En algún momento teníamos que comer”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia de Tucumán fue incitada en el decreto de Alberto Fernández con el que se extendió la cuarentena porque la justicia de esa provincia dijo que se iban a tener que restringir las libertades individuales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para cerrar, quería comentar que hay una gran serie en Netflix, si tienes Netflix y la puedes ver te la recomiendo: *Peaky Blinders*.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una familia de gitanos (no estoy diciendo nada despectivo, ellos se identifican así) que, a medida que avanza la serie, te das cuenta que están trabajando y enriqueciéndose con cosas ilegales, pero ellos mismos se dan cuenta que para ser realmente ricos y poderosos tienen que entrar a la política y pasar de la ilegalidad a la legalidad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2688
+}

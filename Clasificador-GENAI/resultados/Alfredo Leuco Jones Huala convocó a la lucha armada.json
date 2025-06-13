@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Facundo Jones Huala, el comandante de estos violentos, antidemocráticos y antiargentinos, mediante un comunicado convocó a sus \"soldados\" a la lucha armada para vengar el asesinato de Elías Garay, que ocurrió en una de sus usurpaciones.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta locura insurreccional y separatista es el corazón de sus palabras escritas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es grave porque promete más sabotajes, más fuego y más muertes, pero es mucho más grave porque cuentan con la complicidad del gobierno de Alberto y de Cristina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Facundo Jones Huala, una especie de subcomandante Marcos del subdesarrollo, una caricatura de combatiente, propuso la lucha armada para construir un estado dentro de la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay más lugar para lavarse las manos y este gobierno está ausente y es cómplice a la vez.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2166
+}

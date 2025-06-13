@@ -1,0 +1,31 @@
+{
+  "texto_id": "Audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Muy buenas noches, bienvenidos a Audisea. En la campaña electoral, en la política, en la vida institucional de la Argentina, irrumpió hoy una novedad muy complicada para el oficialismo, en muchas dimensiones, pero sobre todo en una: afecta el corazón del discurso que han sostenido Cristina Fernández de Kirchner y todo su entorno a lo largo de los últimos años respecto de la relación entre política y justicia, kirchnerismo y justicia, persecución judicial, lo \"fair\" y sobre todo una materia que es escurridiza, pestilente, oscura, difícil de manejar: el papel de los organismos de inteligencia, el papel de los sótanos del Estado y de la política en la vida pública.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el caso de los chats de los jueces que viajaron al Lago Escondido, hay un intercambio... donde el diputado Tailhade... habla con Tailhade y le informa: \"Te voy a pasar los chats, me los pasó el jefe de inteligencia de la Policía Aeroportuaria de Bariloche.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto pone en tela de juicio, valga la redundancia, el juicio político a la Corte, porque debilita justamente los argumentos, muchos argumentos que han usado los diputados del oficialismo en esa comisión de juicio político en contra de la Corte.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa, que tiende a ir a buscar, como es lógico, votos de clase media no peronistas, él está buscando los votos de algunos radicales, de gente de Larreta, etcétera, no quiere aparecer ligado a lo que sería una intervención sistemática, agresiva, pesada del poder ejecutivo y de la política sobre la justicia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8069
+}

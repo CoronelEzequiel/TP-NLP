@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Resulta paradójico, pero ¿por qué el kirchnerismo desea jueces adictos?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La respuesta es simple: buscan jueces adictos para violar la ley en su propio beneficio, forzar la legalidad a su favor, beneficiar a sus allegados, cambiar el sistema desde adentro, extender el clientelismo a los tribunales, e impedir que su líder vaya a prisión, santificando la impunidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El derecho a la propiedad es asediado sistemáticamente; con jueces afines, buscan corroerlo jurisprudencialmente, cuando no pueden alterarlo por falta de votos en el Congreso.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo busca apropiarse de lo que no le pertenece.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo detesta el imperio de la ley.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estos fallos descabellados tendrán consecuencias, pero mientras tanto demuestran cómo se mina la estructura legal para generar impunidad para los poderosos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La imposibilidad de modificar la Constitución los llevó a colonizar los tribunales, fiscalías, el Consejo de la Magistratura y organismos de control.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sectores kirchneristas defienden el sometimiento de Alberto Fernández a Cristina Kirchner, como si el voto popular que lo eligió a él, y no a ella, fuera irrelevante.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son tomadores compulsivos de instituciones, suplantando la ley por los designios de una sola persona.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2129
+}

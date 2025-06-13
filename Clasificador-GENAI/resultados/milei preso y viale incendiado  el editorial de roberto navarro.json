@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.183,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Millet fue denunciado ante el FBI y el Departamento de Justicia de los Estados Unidos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, David Hadian, el desarrollador de la criptomoneda, declaró que los 286 millones de dólares robados pertenecen al gobierno argentino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo sucedido ayer evidencia que el gobierno manipuló las preguntas y respuestas, mientras que Viale aportó la imagen del presentador conocido.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Existe una disputa entre el gobierno y Clarín: el gobierno acusa a Clarín de manipulación, mientras que Clarín afirma que solo difundió el material editado que recibió del gobierno.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Davis sostiene que estaba tomando decisiones en nombre del gobierno argentino ante la falta de orientación e intervención de éste, y que esperará instrucciones de “Mi Ley” antes de devolver el dinero.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Millet, quien hace semanas propuso que a partir de los 13 años los jóvenes puedan jugar en casinos, se enfrenta a una crisis financiera, económica, política e institucional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2083
+}

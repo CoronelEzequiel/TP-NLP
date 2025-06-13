@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_a_gollan",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.11,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cristina es quien puede ordenar al Frente de Todos rápidamente, tanto internamente como de cara a las elecciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Corte Suprema ya ha tomado posesión de las decisiones legislativas y ejecutivas, se ha adueñado del poder.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos organizar 500.000 militantes para preguntarle a los argentinos, con sinceridad, cuáles fueron los mejores 12 años de sus vidas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que así le ganamos a Milei, ya que, aunque él tenga votantes que quieren un Estado presente, propone privatizar todo, quitar subsidios...",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Cristina no se presenta en una interna, quien la enfrente perderá por goleada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2165
+}

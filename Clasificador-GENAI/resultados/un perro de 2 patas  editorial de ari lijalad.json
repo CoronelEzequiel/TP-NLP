@@ -1,0 +1,41 @@
+{
+  "texto_id": "perro_bipedo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.217,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, su comportamiento se asemeja al de un perro bípedo, con reflejos condicionados y dócil ante sus amos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto representa un fabuloso negocio financiero, ya que Mercado Libre, inscrita como entidad financiera, opera esencialmente en este sector, utilizando el dinero de terceros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Galperín justificó su participación alegando que \"corta el curro\", eliminando intermediarios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si observamos la lista de los más ricos del país y sus vínculos con Milei, encontramos a Paolo Rocca (de nacionalidad italiana), cuya empresa Techint está radicada en Luxemburgo y una fundación en las Antillas Holandesas; controla aproximadamente el 20% de los cargos gubernamentales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este \"perro bípedo\" gobierna según los intereses de quienes lo condicionan.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los grandes empresarios le dicen lo que quiere oír, lo halagan y lo alimentan, generando un reflejo condicionado similar al del perro de Pavlov.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1733
+}

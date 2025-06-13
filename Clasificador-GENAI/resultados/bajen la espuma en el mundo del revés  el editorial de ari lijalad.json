@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_jxc",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.288,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estos son los artífices de la estrategia económica de Juntos por el Cambio (anteriormente Cambiemos).",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto generó una fuerte respuesta del gobierno, que cuestionó las acciones de Juntos por el Cambio, argumentando que se estaba intentando desestabilizar la situación financiera, dificultando la obtención de pesos para financiar los gastos públicos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordó que, en el pasado, habían solicitado al presidente Alberto Fernández que impusiera un techo al dólar, una medida que Fernández adoptó (fijando el dólar a $60), a pesar de que podría haber dejado que la situación se deteriorara durante el gobierno de Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde la oposición, no queremos que esto explote, ni ahora ni nunca. Porque no le conviene a nadie: ni al gobierno, ni a la oposición, y sobre todo a la oposición.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En resumen, según fuentes financieras, Juntos por el Cambio está anticipando una fuerte devaluación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A menudo se acusa al peronismo (o lo que ellos llaman populismo) de esta falta de transparencia, sin embargo, históricamente, el peronismo ha demostrado ser un pagador serial de deuda, sin endeudarse excesivamente en dólares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En contraste, la gestión de Macri se caracterizó por un endeudamiento irresponsable y el incumplimiento incluso de deuda en pesos, como demuestra el caso de Hernán Lacunza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, la preocupante inflación, exacerbada por la decisión de Morixe Agro (empresa exportadora de cereales) de repartir dividendos anticipados por $5.000 millones de pesos, a pesar de haber ganado $9.400 millones en los últimos nueve meses. Esto plantea la necesidad de discutir no solo la inflación y los precios justos, sino también la rentabilidad extraordinaria de las empresas del sector alimentario.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1835
+}

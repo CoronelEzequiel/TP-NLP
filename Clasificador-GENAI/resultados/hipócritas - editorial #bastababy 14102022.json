@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "No hacen falta ministerios para defenderlas; la genética ya las respeta, las ama y las cuida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mujer es un ser superior, capaz de engendrar vida.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Basta de esa farsa que nos venden con ministerios creados para enriquecerse a costa de los inútiles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos un sótano para quienes agreden a las mujeres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy cansado de escuchar, desde hace veinte años, sobre la igualdad de género, las \"feminazis\" y los pañuelos verdes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hablamos tanto de igualdad sexual, pero a Polino, quien podría ser un padre ejemplar, no le permiten adoptar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1543
+}

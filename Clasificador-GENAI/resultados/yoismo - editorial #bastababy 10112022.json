@@ -1,0 +1,71 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Creo que Cerruti es una insolente.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que Cerruti es una maleducada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La soberbia es directamente proporcional a la mediocridad.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que Cerruti hace lo que le pagan.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La culpa no es de Cerruti.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con la mediocridad del presidente que tenemos... Es normal que ponga a un mediocre de vocero.",
+      "score": 0.88,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los kirchneristas se vacunaron todos con la vacuna afanada.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son el grupo del alcahuete como Parrilli, Moreau, Pupu, el gordo este, que salen a explicar mentiras.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta mujer es partícipe necesaria de todo ese embuste.",
+      "score": 0.87,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nosotros somos, gracias, somos partidarios con el sueldo nuestro, con lo que le roban a nuestros hijos, a nuestros padres de la jubilación, a engordar a esta trupe de mediocres.",
+      "score": 0.92,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mientras Alberto, pasea con mi querida Fabiola, separados, pero juntos, que es el curro del viaje, esta señora, con todo el poder que tiene, imbuida y mareada, por el albertismo, y creída que es un espermatozoide de Perón, reencarnado en un periodista, dijo esa estupidez.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando votemos, no hay que votar contra la corrupción, que la corrupción ya está, se llevaron todo lo que había, contra la mediocridad, la chatura, la insolencia, y la soberbia.",
+      "score": 0.83,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3902
+}

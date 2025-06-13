@@ -1,0 +1,31 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Para qué se lo eligió a Alberto Fernández? ¿Para qué se le dio el poder? Bueno, cada uno tendrá una respuesta, pero hay una que está en el centro, que es indiscutible, para sacar al país de la recesión en la que lo dejó Macri.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una necesidad angustiante de dólares por parte del Banco Central, que ve cómo van goteando sus reservas, aun con un cepo que, al lado de este cepo, aquel de Kicillof, que levantó Macri, es libertad de cambios.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno va a tener que hacer una reforma en el sistema previsional. Por lo tanto, un llamado telefónico a La Cámpora. A quien Alberto Fernández le entregó ANSES. ¿Fue una decisión inteligente frente a esta agenda?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si uno mira la cuenta de Twitter de Cristina Kirchner, que es donde ella se expresa, los enemigos son los del 2012, 2013, 2014, 2015, ni siquiera Fernández puede tener sus propios enemigos, son los de ella.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5877
+}

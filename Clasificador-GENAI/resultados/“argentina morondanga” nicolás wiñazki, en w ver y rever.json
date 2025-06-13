@@ -1,0 +1,71 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.542,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La mitad de la población vive en la pobreza.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, circular es complicado, no solo por los piquetes, sino también por las implementaciones relacionadas con el Aislamiento Social Preventivo y Obligatorio (ASPO).",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El personal de salud que luchó y sigue luchando contra el COVID está mal pago y exhausto.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué YPF está quebrada?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina es uno de los países con mayor carga impositiva del planeta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy vi el acto de Cristina Kirchner, Alberto Fernández, Axel Kicillof y toda esa gente que se quiere mucho, y para demostrarse ese cariño se juntan y se sacan fotos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Argentina, además, vacunarse es muy difícil.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sepan que la Argentina no era esto, y alguien en algún momento se va a tener que hacer cargo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "San Martín fue gobernador de Cuyo, de Mendoza, durante tres años, a partir de 1814.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay más fotos, una fiesta, y les vamos a contar quién entró a Olivos durante la cuarentena.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese consejo es bastante confuso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El 2020 fue un año catastrófico.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3693
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.531,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo principal es que el gobierno de Javier Milei ha hecho y sigue haciendo una apuesta principal a un único tema: reducir la inflación.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy difícil que una economía se despliegue, se desarrolle, sobre todo que haya inversión privada, si hay dos tipos de cambio o varios tipos de cambio, varios precios para el dólar, si no se sabe cuánto vale el dólar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, lo que pase con el dólar, lo que pasa y lo que va a pasar con el dólar, es determinante para el resultado electoral, sobre todo desde el punto de vista del gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gran desafío histórico de Milei es que este experimento ligado a la libertad de mercado y al control de la inflación, o a la derrota de la inflación, no termine en una recesión.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo esto tiene que ver con la política internacional comercial también. Porque el gobierno de Milei está aprovechando esta afinidad para negociar un acuerdo especial con Estados Unidos, que está, como sabemos, llevando a una guerra comercial a la escalada global.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al mismo tiempo, coordinadamente –no hay que mirarlo como una visita, digamos que esto sucedió por casualidad–, llega a Buenos Aires Matt Schlapp.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El primero en salir es Mauricio Macri, que asume una postura moderada, moderadamente optimista, condicional, como todo lo que dice Macri hoy respecto al gobierno, condicional.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el momento en que más se están matando Milei con los Macri, como vimos en esa entrevista con Majul, hay aparentemente un esquema de unidad en la provincia de Buenos Aires.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8752
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "vacunacion",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.205,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Agradecemos al servicio de vacunación porque la gripe se puede prevenir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes saben que hace años, hace más o menos 10 años que venimos haciendo estas campañas, que no tienen ningún interés económico, sino simplemente concientizar sobre la importancia de la vacunación antigripal, contra la neumonía y ahora, bueno, obviamente, contra el COVID, pero es importante saber que también hay gripe, no solamente está el COVID, sino que hay otras enfermedades que nos acompañaron durante todo este tiempo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un crimen que se tire una vacuna, es un crimen que una vacuna en la República Argentina y en el mundo se venza, por eso es importante en este momento, donde hay circulación del virus de la gripe, conjuntamente con una cocirculación del virus del COVID, estar cubierto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sabemos que todos los años, como pasa con el COVID, la vacuna contra la gripe cambia, porque los virus mutan, la gente aprendió mucho, hemos aprendido que los virus mutan, que las vacunas funcionan, pensemos que hay más de 11 mil millones de vacunas aplicadas contra el COVID, hace muy poquito el Ministerio de Salud reportó los efectos adversos de las vacunas aplicadas contra el COVID aquí en la República Argentina, se habló poco de eso, pero es importante comentar, por ejemplo, que estas vacunas no tienen magnetismo, no se me pega la cuchara, la cacerola, el auto se me quedó pegado...",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, quiero, es importante decirlo porque las vacunas que se han aplicado en la Argentina y en el mundo en general han funcionado todas, algunas en mayor o menor escala, pero todas han funcionado, y de hecho estamos acá hoy sentados, podemos estar hablando en este ambiente, y estamos, hemos pasado estos dos años, y creo que debemos todo esto a la iniciativa científica de generar una vacuna en solamente 10 meses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repito esto, porque es importante colaborar con la campaña nacional de vacunación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para ellos la vacuna es gratis. El CDC recomienda que la vacuna sea gratuita. Y que la vacuna sea gratuita.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la gente le pregunta a la doctora. ¿Se ha tomado conciencia? Sobre todo ahora con la antigripal. ¿Cómo te va?",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Atención. Vos sabés que hoy me sorprendieron los oyentes. Y hay que ser respetuosos de las declaraciones del \"Cuervo\" ayer.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un mensaje muy directo, muy claro. Que escuchen el mensaje de la sociedad. Nosotros estamos al margen. Que escuchen el mensaje de los votantes. Y tienen razón. La tienen que escuchar.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4012
+}

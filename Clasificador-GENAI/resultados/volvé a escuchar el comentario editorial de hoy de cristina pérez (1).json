@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.826,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Se reunieron para asediar a la Corte Suprema de Justicia de la Nación.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fin último del kirchnerismo es socavar la República.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando se somete a su poder judicial a los designios políticos, despojándolo de su independencia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El presidente no puede ejercer funciones de juez, y los jueces se mantienen en sus cargos mientras dure su buena conducta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando avanzan contra la Corte, contra la estabilidad de los magistrados o contra el cumplimiento de sus funciones, avanzan contra la República, avanzan contra la Constitución.",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1887
+}

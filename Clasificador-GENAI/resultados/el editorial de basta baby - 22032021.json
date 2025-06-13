@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y el peronismo se basó en la mentira.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, la derecha continuó con las mentiras peronistas arcaicas, esas en blanco y negro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la mentira se ha impuesto de tal forma que la gente compra una gran mentira y no una pequeña verdad.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros somos un país que todavía estamos en el puesto 15º a nivel mundial. No somos representados por nadie. Estamos hundidos en un hueco de corrupción.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2703
+}

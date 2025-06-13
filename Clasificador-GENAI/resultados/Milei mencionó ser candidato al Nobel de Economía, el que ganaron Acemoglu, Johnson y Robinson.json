@@ -1,0 +1,36 @@
+{
+  "texto_id": "Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Allá por febrero de 2022, cuando aún el auge de Milei era incipiente, el ahora Nobel Acemoglu fue entrevistado por Jorge Fontevecchia en \"Periodismo Puro\", en la saga de entrevistas que hace Jorge Fontevecchia, que se pueden leer en el diario Perfil, y también, claro, por Net TV los fines de semana. Allí, Acemoglu habló acerca del vínculo entre liberalismo y libertarismo, esta idea que lleva adelante el presidente Javier Milei, además de analizar lo que tiene que ver con la realidad argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una persona no es realmente libre si no tiene un estatus social y se siente inferior o tiene miedo de no poder alimentar a su familia",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No creo que se puedan contar los problemas que tiene hoy Argentina sin entender el papel que ha jugado el partido peronista. El peronismo se convirtió en una máquina de rentas que distribuye a través de controlar los recursos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A manera de los liberales en Europa de mediados del siglo XX, creo que los mercados, en contraposición a la planificación central, son la clave de la libertad. La planificación central no permitirá ningún tipo de florecimiento social y económico que deba complementar la libertad. Por otro lado, los mercados no regulados tampoco son compatibles con la verdadera libertad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Estado es arbitrario, pero hay incertidumbre y frustración. Manipula y quita poder a la gente que se ve reducida a esperar y rogar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3420
+}

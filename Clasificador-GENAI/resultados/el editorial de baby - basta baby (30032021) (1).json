@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.657,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Está mal, señor, no hay que hablar en contra de Cristina, está todo bien.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un país completamente inmoral, un país completamente loco, un país con las agujas del reloj al revés, y encima nos causa gracia porque somos muy pelotudos y todo nos causa gracia, nos parece que a todo le pasa a los demás.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo: “¿Qué se yo, viste? ¿Qué discutimos?”.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este país está corrupto y podrido.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sean más maduros, muchachos. Hagan política madura, no ese engaño.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y cuando pasan los cuatro años, te cuentan todo lo que no hicieron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo peor de todo somos nosotros, los que nos creemos periodistas y somos incisivos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3168
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.487,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuando la inflación alcanza niveles del 100%, una parte importante de ella no obedece ni al déficit fiscal ni a la emisión de dinero.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La única forma de solucionar la problemática que genera la inflación en determinado momento es salir del gradualismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una parte de la oposición que preferiría que explote todo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo más sano, lo más sensato sería que no hubiese ni bomba para el próximo gobierno, ni explotase la bomba ahora, sino que hubiese un plan antiinflacionario.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La inflación es el impuesto más destructivo que tiene una economía, porque, además, tiene una incidencia, un número neto sobre el bolsillo de todos, de manera equitativa, y entonces destruye más el ingreso de quienes menos tienen que de quienes más tienen.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestro desafío más importante es bajar la inflación. Y nuestra tarea para el 2023 es tratar de sostener niveles de inversión pública y mejorar el ingreso como desafío más importante.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que es posible generar un plan antiinflacionario que, rompiendo rápidamente con lineamientos de inflación y bajando la inflación rápidamente, genere una expansión de la economía.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si para que haya un plan antiinflacionario que tenga éxito, no solamente tiene que parar la inflación, porque si no sería la paz de los cementerios, tiene que lograr que esa inflación se pare, pero, al mismo tiempo, el consumo y los salarios mejoren.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3587
+}

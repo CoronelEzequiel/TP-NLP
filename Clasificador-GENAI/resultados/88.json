@@ -1,0 +1,41 @@
+{
+  "texto_id": "Argenzuela",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que entiende que su oponente es Mauricio Macri, y que hoy Macri no es solo Macri, sino Macri más todo el poder que lo rodea: poder interno (un presidente que lo apoya), poder externo (fuertes apoyos económicos) y el poder judicial, que está actuando de forma impresionante.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri, en lugar de preocuparse por el país, parecía más preocupado por ganar la interna de Boca.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández se va a Madrid a dar clases en tres universidades. Le pagan 10.000 euros por clase. ¡Lo aplaudo! Es un genio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que realmente mueve las cosas es Sullivan, con quien Javier Milei se reunirá hoy al mediodía.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Clinton cobra por estas apariciones, vive de eso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me llamó mucho la atención que, cuando hablaba del país, parecía que también se refería a la situación nacional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1909
+}

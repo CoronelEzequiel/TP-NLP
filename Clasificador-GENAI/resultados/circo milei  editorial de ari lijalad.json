@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Desde que asumió el gobierno de Javier Milei, se produjo una mega devaluación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se reprimió a quienes se manifestaron contra las decisiones del gobierno. Esta represión incluyó agresiones a 30 periodistas, con un herido de bala en el ojo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este mismo DNU permite el aumento de las prepagas médicas, la entrega de los cielos argentinos a corporaciones extranjeras, la eliminación de leyes de protección a la industria nacional, la ley de alquileres, la ley de góndolas, la ley de abastecimiento y la ley que regula la actividad en los supermercados, y permite la privatización del Banco Nación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El lunes comenzarán las audiencias para pedir la ampliación de la condena contra Cristina Fernández de Kirchner, quien recibió una condena de seis años de prisión por la firma de un decreto público, sin que aparentemente exista delito alguno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, como anticipé hace unos días, el gobierno de Javier Milei comenzó a armar causas contra exfuncionarios, luego de haberse dado la orden en todas las áreas del Estado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación económica, con la imposibilidad de acceder a alimentos y medicamentos, se utilizará como argumento para justificar las medidas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1951
+}

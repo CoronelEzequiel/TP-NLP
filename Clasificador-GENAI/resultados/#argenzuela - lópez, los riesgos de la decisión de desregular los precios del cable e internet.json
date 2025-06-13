@@ -1,0 +1,51 @@
+{
+  "texto_id": "¿Qué significa esto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.169,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Significa que las compañías de telecomunicaciones e infocomunicaciones (internet, televisión por cable, televisión satelital, telefonía fija y móvil) pueden liberar sus precios.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto puede tener consecuencias negativas para las pequeñas empresas frente a las grandes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin intervención estatal en esta mediación, se puede provocar la quiebra de las pequeñas empresas o la aplicación de precios excesivos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ley original establecía que los precios debían ser justos y razonables, y permitía la intervención estatal en caso de que no lo fueran.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al eliminar la intervención estatal, la empresa misma decide si sus precios son justos y razonables.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto libera totalmente la fijación de precios de servicios esenciales como la conectividad, necesaria para el trabajo, el estudio y la investigación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se elimina la esencialidad del servicio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ante un liberalismo salvaje junto con la desaparición del Estado, sin regulación. ",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1680
+}

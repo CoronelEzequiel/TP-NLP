@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Un gobierno peronista debería seguir el lema de Perón, que decía: \"Los únicos privilegiados son los niños\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y los chicos lloran, increíblemente, porque quieren ir al colegio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El único gobernador que apoyó esta medida es Axel Kicillof, porque fueron Axel Kicillof y Cristina Kirchner quienes convencieron, según fuentes de presidencia, a Alberto Fernández de tomar esta restricción de dejar de educar, por lo menos, a los chicos de la provincia de Buenos Aires y de la Ciudad de Buenos Aires.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si los chicos juegan a intercambiarse el barbijo, ¿es culpa del chico de seis, cuatro, siete u ocho años que se suspenda la educación 14 días en un país que está devastado, donde seis de cada diez chicos son pobres?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Kicillof recién le echaba la culpa a la Ciudad de Buenos Aires por el COVID.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si no podemos cuidar a los chicos del COVID en los colegios, cerremos el país y vámonos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2242
+}

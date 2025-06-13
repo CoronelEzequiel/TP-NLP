@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Quizás el error conceptual más grande que haya cometido mi partido desde que asumió el gobierno haya sido celebrar el triunfo de Donald Trump.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este proyecto presenta una gran fragilidad, con consecuencias negativas para buena parte de la población, especialmente para el sector financiero y la macroeconomía.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este incidente, viralizado en redes sociales, revela la problemática del tipo de cambio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trump hizo campaña prometiendo cerrar la economía y aplicar aranceles, que son impuestos a la importación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la principal potencia mundial, un gran importador, se cierra de esta manera, se generará una guerra comercial, con otros países adoptando medidas similares como la imposición de aranceles y devaluaciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina se encuentra en un período de \"timba\", como en otras ocasiones.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En conclusión, este período de aparente bonanza económica amenaza con terminar de manera muy perjudicial para Argentina y para mi partido, ya que celebramos la victoria de Trump, el candidato que nosotros apoyamos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1905
+}

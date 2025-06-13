@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis_mufa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"Anulo Mufa\" fue lo que le dijo Ricardo López Murphy a la ministra de Trabajo, Kelly Olmos, cuando ella expresó que era más importante ganar el mundial que resolver el tema de la inflación a corto plazo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la historia de los \"MUFAs\" tenemos el caso del expresidente Menem, catalogado como \"MUFA\", y hay una foto icónica de Néstor Kirchner en el Congreso, al lado de Menem, agarrándose un testículo como señal de espantar la \"MUFA\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entre los que fueron considerados \"MUFA\", hay que destacar a \"Chapu\" Martínez, el influencer, del cual escucharemos un audio llorando, ya que hasta amenazaron de muerte a su familia. Luego, la periodista Nati Jota, el streamer conocido como \"Kostku\", la cantante Tini Stoessel, y el paradigmático caso más representativo de todos: el del expresidente Mauricio Macri.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El único miembro argentino que tiene la FIFA, de gran empatía con el poder, es alguien que no quiere que Argentina de verdad gane. Se llama Mauricio Macri.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mauricio Macri no tendría que estar sentado ahí, no tendría que estar en la FIFA, porque dos países que integran la FIFA lo han denunciado por el tráfico ilegal de armas, por el golpe de estado que se llevó muchas vidas en Bolivia.",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué hacía ese 'cabeza de termo' en el mundial? Es una locura, el 'cabeza de termo' en el mundial.",
+      "score": 0.8,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no lo escuché a Macri referirse, porque quizá no es tan tonto como para plantear abiertamente: \"Che, mejor que pierda\", pero si escuchamos a los voceros de Macri que están contándote, hacen la inversa.",
+      "score": 0.7,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No vino Macri y, de alguna manera, por eso ganamos.",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre este personaje está en los lugares donde se destila la corrupción, en los Panama Papers, en la FIFA, en los procesos de blanqueos.",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5453
+}

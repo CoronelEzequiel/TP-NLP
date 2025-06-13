@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La situación de los jubilados es aún más complicada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me gustaría que alguien, en un día como hoy, se plantara y dijera: “Aquí estamos, para apoyar a nuestros mayores”.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno está erosionando nuestro sentido de la solidaridad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su éxito reside en haber incentivado el odio y en haber logrado que el peronismo se vuelva contra sí mismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que el gran triunfo de este gobierno, en esa \"batalla cultural\" que tanto mencionan, no radica en los \"trolls\" ni en los grupos de redes sociales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Odian a la gente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La conferencia de líderes conservadores es una pantomima; una reunión de consorcios de fascistas internacionales.",
+      "score": 0.8,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos ser solidarios, incluso con quienes dicen: \"Me cago de hambre, no llego a fin de mes, pero que no vuelva el mal peronismo\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición trabaja en el Congreso, pero no hay movilización.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No maltrataron, no contuvieron, no abrazaron; dejaron a la gente sin horizonte.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2540
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "Musica Metálica",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La jefa de la asociación ilícita, corrupción, desaudación al Estado, todo eso... Ah, pero los jueces de la Corte, ah, pero los fiscales, por favor, necesitamos un grupo de personas sensatas que se hagan cargo de este país, por favor.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Confirman una vez más su rol de guardianes de la impunidad macrista. El Poder Judicial devenido en partido político protector del macrismo y perseguidor de los dirigentes de las distintas fuerzas que se le oponen, coloca a los ciudadanos y ciudadanas en situación de libertad condicional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La estrategia de Cristina es atacar a la Corte, quedar como una víctima, como una perseguida política. Ya conocemos todo este cuento hace años.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella sabe que es culpable y empieza a querer maquillar la realidad como si fuéramos muy pelotudos. Ella quiere armar el relato, contártelo, ponerle épica, pero la épica de ellos es una épica muy mentirosa y ya nos dimos cuenta, justicia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a dejar de pagar los intereses del FMI que está pagando la Argentina todos los días. Todos los días. Me hicieron un gran problema porque dije que quería que los jubilados no paguen más medicamentos. Que el Estado se los subsidie.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos un presidente que nos miente y sabemos que nos miente. Lo miramos y ya podemos decir, a ver, ¿con qué nos va a sorprender hoy? ¿Qué nueva mentira nos va a decir Pinocho Fernández?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué bueno que sería que se vayan todos los payasos de este gobierno, quedaría muy poco, se irían casi todos. Y ya no nos causa ni gracia que estos payasos nos sigan tirando torta en la cara. No nos aguantamos más, justicia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argentinos somos los reyes de la trampa. El presidente está tan perdido, está tan jodido, que piensa que la gente hace subir el dólar para molestarlo a él.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8981
+}

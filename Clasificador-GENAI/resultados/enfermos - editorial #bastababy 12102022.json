@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.781,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si conoces a alguien sin escrúpulos, ignorante, egoísta, propenso a la corrupción, infiel, y capaz de traicionar incluso a su propia familia, esa persona se parece mucho a un político.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Admiro y apoyo a algunos, como Luis Juez,  (¿Estévez Cordobés? - nombre incierto, necesita corrección),  Waldo Wolff,  Iglesias, Ocaña, y otros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la política actual está invadida por sinvergüenzas y oportunistas que avergüenzan a la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escucho en todos los canales hablar de las próximas elecciones, de las posibilidades de Cristina Fernández de Kirchner y de Mauricio Macri, pero nadie habla del hambre, la inflación, y las dificultades que atraviesa la gente para llegar a fin de mes.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, los políticos se creen superiores, como Cristina Fernández de Kirchner, quien parece embargada por el poder y ajena a las consecuencias de sus acciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Macri promete ser más duro, pero cuando tuvo el poder no actuó con la suficiente firmeza.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Votamos por sinvergüenzas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner se llevó el país, y su hijo parece querer seguir sus pasos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1835
+}

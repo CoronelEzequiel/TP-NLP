@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.225,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se habla de reforma laboral, pero la derecha propone, en realidad, una contrarreforma que busca eliminar derechos con la falacia de que los derechos laborales son la causa de la crisis económica y la falta de empleo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es llamativo que en Argentina la mayoría de los gremios estén dirigidos, al menos en sus altas conducciones, por el peronismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nosotros, desde la izquierda, luchamos para que la clase trabajadora sea la cabeza de una nueva sociedad, no la columna vertebral de ningún movimiento político.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei fue construido por los medios y el poder económico para capitalizar el descontento con la dirigencia política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todas las opciones políticas proponen ajuste.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Morales simula preocupación por la Pachamama mientras extrae litio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3032
+}

@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.586,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La denuncia que hizo la AFI sobre periodistas por revelar que el presidente de la corte se ha abroquelado.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerden que la oposición habló en contra de Rosatti y Rosatti salió a defenderse.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay gobernadores que se van a sumar. No dejan algunos que puedan tener temor. Hay que tener miedo. Acá hay un hecho de una gravedad institucional. Creo que es histórico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 86% de los riojanos recibe un ingreso de la nación, o una jubilación de orden nacional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La decisión de la corte para los fondos que deben ser devueltos a la ciudad de Buenos Aires, el pedido de juicio político a Rosatti",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la misma mesa de negociación donde se pone un puntito más o un puntito menos de la coparticipación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay gobernadores que no quieren saber nada con que el kirchnerismo, vía la Cámpora, le acerque candidatos para las listas de diputados y de concejales en cada rincón del país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y qué dijo el presidente de la nación, Alberto Fernández, sobre la ciudad de Buenos Aires, a la que cuestionó una vez más y además se mostró como el más federal de todos los porteños.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sobre los chats, porque mencionó una edición, lo que queremos es que los chats sean de la ciudad de Buenos Aires o, si en todo caso son verdaderos y fruto de un espionaje ilegal, son fruto de un espionaje ilegal.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que ahí hay un punto en el cual todavía Larreta deberá atravesar y que seguramente será un eje de campaña, tanto como del otro lado será un eje de campaña la condena judicial que ha recibido Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno sabe, en términos finales, que el juicio político es inviable, porque la mayoría parlamentaria que se necesita son imposibles.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Marcos Peña, hacía mucho tiempo que no le escuchábamos su voz.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue cuestionado, muy cuestionado Marcos Peña, porque muchos decían que Macri no escuchaba a otro que no fuera Marcos Peña",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El impulsor de ese cambio fue Marcos Peña, sobre todo a través de sus manos derechas, digamos, los vicejefes de gabinete, Mario Quintana, Gustavo Lopetegui, digamos, funcionarios de mucho peso dentro de la organización del macrismo, que le torcieron el brazo al Banco Central, que cambiaron las metas de inflación",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5655
+}

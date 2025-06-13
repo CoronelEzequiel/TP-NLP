@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.811,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Gobierna Alberto Fernández, manda Axel Kicillof y la oposición se resiste.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo lo que hacen lo hacen para beneficiarse a costa nuestra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son ruines, hacen política con los niños, impidiendo que vayan a la escuela.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esa gente de clase alta del Barrio Norte… ¡protestan contra el gobierno!",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los olvidados del kirchnerismo, del peronismo, del populismo, son los que no tienen nada y nunca lo van a tener.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quieren ganar poder, así que están enfrentados con estos chicos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son una manga de sinvergüenzas que juegan con los niños.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sigan vendiendo droga en las villas, sigan teniendo punteros políticos, sigan liberando delincuentes… ¡Sigan adelante, Kicillof!",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quieren volvernos locos y gobernar mal para lograr su objetivo: destruir todo para que tengamos todos una bicicleta, mientras ellos viven en Puerto Madero, en casas lujosas…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2111
+}

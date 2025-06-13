@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros estamos viviendo hoy en la Argentina un fenómeno muy curioso, muy curioso. El que filtra de manera anónima sus pareceres, su información, su visión de las cosas, es supuestamente el que tiene el poder, es decir, Alberto Fernández.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa es la posición del embajador Raimundi, no es la posición del gobierno argentino. Más todavía, tengo entendido que la Cancillería le dio instrucciones en sentido contrario, para que se adhiriera a este informe de Naciones Unidas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, estamos con una diputada que está ligada al ministro del Interior, ligada a la vicepresidenta, forma parte de La Cámpora, que acusa a un juez por herir la sensibilidad de la opinión pública y pide que se inicie en el Congreso una remoción de ese juez por lo que el juez dice en sus sentencias, por el contenido del fallo, no porque haya violado las formas, algo más parecido que esto al lawfare, al lawfare que Cristina reprochaba que iba contra ella en la época de Macri, esto es un caso típico de lawfare, es decir, presión sobre un juez porque no me gustan sus fallos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para revertir esta tendencia, se necesitan señales muy claras y el gobierno está diseñado políticamente para emitir señales confusas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy dijo que los chicos del último grado de la primaria del último año de la secundaria deberían volver a la escuela, seguramente, Massot olfatea que algo de eso está por anunciar Fernández y se le adelanta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6844
+}

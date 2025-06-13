@@ -1,0 +1,46 @@
+{
+  "texto_id": "El dulce amargo de Brasil",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.314,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El dulce, porque ganó Lula, felicidad enorme para el pueblo brasileño, justo el día, además, en que había ganado Alfonsín, como si fuese un puente de la historia argentina y de la historia de Brasil.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el amargo, por la cantidad de votos que sacó una persona tan criticable como Bolsonaro, que va más allá de las cuestiones ideológicas: homofóbico, negador de la pandemia, con los peores defectos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, lo que realmente me vuelve loco es el tipo inteligente, honesto, que todavía insiste en votar por Bolsonaro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La rueda de la economía volverá a girar con los pobres formando parte del presupuesto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No podemos aceptar que millones de hombres, mujeres, niños y niñas no tengan qué comer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero agradecer al compañero Alckmin, mi vicepresidente, que proporcionó una contribución extraordinaria a los gobernadores que fueron electos y aquellos compañeros que no lograron elegirse.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestra lucha por la conquista de un país justo, de un país en el que todos los brasileños puedan comer, trabajar, estudiar, tener acceso a la cultura y a la diversión, será una lucha hasta el final de nuestras vidas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3647
+}

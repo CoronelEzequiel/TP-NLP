@@ -1,0 +1,36 @@
+{
+  "texto_id": "modo_fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.59,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei y el presidente con la casta, con el \"nido de ratas\", como quieran llamarlo, con los 257 diputados y 72 senadores, que estarán allí esta noche frente a frente en el recinto de la Cámara de Diputados en Asamblea Legislativa.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cualquier funcionario y diputado de La Libertad Avanza, que estuvo estos días en Casa de Gobierno, te habla de esto, de que habrá una sorpresa, que el presidente hablará de la pesada herencia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Va a hablar, por supuesto, mal del Estado, va a insistir con la casta, con la idea del déficit cero, con la idea de bajar el gasto, contando lo que está intentando hacer y lo que viene intentando hacer desde el 10 de diciembre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei tiene que venir con la cara de la derrota mañana. Acaba de perder la Ley Ómnibus, se le cayó.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Pasamos el 134, el teléfono 134, para recibir denuncias de extorsiones, gente que está presionada para ir a la marcha el día de mañana, y hemos recibido desde las 12 del mediodía hasta las 16:30, 803 llamadas.\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4560
+}

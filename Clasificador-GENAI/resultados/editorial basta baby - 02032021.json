@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cuántos quilombos supo hacer el tío Alberto Fernández de Kirchner para tapar el afano de la vacuna.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le robaron la vacuna a los viejos, muchachos del campo, a la gente que labura para el gobierno, al tío, al primo, al cuñado, al doble diseñador de las hijas y a un montón de turnos que se vacunaron con la vacuna que era para el pueblo, que pagamos con nuestros impuestos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Afanarle a los viejos, más allá de la jubilación, la vacuna que era la única esperanza de vida que tenían y dársela a estos cobardes hijos de mil putas.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto salió a hablar, minimizó lo de la vacuna y lo único que era lamentable, cosa que festeja el resto de la humanidad, y se habrá tenido que rajar a su amigo, el inútil, Ginés González García, que nos dejó un saldo de cincuenta y pico de mil muertos con el COVID y un año de ostracismo donde no nos dejaron ver el sol y nos fundimos, nos quebramos, nos enloquecimos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y como si esto fuera poco, volvieron los grandes hijos de puta.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sinceramente usted no es el Alberto que yo conocí, y algunos periodistas me afanaron algunas ideas, por ejemplo, cuando yo dije que había un doble de Alberto Fernández, que Alberto seguramente había tenido un accidente, y que había quedado a mitad de camino y habían puesto un doble que es otro, que no tiene los valores morales y la integridad del Alberto que yo conocí una vez.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3195
+}

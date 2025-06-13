@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En la escena política, la opinión pública está atraída por el conflicto que se ha abierto dentro de Juntos por el Cambio en la Ciudad de Buenos Aires, más específicamente dentro del PRO, en torno a la decisión de **Horacio Rodríguez Larreta** de convocar a elecciones el mismo día pero en dos comicios separados, o, mejor dicho, separando la elección de la capital federal de la elección nacional, para que haya de esa manera dos urnas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Simplificando mucho, uno podría decir que el PRO era, o es, o empezó siendo el partido de aquellos a quienes les gusta **Macri**. El aglutinante, lo que unía a dirigentes y simpatizantes del PRO, era eso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué quiero decir con esto? Que **Larreta** podría jugárselo todo a que gane un candidato del PRO y fijar reglas que beneficien a ese candidato. Ningún sistema electoral es inocente, es inocuo; todo sistema electoral, de algún modo, condiciona el juego y condiciona el resultado, eso es lo que se está discutiendo, y ahora vamos a tratar de entenderlo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un temor real en el PRO respecto de **Lousteau** y del resultado de la elección.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner mira eso y se distancia, se distancia porque no quiere ver obreros, colectiveros, votantes del PJ, enojados con un gobierno peronista y dándole una paliza a un ministro de ese gobierno. Y se enoja también, y se distancia de Berni y de quienes se pelearon con los colectiveros por una razón muy sencilla, que me parece que no se destacó, o que no se tuvo en cuenta, y es que Cristina Kirchner es hija de un colectivero.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7893
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cafiero, perteneciente a una familia peronista, reflexionó sobre la experiencia de gestión pública y la necesidad de autocrítica dentro del peronismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Enfatizó la importancia de la militancia, la doctrina peronista (justicia social, soberanía política e independencia económica) y la necesidad de una propuesta transformadora en contextos cambiantes.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cafiero criticó la estrategia de la ultraderecha argentina, que busca agredir a los dirigentes políticos para desviar la atención de temas cruciales como las tarifas y el desempleo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Comparó la cantidad de obras públicas realizadas durante su gestión con la situación previa, resaltando el impacto del peronismo en la construcción de viviendas y la ejecución de proyectos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras que reconoció la falta de consenso en la primera etapa del gobierno de Alberto Fernández, también elogió la capacidad de Sergio Massa para articular una política económica con mayor apoyo dentro de la coalición.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cafiero consideró que la foto de Olivos fue un error que se magnificó, afectando la imagen del gobierno, más allá del evento en sí mismo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Concluyó reiterando la necesidad del diálogo político en Argentina para afrontar los desafíos futuros.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1521
+}

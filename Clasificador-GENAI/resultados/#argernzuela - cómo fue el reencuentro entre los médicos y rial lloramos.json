@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.27,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Fue muy emocionante el reencuentro con los médicos, enfermeros y enfermeras de la Clínica Country, en Bogotá, Colombia, quienes me salvaron la vida.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es un integrante del M-19, el grupo guerrillero que robó la espada, la cual pasó por las manos de Fidel Castro, Hugo Chávez, Nicolás Maduro; la cuidó la Madre de Plaza de Mayo, Eduardo Galeano… los Kirchner también están involucrados porque les pidieron ayuda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, los colombianos son gente tan amable que da vergüenza, son cariñosos, buena gente.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y quiero decirles que lo que nos muestran como imagen… yo hacia ahí no quiero ir.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me fui a Nueva York, invitado por Dante Gevel, quien hace un show impresionante, un argentino llenando el Radio City Music Hall.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1754
+}

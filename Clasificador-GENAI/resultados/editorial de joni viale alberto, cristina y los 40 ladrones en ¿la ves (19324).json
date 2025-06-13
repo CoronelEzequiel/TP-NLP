@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.664,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y nunca ocurrió que un presidente de la nación llame a incumplir la ley.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por qué necesitan que deje de destapar los curros de Alberto, de Cristina y de los 40 ladrones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Primero, bajó el gasto público muy fuerte.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo, lo que hizo fue construir un liderazgo confrontando con todo el mundo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y tercero, destapó curros.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Eso es machirulo, ¿no?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno acaba de ahorrar mil ochocientos millones de pesos por el gasto del INCAA.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Ministerio de la Mujer se convirtió en una agencia de propaganda para demonizar varones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En estos 100 días de Milei, lo que vimos es que el kirchnerismo dejó tierra arrasada, tierra robada, te diría.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milei retiene pese al ajuste 3 de cada 4 votos del ballotage.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso no quiere decir que estemos justificando.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5716
+}

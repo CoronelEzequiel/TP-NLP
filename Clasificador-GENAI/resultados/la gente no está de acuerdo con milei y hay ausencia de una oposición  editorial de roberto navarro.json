@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.13,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Les mostraré ahora, punto por punto, que la mayoría de los argentinos se oponen a las ideas de Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, no es cierto que los argentinos crean que un Estado más pequeño, un Estado no empresario, es mejor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se observan las redes o los canales de televisión, se tiene la impresión de que el argentino se ha vuelto un fanático del \"sálvese quien pueda\", un admirador de los millonarios, que el argentino hambriento no quiere cobrarle impuestos a los ricos ni que se redistribuya el ingreso. Es mentira.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo es posible que hace una semana el presidente de la Nación hiciera el discurso más fascista desde el retorno a la democracia y nadie se opusiera con firmeza?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y si Milei sigue midiendo 40, 50 puntos, no sé cuánto, es porque hay una carencia opositora para representar el enorme descontento y las tremendas necesidades del pueblo argentino.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2940
+}

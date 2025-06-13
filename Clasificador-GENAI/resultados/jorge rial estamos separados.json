@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.229,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Muchos están hablando de mi separación, y la verdad es que son temas que afectan a toda una familia y duelen mucho.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue una decisión tomada por ambos. A veces, el amor profundo no alcanza, sobre todo en un año tan difícil como el anterior.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo único que les pido es esto: la figura pública soy yo. Si quieren saber algo, vengan a mí.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se metan con Romina, ni con sus hijas, ni con nadie. No hay terceras personas involucradas; no busquen culpables.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy solo y quiero estar solo. Uno se separa, a menos que ya esté pensando en otra persona, pero no es mi caso. No hay nadie más.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Relájense, chicos. Todo está bien. Preocúpense por sus propias vidas.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solo quiero la paz para mi familia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1903
+}

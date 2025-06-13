@@ -1,0 +1,36 @@
+{
+  "texto_id": "audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Habrá que ver si con la visita de Laura Richardson, la jefa del Comando Sur de los Estados Unidos, que estuvo la semana pasada aquí y que motivó al presidente Milei a viajar hasta Ushuaia para estar con ella allá, se inicia una nueva historia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos diciendo que la política cambia el significado de los mapas. Eso es obvio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La reducción del tamaño del Estado es algo que tiene impresionados a muchos economistas, sobre todo a toda la economía ortodoxa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los camioneros consiguieron un acuerdo con el sector empresarial de más o menos 22% más otra cifra similar entre febrero y marzo y abril. Y el gobierno le dice: 'No, no más de 16, no más de 12.'",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay momentos en que pasa algo nuevo, hay momentos en que se inician eras, probablemente la postulación de Lijo como juez de la Corte sea, para aquellos que están inquietos por la calidad institucional de la Argentina, un país a cuyas puertas golpea el narcotráfico, esa designación, esa postulación sea también como la base en el sur, el comienzo de algo distinto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7499
+}

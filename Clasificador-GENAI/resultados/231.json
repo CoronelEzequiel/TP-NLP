@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_trump_radio10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.364,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde la perspectiva argentina, ¿cómo debemos interpretar el triunfo de Donald Trump?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y creo que las ideas y políticas de Trump no son convenientes para Argentina, por las siguientes razones: primero, su proteccionismo, mientras Argentina necesita comerciar; segundo, su propuesta de bajar los impuestos a los ricos y en general, lo que agravaría el déficit fiscal aunque estimule la economía, dependiendo de la capacidad de la Reserva Federal de subir las tasas de interés ante síntomas inflacionarios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Simplificando, Estados Unidos se presentaría con proteccionismo y altas tasas de interés, algo perjudicial para Argentina, ya que esto reduce los flujos de capital hacia países emergentes como el nuestro.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero también existe un factor personal: la relación entre Trump y Milei. Existe una similitud entre quienes apoyan a Trump y quienes apoyan a Milei, una admiración por ciertas conductas y personalidades.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, aún es muy temprano para determinar el impacto real.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A mi juicio, el impacto dependerá más del desarrollo de la política económica estadounidense que de las personalidades involucradas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, aunque la economía creció y la inflación bajó en Estados Unidos, el estadounidense promedio no está mejor que hace cuatro años, porque la inflación subió mucho, luego bajó, pero los precios no volvieron a los niveles de hace cuatro años en muchas áreas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2938
+}

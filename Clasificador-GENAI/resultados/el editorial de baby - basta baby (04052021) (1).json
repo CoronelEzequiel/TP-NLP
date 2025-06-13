@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.794,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando uno va por el camino ilegal, llega la justicia, la justicia, por más que seas Alberto, por más que seas, no sé, Rockefeller.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si pierde las elecciones, usted va a tener que andar por la calle con una caja fuerte arriba del hombro, del peso que va a llevar. Es el peso de la ley, que ustedes no respetan y creen que la ley la pueden reformar, Agusto y Pichere.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo único que están haciendo es una berreta interna política para ver si se pueden quedar con la capital.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, no le echen la culpa a la Corte Suprema porque los que tenían jueces amigos, Zaffaroni o Oyarbide, entre otros miles, Boico, Frontini, que eran abogados de la Madre de Plaza de Mayo, que fueron subrogantes de justicia legítima y cantidades de jueces, la causa de los cuadernos, trucha esta de los cuadernos, entonces esos son jueces de ustedes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la justicia, bueno, mire si ustedes habrán manoseado la justicia que un día que fallan a favor de algo normal como hoy, a ustedes les cae mal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ustedes tienen que respetar, maestro, y no cancherearla con el banquito, que usted se sienta con el banquito y el micrófono y entra a la sanata, a hacer el stand-up.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hoy respiramos aliviados todos los argentinos. Pero no nos metimos la de ustedes, le ganó a la reta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque para el mundo civilizado lo normal es estudiar, lo normal es vacunar, lo normal es no llegar a la Suprema Corte, porque lo normal es que un presidente no se quiera quedar con la plata de una ciudad autónoma, ni quiera darle órdenes a una ciudad autónoma, ni quiera avasallar el poder, ni quedarse con todo como si fuera propio.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo más repugnante, Alberto, es querer hacer mierda a un candidato porque va a ganar, pegándolo a los pibes que están en el medio y quieren estudiar.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3237
+}

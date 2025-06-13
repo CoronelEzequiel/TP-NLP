@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_menem_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.456,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El primer gobierno de Menem, que será homenajeado hoy en la Casa Rosada con la inauguración de un busto que lo recuerda.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el apoyo del partido, el partido con la orientación ideológica maoísta, el Partido Comunista Revolucionario, al poco tiempo el programa de Menem fue radicalmente distinto: neoliberalismo, privatizaciones, indulto a los militares, apertura a las recetas del Fondo Monetario Internacional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la apertura de las importaciones destruyó la industria nacional con el consiguiente efecto sobre el empleo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "la pobreza extrema, las aulas docentes y el creciente hambre en el conurbano bonaerense y las provincias se manifestaban particularmente entre los niños y los jubilados, la otra cara de las dos caras de la misma moneda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Nada de lo que deba hacer estatal permanecerá en manos del Estado\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A partir de hoy rompemos la telaraña de un Estado prebendario, asfixiante y arbitrario, que trabó la vida productiva nacional con un conjunto de innecesarias regulaciones",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el punto de vista económico, Menem fue peor que la misma dictadura. Las privatizaciones eran la forma sofisticada de saqueo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta idea de destruir el Estado para agrandar la nación, que era de la dictadura y que expresó Menem y que ahora expresa Milei, en el fondo es la más mínima carencia de patriotismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, al igual que Menem, se propone una profunda transformación del entramado económico, productivo, político y cultural del país.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6658
+}

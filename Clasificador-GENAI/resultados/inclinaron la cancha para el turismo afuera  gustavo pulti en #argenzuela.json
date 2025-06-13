@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Muchas personas se están yendo al exterior debido al tipo de cambio y la presión cambiaria.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, hay una preocupación: la balanza se inclina hacia el turismo exterior.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene que ver con que muchos ingresaron dólares, los convirtieron a pesos, los colocaron a interés, ganando un 50% en dólares, una ganancia inusual en cualquier parte del mundo porque el dólar está barato.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre me gustó trabajar en equipo. Los trabajadores son lo más importante: sindicatos, gremios, empresarios pequeños, comerciantes que se esfuerzan y arriesgan sus familias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luchábamos codo a codo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué pide Kicillof? El 47% de lo que dejó de percibir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La provincia de Buenos Aires sostiene al Estado federal, aportando casi el 40% de sus recursos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Salvo un boicot, un bloqueo o una mano oscura que perjudica a 17,5 millones de bonaerenses, el presupuesto debería aprobarse.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2402
+}

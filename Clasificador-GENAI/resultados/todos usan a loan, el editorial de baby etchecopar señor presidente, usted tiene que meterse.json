@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La presión social se centra en el gobernador, quien debe dar explicaciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Asimismo, señor Presidente, con el debido respeto, le solicito su intervención en este caso.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La defensa del gobernador por parte de Patrizaburri, argumentando que no desea interferir en los tres poderes del Estado, resulta inaceptable.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un presidente debería utilizar su influencia para lograr este objetivo; sin embargo, parece que sus prioridades se centran en otros asuntos, como su viaje a Francia o las Olimpiadas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 784
+}

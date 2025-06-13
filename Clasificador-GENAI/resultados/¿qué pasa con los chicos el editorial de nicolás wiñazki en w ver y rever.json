@@ -1,0 +1,41 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.683,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Finalmente, las aulas abrirán en la Ciudad de Buenos Aires.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta decisión, según fuentes internas, fue impulsada por Axel Kicillof, Máximo Kirchner y Cristina Fernández de Kirchner.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Horacio Rodríguez Larreta, en respuesta, acudió a la Corte Suprema.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La decisión presidencial posterior generó, por lo tanto, gran sorpresa.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Resulta casi ridículo que una situación tan angustiante para padres de la Provincia y la Ciudad de Buenos Aires, quienes hasta hace poco no sabían si enviar a sus hijos a la escuela, dependa de un decreto con fecha de caducidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bianco insinuó que la Ciudad de Buenos Aires, a través de una \"invasión\" o \"revolución\" del PRO, pretende desestabilizar la Provincia utilizando la pandemia como excusa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2154
+}

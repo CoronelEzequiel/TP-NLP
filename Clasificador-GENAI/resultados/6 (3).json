@@ -1,0 +1,26 @@
+{
+  "texto_id": "bodegones",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pensemos en el domingo electoral: mucha gente va a votar y luego querrá ir a comer a un bodegón.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este lugar, La Popular, es un bodegón de verdad, con camisetas, cuadros y banderines de clubes de fútbol.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Capital Federal hay muchos bodegones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1746
+}

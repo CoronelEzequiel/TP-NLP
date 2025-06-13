@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.657,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ante un pedido judicial de auditoría, el gobierno promete perseguir la corrupción: “Los chorros no van a tener paz en la Argentina, porque el que las hace las paga”.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La comunicación gubernamental, especialmente en los últimos días, logró posicionar el debate sobre las universidades como una confrontación entre el gobierno y una \"casta\" privilegiada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien la mayoría de los argentinos apoya la universidad pública, gratuita y autárquica, un alto porcentaje (85.7%) también está a favor de auditar sus gastos.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, el PJ parece estar en crisis, debattiendo sobre el poder y la caja, en lugar de un proyecto de país.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno utiliza las redes sociales para atacar al kirchnerismo, como lo demuestra la denuncia pública de una estafa en el pago de subsidios por embarazo por parte del Ministerio de Trabajo, encabezado por Sandra Pettovello.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, a través de Santiago Caputo, Karina Milei y Martín Menem, busca fragmentar a la oposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se analizan las contradicciones del gobierno, como la venta de la reestructuración de la deuda como una batalla contra la casta, mientras se designa a Andrés Vázquez (con supuestos vínculos con el kirchnerismo) como titular de la DGI.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2046
+}

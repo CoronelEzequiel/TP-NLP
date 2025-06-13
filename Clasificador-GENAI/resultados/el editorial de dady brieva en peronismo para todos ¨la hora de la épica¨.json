@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por el 5N, Peronismo para todos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Unidad Básica Virtual: un ejército de mil comunicadores virtuales que trabajan incansablemente, a pulmón, todos los días para comunicar, viralizar y trabajar en esto que para nosotros es nuevo: la viralización, TikTok, Instagram, y todas esas cosas que yo no entiendo, pero ellos lo hacen muy bien.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le mando un beso grande porque ella forma parte de un colectivo de mártires y sobrevivientes que solo quieren vivir en un país libre, donde puedan ser amadas tranquilamente. ¡Miren lo poco que piden! Y luchan por que no les quiten derechos, como en la marcha de ayer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la abundancia no hay épica, ¿para qué ser héroe si no te hace falta nada? ¿Dónde hay épica? Donde hay poco, donde falta todo, donde todo es esfuerzo, ganas y amor.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los pueblos, como dice Pepe Mujica, son la \"hinchada\"; los caciques son carteles, se bajan y se suben. La hinchada es la que produce el cambio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que 40 millones de argentinos están diciendo: \"Vamos a hacerle una broma a [nombre del candidato], vamos a decirle que nuestra ley está a tres puntos arriba\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que militar, estar atentos, hacer lo que siempre hicimos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La salud pública no estaba funcionando, pero está. La educación pública tampoco funciona como debería, pero cuando se solucione esto, ya está. Por eso no vas a tener que luchar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2545
+}

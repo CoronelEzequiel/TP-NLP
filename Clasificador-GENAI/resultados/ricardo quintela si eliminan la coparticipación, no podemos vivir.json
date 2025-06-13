@@ -1,0 +1,51 @@
+{
+  "texto_id": "Quintela_entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.069,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Deberíamos actuar en bloque para apoyar la medida y nuestro proyecto y propuesta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eliminar la coparticipación, que tiene un sentido solidario…",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el gobierno de Alberto Fernández y Cristina Fernández de Kirchner, vamos a terminar nuestra gestión con más de 5.500 viviendas entregadas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con el gobierno de Alberto Fernández y Cristina Fernández de Kirchner, no solo recuperamos esos 1800 puestos de trabajo, sino que hemos creado más de 3500 nuevos puestos de trabajo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las sociedades no se suicidan colectivamente, dar un salto al vacío sin previsibilidad…",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo más racional es el esfuerzo del gobierno nacional para atenuar el impacto de la inflación, frenar la inflación…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entramos al balotaje y seguimos siendo gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Viva Perón!",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2435
+}

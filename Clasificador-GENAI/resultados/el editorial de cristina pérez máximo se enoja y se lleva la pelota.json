@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los Kirchner tienen la costumbre de creerse dueños del poder, tanto del Estado como de la política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son \"che guevaras con Rolex de diamantes\", \"trotskistas con Audi\", \"revolucionarios con fueros y sueldos del Estado\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo, Cristina Fernández de Kirchner en particular, posee una gran capacidad de daño, y la utiliza con maestría.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Para salvarse, está en guerra con la legalidad, con la república, con el progreso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si la renuncia fuera tan intrascendente, el presidente no habría salido apresuradamente a su canal de televisión amigo para calmar las aguas, cuando debería estar preparándose para viajar a Rusia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1699
+}

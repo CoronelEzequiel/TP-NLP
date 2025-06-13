@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.212,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me pareció absolutamente desubicado que en un acto de la trascendencia de la conmemoración del 2 de abril y el recuerdo de nuestros veteranos y de los caídos en Malvinas, lo confunda con un acto partidario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Malvinas es una causa nacional en la República Argentina, uno de los temas que mayor consenso social y político genera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hay es una agenda de temas que son parte de la orientación política del Poder Ejecutivo, y se invita al resto a someterse a esa agenda.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se habla de Malvinas, se debería decir que es una causa nacional que trasciende las identidades partidarias, que ha generado un proceso de moderación institucional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos 129 votos para abrir una sesión, 30 más de los que tenemos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos obligados a buscar puntos de acuerdo con otros bloques.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero reconstruir el financiamiento de las universidades.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos que el recinto esté abierto.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2440
+}

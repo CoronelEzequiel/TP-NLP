@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, el gobierno de Javier Milei sufrió una dura derrota en el Congreso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta iniciativa proponía, entre otras cosas, la posibilidad de endeudar al país sin la aprobación del Congreso, privatizar empresas a discreción, adjudicar obras públicas y grandes negocios a capitales extranjeros sin control y con beneficios especiales, y reprimir con impunidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El DNU también contiene un capítulo laboral que elimina las horas extra, derechos laborales y la autorregulación, prohíbe las asambleas en los lugares de trabajo, reduce la licencia por maternidad, extiende el período de prueba, permite despidos sin indemnizaciones para trabajadores no registrados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La reacción de Milei, dada su personalidad, es crucial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalmente, el deterioro del salario mínimo bajo el gobierno de Milei (una caída del 33% en dos meses, triplicando la del gobierno anterior)  junto con la caída de la actividad industrial y el consumo, crea un panorama complejo y de gran incertidumbre.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1615
+}

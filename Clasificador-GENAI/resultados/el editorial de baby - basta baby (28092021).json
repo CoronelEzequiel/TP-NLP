@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.644,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me preocupa la manipulación política.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se están usando recursos económicos para comprar votos, especialmente entre las poblaciones más vulnerables.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pobreza y la desigualdad son problemas muy serios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se aprovechan de las necesidades de la gente, los problemas que hemos vivido con la pandemia, y el flujo de inmigrantes, para obtener beneficios políticos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay mucha corrupción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es importante alzar la voz contra la injusticia y la corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se deben defender los derechos de los más vulnerables.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos exigir un futuro mejor, un futuro con igualdad de oportunidades para todos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1252
+}

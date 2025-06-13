@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.23,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mientras avanzan las investigaciones en más de 40 causas penales y 200 causas civiles contra el presidente, Milei intenta armar una narrativa en el país para retener a su electorado sorprendido por la conducta de su mandatario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación es tan complicada que el Fondo Monetario Internacional (FMI) consultó a sindicalistas argentinos sobre la posibilidad de que Milei complete su mandato.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI, preocupado por si Milei completa su mandato, es decir, Milei, quien les da la garantía de pago, aunque la población sufra hambre, está preocupado.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, armaron un relato que culpa al kirchnerismo y afirma su homogeneidad, tanto en funcionarios como en periodistas afines al gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dejemos el cinismo y trabajemos por el bien de la república.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se está juzgando al presidente de la nación en 37 estados de los Estados Unidos, y los editoriales de anoche fueron contra el kirchnerismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El verdadero riesgo país es esta situación.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hacen mal las cosas, el kirchnerismo vuelve.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema de Milei es que los mercados no le creen.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hubiera elecciones ahora, el 60% votaría al peronismo y el 40% a Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2316
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nos diste una lección de honor, nos diste una cátedra para lo que significa el senado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablo de **Cristina Fernández de Kirchner**.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y yo creo que vos le pegaste un misil en la proa al barco de la mentira, pero también sirve esta pequeñísima editorial en tu honor, en tu dignidad, en tu entereza, en tu don de gente.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy fue la elección de la honestidad, de la buena gente, de la corrupción y de la mala gente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Señora, debe ser terrible no saber llorar ni aunque sean mentira.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted tiene un pacto satánico que no la deja disfrutar de la vida, que no la deja ser solidaria con sus compañeros y que la única motivación que usted tiene en la vida es una eterna interna para ganar, porque el día que ese pequeño triunfo se le caiga (y falta poco), su vida no tiene ningún sentido, ningún motivo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lamentablemente, Dios en eso nos castiga, porque a los decentes se los saca primero del juego y quedan los más corruptos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, señor, **Aminé**, con todo respeto, de la puerta para afuera hay una vida que usted nunca vivió.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2744
+}

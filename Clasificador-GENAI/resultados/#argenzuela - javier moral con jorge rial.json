@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.131,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Revivieron la pesadilla, ya me tocó hablar con una de las viudas de los bomberos que llamamos rápidamente cuando vio que estábamos tocando el tema en la emisora y, con toda esa misma angustia, ¿no?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entendemos que esto es un déjà vu de aquello que vivimos en el año 2014 porque, justamente, llama mucho la atención que la defensa habría presentado la semana anterior un escrito en un predio que tenía que estar custodiado, justamente, por la policía del gobierno de la ciudad, la comisaría 4D, que tenía una consigna, y esa consigna, ¡oh, casualidad!, desapareció en momentos en que dicen que habría sido vandalizado.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos que cuando en el año 2014 se produce el incendio, la justicia, en su investigación, ponía una faja, clausuraba el predio, y toda vez que tenían que ingresar para desratizar o para cualquier maniobra, tenían que pedir autorización judicial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En aquel momento de 2014, bancos de primera línea que habían sido, en principio, investigados por la UIF, la WIF y la Procelac, tenían ahí maniobras, de alguna manera, según la acusación, de lavado de dinero y que, en remanente, lo que quedó, bueno, el día de ayer, y vamos a ver cuando termine, si queda algo de todo ese volumen de documentación que se extravió.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos contaba, además, de las amenazas constantes que recibieron y que, todavía, hoy siguen recibiendo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde eso, amenazas hasta los controles, ha pasado de todo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, justamente, y lo que pasó también es que, la vez anterior, en el 2014, hubo algunos empleados del gobierno de la ciudad, que hoy están jubilados, que habían dicho esto de una zona liberada, nosotros veníamos diciendo que esto podría ocurrir, este lugar no se podría haber habilitado jamás porque, primero, es un distrito tecnológico, supuestamente, de acuerdo a las exenciones impositivas, y nada más lejos de guardar papel con lo que es la tecnología.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos, por un lado, los directivos de la empresa, básicamente, que la imputación es que habrían, digamos, presentado alguna documentación que sería apócrifa respecto de la protección térmica de las columnas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por el otro lado, tenemos la Agencia Gubernamental de Control, con varios imputados, que son aquellos que tenían que haber ido a controlar, que, por normativa, esto se llama criticidad, es un lugar crítico, razón por la cual, tanto papel requiere inspecciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá son los bomberos, que son los que más saben de fuego, y ellos me dicen que el fuego, generalmente, que tienen varios años en su espalda, se produce en forma radial y se propaga con no tanta velocidad, ni con tanta virulencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá se encontraron dentro de las perillas del laboratorio que hicieron, material combusto de, cómo tenía la presencia de acelerantes, aceleradores que hicieron que, en poco tiempo, la cantidad de fuego, fíjense lo que está pasando hoy día, que es un déjà vu de 2014, todavía no pueden extinguir la llama.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, sin lugar a duda, yo les agradezco, pero ya nos dimos cuenta, se hizo una inspección ocular por el año 2016-2017, y a poco de caminar ese depósito, yo ya dije, señor Javier, vamos, no, ¿qué hacemos acá?, esto es claramente intencional, a poco que caminamos, nos damos cuenta, yo preguntaba: ¿y estos cables que salen acá de la pared?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier, obviamente, vamos a seguir de cerca el tema, de verdad nos está llevando mucha info, videos, así que vamos a seguir hoy también a la tarde en la emisora tocando el tema, así que seguramente vamos a seguir hablando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3819
+}

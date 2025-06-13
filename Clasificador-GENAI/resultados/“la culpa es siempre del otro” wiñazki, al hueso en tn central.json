@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.587,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Le echó la culpa a los medios y a la oposición por, de alguna manera, alentar o influir para que haya más contagios de coronavirus.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y agregó también que muchos medios de comunicación están en la misma sintonía y forman parte de un periodismo, *lapsus*, periodismo militante de derecha que lo único que quiere hacer es desestabilizar a gobiernos como los de Argentina, nacionales y populares.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si tiene pruebas de que esos tres dirigentes… Carrió además está confinada y entiendo que haciendo estudios porque tuvo contacto con el COVID y no salió de su casa durante un año y medio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después, lo que dijo de los medios, basta de echarle la culpa al otro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La verdad es que es increíble y que los medios o parte de los medios digan que tampoco son responsables de la propagación y de las muertes del virus.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién quiere que se muera más gente en Argentina?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está pasando en realidad es que está mal Argentina, y esto no porque lo digamos nosotros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se saturó el sistema sanitario en muchas provincias y eso no es culpa de la oposición ni de los medios y ni siquiera de Bianco.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1801
+}

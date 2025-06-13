@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Fue una reivindicación de la militancia partidaria comprometida en la lucha contra las injusticias, la pobreza, la inseguridad y tantos mamarrachos instalados por el kirchnerismo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue un rayo de luz y esperanza en el otro, un cachetazo a las trampas y la cleptocracia chavista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por un lado, los ladrones de estado como Cristina Kirchner, Amado Boudou, Ricardo Jaime y siguen las firmas, y por el otro, los que quieren hacer el bien sin mirar a quién.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ese es el motivo principal de la lucha política sana y honesta: extirpar el cáncer de la corrupción y el autoritarismo para construir una sociedad con más libertades y con más justicia social.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jimena Latorre, con su ejemplo, desmiente que la política sea sucia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La democracia es el sistema menos malo que se conoce y no hay democracia sin partidos ni dirigentes cada vez mejores.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es muy valiente, fue durísima con Alberto Fernández, al que acusó de \"guitarrear\" en temas que no sabía, e incluso criticó al jefe de su propio partido, el gobernador Gerardo Morales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2143
+}

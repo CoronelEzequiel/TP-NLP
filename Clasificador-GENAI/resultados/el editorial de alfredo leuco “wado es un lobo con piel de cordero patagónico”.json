@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Y ahora, en lugar de aprender la lección, vuelven a comprar la mentira y los espejitos de colores de que Wado de Pedro es un dirigente moderado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo se puede considerar moderado alguien que se define como un soldado de Cristina Fernández de Kirchner y es uno de los comandantes de La Cámpora?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay empresarios que le dicen \"el canciller\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repitió la falsedad de Cristina Fernández de Kirchner sobre que Horacio Rosatti y Carlos Rosenkrantz aceptaron ser designados por un decreto de Mauricio Macri.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Wado de Pedro no es moderado. Es un lobo con piel de cordero patagónico.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2319
+}

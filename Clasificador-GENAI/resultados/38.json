@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.06,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Recién veíamos la situación previa a la marcha, y hay mucha preocupación, no solo por la marcha en sí, sino por la intención de demonizar a los profesores y a la comunidad de la UBA.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La acusación de que inventamos alumnos, al igual que otras afirmaciones, son solo chicanas, maniobras políticas baratas que no merecen respuesta.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo importante ahora es que el gobierno deje de atacar a la educación pública y a las universidades.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos pedirle al gobierno que deje de minimizar la importancia de la educación pública.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación es dramática.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Limitar la educación pública hipoteca el futuro del país y de la juventud.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Atacar a la educación pública, un pilar fundamental de Argentina, es una decisión ideológica, con una diferencia presupuestaria mínima.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema más grave es la fuga de jóvenes investigadores, becarios y estudiantes de doctorado, que son fundamentales para la UBA.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no se corrige el financiamiento de la educación pública, se está comprometiendo gravemente el futuro educativo del país.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Convocamos a todos a apoyar la educación pública mañana.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1695
+}

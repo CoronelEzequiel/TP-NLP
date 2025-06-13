@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Usted está ingresando en una zona de alta peligrosidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que siente que dominar los tribunales es la única forma que tiene de escapar de una condena que la lleve a la cárcel.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "De haber sido la jefa junto a Néstor Kirchner de una asociación ilícita de carácter estable y permanente sostenida a lo largo de más de 12 años.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El plan sistemático de hostigamiento tiene como objetivo intimidar a los jueces para que no se opongan a su propio funeral político.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mire, si eso ocurre, sería un asalto cristinista a la Corte, una invasión prepotente y autocrática, un golpe palaciego que terminaría con el sistema democrático tal como lo conocemos y como funciona en los países más avanzados del planeta.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y el hecho concreto es que dentro de un mes nada más comienzan los alegatos y el fiscal Diego Luciani va a pedir una pena de prisión para Cristina que va de 5 a 16 años.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2151
+}

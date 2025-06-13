@@ -1,0 +1,36 @@
+{
+  "texto_id": "Video en cambio con este futuro de la región tras la nueva era Trump",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En ese marco surgió la noción de América Latina como patio trasero de los Estados Unidos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como es costumbre en Estados Unidos, muchas veces se construye un relato de supuesto lugar benigno en el mundo a través de las producciones audiovisuales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, se sostenía públicamente que los latinoamericanos eran, en oposición a los estadounidenses, tumultuosos, poco trabajadores, indisciplinados y anárquicos. Por ello, los Estados Unidos debían ejercer una misión civilizatoria sobre ellos, capaz de encauzar a los latinos en una senda de laboriosidad, disciplina y obediencia a las normas y las instituciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Trump: 'Allí vamos a recuperar el canal de Panamá. El presidente McKinley volvió rico a nuestro país con impuestos y talento. Era un empresario natural y le dio plata a Teddy Roosevelt para todas las cosas grandiosas que hizo, inclusive el canal de Panamá, que se lo han dado de forma tonta a Panamá, después de que Estados Unidos haya gastado tanta plata como nunca gastó en un proyecto y perdió 38 mil vidas en el canal de Panamá. Nos han tratado muy mal por este regalo tan tonto que nunca se tendría que haber hecho. Y la promesa de Panamá se rompió. El objetivo de nuestro trato y el espíritu de nuestro trato fue violado. Los barcos americanos tienen impuestos caros y no los tratan de forma justa de ninguna manera, y, por sobre todo, China maneja el canal de Panamá, y nosotros no se lo dimos a China. Se lo dimos a Panamá, y lo vamos a tener de nuevo'.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La alineación de Javier Milei con el gobierno de Trump puede generar algún tipo de ventaja a corto plazo, pero no es una buena noticia a largo plazo si Trump vuelve a considerar la idea de que América Latina es simplemente el 'patio trasero' de los Estados Unidos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5938
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Siete de cada diez argentinos son pobres o están al borde de la pobreza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los argentinos fueron arrasados por la pobreza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha se despliega y cubre todo el escenario.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina no es un país pobre. Es un país injusto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este momento se está negociando la reforma laboral entre el secretario de trabajo puesto por Techint y el Grupo de los Seis.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1803
+}

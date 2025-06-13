@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estoy preocupado porque si el FMI decide quién es el Presidente de Argentina, estamos en un gran problema.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Alberto Fernández iba a las PASO, nosotros íbamos a enfrentarlo porque tenemos una mirada y un proyecto de país totalmente distinto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las PASO son un instrumento excepcional, implementado durante la presidencia de Néstor Kirchner.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que explotar la capacidad extraordinaria de las PASO.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me preocupa lo que hay detrás de ese titular que dice que Alberto Fernández se bajó porque lo presionó el FMI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1902
+}

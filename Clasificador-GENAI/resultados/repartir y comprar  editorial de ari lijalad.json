@@ -1,0 +1,36 @@
+{
+  "texto_id": "alimentos_retenidos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.13,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Todavía el gobierno de Javier Milei, a dos semanas de que publicáramos, hoy se cumplen justo dos semanas de que revelamos que tenían más de 5 millones de kilos de comida sin repartir, y todavía los tienen.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es menos del 10% de los alimentos que tienen guardados, y además se lo están repartiendo –y ahora les voy a dedicar un ratito– a una fundación amiga que se llama Fundación CONIN, que exige una serie de requisitos para recibir la comida; no la recibe cualquiera.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ese señor le están dando la comida, la leche.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y mandó más de la mitad a Mendoza, donde no está más de la mitad de los niños que lo necesitan.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que ver si va. Pero tienen mucho que explicar. Y sobre todo tienen mucho que hacer: repartir y comprar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2584
+}

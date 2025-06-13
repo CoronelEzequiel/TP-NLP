@@ -1,0 +1,76 @@
+{
+  "texto_id": "Modo Fontevecchia - 9 de Julio",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.392,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es toda una excentricidad que salió de un remoto país del sur del continente americano y llama la atención en todo el mundo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero claro, Javier Milei que, nuevamente, hizo las valijas y ayer se fue de viaje.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Empezó con el pacto en la madrugada del 9 de julio en la Casa Histórica de Tucumán, siguió el día siguiente, casi que ni durmió, con el Tedeum en la Catedral Metropolitana y el desfile militar del 9 de julio.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un Estado chico, pero con funciones limitadas y claras, vale más que un Estado gigante que dilapida los recursos de los argentinos en tareas que no le corresponden, beneficia a unos pocos y bloquea la prosperidad de nuestro país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Es un tipo que identifica como sus adversarios o diría hasta enemigos?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no es contra los medios, es contra los periodistas, contra los trabajadores de prensa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, de hecho, incluso, esta decisión repetida de viajar al exterior para presentarse, no para visitas de Estado, sino para presentarse en distintos foros internacionales vinculados a la ultraderecha, pero también vinculados a sectores empresarios importantes, muestra perfectamente que él se siente mucho más cómodo ofreciendo conferencias, casi en un rol de profesor o expositor universitario que tomando decisiones o encarando actividades o de gestión particularmente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un poquito más de lo que decía Caputo, que se fue soltando con los meses.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El propio Milei lo decía ayer, ¿no? A mí me llamaron, me dieron un mandato, dice, para bajar la inflación y estoy bajando la inflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este caso, de la baja de edad de imputabilidad.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y también se puede hacer con el chiquito con Bastiaan.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero esta veneración que tiene el presidente hacia los multimillonarios que son los héroes de Milei.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y entonces el que fuga, digamos, es un delincuente. Es un héroe. ¿Qué fuga? Es un héroe.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6607
+}

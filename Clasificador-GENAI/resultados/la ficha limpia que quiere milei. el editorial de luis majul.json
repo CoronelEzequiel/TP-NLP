@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.643,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei intenta superar el enorme laberinto, la enorme trampa política en la que se encuentra por haberse negado a apoyar el proyecto de ley de \"Ficha Limpia\" impulsado por la diputada nacional Silvia Lospennato.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por supuesto, desde el PRO y otros sectores dicen: \"¿Estás protegiendo a Cristina Kirchner?\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei tampoco quiere que la ley parezca tener nombre y apellido y coloque a Cristina Kirchner en una posición de víctima o de superioridad moral, superioridad moral que la condenada no tiene.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente, para argumentarlo, usó una metáfora hace unos días que sirvió a La Cámpora para volver a poner a Cristina en el lugar de víctima.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri, por su lado, corre a Milei con la bandera anti-corrupción y pregunta en su cuenta de Twitter: \"¿Queremos un país sin corrupción de verdad?\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La evaluación positiva de la gestión e imagen de Milei rompió todos los récords: 57%.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las razones que dan los encuestados por apoyar a Milei y su gestión son: se valora que está haciendo lo que prometió en campaña; se lo considera honesto, sincero, con coraje y decisión; se considera que está ejecutando las cosas de acuerdo a lo planificado; se valora la idea de cambio; está terminando con la corrupción y los \"curros\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3409
+}

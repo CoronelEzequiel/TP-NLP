@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_venezuela",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La oposición, que ya había denunciado que no se permitía la entrada de sus veedores en el conteo durante un momento de la noche, esto se detuvo y las autorizaciones de la carga de los votos se suspendieron. Luego se comunicó el resultado, que rechazan la oposición y la comunidad internacional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dictador Maduro afuera. Los venezolanos eligieron terminar con la dictadura comunista de Nicolás Maduro. Los datos anuncian una victoria aplastante de la oposición y el mundo aguarda que reconozca la derrota luego de años de socialismo, miseria, decadencia y muerte.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei es un nazi fascista. Y a Milei le digo: Milei, no me aguantas un round, bicho cobarde, traidor a la patria, no me aguantas un round.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina no va a reconocer otro fraude y espera que las Fuerzas Armadas esta vez defiendan la democracia y la voluntad popular. La libertad avanza en Latinoamérica.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El régimen de Maduro debe entender que los resultados que publica son difíciles de creer. La comunidad internacional y, sobre todo, el pueblo venezolano, incluyendo a los millones de venezolanos en el exilio, exigimos total transparencia de las actas y el proceso, y que veedores internacionales no comprometidos con el gobierno den cuenta de la veracidad de los resultados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4664
+}

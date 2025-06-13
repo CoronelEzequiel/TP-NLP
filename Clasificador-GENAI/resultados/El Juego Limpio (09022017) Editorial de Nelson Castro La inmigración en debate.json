@@ -1,0 +1,36 @@
+{
+  "texto_id": "inmigracion",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Señaló la necesidad de implementar un control migratorio, lo cual no implica eliminar, restringir ni combatir la inmigración, sino garantizar que las personas de buena voluntad que deseen venir a Argentina, considerándola una tierra de oportunidades, puedan hacerlo de manera adecuada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Porque donde estamos, no tenemos vida; estamos muertos en vida. ¿Qué peor nos puede pasar que morir? Vamos a intentar cruzar para buscar una vida mejor\". Es fundamental entender esto, ya que se trata de un derecho humano.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una forma eficaz de abordar esta situación es facilitar la legalización de los inmigrantes honestos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El control migratorio permitirá identificar a aquellos que actúan de manera deshonesta. De esta forma, quienes hayan cometido delitos, sin importar su origen, deberán enfrentar las consecuencias legales correspondientes, protegiendo así a los inmigrantes honestos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La historia del mundo, y en particular la de Argentina, demuestra que los países se enriquecen con los inmigrantes que buscan una vida mejor.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1044
+}

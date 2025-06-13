@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo sucedido ayer y que aún continúa en Jujuy es de una gravedad absoluta, al igual que la desaparición de Cecilia en Chaco.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Jujuy, la convivencia entre el PJ y el oficialismo es evidente: la reforma constitucional fue aprobada a mano alzada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considero que estamos en un momento crítico, con un gobierno que solo tuitea y no actúa. Ha perdido su fuerza política, carece de respuestas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer mismo se reunieron rápidamente para eso. Escuché a quienes pedían “bala, bala, bala”, y hubo balas, pero también vi a policías arrojando piedras con gomeras.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición tampoco está bien; la interna entre Bullrich y Macri está generando un desgaste. Algunos se alegran de que Milei baje su candidatura, pero sus votos irán a parar a la derecha, que abunda en este país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que ajustar, y el peronismo, si gana, tendrá que hacerlo también. El peronismo tiene herramientas históricas; ¿cómo perderá el peronismo? ¿Entregándose o levantando la bandera para ser alternativa?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo de Jujuy, con el blindaje de \"Juntos por el Cambio\" a Morales, lo deja claro. Un \"intelectual\" del macrismo tuiteó \"este es el tráiler de la Argentina 2024\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, los únicos que pusieron el cuerpo fueron los dirigentes de izquierda: [Nombre eliminado], [Nombre eliminado], [Nombre eliminado]. ¿Y el peronismo? Casi ausente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2884
+}

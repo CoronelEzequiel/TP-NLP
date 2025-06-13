@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_rosario",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, parte del Gabinete Nacional se trasladó a la ciudad de Santa Fe para desplegar una serie de políticas que emulan las tomadas en otros países frente al mismo flagelo, como México, Colombia y El Salvador, con el gobierno de Nayib Bukele, que Patricia Bullrich, actual ministra de Seguridad, ha destacado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos enviando al Congreso de la Nación la ley antimafia o antivanda, que tipifica una nueva modalidad de persecución penal sobre el crimen organizado, imputando los crímenes de estas bandas a todos sus integrantes, como hizo el Código Penal Antimafia de Italia, que contribuyó a debilitar las mafias italianas, y como hizo la ley RICO de Estados Unidos, y posteriormente Bukele contra las Maras.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según el Centro de Estudios Legales y Sociales (CELS), el enfoque prohibicionista de las drogas conlleva un abordaje militarista de enfrentamiento al narcotráfico que apunta básicamente a reducir la oferta de drogas y, de esta manera, bajar los niveles de consumo y, por consiguiente, el negocio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ex ministra de Seguridad y antropóloga, Sabina Frederic, planteó que uno de los grandes problemas del narcotráfico en Rosario es su vinculación con la propia Policía de Santa Fe.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4003
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei se autopercibe como un miembro activo del maremágnum internacional.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "China representa la intervención total y plena del estado en la economía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Pedro Sánchez tiene problemas más importantes de los que ocuparse, como las acusaciones de corrupción que caen sobre su esposa, asunto que lo llevó incluso a evaluar su renuncia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argentinos elegimos cambiar el modelo que nos trajo miseria y decadencia. El mismo modelo que aplica el Partido Socialista Obrero Español en su país.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se le van los dólares, entonces ponen controles de capitales y entonces el que fuga es un delincuente. Es un héroe. ¿Qué fuga? Es un héroe. Digo, logró escaparse de la garra del Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Milei es una sociedad de negocios de dos personas. Una se llama Javier Milei y otra persona se llama Karina Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina existe la mayor comunidad de españoles inmigrantes del mundo. Lamento profundamente la reacción del gobierno argentino ante un comentario de un ministro del gobierno español.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4493
+}

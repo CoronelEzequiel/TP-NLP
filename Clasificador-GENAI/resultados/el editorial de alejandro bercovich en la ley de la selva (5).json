@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.258,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Conocerán de primera mano lo que significa ser detenido arbitrariamente en medio de una manifestación multitudinaria y pacífica —al menos hasta cierto punto, como la del miércoles pasado—, en medio de un despliegue de infiltrados policiales que actuaron a su antojo, delante de las cámaras, de manera obscena e inédita.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quien cause daños, genere desmanes o ejerza violencia en una movilización o en cualquier otro contexto debe ser sancionado, pero no por protestar. Lo que el gobierno intentó instalar el miércoles pasado, y parece continuar esta semana, es que protestar es un delito; según nuestra Constitución, esto no es así.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei le aseguró a Georgieva que comparten la transparencia y que necesita desesperadamente 10.000 millones de dólares para eliminar el cepo cambiario.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El FMI alerta sobre los desequilibrios económicos que podrían complicar la estabilización y destaca la fragilidad de la situación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La ley de bases se aprobó con votos comprados y presión sobre las provincias.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ley incluye un régimen de incentivos a las grandes inversiones (RIGI) que es especialmente delicado, ya que permite que las multinacionales con inversiones superiores a 200 millones de dólares paguen menos impuestos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3000
+}

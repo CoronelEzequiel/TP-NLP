@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.835,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina no la juzgaron por ser mujer, la juzgaron por ser chorra.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos podridos de Cristina. No la queremos ver más.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejen de romper las pelotas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ostracismo es el retiro de la sociedad, a veces por delincuentes y otras veces por vergüenza.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque nos rompieron el país 20 años. Nos destruyeron la Argentina.",
+      "score": 0.88,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Con respecto a Luciani, lo que sería menester es que lo defendamos todos los argentinos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3368
+}

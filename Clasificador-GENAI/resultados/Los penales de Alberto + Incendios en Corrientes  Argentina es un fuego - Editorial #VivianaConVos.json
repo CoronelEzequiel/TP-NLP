@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.793,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mientras la provincia de Corrientes está en llamas, el presidente Alberto Fernández ataja penales en el mar de Ajo. ¡Un sinvergüenza!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno está en guerra contra la Corte, en guerra con la oposición, en guerra con los porteños, en guerra con la clase media, en guerra con los empresarios, en guerra con los que estamos a favor de los valores, de la familia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son gobierno y también son oposición. Máximo Kirchner te renuncia a la presidencia del bloque. No acepta el acuerdo con el Fondo. Cristina Fernández te voltea un gabinete con una carta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente prefiere atajar penales en Mardinjo, mientras la provincia de Corrientes se prende fuego.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ustedes entienden que Bolsonaro ayudó a los correntinos?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la cultura K. Portámela, porque me... Portámela. Gracias. Todas las letras que escuchamos es la decadencia social en la que vivimos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema son los viejos, porque el problema son los viejos y son los niños, claro. Acaba de llegar Berni y está saludándose con Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8686
+}

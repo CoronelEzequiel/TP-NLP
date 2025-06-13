@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.081,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno aún no ha ocupado más del 40% de los puestos estatales y sus medidas macroeconómicas han generado un desastre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos derecho a un Estado, y voy a repetir brevemente algunas ideas que hemos comentado en los últimos días: el derecho a los servicios estatales se gana trabajando, levantándose cada mañana, generando riqueza, produciendo o vendiendo algo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno, que podríamos calificar de anarcocapitalista, y el grupo de empresarios que lo rodea, creen que el Estado no debe hacerse cargo de nada y que cada uno debe arreglárselas solo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado nos cuida desde nuestro nacimiento hasta nuestra muerte.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin él, volveríamos a la barbarie.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como el Estado no funcionaba bien, la gente eligió a alguien que lo considera una organización criminal y que, durante meses, ha sostenido esta tesis y actuado en consecuencia, implementando un plan macroeconómico que beneficia a unos pocos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este desastre es consecuencia del abandono del Estado, la liberación de precios, la devaluación y el control de precios puntuales, sin controlar los costos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, muchos empresarios, legisladores y gobernadores apoyan esta situación, sin darse cuenta del enorme peligro que representa un gobierno anarcocapitalista.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1693
+}

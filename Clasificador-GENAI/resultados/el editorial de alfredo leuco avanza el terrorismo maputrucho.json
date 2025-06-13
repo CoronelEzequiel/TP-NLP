@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El asalto de un comando encapuchado que se autopercibe mapuche contra cinco gendarmes es, en consecuencia, de una gravedad institucional enorme.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace casi un año, recién escuchábamos el audio donde Sergio Berni, la mano derecha de Cristina Kirchner en el tema seguridad, definió la violencia de los grupos que lidera Facundo Jones Huala como terroristas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto escribió: \"No es función del Gobierno Nacional reforzar el control de las rutas nacionales o brindar mayor seguridad en la región\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gran pregunta que hay que hacerse, antes de que sea demasiado tarde, es: ¿el Gobierno Nacional está buscando un muerto?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El avance del terrorismo mapuche es a paso redoblado y a tambor batiente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las fuerzas de seguridad provinciales están desbordadas y se atan las manos antes de actuar, porque saben que, si lo hacen, el kirchnerismo los acusará y los estigmatizará como represores y asesinos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos delincuentes no se reconocen como argentinos y no respetan ni la bandera ni la Constitución.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los falsos mapuches tienen el apoyo del sector más chavista del gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Facundo Jones Huala estuvo en la cárcel de Esquel, definió sus objetivos con una arenga extremista: \"Nuestro enemigo a destruir es el huinca capitalista\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gritó desaforado: \"¡Viva la RAM, viva la autodefensa y el sabotaje hasta la victoria, hasta vencer o morir!\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2308
+}

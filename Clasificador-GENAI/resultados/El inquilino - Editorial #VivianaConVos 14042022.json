@@ -1,0 +1,81 @@
+{
+  "texto_id": "Viviana Canosa - Análisis Político",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.821,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¡Aguante Canosa! Ayuda a la libertad, carajo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta editorial se llama \"El Inquilino\", porque Alberto Fernández es el inquilino del poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le quiero hacer, desde acá, mientras cambia pañales en la Quinta de Olivos al hombre que, según Cristina Fernández de Kirchner, tiene la banda, el bastón, pero no tiene poder?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, ¿cuánto le pagaron? ¿Cuánto le pusieron para decir que usted era el candidato a presidente?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero ver a los argentinos revolviendo la basura de nuevo. Quiero que a los argentinos les vaya mal.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández es el inquilino, y Cristina Fernández de Kirchner es la dueña.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, tenés razón, tu gobierno se ocupa de unos pocos. Qué vergüenza.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos dieron a una \"avise\" que quiere voltear al presidente. Son el frente de todos contra todos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los presidentes del mundo aplaudían a la Argentina. Porque no era un presidente, era la Argentina que volvía a tener una incorporación en el mundo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá el tango, un tango con Mora Godoy, una diosa. Por favor, mirá las dos argentinas, las banderas de La Cámpora, que están siempre donde hay una caja, está la Cámpora, un cacho de cultura, por favor.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que hace este gobierno, que es la murga que dice \"mi padre puto, mi madre chorra\", todo al revés, y un poquito del G20, cuando lo aplauden a Mauricio, a los presidentes del mundo, los mandatarios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Viva la libertad! ¿Por qué le tiene tanto miedo? Profesora, docente, a mi libertad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un peligro para la democracia es Cristina cuando le dice a tu presidente, a tu gobierno, le dice: \"Tiene banda, tiene bastón, pero no tiene poder\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Déjenlos debatir. Ese presidente no era un debate enriquecedor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9198
+}

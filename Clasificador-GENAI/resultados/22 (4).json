@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.075,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que es un tema ideológico que se apoya en el argumento de presentarlo como un problema económico, como si las dificultades económicas de Argentina fueran culpa de la unidad monetaria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se le niega la salud, se le quita ese capital, y con él, la posibilidad de salir adelante.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, es muy grave ideológicamente, porque implica una elección de una élite, dejando que el resto se arregle como pueda, según el mercado.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y eso hace muchos años que digo: \"El mercado sin Estado en la salud es el mercado negro\".",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ninguna medida cuida el capital físico, la salud, de los más pobres. Es muy grave.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, la salud y la educación públicas han sido un enorme patrimonio de Argentina y una gran estructura para construir un país mejor.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ha caído el consumo de medicamentos esenciales. Hay gente que ha suspendido tratamientos por no poder pagarlos.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debilitar el ANMAT es quitar seguridad a todo el sistema, porque el ANMAT realiza una labor fundamental en la regulación y control de los medicamentos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que necesitamos es una política sanitaria de medicamentos, como la que implementamos en su momento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las provincias no pueden hacerse cargo de los hospitales sin los recursos necesarios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2018
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.735,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Con los productores agropecuarios autoconvocados como organizadores, se sumaron miles de ciudadanos de los rubros más afectados por el COVID y otros flagelos como la corrupción, la inflación, la desocupación, la asfixia impositiva y las prohibiciones de todo tipo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Allí exigieron a las autoridades que cumplieran con ocho puntos, obviamente el respeto irrestricto de la Constitución y el reconocimiento de que la única fuente de riqueza genuina es la actividad productiva, a pesar de las trabas del tiroteo impositivo, todo tipo de cepos y las leyes laborales corporativas que espantan la inversión.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se reclamó el acatamiento del derecho a la propiedad, la obligación del Estado de compensar a aquellos que se ven forzados a sacrificar sus actividades productivas para preservar la salud de la comunidad.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Finalmente, además de plantear que se baje el gasto público y el gasto político, se exhortó a derogar todo tipo de cupos y cepos, a terminar con el desdoblamiento cambiario y a reducir en forma progresiva las retenciones, permitiendo eliminarlas en el menor tiempo posible.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy, los argentinos honestos y democráticos, en multitud y en gran número, cantaron por una Argentina sin Cristina y mostraron carteles contra las mafias kirchneristas que decían: \"Basta de casta\", sí, casta, escrito así, con K.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy, a 205 años de la declaración de la independencia, hay una pregunta clave: ¿qué significa ser independiente hoy?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Miren, si nos miramos en el espejo de aquellos hombres, hay que decir que el apellido de la independencia es la libertad y que hoy más que nunca deben ser los pilares de una sociedad mejor para nuestros hijos y los hijos de nuestros hijos, un país mejor, más justo, más igualitario, con menos pobres y desocupados y con más honradez y diálogo, un país en el que solo queden afuera los corruptos, los autoritarios y los golpistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso también es independencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Opinar con respeto sobre absolutamente todo, con independencia de criterios, sin tutelajes ni censuras y sin que te manden la AFIP o los servicios de inteligencia para castigarte, y sin que Alberto, Cristina o Cafiero III te rete o te acuse de formar parte de una asociación ilícita, o que te diga miserable y canalla, o que odias a la Argentina, o que sos peor que los nazis.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es el día más feliz de la historia de los argentinos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2819
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "Encantado por Amado Boudou",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Boudou, según la justicia, fue condenado definitivamente por el robo de la máquina de imprimir dinero.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina salió encantada con Boudou, quien poseía carisma y era muy simpático.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, aún así, lo defendió y lo nombró vicepresidente de la Nación en un acto en Olivos donde, según me dijeron (yo estuve ahí), dos ministros desconocían quién sería nombrado vicepresidente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nunca en la Argentina, ni siquiera durante la hiperinflación, se había necesitado imprimir dinero fuera de la Casa de la Moneda; se imprimía dinero de alta denominación, pero está probado que Boudou, siendo Ministro de Economía, no compró las máquinas necesarias para que la Casa de la Moneda imprimiera más billetes, y así se contrató a Ciccone Calcográfica para fabricar 410 millones de billetes de 100 pesos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de eso, se estatizó la empresa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está preso, con una condena de cinco años, diez meses, e inhabilitado de por vida para ejercer cargos públicos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2323
+}

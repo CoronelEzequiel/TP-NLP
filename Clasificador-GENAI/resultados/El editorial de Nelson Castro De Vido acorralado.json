@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_de_vido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Antes que nada, porque, por supuesto, siempre las opiniones hay que darlas basadas en hechos, y fundamentalmente, los hechos son los que hablan y lo ponen a De Vido en una situación realmente insostenible.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está procesada por asociación ilícita en la causa por el direccionamiento de contratos viales a Austral Construcciones de Lázaro Báez, cosa que hay que sumar a los casos de Skanska.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué De Vido se defiende tanto? Porque teme ir preso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes no han escuchado a Cristina Fernández de Kirchner defender a De Vido. Y no es un dato menor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si inhabilitado está De Vido por procesamientos y demás, inhabilitada puede llegar a estar también Cristina Fernández de Kirchner por los procesamientos que tiene, de las causas que avanzan y la complican fuertemente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2442
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Nicolás Alguersuari, adelante, pequeño",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta semana, a seis meses del inicio de la cuarentena —el presidente anunció, mediante un spot publicitario con una locutora, su prórroga hasta el 11 de octubre—, el Senado de la Nación, en la sesión en la que se desplazó a tres jueces y se aprobó un fondo para defensa, prorrogó por dos meses (60 días, superando los 39 días de la cuarentena oficial) las sesiones remotas en la Cámara Alta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Por qué Cristina Fernández de Kirchner tiene su propia cuarentena?",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner tiene un control total, como si fuera la directora de cámaras, decidiendo quién aparece en pantalla, quién es silenciado (apaga micrófonos) e incluso interviniendo en las intervenciones de los senadores.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En primer lugar, la prórroga es irregular.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner ha decidido que el Senado de la Nación tenga la cuarentena más larga del mundo, más larga que la cuarentena real en Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1641
+}

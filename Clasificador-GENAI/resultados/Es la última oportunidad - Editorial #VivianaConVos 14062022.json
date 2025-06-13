@@ -1,0 +1,61 @@
+{
+  "texto_id": "canosa",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.79,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Con todo lo que nos está pasando a los argentinos en este rebaño de pelotudos, esta es la última oportunidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy me preguntaba como si fuera psicóloga, ¿por qué tratamos a Irán o a Venezuela, que es una dictadura, como si estos fueran países normales? ¿Por qué no somos amigos de países democráticos?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente Alberto Fernández, ¿qué es lo que le gusta de Venezuela? ¿Le gustan las dictaduras? Presidente Alberto Fernández, ¿qué le gusta de Irán? ¿Le gustan los terroristas?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claramente Agustín Rossi no está a la altura de este cargo. Agustín Rossi, usted debería renunciar. A usted deberían echarlo de su cargo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se olvidaron de los atentados a la Embajada y a la AMIA. Se olvidaron. Esto es peligroso, esto es muy grave.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un gobierno de incompetentes y de corruptos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siguiendo con la reina de Lescova. Pedirán prisión para Cristina. El fiscal Luciani que interviene en la causa de la vialidad. Pedirá prisión efectiva para Cristina Kirchner como jefa de una asociación ilícita.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta no es una suposición por pensar que la presidenta maneja en general el gobierno del país. Está específicamente probada la cercanía y cómo se la consulta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo peor es que ya a nosotros los argentinos no nos queda ni el Papa. Esta es la última oportunidad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El comedor de alfajores de Bolívar siempre está del lado del que le ponga el billete. Esta es la última oportunidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6902
+}

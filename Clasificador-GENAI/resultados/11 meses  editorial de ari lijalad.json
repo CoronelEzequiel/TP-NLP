@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nuestras investigaciones y publicaciones demuestran que nadie se radicaliza solo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos publicado numerosas notas, junto a Franco  Migliaccio, que muestran cómo los discursos de la derecha se reproducen en ciertos medios de comunicación, y cómo estos discursos influyen en personas que luego cometen actos violentos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El intento de asesinato de Cristina Fernández de Kirchner no fue debidamente repudiado por una sola persona de la dirigencia política argentina, exceptuando a Patricia Bullrich.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, un grupo de militantes de Patricia Bullrich subió un video a Twitter titulado \"¡Unamos desde el presente! ¡Para que confundamos una Argentina! ¡La Argentina es la que hacemos todos, la Argentina! ¡Oh, la Patricia! ¡Oh, la Patricia! Una Argentina en la que estemos todos menos Cristina\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es notable que algunos miembros de Juntos por el Cambio que sí repudiaron el atentado, no cuestionen estas actitudes.  Horacio Rodríguez Larreta, por ejemplo, parece buscar un país sin diálogo con el 30% de la población que vota por Cristina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es alarmante la posibilidad de que estos personajes asuman la presidencia el día que celebremos 40 años de democracia.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1594
+}

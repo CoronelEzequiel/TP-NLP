@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En el caso de Alberto Fernández, son siete, por lo menos hasta ahora: una, la deuda con el FMI; dos, la pandemia; tres, el acoso continuo de La Cámpora; cuatro, la guerra en Ucrania; cinco, la inflación mundial; seis, el atentado a Cristina; y siete, la sequía con el cambio climático.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hubo dos de pandemia y dos de guerra, sino que hubo cuatro años de acoso de La Cámpora, como de alguna manera bien dijo Aníbal Fernández, es otra de las calamidades que tuvo que soportar este gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Y una persona creo que es la más grande y la más generosa en este sentido de poder realmente poner primero la patria y después los hombres que [inaudible]\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Enemigo del pueblo, egoísta, derrotista, esto le dice su propia gente al presidente de la República.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo volví de una semana en Roma y el clima que encontré era muy distinto al que me fui, o sea, encontré un clima de derrotismo que probablemente era combinación de esas temperaturas altísimas con cortes de luz, sumado al mazazo que significó el 6,6% de inflación en febrero, que era un clima de derrotismo, un clima que se parece al de un pueblo castigado por la mala fortuna divina, como pudo haber sido el pueblo de Egipto en el momento de las diez plagas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2460
+}

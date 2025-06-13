@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.17,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El DNU, si bien está vigente, elimina derechos laborales fundamentales: la ultraactividad, las horas extras (permitiendo al empleador exigir la cantidad de horas que desee), la licencia por maternidad se reduce, se prohíben las asambleas y los paros, afectando a trabajadores de prensa y otras actividades.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Corte, en lugar de proponer una nueva forma de cálculo, simplemente anuló la anterior, convalidando la demora en el pago.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas indemnizaciones son cruciales para paliar la situación de los trabajadores despedidos, especialmente en contextos económicos adversos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto beneficia al empresariado, pero satura aún más un sistema judicial ya colapsado con casos pendientes de despidos masivos anteriores, como los ocurridos durante el gobierno de Mauricio Macri.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La decisión de la Corte sobre las indemnizaciones, en vísperas del discurso de Javier Milei, contrasta con su inacción frente al DNU.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1559
+}

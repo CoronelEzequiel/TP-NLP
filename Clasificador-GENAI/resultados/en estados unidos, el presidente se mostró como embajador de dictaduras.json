@@ -1,0 +1,71 @@
+{
+  "texto_id": "El discurso de Alberto Fernández en la Cumbre de las Américas",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Su presentación lo retrató como un embajador de dictaduras.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus discrepancias con Cristina Fernández de Kirchner no impiden su flirteo con regímenes autoritarios.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablaba de Cuba, Nicaragua y Venezuela, países que, efectivamente, son dictaduras.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ignora que en Estados Unidos, aunque existan fuertes discrepancias entre republicanos y demócratas, la defensa de las políticas estadounidenses es unánime.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo insólito es que Fernández se quejó de lo mismo que le reclama a ese país: el gobierno de Trump facilitó el endeudamiento a un gobierno argentino en decadencia (el de Macri), y ahora critica que Biden haga lo mismo con su gobierno, el cual, además de pedir ayuda y recibirla, ofende al anfitrión para complacer a alguien que admira el modelo chino, país donde el embajador argentino, Sabino Vaca Narvaja, defiende la existencia de campos de concentración.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández, al igual que su embajador en China, no consideró los matices que sí tuvo en cuenta el presidente de Chile, de izquierda, quien, si bien consideró positiva la presencia de países como Cuba,  rechazó la existencia de presos políticos en la isla.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una buena noticia es que Alberto Fernández, finalmente, admitió que no se le dará todo a la gente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este argumento es hipócrita, pues Putin es quien encarna la humillación y la dominación sanguinaria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Menos mal que Fernández defiende los derechos humanos, aunque parezcan menos importantes que sus aliados ideológicos como Cuba, Nicaragua y Venezuela.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Volviendo al discurso, Fernández relacionó el individualismo con la miseria e invitó a Biden a la cumbre de la CELAC, incluyendo países considerados dictaduras por Estados Unidos, una invitación casi como una afrenta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, al contrario, no lo besó tras un acto de YPF, recordándole el refrán \"No importa dónde vayas, tú allí estarás\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Argentina, ante la ineptitud oficial, la gendarmería controla el combustible en la frontera para evitar su venta a precios bajos, en lugar de corregir las distorsiones económicas, afectando a quienes sostienen la economía, como el productor que se lamenta por la falta de combustible.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2616
+}

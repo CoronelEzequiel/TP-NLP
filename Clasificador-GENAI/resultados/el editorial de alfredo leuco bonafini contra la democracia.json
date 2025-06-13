@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.858,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Es una propuesta violenta y autoritaria que atenta contra el Estado de derecho y la democracia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina está cada vez más cerca de la cárcel porque fue la jefa de la asociación ilícita dedicada a saquear al Estado.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bonafini, que habla por boca de Cristina, está redoblando peligrosamente su apuesta destituyente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus palabras son un escupitajo a la justicia, digno de alguien que no cree y nunca creyó en la democracia republicana.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La impunidad es como la muerte.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De aquella lucha contra los asesinos de ayer a la intolerancia y el dogmatismo blindado de hoy.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2254
+}

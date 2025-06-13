@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El lunes se les entregará a las fuerzas de seguridad un listado de lugares para puestos fijos y móviles, para garantizar el funcionamiento de las líneas en los barrios.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobernador, mediante un decreto, decidió que se pagaría a través de subsidios y compensaciones, lo que comenzó en 2021.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se les perdonará la deuda, pero quizás con algún crédito del Banco Provincia, y con una metodología que estamos elaborando, podremos acelerar el proceso.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos trabajando en eso. Ayer nos reunimos, mi equipo sigue trabajando este fin de semana, y el lunes daremos una respuesta.  No vamos a pagar dos veces lo mismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las estructuras de costo benefician más a las líneas nacionales y de la Ciudad que a las de la provincia de Buenos Aires.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2225
+}

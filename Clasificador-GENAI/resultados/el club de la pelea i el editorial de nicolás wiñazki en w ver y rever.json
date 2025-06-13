@@ -1,0 +1,41 @@
+{
+  "texto_id": "W Ver y Rever",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a hablar con él de economía y de política, pero antes quería mostrar y contar cómo hay un plan K desde que asumieron el poder por tercera vez, desde diciembre del 2019, para quedarse con plata de la ciudad y después van a ver cómo explícitamente **Cristina Fernández de Kirchner** y **Máximo Kirchner** hablan de material de espionaje antes de que se arme todo este gran lío complejo y de gravedad institucional que tiene que ver con teléfonos hackeados de la política.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Veamos cómo **Cristina Fernández de Kirchner** primero avisó, hace cuatro años, que iba a ir por la plata de la ciudad de Buenos Aires.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner estaba avisando en diciembre del 2019 que la ciudad era pulenta, que los helechos tienen luz y que los agapantos de la 9 de Julio eran más lindos que muchos distritos del conurbano bonaerense, es lo que podría sintetizarse en una crítica a la gestión de algunos intendentes de la provincia que recibe mucha plata en coparticipación y está bien que así sea.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, así como **Cristina** avisó sobre los fondos de la ciudad de Buenos Aires, sobre los helechos, los agapantos, no me acuerdo el nombre de las plantas, perdón, también avisaron los **Kirchner** sobre el material de espionaje que sabían que existía y que iba a afectar a **Horacio Rodríguez Larreta**.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente el kirchnerismo, ese kirchnerismo no cambia nunca.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El diálogo político de la Argentina está completamente roto.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4340
+}

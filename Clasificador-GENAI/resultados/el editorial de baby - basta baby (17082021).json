@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.759,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Son un desastre, ¿no? Son un papelón.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El odio. El odio. Son las piedras que ustedes tiraron, las 120 toneladas que tiraron para derrocar el gobierno de Macri, ¿se acuerdan?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los muertos, 110.000 muertos. Por no vacunarlos a tiempo, por no hacer la vacuna, por no poder hacer negocios con SAAF, con Pfizer.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque el dolor no se analiza, no se le ocurre nada.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero de aduladores y sumisos como usted, se ha nutrido el kirchnerismo. Ese kirchnerismo que está en decadencia y en caída libre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque si no me equivoco, Cristina Fernández de Kirchner está procesada y tiene cinco años de prisión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son dos farsantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y votan a [Nombre del político], por ejemplo, porque tiene algo diferente, algo nuevo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y a los viejos los convirtieron en jubilados y los estafaron, Alberto Fernández. Ganan treinta paquetes de yerba. Los estafaron.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usted es cada vez menos Cristina Fernández de Kirchner. Usted no tiene más liderazgo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, no le tengo miedo. Al contrario. La que va a tener miedo es usted.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3256
+}

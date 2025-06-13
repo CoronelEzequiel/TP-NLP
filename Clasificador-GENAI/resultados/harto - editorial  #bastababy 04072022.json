@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.857,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Su comportamiento errático genera una profunda inestabilidad en el país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo esto es consecuencia de las decisiones de la expresidenta y de su entorno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su falta de responsabilidad y su actitud caprichosa han generado un profundo conflicto social.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su comportamiento es inaceptable, y su insistencia en ejercer una influencia política que no cuenta con el apoyo de la mayoría, es preocupante.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su intento de golpe de estado el sábado pasado, cuando atacó públicamente al presidente Alberto Fernández, es un ejemplo de su desmesurada ambición de poder.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus actos muestran un desprecio absoluto por las instituciones democráticas y el bienestar del pueblo argentino.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es necesario que la justicia actúe y que se investigue a fondo su conducta y la de su entorno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1253
+}

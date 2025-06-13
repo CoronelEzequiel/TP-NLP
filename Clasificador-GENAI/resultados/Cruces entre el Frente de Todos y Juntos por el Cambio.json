@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esto se dio con una serie de gobernadores que ayer se reunieron con el presidente, solicitándole que no cumpla con el fallo que ordena a la Nación devolver parte de la coparticipación a la ciudad de Buenos Aires.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una de las acusaciones por las que se terminó, digamos, juzgando y removiendo a la corte a mediados de los años 40, era que había legitimado las dictaduras de 1930 y de 1943.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Son capaces de anular la Constitución? Lo único que le falta a este gobierno es hacer un DNU diciendo: 'La Constitución Nacional dejó de existir en la Argentina'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Este fallo no es un fallo político. Esto fue un fallo partidario. Esto fue un fallo destinado a favorecer a una minúscula parte de nuestro país en detrimento del país federal.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Hoy quedó demostrado que el camino legal, que el camino institucional da resultados. Quedó demostrado que hacer lo correcto vale la pena.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4339
+}

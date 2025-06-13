@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy hay cuatro candidatos: Bullrich, Larreta, Milei y Massa, que proponen lo mismo: el proyecto Melconian. La mirada Melconian de la vida y la economía, que básicamente es el achicamiento del Estado, la desaparición de los derechos laborales, la eliminación de los planes sociales, la eliminación de las jubilaciones estatales y una feroz represión ante las reacciones sociales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Moreno logró controlar a los formadores de precios y a los operadores financieros, manteniendo la inflación mensual por debajo del 1%. Y bueno, eso fue con mano dura. Digo, es mentira que no haya alternativa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando recibió a la jefa del Comando Sur de los Estados Unidos, Laura Richardson, estaba pensando en Massa presidente. Se juntó dos veces con [Stanley] y mandó a todos sus equipos a sacarse fotos en la Embajada Americana, estaba pensando en Massa presidente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto, además de padecer todo esto, se tuvo que bancar el sabotaje permanente de Cristina. Y lo que es peor aún, cuando le pega a Cristina un tiro en la nuca a Guzmán (hablo en sentido figurado, estrictamente), y lo saca del gobierno de la economía, nosotros veníamos con la inflación a la baja, íbamos camino a tener en agosto un 3% de inflación, en el agosto pasado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, me parece que la salida no es por el lado neoliberal conservador.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2627
+}

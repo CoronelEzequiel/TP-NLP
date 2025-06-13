@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El poder judicial, devenido en partido político, protector del \"macrismo\" y perseguidor de los dirigentes de las distintas fuerzas que se le oponen, coloca a los ciudadanos en situación de libertad condicional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner atacó a la Corte Suprema con una ferocidad inédita y profundamente antidemocrática.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Patricia Bullrich se hizo la pregunta justa: ¿Qué pasaría si una de las cabezas del poder judicial se pronunciara sobre el poder ejecutivo como lo hizo Cristina Fernández de Kirchner?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner entra en pánico ante la posibilidad de ir a la cárcel; la causa de los cuadernos de las coimas es un detallado mapa del latrocinio que organizaron junto a Néstor Kirchner, pero la causa Vialidad es la que más la preocupa ahora porque avanza sin prisa pero sin pausa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dice Cristina Fernández de Kirchner que su condena ya está firmada, eso no lo sabe nadie; lo que sí se sabe, porque figura en el voluminoso expediente, es que la cantidad de pruebas que existen es demoledora y que no hay forma de no condenarla.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner quiere destruir a la Corte Suprema y huir hacia adelante; de nada vale que corra, el incendio va con ella.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2106
+}

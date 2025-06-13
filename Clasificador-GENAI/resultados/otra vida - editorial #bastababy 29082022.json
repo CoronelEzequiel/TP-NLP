@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.856,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Vi todas las estupideces que hicieron los kirchneristas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no es apta para vivir en Recoleta.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese conventillo, esa barriada… Ahora Cristina Fernández de Kirchner tiene un loft cerca de la casa de su hija en Constitución.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recoleta es histórica. No es para Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando uno no es, no es; cuando no naciste, no naciste.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son 1.500 pelotudos que van a aplaudir a Cristina Fernández de Kirchner, que es corrupta y está enjuiciada.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les digo a todos los canales de televisión que es muy barato tener rating poniendo un móvil en la puerta de Cristina Fernández de Kirchner, pero también es muy berreta, y lo único que estamos haciendo es apología del delito, porque al ponerle cámaras incentivás a esos pelotudos a que vayan para que lo vea la madre, que no vaya al colegio, que no estudie, y lo único que te llevas son 200 o 300 boludos haciendo quilombo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, el único reinado que tiene es ser reina de los chorros de la banda que la acompañaron veinte años.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3313
+}

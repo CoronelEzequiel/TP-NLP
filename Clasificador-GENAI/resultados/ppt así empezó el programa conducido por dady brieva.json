@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.225,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Para usted, señora, que a lo mejor no sabe y pela el zapallo y se forma intelectualmente con los opinólogos de los canales de cable, Infobae, La Nación, Clarín (tiene el grupo Clarín, un pillo que conozco, amigo mío) que replica en Los Andes, en La Gaceta, en medios de Rosario, en la Vuelta del Interior y Cadena 13.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Atención a los tibios que se acordaron tarde de decir que vivimos un año decisivo. No es que el que no apoyó a Cristina se salva. Acá no se salva nadie, chico. Acá no se salva ningún dirigente sindical, no se salva nadie. Vienen por todos, así como se los digo, vienen por todos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A vos que votaste en pandemia y te subiste a una trafic y llevaste una olla popular para darle de comer a los chicos y a la gente que estaba en situación de calle. A vos que abriste las redes sociales para darle 100 pesos a esa chica para que se haga el trasplante de médula. A vos que sos parte y miembro de esa fundación internacional que ayuda a los chicos refugiados y que trata de romper la hambruna de esos chicos. A vos te digo: '¿Qué votas gobiernos liberales?'",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vos agarras y vos tenés las arterias tapadas porque comés mucho. O sea, va, dame un segundo. Comés mucho. Entonces tenés una milanesa con papas fritas y huevos fritos. Y agarras y la comés igual y reventás como un sapo porque ignorabas los análisis.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3834
+}

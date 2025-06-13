@@ -1,0 +1,46 @@
+{
+  "texto_id": "Ovacionaron a Amado Boudou en el Senado",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La ovación a Boudou es otra cosa y la verdad da mucha vergüenza.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cada aplauso a Boudou es una cachetada a los argentinos honestos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El fallo del máximo tribunal que lo condenó por la adquisición irregular de la ex imprenta Ciccone Calcográfica fue un fallo unánime de los cinco jueces que confirmaron la coima y la corrupción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La guerra interna ha llevado al gobierno a un notorio ataque de sinceridad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con cada visita al supermercado, los argentinos se anotician del empobrecimiento sin pausa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aplaudieron a Boudou.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mientras la actual vicepresidenta intenta todo para que a ella no le pase lo mismo, para que no le alcance la justicia, aunque tenga que cargarse el Poder Judicial si es necesario.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2521
+}

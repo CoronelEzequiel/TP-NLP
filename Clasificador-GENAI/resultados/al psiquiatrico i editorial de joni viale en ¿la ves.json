@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El ganador kirchnerista Mayans no mandó al manicomio a Cristina Fernández de Kirchner.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No existe que Mayans quiera internar en un manicomio a Cristina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El solo hecho de que 14 millones de argentinos hayan elegido a un loquito, a un outsider, al tipo de la motosierra, es la muestra del agotamiento absoluto con el populismo, con la corrupción, y con esa cosa que defiende esta chica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El informe dice, Alberto Fernández es el dirigente récord.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos viendo en vivo y en directo el derrumbe populista.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No le crean a Cristina. Es una recontra mentirosa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4346
+}

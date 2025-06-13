@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En este contexto, es inconcebible la actitud del gobierno argentino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las políticas económicas del presidente argentino, con la apertura de importaciones y la importación puerta a puerta, son suicidas en este contexto internacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina es extremadamente vulnerable por su política de libre comercio y la falta de medidas proteccionistas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente busca el aplauso de la extrema derecha, ignorando la gravedad de la situación del país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno ha generado desempleo, destruido la industria, aplicado políticas económicas dañinas para la población, incluyendo recortes en la salud y el acceso a alimentos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2296
+}

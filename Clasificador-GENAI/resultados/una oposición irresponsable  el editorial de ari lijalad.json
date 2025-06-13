@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando hay un tema que toca al fútbol, la cuestión se magnifica mediáticamente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La oposición se negó a tratarlo y eso perdió estado parlamentario porque estuvo en 2020 allí: se aprobó en el Senado, pero la Cámara de Diputados no lo aprobó y se perdió.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, la oposición bloqueó en el Congreso que se creen juzgados y fiscalías en materia penal en la provincia de Santa Fe, y esos juzgados y fiscalías no existen.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, y recogiendo un poco el guante de lo que dijo el presidente, hay una responsabilidad de la oposición y de la cúpula del Poder Judicial de que en la provincia de Santa Fe, por lo menos esa parte, no esté cubierta.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que el problema del narcotráfico es complejo. Obviamente, el Gobierno Nacional tiene parte de responsabilidad porque es parte del territorio argentino, pero necesitamos una oposición que no sea tan irresponsable.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2415
+}

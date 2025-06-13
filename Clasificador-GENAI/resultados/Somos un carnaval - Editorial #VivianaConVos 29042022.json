@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.789,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno nos quiere hacer creer que somos un lujoso carnaval de Copacabana, pero no llegamos ni a hacer un corso barrial.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solo una persona como Alberto Fernández, que está poseída y endemoniada, nos puede decir a los argentinos en la cara, sin ponerse colorado, que las cosas están yendo bien.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner lo quiere sacar a Alberto Fernández y a todos esos sátrapas que llevó Alberto Fernández al gobierno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según una medición paralela que hizo el gobierno, la pobreza afecta al 55% de la población argentina. El gobierno está diciendo que el 55%, que el 55% de los argentinos es pobre, es pobre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las leyes en Argentina están a favor de los delincuentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso es parte de la agenda 2030. Pedofilia, eutanasia, aborto, TikTok. Están los chinos metidos ahí, ¿no?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El estado de Florida prohíbe que asociaciones LGTBI y feministas den charlas en los colegios e institutos. Basta, por favor, de adoctrinamiento, basta, por favor.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Profesores en comunicación social en la Facultad de Periodismo de la Plata emitirán el primer título de No Binario. Me muero, muerta, profesores.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El PAMI garantiza a sus afiliados el acceso a la práctica del aborto. Pero si las abuelas no pueden abortar, ignorantes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8282
+}

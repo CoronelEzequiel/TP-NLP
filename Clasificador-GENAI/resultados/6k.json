@@ -1,0 +1,31 @@
+{
+  "texto_id": "47 minutos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.375,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando llegó Néstor Kirchner el 25 de mayo de 2003, dejé de ir. Fui una vez más, creo que una vez más con Alberto Fernández.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que tiene más que ver con algunas cuestiones más de mezquindades políticas que con todo lo que le está pasando a nuestra gente con la política económica que despliega el gobierno de Alberto Fernández.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero también quiero decirlo, porque si no... Cristina Fernández de Kirchner hizo el famoso 'dedo' del 19... Aparte, es hablar, finalmente, de esa manera... creo que también es no tener análisis políticos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, estas políticas económicas que impone hoy el gobierno de Alberto Fernández pegan de lleno a las pymes, va generando pérdida de trabajo, va generando un montón de problemáticas que se van desarrollando.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8801
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández pretende dar vuelta la página de una gran crisis institucional que viene de años en la Argentina y que tiene que ver, sobre todo, con la calidad del poder judicial, del Ministerio Público, de las fiscalías, de la vinculación entre todo ese universo y los servicios de inteligencia, y la vicepresidenta que se considera víctima de una persecución judicial y le pide al gobierno actuar para que se limpie el terreno judicial que la afecta a ella y que afecta, sobre todo, a su familia, a sus hijos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella considera, como considera Lula da Silva, como considera Rafael Correa, como considera Maduro, que la justicia la persigue como instrumento de todo un aparato de poder, no porque durante su gobierno y el de su esposo se hayan cometido delitos, no porque haya aparecido José López con nueve millones de dólares y una ametralladora en un convento, no porque haya habido un registro infinito de coimas minuciosamente contadas en los cuadernos de Centeno, no por las coimas que el propio Ricardo Jaime confesó haber recibido, no, la persigue por haberse metido con intereses muy poderosos del sistema financiero, de las empresas exportadoras y de los medios de comunicación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la Corte me trata como me está tratando y le dio el argumento a Macri de decir: \"Acá no hubo persecución política, es mentira que son los jueces que me trajo perechada para perseguir a Cristina, los nombré correctamente\", ¿qué debo esperar si ahora el procurador va a ser pactado entre Alberto Fernández y en el fondo Macri?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En todo este juego está la voz del presidente que le dice a los intendentes: \"Olvídense de La Cámpora, busquen su propia reelección\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Usted va a pagar ahora por cualquier electrónica que compre 6% más, que es un impuesto que le puso Massa.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6507
+}

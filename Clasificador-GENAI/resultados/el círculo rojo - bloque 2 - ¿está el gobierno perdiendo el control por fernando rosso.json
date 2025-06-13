@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.071,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Desde que comenzó el gobierno de Javier Milei, el principal riesgo en el debate público es aceptar, quizás sin darse cuenta, el terreno de discusión que propone el oficialismo, sus portavoces y sus aliados comunicacionales, que son numerosos y poderosos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el inicio de la jornada de movilización del miércoles pasado, en apoyo a los jubilados y jubiladas, que congregó a muchas personas solidarias, el gobierno inició una batalla para imponer una interpretación de los hechos que incluía términos como \"barra brava\", \"militantes pagos\", \"golpes destituyentes\" e \"izquierda desestabilizadora\", intentando así volcar la opinión pública a su favor.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para tener una mirada equilibrada de la situación, hay que ir más allá de la indignación por sus declaraciones y fijarse en sus acciones y en lo que les sucede.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué le sucede al gobierno? Está perdiendo el control: el control de la inflación y otras variables económicas (como el dólar), el control de la calle, el control de las redes sociales (muy importante para ellos), el control del Congreso (al menos en la última sesión de diputados), el control de la agenda y el control del relato.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta pérdida de control es una mala noticia para el gobierno, pero una oportunidad para la mayoría que sufre las consecuencias de sus políticas, para aumentar la movilización y recuperar el control de nuestro destino.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La narrativa de \"los dos demonios\" –que minimiza la represión policial justificándola con la reacción de algunos manifestantes– es inaceptable.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay equivalencia entre la acción ofensiva del Estado y la defensa de quienes se manifiestan.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2010
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y si están preocupados por eso, deberían estarlo aún más, porque en unos minutos, junto con Hugo Macchiavelli, presentaremos una grave denuncia contra 39 altos funcionarios del IOMA, casi todos pertenecientes a La Cámpora y algunos directamente vinculados al sindicalista Roberto Baradel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "360.000 votos de argentinos en el exterior implicaban demasiados votos en contra del oficialismo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mientras intentan distraernos con este juego perverso, despliegan una nueva cortina de humo para ocultar, por ejemplo, que en la provincia de Buenos Aires la inseguridad está descontrolada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pido al ministro Sergio Berni que deje de hacerse el superhéroe y solucione el problema.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, nosotros seguiremos desarmando operaciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una de ellas es la del ministro de Justicia, Martín Soria, contra la Corte Suprema y contra los fiscales y jueces que investigan a Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si un funcionario comete un delito, debe ser encarcelado, juzgado, procesado e indagado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1899
+}

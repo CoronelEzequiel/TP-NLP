@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.042,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Julián Ercolini (el juez que instruyó la causa en la que mañana se condenará a Cristina Fernández de Kirchner), quien intervino en la causa Papel Prensa sobreseyendo a Héctor Magnetto, y ahora viaja con el presidente del Grupo Clarín.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto demuestra que no había facturas, que todo fue pagado por Clarín, lo cual es un delito.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ellos quieren el video interno de mi fuente, pero no quieren que se publiquen los videos donde aparecen ellos bajando del avión y subiendo a camionetas con directivos de Clarín. ¡Mafia pura!",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se resuelve si el año que viene Cristina Fernández de Kirchner gana las elecciones y tiene el poder político para cambiar este sistema.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros hacemos periodismo para cambiar el mundo. Y este país es absolutamente injusto, entre otras cosas, por estos jueces, estos medios y estas empresas que hacen este tipo de maniobras.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2193
+}

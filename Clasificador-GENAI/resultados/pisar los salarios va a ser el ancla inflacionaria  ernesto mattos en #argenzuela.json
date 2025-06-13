@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_agro",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tres empresas vinculadas a este sector se declararon en default y hay muchas dudas de cómo viene el esquema macroeconómico para este sector, ¿no?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo peor es la baja inversión en gasto de capital también, digamos. Casi el 94% de caída en lo que es la inversión en capital que tienen que realizar las provincias, que Nación nunca refirió.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bajan los precios de alimentos porque la gente no está consumiendo la parte de alimentos como venía consumiendo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, salió un informe y dice que un millón de niños se van a dormir sin comer. Sí, tremendo. Tremendo, demoledor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El salario y obviamente apostar a pisar las paritarias, como lo viene haciendo en el sector público que perdió casi un 50%.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no vimos la misma campaña, si se quiere, de coro de especialistas remarcando esto. La verdad que las reservas negativas eran un punto, son un poco oficial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3040
+}

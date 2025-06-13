@@ -1,0 +1,61 @@
+{
+  "texto_id": "Plantándose como una oposición racional al gobierno",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.33,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, no sé si es que perdieron la compostura, pero me dio la impresión de que el presidente y sus ministros se mostraron muy beligerantes con los otros poderes del Estado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cada momento votamos lo que consideramos mejor para Argentina.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero cuando el Congreso es tan contundente y tiene una mayoría como la que tuvimos para aprobar esta ley (dos tercios), el veto no tiene mucho sentido.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veo ciertas prácticas cristinistas en algunos aspectos: en el tono empleado a veces para referirse a las instituciones, en algunas prácticas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando no te gustan los otros poderes, cuestionar a la justicia o al Parlamento es el camino más común.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cada vez que algo sale bien es gracias a él, y cada vez que algo sale mal, es culpa de los demás.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición, en su mayoría, se ha comportado de manera constructiva.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno frenó bastante la inflación, pero el dato de mayo rondará el 5%, que sigue siendo mucha inflación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero su programa \"narcocapitalista\" no resiste ningún análisis.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los extremos son iguales y no funcionan en ningún país del mundo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2386
+}

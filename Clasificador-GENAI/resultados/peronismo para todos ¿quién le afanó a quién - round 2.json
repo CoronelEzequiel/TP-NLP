@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.256,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Primero, debemos realizar una limpieza del material.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después, profundizaremos en el tema de Juan Subira, el autor de la \"Gorilonga\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi límite son los soldaditos; no pueden ser atacados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo, desde niño, siempre los he valorado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi padre era policía, y les tengo un especial respeto.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No queremos que vuelva a ocurrir con los soldaditos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos 500 y necesitamos gestionarlos adecuadamente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, el programa empieza de una manera especial.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Presentaremos al \"compañero de la semana\", como se hizo en otras ocasiones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1135
+}

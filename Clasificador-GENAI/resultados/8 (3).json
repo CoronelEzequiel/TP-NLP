@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.133,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, la verdad es que hay casi, podríamos decir, un abuso de los laboratorios, pero lo más preocupante es que no parece haber ningún límite por parte del Estado para controlarlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se debe, por supuesto, a un gobierno que ha dejado de controlar y regular absolutamente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, como la salud es un derecho en la Constitución Argentina, el Estado debe garantizar el acceso de la población a los medicamentos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto nos llevó a crear una ley de emergencia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina tiene un déficit histórico en este tema.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno debe gestionar, no sólo enfocarse en el déficit fiscal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1903
+}

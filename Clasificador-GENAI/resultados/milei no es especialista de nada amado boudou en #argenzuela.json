@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.133,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Así que tenemos un país que, lamentablemente, se está pensando desde lo financiero y no desde lo productivo, o lo productivo ni siquiera parece existir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el día que lleguen los dólares del Fondo Monetario Internacional, se los va a volver a fumar igual, como ya lo hizo con Macri y como ya lo hizo en este año y medio el ministro Caputo, lamentablemente, porque él ve la cuestión económica solamente desde una mesa de dinero y no se da cuenta de que un país tiene salarios, tiene jubilaciones, tiene industria, tiene inversiones, bueno, *debería* tener, porque en este caso no los tiene, no aparecen ni van a aparecer, y solo el foco está puesto en la cuestión cambiaria.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, el día de la devaluación, también la población va a sufrir mucho porque eso se va a integrar a una nueva dinámica inflacionaria que ya sabemos en Argentina lo que sucede.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero vos podés ver los números del turismo, vos podés ver los números del cambio, está atrasado en un número ya grandote, ¿no?",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No, la devaluación es la lamentable consecuencia de políticas muy equivocadas que está llevando adelante el gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, el día de la devaluación, también la población va a sufrir mucho porque eso se va a integrar a una nueva dinámica inflacionaria que ya sabemos en Argentina lo que sucede.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que además está muy lejos de ser una cuestión técnica, porque lo que está haciendo el gobierno es buscar llegar con la lengua fuera sin tener que devaluar hasta las elecciones para que el único supuesto –porque te acordás en épocas de Cristina de inflación del 20%, decían que era insoportable, insuperable– bueno, ahora parece que es un éxito y un logro, ¿no?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es que la cuestión del dólar, por un lado o por otro, va a resolver la vida de los argentinos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una deuda que va a haber que revisar y rever tanto el monto como las tasas de interés, como los plazos, porque lo que exige la legislación argentina es que una de las ramas del poder, o sea, el poder legislativo, autorice al poder ejecutivo a que se endeude y cómo se endeuda.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3383
+}

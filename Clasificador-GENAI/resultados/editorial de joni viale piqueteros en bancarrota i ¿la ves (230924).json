@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.763,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Agredió a una mujer policía en Lago Escondido.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insultó a la periodista Cristina Pérez.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insultó a Galperín, CEO y fundador de Mercado Libre.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tipo tiene esclavos que le tienen el paraguas y le llevan la valija.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo defiendo un mundo más justo, el capitalismo es caca, no me gusta la desigualdad social, hace falta más humanidad, el tipo después tiene.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero basta de planes llegó la hora de trabajar a trabajar segundo basta de los gerentes la pobreza basta robarle la plata a los pobres tercero basta de piquetes se protesta se protesta en la vereda no le jode la vida al otro cuarto basta de paro salvaje se protesta manteniendo los servicios esenciales la escuela los trenes los colectivos los hospitales los aviones y quinto se terminó la argentina patotera hoy quedó demostrado de vuelta no nos dejamos correr nunca más por un tipo que no representa a nadie porque lo digo con respeto cuántos votos sacó Grabois 5,85 por ciento se quedó afuera de las paso es una persona con mucho ruido mediático que da rating que lo llaman que está bien pero que no representa el 94 por ciento de la población argentina y la sociedad ha decidido que esa persona ya no te puede extorsionar ni joder nunca más y además un careta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No señor hay que elegir entre Sergio Massa, Javier Milei y Patricia Bullrich y lo mejor para el país es que gane Sergio Masa esa es mi opinión eso es lo que yo creo firmemente pero Tomás Riliberán cuando lo haces a votar toma lo que quieras pero anda a votar a Masa pero anda a votar a Masa que hace Juan todo bien?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No nos gusta la violencia no nos gusta pero los piqueteros que viven con la nuestra sabes que están en bancarrota y eso sí tenía que pasar los piqueteros que viven con la nuestra están en bancarrota.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3515
+}

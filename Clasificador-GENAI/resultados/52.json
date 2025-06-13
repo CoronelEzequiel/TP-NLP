@@ -1,0 +1,46 @@
+{
+  "texto_id": "Amalia Granata en Radio 10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Salí a hablar con la gente justamente porque ellos tuvieron una mala operación de seguridad; ellos, que se la dan de gobierno de la seguridad, no pudieron controlar la manifestación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que pasa es que ellos votaron una ley tan dañina para el bolsillo de los jubilados, de la gente que trabaja, de los docentes, de los policías y del sistema de salud, que, claro, la gente estaba enojada, pero yo fui a buscar la paz.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque el año pasado se votó una ley, por ejemplo, un subsidio a las personas trans, y las gradas se llenaron de personas trans. Y a mí, no sé por qué, porque voté en contra, me insultaron en todos los idiomas, amenazaron a mi hija, y tuve que soportar 45 minutos de insultos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como ellos tienen la mayoría en la cámara de diputados y en la cámara de senadores, el Puyarismo se cree un monarca y que el parlamento es su escribanía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inseguridad sigue, el tema es preguntémonos: ¿por qué se frenó esta violencia entre bandas narco? ¿Qué hubo en el medio?",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mirá, a ver, yo soy muy respetuosa del lugar que me dio la gente y de la institución que represento.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ver, creo que ella todavía no tomó noción de que está representando, está ocupando una banca en el honorable Congreso de la Nación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3993
+}

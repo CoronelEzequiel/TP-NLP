@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.683,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mi objetivo es un cambio de régimen, un cambio profundo —entre comillas—.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestra propuesta es una reforma del Estado, con drástica reducción del gasto público, disminución de impuestos, simplificación del sistema tributario, desregulación económica, privatizaciones de empresas estatales ineficientes, apertura económica y cierre del Banco Central.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Argentina se encuentra en decadencia debido a la actual clase política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente considera que, de esta manera, controlará a los gobernadores, especialmente a Axel Kicillof, gobernador de la provincia de Buenos Aires, impidiéndole utilizar recursos adicionales para su campaña en 2025 y dejándolo a merced de Cristina Kirchner.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner, por su parte, contraataca con críticas a las políticas del presidente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se percibe que la estrategia comunicacional del gobierno está un paso adelante.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2307
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.761,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La única jubilada que le ganó a la inflación y Alberto Fernández con el sombrero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos pibes del Consejo Escolar seguramente estaban drogados, ¿no? Como dice el intendente de Morón, \"poquito a poquito\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, a nosotros nos chupa un huevo todo lo que usted dice y hace.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es increíble todo lo que hace el presidente Alberto Fernández para que Cristina Fernández de Kirchner no lo castigue tanto.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué autoritaria la \"cumpa\", ¿no? Muy autoritaria.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También es terrible que nuestro gobierno sea amigo de estos países impresentables como Nicaragua, Cuba, Venezuela. Estamos siempre del lado de los feos, bucios y malos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuché esto porque es tremendo. Porque la cultura del plan y el home office es una cosa impresionante que vino a hacer mucho daño.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta abogada llama a los hombres basura. No permitamos que nos roben el futuro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Faltan 556 días para que se vayan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7158
+}

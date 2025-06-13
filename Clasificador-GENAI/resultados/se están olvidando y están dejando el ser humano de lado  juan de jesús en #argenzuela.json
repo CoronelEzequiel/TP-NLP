@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No podemos ignorar el clima de época, donde desde las altas esferas de nuestras instituciones se incita a la violencia, al odio y a la discriminación, sin valorar el sufrimiento de las mujeres y las víctimas de violencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En lugar de buscar soluciones, se denosta la política para que la gente no participe, echando la culpa a la política para justificar la desigualdad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema histórico de Argentina es su endeudamiento, que empobrece a la población.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A pesar del estímulo al turismo exterior, más del 50% de los turistas son argentinos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1958
+}

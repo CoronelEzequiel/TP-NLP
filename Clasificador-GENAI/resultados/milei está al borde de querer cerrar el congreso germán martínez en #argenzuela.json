@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.135,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que, creo que realmente es un problema que estamos teniendo. Hablo en plural, aunque los responsables políticos son otros, pero que se daba además, Jorge, del tema más importante, que era un día donde había diputados que estaban dispuestos a sentarse a darle el visto bueno al gobierno para aprobar un nuevo acuerdo con el Fondo Monetario Internacional, que desconocían, un acuerdo a ciegas y una delegación de facultades, y que después, más tarde, iban a dejar la silla vacía para que se pueda tratar la agenda de los jubilados: prórroga de la moratoria, aumento de los haberes y acceso a los medicamentos, que eran esos mismos jubilados los que estaban siendo el motivo de una protesta muy masiva que viene sucediendo todos los miércoles en Argentina.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ayer, en algún momento, yo intenté decir, al final del día, quizás ya en otro tono, yo estoy convencido de que Javier Milei va a incrementar el carácter autoritario de su gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que en su plan puede llegar a estar, a hacer, yo lo dije en alguna noche de alcohol o de sexo, puede ser que el presidente de la Nación decida, por ejemplo, intentar cerrar el Congreso, pero, para lo que está diciendo, pero ¿en qué te vas a decir eso? En todo lo que está haciendo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ayer votan juntos a favor del FMI y en contra de los jubilados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es cierto, es cierto, Germán, que uno va viendo, de todos los días, va creciendo un poquito más el enano fascista que decía Brian Afalachis.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, que vos sientas que puede un día despertar, si decís, \"arremolo el Congreso\", fuerte, pero puede pasar, Jorge. Lamentablemente, puede pasar.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, no me gusta decir las cosas a la ligera. No, tuyo, pienso, lo digo cuando le tengo que decir, más allá de que a veces suene precipitado o adelantado, lo puede decir con argumentos de casos internacionales, porque en realidad, estas cosas se están pasando en mucha democracia del mundo, lamentablemente, con las experiencias de nuestra querida Latinoamérica y con los rasgos que tiene la realidad que vos y yo estamos viendo, para que nos angustiemos y nos deprimamos, sino, no, sino para que ayer lo dije también en esa intervención al final, sino para que la Cámara de Diputados, el Congreso tenga la personalidad suficiente para no permitir esta escalada autoritaria que está generando el gobierno y que muchos con su coro y con su manito levantada retroalimentan todos los días.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y, en tal caso, ¿cuál sería una posibilidad alternativa respecto del futuro de la Cámara Baja?",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Segundo el elemento sintiendo que alguien puede dudar, me puede usar más o menos, el liderado del presidente de la Cámara, a mí no me gusta, no de ahora, me gusta desde el arranque, lo dicen todos lados, trato de tener la mayor cordialidad posible, a veces me cuesta la mano, pero como sé también el robo que tengo como presidente de bloque, bloque de mayor cantidad de miembros, trato de garantizar que las cosas funcionen lo mejor que se vea que se pueda.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer volvimos a escuchar la palabra pollo crítico de la gente, si se dice, \"basta de apoyo crítico\", con todo el cariño del mundo que le puedo tener a quien fue durante años nuestro presidente de bloque, mencionado lo que le tengo aprecio personal y político, pero basta, porque están haciendo mierda la Argentina con el apoyo crítico, lamentablemente es así.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3783
+}

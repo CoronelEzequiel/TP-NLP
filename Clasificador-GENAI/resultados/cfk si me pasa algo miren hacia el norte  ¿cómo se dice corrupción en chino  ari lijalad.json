@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.233,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"Si me pasa algo, y lo digo muy en serio, si me pasa algo, que nadie mire hacia el oriente, miren hacia el norte, por favor, miren hacia el norte\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Resulta curioso que este informe haya sido inmediatamente destacado por *Clarín*, *La Nación* e *Infobae*, todos con un titular similar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El informe indica que la corrupción subvierte los mercados abiertos e impide la capacidad de las compañías estadounidenses para competir.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para Estados Unidos, combatir la corrupción es sinónimo de crear condiciones favorables para que las empresas norteamericanas puedan hacer negocios y evitar la presencia de empresas chinas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras nuestra relación comercial con Estados Unidos es compleja, con China tenemos una relación comercial complementaria, y China es el único país que actualmente invierte fuertemente en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La corrupción sirve como excusa, al igual que en el pasado el comunismo o el narcotráfico, para intervenir en la política interna de los países y contrarrestar a figuras políticas que no se alinean con los intereses estadounidenses y que podrían facilitar el intercambio comercial con China.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2048
+}

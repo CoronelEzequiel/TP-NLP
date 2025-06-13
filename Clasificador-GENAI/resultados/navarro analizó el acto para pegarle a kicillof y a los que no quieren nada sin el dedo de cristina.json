@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En un momento en que la gente sufre hambre en las calles, según UNICEF, un millón de niños se acuestan sin cenar; en el que el PAMI les quitó medicamentos a los jubilados y el gobierno nacional les recortó las jubilaciones; en el que la gente camina por las vías del tren por falta de dinero para el pasaje… Máximo Kirchner realizó un acto contra el gobernador Axel Kicillof, de su propio partido, e hizo sonar una canción agresiva en su contra.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Máximo Kirchner apoyó el veto del gobierno nacional contra el aumento para los jubilados, un veto que recordemos, anuló un pequeño aumento que se les había otorgado.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Máximo Kirchner, dirigente peronista y presidente del PJ de la provincia de Buenos Aires, fue a la provincia de Buenos Aires, gobernada por otro peronista, a realizar un acto opositor, olvidando, una vez más, que su rol es ser oficialista.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La propuesta es: Cristina Fernández de Kirchner lidera, Máximo Kirchner conduce y Axel Kicillof, en un tercer escalón, administra bajo la mirada vigilante de Máximo Kirchner.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pensemos un poco en la creatividad de La Cámpora. ¿Por qué no hicieron una canción contra el gobierno nacional en vez de una contra Axel Kicillof?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El viernes, el antagonista del espacio político del gobierno nacional no fue el gobierno nacional, fue Kicillof. Y armaron la canción.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3328
+}

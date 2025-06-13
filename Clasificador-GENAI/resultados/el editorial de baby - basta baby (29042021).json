@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Somos tan ridículos que ya siempre me enojo, pero ahora hay que quedarse de risa, porque sinceramente se fueron tan a la mierda del gobierno, están tan \"sarrazani\" que no es posible tomar en serio lo que hacen.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente, todos tenemos que estar vacunados aquí. Yo y Alberto, daba vergüenza ajena después que se nos murió cantidad de gente porque no había vacunas, y encima porque las que llegaron, yo lo voy a decir toda la noche hasta que me echen, se las afanaron.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes se dan cuenta que nos cagamos 20 años de nuestra vida preocupándonos por Cristina Kirchner, preocupándonos por el tren bala, la isla de Marchi, la basura de Cristina, el día de la inmobiliaria que mostró el diario, la vaca que llegó a Angola, toda la cantidad de camelos y mentiras y caprichos?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y traigo vacuna, ¿qué carajo me importa?, no hay vacuna, ¿qué carajo me importa?, te estás muriendo, ¿qué carajo me importa?, la gente ya no le importa nada, porque nos quitaste Alberto, en un año y medio, la alegría, nos quitaste la luz en el horizonte, nos quitaste el futuro, nos mentiste tanto que nos agotaste, vos y Cristina nos agotaste.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo le digo esto, cuando esto termine de las vacunas y esto lo vamos a hablar ahora con ustedes, yo creo que muchos de ustedes van a ir presos, yo creo que muchos, empezando por China, creo que muchos de ustedes que ahora se ríen y se ponen el chaleco naranja y están queriendo hacer todas estas parodias para que el pueblo se olvide, van a ir presos, van a ir presos por la discrecionalidad, y me dice un abogado: \"La discrecionalidad es la muerte\", porque cuando vos le das la vacuna a la amiga del intendente o al amante del gobernador, vos le estás sacando la vacuna a un ciudadano que la pagó y el ciudadano se muere.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2888
+}

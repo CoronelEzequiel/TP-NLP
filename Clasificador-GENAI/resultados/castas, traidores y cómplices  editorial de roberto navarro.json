@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_ventas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Mes tras mes, se constata una reducción en las ventas de alimentos, artículos de limpieza y perfumería.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras a algunos la baja de inflación les mantuvo o incluso incrementó su poder adquisitivo (beneficiándose de una \"fiesta financiera\"), otros experimentan una drástica reducción en su consumo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien Milei podría ser visto como un representante de los intereses empresariales – con evidencias de leyes redactadas en estudios jurídicos de empresas y aprobadas en el Congreso–,  el problema va más allá de un simple gobierno empresarial.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La solución no es simplemente que se vaya Milei, sino una profunda renovación con dirigentes honestos, austeros, que representen a los desposeídos y busquen una sociedad igualitaria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1514
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_papa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Francisco transformó un mensaje cristiano simple en una referencia mundial, en tiempos en que el mundo parecía haber perdido la brújula.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un policía que fue el que gaseó a la nena, a la niña de 10 años, que además fue ascendido por Patricia Bullrich para conducir los operativos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Francisco comprendió mejor que nadie el lenguaje de la época. No era un doctrinario, sino un hábil comunicador global.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Enclave Internacional fue un Papa multipolar, promovió una diplomacia del encuentro, apostó por el multilateralismo cuando el mundo giraba hacia el nacionalismo de extrema derecha y tejió puentes con el Islam moderado, el judaísmo, pero también con China, en una jugada verdaderamente de muy, muy largo alcance.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, quizás ahí encontremos también parte de la explicación de por qué Milei, a lo mejor, capzuzos sin decirlo, consideran al Papa el representante del diablo en la tierra.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "J.D. Vance, convertido al catolicismo a los 35 años, quiere hacer de su país un baluarte de los valores conservadores, limitando drásticamente la inmigración.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3889
+}

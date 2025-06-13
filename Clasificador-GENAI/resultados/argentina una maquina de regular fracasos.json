@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.786,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo le hablaba del cuasi comunismo económico que tenemos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque estamos llenos de regulaciones derivadas de todas las corporaciones que medran como parásitos de un estado que nos asfixia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ustedes han visto algún político argentino presentando algún proyecto para derogar normas rancias que entorpecen la producción de la economía en la Argentina?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un programa que nos estimula y nos regala unos pesos para salir de vacaciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es el estado que se mete en tu vida cuando quieres salir de vacaciones, que tus chicos vayan al viaje de estudios, comprar el producto que quieras en la góndola donde se te ocurra, tiene que ser un trato entre privados, donde el estado no tiene nada, nada que hacer.",
+      "score": 0.93,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2200
+}

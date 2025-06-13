@@ -1,0 +1,101 @@
+{
+  "texto_id": "¿Se dieron cuenta que cada vez que pasa algo malo los políticos se borran?",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.681,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Se dieron cuenta que cada vez que pasa algo malo los políticos se borran?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina se borró, no estaba, apareció como dos semanas después, es un chiste de mal gusto.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El regalito de corto plazo, ¿no? El premio, el bono, la migaja, la heladera, el bolsón, el calefón, ¿viste? Pero nunca la solución de fondo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Espinoza, es un caradura. ¿Cómo pueden mentir tanto, Espinoza?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo, ¿eh? Es mi teoría. Son impunes. Porque saben que al final la gente, o mucha gente, o alguna gente los termina votando porque los tienen agarrados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "40 años de peronismo, 40 años de miseria, 40 años de atraso, 40 años sin cloacas, 40 años de inundaciones, 40 años de falsas promesas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Con la diputada Tolosa Paz tenés a Avellaneda hecha pelota, Ferraresi. Sos un sinvergüenza, hermano.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Estado no te da nada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Estado no te cuida.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado no te protege.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy no te dan nada de esto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado te tiene que brindar cinco cosas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El narcotráfico acá no se va a controlar de esa manera.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son cinco cosas. Seguridad, educación, salud, defensa y justicia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero vos no creés que eso en alguna cabecita anda dando vueltas?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque en tres, cuatro, cinco meses nos quedamos sin país.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero igual es un problema.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Abandonó a los pasajeros y huyó en un botecito.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7617
+}

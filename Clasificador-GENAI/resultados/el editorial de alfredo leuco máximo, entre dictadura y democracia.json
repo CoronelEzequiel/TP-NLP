@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Está claro que Máximo Kirchner, a quien escuchamos, no tiene las condiciones para ser un dirigente político de importancia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo simultáneamente habilitó a Pablo Moyano, un hombre proveniente de la patota y la derecha, para que participaran en reuniones en su nombre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Comparó a la dictadura militar con el gobierno democrático de Horacio Rodríguez Larreta en la ciudad de Buenos Aires.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Horacio Rodríguez Larreta y Soledad Acuña luchan para que los chicos no pierdan ni una hora de clase y denuncian ante la justicia democrática, como corresponde, a los padres por la toma de un edificio público.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo debería saber que eso no enaltece las tomas de los colegios secundarios.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo lo contrario, vacía de contenido el terrorismo de Estado.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2123
+}

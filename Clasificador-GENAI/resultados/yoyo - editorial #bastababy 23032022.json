@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.858,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Sentimos exactamente lo mismo. A partir de ahí, la Argentina se dividió en dos grandes grupos: los \"fachos\" (que es lo que estos ladrones que nos gobiernan nos quieren endilgar) y las víctimas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este caos que vivimos es culpa de Cristina Kirchner, y hay que apoyar a Alberto Fernández para que no lo destituyan.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no lo tuve que estudiar, yo lo viví. Campo era Isolinde, y abrimos las cárceles, liberando a todos los chorros.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los milicos fueron una mierda, pero más mierda fueron los que trajeron a los milicos: los peronistas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso mismo, no voy a permitir que ningún \"pendejo culo sucio\" (estos que no saben una mierda) me venga a decir a mí qué es la democracia, o si soy facho o soy gorila.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Soy un argentino hinchado a las pelotas de estos hijos de puta que en los 70 se robaron todo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2529
+}

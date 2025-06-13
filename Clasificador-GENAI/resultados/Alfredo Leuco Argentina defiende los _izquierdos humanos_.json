@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Privilegian sus negocios políticos y la búsqueda de su impunidad por encima de la defensa de las víctimas de los que violan los valores republicanos acá y en el mundo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno es mediocre y jurásico en su ideología, lo que nos produce vergüenza ajena por dejarnos siempre del lado de los países menos democráticos del mundo y que más violan los derechos humanos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina, la jefa del Estado, entiende que sus aliados estratégicos son grupos terroristas como Hamás, o países como Cuba, Venezuela, Nicaragua, Rusia, Irán y China.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se pueden criticar muchas cosas, pero lo más grave es que en ese camino hacia el abismo el cristinismo dinamitó un activo político compartido por todos los argentinos: la defensa de los derechos humanos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y su banda también profanaron este concepto sagrado. Defienden solamente a los \"izquierdos humanos\", no a los derechos humanos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Kirchner y su banda han robado fortunas y han destruido gran parte de los valores democráticos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quieren colonizar la justicia, estatizar de prepo todo lo que funcione y quedarse con todo y para siempre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá algún día Dios y la patria se lo demanden.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2262
+}

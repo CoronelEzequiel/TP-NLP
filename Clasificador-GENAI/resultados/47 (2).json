@@ -1,0 +1,51 @@
+{
+  "texto_id": "entrevista_tetaz",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.313,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo elegí, a propósito, Jorge, no contestarle porque no quiero alimentar la agresión; quiero dejar que la agresión hable por sí sola del agresor.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque justamente estoy instalando la discusión sobre los jubilados, sobre cómo hacemos para pagarles, sobre si el aumento que votó el Congreso es razonable y financieramente responsable para el país.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, los gobiernos se aprovechan de esas circunstancias.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que “matar” a los jubilados para que baje el déficit… No. El jubilado es el último que puede esperar; tiene que tener prioridad, tiene que cobrar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después discutimos si esa crisis es responsabilidad de Milei o no; de hecho, yo creo que más del 80% de esa crisis es responsabilidad de la irresponsabilidad masiva durante el gobierno anterior.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que en algunos casos, como el de las jubilaciones, el Presidente está mal asesorado, porque claramente está mal.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Da la sensación, mirándolo de afuera y desde el lugar que nos toca como periodistas, de que el radicalismo juega una para la izquierda, una para la derecha, una para el centro… con respecto al gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No, no estoy de acuerdo. No quiero que mi club se convierta en una sociedad anónima.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3931
+}

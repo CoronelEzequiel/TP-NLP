@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy vieron al presidente de España dándole una clase de derecho a nuestro presidente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un presidente que hace una semana dijo: \"A mí, los fallos judiciales no me van a asustar\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el otro dijo: \"Loco, no es así, hermano. Estás en España, bajá cambios, si querés que te prestemos plata para llegar a fin de mes. Tenés que bajar la soberbia\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, este es el famoso amigo de Cristina, el machirulo. El machirulo que es ella.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y así está el pueblo argentino.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso digo que hay que abrir los ojos y darnos cuenta de que a lo mejor la parábola de la rana que seguía de R, B, R, B, R, B, R, y no se da cuenta, ya nos queda chica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Abusada, humillada, denigrada, destratada y enojada.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2809
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "criptomonedas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.225,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo considero que sí, que el presidente es un participante necesario de todo esto. Yo al igual que todos los argentinos en este momento me estoy preguntando si es *garca* o es *boludo*.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin Milei esto no hubiese sucedido. Sin el *split* de Milei no hubiese sucedido y no hay desconocimiento, no puede aducir desconocimiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí me interesa decirle a la gente que esta es una buena situación para ver lo que pasa cuando vos no regulás. Cuando no regulás puede pasar que venga alguien y sin pagar un costo demasiado grande estafe a un montón de gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y yo creo que estamos en Occidente ante el inicio de una etapa en el que vamos a ver gobiernos de derecha autoritarios que llegan por la vía democrática pero que después empiezan a tener estas actitudes.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3933
+}

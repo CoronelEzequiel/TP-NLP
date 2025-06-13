@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Voy a hablar de robos, del hecho de que los delincuentes están afuera y los honestos, adentro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jorge Ríos fue robado tres veces la misma noche.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora él está en arresto domiciliario por matar a un ladrón, mientras el resto de los delincuentes andan libres.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Bienvenidos al futuro, porque lo que vendrá después de la pandemia ya está ocurriendo: una profunda crisis económica y social en Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la provincia de Buenos Aires, la delincuencia está aumentando, y paradójicamente, nos estamos quedando sin dinero.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1409
+}

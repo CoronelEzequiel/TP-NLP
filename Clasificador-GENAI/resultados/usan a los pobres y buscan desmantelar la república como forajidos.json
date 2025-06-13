@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Resulta repugnante.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos carteles no solo representan el uso del Estado para fines personalistas y la verdadera concepción del gobierno al repartir dinero, sino también el uso de los recursos públicos como dádivas y herramienta electoral en medio de una pobreza lacerante.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las firmas del Movimiento Evita y Barrios de Pie, cuyos líderes forman parte del gobierno, en esos carteles parecen una burda admisión de clientelismo, y el sello del PJ, con su escudo, parece olvidar hasta sus propias máximas: \"Donde hay una necesidad, hay un derecho\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si alguien se preguntaba sobre la atemporalidad de la medida –repartir dinero, más propio de campañas electorales que de otra cosa– no se equivocaba, porque a la luz de las encarnizadas internas políticas queda claro que, sin cambiar nada de fondo, el nuevo \"plan platita\" es la forma de recuperar la iniciativa de un gobierno estancado y de comenzar la campaña de reelección de Alberto Fernández.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hemos visto un verdadero cuatrerismo político.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un empresario me decía, en una conversación sobre la oferta electoral para las próximas elecciones: \"¿Cómo va a ganar un candidato que diga la verdad de todo lo que debería hacerse para sanear el país?\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando analicen, con sofisticados focus groups o con delirios de grandeza (que es lo que sobra), el desencanto de la gente con la clase política, en vez de enojarse porque los llaman \"casta\", no se compliquen: piensen en todo esto que los divorcia hondamente de cada argentino y pidan perdón, al menos, para luego ponerse a trabajar como lo hace cada persona que mantiene este país y los mantiene a ustedes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2763
+}

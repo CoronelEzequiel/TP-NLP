@@ -1,0 +1,36 @@
+{
+  "texto_id": "milei_periodistas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Milei sostiene que los periodistas que defienden la libertad de expresión en realidad buscan censurar las ideas que no les agradan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei considera que cuando se les dice la verdad a los socialistas, estos responden con acusaciones de 'discurso del odio'.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este ataque a los periodistas, según el análisis, no es algo espontáneo ni una obsesión personal de Milei, sino parte de una estrategia de la derecha populista que se originó en 2006 con el Movimiento 5 Estrellas en Italia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El analista coincide parcialmente con Milei al señalar que algunos periodistas argentinos cumplen con esta descripción: mienten, difaman, injurian, ostentan un alto nivel de vida y reciben presuntamente financiamiento ilícito.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalmente, el analista critica la propuesta de Milei de reemplazar el periodismo con las redes sociales, ya que considera que Milei mismo controla la mayor maquinaria de 'trolls', 'granjas de bots' y utiliza recursos estatales y privados para difundir su mensaje, junto con Santiago Caputo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1416
+}

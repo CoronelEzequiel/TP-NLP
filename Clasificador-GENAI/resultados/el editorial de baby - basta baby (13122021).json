@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me gustaría que no lo terminemos mal, que haya cordialidad entre los compañeros y evitar generar polémica.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La democracia no son solo Bonafini y Carlotto; ellas representan un cinismo y un odio exacerbado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto no es democracia, es una payasada partidaria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina quedó contenta, pero el pueblo, no.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me da lástima irme de vacaciones esta semana, porque hay mucho por pelear.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2134
+}

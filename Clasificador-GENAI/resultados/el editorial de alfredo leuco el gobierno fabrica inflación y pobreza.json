@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno tiene una fábrica de inflación y de pobreza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en la peor inflación del mundo en compañía de Venezuela y de Zimbabue.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La fábrica inflacionaria de este gobierno kirchnerista funciona a todo vapor, a su máxima capacidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mire, Massa ya perdió hasta el último gramo de vergüenza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El gobierno está atrapado sin salida porque todo lo que hace es redoblar la apuesta en lugar de cambiar el rumbo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, Cristina y Massa van tozudamente con una seguida ideológica brutal hacia el mismo lado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ellos no creen en esas medidas que repudian y que llaman despectivamente neoliberales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son fanáticos delirantes que creen que imprimir una catarata de dinero y repartirlo les va a hacer ganar las elecciones y que no van a tener consecuencias tremendamente tristes para la economía.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto, el presidente que no preside, se burla de los argentinos más humildes y dice que se trata de una inflación autoconstruida de origen psicológico.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En lugar de combatir la inflación, el gobierno de los Kirchner se convierte en una fábrica de inflación y, por lo tanto, en una terrible y triste fábrica de pobres e indigentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Toman las mismas medidas que ya fracasaron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siguen nombrando empleados públicos y no se dan cuenta de que se siguen pegando tiros en los pies.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2489
+}

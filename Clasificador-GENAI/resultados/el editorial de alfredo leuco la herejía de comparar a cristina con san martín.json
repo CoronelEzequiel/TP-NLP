@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.796,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se convirtió anoche en el mayor alcahuete de Cristina, porque cometió la herejía de compararla con el general José de San Martín.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La memoria del prócer más importante de nuestra historia no se puede mancillar comparándolo con la jefa de una asociación ilícita que se dedicó a saquear el Estado.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina fue condenada a seis años de cárcel y Rafael Correa a ocho años de prisión por el caso conocido como sobornos, mientras ejerció la presidencia de Ecuador.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "San Martín es el día que nos ilumina y Cristina es la noche que nos oscurece como país.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no cruzó los Andes, cruzó todos los límites legales y se convirtió en la jefa de la asociación ilícita para saquear el Estado más grave de la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La potencia de Cristina, por el contrario, fue para engancharnos como vagón de cola de las locomotoras del atraso y la violación de los derechos humanos, como Cuba, Nicaragua y Venezuela.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "San Martín manejó cataratas de fondos públicos y murió sin un peso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y antes Néstor Kirchner tuvieron como amigos, cómplices, testaferros y empleados a Lázaro Báez, ya condenado a 12 años de prisión.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su gran preocupación fue no concentrar el poder y por eso creó el Consejo de Estado y se preocupó para que el poder judicial fuera realmente independiente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repito, insisto, todo lo contrario al \"vamos por todo\" y al intento de dominar con amenazas y poner de rodillas a la justicia para lograr impunidad, ni hablar del odio y la persecución que produjeron contra los medios y la prensa independiente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una de las enseñanzas más maravillosas que nos dejó San Martín tiene que ver con su rechazo al silencio temeroso generado por todos los autoritarismos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Le sintetizo el tipo de dirigente que nos dejó San Martín con su ejemplo: respeto por la libertad de expresión, independencia de poderes, austeridad republicana, honradez a prueba de bala, coraje y estrategia, y un profundo amor para una patria de todos y para todos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "San Martín es nuestro y nos puede ayudar a sacar lo mejor de nosotros, para no rendirnos ni bajar los brazos frente a los que fabrican autoritarismo para conseguir la suma del poder público.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un San Martín para que nos siga iluminando aún en los momentos más oscuros, y ojalá que estas palabras sirvan como desagravio para su figura colosal.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2852
+}

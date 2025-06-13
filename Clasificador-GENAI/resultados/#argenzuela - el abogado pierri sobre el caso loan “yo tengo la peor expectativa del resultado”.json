@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "A mí me llama la atención la celeridad de la justicia, de la policía y del poder político para agarrar a la Udalina y enseñarle a declarar, llevarla a las 2 de la mañana a declarar también.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si ustedes leen la audiencia imputativa se van a dar cuenta del esfuerzo que hace la justicia federal por mantener la pata de la trata.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Maciel tiene que explicar a la justicia si quiere mejorar su situación procesal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo estoy convencido de algo, y es que desde la defensa de Maciel nosotros vamos a poder echarle luz a muchas cosas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3263
+}

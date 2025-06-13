@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, mi colega, la periodista Cecilia Camarano, le preguntó al vocero presidencial, Manuel Adorno, algo fundamental: ¿quién está pagando el hotel donde reside Javier Milei, quien aún no se ha mudado a la Quinta de Olivos debido a las reformas que, según él, está realizando?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Saben qué otro documento careció de expediente? El acuerdo de préstamo con el FMI.  Se comprobó que no hubo expediente para la solicitud de los 45 mil millones de dólares.  De igual manera, este DNU se elaboró sin expediente, lo que indica que se realizó al margen del Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Detrás de cada artículo de este DNU hay un negocio, y alguien invirtió en ello: alguien escribió el texto, lo envió, insistió en su publicación y espera obtener beneficios. ¿Quién financió el DNU?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso, el Grupo Clarín pagó a los jueces que orquestaron la persecución judicial contra Cristina Fernández de Kirchner.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Belocopitt fugó 21 millones de dólares durante el gobierno de Macri (una de las diez mayores fugas individuales).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2158
+}

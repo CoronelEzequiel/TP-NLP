@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.671,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No importa si estas singularidades se deben a errores en las medidas gubernamentales o no.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, un año después, Argentina se encuentra en una situación crítica respecto a las vacunas: falta de transparencia y una gran cantidad de dosis sin aplicar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recientemente, trascendió que algunos dirigentes, empresarios, intendentes, concejales y periodistas recibieron la vacuna fuera del programa establecido.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno, tras anunciar inicialmente que se trataba de un gran escándalo que provocó la renuncia del ministro de Salud, luego lo calificó como un disparate inventado por la prensa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la provincia de Buenos Aires, una gran parte de la clase política, tanto oficialista como opositora, se vacunó irregularmente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presentar el plan de vacunación como una gesta heroica cuando no se aplican todas las vacunas disponibles es una falsedad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La sociedad no exige hazañas heroicas, sino información transparente y la admisión de errores.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2165
+}

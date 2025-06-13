@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La posible nominación de Kamala Harris a la candidatura demócrata de los Estados Unidos representa una consolidación de una tesis que viene dándose hace mucho tiempo en todo el planeta, digamos, el siglo XXI.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una cuestión que trasciende lo ideológico, como quedó demostrado una vez más en los últimos meses con la consolidación, por ejemplo, en Argentina, del poder de Victoria Villarruel y el poder delegado de Karina Milei, y más recientemente, con Claudia Sheinbaum, la nueva presidenta electa de México.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si en Estados Unidos Trump es estatista y en Sudamérica uno puede decir que Bolsonaro o Milei son libremecadistas, lo que efectivamente los une es la tan mencionada batalla cultural contra los nuevos valores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que la derecha construye como su principal enemigo es la teoría de la política posmarxista, si se le denomina, que logró hacerse del mainstream de la academia y es feminizar el arte, la cultura, aquello que denominan cultura 'woke'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podría decirse que una mujer que enfrente el ascenso de la ultraderecha no es tampoco una novedad en las elecciones, ni tampoco en Estados Unidos en particular.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este sentido, la derecha también pudo subirse al caballo del proceso feminista y dar respuestas desde su espacio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros venimos a honrar a los próceres de nuestra historia, a los que hicieron de la Argentina un país grande, muchos de los cuales fueron ocultados y ninguneados por los últimos gobiernos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Giorgia Meloni: Sí a la civilización. No hay mediaciones posibles. O se dice sí, o se dice no. Sí a la familia natural. No a los lobby LGBT. Sí a la identidad sexual. No a la ideología de género.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5657
+}

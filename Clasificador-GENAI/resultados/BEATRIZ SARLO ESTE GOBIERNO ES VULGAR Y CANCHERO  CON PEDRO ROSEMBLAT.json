@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_beatriz_arlo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Así que me gustaría preguntarte qué tiene que ver esto que estamos viviendo con la tradición liberal argentina, porque a diferencia quizás del gobierno de Macri, donde tenían un desprecio por la historia, Milei y La Libertad Avanza la discuten y se posicionan.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Depende de qué línea es la tradición liberal. Dicen ser muy liberales en política y lo declaran y eso no es valioso para ellos. Lo declaran porque vale la pena tenerlo sobre la mesa, pero no es tan valioso para ellos. Para ellos es muy valioso el liberalismo económico.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que por esas opiniones y por lo que voy leyendo, por esas opiniones creo que es una política económica que no se fija en a quién está dañando. Que tiene objetivos sin fijarse en a quién está dañando.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por qué pensás que el pueblo argentino votó un proyecto político que, a viva voz, prometía sufrimiento, angustia, ajuste que se van a gloriar de llevar adelante el ajuste más grande de la historia de la humanidad?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, en principio, yo creo que él piensa verdaderamente que eso es dinero del Estado tirado a la basura. Que en el CONICET nos salen sino algunos investigadores que podríamos sacar más baratos. Creo que ese es su pensamiento verdadero, lo cual habla de lo chato que es Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7842
+}

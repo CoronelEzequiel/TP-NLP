@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta descripción de Foucault sobre la relación del demagogo con la palabra, podría o se va ajustando cada vez más, a la relación con la retórica, a la expresión de Alberto Fernández, y hoy su discurso ante la Asamblea Legislativa, fue una muestra de eso, una muestra que tal vez a él sea la primera persona que lo incomoda, ¿por qué? Porque fue el discurso de un hombre que viene muy golpeado, es decir, la esencia del discurso de Fernández de hoy está, y después vamos a analizar qué consecuencias tiene, en alguien que se tiene que replegar sobre su base, replegar sobre quienes lo pusieron en el poder, por la debilidad política en la que se encuentra, sobre todo después del escándalo de las vacunas, y replegarse sobre quien lo puso en el poder, no es replegarse necesariamente sobre una base electoral, es replegarse sobre una persona que es Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, el tema de las vacunas, ¿por qué pegó en el corazón político del gobierno? Porque afecta al corazón del discurso populista. El argumento central del discurso populista, en general el argumento central de la demagogia, supone un enfrentamiento sistemático permanente entre el pueblo y las élites, el pueblo es bueno, las élites son malas. La percepción de que llegaron las vacunas y se las quedaron los políticos, y se las quedó el gobierno y sus amigos, viene a desbaratar este argumento.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Subordinarse a Cristina es adoptar una serie de conflictos a través de los cuales Cristina delimita los contornos del oficialismo. Separa entre nosotros y ellos. Conflicto con la prensa, conflicto con la justicia, conflicto con la oposición, conflicto con el Fondo Monetario Internacional, conflicto con el empresariado. Ese es el cerco en el que se metió, ese es el corralito en el que se introdujo Alberto Fernández buscando oxígeno en un momento de debilidad política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la medida en que pierda esas capacidades, su valor dentro de la ecuación oficialista disminuye. Y va a haber un día en que se va a convertir en un hombre prescindible, en la medida en que ya no tenga capacidad de diferenciación frente a Cristina Fernández de Kirchner. Por eso, ¿qué significa el día de hoy con esta subordinación? Que el albertismo murió. Un albertismo que nunca había nacido, pero hoy terminó de morir aquello que nunca había visto la luz.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alguien le debería indicar al presidente, o aconsejar, nuestra función, cuidar los intereses de Fernández, que presentar una reforma judicial y al mismo tiempo llevar a los tribunales a la oposición genera la impresión subliminalmente indica no solo que esa reforma judicial no se va a hacer con la oposición, sino que se va a hacer contra la oposición. Si en el discurso en que yo anuncio la reforma judicial a su vez anuncio una querella contra la oposición, lo que me queda en un segundo plano del cerebro es esta reforma judicial es para perseguir al otro, al que piensa distinto, al que rivaliza electoralmente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6387
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "luna_de_miel",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.678,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer por la mañana, Javier Milei fue insultado por los hinchas de Boca cuando fue a votar a La Bombonera.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Luego, el mandatario llegó a Bahía Blanca, vestido con una campera militar, y recibió una hora de críticas, tanto por su atuendo como por las pocas respuestas concretas que brindó a los bahienses, tras el desastre que afectó a la ciudad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su primera semana como presidente, el libertario pareció ignorar la prudencia de la realidad, y la famosa \"luna de miel\" que suelen tener los nuevos gobiernos se inició, quizás, prematuramente con su espiral de desencanto...",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "...Milei cometió dos errores comunicacionales en relación con el terrible hecho que le costó la vida a 14 personas en Bahía Blanca. Por un lado, decidió retrasar el viaje para votar en las elecciones de Boca...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "...y por otro lado, a la vez, llegó a la ciudad y le dijo a los damnificados de Bahía Blanca que no iba a ayudarlos con los recursos económicos del Estado Nacional.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En síntesis, lo que Javier Milei le dijo fue: \"ustedes van a lograr resolver esta situación de la mejor manera posible con los recursos existentes\", es decir, \"arréglenselas solos\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, el temporal mismo contradice las declaraciones de Milei contra el cambio climático. Milei había dicho en su debate presidencial y en otras apariciones públicas que el cambio climático era un invento de los socialistas para recaudar fondos y financiar \"vagos\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otra parte importante de la agenda del gobierno es que está llevando adelante la propia ministra de Seguridad, Patricia Bullrich, que impulsa un protocolo para regular los piquetes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "sectores del kirchnerismo y la izquierda desataron una polémica sobre el protocolo impulsado por Patricia Bullrich. Richard plantea que es inconstitucional...",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3570
+}

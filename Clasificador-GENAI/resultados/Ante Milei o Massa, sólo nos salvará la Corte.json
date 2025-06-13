@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.571,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Es la Corte Suprema de Justicia atacada tanto desde el actual gobierno como desde el frente libertario?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si queremos un país normal, empecemos por dejar de lado actitudes feudales que atropellan las instituciones",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Rechazo el intento de juicio político contra la Corte Suprema de Justicia impulsado por el kirchnerismo y respaldado por los diputados de Sergio Massa. Es una verdadera amenaza para la seguridad de todos los argentinos, para las instituciones y la democracia",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los problemas de limitar a la Corte Suprema de Justicia no son ni de derecha ni de izquierda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las irregularidades observadas durante la tramitación de esta etapa del juicio político, más allá de su carácter reiterado y sistemático, no lograron desacreditar al tribunal ni doblegar la voluntad de sus integrantes, quienes sentenciaron causas relevantes con autonomía de criterio e irrestricto apego a la Constitución y a las leyes",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que habría que dinamitar no es el Banco Central, habría que dinamitar la Constitución y, por tanto, dinamitar a la Corte Suprema de Justicia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si esto, un juicio político a la Corte, desestabilizaría todo nuestro sistema político y todo nuestro sistema de garantías.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6978
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.194,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estas situaciones se preparan con un clima que deshumaniza paulatinamente a quien piensa diferente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que debería haber actores conservadores, opositores a este gobierno y que históricamente no han sido afectos al kirchnerismo, que deberían expresar su repudio al atentado y unirse a las manifestaciones en defensa de la democracia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece importante no caer en una especie de equidistancia hipócrita respecto a la polarización.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay determinados actores que tienen una concepción patrimonial del poder.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En España, no fuimos demasiado capaces de cerrar filas por encima de las diferencias políticas.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que lanzar un mensaje claro a los sectores reaccionarios y de extrema derecha: nuestras sociedades están dispuestas a defender la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La respuesta de la oposición es que todos generan violencia y que señalar con el dedo es más violento.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hay otros actos, los discutiremos, pero lo que acaba de pasar no es un hecho menor, ni una anécdota.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2376
+}

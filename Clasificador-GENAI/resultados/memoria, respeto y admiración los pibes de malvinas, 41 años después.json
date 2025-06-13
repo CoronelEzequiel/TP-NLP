@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.181,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Debemos sentirnos orgullosos del peronismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los beneficios que tenemos hoy son gracias a los gobiernos peronistas.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor Kirchner cambió la vida de los veteranos de guerra, y Cristina Fernández de Kirchner continuó su labor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes hoy reniegan del peronismo y gozan de sus beneficios, deberían renunciar a ellos si no los quieren.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repudiamos sus dichos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También repudiamos el acuerdo de 2016, que daba a los ingleses la posibilidad de explotar las riquezas de Malvinas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Agradecemos que se recuerde este día, y que se reivindique la muerte de quienes quedaron en Malvinas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestro sueño es volver a Malvinas sin necesidad de pasaporte; eso significaría \"misión cumplida\".",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1737
+}

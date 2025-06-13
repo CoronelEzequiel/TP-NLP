@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lázaro Báez ganó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se lo acusa de haber lavado más de 60 millones de dólares fuera de la Argentina.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Es esto justicia a la carta?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner logró retrasar el inicio del juicio en su contra, en el que está imputada junto a Báez por la causa de la Obra Pública, primero por la pandemia, luego solicitando la televisación y transmisión por YouTube, algo inusual y excepcional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el ínterin, se votará en el Congreso una ley de moratoria fiscal que, según la oposición, beneficia a dos personas: Lázaro Báez, para blanquear posibles fondos ilícitos, y Cristóbal López, con una deuda importante con la AFIP, ajena a la pandemia, que podría acogerse a esta moratoria.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1775
+}

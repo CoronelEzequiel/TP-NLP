@@ -1,0 +1,51 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lo que sí me parece que debemos acordar, nosotros los gobernadores, es que no puede ser que los gobernadores se manifiesten en contra de la política del actual presidente, Javier Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos no son instrumentos para generar reactivación, bienestar o expectativas positivas en la sociedad, sino todo lo contrario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso nos parece que preparan el terreno para que las grandes corporaciones, los amigos y los allegados de quienes conducen la República Argentina sean los beneficiarios de un Estado que quieren desguazar para su propio beneficio.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece muy bien. Me parece excelente porque se está poniendo en marcha un movimiento, valga la redundancia, del movimiento nacional justicialista, a través de las distintas expresiones que luego pueden confluir en una sola propuesta consolidada, fortalecida, con la unidad del movimiento y con la participación de sectores externos, como algunos espacios pertenecientes a la Unión Cívica Radical, el PRO, movimientos sociales y movimientos de trabajadores.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un proyecto que contenga a todos los sectores sociales, especialmente los más marginados y vulnerables, con una política de inclusión al sistema que signifique la posibilidad de trabajo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei aplicó una política específica para lo que se denomina el \"Círculo Rojo Local\" y el \"Círculo Rojo Global\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, preparar el terreno para que se queden con la riqueza, agravado aún más por los Regímenes de Inversión Globales (RIGI), que significan políticas extractivistas de nuestros recursos naturales, sin dejar absolutamente nada para nuestro país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso particular de mi provincia, no adherimos a esos RIGI y tenemos nuestra propia política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2878
+}

@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.067,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno actual ha duplicado la indigencia y, simultáneamente, ha recortado la entrega de alimentos a los indigentes, suspendido la provisión de medicamentos a pacientes graves, perseguido periodistas y encarcelado a opositores políticos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos presos políticos han sufrido maltratos en prisión: golpizas, patadas, desnudamientos y humillaciones durante revisiones médicas supuestamente rutinarias.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué esta acusación? ¿Es una excusa para instaurar una dictadura similar a la de 1976?",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno actual mantiene estrechos vínculos con Trump y Bolsonaro, ambos implicados en intentos de golpe de Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bajo la atenta mirada del Papa Francisco, quien mantuvo dos reuniones de más de tres horas con Axel Kicillof en un solo día, una parte significativa de la Iglesia Argentina defiende activamente la democracia, un apoyo que no se manifestó en otros momentos críticos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer se solicitó la liberación de presos políticos como Leopoldo Moreau, Leandro Santoro, Malena Galmarini y Emiliano Giacobitti.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno recibe críticas por la situación de los presos políticos, no solo de periodistas del campo popular, sino también de figuras como Ernesto Tenembaum, Mario Mactas (asumiendo que \"Mario Donald\" es un error) y Longo Vardi.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anoche, Jonathan Viale, en un claro ataque de odio, justificó el encarcelamiento de María de la Paz Cerruti por supuestamente haber escupido a un policía, a pesar de que un compañero señaló que escupir no es delito.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno solicitó ayuda financiera al FMI, con la condición de aplicar tarifazos, eliminar el impuesto país, levantar el cepo cambiario, terminar con el “blend” energético y devaluar el peso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno intenta generar miedo, pero debemos actuar con cautela, pero con la certeza de que si se enfrenta a la población no podrá someterla.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, los convoco a una protesta hoy a las 16:30 en la Plaza de las Madres, porque esto no es una cuestión de destino, sino de nuestra lucha por la democracia.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Protestar no es un delito, es un derecho.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos quieren asustar, pero no debemos temer. Los venceremos de nuevo, como tantas veces en la historia argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2092
+}

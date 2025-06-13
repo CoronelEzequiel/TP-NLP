@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este ya no es un país con pobres, como cualquier otro país, sino que en el centro de la vida pública se ha instalado, como un fenómeno orgánico, sistemático, la pobreza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos números son el producto de crisis cíclicas económicas, macroeconómicas que vive la Argentina desde hace mucho tiempo. Y sobre todo del último gobierno de Alberto Fernández, de la última administración de Fernández con Massa, que como gobierno peronista, y este es el gran reproche que le hacen muchos peronistas al gobierno, entre otros, Cristina, traicionó la idea de una mejor distribución del ingreso, una mejor calidad social para la gente y dinamitó los ingresos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei lo recordó el otro día y tiene razón. Ha habido, cuando uno mira los números fiscales, una contracción brutal del gasto público, después lo vamos a ver en algunos de los rubros, por ejemplo, universidades, pero un incremento de las prestaciones sociales, de las transferencias de ingresos directas, las que no pasan por un plan social más o menos intermediado por piqueteros o movimientos sociales, sino las que van al bolsillo de aquel que necesita esa prestación: Asignación Universal por Hijo y la Tarjeta Alimentar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Econviews somos especialistas en macroeconomía y en el sistema financiero. Si no somos, está aclarando, economistas que se dedican a las cuestiones de pobreza o de equilibrio social. Visto desde este costado, desde la macroeconomía y desde el sistema financiero, no podemos dejar de decir que para que haya estabilidad macro y crezcan las inversiones, la cuestión social debería apuntar a cierta estabilidad. No necesitamos ser Dinamarca, pero para que el capitalismo funcione correctamente es importante que haya paz social, mejoras en el capital humano, educación, calidad del trabajo, un sistema de salud bueno y todos los incentivos de progresar adentro del sistema y no por la banquina, es decir, el tema de la inclusión, al que está extraordinariamente ligado el tema de la educación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9000
+}

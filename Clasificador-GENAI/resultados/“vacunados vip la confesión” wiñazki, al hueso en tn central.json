@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Zannini fue el Secretario Legal y Técnico de los Kirchner, o sea, redactó todos los decretos desde 2003 hasta 2015, todos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Anoche, en una entrevista, entiendo que con C5N, él dijo que no se arrepentía de lo que había hecho, en medio de una Argentina donde hay más de 68 mil muertos y, obviamente, todos están sufriendo la pandemia, cada uno a su manera.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Según Zannini, lo que hizo estuvo bien.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insisto, el propio gobierno ha echado a un ministro por esto y difundió que Zannini se había vacunado de forma irregular en el Hospital Posadas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zannini, además de esto que podría considerarse inmoral o falto de ética, se confunde, o yerra, o miente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Además de que no se retracta, Zannini considera que él es el Estado, el Gobierno y que, según sus propios criterios, Horacio Verbitsky es una persona que tenía que vacunarse antes que cualquier otra porque es alguien que está protegido por la sociedad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Además de que las leyes y las normas digan lo contrario, hay una sola cosa que Zannini dice que está bien: se tendría que haber sacado esa foto vacunándose para que todos tengamos el registro de ese momento en el que una persona que toma decisiones muy importantes en la Argentina le robó la vacuna a otro.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1839
+}

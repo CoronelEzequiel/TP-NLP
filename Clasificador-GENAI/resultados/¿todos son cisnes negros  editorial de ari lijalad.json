@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_balotaje",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Un paso realmente interesante para cualquiera que quiera pensar en un país en serio.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los grandes perdedores de la jornada habían sido, entre otros, los medios empresarios de comunicación. Que no lograron imponer a sus candidatos y, sobre todo, no lograron imponer su agenda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El domingo ganó el sistema corporativo que provocó esta catástrofe económica y social. Ganaron las matufias que lo sostienen y los corruptos impunes que lo frecuentan.\"",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La plata que les falta la tienen un grupito de empresarios, que les ha cobrado tarifas extraordinarias, precios extraordinarios por la comida, por los medicamentos, por todas las cuestiones que tienen que ver con tu vida cotidiana, por el transporte.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Frente a dos propuestas que la única racionalidad que tenían era seguir profundizando la desigualdad en la Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2372
+}

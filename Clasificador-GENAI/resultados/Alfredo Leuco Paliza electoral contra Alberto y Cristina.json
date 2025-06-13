@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por eso les pido que el próximo miércoles, en el que recordamos el día de las militancias, nos reunamos en la Plaza de Mayo y celebremos este triunfo como se debe.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por más que quieran disfrazar los resultados y minimizar la derrota, el Gobierno Nacional sufrió una paliza histórica.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El proyecto de Alberto Fernández y Cristina Fernández de Kirchner quedó al borde del precipicio y la coalición oficialista en medio de una feroz crisis de liderazgo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los datos concretos que sostienen esta opinión son los siguientes: la suma de votos de todo el país arrojó una victoria de Juntos por el Cambio de más de ocho puntos, casi nueve.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si hubieran sido elecciones presidenciales, Juntos por el Cambio hubiera estado a un paso de ganar en primera vuelta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner y Máximo Kirchner perdieron en Buenos Aires y en Santa Cruz, Alberto Fernández en Ciudad Autónoma de Buenos Aires, Axel Kicillof en Buenos Aires y Sergio Massa en Tigre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En diputados, los bloques serán mucho más parejos y el Congreso se convertirá en el dique de contención republicana para cualquier iniciativa radicalizada de Cristina Fernández de Kirchner o que busque desestabilizar el sistema.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se enteró Alberto Fernández a esta hora que su gobierno perdió la elección o estaba viendo otro canal?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oposición ganó una gran batalla, pero todavía le falta mucho para volver al gobierno y para quebrar culturalmente el peronismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juntos por el Cambio demostró que puede gobernar con eficiencia en sus distritos y que su alianza tiene capacidad de renovación de dirigentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En los distritos donde hay más pobreza y clientelismo y menos progreso y empleo privado siguen ganando los feudos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde lo institucional, la noticia más inquietante es la posibilidad de que Cristina Fernández de Kirchner desestabilice el sistema y radicalice su postura, huyendo hacia adelante con su guardia de hierro, La Cámpora.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2485
+}

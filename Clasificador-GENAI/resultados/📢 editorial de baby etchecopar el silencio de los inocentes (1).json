@@ -1,0 +1,41 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.558,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay cosas que nos gustan y cosas que no, pero creo que hay más que nos gustan que las que no.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, hoy Villarruel –mañana me hablará todo el mundo de esto en un programa de televisión– dijo que quiere ser Presidenta, que no lo descarta.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso yo venía a hablar hoy de trivialidades.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero estamos hablando de Milei, y lo de Milei me preocupa, porque cuando ganó Javier esperaba un gobierno de unión, que esta mujer diga: \"¿Cómo voy a querer presentarme yo en contra de Javier? Además, voy a muerte con él\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si vos sos Brad Pitt, podés ponerte anteojos negros; si vos sos Charles Chaplin, podés hablar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La duda es lo que nos mata.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4809
+}

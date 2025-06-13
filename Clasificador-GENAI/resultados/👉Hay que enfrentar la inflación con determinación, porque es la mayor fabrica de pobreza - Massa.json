@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Que ese ajuste va a producir un enfriamiento de la economía, y que ese enfriamiento de la economía va a repercutir electoralmente en peores posibilidades para el oficialismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un conflicto ineludible entre estas dos metas. Siempre las políticas económicas, cuando se produce crecimiento, aumenta la inequidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el año 2016, teníamos que el total de la distribución del ingreso, 51% iba para el sector del trabajo y 40% para el sector del capital. Así se mantuvo en los años 2016 y 2017, hasta que Macri vuelve a ganar las elecciones de medio término, y ahí comienza un proceso de caída del sector del trabajo, y un proceso de crecimiento del sector del capital.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En cuanto a los principios: orden fiscal, superávit comercial, fortalecimiento de reservas y desarrollo con inclusión.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y este es el dilema de la economía, si puede haber crecimiento con equidad, o inevitablemente, como decíamos al principio, hay un conflicto ineludible entre estas dos metas. O se crece primero y se tiene equidad después, o no se crece.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina es un país con recursos en vías de desarrollo, no un país rico. La riqueza la tenemos que construir entre todos y todas. Ese entre todos incluye a todos, gobierno y oposición, empresarios y trabajadores, campo e industria, organizaciones sociales y organizaciones de la sociedad civil.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3445
+}

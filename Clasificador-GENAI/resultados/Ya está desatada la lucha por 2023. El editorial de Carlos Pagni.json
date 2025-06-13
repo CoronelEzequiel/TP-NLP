@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lloraban porque no podían llevar a su hijo al cine, lloraban porque tenían que sacar a su hija de la universidad privada debido a la falta de recursos, lloraban porque, tal vez, no verían a sus nietos por mucho tiempo, ya que sus hijos se irían del país.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"La política es un circo sin público, un circo vacío donde están actuando los trapecistas, los domadores, los equilibristas –los políticos–, pero la gente ya se retiró\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "la pelea por el poder es la esencia de la política desde que se inventó. Sin poder es imposible transformar, sin poder es imposible salir de ese estado de desasosiego.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos tener la valentía de terminar de inmediato con legislaciones obsoletas en materia laboral, sindical, previsional y fiscal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8762
+}

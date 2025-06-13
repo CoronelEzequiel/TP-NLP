@@ -1,0 +1,26 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Son dos batallas concretas de gobierno, de gestión, y son dos batallas simbólicas, a nivel ideológico. Expresan mejor que otras políticas lo que él quiere ofrecer o lo que él ha querido ofrecer desde que se incorporó a la política: achicamiento del Estado, control del déficit fiscal, ordenamiento de las cuentas públicas y orden público, orden físico en la calle.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se les van a quitar los beneficios del plan Potenciar Trabajo a aquellos que se movilicen para cortar la circulación, para hacer piquetes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que deberían tener un derecho automático a recibir esa prestación si es que trabajan y, sin embargo, tienen que pasar a besar la mano del puntero o a ir a una movilización para recibir esa prestación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8694
+}

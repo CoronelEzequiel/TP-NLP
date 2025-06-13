@@ -1,0 +1,46 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.657,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La inflación es nuestra guerra perdida.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este nivel de inflación, para este gobierno, como está en este momento, es un mal aguantable.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para luchar en serio contra la inflación necesitás dos cosas: un gobierno creíble y un equipo económico idóneo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no conozco a nadie que haya modificado las expectativas en función de esos anuncios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina es un país presidencialista y personalista.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La historia te dice la capacidad de aguante es una cosa realmente fenomenal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este acuerdo tiene más que ver con que el fondo necesita un papelito para que no se le estropee su balance, si su principal deudor no le paga, entonces tiene que hacer una ficción, el acuerdo es una ficción, lo sabe todo el mundo, no tiene nada que ver con la política económica.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5244
+}

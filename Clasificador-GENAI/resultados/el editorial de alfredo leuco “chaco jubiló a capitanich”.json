@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.739,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Primero, porque ganó en primera vuelta en un feudo que Jorge Milton Capitanich había convertido en algo casi impenetrable.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo, porque quebró 16 años de hegemonía de un peronismo fanático y verticalista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y tercero, porque le dio, como recién escuchamos, un gran empujón a Patricia Bullrich para llegar al balotaje.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Gracias, Patricia, por acompañarnos con tu sueño presidencial.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los grandes perdedores, además de Jorge Milton Capitanich, fueron el candidato Sergio Massa y la líder espiritual de ellos, Cristina Fernández de Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue uno de los que lideró el ataque a la Corte Suprema y todas las operaciones para buscar la impunidad de la vicepresidenta condenada por corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue una resistencia pacífica en Resistencia, la capital del Chaco.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Confía en que los triunfos, los posibles triunfos en Mendoza el próximo domingo, en Entre Ríos, en la ciudad y la provincia de Buenos Aires, terminen para siempre con el kirchnerismo y le den solidez a un probable gobierno de Juntos por el Cambio.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Darle más igualdad de oportunidades a los chaqueños que más sufren, más educación y menos adoctrinamiento, más transparencia y honestidad en lugar de corrupción y clientelismo, más inversiones para multiplicar el trabajo privado y menos dependencia del Estado y una justicia independiente que no tenga la camiseta partidaria.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2397
+}

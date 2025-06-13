@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Porque antes de ayer hablaron el presidente Javier Milei y la ex presidenta Cristina Fernández de Kirchner, ambos, las principales figuras de la política argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el caso de Javier Milei, rodeado del llamado círculo rojo de aplaudidores, hizo un recorrido de su gestión con un autoelogio sin ningún tapujo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un caso, y para los argentinos, se vive en el caso de Milei; en el caso de Cristina Kirchner, su palabra es \"el pueblo\", \"la mayoría popular\", \"los que la siguen\", salvo que los medios hegemónicos (en el caso de Cristina) o los periodistas \"ensobrados\" (en el caso de Milei) los engañan con sus mentiras.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Todo el mundo ve el milagro menos los argentinos. Todo este proceso de estabilización lo estamos haciendo con recomposición de precios relativos\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchos economistas plantean que se habían equivocado y a no pronosticarlo.  Es cierto que la mayoría de los economistas, y el Rey (sic) más y lo marcaba, pronosticaban una inflación para este año que no llegaba al 3%, o al 4% en esos meses, sino estaba en el 6% estos meses. Sin embargo, lo que no se puede negar y que se toma triunfalista no guarda relación con la realidad es que, al mismo tiempo, la pobreza aumentó al 51% de los argentinos y la indigencia casi al 16% de los argentinos, es decir, 25 millones y medio de personas son pobres y 7 millones y medio aumentaron los pobres desde que asumió Javier Milei la presidencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"En este momento las feministas no creían que me agredían por ser mujer, vía crucis, acá crucificada, crucificada, salvo que quieran decir, bueno, la quisimos comparar con Cristo, no me suena, no me suena. Si quieren tomar esa argumentación, por favor, olvidenla\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sucede algo con la voz de los dos.  No solo el hecho del tono y la repetición, y probablemente la alta cantidad de veces que se le ha escuchado y que se ha escuchado ahora al presidente, produce rechazo, más allá de lo que digas esas similitudes de estilo podríamos así decirlo de la búsqueda de un enemigo permanente que tienen tanto el actual presidente Milei como la expresidenta Cristina Kirchner, fue advertido por quien fue una de las fundadoras de La Libertad Avanza, Carolina Piparo, la candidata a gobernadora de la provincia de Buenos Aires en este año pasado en la fórmula de La Libertad Avanza y una de los fundadores, como decíamos, del espacio de Javier Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6243
+}

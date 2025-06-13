@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.81,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Pueden callarse la boca, pero todo está ahí, gritando todo después de que abran la boca.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto lo van a conducir a, como, Europa más rápido que el \"izquierdo\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando termine el gobierno, van a tener que dar explicaciones: ¿para qué mierda compró un avión un tipo que no sabe nada, no cierto?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy, gran conventillo en el canal de al lado, se cagaron a puteadas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El apocalipsis del kirchnerismo ya llegó.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo le conté, Cristina quiere un gran quilombo nacional, y si es posible, con disparos y muertos para decir que a ella la metieron en cana en un golpe de estado, y que ella es la líder del kirchnerismo, del populismo argentino, y que entonces, en este gran quilombo me están armando los impresionables con el boludo del día Navarro.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Realmente, están payasas, Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A mí cada día me da más terror pensar que estamos en manos de Cristina y Alberto.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son tan ridículos que no sé si dan risa o miedo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy la grieta no es kirchnerismo, radicalismo, cambiemos. Hoy la grieta es un pueblo de pie para sacar un puñado de corruptos y sin vergüenza que robaron la Argentina y que no quieren ni encarar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2775
+}

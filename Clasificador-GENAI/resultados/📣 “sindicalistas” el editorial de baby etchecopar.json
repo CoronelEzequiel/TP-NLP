@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.542,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay sindicatos reaccionarios que buscan generar caos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que la mejor forma de apoyar al Presidente, al Gobierno, a la democracia, es desenmascarar a estos sinvergüenzas que se aprovechan de la gente trabajadora, que no cuidan el empleo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me solidarizo con los que reclaman, con los compañeros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy indignado, honestamente, porque estamos trabajando.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A los compañeros no se los abandona.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se escuchan voces de un lado y del otro, pero nunca se escucha a los que trabajamos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1571
+}

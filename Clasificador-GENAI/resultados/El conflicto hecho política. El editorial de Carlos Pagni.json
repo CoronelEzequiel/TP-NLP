@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "si tenés mucha pobreza durante mucho tiempo, fíjate bien porque sos muy bueno generando pobreza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que vemos en Rosario, como una especie de reducción a escala, de concentración de mayor densidad de un problema mucho más difuso, es la aparición del narcotráfico de manera sistemática, que se ha transformado, frente al avance de determinadas fuerzas públicas o al retroceso, a veces, del Estado, en cualquiera de los dos casos se transforma en terrorismo",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando uno retira el zoom de este caso muy particular de esta, sabemos, le hacía anécdota en el vídeo del jueves pasado, el jueves y el viernes pasado que ocurre en Rosario, empieza a haber un fenómeno mucho más, sabemosle así, sistémico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei es un hombre al que le gusta el conflicto. Es muy difícil pensar que Milei hubiera llegado a la presidencia si no era a través del conflicto, o expresa o encarna un conflicto entre la sociedad y la dirigencia, lo que él llama casta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los grupos políticos en general se parecen a sus líderes, los líderes de La Libertad Avanza y se temperan en los grupos la personalidad de sus jefes, y es obvio, es lógico, es previsible que La Libertad Avanza tenga un temperamento conflictivo",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el gobierno de Corrientes llama la atención esta conducta, no quieren pensar en una extorsión, pero llama la atención ¿por qué? Y porque en la campaña del año pasado, Burlando está muy cerca de Grindetti, de Néstor Grindetti, que era el candidato a gobernador de Patricia Bullrich en la provincia de Buenos Aires.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es mentira que la fragmentación del campo no peronista, Juntos por el Cambio, La Libertad Avanza, el año pasado, que es la que le permite a Milei llegar al poder, se debe a Massa, pero sin duda, Massa hizo mucho para eso, incluso le puso plata.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Resulta increíble que alguien tan inteligente como Milei, para explicar, por ejemplo, cuestiones muy sofisticadas, muy intrincadas del sistema monetario, de la economía, tenga una explicación o una respuesta tan poco solvente para un tema tan grave, porque es mentira que hay presión mediática sobre la designación de Lijo, en todo caso, lo que hay es una noticia muy importante, que es que en la historia de la justicia argentina nunca un juez propuesto para la Corte fue tan controvertido",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8773
+}

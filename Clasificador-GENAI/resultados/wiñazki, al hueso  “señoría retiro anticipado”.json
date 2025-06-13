@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estas modificaciones, aparentemente destinadas a presionar a la justicia que investigaba a funcionarios kirchneristas, redujeron las cifras de las jubilaciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Asociación de Magistrados y la Asociación de Fiscales interpretan estas intimaciones como una presión del gobierno para aumentar las renuncias de jueces y fiscales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Elisa Carrillo, a través de las redes sociales, ha pedido a los jueces y fiscales que permanezcan en sus cargos, denunciando una embestida política para controlar el Poder Judicial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Considero que quienes se jubilan anticipadamente bajo esta presión, en su mayoría, son personas honestas que no se han enriquecido ilícitamente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A diferencia de aquellos que poseen activos obtenidos ilegalmente, a quienes la jubilación no les representa una preocupación significativa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, cabe destacar que el ANSES aún adeuda a numerosos jueces y fiscales jubilados los pagos correspondientes a enero y febrero.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1252
+}

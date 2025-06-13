@@ -1,0 +1,41 @@
+{
+  "texto_id": "campora_volver_al_futuro",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy podría ser el paralelo entre Cristina Fernández de Kirchner y Alberto Fernández.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Gobernar es enfrentar el poder económico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros, desde una visión más jauretchana, nunca vivimos la política con la división ideológica europea de izquierda y derecha.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si alguien quiere saber cómo se ganan las elecciones de 2023, es haciendo lo mismo que en 2019.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Consciente de la dificultad del proceso, cada medida transformadora que adoptemos habrá de levantar la resistencia de los intereses que desde afuera y desde adentro se oponen a la política de cambio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Prometemos al país un camino en el cual la voluntad de todos los argentinos, vengan de donde vinieran, piensen lo que pensaran, tengan el pasado que tuvieren, se tenten en la batalla por un futuro de independencia económica y de justicia social.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3391
+}

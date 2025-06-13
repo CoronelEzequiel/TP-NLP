@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.656,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dije que si el kirchnerismo ganaba por más de 20 puntos, iban a entrar a los canales con garrotes y nos iban a sacar a todos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerdo cuando Dady Brieva dijo que si ganaban por mucho, nos orinarían desde un edificio.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo también me sentí muy ofendido.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández lo veo por un lado, todavía puso la pelota, pero dio más de 12 pasos para el penal, y se fue al arco contrario, porque no hace nada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, explicame, Alberto, cuando vengas a Argentina, así como esta señora actriz tiene que explicarme esto de que nos orinaban desde los edificios, vos me tenés que explicar todo esto que se está diciendo, lo que dicen los sindicalistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me gustaría, Alberto, que nos expliques varias cosas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué están saliendo los chorros de la cárcel?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estoy convencido de que si ganaban por 20 puntos entraban a pegarles patadas en el culo dentro de los canales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2570
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.664,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando la cuarentena era absolutamente estricta y el presidente de la República, desde el Ministerio de Salud de la provincia de Buenos Aires, y todas las autoridades del poder nos decían y obligaban, obviamente, a toda la sociedad a estar en su casa, a no poder reunirse, evitando también, con penas y amenazas algunas cumplidas, imputaciones en la justicia si se organizaban reuniones sociales, fiestas, obviamente clandestinas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, esto generó el escándalo que ya conocemos, y ahora empieza a transcurrir una causa penal en contra del presidente de la República; de la exmodelo Sofía Pacchi, que es asesora de la primera dama, Fabiola Yáñez; e incluso, también, ahora a Florencia Peña.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo hicieron dirigentes del partido de Ricardo López Murphy, para determinar que efectivamente hay indicios o pruebas que tienen, digamos, la firmeza como para investigar si, y esto está aclarado en el dictamen del fiscal, se incumplió.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En paralelo a todo esto, el gobierno intentó, y tal vez con cierto éxito, girar el foco de la polémica central, que es ¿qué pasó en la Quinta de Olivos durante la cuarentena?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando lo muestran los hechos, no estaban mencionando a ella.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Obviamente, hay una estrategia gubernamental para tratar de girar el foco de la atención y que no se centre en lo principal, que es qué pasó en la Quinta de Olivos durante la cuarentena.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No es demasiado, digo? ¿Y por qué el apoyo total del Estado a Florencia Peña y no hacia otras personas que fueron criticadas en su momento por entrar a la Quinta de Olivos?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2284
+}

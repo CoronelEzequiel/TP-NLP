@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuando uno mira hacia atrás, desde la discusión de Cristina Fernández de Kirchner con Alberto Fernández alrededor del acuerdo con el Fondo, empieza a ver con mayor claridad, como suele suceder, una cantidad de hitos, de episodios que sugerían este desenlace y que ahora aparecen a la luz de lo que está pasando como mucho más claros.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son dos visiones sobre lo que hay que hacer con la economía, dos visiones ideológicamente contrapuestas, es decir, estamos ante un choque de creencias.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, en plena negociación con el Fondo Monetario Internacional en Managua, donde hablaba, sin nombrarlo, de organismos internacionales que le imponen planes a los países, que debilitan de tal manera la consistencia, la densidad del Estado, que favorecen la instalación de mafias e inclusión del narcotráfico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández cree que Cristina Fernández de Kirchner está equivocada, cree que Máximo Kirchner está equivocado, que con este nivel de reservas que tiene la Argentina, reservas que se deterioraron, entre otras cosas, por su propia política económica, no hay otra posibilidad que entrar en un acuerdo con el fondo y normalizar la economía, encarando el problema fiscal, encarando el problema de la emisión monetaria y todas las distorsiones entre las cuales está el problema de regalarle la energía a un sector importante de la población, sobre todo metropolitana.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un fenómeno, un dato matemático que impactó mucho en La Cámpora. Es un sistema electoral con balotaje donde puede ser estratégico tener un punto más o un punto menos. Esos votos del trotskismo son votos que La Cámpora quiere recuperar o por lo menos no seguir perdiendo porque los considera votos propios.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8973
+}

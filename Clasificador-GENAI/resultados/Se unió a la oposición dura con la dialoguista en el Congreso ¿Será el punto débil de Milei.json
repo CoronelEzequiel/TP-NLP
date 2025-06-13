@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Mi Ley\" está amenazando con vetar la ley de cambio de fórmula jubilatoria impulsada por la oposición y que ya tiene media sanción en Diputados.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo ayer 'degenerados fiscales', y volvió a decir 'ratas', llamó el presidente a los diputados, que reunieron dos tercios de los votos presentes en el Congreso para votar una nueva fórmula jubilatoria que ayuda a recuperar en parte los haberes de los jubilados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derrota del oficialismo en el Congreso tuvo una particularidad: unió a diputados de Unión por la Patria con la Unión Cívica Radical, formaron coaliciones federales, unió a la oposición dura con la oposición dialoguista, un escenario inédito que requiere más de la política que de los enojos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Les voy a vetar todo, me importa tres carajos. ¿Han visto lo que son los degenerados fiscales en acción anoche?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdadera apuesta de nuestros predecesores era que nosotros entráramos, abriéramos todo alegremente desde el momento cero. Y digamos, es verdad, digamos, entendieron que somos libertarios.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta administración lamenta que diputados bienintencionados participaran de la trampa legislativa de Máximo Kirchner y reitera su decisión inquebrantable de mantener el equilibrio fiscal utilizando todas las herramientas que proporciona la Constitución Nacional, incluyendo el veto, de ser necesario.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5328
+}

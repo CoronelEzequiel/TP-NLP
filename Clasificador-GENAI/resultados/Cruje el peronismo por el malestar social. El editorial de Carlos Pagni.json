@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuando miramos la escena pública, cuando miramos el oficialismo, vemos un oficialismo que va perdiendo popularidad, porque está presidiendo, liderando, una escena caracterizada sobre todo por el malestar social.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los problemas de Argentina son muy grandes para una mesa tan chica. Creo que tenemos que ampliar y que te caiga mucha más discusión y bueno, obviamente, cada vez que la discusión toma un cariz complejo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta es otra Argentina, es otro país. No es un país con más pobres, no es un país con más informalidades, es otro país porque este cuadro socio-laboral implica otra política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno podría abrazarse a esas banderas y decir: “Estamos realizando un sacrificio, los convocamos a un sacrificio para normalizar la economía”. No lo hacen por miedo a Cristina Kirchner y por miedo a Máximo Kirchner. Entonces, los pobres están enojados y los representantes de la inversión también.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pareciera que empiezan a haber radicales que se sienten descontentos, se quieren distanciar de esa posición. Y eso los lleva a algo impensable hace seis meses: acercarse, nada menos, que al kirchnerismo o al fernandismo, en cualquiera de sus dos versiones, por ahora en la Capital Federal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7281
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Uno puede leer esto desde múltiples perspectivas. Una es la que hace el propio oficialismo, el presidente Alberto Fernández, quien considera que esto es una señal inequívoca de que la tendencia política es hacia el centro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y ¿saben qué? Voy a hacer lo mismo que hice el 10 de diciembre de 2015. Me acuerdo cuando Daniel Scioli me vino a proponer que fuera candidata a Diputada Nacional para darle fuerza a la lista para acompañar. No, no, no. No voy a someter a la fuerza política que me dio el honor de ser dos veces presidenta y una vicepresidenta a que la maltraten en período electoral con una candidata con inhabilitación perpetua, con administración fraudulenta por el Estado, a mi administración fraudulenta por el Estado, y a estos, los amarillos, que nos dejaron 45.000 millones de dólares con el Fondo Monetario Internacional, se pasean orondos en los aviones de Clarín.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juntos por el Cambio ha logrado superar esa falsa ilusión del individuo salvador. Lo hemos hecho siempre manteniendo la unidad, a pesar de los momentos complejos que hemos transitado. Lo estamos demostrando con la gran cantidad de dirigentes nuevos, competitivos y diferentes que tenemos hoy.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Confío en que van a elegir a quien mejor nos represente y que esa persona va a contar con el apoyo de todos. Nunca más vamos a tener una marioneta como presidente. Nunca más vamos a tener una marioneta como presidente y nunca vamos a tener un líder salvador\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros tenemos que tener el coraje de enfrentar todo tipo de esquema corporativo mafioso que traba la Argentina. Por ejemplo, Moyano, por ejemplo... Moyano es un exponente perfecto de lo que queremos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero comunicar al pueblo argentino mi decisión irrevocable y distintiva de remitir al honor con que los trabajadores del pueblo de la patria hicieron honrarme, el histórico caído advierte al vencedor de Aguas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5250
+}

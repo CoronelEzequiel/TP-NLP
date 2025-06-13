@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Un buen árbitro debe mantener la concentración, no dejarse influenciar por el entorno. Debe definir con objetividad.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No, ser árbitro no es fácil. En miles de situaciones, los árbitros actúan por reflejo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Al analizar la jugada cuadro por cuadro, me doy cuenta de que el contacto es casi simultáneo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la vivacidad del partido, un mínimo contacto puede llevar a un árbitro, que 'saca una foto' en milésimas de segundo, a equivocarse.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si consideramos la opinión general, el 50% dirá que no fue penal y el otro 50% que sí. Ante la duda, no se debe sancionar un penal, porque no hay un 100% de comprensión para considerarlo una infracción.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El relato de Miguel fue muy bueno, coincido en un 80%. Es un gran educador.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la cancha, era penal; con el VAR, también.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El contexto del partido de River no fue bueno. En la cancha, en el momento, la decisión es clara. No hay mucho contexto que buscar cuando la falta es evidente.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algunas decisiones fueron erróneas, en especial una falta cercana al área que pudo ser roja, pero la vi luego en la repetición.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ante la duda, no se debe decidir un penal. La falta fue clara. Fue penal porque Solari llegó primero.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2324
+}

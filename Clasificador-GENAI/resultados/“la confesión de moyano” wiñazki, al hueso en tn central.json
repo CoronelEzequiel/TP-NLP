@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hay cada vez más bloqueos discrecionales, muchas veces violentos, realizados por los camioneros de Moyano en diversas empresas de toda Argentina, en diferentes provincias y ciudades, y con diferente intensidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Moyano le recuerda al gobierno kirchnerista todo lo que hizo Camioneros a favor de los gobiernos de los Kirchner, lo cual es una confesión sobre el uso del gremio de camioneros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gremio no debería frenar el avance de una movilización, aunque se trate de patronales rurales.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es inusual que una Presidenta haya pedido ayuda para beneficiar a un frigorífico privado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1625
+}

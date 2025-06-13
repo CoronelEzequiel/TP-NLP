@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_a_carlos_zequeira",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La historia de Malvinas para mí es profundamente significativa. En mi generación, en las escuelas, desde los primeros grados, nos enseñaban que Malvinas era argentina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Crecí sabiendo que Malvinas era Argentina. Y así lo siento. Creo que toda mi generación lo sintió así.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos preparamos, el equipo, el material, el armamento… dos días después zarpamos hacia Puerto Argentino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que fue la única operación comando incruenta por parte de los atacantes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como infantes de marina, no teníamos esas especialidades.  Pero, durante la travesía, el jefe cambió la misión de Sein el Din (capturar al gobernador) por tomar el aeropuerto, al descubrir que su grupo estaba formado principalmente por conscriptos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2776
+}

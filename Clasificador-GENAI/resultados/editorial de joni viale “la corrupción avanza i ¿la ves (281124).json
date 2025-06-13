@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La corrupción avanza, festejan los corruptos, festejan los terroristas, los terroristas también.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es más, hay casos muy raros, muy raros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desde este espacio lo que buscamos es resguardar la institucionalidad, cuidar las instituciones, devolverle al argentino la confianza, porque hoy quedó muy en claro quiénes están a favor de una Argentina transparente y quiénes están a favor de una Argentina corrupta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy les regalaron el pasaje para la próxima elección a la condenada y ladrona Cristina Fernández de Kirchner.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei, hoy tiene 57% de imagen positiva después de hacer el ajuste, como dice él, más peros de la historia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alguna vez hay que construir un país donde el chorro, el delincuente no pueda ser candidato a nada, vaya preso y devuelva la guita, son tres cosas: El chorro no puede ser candidato, pero no porque está proscripto, es porque no se puede, si sos chorro, no podés ser candidato.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3622
+}

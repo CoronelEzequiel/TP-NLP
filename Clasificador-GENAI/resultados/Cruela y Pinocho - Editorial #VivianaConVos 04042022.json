@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.79,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ellos eran Cruella y Pinocho. Se trata de una historia de desamor, una historia de venganza. A Cruella la perseguía la justicia, había afanado un montón con total impunidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo que dijo el actor de reparto, el diputado kirchnerista Aldo Leiva: 'Para mí, es mi presidenta', y Cruella… Cruella lo amó y Pinocho lo odió.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cruella tiene sus dálmatas, unos animales poco inteligentes, pero que van detrás de ella, así como los de 'la Cámpora'.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo peor del kirchnerismo no fue lo que se afanaron, lo peor es que desaprovecharon la mayor bonanza económica del país.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acordate que Francisco es muy amigo de Cruella y muy amigo de Pinocho.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7810
+}

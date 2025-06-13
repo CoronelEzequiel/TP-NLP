@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y no se olviden que tienen el \"alcahuete\" de hoy y, entre todos los \"alcahuetes\", vamos a elegir el \"alcahuete\" de Cristina, el \"alcahuete\" del mes, para ir identificando a la gente de mierda, a los \"mamadores\" que, atrás de Cristina, fueron \"bufoneándola\", porque tiene bufones que se ríen de sus chistes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo yo que teme ganar Parrilli.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá, por lo menos, gracias a este programa estamos consiguiendo un agujero para llegar a conseguir la democracia completa, así que quédense a empujar, porque si usted se va a ver a Tinelli con la mesa del hambre, ¿se acuerdan? Nos van a seguir cagando, así que quédese acá, no se mueva, quédese hasta el final del programa, denos rating, que nosotros le damos alegría.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi Tinelli es lo mismo de siempre. El Hotel de los Famosos era con ese Pancho… ¿Cómo se llama? ¿Toncho? No sé, no lo sé.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1396
+}

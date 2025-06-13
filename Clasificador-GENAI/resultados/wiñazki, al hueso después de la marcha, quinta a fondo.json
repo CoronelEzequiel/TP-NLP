@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El documental, realizado al día siguiente de la marcha del 18 de agosto, refleja claramente la perspectiva kirchnerista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ministro del Interior, Wado de Pedro, propuso multar a los manifestantes a través de las patentes de sus automóviles.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aníbal Fernández, interventor de Yacimientos Carboníferos Fiscales (YCF), calificó la marcha del día anterior como \"una enorme sesión psiquiátrica\", despreciando a las personas con problemas de salud mental, especialmente en el contexto de la pandemia.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mientras el campo se opone a la resolución 125, el gobierno apura la aprobación del proyecto en el Senado, negociando posibles cambios con el peronismo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La respuesta del gobierno a las demandas de los manifestantes es, en definitiva, la aceleración de la reforma judicial.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1726
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.543,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Año muy importante para la Argentina, probablemente un año bisagra para confirmar el rumbo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei es el gran protagonista, en un sentido disruptivo, en otro sentido destructivo, un gran problema para Juntos por el Cambio, que enfrenta la posibilidad de perder la provincia de Buenos Aires a partir de la emergencia de la división de los votos de la oposición en el Partido de la Libertad Avanza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Juntos por el Cambio es un rejunte de miserables arrastrados por un cargo\", 29 de enero de este año.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La provincia de Buenos Aires es la primera y, podríamos decir, la principal batalla electoral que tienen las dos coaliciones y ver quién gana en la provincia de Buenos Aires, de alguna manera marca el ciclo político de los próximos cuatro años.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei está puesto para que siga gobernando la peor casta de la República Argentina. ¿Cómo es eso? Que Milei es funcional al kirchnerismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parte del radicalismo está asustado porque sabe que el liberalismo está teniendo una posición preponderante en los sondeos de opinión y empiezan a ver cómo hacer para no terminar de desaparecer.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que ha llegado el momento en que todos nos tenemos que involucrar en la política, que la queja. Desde afuera, si yo me quejo por un acto de corrupción, solamente me quejo a esta altura de mi vida, soy más corrupto que el corrupto que pretendo mostrar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4884
+}

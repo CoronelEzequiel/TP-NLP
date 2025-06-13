@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es evidente que la polarización rinde. Hay elementos, digamos, subjetivos que tienen que ver con esta contradicción que bordea el odio y que genera discursos de odio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner se ha ratificado como la jefa del peronismo hoy, en alguna medida el peronismo necesita salir del tema corrupción, no solamente por la corrupción del gobierno kirchnerista, por la corrupción de muchos dirigentes peronistas, de muchos gobernantes de la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Indicio, pequeños datos, que seguramente no se está haciendo la AFI del kirchnerismo, que ya decretó que es un lobo solitario, sin hacerse preguntas. Probablemente porque si decimos que es un lobo solitario, le podemos imputar que es casi una víctima del clima de odio, como dijo el presidente, que genera la justicia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está llegando a Washington, va a tener reuniones, Jorge Argüello le armó una agenda muy similar a la de Batakis. Massa, en este momento, no va a necesitar a la consultora de Freddy Balcera, que es la que él contrata para mantener relaciones en Estados Unidos, sobre todo para vincularse con los demócratas, que es la gente que tiene más lejos, curiosamente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8437
+}

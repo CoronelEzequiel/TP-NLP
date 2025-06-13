@@ -1,0 +1,51 @@
+{
+  "texto_id": "3",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.831,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La única división es entre los trabajadores y la oligarquía.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta definición es un traje a medida de los mafiosos y extorsionadores vitalicios que integran la Confederación General del Trabajo, que a esta altura debería llamarse CGT, pero Confederación General de Traidores a los Trabajadores, porque hace décadas que están atornillados a sus sillones y son millonarios y defienden sus privilegios y sus negocios en lugar de favorecer el aumento del trabajo y la mejoría de los sueldos registrados en blanco.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y lanzaron un tercer paro en 16 meses para un gobierno como el de Javier Milei que sacó 14 millones de votos y que, te guste o no, bajó fuertemente la inflación y la pobreza más allá del respingo del último mes.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero al lado del desastre que dejaron los kirchneristas, esto es mucho mejor.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tres paros en 16 meses se oponen con uñas y dientes a una reforma laboral profunda que permita que más trabajadores se puedan sumar a la actividad privada y que todos puedan estar registrados en blanco con los beneficios que eso tiene.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Parte de una nueva Argentina más transparente, justa y democrática es tener un buen sindicalismo que defienda a los trabajadores con pasión pero sin irracionalidad, sin que influya la camiseta partidaria, pero que no esté todo el tiempo diciendo que no y espantando a los inversores que vienen a generar puestos de trabajo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Rodolfo Aguiar es el representante de Nicolás Maduro y la dictadura chavista en esta tierra.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Basta, basta de oligarquía sindical.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2456
+}

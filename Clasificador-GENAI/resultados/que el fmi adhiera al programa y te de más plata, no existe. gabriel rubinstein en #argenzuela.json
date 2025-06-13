@@ -1,0 +1,61 @@
+{
+  "texto_id": "entrevista_economia",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.255,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero algo pasó que el partido de gobierno, digamos, el 3 de febrero, al cambiar el control, ya apareció que iba a cambiar la política cambiaria y apareció en el marco de la negociación con el Fondo, como si el Fondo estuviera pidiendo: \"Yo te doy más dinero, pero vos hacés algo con el tema cambiario, y no lo pospongas tanto\".",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, ante esta incertidumbre generada por el gobierno en el marco de la negociación con el Fondo, bueno, el mercado empezó a tomar recaudos, los exportadores \"maliquidan\", los importadores a \"preasuran\" la cancelación de posiciones, los que tienen pesos se inquietan un poco.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, el gobierno es un gobierno que tiene un potencial autoinfligido en el marco de la situación cambiaria frágil.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, no le cree, más o menos, le cree si está bien, todo más o menos, rumbo, la justicia fiscal, ciertas cuestiones que van bien, las regulaciones, todo muy lindo, pero si me vas a tocar un nervio sensible, como es el tema cambiario, bueno, ahí me pongo un poco nervioso.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente cometió un juicio \"non sancto\" muy grande cuando dice, \"No, el tema cambiario es irrelevante\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, hay inquietud porque el discurso oficial y aparte de las idas y contramarchas que vienen veinte mil, que vienen ya, no, bueno, el Fondo dice, bueno, sí, estamos hablando y vendrían parcialmente, entonces hay como desajustes, algunos serán internos del gobierno, otros serán un interés, pero hay un entendimiento con el Fondo y se dilata porque nuevamente, cuando vos haces alguna modificación en algo tan sensible, hacelo rápido y bien y no dejes veinte días dejando las cosas flotando.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gabriel, lo último, lo imagino en términos de boxeo, uno siempre se llega con los golpes que van a la cabeza, los que llaman la atención y el del hígado siempre es el letal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El caso \"Leliq\" fue ese golpe al hígado a este gobierno, a partir de ahí empezaron todas estas desgracias, quedó al descubierto, quedó desnudo el rey.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue el error más grande de este gobierno, fue autoinfligido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que ponerlo, ese hay que ponerlo como el día histórico, 14 de febrero.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3842
+}

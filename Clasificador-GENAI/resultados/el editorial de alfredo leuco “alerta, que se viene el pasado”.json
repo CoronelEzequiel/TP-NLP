@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.811,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "No puedo creer que el fundamentalismo nacional populista de caudillos como Ricardo Quintela o Gildo Insfrán todavía tengan el suficiente respaldo popular como para ganar elecciones, pero es la realidad.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Además de la pobreza brutal que multiplicó este gobierno, de la indigencia en un país repleto de alimentos, el populismo chavista apuesta a generar más división, más grieta, potenciando las existentes y resucitando viejos rencores entre los argentinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Salvajes, patoteros y extorsionadores como Pablo Moyano sostienen, muy sueltos de cuerpo, que sus compañeros peronistas de la CGT tienen un acuerdo con la oposición para meterlo preso si llegan al gobierno, la RETA o Bullrich.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dos sindicatos docentes de izquierda o kirchneristas hacen paro en respaldo de tres maestras que fueron acusadas de abuso sexual por 10 familias distintas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El clientelismo, que solo sirve para mantener a los pobres como rehenes, tiene cifras que asustan a cualquier persona razonable, menos a Máximo Kirchner y Emilio Pérsico, que lucran con eso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Inflación, recesión, falta de inversión, justicia atacada por todos lados, la cleptocracia de los Kirchner todavía no tiene el suficiente rechazo de los ciudadanos, pese a que se trata del robo más grande de la historia democrática.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina fue condenada, pero faltan dos instancias más para que quede firme.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando veo que Roger Waters agota las localidades para sus recitales, me inquieta que nadie se preocupe por su prédica antisemita y su apoyo a Rusia en la invasión a Ucrania.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ni Quintela, que quería prohibir los canales de televisión independientes en La Rioja, ni Insfrán, que es cómplice de Cristina y Alberto, ni Pablo Moyano, ni el Indio Solari, ni Roger Waters despiertan esperanzas de que la Argentina tenga un futuro mejor, con más libertad y con menos pobreza, con más educación y con menos corrupción.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2370
+}

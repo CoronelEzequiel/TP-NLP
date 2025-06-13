@@ -1,0 +1,61 @@
+{
+  "texto_id": "nombre_del_texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Palabras sin contenido, palabras sin profundidad, palabras sin mensaje, palabras que son mentiras, palabras, solo palabras las que escuchamos del presidente Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gira de Batakis por Estados Unidos fue un desastre",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que seguir laburando como bestias todos los argentinos para seguir manteniendo a toda esta vagancia, estoy harta, harta",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya nadie cree en su palabra. Hoy el gobierno está contento porque el dólar estaba a 3.23, estaban contentos; cuando bajó un poquito, después subió un peso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Venezuela están comiendo mierda y en Argentina y me dijo: \"Tienen ganas de probarla\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el país se está prendiendo fuego y el presidente \"parole, parole, parole\", sigue hablando y no diciendo nada",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que menos tienen, Fernández, ya no tienen nada",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández ya se convirtió en un presidente absolutamente decorativo. Habla, pero no dice absolutamente nada",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice que algunos siguen especulando con una devaluación para vender lo que tienen que vender. ¿Es verdad?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos malhumorados los argentinos, estamos enojados, estamos en bronca y usted nos sigue gritando y se sigue enfrentando a la gente del campo. Increíble.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8917
+}

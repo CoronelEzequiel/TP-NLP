@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.86,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Trataron con honores de prócer a un dictador sanguinario como Nicolás Maduro.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Radicalizó su discurso, se puso al lado de un criminal de lesa humanidad como es Vladimir Putin y le dio la espalda al pueblo de Ucrania.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería útil que Lula explicara cómo es posible que Venezuela tenga más de 7 millones de refugiados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se escapan de una dictadura que los asfixia con falta de libertad, con asesinatos a mansalva, con presos políticos, torturas y con el hambre al pueblo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Ese es el tipo de régimen que fomenta el UNASUR que Lula y Alberto quieren resucitar?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, Sergio Massa y Cristina Fernández de Kirchner, la jefa, profanan las banderas que Argentina levantó en el mundo desde la recuperación democrática en 1983.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las relaciones carnales que han tenido los Kirchner con el chavismo produjeron negocios sucios, valijas con dólares corruptos y todo tipo de operaciones ilegales.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy Venezuela es el centro de operaciones y ejercicios militares de Irán y Rusia en América Latina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pagarán sus costos políticos por ser tan genuflexos ante el chavismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos la dignidad que ustedes no tienen.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2452
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.386,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay mucho para hablar: la situación política, el tema de Cristina Fernández de Kirchner, las internas del peronismo, la eliminación de Macherani…",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer estuve con varios empresarios; hay preocupación por…  el miedo a que gane Milei, o que directamente, como hablábamos con Victoria Tolosa Paz, Milei aparezca como el candidato más votado.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa no tiene margen de distracción para una campaña. Los números lo muestran como candidato.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que no entiendo es la gente que lo está mirando. La combinación azul y oro… ¿qué es ese problema?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Cristina dijo algo acertado… no sé si lo dijo al aire o en un off que trascendió… la moneda está en el aire.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ajuste va a ser feroz. Lo que ella dijo… que los partidos políticos y los sindicatos deben salir a colonizar…  que deben conquistar esos espacios que no conquistaron.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojo que no pierda el que queremos que gane, ni que gane el que queremos que pierda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3149
+}

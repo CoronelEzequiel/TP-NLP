@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Argentina es una reserva estratégica para la producción de alimentos a nivel mundial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos tres corredores estratégicos: Océanico, Centro y Patagónico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina debe recuperar su capacidad para romper estas estructuras monopólicas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que reclamamos los gobernadores es una compensación equitativa con respecto a los subsidios del transporte público de pasajeros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina tiene una oportunidad extraordinaria por varias razones.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos generar inversiones, empleo, base exportadora y equilibrio macroeconómico sustentable.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina debe superar restricciones históricas: equilibrio macroeconómico, un plan energético que baje el precio de la energía y logística integrada.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos planteado a los gobernadores que no es posible una intromisión indebida por parte de la Corte Suprema, pretendiendo favorecer a una jurisdicción sobre otra, como es el caso de la Ciudad Autónoma de Buenos Aires, que pretende utilizar esos recursos para bajar impuestos cuando ellos son los que incrementan los tributos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3449
+}

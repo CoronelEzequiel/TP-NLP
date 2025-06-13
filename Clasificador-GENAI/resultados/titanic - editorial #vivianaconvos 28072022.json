@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando miro la Casa de Gobierno, solo puedo ver el Titanic. Señores, señoras, damas y caballeros, se nos hundió el Titanic.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno es un quilombo, este gobierno es una tragedia. Estamos en el Titanic.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A los argentinos nos gobierna la corrupción. Para ellos, todo es un negocio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Alberto Fernández, el gobierno de la Corte Suprema de Justicia, el gobierno no lo va a dejar.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno sigue gobernando para el 0,12% de la población, porque estas son las prioridades del gobierno de Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Argentina hay marchas y piquetes por cualquier cosa. Esto que vas a ver ahora es tan indignante, porque lo escuché ayer, y por eso decidí ponerlo hoy. Este piquete que le complica la vida a toda la ciudadanía es de unos piqueteros que cobran para jodernos la vida, porque esto es pura política.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8785
+}

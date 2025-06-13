@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_c5n",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos que salir a militar puerta a puerta, incluso a casa de tu tía Nelly. Esta semana la visitamos sí o sí para convencerla de por qué tiene que votar al mejor candidato que tiene hoy la Argentina: Sergio Massa, el candidato que representa la unidad del peronismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que están del otro lado, incluso los jóvenes (yo ya no soy tan joven), recuerdan el 2001, cuando a mi madre le quedaron los ahorros congelados y tuvo que ir a golpear la puerta del Banco de Santa Fe porque se habían quedado con todo su dinero. Y ahí estaba Patricia Bullrich, entonces Ministra de Trabajo, que le recortó el 13% a los estatales y jubilados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso político electoral de quienes nos enfrentan ya no plantea \"globos de colores\" ni \"revolución de la alegría\". Dicen con toda claridad que van a recortar el gasto en jubilados, recortando el programa de medicamentos. Dicen con toda claridad que van a recortar el gasto universitario, suspendiendo la construcción de nuevas universidades y recortando el programa de becas Progresar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad que hay dos modelos, dos caminos. Está el camino de la represión, porque claramente somos, para ellos, un Excel al que hay que pagarle al FMI. Y nosotros decimos: \"Los muertos no pagan, necesitamos crecer\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2591
+}

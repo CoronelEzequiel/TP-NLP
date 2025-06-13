@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hubo dinero para la matanza, pero parece que se lo robaron.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy lo escuché con Romina Manguel y Baby Etchecopar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dijo que estaba a favor de la pena de muerte.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo, personalmente, no estoy a favor de la pena de muerte.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy en día, debemos priorizar la educación, luego, cárceles que rehabiliten y, tercero, penas proporcionales a la gravedad del delito.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En lugar de pagar por los servicios higiénicos de los presos, hay que mandarlos a trabajar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner no es valiente, ni líder, es miedosa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Gracias a Dios se terminó el miedo argentino, primero porque se terminó el \"Cristina forever\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si sumas lo de La Matanza, lo de los mapuches, el dinero robado para la seguridad y el miedo que infunde Cristina, hay que tenerle miedo a Dios y un poquito a mí.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina, debería tenerle miedo a la justicia, y al pueblo, que tarde o temprano se lo va a cobrar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como son tan pelotudos, antisemitas y sicarios, ya no nos asustan más.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2570
+}

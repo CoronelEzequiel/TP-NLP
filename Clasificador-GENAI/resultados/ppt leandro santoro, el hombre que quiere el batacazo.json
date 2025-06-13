@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros empezamos a plantear la necesidad de derogar el Código Urbanístico porque Buenos Aires se descontroló con la especulación inmobiliaria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los convenios urbanísticos son las excepciones que permiten construir 30 pisos donde la ley te permite construir 7. Y te imaginas la fortuna que se gana.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué pasa con esa barriada, con esa barriada de Soldati, con un montón de barriadas que son muchachos trabajadores que ponen una mesa, que la mesa se hace así, le ponen un taquito para que no se mueva? Digo, eso no es un comportamiento de derecha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después buscar una alianza con sectores que no votan históricamente al peronismo, que son los sectores que vamos a tener que ir a buscar sobre el cordón de Rivadavia. ¿Ejemplos? Caballito, Flores…",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3223
+}

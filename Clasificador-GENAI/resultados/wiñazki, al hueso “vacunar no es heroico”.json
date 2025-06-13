@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estamos venciendo a un complot antivacunas, a la gente que sembró dudas respecto a la vacunación y por eso se nos hace más difícil instalar una vacunación más efectiva en la provincia de Buenos Aires y a nivel nacional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Es esto así? ¿Realmente hubo un complot importante de políticos que de alguna manera hicieron cambiar la dirección del gobierno a nivel nacional y provincial, generando resistencia a la vacuna?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O en realidad lo que se está preparando es un escenario que tiene que ver con el retraso de la llegada de las vacunas a la Argentina y con los problemas para implementar un plan de vacunación efectivo?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esa preinscripción después se tiene que filtrar para ver quiénes son realmente los que se tienen que vacunar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Parece insólito, pero es efectivamente así.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quiero decir que mintieron adrede, pero a este relato de \"vamos a vencer al complot de los antivacunas y vamos a poder lograr vacunar y tenemos tantos inscriptos\" se mete la política y se anuncian y se promete que se va a vacunar a los ancianos bonaerenses y no pasa, obviamente genera mucha incertidumbre y no estoy formando parte de un supuesto complot antivacunas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estoy solamente repitiendo lo que dicen muchísimas fuentes preocupadas y me enfoco en la provincia de Buenos Aires porque es la provincia con más pobladores del país y además fue Kicillof quien gestionó la Sputnik V y, tal vez por eso, dicen algunos, se quiere poner al frente de la vacunación y tal vez, espero que no, generar una ganancia política respecto a esto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es bastante inexplicable que en la provincia más grande y poblada de la Argentina se quiera vacunar en escuelas cuando empiezan las clases y se estén dejando de lado los vacunatorios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2421
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Simultáneamente, hay millones de argentinos que solamente reciben cachetadas por parte del gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una verdadera hecatombe económica.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cada día hay más robos, violaciones, asesinatos y delitos de todo tipo y la justicia y la policía están desbordadas para contener el crimen organizado y, en muchos casos, se transforman en cómplices o socios de los bandidos, ya sea por la inmoralidad económica de recibir coimas o por la ceguera del fanatismo oficialista, que siempre privilegia a los victimarios y castiga a las víctimas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero la lista de obscenidades contra la ética no tiene fin.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada día la justicia se transforma más rápido en un coto de caza de Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La codicia y la bulimia de poder y de dinero de los Alperovich es igual a la de los Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los bolsos llenos de dólares, de la cleptocracia, el arma, el falso convento, las falsas monjas y la confesión de López que dijo que un secretario de Cristina le pidió ese dinero robado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2151
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Malvinas es un tema que une a los argentinos de manera contundente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siempre tengo una sensación ambivalente: el orgullo de haber defendido la patria a los 19 años, pero también el dolor de que una dictadura genocida, sin razón, utilizara un tema tan sensible para perpetuarse en el poder y nos llevara a una guerra que era imposible ganar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La sociedad en su conjunto nos abrazó.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Algunos gobiernos nos ignoraron, empezando por la dictadura que, después de Malvinas, durante más de un año, nos ocultó y trató de silenciarnos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estuve a punto de suicidarme por la desazón, la depresión, el frío, el hambre, el dolor, la muerte…",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, me dediqué a la política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un homenaje a nuestros camaradas caídos y sus familias, los verdaderos héroes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2271
+}

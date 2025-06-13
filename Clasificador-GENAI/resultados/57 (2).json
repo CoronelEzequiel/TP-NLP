@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.128,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Mientras Silvina Luna luchaba por su vida, Aníbal Lotocki seguía operando, incluso en vivo en programas como \"Telenoche\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lotocki está donde está por sus acciones, y aunque incluso en algún momento dejé de seguir el tema, hay novedades.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que no es tan buena noticia es que Aníbal Lotocki sigue atendiendo pacientes y recibiendo llamadas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No entiendo cómo puede seguir haciéndolo, no entiendo a la justicia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Silvina Luna está luchando por su vida, Gabriela Trenci tiene su vida destruida para siempre… ¡murió gente! Y él sigue operando.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lotocki sabe que no es cirujano plástico, todos lo sabíamos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a leer el chat donde nuestra colaboradora pide un turno, recibe el precio y la confirmación del “doc”, el “doc”, el “doc”… ¿Lo van a parar?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Párenlo, muchachos, párenlo! Va a seguir operando, lastimando gente. ¡Es su responsabilidad!",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dejen de mirar para otro lado, porque hay muchos como Lotocki; él es el más conocido, pero hay muchos más en Instagram, haciendo canjes… gente muy…",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2324
+}

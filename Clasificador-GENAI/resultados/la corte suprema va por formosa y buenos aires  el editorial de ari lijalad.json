@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_corte",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Arranca la semana con novedades relacionadas con la Corte Suprema y la posibilidad de su injerencia en las elecciones provinciales, afectando el derecho al voto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Domínguez, reconocido mediáticamente y en el ámbito académico, fue defensor del Grupo Clarín ante la Corte Suprema en el caso de la Ley de Medios, e integró el Consejo Consultivo para la Reforma Judicial convocado por el presidente Alberto Fernández, donde, según trascendidos, bloqueó una postura sobre la reforma de la Corte Suprema.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El macrismo, junto al entonces Frente Renovador, impulsó una ley que limitó la reelección a un mandato.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si interviene, afectará a numerosos intendentes del Frente de Todos, y Gil Domínguez también pide la suspensión de las PASO.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, la Corte se ha involucrado en las elecciones de Tucumán y San Juan, y tiene dos causas en Formosa, sumándose ahora Buenos Aires, lo que podría interpretarse como una estrategia para debilitar la posición de intendentes del Frente de Todos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1580
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Máximo Kirchner es su mayor fracaso.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su único mérito para ser jefe de La Cámpora fue su apellido.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se maneja como un chico caprichoso que se enoja con el Fondo Monetario y renuncia a la presidencia del bloque oficialista.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Empuja fuerte y logra ejecutar a Martín Guzmán y banca a medias a Sergio Massa, cuyos resultados son peores.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo no ganó nunca una elección encabezando una boleta y está entre los tres dirigentes con mayor desprestigio de su espacio político.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se viste como un setentista, pero ya es un hombre grande de 46 años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se mueve como patrón de estancia, como sus padres, pero no tiene la astucia táctica de Néstor ni las capacidades discursivas de Cristina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son la nueva oligarquía de un poder en decadencia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La máxima irresponsabilidad de Máximo lo lleva derechito a dilapidar sus recursos y a convertirse, con suerte, en un dirigente marginal, radicalizado y combativo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2046
+}

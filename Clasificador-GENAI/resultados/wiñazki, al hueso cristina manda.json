@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.714,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner está demostrando ser la verdadera jefa del Frente de Todos, y lo hace con una acción que, de concretarse, generaría una fuerte ruptura institucional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner se opone a su nombramiento y no ha presentado su candidatura ante el Senado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sorprendentemente, la oposición, impulsada por Elisa Carrió, decidió brindar sus votos al oficialismo para la aprobación de Rafecas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se descubre que prefiere modificar una ley para imponer a otro jefe de los fiscales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Cristina Fernández de Kirchner persiste en este camino, demostrará su intención de imponerse sobre el presidente de manera brutal e inédita.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jamás un vicepresidente se había negado a votar por el candidato a jefe de fiscales propuesto por el presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oposición inicialmente se negó a apoyar la candidatura de Rafecas, luego cambió de postura y ahora se opone a la maniobra de Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1542
+}

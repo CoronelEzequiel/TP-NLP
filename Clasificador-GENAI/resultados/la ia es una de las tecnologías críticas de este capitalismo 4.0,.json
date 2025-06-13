@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_gato",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.486,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Qué forma de resistencia hay ante un presente extraño, Leo, si no es la que se nos ocurra?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y creo que seguimos intentando pensar estas nuevas formas y fuerzas políticas solo desde la óptica de lo político, sin darnos cuenta de que el metabolismo de lo político puede informarnos sobre un cambio civilizatorio, tectónico, que estamos viviendo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo digo lo mismo: tenemos un representante político que tocó el diapasón de la historia y algo resonó, algo se devolvió, porque el mundo está hablando de esto.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y por qué yo sintonizo mejor con [nombre del político] que con, por ejemplo, Juan Grabois?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sé si diría que sintoniza con las ultraderechas. ¿China, con uno de los sistemas de inteligencia artificial más integrados con su sociedad, de qué tipo de ultraderecha sería?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Cómo se piensa una soberanía tecnológica? ¿Cómo nos apoyamos en nuestras propias tecnologías sobre las que tenemos dominio, diferencial y posibilidad de aceleración?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que un político hable de inteligencia artificial o de energía nuclear es interesante, aunque sus acciones sean contrarias.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3083
+}

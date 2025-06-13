@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.805,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¿Será el fin del ciclo de Cristina Fernández de Kirchner? ¿Estaremos asistiendo al ocaso de su liderazgo corrupto, verticalista y autoritario?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy probable que eso pase el año que viene, pero todavía no pasó.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina no se rinde, da pelea y dispara con todo lo que tiene.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sí, estamos en condiciones de decir que es el peor momento político de Cristina y, por varios motivos, está atrapada y sin salida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una derrota estrepitosa transformaría a Cristina en la mariscal de la derrota definitiva del proyecto autocrático y chavista que armaron con Néstor Kirchner y que todavía subsiste en Santa Cruz.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La hecatombe económica actual es responsabilidad de este cuarto gobierno kirchnerista.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La justicia para Cristina se parece cada día más a una cárcel que se va cerrando con sus rejas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acusaron a Cristina en la causa Vialidad de ser la jefa de una asociación ilícita, una organización criminal que se dedicó a la sustracción de fondos públicos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Las amenazas de la conferencia de prensa de hoy al mediodía, de hacerle juicio político a la corte, para lo cual no tienen número, por supuesto, o de desobedecer el fallo, son una manera de profundizar el conflicto de poderes y poner al Estado de Derecho al borde del abismo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina nunca tuvo tampoco poder. Está en su peor momento, atrapada y sin salida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1942
+}

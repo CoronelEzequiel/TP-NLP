@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.872,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esta vez el kirchnerismo, intentando borrar su pasado, desconociendo por completo su reciente pasado chavista y su actualidad chavista también, pero lo tapan, lo tapan.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Podemos entonces decir, sin peros, que en Venezuela hay una dictadura?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El delito es darse vuelta como un panqueque.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Durante 20 años bancar una dictadura criminal, ni sabe los nombres.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El problema es que el periodismo que Kirchnerista tuvo negándolo 20 años.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta es la dictadura. Esta es la tiranía.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Acá el kirchnerismo tiene que pedir perdón por apoyar a una tiranía que destrozó a millones de personas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto fue una ola populista que arrasó con las mejores condiciones socioeconómicas de la historia del continente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Señora, es momento de hacerse cargo de su amigo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3932
+}

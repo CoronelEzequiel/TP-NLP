@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El peronismo está claramente en resistencia a la política económica y de gestión del presidente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos reconstruir una mayoría. Eso implica imaginar un frente opositor lo más amplio posible.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos partir de ese 44% y generar las condiciones para reconstruir una mayoría.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos representado bien a los trabajadores en relación de dependencia, pero no tan bien al otro 50% de la fuerza laboral: monotributistas, autónomos y desocupados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos diseñar una Argentina donde se reconozca que nuestra columna vertebral son los trabajadores, y no debemos limitarnos solo a los registrados.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1927
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.838,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El radicalismo no tiene nada que ver con el pensamiento liberal del PRO.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Salió incluso a respaldar las críticas de Facundo Manes a Mauricio Macri, pero nadie le preguntó si está de acuerdo en poner a Macri al mismo nivel que Cristina Fernández de Kirchner, como hizo el diputado médico.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En las redes, hace tiempo que están muy enojados; lo llaman Ricardo Alfonsín y lo consideran un traidor al radicalismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay que olvidar que, el lunes posterior a las elecciones, dijo: \"Han obtenido apoyos mayoritarios las fuerzas neoliberales de la oposición\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es increíble que, a esta altura, Alfonsín no registre que la debacle económica, la catástrofe sanitaria, la inmoralidad de las vacunas VIP y de la búsqueda de impunidad para Cristina Fernández de Kirchner y su grupo, o la inseguridad galopante, son consecuencia del gobierno de Alberto Fernández y Cristina Fernández de Kirchner, a quienes él representa, y del partido que gobernó por más años nuestro país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El colmo fue cuando dijo que Juntos por el Cambio quiere que el gobierno haga las cosas mal y, si eso no ocurre, las inventan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La principal tarea de Ricardo es tirarle centros para que cabecee Alberto Fernández.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los valores de Alfonsín son casi la contracara de los disvalores del kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2393
+}

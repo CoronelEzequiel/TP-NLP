@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_amia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.443,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pero para colocarlo en contexto, tenemos que decir que en realidad son dos los atentados, o sea, se cumplieron este año 30 años del atentado a la embajada de Israel en Argentina. Años después, el 18 de julio de 1994, ya con 85 muertos, es decir, cuatro veces más que los muertos de la embajada y más de 300 heridos, por lo que colocamos como eje de esta apertura las aristas electorales de los atentados.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Claramente, su campaña política, de distintos sectores anti-israelíes, es muy marcada, especialmente por Gadafi.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Menem envió 12 marcaciones de guerra a la invasión en Irak en 1991. Se esperaba, lo que esperaba Gadafi y el sector árabe más anti-israelí de aquel entonces, que no se hubiera dejado de ser un gran.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Hacemos todos los esfuerzos posibles para ayudar a los culpables\", frases obvias si las hay.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No quiero entrar en la discusión con quienes hacen política con la muerte.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De la AMIA hablo diciendo que se quiere demorar el juicio de encubrimiento desde el año 2002 de autoridades argentinas, de los servicios de inteligencia...",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solamente 30 años antes, 32 años antes, cuando Menem recibe dinero de Gadafi para la campaña, y luego voy a los Estados Unidos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1700
+}

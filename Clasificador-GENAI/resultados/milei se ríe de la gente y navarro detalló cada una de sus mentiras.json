@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo más grave que dijo Milei ayer, en mi opinión, fue seguir sosteniendo que el ajuste es solo para la \"casta\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdadera \"motosierra\" se aplicó a la política, no a la gente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un tercio del ajuste recayó sobre los jubilados, según el IARAF, una fuente considerada imparcial e incluso afín al kirchnerismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que votar por lo que te dan, no por lo que te quitan.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos tipos son psicópatas, no tienen empatía y mienten en la cara.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2051
+}

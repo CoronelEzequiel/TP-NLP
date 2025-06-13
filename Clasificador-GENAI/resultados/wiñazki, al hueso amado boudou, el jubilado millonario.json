@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.758,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Amado Boudou es un hombre con suerte.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Va a cobrar 20 millones de pesos, no de jubilación, sino de retroactivos.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Zannini, amigo y colega de gabinete de Boudou, firmó, por ejemplo, las leyes de expropiación de la ex Ciccone cuando Boudou era vicepresidente del Senado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zannini se ocupó del caso, demostrando, según la opinión del autor, que el kirchnerismo no abandona a sus amigos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El autor contrasta la situación de Boudou, con ingresos esporádicos y dificultades económicas según sus propias declaraciones, con la de otros jubilados que enfrentan demoras y congelamientos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Boudou está en su casa, con tobillera electrónica, mientras la Procuración trabaja a su favor.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1992
+}

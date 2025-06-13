@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.883,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos 86.000 muertos y así trata a esa chica que pinta, que además es divina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como este gobierno es una farsa, yo prefiero a Alberto así, distendido, charlando, que a Alberto con el dedo acusador.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Para qué se meten a decir “rompecuarentena”, “odiadores”, a clasificar a la gente como “nazis de mierda” si después no pueden salir?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién les hizo creer a Donda que puede fiscalizar la inclusión? ¿Quién le hizo creer a [nombre] que puede tener un observatorio de los medios?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "86.000 muertos en la calle y usted pavoneándose con la chica linda dentro de la Casa Rosada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es muy berreta, usted, presidente, es muy berreta.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2814
+}

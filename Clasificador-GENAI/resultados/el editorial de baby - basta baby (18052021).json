@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Si un gobierno hubiera sido tan bueno como dicen ser, en este momento no tendríamos la inflación galopante y oculta que tenemos, donde cuando sacamos un azúcar de la góndola y llegamos a la caja no la podemos pagar.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si este gobierno hubiera sido todo lo eficiente que dicen ser, Tayalde, Moropa, Rili, no le estarían dando miedo al mundo y no estarían tratando de cambiar la justicia para no ir presos todos por delincuentes, entre ellos Sanini por cambiarse el título de médico para vacunarse y toda esta porquería que hicieron últimamente, que son asquerosas, bochornosas y repudiables bajo cualquier punto de vista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso creo, por esta y muchas razones más, que les queda enorme la banda presidencial, que pueden bailar en el sillón de Rivadavia y que la democracia es otra cosa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque no hay ninguna duda de que cuando las elecciones son dudosas, vuelan los sobres como mariposas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso quería decirles que este gobierno podría ser una buena intendencia para un pueblo de campo de 200 habitantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque además, si este gobierno hubiera sido tan bueno como dice ser, no se hubiera pronunciado a favor de los delincuentes de la Franja de Gaza que atacaron a Israel y a favor de los delincuentes de Venezuela, que son una dictadura, y que el presidente dijo que ahora está más o menos bien.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2796
+}

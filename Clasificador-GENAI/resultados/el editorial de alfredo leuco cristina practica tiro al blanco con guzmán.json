@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.82,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina quiere su cabeza y, cuando Cristina quiere algo, no afloja hasta que lo consigue; es implacable, no tiene estómago ni escrúpulos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le está dando una especie de ultimátum a Alberto Fernández para que se rinda y entregue a su protegido ministro al espiedo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su silencio es tan patético como su falta de reacción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que le tiene rodeado el rancho, o mejor dicho, la Casa de Gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De esta mujer tóxica, mega corrupta y profundamente autoritaria depende el futuro inmediato de la Argentina y del presidente que ella eligió por Twitter.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2119
+}

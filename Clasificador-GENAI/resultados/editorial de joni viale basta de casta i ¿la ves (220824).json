@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estos senadores ahora sobreactúan indignación con los jubilados y, mientras tanto, tienen estas jubilaciones de privilegio.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, poneme jubilación de privilegio de Cristina Fernández, 28 millones de pesos brutos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La casta en Argentina se tiene que terminar, para siempre, para siempre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hombre que acabamos de ver fue de todo, de todo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La pelea de ayer no parece haber sido ni por Lassalle ni por Ariel Lijo. La contaron todos, ahora la vamos a contar. Se parece demasiado a una pelea por cargos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2964
+}

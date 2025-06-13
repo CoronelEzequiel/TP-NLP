@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_gerardo_romano",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "va a ser celebrada por mucha gente que ha negado y que cree que los derechos humanos son un curro, ¿no?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora cuando gobiernan los jueces, el Partido Judicial, y se conculca la libertad de acceder a las urnas por una ex presidenta dos veces y vicepresidenta, obscenamente delante de todo el pueblo argentino y del mundo, y hay una cooptación del poder judicial con la política, en donde los jueces y los fiscales juegan al fútbol y al pádel… Bueno, no quiero ser redundante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llegar al cumpleaños de mi hija. Que el pueblo argentino no vote al macrismo. Que no vote a la oligarquía. Que no vote a la antipatria. Porque para mí son la antipatria.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me parece que lo que más propende a la felicidad del pueblo son los dirigentes que luchan por el pueblo y que tienen convicción.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4792
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "La verdad del poder o el poder de la verdad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.28,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En una experiencia democrática, un intento de estabilización con semejante minoría parlamentaria no lo vimos nunca.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno que pretende mantener la ficción de la reducción drástica del déficit fiscal y, por lo tanto, no puede ceder a los subsidios reclamados por las empresas para que puedan cumplir con las paritarias, porque afectaría al ajuste que está llevando adelante.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, miren de lo que son capaces de hacer estos \"benefactores sociales\", con el transporte, con millones de personas en el medio, solo para defender sus ganancias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aparte, algo que llamó la atención fue que muchas personas consultadas en la calle, en Constitución o en Once, no solo no condenaban el paro, sino que lo apoyaron, porque, obvio, esa gente también vive en la Argentina en la que sus ingresos también están siendo licuados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero creo que lo importante hoy es destacar que, más allá de la auto-narración exitosa del propio gobierno, hay un país con capacidad de enfrentarlo, y la moneda está en el aire.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2532
+}

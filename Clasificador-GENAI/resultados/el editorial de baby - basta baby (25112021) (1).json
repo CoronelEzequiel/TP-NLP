@@ -1,0 +1,96 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.759,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Viste que todo, en este gobierno, es diferente, ¿no? Que cuando llegan, todos vienen haciéndose los importantes, dice: \"Déjamelo a mí, Alberto, que yo te lo manejo\". Y a los dos días están haciendo negocios turbios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dije: \"Cuando un gobierno te ha corrompido, te ha corrompido todo lo que entra al gobierno\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora no tienen ni un [Nombre del Ministro de Economía de Alfonsín], pero tienen 20 cargos. Entonces están buscando toda la gente corrupta que anda por ahí.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí va Cerruti, bueno, y le dice: \"Yo te aseguro, fanfarrón, le digo, Alberto, déjamelo a mí que yo los convenzo de todo\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cerruti, está todo bien, pero a ver, ocupémonos. Y ya terminamos con el tema. Porque a mí, la verdad, que me cuenten… es como una película porno, si me la cuentan, no me sirve, déjame que lo haga yo.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque no me gusta ver cómo los demás lo hacen. Y veo, con todo respeto, Cerruti, que usted está haciendo teatro, para seguir convenciendo a la gente de que están haciendo algo, y que se están preocupando, pero a veces caigan en cuenta, porque si no estaríamos cada día peor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto me acuerdo cuando Miriam Lewin, la que tiene la misión de vigilar a los periodistas independientes, dice: \"A nosotros nos preocupa el tema [Nombre del periodista o tema].",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando pierde Cristina, además de estar escondida, manda a sus seguidores a denostar a los demás para tratar de salvarse, ¿no?",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A mí me indigna porque yo conozco a algunos de los que estaban implicados, y ellos me dijeron a mí en un momento: \"Pagamos cinco millones de dólares para estar en libertad\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Me encantaría pedirle disculpas, porque quiere decir que tuvimos 20 años de gobierno honesto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y cuando no hay justicia, el acusado sigue siendo culpable de toda la vida.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que además, lo que no se dieron cuenta de lo político, y lo digo todos los días, es que el pueblo argentino, a quien los periodistas libres representamos —no con la soberbia de que somos representantes del pueblo— hablamos por lo que escuchamos de la gente, estamos hartos de Cristina, de Alberto, estamos hartos de todos los políticos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Chicos, ¿no tomaron conciencia de que se terminó?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes nos engañaron. ¿Y saben si son tan tontos que nos siguen engañando con [Nombre del personaje]? Nos siguen engañando con el hijo de [Nombre del personaje] y que dicen tonterías. Realmente nos siguen engañando.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo, son todos payasos, muchachos. Nadie los quiere porque saben que todo el país sabe que son oportunistas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son falsos, viven de lo que le roban al Estado. Son un poco menos que un parásito. Entonces no les creemos más.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No nos convence que tiren dinero con una pistola a la mesa de Juana. No nos convence que no den un plan económico que todavía no empezamos a vivir porque no hay economía, porque no hay plata. Y estamos hartos del plan económico de la pistola.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4382
+}

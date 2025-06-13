@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.785,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy encontré a un diputado que se llevaba un rollo de papel higiénico para su casa.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si no se hubiesen metido a opinar sin motivo, Hebe de Bonafini y Estela de Carlotto, porque siempre viste, son como esos loros viejos de veterinarias que, para que alguien los compre, cuando pasaste, siempre tienen que opinar de algo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando queríamos tener la Taser en la época de Macri, los derechos humanos, la picana, la cantidad de estupideces, porque la verdad te digo, nadie está en contra de luchar por los desaparecidos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos estos pelotudos que hablan, Adolfo Pérez Esquivel, todos estos tipos que se han hecho conocidos gracias a los derechos humanos, que no han hecho una mierda para salvar a nadie, que muere cantidad de gente en Argentina y estos siguen con la misma cantinela de los 70.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y el Ministerio de la Mujer y las mujeres atropelladas, golpeadas y humilladas y nada, viste, con la Taser pasó lo mismo, empezaron Bonafini y Carlotto, porque claro, cuando no tienen una semana de protagonismo, creen que ya no son relevantes, y la verdad que no lo son, porque a nadie le importa Carlotto y Bonafini.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces ¿qué hace el periodismo? En cambio de putear a los que no la dejaron traer, empiezan a discutir de nuevo si hay que traerla o no, pero hasta cuándo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Poner a esa mujer de ministra de seguridad, estar ahí con el culo lleno de vaselina a la calle por Constitución a las 12 de la noche, porque realmente no te garantiza ninguna seguridad, y es real, porque realmente no se la ve nunca, no opina, no se la ve ni en la provincia que muestra un poco más de gestión, pero realmente lo único que dice es no, es una picana, porque eso ocurre, por el tema de los Falcon verdes, todo lo asocian…",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy podrido en Argentina, te asocian todo, no tengo nada que ver con Videla, con la dictadura, y esta mañana mientras iba para…",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras veníamos para la radio, esta mañana, decía: \"¿Qué habrá sido de la vida de Bobby Misogino?\", porque resulta que en la época de Macri, como había que pegarme para callarme como siempre, me metieron el título de misógino, xenófobo, antisemita, facha, gorila y otras cosas más que le vamos a agregar cuando haga falta, y ahí salía Ani Ventura, ustedes la conocen, la que escribía en la revista de [nombre de la revista] en la época del Proceso, ok, bien, bueno, Ani Ventura, Carla Czulnozki, que se recibió de panelista, un agujero la meten a ella, y ya sabemos que Bobby M.C. es un misógino, un xenófobo, y yo la verdad que miraba a mi familia y le decía a mi hija, a toda la mujer de mi familia: \"¿Qué hay que hacer para ser xenófobo o misógino?\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy el problema de la Taser, si estos tiros se lo han pegado a uno de la Plaza de Mayo, hoy tendríamos un quilombo en Argentina, parecía una guerra civil, pero no salió ni Hebe de Bonafini ni Estela de Carlotto a hablar porque Chano Charpentier, un pibe que votó a Macri, qué cagada, le erró, pero Chano hoy se está muriendo por un tiro pegado en la pierna y le destrozó todo por no tener la Taser por culpa de estos hijos de puta de los derechos humanos, sin útiles de mierda que no la dejaron imponer.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estados Unidos hace años que tiene la Taser y que agarra los chorros con la Taser y no pasa absolutamente nada, los agarran vivos y se los llevan, pero estos tuvieron que opinar porque ellos opinan de todo en el afán de ser derechos humanos: Hebe de Bonafini, Estela de Carlotto, Adolfo Pérez Esquivel, ni Milani, [nombre de persona], y compañía.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A Menem, porque usted fue la que lo engordó a Menem llevándolo a Santa Cruz diciendo que era el mejor presidente que había tenido Argentina después de Perón, regalándole un cuadro con la cara de Menem, ustedes fueron los únicos que fueron alcahuetes y genuflexos de los militares y de Menem, ¿o se olvida que su cuñada fue funcionaria de los militares?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso digo estoy cansado de más de lo mismo y hoy me decía: \"¿Cómo viste la lista?\", \"Cómo el orto\", porque son los mismos nombres en diferentes lugares, vuelve a estar [nombre de persona], vuelve a estar este, ¿cómo se llama?, [nombre de persona], todos estos tipos de nuevo que a mí la verdad me importan un carajo, que no hicieron nada bien, que los están premiando por los 120 mil muertos que tenemos del COVID, vuelven los mismos nombres a los mismos lugares para hacer lo mismo, o sea hacer mierda a Argentina, por eso digo, está bueno como somos, primero prohibimos la Taser y cuando aparece un tiro pegado a un tipo queremos la Taser de nuevo, pero aguanten todavía, dentro de dos días aparece Hebe de Bonafini, Estela de Carlotto, Adolfo Pérez Esquivel y Milani diciendo que la Taser es la picana que usaba [nombre de persona] en la época de los altos mandos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4758
+}

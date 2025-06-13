@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es hora de demostrar un poco de unidad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando Cristina Kirchner perdió las elecciones, porque la gente la rechazó con su voto, y ganó Mauricio Macri, me vinieron a matar todos, me pegaban todos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque Cristina Kirchner va a perder y va a ir presa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su enojo es hacia los que pensamos diferente y no consumimos la basura que usted vende.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y para usted, Mengolini, ¿qué quiere que le diga si no es nadie? Un parásito del kirchnerismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entre ustedes y yo, hay una línea divisoria que no se puede cruzar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy bajó el dólar.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2148
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "radio10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "\"Los alquileres en Rosario, en Buenos Aires, son muy caros, y con el sueldo que tenemos no alcanza. Es muy difícil para la otra parte salir a trabajar, por la inseguridad que tenemos también, es difícil.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Estaba el caso de esta señora que usted vio como salió tan amargada, porque te amarga el alma, que tiene a su hija lejos y hace dos años que no la ve, porque no le alcanza para poder viajar, no le alcanza para mandar desayuno, como ella dice, le tengo que mandar la mitad de mi jubilación para que ella tenga y no muera de hambre.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Cuando asume, sobre todo Bullrich, uno sentía que había como una reivindicación de la fuerza de seguridad, la fuerza armada, la gendarmería, la prefectura y todo. Este fue otro punto de... ¿qué? Perdón por la palabra, ¿pero impotencia? Porque yo creo que nosotros y todo... creo yo, la gendarmería entera la votó, la apoyó a ella, porque creíamos que con ella vamos a estar mejor, y yo creo que toda la gendarmería la ha apoyado, y ella ahora está dando la espalda a nosotros.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Digo, ¿debe ser jodido para tu marido a veces que usa la gendarmería para ir a reprimir a los que protestan por lo mismo que les pasa a ustedes, de morirse de hambre? Digo, ¿tener que ponerse del otro lado también? Debe ser jodido también, ¿no?\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Y cuando un gendarme pide la baja, ¿a dónde suele ir, las ofertas que le aparecen, qué es, para estar en compañía de seguridad o laburo común y corriente? ¿Cómo es eso? Lamentablemente, cuando ellos piden la baja, lo que ya tienen un título, pueden acceder a estar en alguna clase de seguridad, en algún banco, en alguna de esas, pero en la mayoría no consiguen trabajo. Como yo le dije, hay un muchacho que contaba a la señora que era su hijo que él estaba en gendarmería y él pide la baja, y ahí se encuentra en una panadería, vendiendo panchos ahora.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6627
+}

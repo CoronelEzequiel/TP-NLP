@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_politica",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El presidente que tenía una cierta tregua con la calle, las organizaciones opositoras, pero también las oficialistas salieron a tomar la calle en términos bien peronistas, dejándolo muy solo, Alberto.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que Alberto es eso, fue un gran segunda línea de Néstor y no está demostrando la potencia que no es una potencia, es una combinación de potencias intelectuales, potencias discursivas, impulsos personales y no está demostrando tener eso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Él era alguien de pensamiento liberal democrático que luego se adhiere al peronismo por caminos que habrá que reconstruir.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los radicales lo que tienen es una implantación territorial, a la cual Facundo Manes, que tiene un hermano que es parte de esa implantación territorial, a la cual Facundo Manes tuvo acceso y sigue teniendo acceso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque ahí está la cuestión de la miseria. Eso que hay que hablar. Es decir, cuando hablamos de que tenemos que reducir los planes, tenemos que sacar los planes sociales, tenemos que sacarle esto a las mujeres, tenemos que sacarle esto a los chicos, ¿ahí qué vamos a dejar, que la gente se muera?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8839
+}

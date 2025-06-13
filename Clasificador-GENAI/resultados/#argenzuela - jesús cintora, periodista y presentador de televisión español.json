@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.278,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En este caso, es muy claro: incluso aprovechando una tragedia tan tremenda —ya hay cientos de muertos por las terribles tormentas— se difunden desinformaciones que, en lugar de centrarse en las medidas que se tomaron mal y en su investigación, mezclan lo ocurrido con hechos del pasado, remontándose a la época del dictador Franco, acusando a la derecha de repetir los mismos errores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo más dramático —esto es de hoy, pero lo más dramático— es que, a la hora de buscar culpables, se habla de la Agenda 2030, de foros conspiranoicos, se dice que nos gasean con aviones… cosas que también se dicen en otros países.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Claro, en las corrientes de desinformación siempre se busca crear caos, desconcierto y malestar en la población.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por cierto, fue a través de TikTok como conocí a Javier Milei; cuando entré en TikTok, me llamó la atención la cantidad de vídeos de este tipo que ofrecía el algoritmo. Años después, llegó a ser presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después aparecieron personajes como Santiago Abascal de Vox y Darío Esteve de Desokupa (poco conocido aquí, pero empezó desocupando viviendas y ahora es neonazi).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ha vuelto porque es temporada de difundir bulos, desconcierto y manipulación.  El papel de este tipo de la extrema derecha ayer fue muy llamativo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, sí, lamentablemente estamos inmersos en este espiral de locura y violencia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "He sido censurado en la televisión pública y en otros medios, a pesar de tener buena audiencia, incluso siendo líderes en franjas informativas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Busca a Javier Negre, por ejemplo.  Todo el día hay *fake news*.  Es impresionante cómo lo montan.  Viendo esto, veo lo que se viene allá, que aquí ya lo tenemos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2819
+}

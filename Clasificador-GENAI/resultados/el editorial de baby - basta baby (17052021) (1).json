@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Quieren sacar una ley para destruirlo todo, quedarse con el control de la justicia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si sacan esta ley, la justicia se acabará.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero haremos todo lo posible para evitarlo.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entraremos en una situación similar a la de Venezuela, sin frenos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Necesitamos justicia, y eso se consigue dejando a los fiscales honestos en sus puestos, sin cambiar nada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno debería preocuparse por la cantidad de muertos, la falta de vacunas…",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Presidente, no sea hipócrita. Diga que no hay vacunas y que la gente debe trabajar y salvarse.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que les importa es salvar a Cristina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Presidente, realmente, el peor gobierno de la historia argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No nos encierren, la culpa es suya, Alberto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y encima, están preocupados por cambiar la justicia para Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La libertad no es un negocio.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos condenados a morir, y aunque nos encierren 21 días más, no solucionarán nada porque son incapaces.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El país está destrozado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2724
+}

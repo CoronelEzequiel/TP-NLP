@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.758,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tiene que haber una revolución moral. Porque llegamos a un punto en la Argentina en el que no se puede seguir así. Se llegó a un límite.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este país, con los políticos que tenemos, no puede seguir así. Una con dieciséis procesos penales, el otro enviando mensajes de texto para acosar a quienes lo visitan… entonces, creo que tiene que haber 'ficha limpia'.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le puedo asegurar que el día que votemos por internet, el peronismo pierde. Y el día que haya boleta única, también pierden, porque no pueden hacer el fraude de mandar a la gente humilde con la boleta cortada.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lejos de las mentiras del presidente, o las estupideces de Cristina, o las peleas internas… hay que buscar en 2023 jornadas ejemplificadoras.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando yo militaba para Alfonsín, nos juntábamos en un bar llamado 'Coquette'. Había un juguetería, un zapatero, un abogado, un médico, un ingeniero, un quinielero y Leopoldo Moreau.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pongamos el país en blanco, ¡Viva la Patria! 25 de Mayo. Empecemos a sacar a todos los delincuentes.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2643
+}

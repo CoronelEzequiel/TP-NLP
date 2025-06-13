@@ -1,0 +1,41 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si uno habla con el corazón del gobierno, con los principales protagonistas de la Casa Rosada, ahí hay optimismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todavía estamos en condiciones de ganar porque la gente nos identifica como una ruptura, todavía nos identifica como un cambio respecto de todo lo otro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para algunos, \"lo otro\" es solamente el kirchnerismo y se podrían ensayar acuerdos o acercamientos con protagonistas del peronismo no kirchnerista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lavagna está pensando en competir por el voto de Macri armando una especie de Cambiemos 2.0 o una alianza parecida a Cambiemos con un ingrediente peronista más poderoso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la causa de Dolores, de un juez federal que seguramente, no sé si tiene simpatías kirchneristas, pero no tiene simpatías macristas, empieza a tirar de la piola de D'Alessio y aparece un submundo que todos conocíamos de espionaje clandestino, del que venimos hablando acá en noticias desde hace varios programas, ligado de manera más o menos regular a una cantidad de funcionarios puestos por Macri en la AFI, en la Agencia Federal de Inteligencia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El kirchnerismo dice, con muchos rasgos de verosimilitud en muchos casos, que hay arrepentidos a los cuales les cargan las declaraciones usando la prisión preventiva como una especie de extorsión: \"Si vos no decís que la plata se la entregaste en mano a Cristina, seguís preso\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4751
+}

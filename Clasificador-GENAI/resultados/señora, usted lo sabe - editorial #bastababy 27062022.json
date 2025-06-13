@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los planes deben ser administrados por personas decentes, honestas y probos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podemos dárselos a alguien que no dejaría una moneda sobre una mesa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si usted con su trabajo juntó dólares, no los cambie, no sea tonto comprando bonos argentinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Las Malvinas son inglesas y no hay ningún diálogo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tenemos que aguantar un año y medio hasta que se vayan con las elecciones, pero también vamos a hacer algo: aguantemos al gobierno el año y medio, pero quitémosle todo el dinero de las manos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2788
+}

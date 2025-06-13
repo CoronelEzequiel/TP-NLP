@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta transmisión será improvisada y breve debido a la falta de tiempo.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "He notado la proliferación de muebles de pino y cortinas con argollas de madera.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A partir de hoy, hablaremos… y contaremos con la participación de infectólogos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recuerden mantener la cámara de la computadora enfocada a la altura de los ojos, nunca por debajo, pues produce una perspectiva poco favorecedora.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1611
+}

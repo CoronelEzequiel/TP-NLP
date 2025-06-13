@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.683,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El cuarto gobierno kirchnerista y el justicialismo feudal de los últimos años multiplicaron el hambre en toda la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No son los únicos, por supuesto, pero sí son los principales responsables porque gobernaron durante muchos años, a través de ocho presidentes: Juan Domingo Perón, Héctor Cámpora, María Estela Martínez de Perón (alias Isabelita), Carlos Menem, Eduardo Duhalde, Néstor y Cristina Kirchner, y Alberto Fernández.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque hoy los únicos perjudicados, no privilegiados, son los niños, o para ser más precisos, no son los únicos, pero sí son los que más daños sufren con el hambre y la miseria.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Solo les interesa el clientelismo, dar planes, tarjetas y asignaciones para tener agarrados del \"cogote\" a los que más sufren.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan cuando Alberto convocó a la mesa del hambre? Fue una farsa, \"fulbito\" para la tribuna, intento de utilización política y búsqueda de rédito partidario.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo sé que los Kirchner ocultaron y negaron por años estas cifras horrorosas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una democracia debe igualar las posibilidades desde la cuna y combatir esta verdadera patología social, este escándalo ético que debería tener preocupados y ocupados a los gobernantes las 24 horas de todos los días.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Deberíamos luchar para lograr este piso mínimo de convivencia y civilización, para que nunca más ningún argentino sufra hambre o desnutrición.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es sembrar ciudadanía en la tierra que más lo necesita.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2398
+}

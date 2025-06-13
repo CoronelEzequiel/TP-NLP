@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.388,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer resultó un triunfo para el gobierno de Javier Milei, logró blindar el DNU en el Congreso, que le permite negociar libremente el acuerdo con el Fondo Monetario Internacional, sin revelar nada de lo que llamamos vulgarmente la letra chica.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con eso, el gobierno logró atemorizar la convocatoria de la marcha y la marcha misma. Muy probablemente, la fuerte represión de la semana anterior, con escenas terribles como la de la jubilada golpeada y el fotógrafo que casi pierde su vida y que seguramente tendrá consecuencias graves también, más allá de su sobrevivencia, disuadió también a muchas otras personas de participar en la convocatoria.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están interesantes las diferentes tácticas del gobierno en los operativos de seguridad; el miércoles pasado, la represión temprana tuvo el objetivo de evitar la concentración masiva de los manifestantes y terminó generando que se dispersaran por distintos puntos de los aledaños del centro, con la contraparte de que se intensificó la protesta durante toda la tarde.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer, una escenificación y despliegue policial para aterrorizar a la población.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo mal, no hace abuso de poder y encima le dice \"maricón\" también como insulto, ¿no? O sea, todo mal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Efectivamente, finalmente el gobierno logró disuadir a los manifestantes, eso tuvo la ayuda de personas que acudieron a la convocatoria que realizaron actos violentos que son también actores de que haya habido luego una manifestación de menor número, probablemente jubilados y diferentes sectores perjudicados por los planes de la gestión libertaria encontrarán otra manera de hacerse escuchar, sorteando estos obstáculos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Además, los manifestantes temen a los violentos que asisten a las marchas y generan disturbios; recientemente, se identificó al presunto responsable de la quema del patrullero el miércoles pasado y, efectivamente, esto lo confirma la justicia y esta fue la persona que lo produjo y no un infiltrado como desde los sectores opuestos al gobierno se sospechaba.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hoy la columna de Carlos Pañi en La Nación plantea otro miedo: el miedo a la torpeza de que el gobierno no logre llevar adelante los planes, que mucha gente que apoya al gobierno empieza a temer, que es no, que que es lo que hay que hacer, que para ser sinceros, parte de lo que el gobierno hizo es compartido por todos los candidatos a presidente, como por ejemplo, reordenar la macroeconomía y eliminar el déficit fiscal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4776
+}

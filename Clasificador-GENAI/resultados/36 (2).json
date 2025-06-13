@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.058,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Realmente, no vamos a decir que Argentina estaba bien antes de diciembre; por supuesto, había muchos problemas, mucha gente que estaba mal, pero desde el 10 de diciembre hasta hoy se ha profundizado cada uno de esos problemas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Merlo, tenemos alrededor de 130.000 personas a las que ayudamos desde el municipio con recursos que no tenemos, generando nuevas partidas de dinero y dejando de hacer otras cosas para atender esta urgencia, mientras el Gobierno Nacional mira para otro lado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es impresionante escuchar al presidente decir que la única responsabilidad del Gobierno Nacional, que recauda el 75% de los impuestos, es atender cuestiones macroeconómicas como el tipo de cambio, la deuda externa y la inflación, cuando en realidad disponen de enormes recursos.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una anarquía tremenda: el Gobierno Nacional se ha retirado de la obra pública, la educación, la salud pública y la ayuda social, y en nuestros barrios lo sentimos con mucha fuerza.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las medidas del gobierno no le ponen un peso más en el bolsillo a la gente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, si van a hacer un ajuste tan bestial, tan duro, ¿dónde está el plan de contingencia para las personas que están quedando fuera del sistema? No hay. Nunca lo pensaron.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con este ajuste bestial e inhumano, el más inhumano de la historia reciente de Argentina, ni siquiera pueden cumplir con el pago de la deuda.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se les cae la careta de fantasía y mentira. La poca convocatoria para el lanzamiento de un partido con el que pretenden afrontar las próximas elecciones, desnuda una tremenda desviación del gobierno, que debería estar dedicado al 100% a gobernar.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2606
+}

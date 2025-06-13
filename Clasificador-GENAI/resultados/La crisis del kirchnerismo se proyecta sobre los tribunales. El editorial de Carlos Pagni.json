@@ -1,0 +1,41 @@
+{
+  "texto_id": "Saudicea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Con la instalación de mafias, con la organización del crimen y dentro de ese mapa, con el problema del narcotráfico, pasa eso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es evidente que, en una jugada muy inteligente, Rosatti lo que está haciendo es sacar a la Corte del lugar visual, de la escena pública, del contexto de noticias en el que está instalada hace mucho tiempo, muy ligado a las disputas de poder, sobre todo de la política nacional, y conectarla con una agenda mucho más asociada a intereses concretos de la sociedad, como, por ejemplo, en Rosario, el flagelo del narcotráfico, y esto seguramente tiene un objetivo: darle más espesor no a la legalidad o a la legitimidad jurídica o institucional de la Corte, sino a su legitimidad social, a que la sociedad aprecie más a la Corte como organismo y vea que en la Corte puede encontrar soluciones para problemas que no están ligados solamente a la política partidaria o a las disputas crudas de poder.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué tiene que ver esto con la Corte? Es una causa muy importante, ¿por qué? Porque técnicamente, si se demuestra que ahí hubo sobreprecios, se podría empezar a demostrar o a conectar mejor la masa de dinero que surge de esos sobreprecios con el pago de coimas que finalmente se blanqueaban en los hoteles de la familia Kirchner, donde, por una gran desaprensión, seguramente de Néstor Kirchner, figura o figuraba como directora Florencia Kirchner, que no tiene nada que ver con la política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno se pusiera en la cabeza de Cristina Kirchner, si mirara todo esto que estamos mencionando desde sus creencias, desde sus criterios, uno llegaría a esta conclusión, que seguramente es la conclusión a la que llega ella: \"Como todo es política, como no hay ninguna dinámica, ninguna lógica en la vida pública que no sea susceptible de ser condicionada, enderezada, corregida por el poder del que manda, lo que estoy padeciendo yo, puede pensar ella, es algo que ocurrió en el terreno electoral y tiene que ver con la administración de Alberto Fernández. Una pérdida de poder, una pérdida de votos, por eso me está yendo mal en la justicia. El problema no es jurídico, es político\", y acá es donde se conecta el destino judicial de la vicepresidenta con las inquietudes que ella tiene respecto de la situación política del gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es como tocar las jubilaciones, por ejemplo. Estamos hablando de las tarifas. Cristina Kirchner está, como sabemos, enormemente preocupada por el tema de las tarifas, pero desde Edenor, volvemos a Vila y Manzano, le contestaron con este gráfico.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el centro de ese negocio están Nicolás Caputo, muy ligado en su momento (digo en su momento porque ahora están peleados, dicen que de manera casi irreconciliable), con Mauricio Macri, muy ligado ahora a Horacio Rodríguez Larreta, y Miguel Czerniazowski, el dueño de New San, que es el otro zar de ese negocio protegido de Tierra del Fuego.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9263
+}

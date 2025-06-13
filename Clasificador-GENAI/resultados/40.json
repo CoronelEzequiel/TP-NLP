@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.083,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nadie puede estar contento cuando un kilo de carne costaba 4.000 pesos y ahora cuesta 8.000.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una jubilada, ¿entiendes? Una compañera lloraba hoy porque decidimos fijar el precio para jubilados en 1000 pesos, pero si lo ponemos a 1800, es una locura.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le están vendiendo espejitos de colores a la gente, y no ven que esto nos va a llevar a un choque terrible.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No muestran sensibilidad social, no se preguntan cómo les va a ir a la gente en Villa Corina, en Villa Azul.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recomponer los salarios.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El pan es un alimento de primera necesidad, y los sueldos no variaron mucho desde que el pan costaba 800 pesos. ",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2212
+}

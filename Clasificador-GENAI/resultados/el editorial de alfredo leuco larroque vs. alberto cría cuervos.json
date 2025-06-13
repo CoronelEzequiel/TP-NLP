@@ -1,0 +1,51 @@
+{
+  "texto_id": "El Cuervo Larroque es el encargado de hostigar a Alberto Fernández",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El Cuervo Larroque es el encargado de hostigar a Alberto Fernández hasta que se rinda y se arrodille de una vez y para siempre a los pies de Cristina Fernández de Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No soportan la competencia ni la democracia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Larroque aseguró que, dentro del gobierno, al que definió como híbrido, hay una militancia para someter a Cristina a una doble proscripción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire, los cuervos son aves carroñeras tan inteligentes que suelen imitar la voz humana.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos pájaros de mal agüero en la política suelen ser utilizados como metáforas de aquellos dirigentes que, luego de ser criados, te pueden llegar a sacar los ojos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Larroque es el jefe de la brigada y la vanguardia del \"operativo Atropellemos a Alberto\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace cuatro meses, Patricia Bullrich, que conoce el peronismo desde adentro y desde su juventud, hizo un diagnóstico certero: \"Los peronistas se están queriendo comer entre ellos. Se matan entre ellos\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es la primera vez en la historia que las peleas feroces dentro del peronismo impactan negativamente en toda la sociedad argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1775
+}

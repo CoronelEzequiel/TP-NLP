@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ese entramado, como decíamos, tragicómico, uno escucha las conversaciones de D'Alessio con Echeveste grabadas por Echeveste o por alguien a quien Echeveste tenía al lado, parecen una especie de comedia italiana, si no fuera porque están hablando de cosas impresentables, derivó con el transcurso de la investigación del juez Ramos Padilla en un conflicto político alrededor de un problema que la Argentina, como vamos a ver y como hemos visto ya muchas veces en este programa, arrastra como un tema central desde hace mucho tiempo, un problema a resolver, un nudo de la política o de la vida pública argentina que es el comportamiento de los servicios de inteligencia, especialmente importante porque nuestro país es un país donde en los últimos tiempos han avanzado mucho las mafias, el crimen organizado, un tipo de narcotráfico y además muy importante porque todo el tiempo se descubren, y también en el caso de D'Alessio, vinculaciones entre el espionaje y la justicia federal, como si la justicia federal, sobre todo los tribunales de Comodoro Py y también muchos tribunales federales del conurbano, fueran comandados desde un subsuelo por los servicios de inteligencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Carrió y Vidal entonces, dos personas cuyo eje político ha sido siempre el combate contra la corrupción y las mafias, y la gente las identifica con eso, giran ahora hacia el propio gobierno y le dicen a Macri tenés una mafia instalada dentro de tu propio gobierno que es la AFI.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Concretamente, Oscar Parrilli dice, habrá que creer que es cierto, ahora todo el mundo le carga cosas a la AFI del actual gobierno, que cuando él tuvo una reunión por la transición entre el kirchnerismo y el gobierno de Macri con Silvia Majdalani, Majdalani estaba acompañada del comisario Bogoliuk y le dijo, esto lo dice Parrilli, este va a ser el jefe de seguridad de Comisas la Casa, que es como le llaman los espías a la AFI.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri llegó en ese contexto donde había encontrado un marco institucional mucho más saludable para los organismos de inteligencia y lo que hizo fue volver atrás eliminó esas limitaciones y le dio a la Agencia Federal de Inteligencia más recursos reservados sabe cuanto es hoy el presupuesto que maneja Gustavo Arribas de fondos reservados sobre los que no tiene que rendir cuenta 7.600 millones de pesos escuchó 7.600 millones de pesos",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4821
+}

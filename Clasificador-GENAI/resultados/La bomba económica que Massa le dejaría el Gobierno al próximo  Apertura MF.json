@@ -1,0 +1,26 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Por qué abrimos con política interna? Porque en algún momento hay que salir del debate interno. Estamos hablando de salir de la interna dentro de los propios partidos. Esto de lo que no pueden salir los frentes, las coaliciones más importantes de cara a las próximas elecciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se puede frenar la bomba. Ayer, **Massa** hizo declaraciones periodísticas. Estuvo hablando con **Ernesto Tenembaum** y **María O'Donnell** en Conexión. Allí le preguntaban sobre la posibilidad de frenar esto que parece, según declaró la propia oposición, una bomba que le dejará este gobierno al próximo presidente. Tiene que ver con la inflación, las aspiraciones que tenía el ministro de Economía de reducir el número al 3% para marzo y abril, y ver cómo este objetivo cada vez se va haciendo más lejano.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las aspiraciones electorales del oficialismo están acompañadas, atadas a lo que suceda en los próximos meses con la economía y dependen, por supuesto, de esta obra de **Sergio Massa**.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4395
+}

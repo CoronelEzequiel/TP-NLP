@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo extraño de la Argentina es que cuando se habla de un momento de corrupción como fue ese, se cuenta como con gracia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y cuando van hablando te das cuenta de cómo nos cagaron también, porque para que los [Kirchner] nos afanen el país, hay otros que abrieron la puerta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso te digo, no la vi la miniserie, no la critico, no la voy a ver tampoco, porque eso lo viví.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ¿sabés qué me da bronca? Que hace muchos años hicimos una colecta en Radio 10 porque La Plata estaba inundada, y ahora vuelve a estar inundada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y creo que nos están distrayendo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y otra cosa, Ferrari está armando un barrio político para poner a [Axel] Kicillof como candidato a presidente y a [Nicolás] Bianco como gobernador.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3224
+}

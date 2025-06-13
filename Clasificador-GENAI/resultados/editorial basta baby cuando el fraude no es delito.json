@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.763,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Observo con preocupación lo que ocurre en Chile, Bolivia, Venezuela y Cuba.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "También hay que ser cautelosos con la izquierda que considero mentirosa, corrupta y que encubre a procesados.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si bien no creo que **Macri** mereciera el 41% de los votos, creo que el pueblo ya se cansó y expresa su descontento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En un país como el nuestro, donde celebramos la liberación de **Lula**, y en un país que apoya a quien fragua una elección, o que se alegra de la muerte de **Piñera**, nos sumergimos en un enredo ideológico que nos conduce a la nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En las próximas elecciones, es probable que veamos un giro hacia el centro-derecha.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay dos modelos. Por un lado, el populismo de la mentira, que dice que el país es de todos, pero cuando hay problemas, abandonan el barco.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y por otro, un modelo que promueve el trabajo y la estabilidad, con jubilaciones dignas, para que el pueblo elija.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejaría de lado la actitud del club de los fracasados, la hipocresía hacia Venezuela, de juntarse con toda la lacra de Latinoamérica y empezaría a pensar que hay demasiada violencia en el Cono Sur como para inventar un cheque.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1991
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_inflacion",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer se conoció la inflación de febrero: fue más baja de lo que se esperaba, 13,2%, pero aún así sigue siendo la tercera más alta desde la salida de la convertibilidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Da la sensación de que, en algún sentido, la sociedad se está ahogando, no solo por el agua en este caso, sino también porque sus ingresos fijos se reducen, se devalúan, pierden valor frente a los incrementos de los precios, y eso repercute, además, en las caídas de ventas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a comenzar con el propio presidente Javier Milei: 'Ayer, en Crónica, la inflación está por debajo de 15% y eso es un numerazo'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad parece haber, que decirlo, humo, porque si no hay dólares, si no hay dólares para importar bienes intermedios con los que luego se manufacturan, por ejemplo, los alimentos, importar las latas, por ejemplo, para luego poner los tomates, ¿cómo va a haber dólares para importar directamente alimentos?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los salarios cayendo en picada, mientras el presidente dice que es un 'numerazo'. 276 de inflación anual no se celebra, se padece.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inflación durante el período de diciembre-febrero ha alcanzado casi el 60%. La política de ajuste está sumiendo la economía en una profunda depresión, con consecuencias sociales de gran magnitud.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entiendo al que remarcó precios y la reacción natural de no querer bajarlos. La charla que hemos tenido con ellos, un poco, también va a lo que yo digo que es la batalla cultural.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4283
+}

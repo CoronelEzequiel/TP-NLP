@@ -1,0 +1,51 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.606,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desregular las prepagas, siendo que no existe libre mercado en ese rubro, un error.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo quiero competencia, libre mercado, pero esto no lo es.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo siempre se confunde libertad con libertinaje en la Argentina? No saben administrar la libertad, atentan contra el modelo de libertad que tanto pedían, que tanto pregonaban.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La famosa casta no es solamente la política, es un error eso, la casta es una parte de la política, una parte del sindicalismo, una parte de la justicia, una parte del periodismo también, sí, sí, sí, y una parte del empresarial.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Insisto, un error del gobierno, para mí, es regular cuando no hay libre mercado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo siento que además, más allá de todo lo que decimos todo el tiempo, es un gran improvisador el gobierno, entonces le regulan las prepagas, pero después te sale el ministro a decir que qué barbaridad, cómo subieron las prepagas, pero no hace nada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Así que como todos roban, yo puedo robar. Como es una sociedad corrupta, yo lo puedo hacer.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El límite para mí es la casa, es un lugar, la casa de la gente, nunca, vos podés estar en desacuerdo con Caputo, con Scioli y que está acá, la casa no, la propiedad privada, nunca pública tampoco, pero digo, sabés que son, con esto cierro porque estoy esperando el ministro de secretario y está rino, para mí son síntomas de desesperación, están knock out, son síntomas como lo puede decir inequívocos de un kirchnerismo en descomposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6710
+}

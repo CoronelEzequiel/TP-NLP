@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Quién gobierna el país?  ¿Quién toma las decisiones en materia económica? Y, sobre todo, ¿quién ejerce el poder político?  Considero que la política debe guiar la economía, no al revés.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso, el contexto es una sensación de desgobierno que, lamentablemente, genera la coalición oficialista, actualmente denominada Unión por la Patria.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Patricia Bullrich, desde la oposición, ha instado al orden y a la adopción de medidas drásticas, incluso sugiriendo la posibilidad de un estado de sitio, recordando que esta medida fue aplicada en el pasado, durante el gobierno de Fernando de la Rúa, con consecuencias trágicas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei, por su parte, incluso antes de que se produjeran los saqueos, alentó estas acciones a través de las redes sociales, vinculando la pobreza con los saqueos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Axel Kicillof ha respondido activamente, denunciando falsas denuncias y campañas en redes sociales que buscaban generar pánico sobre falsos saqueos en el conurbano bonaerense durante el fin de semana. Su respuesta, en línea con la tradición kirchnerista, refuerza su imagen ante los votantes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2012
+}

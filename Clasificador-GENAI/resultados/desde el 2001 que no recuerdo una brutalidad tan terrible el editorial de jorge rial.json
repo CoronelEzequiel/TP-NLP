@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.079,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se dice demócrata, pero de demócrata no tiene nada. Este gobierno no tiene nada de democrático.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repito, viví la represión. La represión de ayer fue brutal; recuerdo la noche de la caída de Malvinas, la brutalidad del 30 de marzo… pero no recuerdo algo tan terrible desde 2001.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer hubo periodistas, hijos de puta, incluso de nuestro propio canal (y en esto quiero ser claro, porque hijos de puta hay en todos lados), que trataron de justificar la violencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se está peleando por su vida un fotoperiodista, y tiene una responsable directa: Patricia Bullrich, con las manos llenas de sangre. Y hay un responsable aún mayor: la ley que permite todo esto.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Militar la represión es el límite. Justificar el intento de asesinato de un fotógrafo… de eso no se vuelve.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos gobiernan gente de mierda, insensible, que disfruta del sufrimiento ajeno.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si sos un hijo de puta, sos un hijo de puta. Si sos un periodista mileísta, sos un periodista del régimen.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2517
+}

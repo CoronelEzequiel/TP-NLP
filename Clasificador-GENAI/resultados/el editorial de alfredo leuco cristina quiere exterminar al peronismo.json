@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina está desarrollando exitosamente su plan de desmantelar al peronismo histórico.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las adhesiones a esa falsedad monumental de que ella es honesta y una perseguida, convierten al viejo partido del general en cómplice de sus delitos de lesa humanidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina está cada vez más frágil en todo sentido, pero cada vez impulsa acciones más extremistas y violentas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dentro de la ley, Cristina no puede lograr la impunidad que tanto la desespera.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso tiene que apelar a un golpe de Estado contra la justicia, uno de los pilares de la República.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Está claro que el cristinismo se alimenta de la corrupción, la violencia, el odio y el vandalismo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El peronismo en general y el kirchnerismo en particular han sido los movimientos políticos que más ejercieron la violencia en todas sus formas, incluso asesinándose entre ellos, como ocurrió entre Montoneros y la Triple A.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Necesita Cristina algún tipo de tratamiento que cambie su ira y su comportamiento psicopático, como alguna vez la caracterizó Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El objetivo inmediato es meterle pánico a los jueces que a fin de año tienen que expedirse sobre el pedido que hizo el fiscal Diego Luciani de 12 años de prisión.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, se preparan para dar la gran batalla para voltear a su propio gobierno si Cristina es condenada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2122
+}

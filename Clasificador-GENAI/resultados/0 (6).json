@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pretendía arrastrar a toda la coalición al apoyo de un candidato que estaba muy lejos de lo conversado y del espíritu del conjunto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Juntos por el Cambio debe recomponerse sobre la base de que un sector del PRO, en caso de un gobierno de Javier Milei, será oficialista.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desde el radicalismo, seremos oposición, votaremos las leyes correspondientes y defenderemos nuestro modelo de desarrollo con justicia social y cuidado de las instituciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei expresa una derecha reaccionaria, casi fascista, incompatible con la historia del radicalismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa y el oficialismo tienen un problema de praxis política que nos impide alcanzar consensos preelectorales, algo que ocurre en otros países.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Defenderemos las instituciones y nuestro modelo de desarrollo económico y social.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1913
+}

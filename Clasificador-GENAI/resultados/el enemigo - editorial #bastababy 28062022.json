@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy es el Día Mundial del Orgullo. Lo veo bárbaro, pero no veo bárbaro que las cosas se hagan por decreto, no por voluntad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Elegí un camino que me dio buenos resultados, pero fue el camino de creer que el que no es como uno, es enemigo.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ellos les importan las siglas LGTB+,  los \"otres\",  la \"maestre\" y demás palabrería para distraernos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No te quejes con referentes como Miriam Lewin o Estela de Carlotto; nadie te discrimina.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras Argentina se desmorona, discutimos si me llamo Marte, Marti o Malta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1882
+}

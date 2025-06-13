@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.486,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuando el delegado regresa, les dice con cara de derrota: “Nos cagaron, entre ellos solos”.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La incorporación de Miguel Ángel Pichetto o de Martín Lousteau a Juntos por el Cambio, a último momento, fue en cierta medida una confesión de que el oficialismo no podía garantizar la gobernabilidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras que la elección de Alberto Fernández y de Sergio Massa fue una concesión del kirchnerismo y de Cristina Fernández de Kirchner, especialmente a los poderes fácticos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el giro del macrismo en los últimos días [...] es muy difícil calificar a ese espacio como de centroderecha.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que sucede es que son conscientes de que estamos en un país con una crisis grave, una sociedad agobiada, bajo la presión del Fondo Monetario Internacional y en un escenario mundial complejo y adverso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando discutimos las cuestiones concretas, se termina la poesía politológica de centroizquierdas y centroderechas abstractas, de un país en armonía.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y cuando todo se corre a la derecha, es cuando más necesarias son las batallas, las propuestas y, sobre todo, las ideas de izquierda.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2053
+}

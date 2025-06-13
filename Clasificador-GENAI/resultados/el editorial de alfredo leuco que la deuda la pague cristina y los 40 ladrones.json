@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.86,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Lo mejor para nuestra Argentina es que la deuda con el FMI la paguen los ladrones, los corruptos, los evasores, los estafadores y los lavadores de dinero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gran diferencia es que yo creo que la primera en la lista debe ser Cristina Fernández de Kirchner, que es la jefa política de la senadora di Tullio.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El gremialista mafioso, el \"Caballo\", amigo de Cristina Fernández de Kirchner, es solo una muestra de lo que hacen e hicieron otros de su mismo trabajo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Para poder avanzar en esa reparación, es necesario que los kirchneristas y peronistas voten la ley de extinción de dominio que presentó la diputada Graciela Ocaña.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El día que no haya impunidad para nadie, aunque se llame Cristina, habremos refundado la democracia o, por lo menos, habremos firmado un nuevo contrato democrático que incluya la transparencia, la ética y la honestidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2042
+}

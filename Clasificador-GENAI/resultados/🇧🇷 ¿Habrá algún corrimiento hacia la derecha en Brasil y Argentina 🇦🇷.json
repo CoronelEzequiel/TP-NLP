@@ -1,0 +1,36 @@
+{
+  "texto_id": "brasil_como_espejo_de_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Desapareció el centro. El gran partido que competía con el PT, que era el PSDB, el Partido Social Demócrata de Brasil, el partido de Fernando Henrique Cardoso, el partido también de Alckmin, el vicepresidente de Lula, el partido de Serra, de los candidatos que compitieron todo el tiempo contra Lula, sacando el 40% cuando Lula sacaba el 48%, desapareció.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O sea, lo que se ve aquí, tanto en las elecciones de Chile como en las de Brasil, es la desaparición del centro, el corrimiento de la izquierda, en este caso el PT y Lula, hacia lo que sería una centro izquierda y, como contraposición, en lugar de una centro derecha, una ultraderecha.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son, como decíamos, dos rechazos mutuamente excluyentes. Lula, como pasa en la Argentina con Cristina Kirchner, es más que el PT.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el planteo de mutuamente excluyente Lula-Bolsonaro termina siendo el de Cristina-Milei o un corrimiento a la más halcón y más derecha de Juntos por el Cambio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aunque no quieras volver a lo que tenías antes, no puedes continuar con la regulación del mundo capital y trabajo en que el trabajador no tiene ningún derecho.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4637
+}

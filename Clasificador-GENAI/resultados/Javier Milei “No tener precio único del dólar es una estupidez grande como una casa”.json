@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_dolar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay un texto que escribió en su momento, ya hace unos años, el Premio Nobel Joseph Stiglitz junto con el exministro Martín Guzmán, en el que explica los beneficios de la existencia de múltiples tipos de cambio para el desarrollo de la economía.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenés 40 precios para el mismo bien, es una estupidez del tamaño de una casa, que es lo único que puede hacer, es coordinación, que es lo único que puede causar es daño.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo perdido que está el gobierno, lo desorientado que está el gobierno, y las mini devaluaciones que va haciendo por todos lados son cepos que se van corriendo de una parte a otra, pero que muestran un estado de agotamiento y que de ninguna manera demuestra que está la luz a la salida del túnel, sino que esa luz hoy se ve muy apagada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llama “Real Exchange Rate Policy for Economic Development”, o sea, políticas de tipo de cambio real para el desarrollo económico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2422
+}

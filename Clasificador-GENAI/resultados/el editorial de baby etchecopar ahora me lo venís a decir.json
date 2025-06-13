@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.689,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La conducta de algunos funcionarios públicos es inaceptable.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una mujer puede vestirse como quiera sin que eso justifique un abuso o violación; el agresor debe ser encarcelado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inacción ante casos de corrupción, como el de Alperovich o el prolongado tiempo que Mene permaneció impune a pesar de las evidencias en su contra, es una muestra de la falta de justicia en nuestro sistema.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La falta de movilización ciudadana ante la corrupción en el Senado revela una desconfianza mayor hacia los senadores que hacia los delincuentes encarcelados.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La hipocresía de quienes hablan de \"Navidad sin presos políticos\" es evidente, ya que se refieren a delincuentes comunes y no a presos políticos, que ya han sido liberados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta maniobra buscaba desviar la atención de los problemas económicos, como los dejados por la gestión de Macri, y beneficiar a Cristina Fernández de Kirchner.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Debemos estar atentos a estas maniobras de manipulación y no dejarnos engañar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La indiferencia ante la corrupción y la impunidad de funcionarios públicos como el gobernador violador que recibió una condena leve, dejando a la víctima como la culpable, es inaceptable.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos exigir justicia y no permitir que esta situación continúe.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1831
+}

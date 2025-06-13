@@ -1,0 +1,96 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.706,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sabemos que son momentos duros y difíciles, pero no tenemos duda alguna: los argentinos vamos a salir adelante, vamos a ser el país que nos merecemos y lo vamos a lograr, no por obra y gracia de gobernantes iluminados, sino por lo que esta plaza está cantando: porque un pueblo unido jamás será vencido.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy creo que ese es el logro más grande que hemos conseguido entre todos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay muchas acechanzas: los autoritarios y los corruptos de siempre, a los que hay que sumar la más terrible de las novedades, los narcotraficantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso hay que fomentar el diálogo, que no sea formal ni bobo y que valore los consensos y los disensos, que construya una nueva agenda de Estado indestructible de la que se hagan cargo todos los gobiernos que vengan, sin que importe su camiseta partidaria.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Combatir la marginalidad, la inequidad y la droga, ¿acaso no es una tarea titánica y de todos?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, toda la ayuda solidaria del Estado a los sectores excluidos, toda la potencia represiva del gobierno a las mafias, a los narcos y a los criminales callejeros que nos arruinaron la vida en comunidad y asustan a nuestras familias que quieren vivir, trabajar o estudiar en paz.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy hay demasiada irracionalidad y fractura social que nos amenaza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los días, en el planeta en general y en la Argentina en particular, aparecen presuntos caudillos que ofrecen soluciones mágicas, violentas, autoritarias y discriminatorias.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este acto aparateado de La Cámpora es una profanación de la verdadera democracia, una apropiación de los valores del pluralismo y los méritos de todos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nuestra democracia es sagrada y debe ser un arcoíris de muchas camisetas y no solo la camiseta de Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los monstruos populistas de extrema derecha y extrema izquierda solo producen más daño y más miseria, y encima recortan las libertades.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Primero: no descansar hasta que se termine el hambre y la pobreza en la Argentina.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Segundo: transformar la justicia para que vuelva a ser un lugar intachable al que todos respetemos y nos sometamos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tercero: extirpar del sistema a los corruptos y a los golpistas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuarto: revolucionar la educación para que de verdad sirva para igualar oportunidades.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y quinto: recuperar la patria como un poncho, una contención y un patrimonio de todos, y no solo de la mezquindad de algún partido o facción política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, cerrar esa fisura social es la tarea de las tareas, pacificar el país, eliminar la venganza y resucitar la hermandad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3205
+}

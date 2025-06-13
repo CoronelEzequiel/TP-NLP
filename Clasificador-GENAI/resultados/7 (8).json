@@ -1,0 +1,46 @@
+{
+  "texto_id": "Juan_Manuel_Abad_Medina",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.107,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "“Me interesa siempre charlar sobre este tema con un peronista”, afirma Abad Medina, “porque refleja la horrenda pesadilla que vivieron los peronistas a partir de 1955.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Abad Medina comparte la opinión de que el bombardeo fue un acto de violencia y salvajismo sin precedentes en la historia de la humanidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este hecho, según Abad Medina, buscaba borrar al peronismo del mapa, incluso llegando al asesinato del general Perón.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Compara la retórica actual de algunos dirigentes políticos que hablan de \"exterminar al peronismo\" o al \"kirchnerismo\", con la intención de borrar la historia peronista: la palabra \"Perón\" prohibida, símbolos peronistas destruidos, estatuas mutiladas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Abad Medina enfatiza el deseo de algunos de \"solucionar\" los problemas argentinos exterminando a una parte de la población, una ideología que perdura en el tiempo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, reflexiona sobre los enfrentamientos internos del peronismo, argumentando que se ha avanzado en la forma de resolverlos, a diferencia de la violencia del pasado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Abad Medina concluye que la responsabilidad por la represión no es del peronismo, sino de quienes privaron a Argentina de la democracia durante 18 años.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1619
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "informe_supermercados",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cuando Milei dice que es el ajuste más grande de la historia, genera situaciones como esta, que nunca han ocurrido, que provocan un enorme sufrimiento y de las que no sabemos cuáles serán las consecuencias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando uno lee algunas notas internacionales, dicen que Argentina es un laboratorio para experimentar hasta dónde puede llegar la derecha o la extrema derecha. ¿Qué quiere decir hasta dónde puede llegar? Quiere decir hasta dónde van a soportar los pueblos, en este caso el pueblo argentino, este ajuste.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los pibes ahora van a empezar a cortar calles. Ya escucho a los periodistas de la derecha que dicen: 'No, cortar calles está mal'. Miren muchachos, estuvieron tres meses cortando calles en 2008 para defender los intereses del campo, y nunca los escuché decir que estaba mal. Cortar calles está bien para defender a los estudiantes, está bien.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una porción de la dirigencia que resiste, pero una parte muy importante es cómplice. Milei no está actuando solo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Boric gobierna Chile después de un levantamiento de estudiantes. Por la profundidad, por el volumen, por la importancia que está teniendo la universidad, presten mucha atención día a día a lo que va sucediendo, porque esto va creciendo en cantidad de universidades y en las acciones que van tomando.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2004
+}

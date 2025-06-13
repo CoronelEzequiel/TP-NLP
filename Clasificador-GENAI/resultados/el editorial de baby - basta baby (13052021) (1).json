@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy estaba pensando y haciendo un recuento de otros temas, como la gente que muere todos los días por la inseguridad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad, no es culpa ni de la sociedad media-alta, ni del chico que usa la gorra; la culpa es del gobierno, que los ha estigmatizado y lo muestran todos los días por televisión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mueren tres… ¡No, mueren 500 o 600 personas! Pero ellos están preocupados con la campaña: a ver cómo arman la lista, a ver a quién ponen, a ver a quién denostan… y, por supuesto, todo termina con un gol por elevación a Macri: ¡la culpa de Macri!",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La verdad es que estamos hechos mierda, y creo que, aunque se enoje todo el mundo conmigo, todos los que no piensan como nosotros, hay que decirle la verdad a la gente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Están gobernando para Cristina Fernández, están gobernando para la mentira, están gobernando para el embuste, y no están gobernando para la gente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2826
+}

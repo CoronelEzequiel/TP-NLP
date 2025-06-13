@@ -1,0 +1,61 @@
+{
+  "texto_id": "Código de silencio y sin pedido de perdón",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Despidieron a Ginés González García, bajaron del avión al diputado Valdés y al ex canciller y senador Jorge Taiana, en lo que parece una especie de \"minimanipulación\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por ejemplo, el ministro Ferrari, quien se vacunó el 15 de enero y el 13 de febrero con la segunda dosis de Sputnik V como si fuera personal de salud —siendo ingeniero—.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Carlos Zannini, procurador general del Tesoro de la Nación (jefe de los abogados del Estado), quien debió defender al Estado en cada juicio, mintió al vacunarse él y su esposa como personal de salud.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Verbitsky, en su \"disculpa\", dice que sus explicaciones son para los lectores de su blog, quienes siguen su trabajo y militancia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Luego admite un error grave, se arrepiente, pide disculpas y asume las críticas, pero menciona los mensajes de solidaridad recibidos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después, en una prosa interesante, defiende a Ginés González García, elogia su gestión y deplora su salida, alegando que los vacunados pertenecían a los grupos objetivo de la campaña.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Critica el neoliberalismo, menciona que su exesposa, médica de 70 años, no pudo inscribirse para vacunarse; ironiza; y termina diciendo que tiene el consuelo de constatar cuánta gente digna y pura lo rodea.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La justicia está tan degradada que hay gente como Moyano que se vacunó porque es presidente de dos obras sociales, argumentando que las vacunas eran para sus empleados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un punto importante es que Pablo Moyano, hijo de Hugo Moyano (doblemente vacunado), llamó \"traidor\" a Pimienta, secretario general de gremios judiciales, quien criticó públicamente la acción de Moyano, quien vacunó también a su esposa e hijo de 20 años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este pacto se rompió.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2102
+}

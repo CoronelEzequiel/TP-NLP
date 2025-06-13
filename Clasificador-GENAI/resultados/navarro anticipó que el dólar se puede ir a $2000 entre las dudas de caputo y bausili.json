@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Quiero destacar una afirmación del ministro Massa del viernes que me preocupa: el traspaso de los pasivos del Banco Central al Tesoro.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para concretarlo se necesitaría un ajuste fenomenal, algo imposible dado que la recaudación viene cayendo —un 19% en términos reales este mes—.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI le pidió a Massa que unifique los tipos de cambio (que el oficial y los paralelos cuesten lo mismo) y que termine con el \"Blend\", sistema en el cual el 80% de las exportaciones se canalizan a través del Banco Central y el 20% a través de dólares paralelos, principalmente el contado con liquidación, que es el que marca el precio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si el FMI le pide al gobierno liberar el precio, y este precio se ha mantenido gastando la friolera de nueve mil millones de dólares por semestre (18 mil millones anuales, 72 mil millones en cuatro años), esa situación es insostenible.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Existe un riesgo inminente de una corrida cambiaria y de una fuerte suba del dólar.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos ante una posible crisis inminente en Argentina, motivo por el cual Massa y Milei realizaron sus apariciones públicas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1789
+}

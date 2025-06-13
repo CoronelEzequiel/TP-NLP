@@ -1,0 +1,36 @@
+{
+  "texto_id": "alerta_amarilla",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.14,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los recursos del Servicio Meteorológico Nacional se han recortado drásticamente en el último año.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mantenimiento, la reparación y la limpieza de la infraestructura del Servicio Meteorológico Nacional en 2024 recibieron un 51% menos de fondos que en 2023; la mitad en términos de poder adquisitivo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se iba a instalar 10 nuevos radares para cubrir el 70% del territorio continental argentino, pero este proyecto se canceló el año pasado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La paradoja es que la Ministra de Seguridad menospreció un organismo desmantelado y desfinanciado, cuyos científicos gozan de reconocimiento internacional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Observemos la partida de radares: los 3.729 millones de pesos ejecutados solo permitieron continuar obras ya iniciadas, pero la reducción a la mitad de los fondos impidió la operatividad de los radares, cruciales para emitir alertas tempranas y salvar vidas en eventos extremos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1392
+}

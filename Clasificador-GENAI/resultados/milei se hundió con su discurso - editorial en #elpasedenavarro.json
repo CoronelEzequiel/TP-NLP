@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se escuchó a un político que claramente no mide las consecuencias de sus actos sobre los argentinos, pero también sobre sí mismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, que no cree en políticas contracíclicas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no viene de ninguna hiperinflación; la inventa.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas medidas no son sostenibles en el tiempo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El hecho de que ayer nadie lo viera, que la gente apagara la televisión y que solo hubiera 6000 personas en YouTube muestra la indiferencia y el descreimiento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1526
+}

@@ -1,0 +1,91 @@
+{
+  "texto_id": "discurso_milei_empresarios",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.216,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El discurso de Javier Milei ante un grupo selecto de empresarios en el Consejo de las Américas tuvo un mérito: el candidato de La Libertad Avanza expuso abiertamente, sin eufemismos, sus posturas.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por ejemplo, habló abiertamente de \"robo\", impugnó la justicia social, abordó la tensión entre necesidades infinitas y recursos finitos, y discutió sobre derechos y obligaciones.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Insisto: me refiero a los *temas* planteados, no a su *contenido*, que es deficiente.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El discurso está plagado de falacias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante los empresarios, Milei mostró una actitud mucho más moderada que en otras ocasiones, un cambio notable en su comportamiento.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por ejemplo, afirmó que la relación entre empresarios y trabajadores es una cooperación social, donde el éxito empresarial redunda en el beneficio de los trabajadores y de la sociedad en general.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es falso, históricamente y conceptualmente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la prosperidad empresarial beneficiara a los trabajadores, ¿por qué la mayoría de los empresarios reclaman mayor flexibilidad laboral, menores salarios, más ajustes y menos derechos laborales?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto indica intereses irreconciliables con la supuesta cooperación que menciona Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei también sostuvo que la modernización del mercado laboral, con condiciones más flexibles, resolvería los problemas económicos y de empleo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Falso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La justicia social implica redistribuir la riqueza de los que tienen mucho a los que no tienen nada.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al trabajador se le paga el valor de mercado de su fuerza de trabajo (salario), pero se le expropia el valor de su trabajo total.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La riqueza no se genera únicamente en el sector financiero o cripto, sino que se basa en la explotación previa en la producción y la circulación.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si los trabajadores no trabajaran, los empresarios no podrían disfrutar de sus lujos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos aprovechar este debate público para exponer las mentiras y mostrar a los trabajadores dónde reside el verdadero robo, quiénes son los expropiados y quiénes los expropiadores.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2149
+}

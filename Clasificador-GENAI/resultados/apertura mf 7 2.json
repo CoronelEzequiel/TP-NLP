@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a analizar cuatro temas: jubilaciones, planes sociales, precios justos y juicio político, donde ustedes van a ver y escuchar que el mismo tema que plantea, en un momento, el oficialismo, la oposición de ese momento se le opone con determinados argumentos, y viceversa, cuando el que era oposición pasa a ser oficialista, propone lo mismo que antes había criticado, e incluso peor, el que antes lo había propuesto lo critica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pues ahora tenemos a Vidal criticando a la oposición por no tratar la ley de la moratoria previsional, esto fue hace tres días. Los diputados de \"Juntos por el Cambio\" no fueron a trabajar, no bajaron al recinto, no hicieron lo que corresponde que haga un legislador, que es presentarse a discutir las leyes, una ley que es muy importante porque hay casi 800 mil personas que necesitan esta ley.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La crítica que se le hace al actual gobierno ahora más anuncia una auditoría de planes sociales. \"Vamos a encarar una política de reordenamiento de los programas sociales, poniendo foco en tres ejes: la vuelta al mercado de trabajo, el fortalecimiento del trabajo asociativo y cooperativo, y la protección de aquellas situaciones de grupos de vulnerabilidad\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora genera un poco de casi risas y ahora el juicio político a la Corte Suprema de Justicia. En este caso, Jorge Capitanich, gobernador del Chaco, pidió el juicio político por el mal desempeño de la Corte.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo tanto, contradicciones que se ven, que, en realidad, la discusión siempre va más allá de la verdad, de lo justo, y tiene que ver con cómo cosechar en cada uno de los momentos agua para su propio molino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3085
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_alberto_fernandez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta maldita deuda con el FMI tiene un peso impresionante para la economía argentina, y en una situación donde la economía argentina se encuentra más compleja, producto de una sequía que nos privó de 20.000 millones de dólares, se darán cuenta de que es un tema complejo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un sector de la política argentina que está preocupado por los intereses de algunos pocos, no por el bienestar general del país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha significa quitarles derechos a los que trabajan, quitarles derechos a los que estudian, quitarles derechos a los jubilados, volver a poner a la Argentina en una parcela del mundo al servicio de una potencia, y eso es lo que yo digo, y perder autonomía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que se trata es de cerrar la negociación y punto. Simplemente, estas cosas cuanto antes se resuelven, mejor, porque da certidumbre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Milei, en Patricia Bullrich, en todos ellos. Horacio Rodríguez Larreta también. En todos ellos.",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8893
+}

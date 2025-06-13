@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.876,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina intenta dinamitar la democracia, demoler la división de poderes, y en ese camino logró que el peronismo se suicide políticamente con ella.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina fue la jefa de la asociación ilícita que saqueó al Estado, De Vido fue el gerente que organizó toda la corrupción, y José López uno y solo uno de los recaudadores.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero para una gran mayoría de los argentinos Cristina será recordada como la mujer más corrupta de la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su voracidad y bulimia por el dinero y el poder demostraron que no tiene límites.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina está en el peor momento de su vida política y por eso se quiere llevar puesto el peronismo con ella.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina debería confesar que no hay ningún \"pelotón de fusilamiento\" mediático ni judicial, que se exhibieron con rigurosidad toneladas de pruebas documentales, audios, testimonios que justificaron largamente el período de 12 años de prisión, la inhabilitación de por vida para ejercer cargos públicos y el decomiso de mil millones de dólares que se robaron solo en esta causa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue todo patético y decadente, manotazos de ahogada.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nunca más corrupción de Estado.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos elegir nuestro futuro: República Argentina o República Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2277
+}

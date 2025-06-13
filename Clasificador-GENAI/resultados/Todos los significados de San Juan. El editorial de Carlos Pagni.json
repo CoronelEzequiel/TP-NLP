@@ -1,0 +1,56 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El triunfo de la oposición después de 20 años de continuidad de gobierno peronista, rompe esa continuidad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el manejo de recursos provinciales como si fueran recursos familiares o propios; en este caso, el manejo del avión sanitario de la provincia, que fue utilizado inclusive para hacer viajes a Europa de carácter deportivo",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el abuso de poder. Ahí está el problema de esta derrota del peronismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uñac había sido vicegobernador de Gioja, fue dos veces gobernador, pretendía una tercera gestión, es decir, una segunda reelección como gobernador, violando la prescripción constitucional",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "en octubre, tanto en San Juan como en San Luis, se eligen senadores, es decir, son dos de las provincias donde se disputan senadurías nacionales.  la mayoría peronista del Senado podría estar amenazada.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es un candidato pro mercado, pro empresas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la inflación, que es el tema central del que cuelgan todos los demás problemas de la economía, que empeora y empeora especialmente desde que Massa es ministro",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "caída en el ingreso: 15,74%. ... 6,95 de caída. ... 5,33 de caída del ingreso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una polémica que se encendió mucho con Elisa Carrió en las últimas horas, donde ella vincula a Massa y a Malena Galmarini con el narcotráfico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8668
+}

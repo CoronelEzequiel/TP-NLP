@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros pertenecemos a una tradición que tiene tres, cuatro siglos, que está basada en la siguiente idea: somos personas libres que cedemos parte de nuestra libertad para constituir un Estado que nos administre mejor, pero que preserve más nuestra libertad, que nos permita ser más libres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pregunta es hasta dónde una economía más autoritaria no requiere de una política más autoritaria.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el caso del traslado de los jueces Bertuzzi, Bruglia y Castelli.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiere decir que aparece otro tema en la Corte muy importante, porque en el fondo lo que va a tener que resolver la Corte es si la ciudad es o no una provincia, para simplificar mucho.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pregunta es: ¿Cristina Fernández de Kirchner, que ya se llevó puesto al poder ejecutivo desde el Senado, se lleva puesta también a la justicia?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6447
+}

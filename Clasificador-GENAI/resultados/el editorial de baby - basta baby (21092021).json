@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.617,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La pica es que nadie quiere escuchar a los políticos; aquí no se ve que vengan.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El papelón que está haciendo el gobierno es escandaloso, y eso lo pone nervioso, se agarra del caso Quisilón.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora Cristina ya no me queda nadie.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que el peronismo, que pudimos sacar a la gente a la calle, la semana que viene, hasta el final de la calle, los grupos sociales que vienen a tener poder en la calle, quieren apropiarse de la calle.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vayan a fiscalizar porque son capaces de hacer cualquier cosa con tal de tener un voto más.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y que la gente no se olvida, siga aprovechando estos grandes minutos que me da el canal para recordarles que son los mismos que nos han fallado con la vacuna, los mismos que nos han fallado con la inflación, los mismos de Santa Fe, los mismos de Antonio Llinás, los mismos de López, los mismos de Buñuel, los mismos de Manuela. ",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que aliviar la renta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es la hora de las fábricas, la hora de las empresas, la hora que salen las cocas y que el obrero vaya a trabajar y sea lindo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina no tiene dignidad y no se olvida que se lo acabaron la vida.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y segundo, todos les piden, por favor, encarecidamente, vayan a descansar, porque nos van a quedar con la elección a toda costa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Salgamos a defenderla a todos. No por nosotros, sino por nuestros hijos y nuestros nietos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Que haya gente que pueda ir a trabajar, que tenga trabajo en blanco, digno, que pueda sacar crédito, que pueda sacar su prestamo de crédito, y vivir obviamente como el resto del mundo, que pueda pasar de novia a esposa. Y la que sea soltera sin marginar.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3044
+}

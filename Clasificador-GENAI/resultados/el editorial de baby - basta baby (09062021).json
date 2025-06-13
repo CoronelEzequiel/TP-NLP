@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo más importante que tenemos es esta gente, y estoy seguro de que todos coinciden en el repudio a las declaraciones del operador de sonido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Rechazo total a las estupideces que se dijeron hoy sobre México y Brasil.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que aclarar algunas cosas: nadie quiere ser comunista; esa es una idea que se le atribuye a Cristina Fernández de Kirchner y a quienes la rodean.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no voy a defender las acciones de esa gente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gente del campo debe abrir los ojos, porque eso es lo que pretenden.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me da mucha vergüenza, sinceramente, que este gobierno nos represente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí me gusta la centroderecha, pero estoy hablando de que están destrozando la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante el gobierno de Macri sufrí mucho.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante el gobierno de Macri, el kirchnerismo nos envió a Los Palluelitos Verdes, la agrupación Eva Perón, las feministas, porque estábamos en contra.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dejémoslos cocer a fuego lento durante dos años más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El país no es de Cristina Fernández de Kirchner, ni de Alberto Fernández, ni de Máximo Kirchner. El país es de todos los argentinos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les vamos a ganar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2386
+}

@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.482,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Desde su nombramiento, sin embargo, han quedado claras sus simpatías políticas e ideológicas.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por un lado, ha sido evidente su identificación con visiones anticapitalistas, próximas al discurso que aquí se conoce como \"pobreista\", lo que lo acercó más a sectores del kirchnerismo que a la oposición.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se especuló mucho sobre las contradictorias posiciones políticas del pontífice.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con la llegada de Mauricio Macri al poder, el Papa no ocultó su malestar con el entonces presidente, generando sorpresa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su posicionamiento ideológico se profundizó con sus alianzas con figuras como Juan Grabois e incluso se le atribuye un rol clave en la unidad del peronismo que llevó al regreso al poder de Alberto Fernández con Cristina Fernández de Kirchner como vicepresidenta.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La sanción de la ley de interrupción voluntaria del embarazo en Argentina marcó la primera ruptura definitiva.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A comienzos de 2021, el pontífice intercedió por Argentina ante el Fondo Monetario Internacional y Estados Unidos, donde su buena relación con Barack Obama y Joe Biden facilitó el entendimiento.",
+      "score": 0.45,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La distancia entre el Papa y el gobierno argentino aumentó con los escándalos durante la pandemia y el agravamiento de la crisis económica.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La carta pública que el Papa envió al presidente, solicitando soluciones para los más vulnerables y apelando a la dignidad de las personas, puede interpretarse de diversas maneras.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tras la masacre de Bucha, recién condenó las atrocidades.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su postura considerada prorrusa tiene adeptos en el oficialismo argentino, aunque la realidad de la guerra parece no dejar margen para ello.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2443
+}

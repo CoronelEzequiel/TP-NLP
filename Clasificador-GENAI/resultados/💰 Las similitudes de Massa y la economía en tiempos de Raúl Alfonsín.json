@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_inflacion_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Creemos que sería lógico suponer que él tuviera en mente hacer un plan antiinflacionario, como fue en su momento el Plan Austral de Alfonsín.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En agosto fueron las elecciones, fueron pocos meses después, y el radicalismo sacó prácticamente el doble que el PJ, sacó 44% contra 24% del PJ.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, desde el punto de vista electoral, un plan antiinflacionario puede ser expansivo, puede generar condiciones de mejora en los meses siguientes y producir un beneficio electoral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Otro elemento que hace suponer que Massa pueda estar pensando en un plan antiinflacionario es el éxito que tuvo su visita a los EE. UU.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "como, por ejemplo, no más alineamiento ni relaciones cercanas o estrechas con China o con Rusia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Tenemos que enfrentar la inflación con determinación porque es la mayor fábrica de pobreza que puede tener cualquier país.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, ahí es donde está la duda o la posibilidad que tendría Massa de hacer algo más controlente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aquí, para mí, hay que entender que no se entiende que la que la vez es de un ajuste en este momento, cuando ya nadie quiere ni bonos argentinos ni pesos, y ese tener una situación fiscal totalmente equilibrada.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy preocupante, muy preocupante. Yo digo que el argentino, que está acostumbrado a vivir con inflación, cree que, que se yo, siendo inflación en un año, es el doble de peor que 50 y no es así.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4091
+}

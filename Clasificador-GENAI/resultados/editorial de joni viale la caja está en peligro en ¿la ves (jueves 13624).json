@@ -1,0 +1,181 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.719,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy vimos dos argentinas, una argentina violenta que incendia un auto, que incendia un auto, que arroja piedras y que debate el ejercicio de la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y otra argentina, la de los trabajadores que están esperando con profundo dolor y sacrificio que se respete la votación que en noviembre del año pasado eligió un cambio, eligió que en Argentina realmente volviera la seriedad y se cambiara una situación que se perpetuó en el dolor por muchos años.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero, porque se aprobó la ley siendo ultraminoría, ultraminoría.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y segundo, y esto es muy importante, Bullrich, porque lo intentaron de vuelta, pero esta vez no pudieron, iban a invadir la cancha antes del penal, pasó, pasó el plan, buscaron pudrirla, buscaron entrar al congreso, buscaron dar un golpe político, buscaron el muerto, yo estoy seguro que es así, mirá.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dame el resumen, acá tengo, mirá este es el resumen del desastre que hicieron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual el problema no es la plata, eh, el problema es la violencia como forma de acción política.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso la decisión política para mí del Gobierno Nacional y del porteño de ponerse firme fue tan o más importante que la ley en sí misma, las dos cosas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Había dos mensajes muy potentes que había que dar al mundo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero es, se puede gobernar, se pueden sacar leyes negociando, francos, todo bien.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero tan o más importante, el mensaje político era, se terminó la Argentina violenta, patotera, extorsiva que te pasa por arriba si no hacés lo que ellos quieren.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En dos palabras, lo que funcionó fue la ley y el orden.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hacía falta esto en la Argentina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No puede ser que se junten unos legisladores y digan, che, nos van a invadir, cuidado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta ahora el cambio era timorato.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta vez no se te va a enojar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo te recuerdo que el kirchnerismo hizo lo imposible para que esto se caiga.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después estuvo el Papa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos mostrando todo el quilombo que armaron.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi ley es un enfermo mental.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La ley hizo bien.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá lo malo que habrá sido tu gobierno que un enfermo mental sacó 14 millones de votos, ¿no?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Bueno, ha comprado una senadora en Ecuador.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por supuesto que la ley, dista de ser la ideal.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Existe la ley posible.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Conclusión, el gobierno tuvo que hacer pocos cambios muy importantes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muy importante para generar laburo privado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es la ley soñada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y hay algo curioso, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso digo, la patria no está en peligro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La caja está en peligro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo tanto, tenemos la primera victoria política de un gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso que le sale bien es la entrega y la represión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y cuando Bullrich pega, gasea, chorrea, eso le sale bien.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Le pegaron a los diputados del pueblo, le pegaron a la gente, a los periodistas, hicieron tabla rasa con la calle.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 5304
+}

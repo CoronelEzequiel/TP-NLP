@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, tanto la rosca como lo masivo de la manifestación aparecieron nuevamente y abren un nuevo capítulo de condicionamientos a la gestión del oficialismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pablo Moyano diciendo que si el ministro de Economía lleva adelante sus medidas, los trabajadores lo van a llevar en andas, pero para tirarles los rechuelos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué es lo que se puede dialogar con gente que intenta frenar al país y con gente que va en contra de lo que ocurrió en las urnas hace poquito tiempo atrás?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ministro de Economía Luis Caputo no tuvo la valentía de venir al Congreso. Tiene que dejar de apretar a los gobernadores y tratar de buscar acuerdos con los gobiernos provinciales en lugar de amenazarlos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está claro que es un paro de características políticas. Es decir, nada tiene que ver con reclamos legítimos que pudieran tener los trabajadores, porque de hecho los propios impulsadores del paro lo han dicho y lo han partidizado de manera abierta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6052
+}

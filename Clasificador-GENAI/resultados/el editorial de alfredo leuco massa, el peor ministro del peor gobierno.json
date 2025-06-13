@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.857,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La catástrofe económica, potenciada por **Sergio Massa**, lo coloca como el peor ministro del peor gobierno.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Multiplicó todos los desastres que había hecho **Martín Guzmán** y no solucionó ninguno de los problemas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace un año la inflación era del 78%, hoy es del 115,6%, un poco menos que la de alimentos, que es claramente la que más golpea a los que menos tienen y que **Massa** dice defender.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos cuartos entre los peores países del mundo en la inflación de alimentos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La economía está entrando en una estanflación feroz.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, el ministro ajustador tuvo la \"cara de piedra\" suficiente como para decir lo que escucharon: que va a ser el presidente que derrote la inflación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El aumento imparable de los precios pulveriza el salario y los haberes de los jubilados, y la CGT, con **Héctor Daer** a la cabeza, hace campaña por **Massa**.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso no es massismo, eso es masoquismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos números son la radiografía cruel de un país destrozado, no solamente por **Massa**, sino en gran parte por el peronismo que gobernó la inmensa mayoría de los últimos años.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya son alrededor de 30 o más de 30 las grandes corporaciones que huyeron de este gobierno, que solo sabe asfixiarlos con impuestos y con regulaciones ridículas, pese a que son grandes generadoras de fuentes de trabajo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los piquetes de la \"ala montonera\" del gobierno están liquidando el turismo en Jujuy y quebrando a las pymes, a los hoteles y a las hosterías.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina ahora está muda porque no quiere quedar pegada a las \"transas\" con el Fondo Monetario.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La confusión ideológica que **Massa** genera en su espacio es colosal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy aseguró que su candidatura surgió de un \"golpe de palacio\" y que eso implicó un giro a la derecha.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El domingo 13 se abren las urnas y **Massa** va a comprobar el tamaño de su fracaso.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2734
+}

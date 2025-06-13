@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.122,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El hecho de que la intrusión en la casa de una militante de HIJOS, durante la semana del 24 de marzo, donde fue golpeada, abusada sexualmente, amenazada de muerte y donde le dejaron escrito \"Viva la Libertad, Carajo\" en su pared, no sea un tema prioritario para los medios argentinos, es impactante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el juez que ahora lleva el caso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Existe, por lo tanto, una preocupación sobre el futuro de la investigación judicial de este caso.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es necesario responsabilizar a quienes fomentaron esta radicalización.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos calificaron esta denuncia como falsa, pero nosotros creemos a las víctimas, especialmente a las de HIJOS, una organización que lucha por la memoria, la verdad y la justicia en Argentina desde hace 29 años.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si La Libertad Avanza no tiene nada que ver, sería importante que el presidente [nombre del presidente] se manifieste en contra de estos actos violentos, repudiando la intrusión en la casa de la mujer, la agresión, la violación, la amenaza de muerte y la pintada \"Viva la Libertad, Carajo\", además del gnocco encontrado en la vivienda.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nadie se radicaliza solo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos responsabilizarlos por lo sucedido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El intento de asesinato de la Vicepresidenta fue el resultado de años de discurso de odio.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2408
+}

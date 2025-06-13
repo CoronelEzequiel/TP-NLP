@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.525,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Y esa ancla, ese centro de gravedad, es bajar la inflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente de la nación, adoptando una lógica bastante, como vamos a explicar, contraria al pensamiento liberal de mercado, al pensamiento de un, vamos a ponerlo en los términos en que le gusta mirarse a sí mismo, de un narcocapitalista, denunció que había un banco, el Banco Macro, que estaba involucrado, estaba provocando un golpe de mercado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque en todo caso Carballo, del Macro, lo que hizo fue cumplir con la primera cláusula del acta de Mayo, que sacraliza la propiedad privada o en todo caso, irónicamente lo podemos decir, le hizo caso a aquel presidente Milei del Foro del Chaochao que dijo, es un mérito de los empresarios que pongan su patrimonio, su propiedad a salvo de las garras del Estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si gana Trump, probablemente Milei termine siendo casi el único amigo que tiene Trump en América Latina, salvo que este domingo que viene, no, el próximo, el 28, termine ganando Gonzalo Urrutia las elecciones en Venezuela.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8753
+}

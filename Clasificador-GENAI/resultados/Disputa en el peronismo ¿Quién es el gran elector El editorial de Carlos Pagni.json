@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Quienes no me quieren me presentan como una bandida cuyo único objetivo es buscar fueros para protegerme de ir a la cárcel\". Bueno, a esa gente le digo: \"No voy a buscar los fueros\", lo cual no está dicho, pero pretende que se crea que no busco fueros, no soy una bandida, eso otro ya es más discutible, pero es lo que está subliminalmente dicho en mi mensaje.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hacia adentro, la idea de \"no soy candidata a nada\" transmite algo que se filtró después en una reunión que ella tuvo a la noche en Ensenada con un grupo de dirigentes cercanos a ella. Y es la visión, la presunción de que ella se estaría viendo como la líder, la jefa, el gran llamador electoral de un grupo de parásitos que viven electoralmente de ella.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que aparece ahora es una disputa respecto de quién va a modelar la oferta electoral del peronismo y qué orientación conceptual va a tener esa oferta electoral el año que viene.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Kicillof no roba, importantísimo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina usa todo esto para tirar una especie de balde de brea sobre la justicia y sobre la calidad de las instituciones. Y pretende plantear que la discusión de la próxima elección tiene que ser entre democracia o mafias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8808
+}

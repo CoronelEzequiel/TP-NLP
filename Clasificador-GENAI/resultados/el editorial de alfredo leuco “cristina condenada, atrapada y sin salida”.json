@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.883,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La red que tejió Cristina con sus mentiras seriales la tiene atrapada y sin salida.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella ya dijo que no se hagan los rulos y que ya dio todo, pero como le dije ayer, más que dar todo, Cristina se llevó todo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella sabe que se viene una colosal paliza electoral y no quiere poner la cara y convertirse en la mariscal de la derrota.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ella la persiguen las leyes que castigan a los que cometen delitos, y nadie cometió tantos delitos como ella y Néstor.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es la principal responsable de esta catástrofe del Frente de Todos contra todos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre digo que Cristina es la persona que más daño le hizo a la democracia argentina y la que más daño puede volver a hacerle.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2178
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Quizás la nota en Jujuy fue... bueno, hay denuncias por parte de la izquierda de fraude, ya que se esperaba una mejor performance de la izquierda en Jujuy.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con respecto a La Rioja, que es un fenómeno interesante de analizar, primero hay que decir que Quintela planteó, ahora, juntamente con la elección de la reforma constitucional, que también fue avalada por la mayoría de los riojanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es claro que tiene el principal conducto de succión de votos en la alianza Juntos por el Cambio, y es un pequeño laboratorio, la capital de La Rioja, para ver que, efectivamente, eso puede generar incluso compromisos electorales muy fuertes en el distrito donde gobernaba, de hecho, la candidata, la hoy intendenta, Brígida Brígido, sigue diciendo que hubo fraude en las elecciones, pero no, acá lo que hubo es la aparición en el dispositivo electoral de una fuerza que toma votos de lo que antes era el electorado de Juntos por el Cambio.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tomemos nota de eso porque me parece que puede definir en parte la dinámica electoral a nivel nacional.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sabemos que no va a tener proyección nacional de volumen, pero, Mauro, en Córdoba, que fue, recordemos, el distrito que afianzó el triunfo de Juntos por el Cambio en el año 2015.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, ¿qué quiero decir con esto? Todos los análisis que daban por cerrada la elección de octubre, todo lo que daban por finalizada la competencia electoral en favor de la coalición conservadora, tiene que ponerse en suspenso.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La aparición de la ultraderecha, la aparición, en un distrito central, de la candidatura de Schiaretti que puede complicar esa gran diferencia de votos que tuvo en 2015 Juntos, que fue uno de los vértices del triunfo de la fórmula de Macri.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras (***no se especifica el nombre***) está con Morales, Macri afirma una alianza con Schiaretti en Córdoba, voltea la candidatura de (***no se especifica el nombre***) a la provincia, lo pone en capital.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se quiere sacar claramente Macri como alianza conservadora radicalista. Está pensando otra alianza conservadora donde haya protagonismo de un sector del peronismo conservador que hay.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero bueno, volviendo a las elecciones provinciales, lo que vos señalabas muy bien en la introducción, no se puede extrapolar. Algunas pistas y, sobre todo esto, ver que el libertarismo funciona como una gran aspiradora de votos de Juntos, que les hace incluso comprometer distritos que habían ganado, como en el caso de la capital de La Rioja.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2943
+}

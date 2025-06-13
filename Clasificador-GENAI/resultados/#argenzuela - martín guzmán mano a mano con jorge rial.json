@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.291,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El Gobierno argentino ha contraído una considerable deuda con acreedores privados en dólares.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nuestro gobierno, en cambio, ha reestructurado la deuda con los acreedores, protegiendo a la población argentina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ha producido un cambio significativo en la filosofía de la relación entre el FMI y Argentina, pasando de un programa de ajuste fiscal y monetario (congelamiento de la base monetaria y reducción salarial) a uno que prioriza la reestructuración de la deuda, el control de capitales y la inversión estatal en infraestructura y ciencia y tecnología.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay reformas laborales ni recortes de derechos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se busca recuperar el poder adquisitivo de salarios y jubilaciones, afectados por el gobierno anterior.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las negociaciones con el FMI fueron difíciles y exigentes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La renuncia de Máximo Kirchner generó controversia, pero el gobierno se centró en resolver los problemas concretos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El acuerdo alcanzado no incluye reformas jubilatoria o laboral, ni privatizaciones, permitiendo al Estado continuar su rol en la recuperación económica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La meta principal es reducir la inflación, un proceso que será complejo en los primeros meses del año.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La economía argentina ha experimentado una recuperación, con crecimiento económico, aumento del empleo y disminución del desempleo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalmente, la negociación con el FMI ha sido compleja, pero se ha buscado siempre defender los intereses de Argentina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2319
+}

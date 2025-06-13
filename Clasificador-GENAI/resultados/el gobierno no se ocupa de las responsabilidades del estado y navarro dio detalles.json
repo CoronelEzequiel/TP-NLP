@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.139,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es crucial tener un jefe de Estado que no odie al Estado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente se regocija por la baja en el gasto público, pero es un engaño.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En realidad, lo que vemos es un grupo de empresarios tomando decisiones a su favor, no un Estado administrando el país.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las cifras son alarmantes: el PBI cayó un 10% en marzo, la industria un 21%, la construcción un 42%.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se promete una recuperación, pero es improbable.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno no puede levantar el cepo porque no consigue dólares; la economía no se recupera por el atraso cambiario, la falta de obra pública, la incapacidad para aprobar leyes, la falta de gestión, la imposibilidad de conseguir financiación externa o renovar con el FMI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se acumula deuda con bonos entregados a importadores y empresas textiles.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, se pagará a los jubilados con bonos.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los medios afines al gobierno llaman \"accidentes\" a estas consecuencias, pero esta situación no se resolverá fácilmente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1623
+}

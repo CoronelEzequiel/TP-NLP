@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Digamos que hace 48 horas se revivió el tema de la interna; esto lo venimos viviendo desde el 17 de julio, prácticamente desde que asumimos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, en cuanto a \"Avanza Libertad\", nosotros, los diputados y senadores, respondemos a Javier Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que los crímenes de lesa humanidad son parte de la historia negra de nuestro país.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y creo que no tenemos una postura crítica, porque cuando me dicen que los crímenes de lesa humanidad no gozan de la posibilidad de estar en prisión domiciliaria después de 70 años, eso es mentira, porque casi el 80% de los detenidos por crímenes de lesa humanidad están bajo arresto domiciliario.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo soy uno de los diputados que se manifestó en contra cuando se trató el tema de las ganancias y se pedía un piso mucho más bajo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2266
+}

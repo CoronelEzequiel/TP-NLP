@@ -1,0 +1,31 @@
+{
+  "texto_id": "san_cayetano",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Participan diversas organizaciones sociales y movimientos que reclaman paz, pan y trabajo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mi lado se encuentra el señor Gregorio Castro, referente emblemático del Movimiento de la Economía Popular y de la Unión de Trabajadores de la Economía Popular.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los compañeros, Alejandro Ramón, la comisión directiva y el secretariado del sindicato hicieron un gran trabajo para articular la crisis con la necesidad de unidad en el proceso político,  una de las principales negociaciones en el CITRA.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, teníamos la consigna “Techo, Tierra y Trabajo”.  Como parte de esta lucha histórica, agregamos “Paz” y “Pan”, ¿no?  “Techo, Tierra y Trabajo” surgió de la Primera Reunión del Movimiento Popular, luego en el sindicato y en Bolivia. El Papa siempre ha mostrado su apoyo al trabajo de los movimientos populares en los barrios de nuestro país y en todo el mundo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1268
+}

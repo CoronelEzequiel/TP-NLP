@@ -1,0 +1,56 @@
+{
+  "texto_id": "Soledad_Argenzuela",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.344,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros, en señal de solidaridad, sacamos la pica.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo nací musicalmente sin celular. Mi primer casete lo grabé en cinta. O sea, vengo de otra generación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y no ha sido fácil, porque además, como vos decís, apareciste en un momento… en un momento donde el folclore estaba visto de otra manera, cuando vos empezaste.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque yo empecé llenando estadios, pero no tenía ni seguridad, ni camarines, llegabas en medio de la horda de gente, te subían al escenario como quien no quiere la cosa, y a cantar con dos guitarras y un bombo a las 60.000 personas que había, con un sonido que alcanzaba para 20.000.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vivo en un pueblo muy chico, y hay tres escuelas, las tres son públicas. Por eso me dicen: \"Soledad eligió la escuela pública\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque yo también estaba muy inmersa en mi trabajo y era como… a veces cuando metés toda tu energía en un lugar y… y eso se termina por un montón de razones, porque el tiempo pasa, porque tus fuerzas no son las mismas, porque no siempre podés con todo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo grabo ahí sin auto-tune, porque soy de otra época.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y como que muy político lo que puso. Porque de repente, estas cosas que pasan… se ve que también llega la grieta a la música. Yo detesto estas cosas porque en un momento, estoy viendo la televisión… una guerra… Sí, es una estupidez la guerra.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso era Diego Maradona. Con todas las cosas vamos a estar de acuerdo. Todos lo discutimos acá. Pero a mí me genera mucha emoción. Y me alegra haber sido parte de… un poquitito, así chiquitito de su historia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7838
+}

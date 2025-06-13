@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.709,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Un Papa que maneja un grado de cinismo espectacular, porque mucha gente en el mundo lo considera un \"versero\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Grabois, en su pelea en el aeropuerto, le dijo a una mujer: \"yo te robé, ¿a cabo?\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si lo quiere hacer, que lo haga.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Papa es todo eso y mucho más.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto llegaría a avalar la teoría, que no me consta, de que blanqueaba en el Vaticano plata de Chávez proveniente del narcotráfico, y también alguna plata argentina que no tenían dónde esconder.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hubo un momento en la historia del gobierno de los Kirchner en que el problema no era robar, sino dónde guardar el dinero, porque no había más lugar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo lo quiero a D'Elía, no es mal pibe, me ha saludado siempre con mucha ternura, pero se afanaron todo, se afanaron todo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este señor de blanco, el paraguas de protección, que yo vengo diciendo hace cuatro años en este programa, de aquella sociedad del Mercosur, no Mercosur, Mercasur, del narcotráfico en Latinoamérica y los presidentes de ese momento que laburaban más con la plata negra del narcotráfico que con la plata que les entraba por los impuestos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por ejemplo, la valija de Antonini Wilson, que consta en expediente, que traía el retorno de la coima a Néstor Kirchner de la plata que nos había prestado Chávez al 12% cuando el Fondo Monetario nos cobraba el 4%, porque tampoco nos podemos olvidar de los \"dillates\" que han hecho con la plata, no nos podemos olvidar la negociación de Kicillof.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estoy hablando nada más y nada menos que de este \"ciberhueso\" que se fue a Marbella en un yate con una mina paga que le sacó fotos y este \"caradura\" todavía no empezó a demostrar la plata que se había afanado, o que tiene mala vida, no me consta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Perdóneme, con todo respeto, Su Santidad, pero para que yo le crea, tiene que hacer alguna cosa para que yo le crea.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3212
+}

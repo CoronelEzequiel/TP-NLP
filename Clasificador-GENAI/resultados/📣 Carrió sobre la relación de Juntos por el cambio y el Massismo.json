@@ -1,0 +1,46 @@
+{
+  "texto_id": "para_elisa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.514,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Algunas luego se corroboraron en la justicia y fueron verídicas, y otras fueron denuncias que no tenían sustento probatorio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella no le ponía el nombre de casta, pero sí se quejaba de aquellos que hacen de la política un modo de vida personal y finalmente lo transforman en un negocio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había algo en ella de disruptivo que generaba un cimbronazo como el que genera Milei últimamente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la corte funcionaba como garante de impunidad y no como tribunal de justicia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y yo elijo que sean cómplices.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta alianza con Rusia política la hace Cristina, a tal punto que hace una alianza de intercambio, no solo de la vacuna, es decir, ella trabaja para Sputnik.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que yo vi en la cámara jugando Massa con Monzó, que además son íntimos amigos, jugando directamente con el massismo, y ahora también es escandaloso.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3622
+}

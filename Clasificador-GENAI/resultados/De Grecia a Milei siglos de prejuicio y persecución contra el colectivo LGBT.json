@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.292,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estas declaraciones despertaron una lluvia de críticas constantes y la convocatoria a una asamblea de miles de personas en el Parque del Sur, donde se acordó una movilización para el sábado 1 de febrero.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Desde estos foros se promueve la agenda LGBT+, queriendo imponernos que las mujeres son hombres y los hombres son mujeres solo si así se autoperciben. Y nada dicen de cuando un hombre se disfraza de mujer y mata a su rival en un ring de boxeo, o cuando un preso alega ser mujer y termina violando a cuanta mujer se le cruce por delante en la prisión. Sin ir más lejos, hace pocas semanas fue noticia en todo el mundo el caso de dos estadounidenses homosexuales que, enarbolando la bandera de la diversidad sexual, fueron condenados a 100 años de prisión por abusar y filmar a sus hijos adoptivos durante más de dos años. Quiero ser claro: cuando digo abusos, no es un eufemismo, porque en sus versiones más extremas, la ideología de género constituye lisa y llanamente abuso infantil.\"",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En primer lugar, no existe tal cosa como \"ideología de género\". Hay un movimiento feminista y de la comunidad LGBT+ que tienen varias tendencias ideológicas, incluso de centro derecha.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto que dice el presidente es incomprobable, sin basamento científico ni pruebas; simplemente, es homofobia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no fuera así, siguiendo este tipo de teorías, no habría ninguna razón para expulsar a las personas trans del mercado laboral, confinándolas a la prostitución, o a la agresión constante que sufre permanentemente el colectivo LGBTQ+.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nada más antiliberal que no se pongan en nuestro camino: el único camino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4873
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Un paro siempre es el resultado de un fracaso en la negociación política, siempre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la Argentina, hay una situación real de deterioro socioeconómico. No lo digo yo, lo dice el INDEC con las cifras de pobreza, lo dice el Observatorio de la Deuda Social de la Universidad Católica Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay dirigentes políticos, hoy opositores, que cuando eran gobierno criticaban los paros, y hoy los defienden. Y hay sectores del gobierno, empezando por el presidente Macri, que cuando se paraba en la época de Cristina, decían: \"esto es un llamado de atención\", y la defendían.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si de esto, vamos a ver después qué se discute, nos sale una idea superadora de entender que la problemática socioeconómica argentina es muy compleja, exige un debate profundo de todos los actores políticos para encontrar soluciones reales, nos quedaremos con la anécdota del paro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1438
+}

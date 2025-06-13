@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Zelensky fue elegido por el 73% de los votos, tiene 44 años y está entrando en la historia como un héroe valiente que enfrentó al poderoso criminal de Estado, Vladímir Putin.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Goliat es el que más ojivas nucleares posee en el mundo, pero es el invasor expansionista que quiere extirpar la libertad y la democracia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En pocos días Zelensky ya tuvo tres intentos de asesinato y cataratas de fake news rusas diciendo que se había exiliado, pero sigue peleando con coraje y astucia, aunque reconoció que el objetivo número uno de Putin soy yo, así dijo, y el número dos son mi esposa y mis hijos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La guerra desatada por Putin con su fanatismo ya logró un fracaso global más allá del final, que puede ser con una victoria militar parcial, pero su liderazgo y su país están con un desprestigio multiplicado y lo único que logró es despertar a la Unión Europea que estaba dormida en defensa de la libertad y en contra de las prepotencias militares con delirios zaristas y estalinistas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mire, hay infinidad de motivos para gritar contra la invasión rusa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Andrew Roberts, biógrafo de Churchill, bautizó a Zelensky como el Churchill de Kiev.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2012
+}

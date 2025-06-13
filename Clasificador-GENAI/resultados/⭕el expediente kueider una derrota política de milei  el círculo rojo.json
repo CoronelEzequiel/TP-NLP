@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.21,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La expulsión del senador Edgardo Cúder, quien fue encontrado con más de 200.000 dólares mientras intentaba cruzar la frontera entre Brasil y Paraguay, representó una derrota política significativa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta disputa se debe a la cuestión aún abierta de la derrota del PRO y su posible absorción definitiva por La Libertad Avanza.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En general, la situación expone la fragilidad de un gobierno que se basa en la debilidad de sus oponentes más que en su propia fortaleza.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, se expone un método basado en la corrupción y el fraude, a falta de hegemonía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los sindicatos y movimientos sociales deberían liderar esta lucha para evitar que la derrota se quede en el terreno táctico y frenar el reseteo general del país impulsado por Milei, un plan económico y social considerado directamente criminal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1790
+}

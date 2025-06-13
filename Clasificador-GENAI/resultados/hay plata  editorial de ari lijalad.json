@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.121,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Me preocupa cómo el sistema mediático naturaliza esta situación, presentándola incluso como algo deseable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos individuos poseen mucho más, y una gran parte de esa fortuna proviene de beneficios obtenidos del Estado, de estructuras patrimoniales que evaden impuestos y del sistema financiero internacional que les permite sacar dinero del país sin tributar en Argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta riqueza no pertenece al país; se fuga al exterior, perjudicando la financiación del Estado para educación, salud, infraestructura, etc.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Galperín, Bulgheroni, Pérez Companc, Eurnekian, Constantini y Rocca invierten para que no se hable de esto y para que se normalice la existencia de miles de millonarios en dólares mientras más del 50% de la población es pobre en pesos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay dinero en Argentina, pero solo un pequeño grupo lo controla.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repito, esto no es antiempresarial.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los empresarios saben organizar el trabajo, gestionarlo, administrarlo financieramente y contablemente, obteniendo rentabilidad y reinvirtiendo para crecer.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1961
+}

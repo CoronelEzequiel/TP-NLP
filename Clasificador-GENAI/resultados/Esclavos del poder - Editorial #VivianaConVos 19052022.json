@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esclavos del poder, no les pertenecemos, no nos poseen, tenemos derecho a una vida digna.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos quieren pobres, nos quieren burros, nos quieren drogados, nos quieren sin familia, nos quieren sin valores, nos quieren sin convicciones y además nos quieren con miedo, te quieren con miedo, esclavos del poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que seamos esclavos del poder como en Formosa, el cacique, Gildo Insfrán, el señor feudal de la provincia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gildo Insfrán, el amigo de Alberto Fernández, el presidente, dijo que era uno de los mejores gobernadores de la Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imagínense a Larreta haciendo esto con la policía en un piquete, en una marcha. Que lo matan, lo destruyen y le gritan '¡Represor! ¡Facho! Ustedes son la puta derecha'. Pero si lo hace Gildo Insfrán, para este gobierno, no pasa absolutamente nada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ishii, el dueño de José C. Paz, está muy enojado con el periodismo. Claro que el periodismo habla, él está en problemas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina, no solo es medio nacional. Hay muchos medios capitalinos que tienen influencia en toda la República Argentina. Nosotros no tenemos influencia, lamentablemente, en la República Argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "He venido acá con el ministro de Economía a visitar y a felicitar al director del INDEC, el querido Marco Lavagna, porque hoy tuvimos un día ejemplar en la Argentina, donde todos hicimos nuestra parte.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos un país absolutamente incendiado y el presidente Alberto Fernández cree que habla en inclusivo argentino.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Faltan 570 días para que se vayan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8661
+}

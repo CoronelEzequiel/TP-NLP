@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.787,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Kirchner, impulsada por el afán de salvar su posición política, parece dispuesta a desafiar los límites de la democracia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jorge Fernández Díaz, con precisión, la caracterizó como una figura con tendencias autocráticas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, públicamente, afirmó que el intento de asesinato que sufrió rompió el pacto democrático.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para ella, alguien con su supuesta relevancia necesita que los autores del ataque estén vinculados a la CIA y hayan actuado bajo las órdenes de Mauricio Macri y una supuesta \"mafia\" mediático-judicial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es evidente que Parrilli, fiel a Cristina, no se expresa sin su consentimiento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos se alinean con un discurso que busca debilitar y erosionar la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es su manera de mantener la ofensiva contra la Corte Suprema de Justicia, a pesar de que los fundamentos de su condena a seis años de cárcel por corrupción señalan que la persecución que denuncia es solo una estrategia de defensa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo planean romper la proscripción y la farsa democrática que denuncian, pero que solo existe en sus mentes?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner, en un discurso en Avellaneda, insinuó que las próximas elecciones podrían estar manipuladas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien es cierto que vivimos momentos turbulentos que generan angustia, la principal responsable de que la democracia pueda peligrar es ella misma.",
+      "score": 0.81,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina no es una víctima, sino la victimaria.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2035
+}

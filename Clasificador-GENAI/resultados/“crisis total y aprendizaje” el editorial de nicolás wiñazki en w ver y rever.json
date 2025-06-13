@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Según el INDEC, la mitad de la población argentina es pobre, y seis de cada diez niños se encuentran en esta situación.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de vacunas, sumada a la crisis económica exacerbada por el aislamiento del año pasado y las posibles nuevas restricciones, nos frena.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Además, tenemos un gobierno que, a nuestro entender, ha cometido muchos errores, generando descontento en la población.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, ante esta situación inédita, una crisis sanitaria global y una crisis económica particularmente grave en Argentina, un país históricamente propenso a las crisis económicas, creo que ya conocemos todos los errores del gobierno, que son inadmisibles e intolerables, y que seguiremos denunciando e informando sobre las novedades, incluso en este programa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos ser sinceros, y esta es una opinión personal: ¿qué vamos a hacer nosotros como parte de la sociedad para cuidarnos?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1947
+}

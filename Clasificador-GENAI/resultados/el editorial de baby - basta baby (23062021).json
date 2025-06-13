@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Durante cuatro años soporté las agresiones de la agrupación Evita, Mujeres en Lucha, Hombres en Lucha… en todos los teatros.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una agrupación kirchnerista, que se hace llamar [Nombre de la agrupación], intenta blanquear la imagen de Evita, vinculándola al narcotráfico bajo el pretexto de la lucha por la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repudiamos las expresiones de odio del Partido Comunista, particularmente las dirigidas a nuestra compañera Tania Caputo, dirigente nacional de [Nombre de la organización], por parte de Ángel Vaví, del programa de Canal 24.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vaví intenta estigmatizar al Frente de Todos, especialmente a la izquierda y los movimientos populares.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando hablo de limpiar, me refiero a separar la paja del trigo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que separar a los delincuentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, les doy los teléfonos del comité [Nombre del comité] para que el público pueda comunicarse y explicarles que estamos hartos de ustedes, de Cristina Fernández de Kirchner, del uso de términos como \"machirulo\" y \"misógino\" para silenciar al periodismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes han destruido el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo los repudio a ustedes por sus actos con 90.000 muertos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No permitiremos que nos acusen de machirulos y fachos para silenciar a quienes pensamos diferente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es fácil señalar con el dedo, propio del fascismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos un pueblo firme que se oponga a quienes intentan callar al periodismo libre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2037
+}

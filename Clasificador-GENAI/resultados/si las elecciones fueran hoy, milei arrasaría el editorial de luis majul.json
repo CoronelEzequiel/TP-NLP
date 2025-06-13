@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Comencemos a 48 horas de cumplirse un año del gobierno de Milei, con una frase de alguien muy cercano a su círculo íntimo: \"Si las elecciones fueran hoy, Milei arrasaría\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno parece querer polarizar con Cristina Fernández de Kirchner.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei impulsa esta hipótesis de un triunfo con más del 50% de los votos, dentro y fuera del círculo rojo, por tres razones: 1) Desmentir los rumores de un pacto con Cristina Fernández de Kirchner para evitar la aprobación del proyecto de \"Ficha Limpia\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por otro lado, los intentos del kirchnerismo para expulsar a Cúder del Senado y reemplazarlo por Estefanía Cora, podrían perjudicar a Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La popularidad de Milei aumenta por segundo mes consecutivo, ostenta el mayor diferencial de imagen positiva desde enero y se registra un deterioro en la imagen de la oposición.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para Milei todo es reemplazable o negociable, menos el déficit fiscal cero y su batalla cultural.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mesa chica de Milei anuncia que enviará proyectos extraordinarios: reforma política (límite a fueros parlamentarios, nueva \"Ficha Limpia\"), eliminación de las PASO, cambios en el financiamiento partidario, normativa anti-mafia, juicio por ausencia, privatización de Aerolíneas Argentinas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2884
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_strzyzowski",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"Ante todo, solicitamos a nivel nacional la intervención de la provincia porque la justicia no es independiente. Parece que se está encubriendo algo. Pedimos la intervención de la provincia. Señor Presidente, por favor, intervenga, la justicia no es independiente\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"También necesitamos más recursos forenses: antropólogos forenses e informáticos, ya que la provincia carece de ellos.  Y otra cosa: señor Presidente, ¿tiene algún interés en el caso de los Sena?  No parece enterado de lo que ocurre en la provincia. ¿Por qué no interviene? ¿Está protegiendo a los Sena?\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No, están poniendo trabas.  Con mis abogados, vemos que se intenta culpar al hijo para que los padres queden libres. Es una barbaridad. Señor Presidente, intervenga. La justicia no es independiente\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"A la protección política que tienen\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Sí, es la mano del poder, pelear contra titanes con un palillo. Señor Presidente, si no tienen nada que esconder, intervenga la provincia. Esta provincia tiene muchas irregularidades.  ¿Vio la marcha, señor Presidente?  ¿Lo que ocurrió en cada pueblo del Chaco? Si una marcha no significa nada para usted, ¿qué tal un cacerolazo?\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Sí, está confirmado por el jefe de la Fiscalía: Cecilia está muerta. Ahora intentan desviar la atención de la casa de los Sena y culpar al hijo\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1805
+}

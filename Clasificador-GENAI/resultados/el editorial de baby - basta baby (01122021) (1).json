@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El chabón marcó tendencia con los zapatos, el chico de La Cámpora, hay que reventarlo, que hayan perdido las elecciones y que sepan que tienen la cuenta regresiva.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si vos no pensás en el 9/11, si vos sos lo otro, el último que trae un frasco, yo te digo una cosa, se ve que el viejo, el viejo, yo no entiendo por qué tuvo 11, es como los Boleas, que tuvo 13 el viejo, porque uno prueba, le sale esto y el próximo viene mejor, ya en el once paramos, cada vez peor, viste, viene esto, se resignó, pero son buenos, la verdad que tienen buen corazón, tanto salió a traerlos acá.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que si no hubiese hecho tanto desparpajo de guita por tomadero, en los hoteles, la guita que ha desparramado, porque lo que no le cierra es el blanco y no le cierra el negro tampoco, y la gente se dio cuenta que estaba mintiendo y que esto era una gavilla de delincuentes que venían a robarnos, de hecho nos robaron el país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo, y hoy pensaba dos cosas, pensaba que se equivocó Cristina, a pesar de la guita que hizo, la fortuna que se lleva y todo, se equivocó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Cristina avisa, ¿cómo no va a ser presidente Macri?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y si no es Macri, es Larreta, o es otro, mano dura y en cana a toda esta gente, porque el daño que nos han hecho es infinito, la guita que se han llevado es infinita, cómo nos han dejado el país ante el mundo es terrible, somos el peor país del mundo, qué vergüenza, y Alberto contempla todo esto con una tristeza suprema y dice: \"Ya se me pasaron dos años y todavía no pude hacer nada, muchachos, no esperen nada, no se puede exprimir una piedra\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3373
+}

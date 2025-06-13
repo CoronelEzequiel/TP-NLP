@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En el caso del gobierno de Javier Milei, que enfrenta una gobernabilidad débil debido a sus minorías parlamentarias, hay dos líneas de supervivencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por ejemplo, si el gobierno quiere reformar la Corte Suprema, no tiene más remedio que tender un puente.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay algo innegable, y ustedes lo saben: Milei, en solo un año, superó las expectativas, ordenó la macroeconomía, redujo el riesgo país a 600, frenó la inflación que, hace un año, era el principal problema de los argentinos, y encendió los motores de la economía.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La baja de la inflación está directamente asociada con la reducción de la pobreza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente dice que no toma decisiones pensando en lo electoral, pero uno tendería a pensar que lo electoral importará en algún punto de la toma de decisiones, y que uno esperaría la apertura real del cepo para después de las elecciones.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este tema es crítico y complicado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, a Milei, los logros económicos le financian un poco esta autenticidad que a veces es borde.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, los números en la mayoría de las encuestas le dan una ventaja muy importante.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oposición aún intenta hacer pie y encontrar su lugar.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3813
+}

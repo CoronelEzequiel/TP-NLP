@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.705,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me confieso que miro la carita de Víctor y se me hiela la sangre porque ese niño fue asesinado por el hambre y por los funcionarios miserables, inútiles y ladrones que han condenado a tantos chicos a la indigencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una mirada demandante que demuestra que los únicos privilegiados ya no son los niños.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los únicos privilegiados son los burócratas oficialistas que roban, pero no hacen.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿O no se dice que Argentina es capaz de producir alimentos para 400 millones de personas, más o menos diez veces nuestra población?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los funcionarios caraduras apelan al eufemismo de llamarle inseguridad alimentaria severa.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso se llama fracaso de un país que no ha sido capaz de eliminar la pobreza entre los más chicos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una vez más tenemos que decir que la corrupción mata.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se reparte tanto dinero de forma arbitraria y corrupta que solo con una organización transparente se podría evitar que en este país más del 13% de los niños sufran hambre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto le declaró la guerra a la inflación y perdió por paliza.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el regreso de la democracia en 1983 el peronismo gobernó el 68% del tiempo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los gobiernos que sigan multiplicando la indigencia y el hambre entre los niños argentinos estarán cometiendo un crimen de lesa humanidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2058
+}

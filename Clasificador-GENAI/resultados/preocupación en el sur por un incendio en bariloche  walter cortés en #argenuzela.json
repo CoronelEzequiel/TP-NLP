@@ -1,0 +1,31 @@
+{
+  "texto_id": "incendio_bariloche",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si ves a la gente en los bosques, protegiendo los árboles, diciendo 'no toquen el piño', pero luego no veo a ninguno de estos proteccionistas ayudando a la gente a construir sus casas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mayoría son jubilados o empleados estatales. Estos individuos defienden la preservación, incluso cuando esa preservación representa un peligro.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchos dicen que no se deben cortar los pinos, que no hay que dañar la naturaleza. Sin embargo, el pino no es parte de la flora autóctona del sur, es una especie introducida que ha afectado a la flora nativa, impidiendo el crecimiento de otras plantas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los aviones que se usan ahora son ineficaces, son como rociadores para planchar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1607
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Informe de gestión en la era Milei y en estos meses, tan solo una vez fue un jefe de gabinete al Congreso, el anterior, Nicolás Posse, días después se iba del gobierno y ahora será el turno de Guillermo Francos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Contábamos ayer lo que fue el paso del presidente Javier Milei por la Unión Industrial Argentina, donde fue allí a la UIA y, bueno, acusó a los empresarios, a los industriales, de vivir del Estado, de robarle al campo y les dio un par de cachetazos allí.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Comienza a cumplirse el \"pacto de la milanesa\", comienzan a ejecutarse los acuerdos a los que habrían llegado Mauricio Macri y Javier Milei en las reuniones-cenas de Olivos, milanesa de por medio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer hablábamos con el titular de la UOM, con Abel Furlán, con declaraciones importantes, diciendo, bueno, \"no nos podemos quedar quietos, tiene que empezar a haber algún tipo de respuesta a estas políticas económicas del gobierno\" y comenzó justamente a haber algún tipo de ruido, de movimiento.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lamentablemente, estamos contando casi una represión por semana, la semana pasada hablábamos de lo que había pasado con la marcha de los jubilados que terminó con palos y gases. Ayer fue el turno de los empleados judiciales, también una protesta con represión en tribunales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5935
+}

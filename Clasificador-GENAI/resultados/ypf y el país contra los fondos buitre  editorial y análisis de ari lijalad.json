@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_ypf",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y ustedes se preguntarán por qué va a cobrar un fondo buitre. Este fondo, llamado Burford Capital, ¿era accionista de YPF en 2012 cuando se expropió el 51% de las acciones? No. ¿Es accionista hoy? Tampoco. Lo que sucedió es que este fondo buitre se dedica a comprar juicios como este contra países. Como su nombre indica, compra barato y después vende caro, o en este caso, cobra caro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es justo que nuestro país, el futuro de millones de personas, esté regido por reglas y leyes que no son justas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que están discutiendo en este juicio es si un país como Argentina, que tiene los recursos energéticos que necesita el mundo, va a tener soberanía política e independencia económica para plantarse frente al mundo y ofrecerle esto que tiene, pero desde una mirada de la justicia social, desde una mirada del desarrollo, desde una mirada como país, desde una mirada incluso como región, y de que millones de personas sean beneficiarias de algo que está bajo la tierra y no lo sean un puñado de accionistas de las tres o cuatro multinacionales que se quieren quedar con ese negocio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una noche entre lo legal y lo justo. La injusticia se basa siempre en lo legal. Lo justo es lo pobre, lo simple, lo desnudo, lo limpio, lo sano, lo molesto, lo indivisible, lo primitivo. La ley es la defensa de la injusticia opulenta. Lo justo no necesita defensa. La ley puede interpretarse de varias maneras de acuerdo a la injusticia que se quiera justificar. Lo justo no tiene discusión",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es justo que se condene a un país por recuperar sus recursos hidrocarburíferos para tener soberanía energética. No es justo. Podrán decir que es legal, pero no es justo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También te dicen que ganar dinero es legal. Claro que ganar dinero es legal, ¿pero es justo? ¿Es justo, como estamos viendo en los últimos años, que un grupito de personas tenga más dinero que un continente? No, no es justo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La noticia del día es el fallo de la jueza Loretta Preska del estado de Nueva York, vinculado al juicio por la expropiación de YPF. ¿Qué dice el fallo? Para hacérselo corto: el juicio era contra el Estado, por un lado, e YPF como empresa, por el otro. Y el fallo dice: YPF no tiene nada que ver en todo lo que tuvo que ver con la expropiación del 51% de las acciones en el año 2012, decisión del Congreso argentino. Pero el Estado sí.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Durante el gobierno de Macri, en este juicio, Argentina bajó la defensa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Buena noticia, YPF está salvada. Mala noticia para el Estado, va a tener que pagar. Buena para el país, vamos a tener una petrolera que genere dólares. Y lamentablemente buenísima para el fondo buitre que se va a forrar en guita por un juicio donde ni debería meter la nariz.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6427
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No se trata solo de una despedida, sino de una demostración de poder de la centroderecha.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no está de acuerdo con el gobierno de centroizquierda de Alberto Fernández y Cristina Fernández de Kirchner, y con lo que dijeron el lunes, participe.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mauricio Macri sabe que comenzará el \"operativo desgaste\", el \"operativo destrucción\", el \"operativo tierra arrasada\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se debe caer en su juego de agresión y odio.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto Fernández necesita una cirugía mayor.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos dejar de actuar como si fuéramos parte del pueblo solo por ser pobres o ignorantes.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Che Guevara fue un pésimo gobernante, y Fidel Castro arruinó Cuba.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En vez de hablar de \"tierra arrasada\", deberían hablar de la \"tierra arrasada\" que dejó Cristina Kirchner.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1560
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_venezuela",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.571,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "A una semana de las elecciones, Venezuela atraviesa una profunda crisis política que impacta de lleno en toda la región y tiene en vilo a los principales líderes políticos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este informe parece ser bastante contundente, emitido por un país, como decíamos, que tiene un gobierno ideológicamente más afín al chavismo que a la posición de María Corina Machado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El régimen de Nicolás Maduro se encuentra cada vez más aislado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei había dicho oportunamente que Javier Milei estaba en el poder por la tibieza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El expresidente argentino Mauricio Macri llamó a los venezolanos a no abandonar las calles.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un estudio de Erica Chenoweth de la Universidad de Harvard, se mostró que en las últimas décadas, el 57% de las acciones de resistencia no violentas alrededor del mundo han llevado a las democracias, mientras que las manifestaciones que fueron violentas lo lograron en muchas menos veces, llevando a la democracia solo al 6% de los casos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ensayo general para la farsa actual, teatro antidisturbios, es una reconocida frase de Los Redonditos de Ricota, cantada por el Indio Solari.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6129
+}

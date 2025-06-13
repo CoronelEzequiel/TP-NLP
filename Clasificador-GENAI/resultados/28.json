@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_despidos_conti",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El Gobierno lo califica como una \"reestructuración\", pero los trabajadores denuncian el cierre del Centro Cultural Haroldo Conti, ubicado en el predio de la ex ESMA, dentro del Museo de la Memoria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, de 800 trabajadores que había en la Secretaría de Derechos Humanos, el gobierno está diciendo que va a prescindir de 600, ¿es así?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es que, en realidad, no quieren que nadie opine. El crisol de opiniones es fundamental para una construcción más rica. Si uno solo se queda con su propia opinión, es muy difícil.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me preocupa que de 800 trabajadores, 600 estuvieran en situación de precariedad, incluso con gobiernos anteriores que se supone que tenían una política de memoria, verdad y justicia, defensa de los derechos humanos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La protección de este lugar es fundamental para Argentina, no solo para un gobierno.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2337
+}

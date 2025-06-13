@@ -1,0 +1,36 @@
+{
+  "texto_id": "Desencuentro",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.83,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cualquier presidente razonable y en uso de sus facultades mentales buscaría la manera de utilizar esa reunión, esa cumbre, ese foro, para encontrar nuevos mecanismos de colaboración entre todos los países.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si decide no ir a la cumbre, se queda del lado de los países que más violan los derechos humanos y las reglas de la institucionalidad republicana.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuba no sabe cómo sofocar a los jóvenes que repudian al régimen castrista que solo produce miseria y persecución.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nicaragua directamente es una caricatura de un gobierno de mafiosos y ampones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El expresidente Mauricio Macri calificó de mamarracho a la política exterior del actual gobierno.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1965
+}

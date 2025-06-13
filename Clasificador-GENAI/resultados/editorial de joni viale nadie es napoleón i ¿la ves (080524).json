@@ -1,0 +1,106 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Gracias, gracias a la CGT por tomar de rehenes a la gente, de los cuales cuatro millones de personas no van a poder viajar en colectivo acá en el AMBA, cuatro millones de personas sin colectivo, de los cuales un millón y medio de personas no van a poder viajar en colectivo en el interior de la República Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién perjudica el paro de mañana? El paro de un ratito.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se jode el albañil que mañana no va a la obra y pierde el presentismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá esto: paros en cinco meses del nuevo gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Capaz este tipo sea el peor presidente de la historia, yo no lo sé, pero van cinco meses, yo esto no lo vi nunca.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son muy obvios, eso es lo que yo quiero decir, son obvios.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿A usted le parece que el sindicalismo que para mañana representa a los trabajadores argentinos?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las razones del paro, yo creo que son legítimas, absolutamente legítimas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicho esto, qué bueno que llegó Santi, ya, porque lo quiero hablar también con ella.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gente no al paro de ninguna manera.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me encantaría que la clase media tenga todo esto, pero usted no es clase media.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este autito que tengo acá atrás es un símbolo, esto no lo tienen los trabajadores.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, el 70% de la clase media no puede comprar un electrodoméstico, el 70%, un electrodoméstico.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy la misma Ofelia Fernández, una joven kirchnerista, dijo que el kirchnerismo nunca podría ganar una elección.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, no, no, no, ya está, no, ya me enojé, listo, me puse de los jetes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pasa que la agarro la condena, por eso el nerviosismo, por esto, se le agarran también con el periodismo, pero prácticamente vacío para que no malentiendan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, no hay que trabajar si, bueno, la gente lo votó, ¿qué quiere que le hagamos?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto tiene dos nombres: odio e impotencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que nunca pueden perdonar es que sin ellos ha, se ha vuelto aunque sea un chiquitito, así, un mínimo de esperanza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6619
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "ahora la escudería de \"Argenzuela\", me encanta; me llena de orgullo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hablar mucho de derechos de la infancia, de niñas y adolescentes; vamos a darle un lugar muy importante, como a todo lo demás y a lo que siempre hablamos en la radio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablaremos de política, de temas judiciales, de economía.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y después vuelvo a Argenzuela; lo lamento, ustedes se les acabó la primavera.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al cierre de la edición de este libro, Cristina mantenía su decisión de no ser candidata.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1850
+}

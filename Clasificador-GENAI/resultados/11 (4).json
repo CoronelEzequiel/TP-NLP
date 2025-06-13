@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_kelly_olmos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sí, había una interna gremial entre sectores de trabajadores jerárquicos. Un gremio, la APEDeZA, cuyo secretario general es Silva, bloqueó la salida de las unidades.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es un delito, Kelly. Además de la conciliación, se tomarán otras medidas. La empresa ya hizo la denuncia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, porque una vez agotada la negociación paritaria salarial, sacamos una resolución conjunta (Transporte y Trabajo) que determina los incrementos salariales de los conductores para abril, mayo y junio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sinceramente, no puedo ser inocente y creo que detrás del lockout patronal hay una intención de índole política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está en discusión no es la cuestión salarial, sino las ganancias de los empresarios, a quienes se les han reconocido mayores costos en combustible y repuestos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1865
+}

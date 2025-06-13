@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Llega a las Naciones Unidas en un momento inquietante de la situación internacional. Hoy vamos a tener un diálogo que va a ser muy interesante. Le recomiendo que le preste atención con Carlos Reymundo Robert, que está siguiendo muy de cerca la política internacional, lo que tiene que ver con la crisis que se está desarrollando en Medio Oriente, con una guerra que se va universalizando cada vez más y que va cambiando de actores.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y en un ambiente, el de las Naciones Unidas, que en general es un ambiente adverso para el tipo de liderazgo que ejerce Milei o que ejerce Donald Trump o que ejercía en su momento Jair Bolsonaro, es decir, presidentes que están en alguna medida enemistados con el multilateralismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un gobierno que para Bergoglio debe ser bastante incomprensible porque confía demasiado en la eficacia del mercado para resolver esos problemas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El cepo es un instrumento del control de capitales...el cepo ahoga la economía. De que es muy difícil que haya inversión, que haya actividad económica, que haya dinamismo en una economía donde no se sabe cuál es el valor del dinero porque no se sabe la paridad con el dólar ni se sabe tampoco claramente cuál es la tasa de interés.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos hablando de un país donde la pobreza de ingresos, que es fluctuante según la inflación, alcanza el 55% y en el conurbano alcanza el 70% cuando la medimos en gente de menos de 17 años. Bueno, ahí hay un drama al que Bergoglio le viene prestando atención desde que era cura y después arzobispo de Buenos Aires.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8814
+}

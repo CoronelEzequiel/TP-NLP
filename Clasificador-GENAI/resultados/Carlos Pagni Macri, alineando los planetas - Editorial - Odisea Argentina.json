@@ -1,0 +1,51 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ahora, lo que estamos viendo cada vez con mayor claridad, y es interesante verlo, es un Macri con una enorme voluntad de poder político, en una defensa muy fuerte de su continuidad en el poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La posibilidad de que Macri sea reelecto, que era una posibilidad altísima hace un año, hace seis meses, hace cuatro meses, fue puesta en tela de juicio en los últimos meses.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y era la idea de que el repudio político, si se quiere moral, a la figura de Cristina Fernández de Kirchner iba a hacer que, cualquiera fuera el clima económico del país, ella nunca iba a atravesar el techo que le permitiera ganar en un balotaje.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos todos detrás del que gana.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la Argentina el comportamiento del dólar no es solamente una variable financiera, es una señal de gobernabilidad, es una señal de previsibilidad económica y, ligado al comportamiento del dólar, al comportamiento de la moneda, otro fenómeno que es la inflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri debe también rendirle un homenaje secreto en esta dinámica que estamos describiendo a Cristina Fernández de Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dicen los que saben, los que conocen ese cerebro o ese corazón, que una de las razones por la que Cristina Fernández de Kirchner decidió no ser candidata a presidenta es la idea de que el próximo gobierno, si es un gobierno kirchnerista, va a dar la impresión de que traiciona el legado de los primeros y segundos gobiernos kirchneristas, el de Cristina y el de Néstor Kirchner.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta es, ¿a Macri se le pueden alinear los astros porque la economía no está tan mal, no digo que esté mejor?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6205
+}

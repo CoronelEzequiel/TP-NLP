@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_carlezzo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El Papa ha abierto puertas en la Iglesia que será imposible cerrar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más que un giro a la derecha, diría que la polarización global impacta en la Iglesia, donde siempre han convivido sectores con intenciones diferentes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy hay tensión entre sectores progresistas que buscan cambios (como la Iglesia alemana) y otros que quieren volver a la tradición, a una Iglesia más enfocada en la moral individual que en temas sociales (como parte de la Iglesia estadounidense).",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hemos reducido al argentino más grande de la historia al barro político cotidiano.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, tenemos un presidente que lo insultó…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1901
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta narrativa fue instalada por referentes políticos y comunicacionales del kirchnerismo para señalar que un eventual gobierno de Juntos por el Cambio aplicaría una política represiva similar a la llevada adelante por Gerardo Morales en su provincia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, Horacio Rodríguez Larreta, Patricia Bullrich, Martín Lousteau y el recientemente incorporado José Luis Espert, se unieron para defender la política represiva de Gerardo Morales, bajo el liderazgo de Patricia Bullrich.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algunos, como Juan Grabois (precandidato presidencial de Unión por la Patria), se pronunciaron tardíamente; otros, como la vicepresidenta Cristina Fernández de Kirchner, respondieron de forma inmediata a los ataques de Gerardo Morales, al igual que el presidente Alberto Fernández; mientras que otros, como Sergio Massa, prácticamente no dijeron nada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se acepta que la izquierda cumpla una función de \"equilibrio ecológico\" dentro del sistema político, canalizando la bronca a través de las elecciones, las marchas y las movilizaciones tradicionales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, cuando la izquierda adopta posiciones relevantes y combina la lucha parlamentaria con la movilización extraparlamentaria para lograr cambios reales, como sucedió en Jujuy, se la tilda de \"extremista\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Jujuy, se enfrentaron Morales y sus aliados peronistas locales, que buscaban una reforma reaccionaria para entregar los bienes comunes, con el pueblo, los docentes y los pueblos originarios, que rechazaban este avasallamiento.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Asimismo, cierto periodismo mostró su verdadera cara ante los acontecimientos jujeños. No hablamos solo de medios tradicionalmente alineados con la derecha, como La Nación o el Grupo Clarín, que se mostraron claramente a favor de Morales, sino también de medios y periodistas que se presentan como imparciales, revelando un sesgo macartista al condenar a la izquierda, recordando las prácticas del senador Joseph McCarthy en la época de la Guerra Fría.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2090
+}

@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.664,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En la desesperación nos siguen mandando los trolls por un lado, las prohibiciones por el otro.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, Nick Hoy hizo este chiste, ¿no?",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso se llama Charlibro la editorial.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que la democracia la usan nada más que para llegar al poder.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, gracias a Dios, la gente se va abriendo, se va abriendo, se va abriendo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y nos fueron acostumbrando a cosas terribles.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Salió a hablar sin vergüenza César Milani.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este sinvergüenza de Milani habló de sangre y guerra civil.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Desde la época del mortero, ¿te acordás?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La oposición tibia, estamos escuchando, estamos atentos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mañana no voy a estar yo, seguramente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella siempre es la víctima de la película.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ahora arranquemos jugando a Cristina Fernández de Kirchner y buscando una condena.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El tiempo que pierden en prohibir a Nick Hoy, el tiempo que pierden en pegarme a mí y a todos los periodistas que estamos defendiendo la libertad de expresión, lo podrían usar en buscar alguna treta para que Cristina Fernández de Kirchner se \"safe\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3421
+}

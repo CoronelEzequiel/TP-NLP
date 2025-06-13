@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Una de las personas que más disfrutó los resultados de las elecciones europeas fue Javier Milei, y entre sus múltiples retuits de la madrugada de anoche hubo uno que decía 'Gracias por salvar al planeta'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parafraseando el 'Manifiesto Comunista', el célebre texto de Karl Marx y Friedrich Engels de 1848, que comenzaba diciendo 'Un fantasma recorre Europa, el fantasma del comunismo', hoy podemos decir que el fantasma de la ultraderecha es el eje de una agenda que comparte también nuestro país con Europa occidental.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las elecciones de ayer, la ultraderecha obtuvo un 27% del Parlamento Europeo, frente al 25% en 2019.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos frente a un escenario apocalíptico. La derecha avanza en todo el mundo a fuerza de relato.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizás este fantasma encuentre su cordón sanitario, como lo llaman los españoles, en un nuevo centro que reúna a los moderados.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4184
+}

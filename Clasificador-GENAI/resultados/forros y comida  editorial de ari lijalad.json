@@ -1,0 +1,41 @@
+{
+  "texto_id": "alimentos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.083,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Javier Millet y su gobierno persisten en la mentira.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno calificó a estas mujeres como \"chorras\" y aseguró que los comedores no existían, considerando prescindibles a las más de diez millones de personas que dependen de ellos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno realiza una operación de prensa afirmando que se están distribuyendo los alimentos, pero no a los comedores, sino a un amigo: Abel Albino, presidente de la fundación CONIN.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Albino considera que alimentar a niños pobres es un \"hobby caro\" financiado por el Estado mediante convenios con el gobierno de Mauricio Macri (que le otorgó al menos 14 millones de pesos en su momento) y con el Ministerio de Capital Humano.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta fundación, financiada por grandes empresas y con sede en Mendoza, cuenta con centros que, según Albino, trabajan contra la desnutrición infantil.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta situación revela una preocupante falta de responsabilidad y una flagrante utilización de recursos públicos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1615
+}

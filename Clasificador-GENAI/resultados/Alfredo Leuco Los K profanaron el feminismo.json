@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Una de las características más nefastas del kirchnerismo es profanar y malversar organizaciones y valores para ponerlos al servicio de su línea de poder.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De esa manera, las vacían de contenido ecuménico y las transforman en un instrumento de sus obsesiones.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jamás levantaron la voz contra los dictadores de Cuba o Venezuela; todo lo contrario, justificaron y defendieron todo tipo de violaciones a los derechos humanos si los victimarios eran de su matriz ideológica.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pasaron a ser cómplices de gobiernos y dirigentes que encarcelan, torturan, asesinan y dinamitan las libertades.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esa actitud de condenar solamente a sus enemigos políticos les ha quitado autoridad moral para el resto de las denuncias.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usan el feminismo como una excusa para agredir al adversario o al enemigo político.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2223
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de Irán, al mando de Ebrahim Raisi, un dirigente radicalizado en esa teocracia, acaba de anunciar que el nuevo ministro del Interior de la República Islámica de Irán es Ahmad Vahidi, uno de los principales acusados de haber participado en el atentado con bomba a la sede de la AMIA el 18 de julio de 1994, el mayor ataque terrorista contra una entidad de la comunidad judía después del Holocausto, que dejó 85 muertos y más de 300 heridos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahmad Vahidi está buscado por la justicia argentina y por la Organización Internacional de Policía Criminal (Interpol) con alerta roja, ya que pesa sobre él una orden de captura en el país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según el fiscal Alberto Nisman, quien murió mientras investigaba el caso AMIA y, posteriormente, el memorándum con Irán, Vahidi había participado en una reunión en una ciudad de Irán, la antigua Persia, donde líderes políticos y religiosos de ese país decidieron que las fuerzas e inteligencia iraníes trabajarían en dos atentados en Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno argentino emitió un comunicado de repudio y enérgica condena por este nombramiento de un terrorista en un ministerio iraní.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este es un cambio en la posición del gobierno argentino, que antes, durante la era kirchnerista y también en esta nueva etapa kirchnerista, había bajado la tensión con la República Islámica de Irán y firmado el memorándum con Irán, después de insistir en la acusación contra Irán.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Luis D'Elía, uno de los acusados de participar en ese pacto, ya hizo declaraciones al respecto diciendo que esto está todo armado por Estados Unidos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2550
+}

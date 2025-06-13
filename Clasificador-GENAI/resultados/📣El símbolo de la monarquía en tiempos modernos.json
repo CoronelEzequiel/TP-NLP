@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_monarquia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.375,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto explica que mucha gente, y yo en lo personal me siento orgulloso de vivir en un país republicano, no me sentiría cómodo viviendo en un país monárquico, pero uno puede comprender cómo a personas, incluso progresistas, la figura de la reina les genera una enorme simpatía.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En todas las sociedades, el poder no puede ejercerse solamente sobre la base del miedo; siempre es necesario para el poder crear alguna forma de ceremonia, alguna forma de legitimación en la que ese poder se represente como algo trascendente que va más allá de la mera relación de fuerza.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como yo les decía al principio, personalmente me siento orgulloso de vivir en una república, me sentiría muy incómodo viviendo en una monarquía, y quisiera transmitir a todos aquellos que suponen que alrededor de esta figura se construye algo que produce una unidad nacional. Es decir, que en Inglaterra hay una grieta muy grande, y hay medios de derecha que son los mismos de Estados Unidos. Por ejemplo, Murdoch destruyó la carrera del líder del partido laborista, Jeremy Corbyn, por ser un líder de izquierda. No es que la existencia de la monarquía elimine estas polarizaciones extremas que hoy se están viviendo en todo el mundo.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al mismo tiempo, la idea de representarnos en una persona, y que la ceremonia no sea representarnos en una institución, en algo que nos una a todos y no en una persona, es lo que muchas veces está también presente en la búsqueda de convertir en reyes a figuras de la política, lo que muchas veces se acusa al populismo de tratar de convertir en rey, reina, santo o santa a determinadas figuras, que lo único que hacen es venir a llenar el vacío personal del que hablaba Byung-Chul Han en su libro *La desaparición de los rituales*. ",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3155
+}

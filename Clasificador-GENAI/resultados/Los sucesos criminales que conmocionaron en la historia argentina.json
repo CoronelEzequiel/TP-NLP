@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_casos_policiales",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay incluso analistas que creen que no es habitual que un tribunal de Dolores en enero, mes de ferias, lleve adelante un juicio de tal envergadura y que tiene el objetivo hasta de tapar los temas políticos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esperamos 20 años para que María Marta pudiera tener justicia. Y en estos 20 años nos injuriaron, nos calumniaron, nos responsabilizaron en el caso de Carlos de haber matado a María Marta y a nosotros de encubrir el asesinato.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, esto es lo que nosotros como sociedad tenemos que exigirles a estos señores que están en la Cámara de Diputados, en la Cámara de Senadores, para que legislen como corresponde, mirando al ciudadano, no mirando al delincuente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos policiales han sido más importantes en la memoria popular que muchos de los hechos políticos trascendentes de la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son los policiales una metáfora de la vida cotidiana en la que se discuten valores, se discuten prejuicios, y coadyuva la prensa en la cobertura de estos policiales, a veces buscando más el morbo que la claridad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3371
+}

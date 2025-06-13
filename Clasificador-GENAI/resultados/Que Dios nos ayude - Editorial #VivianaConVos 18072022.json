@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.692,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta gente que no conoció todavía la consecuencia de darle la espalda a Dios, que pensaba, más de lo que hacemos los argentinos, debía laburar, ocupar a nuestra familia, a los amigos, a los hijos, del laburo, contribuyente, pagamos todas las cuentas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los días nos quieren deprimir, dice el caradura del presidente que tenemos. Todos los días nos quieren deprimir. Hay que ser muy sinvergüenza para decir esto, porque el que más nos deprime es él y todo su gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros no hacemos negocios para nuestros amigos, ellos lo hacen. Nosotros no queremos crecer nosotros, queremos que crezcamos todos. Nosotros no queremos vivir cómodamente, nosotros queremos que todos vivan cómodamente. Nosotros no queremos dignidad para nosotros, queremos dignidad para todos y todas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es la guita que le sacan los planeros a los pobres giles que van a las marchas, creyéndoles. Ese famoso “ponéle un 2%”, tres palos en un solo merendero.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Heller, usted gana mucho, banquero, diputado. Usted gana mucho. ¿Usted se va a bajar el sueldo? Ustedes no tienen vergüenza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia está dormida en la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8764
+}

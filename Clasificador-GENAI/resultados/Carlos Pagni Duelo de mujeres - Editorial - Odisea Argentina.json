@@ -1,0 +1,46 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.514,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Sandra, yo te voy a cuidar\". ¿De quién? ¿De qué?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto está en la esencia, aunque no se vea, aunque sea subliminal, no manifiesto, de la campaña de Fernández, que fue elegido no a pesar de que criticaba y denostaba a Cristina Kirchner, sino porque criticaba a Cristina Kirchner, y él se ofrece como el garante de que ese kirchnerismo, o como él le dijo a **Luis Novaresio** cuando le planteaba cuestiones críticas del kirchnerismo, 'eso no es kirchnerismo, es cristinismo', que el cristinismo, si es que eso existe, no vuelva.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También Macri pide el voto de manera mucho más abierta y más genuina, diciendo: 'Si me votas a mí, no vuelve Cristina'. En alguna medida Fernández ofrece lo mismo: 'Si me votas a mí, por suerte estoy yo, porque si no estaría Cristina'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una de las curiosidades a las que estamos asistiendo es ver a un peronismo que está fuera de la caja del Estado Nacional y que está fuera de la caja del Estado Provincial, y que muchos municipios, por ejemplo, el Conurbano, están fuera de la caja de la municipalidad porque no gobiernan.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay, sí, por parte del gobierno, una ventaja, y esto es muy novedoso: la organización del gobierno, es un gobierno, y sobre todo todo lo que rodea principalmente a **Marcos Peña**, también a la **RETA**, también el equipo de **Vidal** (Cambiemos). El PRO es una máquina muy eficiente para indagar en la opinión pública, organizar la campaña electoral y buscar el voto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si esos tres puntos son con Alberto Fernández sacando 42%, Alberto Fernández estaría a tres puntos de ganar en primera vuelta, y esto es importante, ¿por qué? Porque es muy probable que la única posibilidad que tenga Alberto Fernández y Cristina Kirchner de ganar sea en primera vuelta; en un balotaje es altamente probable que pierda en cualquier escenario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Vidal ganara contra todas estas dificultades, sería una especie de milagro que le pondría al oficialismo un impulso prácticamente definitorio de todo el proceso electoral, y se volvería a repetir lo del 2015. Vidal haría que Macri gane, Macri le debería, en gran medida, la victoria a Vidal, lo mismo que Alberto Fernández, en caso de ganar, le debería la victoria a Cristina Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6694
+}

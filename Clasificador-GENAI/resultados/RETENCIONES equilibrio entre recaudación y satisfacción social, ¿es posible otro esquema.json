@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.543,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El conflicto latente, que amenazó con radicalizarse desde el seno de los productores rurales argentinos, obligó al gobierno de Javier Milei a bajar las retenciones, parcialmente, en la soja, que pasaron de 33 a 26 por ciento.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay otras formas de entender el mundo que van en contra de esta noción de Durkheim, como la marxista, particularmente en su versión estalinista, y la libertaria, con la que profesa nuestro presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando reina la desconfianza y se construye la idea del otro como enemigo, como oligarca o como comunista, y se presupone que las políticas que se dan son un robo de dinero con la corrupción, estos consensos se vuelven cada vez más difíciles, y cada sector tira naturalmente agua para su molino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El esquema económico kirchnerista, por ejemplo, se montó sobre los sobreprecios de las materias primas para aplicar retenciones al campo. Retenciones es un eufemismo de decir impuestos a la exportación, y con esas divisas financiar el resto de la economía deficitaria y a servir en subvenciones a la industria, ya sea que sentó el aparato estatal, se pisaron los precios de las tarifas de los servicios públicos, se dieron planes sociales.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si necesitas robarme para sostener el equilibrio fiscal, entonces no tenés equilibrio fiscal",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como se puede escuchar, todo el mundo tiene una parte de la verdad. Probablemente en el fondo hay un problema ideológico que hace que el gobierno desestime abordar el tema pragmáticamente, una suerte de anteojera para ver la realidad que no termina ajustando a lo complejo del problema. La relación en relación a la historia misma del concepto de derechos de exportación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tal vez pueda intentar ser más pragmáticos y menos ideologizados de ver la realidad. Ni lo del campo son todos oligarcas, ni las retenciones son un robo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6025
+}

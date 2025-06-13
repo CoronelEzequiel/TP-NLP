@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Luego de una serie de buenas noticias para el gobierno —la baja de la inflación, la depreciación del tipo de cambio, la disminución del riesgo país y el triunfo de Donald Trump—, Javier Milei se sintió más seguro como jefe de gobierno y como persona.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Considero que la derecha, envalentonada y con gran influencia en el panorama político nacional, está en condiciones de dividirse.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al analizar a quiénes beneficiaron las medidas de Milei, se observa un claro favoritismo hacia las empresas energéticas (hidrocarburos, Vaca Muerta, distribución de electricidad y gas) y las empresas tecnológicas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿A quién representa Villarroel? Sus vínculos son fuertes con el sector agropecuario, un sector que, bajo la gestión de Milei, se ha mostrado resignado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este contexto, la derecha y los grandes sectores económicos se disputan el poder sin prestar mucha atención al resto de los actores políticos, a los que consideran de menor importancia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1704
+}

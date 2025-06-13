@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Una vez más, el kirchnerismo, a través de voceros importantes, arremete de manera rústica e incluso insultante contra el periodismo que investiga o informa sobre casos de corrupción.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En solidaridad con ellos, han emitido comunicados el Foro de Periodismo Argentino (FOPEA) y la Asociación de Entidades Periodísticas Argentinas (ADEPA).",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tailhade, amparado por sus fueros como diputado, está siendo muy brutal en sus declaraciones contra la prensa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El propio presidente también hizo declaraciones el fin de semana, incluyendo al periodismo entre los actores que impulsan causas judiciales, lo cual, a mi entender, es incorrecto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tailhade es un denunciador serial, aunque la gran mayoría, casi el 100%, de sus denuncias quedan en la nada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que lo que dice Tailhade sobre los periodistas es brutal, equivocado y falso, y podría incluso constituir calumnias, generando un clima en la calle que podría desembocar en actos de violencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1764
+}

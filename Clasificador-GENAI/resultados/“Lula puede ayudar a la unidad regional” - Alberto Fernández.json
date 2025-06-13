@@ -1,0 +1,46 @@
+{
+  "texto_id": "rebeldia_de_la_moderacion",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.329,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "“los planes sociales tienen que manejarlos los intendentes”, fue la primera vez que lo dijo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En realidad, en consonancia con lo que piensa también Cristina Kirchner, que reclamaba pasar a los intendentes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“La pregunta de José Ignacio”, se refiere a José Ignacio López, la pregunta Rafael Videla sobre los desaparecidos fue histórica.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "“La política, la oposición política es buena mientras contribuya a la construcción y no al odio, no a las divisiones, no a sus enfrentamientos.”",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Donde me fui, puse gente y los dejé trabajar”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"La llegada de Lula puede ayudar a la unidad regional\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"A Cristina no la dejaron defenderse y a mí me pasó lo mismo\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5714
+}

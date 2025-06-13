@@ -1,0 +1,51 @@
+{
+  "texto_id": "El_Circulo_Rojo_con_Fernando_Rosso",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Personalmente, considero que las experiencias consejistas en contextos de transformaciones globales se acercaron más a una respuesta adecuada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En concreto, la mayoría de los diputados y diputadas fueron elegidos en los comicios de 2021, una parte; y en 2023, otra parte, en contextos políticos completamente diferentes al actual y en condiciones muy distintas.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cualquier estudio de opinión, abstraída la cifra de respaldo personal, arroja resultados categóricos: la mayoría de los consultados se opone a las medidas que el gobierno podría tomar gracias a la ley.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La más destacada, la marcha universitaria del 23 de abril, movilizó a más de un millón de personas en todo el país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la mayoría de los argentinos está en contra de subir la edad jubilatoria, de las privatizaciones y de las reformas laborales que impliquen pérdida de derechos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los diputados de la izquierda fueron los que reflejaron estas tendencias.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es irónico que Miguel Pichetto, quien acusó a la izquierda de tener un discurso viejo, haya jugado un rol clave en la aprobación de esta ley.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizás estemos presenciando el nacimiento de lo nuevo.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1884
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¡Basta de manipularnos!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si llega a subir un punto, me retiro, porque no vale la pena seguir luchando por la gente pobre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo pensé que era una elección limpia, que no iban a comprar votos para humillar a los pobres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo malo no es quién ganó (ganaron Santilli y Vidal), sino quién perdió por poco.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un triunfo hubiera sido que no hubiera habido elecciones, porque son unos delincuentes sin vergüenza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes no saben gobernar.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si hace mucho que no lo siente, hágase soplar burundanga en la cara.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dio asco la cobardía del intendente de La Matanza, Fernando Espinoza, que se escondió cuando mataron al quiosquero, pero estaba cagándose de risa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Habían destruido a los argentinos y habían destruido el peronismo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Después salen otras bailando y convocando a una marcha al pedo...",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Arranca el país...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, en Recoleta, Cristina seguía cortando pelos a todos y metiéndolos en una poción para volver dentro de seis meses, agarrándose el estómago y diciendo que, aunque esté sangrando y muriéndose como Evita, volverá.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2775
+}

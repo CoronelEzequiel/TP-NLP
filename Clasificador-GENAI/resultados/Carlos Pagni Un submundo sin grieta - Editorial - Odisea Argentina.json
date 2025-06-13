@@ -1,0 +1,36 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En este contexto de exceso, de transgresión, de reacciones inesperadas y nerviosismo, hay que poner al presidente de la nación pidiendo la destitución de un juez, del juez Alejo Ramos Padilla.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llama la atención ese reparo y esa molestia porque este oficialismo no solamente bendijo sino que promovió la llegada de Nisman al Congreso, que lamentablemente después no se produjo por la muerte de Nisman, donde Nisman anunciaba no solamente que iba a revelar pruebas que tenía sino pruebas que no se conocían respecto de la presidencia de la nación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Daría toda la impresión de que el oficialismo no quiere que se investigue lo que está investigando Ramos Padilla.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que importa de lo que está haciendo Ramos Padilla, que se metió con lo que no hay que meterse, y es el submundo de la inteligencia que contamina desde hace muchos años, y no por culpa de este gobierno, sino sobre todo por culpa de gobiernos anteriores, eminentemente por culpa del kirchnerismo, la vida de la justicia en la Argentina.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no me da economía, de 3,8% en un mes, da mi identidad. El eje central de campaña del gobierno es reclamar el voto por ser distintos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5868
+}

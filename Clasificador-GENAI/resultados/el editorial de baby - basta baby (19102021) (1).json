@@ -1,0 +1,41 @@
+{
+  "texto_id": "el_viejo_es_nuevo",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Porque nosotros somos… federales. ¡Familia!",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero… me gustaría empoderar a los ciudadanos. Porque se empoderaron las mujeres, pero no los ciudadanos varones.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el pueblo se cansó de que le falten el respeto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora salen a pedirle ayuda a la oposición diciendo que van a hacer un acuerdo y la oposición no le va a dar ningún acuerdo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Precisamente porque fueron muy insolentes y creyeron que el poder era para toda la vida.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y saben qué? Siendo rudos, ladrones, ignorantes y sin poder van a sufrir como perros.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2867
+}

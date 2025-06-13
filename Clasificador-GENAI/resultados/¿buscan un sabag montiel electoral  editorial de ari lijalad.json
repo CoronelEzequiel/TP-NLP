@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sabag Montiel era una persona que vive en la República Argentina, que lee medios, escucha radios, que mira televisión en la República Argentina y que, desde hacía por lo menos 10 años, escuchaba que Cristina no era una persona, sino una ladrona, una corrupta, que había que eliminar a los kirchneristas, que se le podía tirar piedras a su despacho, que se podía meter presos sin condena y que, en todo caso, podían ser eliminados, como habían sido eliminados en otros tiempos de la historia los adversarios políticos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace ya varios días que desde La Libertad Avanza están llevando adelante otro acto contra la democracia y contra el sistema electoral: no han entregado las boletas para que las distribuya la justicia electoral en varios lugares del país, principalmente en la provincia de Buenos Aires, el principal distrito electoral del país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál es el objetivo de todo esto? Que durante la mañana del domingo empiecen a aparecer videos diciendo \"fraude, se roban las boletas de Milei, no quieren que Milei gane\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, al igual que en el caso de Fernando Sabag Montiel, están generando un clima para que alguien se radicalice, y no se radicalice solo. Y eso es lo que me da la sensación de que hay que evitar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Buscan un Sabag Montiel electoral? Yo espero que no lo encuentren y tengamos un domingo en paz.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2379
+}

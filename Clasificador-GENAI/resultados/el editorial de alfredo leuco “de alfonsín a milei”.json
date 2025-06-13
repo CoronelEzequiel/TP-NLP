@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.556,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si bien es cierto que su victoria en segunda vuelta demostró el hartazgo social con el modelo autoritario y corrupto del kirchnerismo, 14.554.560 compatriotas depositaron su confianza en Milei.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Coincido con Luis Juez en que si a Milei le va mal, el kirchnerismo podría resurgir.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es necesario dejar atrás el pasado y comenzar de nuevo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alfonsín afirmaba que con la democracia se come, se cura y se educa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esa trilogía falló, ya que el peronismo, que gobernó durante muchos años, apeló a viejas recetas estatistas, populistas y kleptocráticas que multiplicaron los problemas de pobreza, indigencia, inflación, crisis educativa y sanitaria, y fueron cómplices de la inseguridad criminal, en connivencia con los narcotraficantes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Probemos con otras ideas, con modelos diferentes, con menos asfixia del Estado, con menos impuestos y regulaciones y con más libertad para contratar, trabajar y comercializar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá Javier Milei inicie una etapa de un país normal, con sentido común y que aplique los mecanismos que han demostrado ser exitosos en los países más desarrollados del mundo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahí andaba don Raúl, con las manos limpias, viviendo y muriendo en el mismo departamento de siempre.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá que el ejercicio del gobierno le haga repensar ese rechazo y sumarlo como un activo cultural y cívico a los nuevos tiempos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2742
+}

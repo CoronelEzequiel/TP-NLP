@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_desempleo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El dato de la semana: aumento del desempleo, 9,2%, representando un aumento de 1,7% en la cifra del desempleo, la cifra más alta de los últimos años.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El discurso del gobierno es que se está creando y aumentando el empleo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El INDEC, al cual todos hoy le creemos, y es un mérito del gobierno haber logrado un INDEC absolutamente creíble, dice exactamente lo contrario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que el gobierno, y en especial el Presidente de la República, debe abordar esta situación con seriedad y gran atención para darse cuenta de que hay una realidad que no concuerda con su discurso actual.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y como decía Aristóteles, la única verdad es la realidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 886
+}

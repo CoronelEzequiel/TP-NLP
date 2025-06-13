@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy marcharemos en defensa de los jubilados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando permitimos que se maltrate a los jubilados, parece que hubiéramos nacido de la nada, sin comprender que no existiríamos, ni disfrutaríamos de lo que tenemos, sin su esfuerzo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero recordemos cuando Diego dijo: \"Hay que ser muy cagón para no defender a los jubilados\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una nota que muestra cuánto dinero le dieron los jubilados al Estado, que luego se entrega a Galperín o a quien sea.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El total de lo que perdió cada jubilado desde que asumió [Nombre del presidente] hasta hoy, comparado con lo que hubiera ganado con el gobierno anterior, son 2 millones de pesos. A cada jubilado le robaron 2 millones de pesos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, las hinchadas y todos los que vayamos estaremos entre la policía y los jubilados, no para pelear con la policía, sino para decirles: \"Hasta aquí llegaron\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Burri, Majul, los jubilados irán, las hinchadas irán, porque es el comienzo de la salida de un tiempo oscuro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recuperar el trabajo, la buena remuneración, el buen vivir y el amor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3825
+}

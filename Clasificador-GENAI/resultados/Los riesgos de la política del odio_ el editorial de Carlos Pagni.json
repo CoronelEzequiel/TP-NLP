@@ -1,0 +1,36 @@
+{
+  "texto_id": "audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei parece ser alguien muy dotado para eso. Es decir, hasta por características personales, cuando él dice son muy intensos, hasta por su propia agresividad, ha logrado conectar en una sociedad muy frustrada con esos sentimientos agresivos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy esa clasificación sigue estando, pero hay otra más poderosa aparentemente, que la detecta en la gente y la formula, le da palabras, etiquetas, Milei: Pueblo contra casta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces alguien que se esté preguntando quién controla la política fiscal del gobierno, hasta ahora eran Milei y Caputo. No, aparentemente un tema tan importante como las jubilaciones lo pueden manejar Martín Lousteau, Juan Manuel López y Máximo Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hubo otra. Se enojó la casta, la casta ofendida. ¿Dónde? En el Congreso. ¿Y qué hizo? Aprobó una ley para reformar la fórmula de jubilaciones que tiene un efecto fiscal, un enorme daño al gobierno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es evidente que el radicalismo de la Capital Federal, que es el radicalismo de Lousteau y de Yacobitti, está cada vez más lejos de los Macri. Está yéndose de Juntos por el Cambio en la Capital, para no tener que hacer una interna permanente con el PRO que el radicalismo pierde.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8828
+}

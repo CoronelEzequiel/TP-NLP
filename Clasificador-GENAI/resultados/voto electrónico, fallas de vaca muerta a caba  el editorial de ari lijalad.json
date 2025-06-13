@@ -1,0 +1,36 @@
+{
+  "texto_id": "voto_electronico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Están los del Macrismo, Milei, el Kirchnerismo, todos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y eso mismo pasó en la Ciudad de Buenos Aires en 2015, sí, cuando Horacio Rodríguez Larreta fue electo jefe de gobierno con voto electrónico, con un sistema que fue hackeado, y que la misma empresa que hizo las elecciones en Neuquén, y que hoy el observatorio de la Universidad del Comahue dijo que es absolutamente trucho todo lo que hicieron, reconoció que le habían hackeado en esa elección.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pregunté a Martín Lousteau en su momento por qué había aceptado un resultado electoral, porque yo sabía que Lousteau sabía. Y Lousteau me dijo, bueno, sí, hay veces hay cosas más importantes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando sale el informe que dice que en Neuquén fue todo trucho, Larreta lanza la licitación para implementar ese sistema acá que ya usó y que ya fue trucho.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo ya anticipé que yo no voy, en el caso de que lo logren hacer, yo no voy a votar con una computadora porque no tengo ninguna garantía de que lo que yo vote efectivamente se contabilice como yo quiero que se cuente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2662
+}

@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.177,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, a mí no me extraña; La Nación hace mucho tiempo que le viene pegando al PRO y a Jorge Macri en particular, ¿eh?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es que es un escándalo ético, Jorge. 16 años de gestión, ¿no pudieron resolver la vacante de educación inicial y primaria?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ellos saben que la mayoría de sus votantes no son usuarios ni del sistema de salud, ni del sistema de educación público.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me parece bien; yo no tengo nada para objetar en relación a eso.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero si llegara a darse el caso de que un gobierno como el que Jorge Macri o Ramiro Marra quieren que gane en la Argentina, ganase… eso va a generar inevitablemente una profunda recesión, una expulsión del mercado del ahorro y una sobresaturación de los servicios públicos de salud y educación, porque la gente va a perder el empleo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que hay que hacer una fuerte inversión en 100 escuelas infantiles.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo vivo ahí, en Boedo, a 25 cuadras para el sur de Rivadavia, y se nota.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después de la pandemia… A ver, ¿qué creo que hay que hacer? Nosotros tenemos que tener un centro de monitoreo en cada uno de los barrios calientes.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no es que la operadora pueda mirar… pero en las zonas calientes lo tenés que tener.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no conozco un solo laburante… seguramente los taxistas o la gente que nos está escuchando ahora… vas a ver que tengo razón.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, hay que ser duro con las causas, pero también duro con las consecuencias.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no voy a vender costa de alquiler para hacer un barrio de lujo como quieren hacer estos tipos. No lo voy a hacer; voy a hacer un parque público.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso es importante construir una alternativa al gobierno del PRO y a Jorge Macri en particular, porque si no es poner al zorro a cuidar el gallinero.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 9319
+}

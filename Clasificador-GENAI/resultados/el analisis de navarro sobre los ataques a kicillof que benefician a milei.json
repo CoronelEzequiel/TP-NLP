@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando Axel Kicillof empezó a caer en las encuestas, cuando estas empezaron a mostrar que la gente estaba cansada de su gestión, cuando se percibió que su gobierno significaba hambre y enfermedad, cuando el gobierno había encubierto su vergonzoso propósito de desmantelar los hospitales públicos, cuando los estudiantes realizaron paros, ocuparon las facultades y luego las calles, y cuando Kicillof participó en un acto donde alabó y reconoció el liderazgo de Cristina Fernández de Kirchner cinco veces en una hora, La Cámpora lo tildó de traidor.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no quiere volver a ser presidenta y es respetable su decisión, pero quiere seguir eligiendo candidatos, desde el presidente hasta el último concejal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente percibe que pelearon durante los cuatro años del gobierno de Alberto Fernández y que la pelea continúa.  Ven al peronismo como un caos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si tienes que imponer tu poder con gritos, insultos y amenazas, es porque estás perdiendo poder.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En vez de una negociación racional, se impone la sumisión o la traición como lema.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner hizo cosas buenas (jubilaciones, asignación universal, planes sociales, universidades), pero la gente necesita comer.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2791
+}

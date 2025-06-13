@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Quiero saludar a toda la militancia que ha resistido a la dirigencia, y de eso se trata.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Santa Fe, el peronismo tendrá que empezar de nuevo, y la fuerza de la militancia santafesina es inversamente proporcional a lo que hizo el gobernador Perotti, que, egoístamente, trabajó solo para sí mismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él practica la solidaridad mucho antes que Cristina Kirchner.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer estaban durmiendo la siesta, como comentó Massa, pero se están despertando.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si gana Massa, no hay nada que festejar. No ganamos nada. Tenemos un país que lucha por mantenerse en pie, y tenemos que ayudar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1918
+}

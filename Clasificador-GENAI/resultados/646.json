@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.271,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sería un cambio en la matriz unitaria de Argentina, con una visión más latinoamericanista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recuperar la dimensión heroica de la política, los sueños de San Martín y Artigas… crear una patria para todos con una visión latinoamericanista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestra autonomía de habernos jugado en las elecciones frente a Sergio Massa, manteniendo una coherencia desde el 2001 hasta ahora, nos da la libertad de decir lo que pensamos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay cosas que valoramos muchísimo de Cristina, de su coraje… y otras que faltaron o hicieron mal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta política de “mi ley” fue a golpear el corazón de las organizaciones populares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, levantás una piedra y tenés un dirigente popular.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una época hiperindividualista, por la estructura del modo de producción capitalista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2570
+}

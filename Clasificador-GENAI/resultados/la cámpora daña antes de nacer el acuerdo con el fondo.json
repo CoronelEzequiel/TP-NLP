@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.614,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno cedió ante las propuestas de la oposición, conformándose con la autorización para endeudarse, pero sin lograr la convalidación de sus medidas económicas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De esta situación emerge un presidente que ya no puede simular, mediante gestos de contradictorio equilibrio, que el sector fundacional de su espacio lo apoya.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es imposible considerar que el vacío de poder provocado por La Cámpora, con el hijo presidencial como mascarón de prueba, y su primer portazo, no cuenten con la anuencia de la vicepresidenta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente obtendrá la aprobación del acuerdo gracias a la oposición, que, desde una temprana estrategia de la Coalición Cívica ARI de Elisa Carrió, propuso una autorización para el endeudamiento desacoplada de las medidas económicas para cumplir el acuerdo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto genera interrogantes muy serios, no solo sobre el cumplimiento del acuerdo, sino sobre la gobernabilidad futura.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos los caminos conducen a Cristina Kirchner.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hay un presidente débil, es porque ese siempre fue el plan de Cristina Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2023
+}

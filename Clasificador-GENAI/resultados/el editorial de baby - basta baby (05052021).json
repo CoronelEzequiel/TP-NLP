@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.857,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy ustedes quemaron un cajón cada uno, porque Herminio quemó un cajón, pero ustedes los quemaron porque hoy la decrepitud del gobierno estaba arriba del escenario, y no estoy hablando de la moral, estoy hablando de lo más decrépito del gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi hermano estuvo en Malvinas, murió, y escuchar a parafrasear a un dictador es más o menos un acto de hijaputez tan grande, de miserable, y además, ordinario, rústico, porque ya ven lo que tienen ustedes, que son tan rústicos, que cuando se quieren hacer los graciosos, queda mal, ¿entendés?",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mirá cómo era el espectáculo dantesco que marcó la hecatombe del kirchnerismo, porque ya están jugando con la reserva, porque ya no tienen nada.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando ves la foto después, con el... dos horas después, mirá esta, se llama \"el palacio del Covid\", es un lugar que hay dentro de la edificación donde todo se puede contagiar tranquilo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si ustedes saben que yo no los quiero, no los quiero, pero realmente no es para levantar el pulgar, es el fracaso de una gestión que ya estamos contando casi 65 mil muertos, que las vacunas no llegaron, y todavía Alberto, como esos tíos que siempre cuentan el mismo chiste en la fiesta de fin de año, sigue hablando de Márquez, pero Alberto, no me hable del pasado, hábleme de futuro, no me saque la dictadura, la militar, el golpe blando, el único golpe blando...",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes caen por peso propio, por no haber cumplido absolutamente con nada.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dieron vergüenza, y si esa es la unidad, si esa foto es la unidad, bueno, quedan dos años, quedan dos años, sin poder, sin fuerza, nada más, que con el miedo para gobernar, con el miedo al hambre, con el miedo a quedarse sin los bonos, con el miedo al coronavirus, con el miedo a la gendarmería, con el miedo a la policía, con el miedo a que nos paren los retenes, con el miedo a los chorros, al ejército de las tinieblas, con el miedo, pero de democracia y de gobierno, nada, nada, ni se hable.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3242
+}

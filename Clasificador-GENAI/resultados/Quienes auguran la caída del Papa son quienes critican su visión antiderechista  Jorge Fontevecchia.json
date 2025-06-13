@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_papa",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Titulamos esta columna de hoy día 453, \"La salud del Papa y la derecha de mal agüero\", porque ayer el periodista **Eduardo Feinmann** volvió a plantear un supuesto estado crítico de salud del Papa Francisco, más que un estado crítico, y esta información que brindó el periodista fue contrastada con la comunicación oficial del Vaticano que informó que el máximo pontífice continúa mejorando, y luego todos pudimos escuchar al propio Papa en un mensaje grabado frente a la plaza de San Pedro, por lo que evidencia una gradual mejora.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, en este programa, el dirigente argentino **Juan Grabois** se refirió a quienes emiten noticias hablando sobre la supuesta muerte del Papa o que vaticinan un empeoramiento de su salud, y cuando lo analizamos, vemos que los mismos sectores que auguran el fallecimiento de la máxima autoridad de la Iglesia Católica son los que, al mismo tiempo, siempre criticaron sus ideas, opuestas al auge de la extrema derecha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habría que explicarle a Trebucq que leyera los reportajes de Jorge el Papa, donde él claramente dice que viene un hogar gorila radical que no es peronista ni nunca lo fue.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta posición crítica hacia las posiciones de Francisco son claramente sostenidas desde un sector ideológico referenciado con la derecha y la extrema derecha, hoy en auge en el mundo y, desgraciadamente, también en nuestro país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5274
+}

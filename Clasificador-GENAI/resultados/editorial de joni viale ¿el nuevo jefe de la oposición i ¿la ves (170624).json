@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Parecido, el gobierno de Milei también lo identifica como el nuevo jefe de la oposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después vino la misa militante que ocurrió la semana pasada en San Cristóbal, que fue una misa recontra militante, mira.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí la respuesta es de un fenomenal vacío de liderazgo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es un problema ideológico, desconozco, no lo sé.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo tanto, Bergoglio, hábil político, hábil, además de ser el Papa y de ser un hombre de la religión, hábil político, podría estar funcionando no como un jefe real de la oposición, como un aglutinador de la oposición.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo le tengo miedo a los salvadores en la historia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy Milei, yo te diría, tiene todas las luces apuntadas del coliseo a él, todas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No puede ser tan difícil ejercer el respeto mínimo con el que piensa distinto a mí.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, sea quien sea el jefe de la oposición, yo no sé si es Cristina, es Kicillof, es Grabois o es el Papa, lo digo tranquilamente, probemos respetando al otro.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5072
+}

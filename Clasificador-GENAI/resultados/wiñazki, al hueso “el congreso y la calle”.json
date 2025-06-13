@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El reciente caso de un joven de 15 años que asesinó a un hombre armenio para robarle una bicicleta, ha reavivado el debate sobre la baja de la edad de imputabilidad y la necesidad de un régimen penal juvenil adecuado en Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin querer generalizar, Manuel Dufar mencionó la sorprendente resistencia de los gobernadores a la suspensión de las PASO.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Cuáles son las prioridades del oficialismo? ¿Una marcha por la liberación de presos políticos? Mientras tanto, la legislación sobre menores que cometen homicidios es insuficiente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, los niños no asisten a clases, hay hambre, 40.000 muertos por COVID-19 y un futuro incierto.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1500
+}

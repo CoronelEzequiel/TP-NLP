@@ -1,0 +1,36 @@
+{
+  "texto_id": "La verdad del poder o el poder de la verdad. El Círculo Rojo con Fernando Rosso",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.08,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, esa es una de las más grandes falacias de Milei y de los libertarios en general, y en estos siete meses ha quedado más que demostrado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la gran mentira sobre la relación entre libertarianismo y Estado es una de esas operaciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el punto de vista práctico, lo que presenciamos en estos casi siete meses no fue una retirada del Estado, sino una intervención feroz del Estado, de un Estado fuerte en favor de los más poderosos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué otra cosa es sino la licuación de los haberes jubilatorios para generar recursos fiscales que después se traducen en beneficios fenomenales a las empresas o en pago de deuda a bancos usureros?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que presenciamos hasta ahora fue lisa y llanamente un libertarianismo de Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2286
+}

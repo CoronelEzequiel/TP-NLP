@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.122,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esta acción representa una grave amenaza al federalismo en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el segundo fallo, la Corte favoreció nuevamente al Grupo Clarín, permitiendo que este cobre tarifas excesivas por sus servicios de internet (Fibertel), cable y telefonía celular (Personal).",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación evidencia la consideración de las telecomunicaciones como una mercancía, priorizando el lucro empresarial por sobre el derecho humano básico al acceso a la conectividad.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Corte Suprema, al avalar esta práctica, consolida esta visión mercantilista.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La insatisfacción democrática surge de la impotencia ciudadana ante este poder no elegido, que escapa al control del voto popular.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, el Grupo Clarín actúa como portavoz de este poder económico, ejerciendo una influencia desproporcionada.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un ejemplo de esto es la proscripción de una figura política que ha desafiado el poder económico, buscando un equilibrio entre las ganancias empresariales y el salario digno de los trabajadores.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la Argentina se encuentra ante una situación donde un estado paralelo, representado por Clarín,  ha cooptado el poder judicial y condiciona las decisiones políticas, limitando las posibilidades de una distribución más equitativa de la riqueza y el acceso a servicios esenciales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1577
+}

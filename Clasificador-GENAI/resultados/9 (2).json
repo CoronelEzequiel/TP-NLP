@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.403,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Su defensa está a cargo del Dr. Facundo Díaz Sansolén, quien ya se reunió con él.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si bien existen secretos de sumario que impiden revelar muchos detalles, podemos confirmar que asumimos la defensa de Walter Maciel junto al Dr. Miguel Ángel Pierri.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La principal complicación para Maciel reside en sus acciones (o inacción) durante las primeras horas tras la desaparición, acciones que podrían haber favorecido la comisión del delito.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, la hipótesis inicial de trata de personas, que cobró fuerza días después de la desaparición de Loan, parece perder fuerza desde mi perspectiva.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Maciel se mostró abatido y quebrado, proporcionando nombres y lugares, y respondiendo con precisión a mis preguntas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nuestra estrategia se basa en información ya de dominio público: dentro de la lista de detenidos hay un responsable de la desaparición de Loan.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi hipótesis, aunque provisoria, es que no se trata de trata de personas (artículo 146 del Código Penal, secuestro), pero aún no descarto completamente la figura del secuestro.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante destacar que las personas implicadas actualmente detenidas fueron identificadas gracias a las primeras diligencias de Maciel.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su ausencia del lugar de los hechos, ante un caso tan grave, es relevante.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podemos debatir si Maciel fue un buen o mal comisario, pero su participación en la desaparición de Loan está descartada desde nuestro punto de vista.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La actuación policial está volcada en un sumario, incluyendo el hallazgo de zapatillas por un vaquiano.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es fundamental analizar las primeras 48 horas, tan criticadas para nuestros representados.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Maciel tiene 25 años de trayectoria. Se le ha criticado su rigidez y posibles malos tratos a subordinados, pero eso no lo convierte en culpable de la desaparición de Loan.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, Maciel está dispuesto a declarar de forma presencial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se presentaron escritos con declaraciones espontáneas, y él quiere declarar para aclarar los hechos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2459
+}

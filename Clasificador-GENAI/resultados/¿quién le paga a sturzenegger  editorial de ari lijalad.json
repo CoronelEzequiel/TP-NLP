@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.225,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay un dato muy preocupante: las negociaciones que se están llevando a cabo en el Congreso con respecto a la \"ley ómnibus\" (denominada \"ley bases\" por el gobierno), son, en esencia, un acuerdo para organizar la pobreza en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, Nicol Antos contó lo sucedido en ese departamento, y yo pude reconstruir algunos detalles adicionales. Allí estaba Federico Sturzenegger. Sigue siendo una incógnita quién le paga a Sturzenegger por todo este trabajo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí, en cambio, se reunieron en un departamento. Esto lo confirmé con diputados que estuvieron allí y me contaron cómo fue. Pasaba gente, pero el anfitrión era Federico Sturzenegger.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y eso es lo que estaba negociando Federico Sturzenegger en un departamento en Recoleta, frente a La Biela. Digo toda la simbología para aquellos que no son porteños. La Biela es históricamente el bar más caro y \"cheto\" de la ciudad de Buenos Aires, donde se reúnen los que hacen negocios de la élite.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2295
+}

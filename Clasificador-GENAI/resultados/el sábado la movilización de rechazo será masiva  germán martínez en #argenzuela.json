@@ -1,0 +1,36 @@
+{
+  "texto_id": "politica",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.16,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Pero quienes están dispuestos a dar la pelea en todos los frentes son los diputados de Unión por la Patria, y lo están haciendo de manera integral.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que, incluso con un intento de distracción, no debemos pasar por alto la gravedad de lo sucedido estos días, porque realmente quieren venir con una agenda para desmantelar todo lo construido en los últimos 20 años, y eso es preocupante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está claro que el gobierno intenta obstruir el trabajo parlamentario.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que expresarse claramente en contra de las señales nazis y fascistas defendidas por el presidente de la Nación.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si estos sectores que fueron a Casa Rosada la semana pasada se animaran a construir una mayoría que le ponga plazos y tiempos al Poder Ejecutivo para habilitar el debate parlamentario, tendríamos ley de presupuesto.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2959
+}

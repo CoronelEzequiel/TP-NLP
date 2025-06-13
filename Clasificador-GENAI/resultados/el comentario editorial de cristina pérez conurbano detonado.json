@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.723,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por primera vez, la inseguridad está primera entre las preocupaciones de la gente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Paradójicamente, el distrito electoral que sustenta el poder del kirchnerismo está hundido en la pobreza y en lo que yo le llamo “el sálvese quien pueda”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las justificaciones a los delincuentes no son nuevas, hemos escuchado tantas, pero están en el corazón de la ideología K, que, con el cuento de no estigmatizar al que delinque, convierte a las víctimas del delito en ciudadanos de cuarta, porque el garantismo judicial, que es la expresión más acabada de esto, empezó con los beneficios o los atenuantes para los delincuentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando el que mata a otro no la paga, ¿qué genera? Que la gente se tenga que defender como pueda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El único pecado que cometieron estos chicos de 14 y 16 años fue buscar un lugar alejado para encontrarse, para estar juntos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La voluntad política que no tiene Axel Kicillof.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobernador Kicillof dijo, dirigiéndose al presidente, “si realmente quiere colaborar con la provincia, presidente, podría empezar por devolver los 749.000 millones de pesos del fondo de seguridad de los que se apropió ilegalmente”.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y esto yo lo quiero remarcar porque significa, vieron que siempre había como un leitmotiv. Cuando las cosas empiezan a andar mejor, a la gente no le importa que le roben, ¿se acuerdan? O el “roban pero hacen”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo avisé, Kicillof es un inútil, o sea, lo cual lo prueba sistemáticamente, o sea, se empecina en darme la razón.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fijate, bueno, Milei ve en todas partes mercados, ¿no? El mercado de la delincuencia. Y sí, hay incentivos para robar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A los intendentes tampoco los desvela precisamente la virtud. No es que estoy diciendo que son pobres tipos, que no les quedó otra. No. Lo que les interesa a los delincuentes, a los intendentes, es algo que ustedes van a conocer muy bien: la reelección eterna.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya sabemos que los estropicios de género, cuando son de los varones K, no importan.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si ella anda tranquila por la vida, después de afanarse, al menos, según unos 20 jueces y fiscales, 88.000 millones de pesos de la causa de la vialidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 6894
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "Horacio_Pietragalla",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.042,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es aberrante la irresponsabilidad de estos diputados nacionales, representantes del Parlamento, que visiten a genocidas, antónimos de la democracia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno neoliberal de Menem indultó a los jefes de la dictadura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno neoliberal de Macri promovió el \"dos por uno\" y apoyó a los abogados de los genocidas ante Naciones Unidas para denunciar violaciones de derechos humanos durante el proceso de juzgamiento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno busca dar impunidad a los genocidas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Reemplazaron la AFI por la C.I.A. (asumiendo una posible confusión por parte del entrevistado), están intentando restablecer el rol de los militares en la política interna (contrario a lo consensuado tras la dictadura), y colocan familiares de condenados por crímenes de lesa humanidad en áreas de derechos humanos del Ministerio de Defensa.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Villarroel, a quien conocemos desde hace años en la Secretaría de Derechos Humanos, siempre ha estado en la misma línea, luchando por la impunidad de los genocidas, atacando a quienes denunciamos esto.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1929
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_zurro",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.375,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Explicó que considera estos eventos como una inversión, ya que permiten que la población, incluso las personas con bajos recursos económicos, puedan acceder a espectáculos de nivel internacional, utilizando el ejemplo de una jubilada de Pehuajó que no podría costear el viaje y la entrada al Movistar Arena en Buenos Aires.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Criticó el manejo económico del gobierno nacional, señalando las dificultades que enfrentan los jubilados y la incongruencia de pagar más de lo solicitado por el FMI.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Defendió su gestión en Pehuajó, destacando los logros obtenidos y rechazando las acusaciones de pertenecer a la \"casta política\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Zurro aclaró que su rechazo a ciertos artistas no se debe a prejuicios personales, sino a que simplemente no comparte sus estilos musicales.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1058
+}

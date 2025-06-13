@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si uno escucha el discurso de Macri, es un discurso que convoca a mantener determinados valores, a mantener determinado ideal de democracia, más allá del fracaso económico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el discurso de Fernández es un discurso que casi está únicamente concentrado en cambiar la política económica.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy vemos a Macri con un discurso económico desesperado, porque sabe que pierde básicamente las primarias por la economía. La economía es el gran fracaso de Macri.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fernández parece estéticamente, visualmente más desligado de, se lo dijo Horacio González, el intelectual de Carta Abierta, el ex presidente director de la Biblioteca Nacional, de la calle.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Problemas de la Argentina con el Estado de Derecho.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4826
+}

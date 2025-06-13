@@ -1,0 +1,61 @@
+{
+  "texto_id": "viviana_canosa",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Te jodes si te digo que ahora no quiero que me mientan más? ¿Te jode si les digo, si les decimos que se pueden ir bien a la mierda todos los corruptos? ¿Cuál sería el pecado?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Demasiada gente sigue con sus grietas de izquierda y derecha, sin darse cuenta de que todos son lo mismo. Sirven a los mismos fondos buitre a escala mundial.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quiero este nuevo orden mundial. La segunda fase de la instauración del nuevo orden mundial está en marcha.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pasan de año, no saben una mierda, solo saben zafar entre la falopa, el paco y que no van al colegio, ¿cuál es el futuro que le espera a estas generaciones?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los años donde se obligaba a pensar ya pasaron, me muero muerta, no sos vos, soy yo, somos nosotros. Estamos en el fondo del mar y los Baradel de la vida nos gobiernan, no sos vos, soy yo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá deberíamos copiar lo bueno que hacen otras partes del mundo, no niños adoctrinados, no niños adoctrinados. Como me calienta que adoctrinen a los pibes, me calienta mal. Es mucho más inclusivo que sepamos el lenguaje de señas y no hablar con la letra E.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mucho d'artés, poco Alperovich. Me da 10 d'artés, 0 Alperovich. Este feminismo selectivo me da urticaria. Claro, como él es cumpa, no le dicen absolutamente nada.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vos decís, yo la verdad que no tengo una vida de mierda, no tengo un mango, no tuve educación, viví para el orto, no tuve la suerte de decir que tuvo la hija de Tinelli. Vos creés que Cande Tinelli lo tiene todo y lo tuvo todo. Cuando estaba Macri gobernando, y Cande Tinelli lloraba por los medios de comunicación, en las redes sociales, diciendo que: 'Ah, pero Macri, tengo que volver a vivir con mi papá, porque no me alcanza la plata'. Y ahora con Alberto no dice nada.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, hable con la gente, escuche sus problemas. Sabes que están acampando y que van a acampar. Que es un despelote la ciudad. Hoy yo no llegaba más acá, tuve que desviar el camino. La gente está acampando porque la gente tiene hambre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Les pido perdón por creer en Dios. Les pido perdón por no ser abortera. Les pido perdón por querer una mejor educación para todos nuestros hijos. Les pido perdón por ser profamilia. Les pido perdón por ser higienista. Les pido perdón por ser libre. Les pido perdón por no querer políticos corruptos. Les pido perdón por decir la verdad.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8036
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_pobreza",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los pobres son una plaga, una peste, una epidemia. Yo qué sé cómo pararlos, erradicarlos. Y que finalmente una vez inventen la receta para que todos desaparezcan.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay ideologías, no hay diferencias políticas que nos permitan debatir, intercambiar y trabajar juntos para pensar soluciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este aumento de pobreza se debió a la destrucción del tejido industrial que significó la política de reprimarización de la economía argentina por el gobierno militar. Es decir, menos empresas nacionales dando trabajo y, por ende, una mayor cantidad de desempleados y pobres.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Crecer y bajar la inflación son condiciones necesarias para que disminuya la pobreza y el gobierno del presidente Milei ha dado los primeros pasos para avanzar en esa dirección.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La responsabilidad del aumento mayor de la pobreza es de este gobierno, cómo será el mérito si finalmente su política económica tiene éxito de luego reducirla de manera más drástica de lo que lo hubiera reducido un proceso gradual.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6284
+}

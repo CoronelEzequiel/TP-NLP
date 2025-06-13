@@ -1,0 +1,36 @@
+{
+  "texto_id": "pichetto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.69,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El Congreso será el espacio más vital del país, y allí habrá que construir lo que vos decís: diálogo, acuerdos, agenda de Estado y consolidar un país democrático, un país de paz social.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que ordenar las variables económicas para gobernar con orden fiscal, y construir un mundo capitalista productivo, no financiero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La educación pública es el eje igualador de posibilidades y de proyección hacia el futuro.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fueron piqueteros de todo el país a generar conflicto en Jujuy. También ciudadanos bolivianos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La visión insurrecional y el mundo de las organizaciones piqueteras es algo que hay que derrotar en Argentina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2959
+}

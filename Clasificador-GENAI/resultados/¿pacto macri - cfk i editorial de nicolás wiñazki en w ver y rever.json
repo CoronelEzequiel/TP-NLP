@@ -1,0 +1,46 @@
+{
+  "texto_id": "De la justicia",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.529,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Les vamos a contar nuevas declaraciones, no en la justicia, sino chats entre los principales involucrados en el atentado fallido contra la Vicepresidenta.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Hay un pacto entre Cristina Kirchner y Mauricio Macri?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que ocurrió es que, en los hechos, Cristina dejó de nombrar a Macri.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri quiere polarizar con Cristina Kirchner.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los hechos demostraron que Cristina en algunas cosas tal vez le haya cumplido en un acuerdo implícito, no explícito.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un canal de diálogo abierto en una sociedad que parecía, o en una clase política que parecía que no estaba dialogando y sí están dialogando de forma subterránea.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri no lo dijo, pero está trabajando como si quisiera y fuera a ser precandidato a Presidente de la Nación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2520
+}

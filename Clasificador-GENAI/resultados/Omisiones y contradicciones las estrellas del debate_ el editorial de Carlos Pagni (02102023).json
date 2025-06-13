@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.514,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Quiero decir que la política hoy, por razones más que obvias, la situación del país es muy complicada, muy angustiante, está demandando mucha atención, hay mucha necesidad de explicación, de conocimiento, equivalente al monto de incertidumbre que hay hoy en la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me estoy refiriendo a **Juan Grabois**, que más allá de sus insistentes referencias a Córdoba, tuvo posiciones muy interesantes, muy claras respecto de la economía y de la política, y a **Myriam Bregman**, que se desempeñó con extraordinaria soltura.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El debate es tan intenso que **Javier Milei** insiste en que hay que cerrarlo. Ahora dice que lo va a cerrar más tarde, pero que quiere cerrarlo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá quiero ser claro, no me estoy refiriendo, no es el que mejor estuvo. Al que mejor le fue, fue a **Sergio Massa**. ¿Por qué? Porque la sacó baratísima.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "**Milei**, cuya bandera principal es la renovación de la política, es la impugnación absoluta a lo que él llama la casta, no mencionó en ningún momento la palabra legislatura, la palabra chocolate no pasó por sus labios, corroborando para muchos que es parte del sistema en ese reparto de dinero, por vía directa o indirecta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una intervención poderosísima de la iglesia católica en el debate electoral. Hay una posición prácticamente, mucho menos que subliminal, casi oficial de la iglesia católica condenando a un candidato que es **Milei**.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Miren las personas que están asociadas su nombre a esa conversación que vemos en las redes. Jefe de Gabinete **Martín Insaurralde**, **Máximo Kirchner** y **Axel Kicillof**. Acá está el problema. **Sergio Massa**, el candidato a presidente de esta fuerza política. Queda envuelto en el escándalo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9033
+}

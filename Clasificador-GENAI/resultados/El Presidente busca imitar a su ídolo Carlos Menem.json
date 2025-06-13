@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tengo hambre de libertad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El debate de fondo es si es necesaria una línea estatal o de bandera, como suele decirse, si esta es necesariamente deficitaria o podría no serlo, si efectivamente podemos pagarla, si, aun fuera deficitaria, porque tiene otras ventajas secundarias mayor que el costo que nos significa.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Utilizar el conflicto sindical y paritario como argumento para justificar la privatización de la empresa es desviar el verdadero foco de la discusión.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Milei quiere cargarse Aerolíneas Argentinas, literalmente nos va a tener que matar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se quiere cargar Aerolíneas, nos va a tener que matar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay mesa de diálogo y quieren discutir, tenemos argumentos para discutir, porque los trabajadores ya mostramos que una compañía pública puede generar riqueza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde la reestatización de Aerolíneas en el año 2008, los resultados financieros de la empresa fueron negativos hasta 2023.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quienes plantean la privatización de Aerolíneas Argentinas también denuncian que el personal de la compañía estatal creció un 50% en 11 años.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo mejor es desideologizar el debate y enfocarse en soluciones prácticas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4713
+}

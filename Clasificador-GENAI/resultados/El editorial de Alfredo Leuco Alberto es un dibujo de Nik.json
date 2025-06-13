@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.883,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El país está en llamas, Cristina Fernández de Kirchner y Alberto Fernández han destrozado todo, y por eso la gran mayoría de los argentinos definen a este gobierno como el peor de la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Han logrado convertir a nuestro sufrido país en tierra arrasada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De títere, Alberto pasó a espantapájaros y ahora directamente está dibujado, es un dibujo de Nick.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es lo peor que vi en mi vida. De la Rúa era Churchill. De Gaulle y Adenauer al lado de este muchacho.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, más golpismo no se consigue. Le falta el casco y las botas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ni un milagro lo salva del desprestigio. Roban, pero no hacen.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2078
+}

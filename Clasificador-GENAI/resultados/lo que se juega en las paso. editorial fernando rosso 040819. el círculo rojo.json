@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.271,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En principio, tanto el gobierno como, en cierta medida, la oposición —porque les conviene— afirman que estas elecciones son las más trascendentales de la historia democrática reciente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con esta estrategia, se busca condicionar o coaccionar a los ciudadanos para que se resignen a un \"mal menor\", a un proyecto o candidato que no desean pero que consideran necesario respaldar para evitar un supuesto abismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La estrategia de Jaime Durán Barba de presentar la situación como una cuestión de vida o muerte busca reforzar esta percepción.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro movimiento estratégico consiste en ocultar las discusiones de fondo, las que realmente preocupan a los verdaderos poderes fácticos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri incluso mencionó los avances en Brasil en comparación con la situación en Argentina.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos temas clave se han dejado de lado en la campaña, reemplazando la discusión política y programática por discursos vacíos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No debemos resignarnos a que la democracia se reduzca a elegir la mejor relación con el mercado;  debemos aprovecharlas para enviar un mensaje a los poderes fácticos, de cara a las luchas futuras, y para definir la relación que deseamos con nuestro futuro, más allá del mercado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1849
+}

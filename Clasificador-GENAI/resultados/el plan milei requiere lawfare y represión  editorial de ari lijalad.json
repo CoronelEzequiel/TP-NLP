@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_milei_macri",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.163,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Milei también necesitará, y ahora les mostraré por qué, de la difamación y la represión para su implementación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto me recordó a lo que requieren los planes económicos para su aplicación, algo que comentábamos ayer a propósito de la noticia de que, siete años después, un juez declaró ilegal la acción de Macri de permitir que familiares de funcionarios participaran en el blanqueo de capitales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto demuestra que las medidas económicas del plan de Milei, que no beneficiarán a la mayoría de la población sino a un puñado de privilegiados, son similares a la amnistía para evasores de Macri.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aclaro: José López era un corrupto con dinero injustificado, debidamente condenado.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1853
+}

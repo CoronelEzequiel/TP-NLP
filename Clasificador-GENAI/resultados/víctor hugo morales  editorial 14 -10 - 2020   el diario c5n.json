@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La marcha del lunes pasado tiene un grado de locura que ya no sorprende, porque todas han sido de la misma manera y todas forzadas por la enorme potencia de los medios de comunicación que, a su vez, actúan de la misma manera sobre las redes sociales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y sin embargo, porque hay mucho pueblo detrás y porque hubo un gran apoyo, en su momento todavía, pese a la pandemia, a la tierra arrasada que dejó el neoliberalismo, se están haciendo muchas cosas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo no le da vergüenza a Clarín y La Nación? ¿Cuál es el tipo de gente que mandan a la calle? Porque es un bochorno que se comporten de esa manera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No vieron la película \"Joker\", por lo que veo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Maduro es un gobernante legítimo y tirano que maltrata a su pueblo. Sin embargo, se aferra a esa tiranía. Sin embargo, se le va a derribar.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7217
+}

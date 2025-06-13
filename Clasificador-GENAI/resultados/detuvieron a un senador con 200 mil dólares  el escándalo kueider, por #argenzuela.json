@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El senador Edgardo Cuéllar fue detenido intentando cruzar la frontera con 200.000 dólares, cantidad que no pudo justificar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A partir de enero, asumió el gobierno en la provincia de Entre Ríos el partido PRO, liderado por Rogelio Frigeri.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, Cuéllar fue uno de los senadores que negoció el apoyo a la ley base.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se rumorea que Cuéllar obtuvo un cargo a cambio de su apoyo a la ley.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Surge entonces la pregunta: ¿podrían los 200.000 dólares incautados ser el pago por su voto?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta situación complica su imagen pública.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, Cuéllar tiene antecedentes de investigación por lavado de dinero.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este caso revela la problemática situación del Congreso.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una nota de Política Online, publicada hace tres días, titula: \"Mi ley tienta a Cuéllar con la Embajada de Montevideo para que sea candidato contra el peronismo\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Independientemente de su destino, la situación deja en evidencia una conducta reprochable.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1390
+}

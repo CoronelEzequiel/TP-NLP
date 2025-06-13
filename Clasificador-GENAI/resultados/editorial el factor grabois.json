@@ -1,0 +1,36 @@
+{
+  "texto_id": "Conocer a Perón",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Su apellido tenía un peso propio en la izquierda peronista; era hermano de Fernando Balmediano, uno de los fundadores de la organización Montoneros, protagonista del secuestro y ejecución de Pedro Eugenio Aramburu en 1970 (hecho que dio origen a Montoneros y se convirtió en una leyenda dentro de esa corriente).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la concepción de Perón, con la que coincide el autor, el ajusticiamiento de Aramburu y la emergencia de Montoneros y la izquierda peronista cumplieron una función específica: no la de abrir el camino a una patria socialista, como consideraban muchos militantes, sino la de contener una radicalización que amenazaba con desbordar al peronismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peronismo fue muy productivo en la generación de tendencias de izquierda propias que, más allá de las intenciones de sus protagonistas, terminaron siendo funcionales a un giro a la derecha, cuyas consecuencias sufrieron esas mismas personas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un contexto diferente, se observa una operación similar con la lista de Juan Grabois en las internas de Unión por la Patria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La historia demuestra que el \"mal menor\" puede ser el camino al \"mal mayor\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2026
+}

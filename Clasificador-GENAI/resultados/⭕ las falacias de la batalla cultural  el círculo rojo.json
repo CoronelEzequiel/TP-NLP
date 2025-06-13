@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.383,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos claro que no hay progreso material sin batalla cultural.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y sí, queremos ser *gramscianos* de derecha.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se mostró como una víctima de la corrección política, que lo condena no por su contenido, sino por sus formas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fracasó un capitalismo conducido por una dirigencia política que aceptó gran parte del universo de ideas que *Milei* despliega, si no fueron los mismos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una de las grandes operaciones que hay que desmontar o desenmascarar en la batalla cultural.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fracasaron las ideas de ajuste, que pudieron haber estado *barnizadas* con discursos más o menos centroizquierdistas o de inclusión, pongamos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2407
+}

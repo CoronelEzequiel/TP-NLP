@@ -1,0 +1,46 @@
+{
+  "texto_id": "Argentina, Distribuidores y Autoservicios Mayoristas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.407,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "A ver, ¿hay una percepción o es una realidad? Digo, ¿la gente ya está notando aumentos?",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nosotros ayer ya estuvimos recibiendo listas de aumentos del 8%.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si alguien se está apurando en subir los precios, seguramente lo va a sufrir en su facturación, porque lo que está haciendo es mandar a sus clientes a la competencia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, la incidencia de los impuestos más el tener un mercado cerrado, en donde un monopolio termina cobrando lo que quiere porque no tiene competencia, perjudica al consumidor final.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, nosotros siempre estamos del lado del consumidor final y por eso vimos con buenos ojos que permitieran que algunas categorías se pudieran importar, obligando a que algunas primeras marcas bajaran de precios.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando analizas el consumo del sur argentino, está explotado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siempre hay que ver contra qué competís.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2890
+}

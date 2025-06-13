@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.765,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Voy a hablar de Hebe de Bonafini, pero antes quiero decir… se le va a poner difícil a Alberto Fernández.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, cuando me preguntan qué pasa en la política argentina, digo que están todos en un gran comedero, repartiendo la comida.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Honestamente, espero que no seamos partícipes necesarios de ese caos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero sí se les ocurrió a los hijos de Hebe de Bonafini y Estela de Carlotto, y a sus nietos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, te dejo esto a ti, porque después tengo que defenderme. Si esa es la gente que trajiste, la que aún no ha mostrado gabinete, si esa es la gente que nos pondrás en el poder… aguantaré dos años, pero después te votaré en contra en un 99%, porque no queremos esto.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Después, sale esta prófuga de la justicia, esta apropiadora de los sueños compartidos y la Universidad de Madres, a decir… Tenemos más votos que ellos, pero no debemos olvidar que esos votos son los mismos que trajeron a Videla, a los militares… los mismos que callaron cuando mataban a nuestros hijos e hijas, a nuestras madres… son los del país del silencio, a pesar del horror.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usted es ese cáncer, y Dios no se acuerda de usted.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Le voy a iniciar una causa penal, porque me culpa a mí de haber traído a los militares, de causar las muertes, cuando fueron los Montoneros, Perón, López Rega…",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando esté llena de causas penales, y no de programas en Canal 7, aprenderá a callarse la boca, y a no humillarnos durante treinta años.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No voy a permitir que usted, que no tiene ningún mérito moral, me diga que fui partícipe del golpe.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2174
+}

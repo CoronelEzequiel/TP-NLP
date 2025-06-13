@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.789,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Porque la destrozaron en las redes, los Trolls K, pero la barbaridad que le han puesto, la misoginia que manejan los Trolls K.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi hija nunca guardó 6 millones de dólares en un banco.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tanto miedo le tienen a una chica que se acunó en la democracia con un abuelo que fue secretario de la Iglesia, donde se respiró en casa honestidad, con un pedido limpio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y nos olvidamos del coronavirus.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirá si nos va a agarrar nosotros que somos argentinos. ¡Ole!, ya nos mataron 60.000, un inoperante como Ginés González García no hizo un carajo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usaron la vacuna para hacer negocio.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si querés que yo me encierre, mañana lo van a avisar, traeme la lista de todos los vacunados, que son miles de las vacunas que nos robaron, Alberto.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero el gobierno es una mierda.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "700 mil vacunados entre 44 millones de argentinos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3152
+}

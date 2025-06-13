@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Pero Cristina solo \"agarra la lapicera\", ¿vieron? Para burlarse de los fiscales que pidieron 12 años de prisión en su contra.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quien quiera hacernos creer que la aprobación de un presupuesto, algo que vamos a analizar ahora con Pablo Oliveto, es equivalente a la aceptación del delito de corrupción en la obra pública, se equivoca.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque si, como usted dice, Beraldi solamente trabaja para los convencidos, para los fanáticos que necesitan argumentos para sostener que Cristina es pura, inocente, una Santa Cristina, vaya y pase.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Beraldi, ¿vieron que parece delicado, elegante? Beraldi, con tanta ignorancia, nos exhibe.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Recordando que más de una vez Cristina pidió una ampliación del presupuesto para pagar la obra pública de Báez.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se fugaron, abandonaron las obras, dejaron de hacer ruta, despidieron hasta el último empleado. Si no fuera porque Cristina se lo ordenó...",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los \"chicos grandes\" de La Cámpora, ¿cómo deberían definir a estos tipos? ¿Como una banda de qué? De hijos de mala madre, ¿no?",
+      "score": 0.98,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sí, señores jueces, lo vamos a ver ahora. Lo que demuestra, señores jueces, que Lázaro Báez era Néstor Kirchner, era Cristina Fernández. Eran todos lo mismo.",
+      "score": 0.92,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando ven al Presidente por enésima vez con una guitarra en la mano, y una comitiva de 58 personas... ¿No sienten que les están tomando el pelo?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3311
+}

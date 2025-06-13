@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Máximo Kirchner no brilló por su ausencia, porque, bueno, ya le comenté, es imposible hacer brillar a un personaje tan oscuro, pero su faltazo intencional a la sesión lo convirtió en el eje de muchos análisis sobre la debilidad de Alberto Fernández y la dependencia, incluso psicológica, que el presidente tiene con Cristina Fernández de Kirchner y su \"príncipe heredero\".",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su único mérito es ser \"el nene de mamá\", un apellido que le sirvió para encaramarse en la conducción del Partido Justicialista bonaerense, en la jefatura del bloque (a la que renunció) y manejar, a través de sus \"soldados\", las cajas más millonarias del Estado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo es tan poco inteligente que no se atrevió nunca a enfrentar a un periodista independiente en una entrevista y, además, pocas veces se animó con un periodista militante.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es que el grandulón juega con un juguete llamado peronismo que su madre le dio para que se entretenga.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo no tiene problemas digestivos para elogiar a Chávez o a Fidel Castro, ningunear a José Ignacio Rucci y simultáneamente abrazarse a derechos mafiosos como los Moyano o directamente fascistas.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es un millonario que dice combatir a los millonarios.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2116
+}

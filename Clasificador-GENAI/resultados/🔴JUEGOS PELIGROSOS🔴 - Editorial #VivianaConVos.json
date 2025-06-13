@@ -1,0 +1,71 @@
+{
+  "texto_id": "hidana_con_vos",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.842,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Estamos coqueteando todo el tiempo con los más malos del mundo. Coqueteamos con tiranos, coqueteamos con dictadores. Estamos alineados con lo peor del mundo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pandemia ya se terminó. Se podrían terminar también la Organización Mundial de la Salud, la OTAN y la ONU, que no sirven para nada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner se escapó a El Calafate en un vuelo privado, obvio, nunca en Aerolíneas. El viajecito de la vice nos costó a nosotros unos 22.000 dólares, cinco palos. Así se gastan la guita de tus impuestos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene razón el Kun Agüero. Lo único que hacen es retarnos en la clase media, la van hundiendo cada día más.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestros amigos, míralos. ¿Qué tal, presidente? Lo saludamos de acá. Todos los argentinos desde la Patagonia, desde la CERAS. Un saludo muy grande para toda Rusia y para su presidente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son millonarios, viven en Puerto Madero, viven en Recoleta, pero admiran al comunismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maradona siempre coqueteó con el poder. Maradona fue amigo de todos. Muy amigo de Néstor, muy amigo de Cristina. Su vínculo con el kirchnerismo lo ayudó a hacer negocios con los más impresentables dictadores del mundo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los comunistas con la del pueblo. 50 palos verdes con la del pueblo y un pueblo cagándose de hambre.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya que todas engolosinan con el pañuelo verde, yo a mucha honra soy pañuelo celeste y defiendo la vida desde la concepción.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No te da vergüenza que tu viejo haya estado con todos estos dictadores? ¿Toda la plata de estos tipos que le garpaban a tu viejo era guita limpia?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La familia de Maradona fue cómplice del quillismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no sabía de la corrupción de Néstor Kirchner, dice Alberto Fernández. O sea, ¿admite que fue corrupto?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8064
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "sergio_entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No, yo soy parte de una construcción política que aspira a ganar las elecciones porque el país lo necesita. No lo necesita el espacio político, sino el país. Necesita una línea de continuidad para una Argentina con desarrollo, una Argentina donde todos los demás espacios políticos solo plantean como posibilidad el ajuste.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo es un movimiento, como decía el general Perón, y como tal, se nutre de diferentes corrientes, incluso del socialismo y del comunismo. De eso se trata un espacio político: de tener muchas discusiones internas, y esas discusiones son las que lo fortalecen.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le vuelvo a repetir: de un burro no se puede esperar más que una patada. ¿Qué podría esperar Scioli de este presidente? Eso, una patada. Por eso, no deberíamos sorprendernos ni horrorizarnos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que lo que hicieron no solo fue un papelón, sino algo negativo para la discusión del peronismo de cara al futuro.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me interesa hablar de que tenemos un candidato que tiene la capacidad para volver a ordenar el desorden que se armó desde Macri para acá con la economía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2531
+}

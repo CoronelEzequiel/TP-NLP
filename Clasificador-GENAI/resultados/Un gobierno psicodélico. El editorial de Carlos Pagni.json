@@ -1,0 +1,56 @@
+{
+  "texto_id": "Didos a Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.678,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que no puede suceder, dice Sanguinetti, es que el poder esté abajo. Que el segundo le dé órdenes al primero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el fondo, lo que le ha fracasado a Cristina es un diseño. El diseño por el cual puso un delegado en la Casa de Gobierno, se puso ella como vicepresidenta, pero, además, eligió un delegado que nos quiere hacer creer que piensa distinto de ella.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una presidenta, una vicepresidenta, una expresidenta egocéntrica, mandona, hay que leer la carta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para los Kirchner, el poder es una dimensión medular de la vida.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno quisiera sintetizar, insisto, brutalmente, un rasgo de la mentalidad peronista, de la dinámica peronista, uno podría decir que, en alguna dimensión, el peronismo es un intercambio de lealtad por votos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es mucho más grave y mucho más dañino para el oficialismo todo lo que pasó desde el domingo a la noche en adelante, inclusive hasta hoy, que lo que pasó el día de las urnas. Es más grave la forma en que procesaron las derrotas para ellos que la derrota misma.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que prestar atención en la calidad de Manzur ligado a un proceso electoral.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para algunos miembros del gobierno, las cuestiones ideológicas, las cuestiones que tienen que ver con la celebrada expansión de derechos, las cuestiones donde se cruzan la moral convencional con la política, son asuntos folclóricos frente a la urgencia del poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al demócrata no se lo debe medir por cómo gana, sino por cómo pierde.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7860
+}

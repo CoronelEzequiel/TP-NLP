@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.479,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La pandemia está transformando muchos aspectos del país: la situación social, sanitaria, económica y ahora también la político-institucional, por lo que debemos estar atentos a los acontecimientos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿De qué hablaron? De suspender las PASO, las Primarias Abiertas, Simultáneas y Obligatorias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La versión oficial es que esta propuesta responde a una cuestión sanitaria, una acción que impulsa Máximo Kirchner, quien hasta hace unas semanas no estaba a favor de la suspensión de las PASO, pero que, ante la presión de los propios gobernadores del peronismo, ahora propone a la oposición que, frente a la situación epidemiológica y el previsible avance del COVID-19 (esperemos que no ocurra, pero así lo indican los especialistas), se suspenda o se posterguen las primarias.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La pregunta es: ¿el oficialismo realmente actúa motivado por la situación sanitaria, o tanto el oficialismo como la oposición aprovecharán la crisis sanitaria para hacer política?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Además de las luchas internas y el problema que generaría tener que presentar varias listas distintas, se analiza que, frente a la crítica situación económica y el avance de la pandemia, postergar las PASO tal vez permitiría al gobierno tener un mejor escenario de vacunación y una cierta recuperación económica.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hasta ahora, la oposición se negaba a modificar el cronograma electoral, pero parece que ha comenzado un diálogo más concreto, lo que podría resultar en un cambio significativo en el Congreso en relación con las elecciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué podría pasar en Argentina si se suspenden o se postergan las PASO? ¿Y qué sucedería si, debido a la situación epidemiológica, el oficialismo propusiera suspender las elecciones generales?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1522
+}

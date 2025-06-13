@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lamentablemente, personajes como Patricia Bullrich llevan meses y años hablando de esto con un sentido absolutamente electoralista y mediático, tratando de generar temor en la población y haciéndoles creer que las Fuerzas Armadas pueden actuar contra el narcotráfico de forma permanente o transitoria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debo decirles a todos los ciudadanos que no se dejen engañar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Únicamente las Fuerzas Armadas podrían colaborar reforzando la frontera norte y custodiando objetivos estratégicos, para liberar fuerzas federales (Gendarmería, Prefectura, Policía Federal).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que se necesita un golpe de efecto muy fuerte en centros urbanos como Rosario, el Gran Buenos Aires y otros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que depurar la policía, la justicia y la política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la política más importante de los últimos 20 años en Argentina, especialmente en el peronismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Espero que el peronismo gane.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2792
+}

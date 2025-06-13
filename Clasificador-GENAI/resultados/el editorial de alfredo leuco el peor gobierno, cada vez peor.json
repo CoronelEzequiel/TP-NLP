@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Para una gran mayoría de los argentinos, este es el peor gobierno de la historia democrática.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peronismo es el partido que mayor responsabilidad tuvo en los crímenes atroces de la ultraizquierda montonera de Mario Firmenich y la ultraderecha de la Triple A de José López Rega.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hubo un muerto, por supuesto, muchos heridos, familias enteras en pánico por un operativo represivo de una ferocidad y descontrol inéditos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobernador, que no gobierna, no tuvo más remedio que echar de su cargo al responsable de ese operativo, pero la oposición ya citó al ministro Sergio Berni para ser interpelado en el Congreso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si seguimos mirando la pésima gestión del gobierno desde el llano, desde el ciudadano común, hay que decir que la inseguridad es un fantasma que los aterra y que sigue creciendo sin parar, sobre todo en el Conurbano Bonaerense; pero el otro enemigo brutal es la inflación galopante, que tritura los salarios y desespera a mucha gente que padece un 100% de inflación para este año, lo que duplica la que dejó el gobierno de Mauricio Macri.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Gómez Alcorta es una de las peores funcionarias que tuvo este gobierno.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El día que instalen el socialismo chavista que tanto admiran, sí van a poder multiplicar estas expropiaciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero por ahora, Argentina se mantiene dentro de un régimen capitalista, democrático y republicano, y se respeta la ley y la propiedad privada, y se condena todo hecho de violencia o de justicia por mano propia.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero miran todos estos muchachos a través de la estrechez de su ideologización.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo potenció lo peor del peronismo: a los amigos, todo, y a los enemigos, ni justicia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y eso hace que el peor gobierno sea cada vez peor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2787
+}

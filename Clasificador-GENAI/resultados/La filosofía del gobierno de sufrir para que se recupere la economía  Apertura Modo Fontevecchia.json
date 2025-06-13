@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_caputo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.487,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer a la tarde el flamante ministro de Economía, Luis Caputo, anunció el paquete de medidas urgentes que implicarían justamente un gran dolor para la mayoría de la población de nuestro país.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo dijo que se mantendrán los planes sociales, pero sin intermediarios, y decretó un aumento del 50% de la Asignación Universal por Hijo y de la tarjeta Alimentar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nuestra misión es evitar esta catástrofe y, para solucionar este problema, lo primero que tenemos que lograr es identificar, reconocer la génesis de este problema.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, vamos a estar durante unos meses peor que antes, particularmente en términos de inflación. Y lo digo así porque, como dice el presidente, es preferible decir una verdad incómoda y una mentira confortable.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es por eso que el actual gobierno exagera el peligro de la hiperinflación de 15 mil por ciento, una leche que va a costar 60 mil pesos para justificar la necesidad de esas medidas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hay es un malestar fundamentalmente en los sectores de los más jóvenes que la derecha acompaña en todas partes del mundo con un discurso antidecadencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En las religiones tanto monoteístas como politeístas, el sacrificio y el dolor ayuda a purificar los pecados que se cometen.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quienes tendrán que sufrir, entre comillas, por un pecado y no se beneficiaron de ninguno de esos gastos, son los que Milei llamó 'los argentinos de bien'.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6383
+}

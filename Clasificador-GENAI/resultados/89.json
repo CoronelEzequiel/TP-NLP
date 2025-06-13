@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.179,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, María Elena, obviamente cada vez que pasan estos casos, tus recuerdos deberían siempre ser hacia tu hija, ¿no?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, nos contaban eso, que en este caso puntual no se actuó tarde, se actuó mal, no lo hicieron por el protocolo que lo tendrían que hacer, que hubiese tenido que hacer la justicia federal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de mi hija desaparecieron varios niños más, hay 99 chicos desaparecidos ahora en el país y sigue pasando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese momento, ¿cómo era la relación con la fuerza de seguridad, con las fuerzas políticas? ¿Cómo se manejaron con el caso de tu hija?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, yo creo que eso, tengo la fe y bueno, ojalá que esas personas que lo tengan, o sea, apelemos a su bondad, que hagan algo bueno y que lo devuelvan, que lo devuelvan, sería impagable que hagan ese bien, que lo dejen en un lugar público, en un hospital, en algún lugar donde esté a salvo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y cómo tomas esto de que ahora se haya desactivado la oficina de trata, que se le den menos bolillas aún a este gravísimo problema?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, la verdad que yo me enteré por los medios, no lo sabía, pero si es así la verdad que quedan al descubierto muchas, muchas áreas en peligro, muchas chicas, la verdad que tendría que, que bueno, que trabajarse urgente para volver a retomar eso, no, no, no, yo desde acá de Tierra del Fuego la verdad que no sabía mucho del tema de ahí de las oficinas de trata y todo eso, pero no, no, porque quedamos al descubierto el país, la juventud es algo peligroso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3112
+}

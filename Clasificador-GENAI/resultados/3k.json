@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "López Obrador hizo una crítica muy fuerte contra las campañas sucias.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me dijo que sobre la gestión de [nombre del político argentino] no iba a hablar porque respetaba la voluntad del pueblo argentino, pero yo le había preguntado qué pensaba.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Había que tener un Estado presente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo que el Papa Francisco es el argentino más representativo, un verdadero cristiano, y que está a la izquierda de muchos que dicen estar a la izquierda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo: \"Está prohibido prohibir\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2178
+}

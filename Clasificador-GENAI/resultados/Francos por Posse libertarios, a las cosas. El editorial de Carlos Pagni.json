@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es un cambio muy importante que revela bastante de cómo el gobierno se ve a sí mismo, de cómo Milei ve su gestión, más allá del temperamento, el tono auto celebratorio que ha tenido el gobierno en los últimos días, en las últimas semanas inclusive.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentinos a las cosas es pónganse las pilas y actúen, dejen el plano de la retórica y operen sobre la realidad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Francos no es un profeta, Francos es un negociador, es alguien que tiene que tener resultados, alguien que esté dispuesto, como se notó en toda la negociación de la ley bases, a ceder alguna pureza de la idea en función del resultado, a entender al otro. Es un dialoguista.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo pensado desde una lógica que a veces Santiago Caputo le explica a sus muy íntimos. Dicen, acá si quieren pensar, quieren entender cómo pensamos la política desde la Casa Rosada, lo primero es, pongan a la clase política en un lado, a la casta, y nosotros vamos a estar siempre discursivamente enfrente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el centro de todo esto está una preocupación tradicional de la iglesia y de alguien como García Cuerva, que es la preocupación por el más débil. Tema que no está en el discurso del gobierno con suficiente énfasis.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8681
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "Viviana Canosa",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.762,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Háganse cargo que está lleno de funcionarios que no funcionan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vimos en una Argentina en la que le dan seis lucas a un jubilado y doce palos a Nacha Guevara.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No pensaste que a lo mejor llegó el momento de empezar a votar distinto, a votar sin miedo, a perder eso que ya no tenés?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imagínate, lo único que cumplió Alberto Fernández fue sacar la ley del aborto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero bueno, este gobierno todo lo arregla con la platita, como decía Goyán. ¿Se acuerdan? Es lo único que se les ocurre, darte nuestra plata para que los votes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos ellos creen que Alberto Fernández es el presidente de la provincia de Buenos Aires. Pero ya fue. Para mí además la oposición está super tibia y sin huevos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá cómo nos ofenden diciendo que el gobierno de Macri no fue una democracia, que fue una dictadura.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina hay 4.000 villas. Todas juntas ocupan una superficie más grande que la ciudad de Buenos Aires. Yo no quiero que la gente en mi país viva en villas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8814
+}

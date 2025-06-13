@@ -1,0 +1,51 @@
+{
+  "texto_id": "entrevista_fabio_aguila",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.119,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Claramente, en un espacio con tres sectores en la conducción, el diálogo y la concertación son fundamentales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es evidente que para este gobierno, que se define como liberal, todo es libre menos los sueldos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Comparto su introducción sobre la brecha entre la inflación de servicios y los aumentos salariales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el gobierno pretende terminar con las paritarias libres, el movimiento obrero se movilizará.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos crear políticas para recuperar el trabajo formal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay trabajo, debe haber sindicatos. Si no, ¿quién defiende a los trabajadores?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno vende una imagen de bonanza que es una mentira.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se avecina la entrega de riquezas naturales, y este gobierno está dispuesto a facilitarlo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2620
+}

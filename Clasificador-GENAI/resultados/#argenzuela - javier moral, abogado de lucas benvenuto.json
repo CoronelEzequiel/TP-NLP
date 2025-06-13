@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Él fue un denunciante clave en una causa de una red de trata y abuso sexual infantil, conocida como \"Los Boy Lovers\", que operó en Argentina hace aproximadamente 20 años.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta red incluía a Jorge Corsi, una eminencia en psicología infantil, quien fue condenado y encarcelado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El testimonio de Lucas Benvenuto fue fundamental, ya que aportó detalles que otra víctima, menor de edad, no podía proporcionar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La causa se cerró cinco meses después por prescripción de los hechos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Benvenuto se sintió defraudado tras haber obtenido condenas en el pasado con nuestra ayuda, pero en este caso la causa fue archivada sin posibilidad de apelación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su objetivo era cerrar ese capítulo, aunque jurídicamente no prosperó.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1620
+}

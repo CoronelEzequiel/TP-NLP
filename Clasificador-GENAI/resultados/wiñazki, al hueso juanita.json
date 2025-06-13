@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Juana Viale, por ejemplo, dijo en \"Verdad Consecuencia\" que le incomoda expresar algunas ideas porque la tildan de \"golpista\" y que solo desea vivir en una Argentina unida.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Juana Viale expresó que desea un presidente para todos, no para algunos, y siente que el actual presidente solo representa a algunos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También destaca la situación de la clase media: mientras muchos reciben ayuda del gobierno, la clase media está desprotegida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Opina que no se puede seguir deteniendo a quienes buscan libertad de trabajo, opinión y expresión artística, algo que también mencionó Ricardo Darín.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sobre Macri, opinó que tuvo una gran oportunidad y no la aprovechó.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1846
+}

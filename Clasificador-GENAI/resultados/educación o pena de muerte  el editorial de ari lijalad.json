@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.181,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El informe revela que 12 de las 24 provincias argentinas redujeron su presupuesto en educación; es decir, la mitad del país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la Ciudad de Buenos Aires es la jurisdicción que menos invierte en educación, un dato relevante considerando que, en la misma semana, se reportaron 34 escuelas de esta ciudad, la más rica del país, con presencia de roedores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde que asumió el gobierno de la Ciudad de Buenos Aires, el proyecto político de Mauricio Macri redujo en aproximadamente 15 puntos porcentuales la participación de la educación en el presupuesto.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich defendió la acción del policía, argumentando que actuó en legítima defensa.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Criticar el robo no justifica el asesinato.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llama la atención que la misma Bullrich, quien celebra la acción del policía, aún no ha repudiado el atentado contra la vicepresidenta.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La solución no radica en matar a los delincuentes, sino en abordar las causas de la delincuencia, generando oportunidades laborales y condiciones dignas de vida.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Resulta preocupante que un partido político que abandona la educación en la ciudad más rica del país, celebre el asesinato de un joven por parte de un policía.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1848
+}

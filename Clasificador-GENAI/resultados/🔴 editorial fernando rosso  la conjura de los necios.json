@@ -1,0 +1,51 @@
+{
+  "texto_id": "El poder o el poder de la verdad. El Círculo Rojo con Fernando Rosso.",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si nos aferramos al discurso del gobierno sobre las causas de sus propios problemas, tendríamos que concluir que está rodeado de traidores y es víctima de conspiraciones permanentes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El éxito de las teorías conspirativas reside en que simplifican la explicación para dar sentido a problemas complejos, responden a pocas variables con un enemigo claro e identificable y ofrecen una explicación muy sencilla y, a veces, hasta bastante lógica.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, el presidente Javier Milei, hoy jueves, salió a criticar a sus ex asesores económicos recientemente despedidos, Fausto Spotorno y Teddy Karagozian.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Según Milei, el Macro intentó desestabilizar, esas fueron las palabras, al gobierno el 3 de junio pasado, con la liquidación de 1,8 billones de pesos (1800 millones de dólares) en bonos de la deuda del Estado que estaban en manos del banco.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De esta manera, la culpa es de la acción del Banco Macro, que sí es verdad que vendió esos bonos, pero justamente porque el gobierno estaba trasladando la deuda hacia un pagador menos confiable (es decir, del Banco Central hacia el Tesoro).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema que tienen estas teorías es que en el mismo acto en que están enunciadas, se desmienten a sí mismas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el punto de vista económico, hace rato que tuvo que dejar de hablar de la famosa recuperación en \"V\", que supuestamente iba a caer la economía y se iba a recuperar rápido para arriba.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y finalmente, desde el punto de vista doctrinario, el gobierno está quemando todos los manuales de su libertarianismo, de la escuela austríaca, de que el mercado se regula solo, etc., y todas esas \"onceras\", porque están haciendo una intervención con el gobierno, porque están haciendo un intervencionismo feroz para intentar achicar la brecha entre los dólares paralelos y lo oficial, porque eso generaba un riesgo inflacionario, entre muchos otros riesgos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3164
+}

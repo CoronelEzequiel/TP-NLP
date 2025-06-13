@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.571,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En la provincia de Buenos Aires, los intendentes permitieron la apertura de negocios esenciales y no esenciales ante la presión ciudadana.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero, la necesidad de subsistencia; mucha gente, más allá de los trabajadores esenciales, salió a trabajar por necesidad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta es: ¿el gobierno gastó mal su \"bala de plata\"?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Existe gran malestar en la Casa Rosada con gobernadores e intendentes por el incumplimiento del decreto de confinamiento 3-4.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se buscaba una estrategia nacional unificada contra la pandemia, pero esto no ocurrió.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las protestas fueron numerosas, y se observa la falta de eficacia en los controles, con largas colas en Constitución y problemas en el transporte público.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En conclusión, la \"bala de plata\" del gobierno –el confinamiento total– no parece estar funcionando.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1542
+}

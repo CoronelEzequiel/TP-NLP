@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.375,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"Unidos\" sería el resultado del alegato del fiscal y del eventual fallo en la causa de vialidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Ahí el pueblo despertó, le tocaron la cola a la leona, le tocaron la cola a la leona otra vez y finalmente se despertó, se despertó el peronismo y esta reunión de hoy es la demostración de ese despertar, que es un despertar también de la conciencia de que somos más, de que tenemos razón y de que no vamos a bancar que la toquen en Argentina\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La dimensión emocional, quien quizás mejor lo resumió, fue el actual presidente del Partido Justicialista en la ciudad de Buenos Aires, Mariano Recalde, quien lo simbolizó en la frase \"tocarle el culo a la leona\" como motivo de esa afrenta.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una dimensión simbólica que tiene que ver con la narrativa, en la cual no tiene nada que ver la justicia ni el fallo, que resulta obviamente importante para salvar el relato, o sea, mostrar que la vicepresidenta no tiene nada que ver con la corrupción, que la corrupción es un problema de malos funcionarios, eventualmente incluso hasta de su marido, pero no de ella.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo espero que el pueblo esté a la altura de la condición del país y de la condición de Cristina. Espero que haya que calentar los motores, hace rato que lo vengo diciendo, y que la 'pueblada' tiene que estar bien preparada para que no falte nadie.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evidentemente, una acusación contra ella, una eventual condena contra ella, produce el efecto opuesto en sus partidarios, o sea, refuerza el afecto, el cariño, la demostración de empatía, y tenemos al fiscal que puede meterla presa y santificar a Cristina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que se podría lograr es generar un indulto que le devuelva a la hoy vicepresidenta su carácter de candidata.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El daño que se hizo a la vicepresidenta fue el alegato, un daño que no tiene solamente consecuencias jurídicas, sino consecuencias simbólicas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4592
+}

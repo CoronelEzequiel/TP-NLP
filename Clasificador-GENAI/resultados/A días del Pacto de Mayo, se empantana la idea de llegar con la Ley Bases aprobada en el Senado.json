@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.433,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El Pacto de Mayo, al cual nos referimos, que durante la apertura de las sesiones legislativas parecía ser un anuncio refundacional y el hito más importante de la presidencia de Javier Milei, hoy, a poco menos de dos semanas de su firma, parece debilitarse.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según Antonio Gramsci, los gobiernos logran llevar adelante sus planes de gobernar por consenso o por coacción.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vamos a hacer un recorrido por las declaraciones que dio Milei cuando anunció esta iniciativa en la apertura del Congreso, probablemente el mejor discurso que haya dado Javier Milei, y la medida más exitosa, porque le dio, desde el 1 de marzo al 25 de mayo, prácticamente tres meses de tranquilidad política, o de expectativa política, o de renovar la esperanza, cuando, tras el fracaso inicial de la Ley de Bases, parecía que el gobierno se quedaba sin aire.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Después de someter al pueblo, a la democracia, al federalismo, a una agresión inédita y salvaje, ahora se nos lanza una invitación que se parece más a una amenaza o una imposición que a un diálogo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En fin, un gobierno de políticos dispuestos a hacer política, más allá de que sus ideas puedan no gustarnos siempre, es una buena noticia que se haya alejado de las derivas más autoritarias del gobierno de Milei y busque ganar consensos a través de las propias instituciones democráticas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el gobierno decidió gobernar por ganar hegemonía social y tener el consenso de la sociedad, ¿cuál es el límite del relato en esa hegemonía? ¿Cuánto puede aguantar una sociedad el hecho de vivir cada vez peor en pos de un relato que tiene poco correlato con las mejoras en la vida real?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4176
+}

@@ -1,0 +1,26 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay un problema político, obviamente en la vida de Fernández, eso es una obviedad, hay un problema político en el peronismo que viene de una derrota muy importante y ahora se ve sacudido por este vendaval de escándalo ligado a una de las banderas que el kirchnerismo agitó como una bandera principal, que es la bandera de género, pero ahora este problema que se circunscribía a la vida de Fernández y de su ex mujer y en todo caso se extendía al peronismo y especialmente al kirchnerismo se amplía.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como puedes imaginar esto tiene temblando a muchísima gente del entorno de Fernández, del gobierno de Fernández, empresarios, otros dirigentes peronistas y también magistrados judiciales que tenían un intercambio permanente con el ex presidente, inclusive algún ministro de la corte con el que él habría tenido mucho contacto, sobre todo en el momento en que decidió iniciar un juicio político que después se delegó en la bancada peronista de la cámara de diputados contra tres ministros de la corte, es decir, para ponerlo en términos del actual oficialismo, tiembla la casta o tiembla una parte de la casta y hoy tienen un poder inusual, inusitado, Julián Ercolini, el juez de la causa del que después vamos a hablar, Carlos Rívolo, el fiscal que venía tramitando esta causa y que pidió quedarse tramitándola y Ramiro González que es el fiscal que se agregó a la investigación de esta causa que tiene en el centro de la atención Alberto Fernández.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, la política trabaja para Milei, que está solo en el centro de la escena sin que aparezcan competidores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8339
+}

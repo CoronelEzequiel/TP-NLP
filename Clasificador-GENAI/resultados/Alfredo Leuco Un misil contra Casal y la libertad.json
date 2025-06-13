@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El kirchnerismo disparará un misil contra Eduardo Casal y contra la independencia de poderes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La maniobra de Cristina Fernández de Kirchner es de extrema gravedad institucional.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se trata de la movida más audaz e irresponsable de Cristina Fernández de Kirchner para lograr su plan de impunidad y venganza.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El próximo procurador, con la ley actual, debe ser una persona intachable, una eminencia del derecho, de excelencia académica y sin ningún tipo de vínculo con los partidos políticos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Cristina Fernández de Kirchner quiere algo muy distinto: \"Chavismo K\" es domesticar a la justicia, garantizar su impunidad y la de su familia, y perseguir a los que piensan distinto.",
+      "score": 0.875,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1998
+}

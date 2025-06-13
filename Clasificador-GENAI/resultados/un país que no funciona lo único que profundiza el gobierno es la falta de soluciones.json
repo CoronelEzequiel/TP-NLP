@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El país está paralizado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta ausencia se evidenció previamente en la lucha contra el delito, donde se abandonó a las víctimas y se liberó a delincuentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inacción del Estado es evidente en la falta de provisión de gasoil, lo que ha generado mercados negros sin ninguna intervención; en la odisea de miles de transportistas que durante meses buscaron combustible para sus cargas; y finalmente, en la crisis en las rutas, con escasez de productos de norte a sur, llevando al país al borde del colapso y convirtiéndolo en un territorio sin ley, donde la sociedad se vuelve brutalmente contra sí misma.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo preocupante es que la tensión aumenta y la falta de soluciones se profundiza.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner, en su afán por mantenerse en el poder, parece usar al país como escudo para protegerse de sus causas judiciales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández muestra señales de debilidad, incluso en actos de homenaje a Perón.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, con Cristina Kirchner al mando, está asegurando fondos para la importación de combustible a costa del resto de la economía, arriesgando un aumento descontrolado del dólar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1804
+}

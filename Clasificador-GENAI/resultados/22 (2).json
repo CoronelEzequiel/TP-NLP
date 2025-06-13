@@ -1,0 +1,36 @@
+{
+  "texto_id": "Nuevo peinado, Alo. Pablo Ruiz",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Estos empresarios,  especialmente Bezos, Musk y Zuckerberg, son tres de los hombres más ricos del mundo según Forbes,  basado en la computación de acciones y patrimonios declarados.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, se está permitiendo la difusión de noticias falsas, insultos y comentarios que incitan a la violencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos individuos apoyan a Trump.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Musk tiene interés en el litio, y Argentina es uno de los tres países con más litio en América Latina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "También les sirve Milei por sus políticas de ajuste, pues buscan evitar un estallido social.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1882
+}

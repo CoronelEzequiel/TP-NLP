@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_batakis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo en el rol del Estado.  Un país sin un sistema tributario sólido carece de futuro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, Sergio Massa dijo que es incompatible ser ministro de Economía y candidato presidencial a la vez. ¿Qué opinas?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que tener en cuenta la alta deuda en dólares de la gestión anterior, que condiciona las actuales.  Se están pagando cuotas al FMI, lo cual resta dólares para la economía.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo ilógico es el crédito que tomó la gestión anterior y lo que otorgó el FMI, el crédito más grande de la historia, sin definir cómo se iba a devolver.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2137
+}

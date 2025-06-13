@@ -1,0 +1,36 @@
+{
+  "texto_id": "estampa_radio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.16,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, algo me llamó la atención al observar el spot: su eje central es cerrar la grieta, alegando que es el principal problema de los argentinos y que solo se benefician quienes la crearon.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eligieron esa palabra —muy acertadamente— para crear una nueva versión de la antipolítica: la idea de que Argentina no funciona debido a una grieta ideológica entre dos facciones: una populista, irracional, violenta, agresiva y autoritaria (el peronismo), y otra racional, coherente y ordenada (Juntos por el Cambio).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué tiene esto que ver con la grieta?  Cuando se habla de una grieta ideológica entre la derecha y el peronismo, se oculta la verdadera grieta: la que existe entre ricos y pobres.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo debe aclarar a quién representa, que no es antiempresario, pero también debe reconocer que la lucha de clases y la grieta entre ricos y pobres persisten.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Que viva el conflicto!  Más que un discurso de diálogo, necesitamos un discurso del conflicto para que este país mejore.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1687
+}

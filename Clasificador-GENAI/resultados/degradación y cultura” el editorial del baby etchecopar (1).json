@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.87,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Aquí está el INCAA, una productora de películas, o una fuente de ñoquis para los amigos del kirchnerismo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que no sabía yo, es que la cultura era primero patrimonio del kirchnerismo y, segundo, se compraba con plata.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando vos tenés un montón de minas en tetas que van a Plaza de Mayo, a gritar \"soy puta y abortera\", creo que estás lejos de la cultura.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando vos tenés maestros como Baradel que no es maestro, que no le cierra el guardapolvo, le llega hasta acá, y le hacemos otro paro y los chicos, pobrecitos, se quedan llorando porque no tienen día de clase, no pueden ir al colegio, eso es otra cultura.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "O sea, que si analizamos profundamente el gobierno de los que hoy salen a hablar, viste, porque se ponen con cara como que murió la abuela, \"con la cultura no\", claro, con la cultura de ustedes que laburaron y cuando ves todas las películas de mierda en INCAA TV, están todos ustedes, son siempre lo mismo, parece que se van de un elenco al otro elenco.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2058
+}

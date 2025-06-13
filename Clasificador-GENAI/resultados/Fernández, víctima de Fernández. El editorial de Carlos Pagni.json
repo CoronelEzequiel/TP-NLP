@@ -1,0 +1,46 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es un tema muy interesante porque tiene no solamente una dimensión jurídica, sino además política muy importante. Es decir, de nuevo tenemos al presidente diciendo, en algo que le compete a él, que le atañe a él, donde el responsable es él, que es delito y que no es delito.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para mí la más grave políticamente, es que le está dando una indicación al fiscal. El fiscal, que es el fiscal Ramiro González, es un fiscal que es un producto casi perfecto de Comodoro Py en el peor sentido de la palabra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema del gobierno es que está atrapado en esta cuestión y que, además, lo que vemos muy empáticamente en los actos, Pancho, es que no pueden hacer campaña.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina dice, 'Esto no me lo pueden computar, este mandato de Alberto, porque llegó la pandemia y no pudimos hacer nada'. Y hace una campaña referida a su pasado y a su gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un oficialismo que, como decíamos, Pancho, tiene el problema de una narrativa, una imagen muy controvertida, que es la de lo que ofrecen. Ofrecen bienestar social, ofrecen la felicidad de los más pobres, y este relato está perforado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso cuando alguien habla de una asignación universal, de un salario universal, los primeros que se quejan y acusan de gorilas a los que hablan de eso son los dirigentes de movimientos sociales que pierden su lugar de intermediación en esta nueva escena.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que harías es blanquear gente que tuviste en negro. Pues sabes que la ROC, el viernes pasado, no sé si se le escapó, en una radio dijo, 'Este tema no tiene solución'",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9001
+}

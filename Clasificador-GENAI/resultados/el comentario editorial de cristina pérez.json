@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Culpa a la justicia, culpa a los medios y culpa a mi ley por la inseguridad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que no hizo la fiscal Sabrina Capuccinello aquella noche del 1 de febrero, cuando intentaron robarle el auto a Martina, lo hizo el padre del menor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inseguridad ya aparece en varias de las últimas encuestas como la principal preocupación de los argentinos, y realmente en la provincia de Buenos Aires.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La respuesta de Javier Milei escaló la tensión al máximo, porque el presidente volvió a negarse a una reunión, pero además le pidió la renuncia al gobernador y le dijo que lo dejara intervenir la provincia, prometiendo terminar con la violencia en un año.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema es que en la provincia de Buenos Aires, el ministro de seguridad es el ministro de la policía, no es el ministro de la seguridad, no tiene en sus manos la totalidad de las herramientas que se necesitan hoy.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2666
+}

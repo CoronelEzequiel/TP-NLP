@@ -1,0 +1,36 @@
+{
+  "texto_id": "dia_2_karina_y_la_madurez_emocional",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Karina Milei, como todos la conocen, es, en realidad, la \"jefa\" con pronombre femenino. Este apodo no es para nada casual. La hermana del nuevo presidente, que a partir de la derogación del Decreto de Necesidad y Urgencia (DNU) que prohibía la designación de familiares directos en el poder ejecutivo, será la nueva secretaria general, o ya es la nueva secretaria general de la Presidencia de la Nación, una pieza fundamental dentro del engranaje de La Libertad Avanza.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según la noción más clásica, el poder del Estado deviene de la legitimidad del proceso de elecciones, que se ejerce a través de la institucionalidad jurídica y del monopolio de la fuerza pública. Pero, además, existen otras formas de pensar el ejercicio del poder. Por ejemplo, Michel Foucault hablaba de las distintas formas de la microfísica del poder; el poder como una relación que no se tiene, sino que solamente se ejerce.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei, año 2022: \"Karina es Moisés, yo soy Aarón.\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Han creado un entorno alrededor de Milei similar al de Perón con López Rega. Karina Milei es correcto que sea el sostén psicológico de Javier Milei, pero ha incursionado en los últimos meses sobre la conducción misma del movimiento liberal, y ha cometido una serie imperdonable de errores, entre los cuales está apenas este acto, hay cosas mucho peores, decidió... Ella, te lo voy a decir en estos términos, comanda el pelotón de fusilamiento, la comisión de fusilamiento de militantes liberales en todo el país, ella dice quién va y quién no va, y ha promovido, junto a este sujeto llamado Carlos Kikuchi, alianzas imposibles en todo el país, en lugar de elegir la militancia liberal que surgió en los últimos años, que son como 100 mil militantes, están haciendo acuerdos con partidos fascistas y neofascistas del interior, con gente que está pasada, por ejemplo, con Bush y en Tucumán.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo tengo la tesis, en este momento -solamente uno puede tener conjeturas- ojalá sean plausibles, de que Milei es una buena persona, que es una persona bien intencionada y que carece de los conocimientos completos que requiere la tarea de ser presidente, y tiene entre sus falencias la necesidad de apoyo emocional, y que su hermana evidentemente le brinda y viene a completar, y esa hermana que, como decíamos al principio, cumple el papel de secretaria general de la Presidencia, probablemente tenga más importancia que el jefe de gabinete.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5246
+}

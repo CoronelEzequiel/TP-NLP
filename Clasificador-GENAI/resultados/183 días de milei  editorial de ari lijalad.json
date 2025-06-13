@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.03,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "183 días han transcurrido, y cada uno de ellos ha estado marcado por recortes de derechos y decisiones que muchos consideran crueles.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está generando una caída en toda la economía, y creo que es crucial insistir en algo: esto no es por impericia. Esto es intencional.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ha roto relaciones con buena parte del mundo, empezando por los BRICS (Brasil, China, Rusia e India). No entrega comida, ha duplicado la indigencia y no entrega medicamentos, provocando muertes por falta de medicación.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El anarcocapitalismo que pregona Milei se define como respeto a la libertad del otro, pero la única propiedad privada que no se respeta es la de la mayoría de nosotros: nuestro salario.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta semana se puede frenar la ley de bases y, en algún momento, el DNU que generó muchas de estas políticas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2083
+}

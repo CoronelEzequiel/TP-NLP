@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ningún kirchnerista quiere hablar conmigo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tienen el culo sucio, hermano, ¿qué les pasa?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si ustedes disfrutan de las mieles del poder, el poder es suyo, no es mío.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otra cosa que habría que hacer, además de la rinoscopía, a todos estos nietos que llevan a toda esta gente a la 9 de Julio, como Grabois, Bereciartúa, D'Elía y todo esto, habría que meterlos en cana inmediatamente por sinvergüenzas, por especular con los pobres, por manejar a los pobres como esclavos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando alguien propone algo para sacar a los pibes de la droga, se le tiran en su cara, se le tiran encima, los trans, las trans, les chiques, los chiques, los kirchneristas.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, es hora de empezar a tomar el toro por las astas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La amistad de Alberto con Putin nos cerró las puertas del mundo, estamos hechos mierda.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2985
+}

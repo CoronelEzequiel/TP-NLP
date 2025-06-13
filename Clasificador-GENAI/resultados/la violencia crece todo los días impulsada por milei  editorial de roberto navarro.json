@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.186,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La violencia en Argentina sigue creciendo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero además, es impulsada cotidianamente por el gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los insultos proferidos por este funcionario —quien insulta, injuria, difama, amenaza, demoniza, estigmatiza y deshumaniza a quienes no piensan como él— son inaceptables.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando llama \"rata\" a un adversario, lo está deshumanizando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La mayor violencia proviene de arriba, del poder político.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Detrás de este funcionario actúan milicias virtuales que funcionan como grupos de tareas, insultando, difamando, mintiendo, atemorizando, amenazando, demonizando y estigmatizando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego, se recurre a la represión policial (Policía Federal, Gendarmería, Prefectura) para reprimir, golpear y amedrentar a quien sea.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este tipo de medidas, consideradas por algunos como de las más grandes de la historia, sólo pueden imponerse a través de la violencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé quién envió el paquete explosivo a la Sociedad Rural, pero el hecho de que inmediatamente aparecieran los trolls, la fuerza de tareas del mencionado funcionario, diciendo que la Sociedad Rural debía entregar dinero a la CIDE bajo amenaza de consecuencias,  e incluso la reiteración de estas amenazas desde una cuenta asociada a Santiago Caputo, me hace pensar que ellos mismos podrían haberlo generado para luego pedir dinero.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos pasando a otro nivel de violencia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un gobierno que fomenta la violencia, y la violencia, como decía mi abuela, uno sabe cómo empieza, pero no cómo termina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1894
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.808,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Es un teatro de operaciones donde ya nada se discute y, bueno, y lamentablemente esto sí es transversal a todas las fuerzas políticas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El único mérito, entre comillas, que tiene Máximo es su apellido.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo es un nene de mamá, factura poder detrás de las polleras de su madre, no es un gran orador ni un gran estratega, tiene un altísimo nivel de imagen negativa, nunca ganó una elección encabezando la boleta, ni siquiera se atrevió a competir en las elecciones internas para elegir autoridades partidarias.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo ya tiene 44 años, ya no es un pibe, es un magnate que sigue siendo, que sigue utilizando ese look setentista de pelo largo, barba desprolija, ampera.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina apuesta para garantizar la continuidad del nacional populismo chavista y de asegurar que ella, que Cristina, logre su impunidad tan deseada.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No le hace asco a nada que tenga que ver con la acumulación insaciable de poder y de dinero y, en eso, en eso es igual a sus padres.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2544
+}

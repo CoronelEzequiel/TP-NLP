@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.096,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Quiero desvincular completamente este incidente de cualquier connotación política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue una señora, lamentablemente con problemas de salud mental, obsesionada conmigo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi intención no fue que la arrestaran, sino que la ayudaran.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me interesaba su salud, para evitar que se lastimara a sí misma o a otros.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero separar este caso de los ataques políticos sufridos por Duggan y Brancatelli.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este hecho resalta la importancia de la salud mental, especialmente después de la pandemia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No juzgo a la señora; al contrario, la compadezco y quiero ayudarla.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le demos una connotación política a esto; no me aprovecho del incidente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo importante es que Sonia Sosana esté bajo supervisión médica, no tras las rejas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesita ayuda para evitar que se siga dañando a sí misma y a otros.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero dejar claro que no hubo connotación política en el ataque, y que lo más importante es ayudarla a ella.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aunque la situación económica es prioritaria, debemos abordar la salud mental cuando las cosas se estabilicen.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1856
+}

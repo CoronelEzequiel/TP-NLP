@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.512,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si uno mira los movimientos de Cristina Fernández de Kirchner, los movimientos de **Máximo Kirchner**, va a ver que están pensando la política, casi reduciendo el drama político a la provincia de Buenos Aires.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está bien, quiere ordenar al PRO en relación con lo que sería el programa de un eventual futuro de gobierno de Juntos por el Cambio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí se ha abierto una nueva grieta, que ya no es la grieta entre kirchnerismo y anti-kirchnerismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo recuerdo haber hablado con un experto en opinión pública ya por el mes de agosto del año 2020, en plena cuarentena, y él señalaba, estoy registrando algo raro, nunca había aparecido: un 6% del electorado no quiere a Macri ni quiere a Cristina, pero tampoco quiere a **Alberto Fernández** ni a nadie más, no quieren a nadie.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Uno lo acabo de nombrar, Javier Milei, el otro Alberto Fernández, que está lanzado ahora contra lo que para mucha gente serían evidencias contradictorias con ese deseo, hacia la reelección, hacia ocupar el centro que no quiso ocupar durante tanto tiempo durante su presidencia, el centro que ocupaba justamente en aquella pandemia, en aquella cuarentena.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La CGT tradicional, en estado de alerta, frente a Macri, que los pone siempre en la picota porque entiende que el régimen laboral es uno de los grandes problemas de la economía argentina, pero también frente al kirchnerismo duro, que dio una señal de animadversión o por lo menos de un reformismo inconveniente para la CGT cuando desde la provincia de Buenos Aires se fue a la pared.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Formalmente, la dirigencia de La Cámpora le pide al gobierno que arme una mesa de discusión política para pensar el futuro electoral más o menos como un acuerdo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Navarro le pregunta entonces: \"¿El candidato es Alberto?\". Y no, tampoco puede ser el candidato Alberto que preside un gobierno que, según el propio Máximo Kirchner, por ejemplo, entre otras cosas, puso de rodillas al país frente al campo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8707
+}

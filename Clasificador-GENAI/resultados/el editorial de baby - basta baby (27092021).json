@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.786,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Gracias a Dios, con la ayuda de algunos agentes de la Policía Federal –quienes confirmaron mi versión de los hechos– pudimos avanzar en la investigación contra mi hija, quien está siendo investigada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos un gobierno basado en el respeto, la paz y la justicia social.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que corregir las malas acciones del gobierno de Cintián y la Tupa Pola.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ocho años de gobierno de Cristina y solo nos dejaron frustración y promesas incumplidas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La administración de Cristina, junto con los de Ayala, destruyeron lo poco que quedaba.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este gobierno ha sido el peor de la democracia.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si no cambian de actitud, no podrán gobernar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1898
+}

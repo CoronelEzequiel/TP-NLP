@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuando estamos pasando por una situación y vamos a hacer algo distinto, no vamos a cerrar con una canción y deseando el mejor día posible, sino con una crítica a un colega, a **Vávie Checopar**, que ayer justificó la represión de la misma manera que lo hizo **Patricia Vásquez**.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"En la izquierda buscan un muerto y lo tienen, ¿no? Se sabe que te pide, está muy grave. Lo que pasa es que estamos cansados los argentinos. Hoy el presidente estuvo en Bahía Blanca, muy bien, está perfecto, pero basta de la plaza, basta de los zurdos, basta de la gomera, basta de las piedras.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Esto sería una noticia si fuera la primera vez que pasa. Esto es una retórica permanente de la falta de escrúpulos y moral de un montón de delincuentes de izquierda en la Argentina, que con tal de mantenerse a flote, no les importa lo que rompen ni que mueran.\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este tiempo, con la crisis política a nivel mundial, el crecimiento de la extrema derecha y la proliferación de las *fake news*, se pone muy en discusión cuál es el rol del periodismo y de los medios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1654
+}

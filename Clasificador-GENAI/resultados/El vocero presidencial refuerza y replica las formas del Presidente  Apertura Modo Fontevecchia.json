@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_adorni",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cada mañana, el vocero presidencial, **Manuel Adorni**, despliega una interesante estrategia comunicacional que se concentra en la provocación a los \"enemigos\" del gobierno e incluso a los periodistas que participan en sus conferencias de prensa.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de **Javier Milei** es una gestión que tiene una clara obsesión por lo que llaman \"batalla cultural\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La industria cultural es una respuesta a la pregunta de por qué obedecemos y aguantamos mayoritariamente lo que deciden nuestros dirigentes políticos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Figura, si las hay, relevantes de los últimos 20 años de esta decadente Argentina. Aprovechamos también para sugerirle que cambie a alguno de sus asesores económicos, que ayer a uno de ellos lo escuchamos decir que el déficit está bien y que el déficit sirve para el crecimiento de los países.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno argentino insta a que los funcionarios del reino de España pidan disculpas por los agravios que se le endilgaron al presidente **Javier Milei**, entre ellos el de consumir sustancias, el de ser un gobierno del odio, el de ser un ejemplo de negacionismo y el de atentar contra la democracia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5856
+}

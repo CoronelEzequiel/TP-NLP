@@ -1,0 +1,56 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.722,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mirá, yo les aviso, por si les interesa, que cualquier proyecto que manden desde el Congreso, que quieran romper la caja y hacer volar este país por los aires, se los voy a vetar.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es populismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se le terminó el seguro a la casta.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Digamos, si hacen mal, digamos, después de hacer las cosas desastrosamente mal, que se caguen de hambre por ser una mierda.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Bueno, basta de esto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es un acto de cinismo cruel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es gente, eh. Sin aportes.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es política.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos ante la famosa crisis de los seis meses.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6392
+}

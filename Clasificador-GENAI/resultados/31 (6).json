@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_larroque",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy en Argentina, el único candidato a presidente es Sergio Massa. Los otros candidatos son producto de la circunstancia, pero en términos del porte que requiere un candidato a presidente, sin duda es Sergio Massa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Planteamos que era Massa o disolución nacional, justamente porque estamos frente a una situación de injerencia de poderes extranjeros a través de los candidatos de la oposición, que ponen en riesgo la continuidad del Estado nacional como lo hemos conocido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner es el sostén y, de alguna manera, marca el marco.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con las últimas medidas, que se tomaron a partir del último acuerdo con el FMI –hasta entonces no se podía tomar ninguna medida–, ¿siente que el peronismo que abrazaba la gente era lo que se necesitaba?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo importante es que el peronismo gane, porque eso le dará mejores condiciones, incluso a Milagros Sala, que atraviesa una situación aberrante hace muchos años.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4006
+}

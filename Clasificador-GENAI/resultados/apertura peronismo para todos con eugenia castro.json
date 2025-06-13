@@ -1,0 +1,36 @@
+{
+  "texto_id": "programa",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Imagínese a Patricia Bullrich en lugar de Macron, bajándole el 13% de su jubilación; incendiaría la Torre Eiffel, el Louvre y el Arco del Triunfo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue el único presidente que nunca inició una guerra. Quizás esto demuestra, más que ninguna otra prueba, el gran negocio de la guerra y la falta de rentabilidad de la paz.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juntos por el Cambio, con una gran interna, solo coinciden en votar en contra.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Feliz regreso de Alberto Fernández con los logros de su viaje, aunque es una opinión diferente a la de los expertos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo peleas y reclamos de justicia, como siempre, pero queremos que sepan que nunca vamos a olvidar a nuestro buen compañero, el colectivero que lograron asesinar. Su pecado mortal, en medio de un mundo horrible, fue salir a trabajar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1379
+}

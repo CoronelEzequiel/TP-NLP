@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.762,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los jubilados de la Ciudad Autónoma de Buenos Aires no pueden acceder a la atención médica en la capital y deben trasladarse a la provincia, lo que constituye una emergencia sanitaria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Ciudad Autónoma de Buenos Aires es el principal foco de irradiación del coronavirus en Argentina.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchos periodistas incitan a la violación de la cuarentena, lo que obstaculiza la concientización.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El decreto presidencial que prohíbe las reuniones sociales, dictado por el presidente Alberto Fernández, es un llamado a la responsabilidad ciudadana.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo lo que acabo de decir es falso, engañoso, tendencioso o indemostrable.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Las declaraciones de Gollán, que acabo de mencionar textualmente, son, en su mayoría, inexactas y contradictorias. Son falsedades y mentiras.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si alguien critica la cuarentena o solicita su flexibilización, no es culpable de nada.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Existe libertad de expresión, siempre que se respete la ley y se evite la calumnia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es grave que el ministro Gollán haya afirmado, no solo a los bonaerenses sino a toda Argentina, que habrá varias vacunas contra el COVID-19.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La opinión del \"doctor Cureta\" contrasta con la del autodidacta, hay que decirlo, Bill Gates, quien donó 500 millones de dólares para combatir el COVID-19.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gollán, ex ministro de salud de la Nación durante el gobierno de Cristina Kirchner, junto a su actual viceministro, Kreplak, están procesados en la causa \"Cunita\" por direccionamiento de una licitación de 1097 millones de pesos para kits de recién nacidos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Gollán estudió en la Universidad Nacional del Litoral, fue torturado durante la dictadura, se acercó al kirchnerismo a través de Graciela Ocaña, y llegó al cargo actual gracias a un decreto especial de Kicillof, a pesar de estar procesado.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2895
+}

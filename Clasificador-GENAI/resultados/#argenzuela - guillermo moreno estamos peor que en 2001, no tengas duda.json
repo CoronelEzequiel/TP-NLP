@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_radial",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo, como te dije ayer, haría lo que hizo Néstor Kirchner.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema era la conducta de Mauricio Macri: comprar y no pagar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso de EDSU, hay dos problemas. Primero, el accionista decidió vender la empresa.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que ser más previsor.  Pero a este gobierno le falta astucia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La situación económica del país es crítica, peor que en 2001.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa es hábil para vender una buena imagen, pero los números son pésimos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno peronista con un liderazgo eficiente es la mejor opción para evitar una catástrofe económica, pero el actual gobierno carece de esa eficacia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1840
+}

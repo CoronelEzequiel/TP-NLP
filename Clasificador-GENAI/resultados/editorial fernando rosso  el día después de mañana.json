@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En este espacio, y en el espacio de la izquierda en general, se combatió desde el principio a esta derecha radicalizada, incluso cuando quienes hoy la enfrentan la apoyaban, armándole listas, cuidando sus boletas, etc.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, una cosa es la opinión de la gente común, y otra muy distinta es fingir demencia entre quienes conocen mejor la situación y participan de una narrativa que demoniza a un bando y angeliza al otro.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El resultado es una moralización que despolitiza el debate.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para lograr adhesiones, se suele sobredimensionar al \"mileismo\", afirmando que ya tiene la fisonomía de un movimiento fascista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede negar que Milei y Villarruel tengan rasgos de extrema derecha, especialmente Villarruel, pero su movimiento no tiene aún ese desarrollo y esa dimensión.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto alimenta una narrativa que desarma políticamente a los sectores populares, los verdaderos interesados en derrotar a Milei y a su entorno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como diría Gramsci, lo único previsible es la lucha. Ahí nos encontraremos, desde el lunes, para defender nuestros derechos y cambiar la realidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1810
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Una gran jugada, una gran movida de **Cristina Fernández de Kirchner** este fin de semana, que desencadena otras jugadas de otros actores y se va configurando todavía dificultosamente, con muchas incógnitas, la oferta electoral para las primarias y para las elecciones presidenciales de octubre y eventualmente noviembre, si es que hay segunda vuelta.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es evidente que se da cuenta de que ella no puede llegar y probablemente menos gobernar en un país bloqueado, con semejante nivel de repudio como el que hay contra su persona, contra su figura, contra el modo en que ella ha ejercido el poder.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que recordar que la relación de **Cristina Fernández de Kirchner** y del kirchnerismo con los Estados Unidos quedó detenida en una imagen que es **Héctor Timerman** entrando un avión militar americano con el alicate para llevarse de ese avión material estratégico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández** tendrá que demostrar que lo que se pretende de él, lo que se quiere hacer creer con su postulación es cierto, es decir que realmente es más pluralista de lo que puede ser **Cristina Fernández de Kirchner** y que realmente va a ejercer el poder y no va a ser un títere.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los jueces, **Irurzun, Gemignani, Hornos, Ercolini**, que fue puesto por él, **Bonadio** van a tener que dar cuentas, y esta es la palabra clave, de las barbaridades que escribieron, es decir, no de sus procedimientos, sino del contenido de sus sentencias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Normalmente, y creo que es un enorme error, toda la conducta de **Cristina Fernández de Kirchner** se la juzga a la luz de sus problemas judiciales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6225
+}

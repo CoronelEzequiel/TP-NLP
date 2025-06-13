@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En primer lugar, la sensación positiva de que el gobierno reconoce la legitimidad de nuestro reclamo por el gasto de funcionamiento (un 270% insuficiente).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, hay una sensación amarga.  La decisión es arbitraria, discrecional e incluso problemática, al beneficiar solo a una universidad pública, cuando los reclamos son compartidos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay temas que, independientemente de los cambios de gobierno, deben mantenerse, y la educación pública es uno de ellos (aunque, por supuesto, con aspectos a mejorar).",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno debió convocar a todos y ofrecer el 270% a todas las universidades.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de las opiniones que podamos tener sobre el gobierno, hay un mensaje general, también en educación, de distribución racional y equitativa de los recursos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La marcha fue por toda la educación pública, no solo por la UBA.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esperamos una solución. Soy optimista y creo que el gobierno extenderá el acuerdo al resto de las universidades.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Valoramos el esfuerzo del gobierno, aunque el gasto de funcionamiento es solo el 10% del presupuesto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2168
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.144,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La obsesión del presidente Javier Milei contra Raúl Alfonsín es absolutamente inexplicable.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alfonsín fue, es y será el padre de la democracia recuperada, un dirigente honrado, valiente y luchador por los derechos humanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El golpismo es el delito cívico y republicano más grave que existe.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue patético. De la Rúa fue su propio golpista, una persona que nunca estuvo a la altura de su cargo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la verdad, o por lo menos, esta es mi verdad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alfonsín es un prócer cívico al que tenemos que venerar, pese a los errores económicos que pudo haber cometido, por supuesto, pero puso los cimientos de esta democracia, y por 100 años más.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me gustaría sugerirle al presidente que, si quiere motivarse para boxear, ponga fotos de verdaderos golpistas como Jorge Videla o terroristas criminales como Mario Firmenich, justamente dos enemigos de la democracia que, gracias al empuje de Alfonsín, fueron detenidos y presos en aquel momento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pegarle a Alfonsín es castigar al padre de la democracia, un símbolo de paz, de convivencia y de honradez.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los argentinos hemos aprendido, a la luz de las trágicas experiencias de los años recientes, que la democracia es un valor más alto que el de una mera forma de legitimidad del poder, porque con la democracia no solo se vota, sino que también se come, se educa y se cura.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2824
+}

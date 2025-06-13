@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy encontré un diputado que se llevaba un rollo de papel higiénico para su casa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si no se hubieran metido a opinar sin motivo, Hebe de Bonafini y Estela de Carlotto, porque siempre son como esos loros viejos de veterinaria que, para que alguien los compre, siempre tienen que opinar de algo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando queríamos tener la Taser en la época de Macri, los derechos humanos, la picana eléctrica, ¡qué cantidad de estupideces!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si estos tiros se los hubieran pegado a alguien en la Plaza de Mayo, hoy tendríamos un quilombo en Argentina, parecería una guerra civil, pero no salió ni Bonafini ni Carlotto a hablar porque Chano, un chico que votó a Macri, qué cagada, le erró, pero Chano hoy se está muriendo por un tiro pegado en la pierna y le destrozó todo por no tener la Taser por culpa de estos hijos de puta de los derechos humanos, sin útiles de mierda que no la dejaron implementar.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ayer vi la presentación de la lista de Cristina Kirchner y le quería decir una cosa, señora: ¡qué mal le queda todo!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes fueron los únicos que fueron \"alcahuetes\" genuflexos de los militares y de Menem.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vuelven los mismos nombres a los mismos lugares para hacer lo mismo, o sea, hacer mierda a Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3478
+}

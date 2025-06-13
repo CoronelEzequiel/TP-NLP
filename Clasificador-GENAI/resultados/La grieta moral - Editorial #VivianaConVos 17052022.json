@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.808,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¡La panorámica! ¡Los políticos! ¡Nos arruinaron la República!",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la fiesta clandestina del presidente Alberto Fernández y la primera dama en la cuarentena. Esto fue inmoral. Vos no podías ver a tus padres, a tus hijos. No podías enterrar a tus muertos. Pero esto pasaba un 14 de julio en la quinta de Olivos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina de los vivos que se zarpan y pasan por sobre los bobos, se terminó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente y la primera dama tienen que ir a un juicio oral. Se tiene que transmitir en vivo por cadena nacional para toda la Argentina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted nos defraudó absolutamente a todos los argentinos. Los que lo votaron y los que no lo votamos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que empezar a elegir gobernantes que no lloren, que no roben. Políticos que amen a la patria, que tengan valores, convicciones.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8082
+}

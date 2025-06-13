@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Massa es un sapo de otro pozo que les produce un rechazo visceral en lo ideológico y en lo personal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con Massa solo pueden esperar la liberación del mercado y a Cristina la empezaron a mirar con desconfianza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que sintieron en carne propia el maltrato, el \"usar y tirar\" al que sometió a Pedro \"Wado\" de Pedro y la confirmación de que es una líder que, por defender su impunidad, es capaz de \"tirar a los leones\" a cualquiera, incluso al hijo de la generación diezmada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La propia Cristina no lo quiso nunca, ella también tuvo que \"saborear\" el anfibio.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es que no olvidan aquellos ya clásicos videos en donde Sergio Massa decía, como lo acabamos de escuchar, que iba a barrer a los ñoquis de La Cámpora y a los parásitos de La Cámpora, y meter presos a los corruptos como Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La pelea es salvaje en el flamante frente: \"traición por la patria\" o \"unidos por la caja\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Twitter aseguró que Massa y Macri son \"la peor derecha\" aunque quieran aparecer, quieran parecer otra cosa, \"son lobos disfrazados de corderos\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Joaquín Morales Solá, en su columna, aseguró que Massa es uno de los grandes comerciantes en el mercado político del humo y que es solo candidato por su propia audacia y por su monumental ambición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo más inquietante es que Joaquín sostiene que Massa es un animal político dispuesto a decapitar a Cristina apenas acceda al poder, y Cristina lo sabe.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La inflación descontrolada es la más alta en tres décadas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las reservas negativas del Banco Central se siguen esfumando.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un meme que circula que es genial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez las palabras de Víctor Hugo Morales y Joaquín Morales Solá, que acabamos de escuchar, resuman el estado de ánimo de los talibanes del cristinismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Insisto: votar al verdugo es masoquismo injusticialista.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca más me voy a juntar con los 'quijaristas'.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2742
+}

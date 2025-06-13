@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner lo considera su principal enemigo, lo odia, pero también le tiene pánico.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Rosatti ya demostró ser incorruptible y que mantiene su independencia a toda costa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Kirchner, como todo gobierno mafioso y cleptocrático, consideran una traición este tipo de actitudes de honradez y no complicidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Rosatti, como dije, habla por sus fallos, muestra firmeza, trayectoria profesional, independencia y manos limpias. Y eso aterra a Cristina.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso lo odia y le tiene pánico. Por eso lo considera su principal enemigo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1918
+}

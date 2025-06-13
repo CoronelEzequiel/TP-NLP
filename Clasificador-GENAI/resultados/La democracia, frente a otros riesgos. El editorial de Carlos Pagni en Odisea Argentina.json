@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.483,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Se puede ver el 24 de marzo como el punto de partida de una dictadura atroz que inaugura algo impensable: la desaparición de personas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue el último golpe de estado de un país que arrastraba una crisis política de legitimidad desde los años 30, desde el golpe del 30.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En 2023, o todo el ciclo de gran desencanto, de gran crisis de representación que termina desembocando en la presidencia y en la elección de Javier Milei, probablemente, en otro momento, la sociedad argentina lo habría resuelto con un golpe también.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy todo nos parece natural; nos parece natural que el gobierno esté por concluir su período constitucional, nos parece natural que no haya estado de sitio, nos parece natural que cada uno pueda decir lo que quiera, nos parece natural que no haya proscripciones, nos parece natural que no haya presos políticos, nos parece natural que no haya provincias intervenidas, nos parece natural que no haya sindicatos intervenidos, y yo creo que está bien que todo esto nos parezca natural; así debemos considerarlo de ahora en adelante, sin embargo, todo esto junto no se había dado nunca en nuestra historia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que ver si esto, este problema, no empieza también ahora a dárselo al gobierno de Milei en relación con el caso Libra, con desprolijidades institucionales. Habrá que ver cuál es el costo final que paga el gobierno avalando a un juez tan criticado por su imagen de juez corrupto como Lijo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Hay que arrasar con todo y convertir a Milei en el único líder de todo lo que va del centro a la derecha, o de todo lo que no es kirchnerismo, y del centro hacia la izquierda, por lo tanto, debe someter a las demás fuerzas políticas o opciones políticas que ocupaban ese espacio?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9011
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_caputo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, el ministro de Economía, Luis Caputo, refutó la teoría económica austríaca que atribuye la inflación exclusivamente a la emisión monetaria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema actual podría describirse como una \"promoción Caputo\": 1x2, donde el consumidor paga el precio de dos productos por uno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El balance de La Anónima muestra un margen de utilidad del 9%, un porcentaje altísimo para el sector.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos dos ejemplos muestran que la explicación de la inflación basada únicamente en la emisión monetaria es insuficiente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La reunión del ministro Caputo con productores y distribuidores de alimentos evidencia la necesidad de abordar el problema de los precios desde una perspectiva más amplia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1284
+}

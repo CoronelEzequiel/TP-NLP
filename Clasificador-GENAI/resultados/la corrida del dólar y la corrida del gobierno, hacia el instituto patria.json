@@ -1,0 +1,121 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.723,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Su intento precipitado de sumar gestos para complacer al ala dura del kirchnerismo, cuando debería centrarse en brindar tranquilidad a la población y certidumbre a los mercados, lo muestra como alguien desesperado por conservar su poder, como si necesitara la aprobación de Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero es el presidente, ¿o no?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El poder reside en otro lugar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quizás nada ilustra mejor el comportamiento sumiso del primer mandatario que la palmadita de aprobación del dirigente kirchnerista Andrés \"El Cuervo\" Larroque, tras la  sobreactuada visita a la dirigente Milagros Sala, condenada y procesada por múltiples delitos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La derecha, si tiene que votar por la derecha, tiene a Macri, tiene a los ultraderechistas, le sobran opciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No va a votar a este \"Mequetrefe\" que además es ineficaz.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y cuando habla La Cámpora, habla Cristina, así de simple.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la visita a una condenada por la Justicia se sumaron declaraciones que ningún presidente que respete la división de poderes realizaría, pues un abogado sabría que está interfiriendo abiertamente con otro poder del Estado: el Poder Judicial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le solicito a la Corte Suprema de Justicia de la Nación, que tiene la causa contra Milagros Sala desde hace más de dos años, que se avoque al tema.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pido a la Corte Suprema de Justicia de la Nación que empiece a corregir los errores jurídicos del pasado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su explicación fue casi una perogrullada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El corazón de esta hipótesis, según afirmó anoche el ex presidente del Banco Central, Alfonso Prat-Gay, sin eufemismos, es que la vicepresidenta busca provocar una crisis desde adentro para que se vayan todos, incluso el presidente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy la vicepresidenta quiere provocar la crisis desde adentro intentando que se vayan prácticamente todos, inclusive el presidente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cansada de no obtener resultados en su estrategia judicial, y ante el deterioro del gobierno y el riesgo de un colapso electoral que la afecte, Cristina Fernández de Kirchner, si es necesario, irá por todo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como siempre. Ella está en guerra contra todos, incluso contra la sociedad, según explica una fuente conocedora del poder kirchnerista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde los tibios apoyos de la CGT en un homenaje a Perón hasta los acercamientos de intendentes y gobernadores hacia Cristina Fernández de Kirchner, todo indica una fuga hacia el Instituto Patria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos esperan lo que diga Cristina Fernández de Kirchner, que gobierna a distancia en cada discurso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las últimas 24 horas muestran que el presidente de la Nación está desesperado por obtener su aprobación final.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quizás nunca tuvo el poder y ahora, todo indica, ha entregado el gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El drama se desarrolla ante nuestros ojos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El sábado habla Cristina Fernández de Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y su guerra es a cielo abierto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3253
+}

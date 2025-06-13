@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_milei_villarruel",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.586,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei, quien parece tener diferencias con Victoria Villarruel, y casi como un homenaje a la relación entre sus antecesores Javier Milei y Victoria Villarruel, suman un nuevo capítulo a su indisimulable interna, esta vez con las fuerzas militares como telón de fondo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras este se autopercibe como un libertario extremo, un anarcocapitalista, un topo que viene a destruir el Estado desde dentro, la vicepresidenta representa una tradición más conservadora, nacionalista o cercana a los militares, que en el fondo son empleados del Estado, incluso a los represores de la última dictadura, con guiños a Mauricio Macri.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La soberbia es una discapacidad que suele afectar a pobres infelices mortales que se encuentran de golpe con una miserable cuota de poder.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bastantes rivales hay afuera como para pelearse con los de adentro. Ahora toca aprovechar lo quebrada que está la oposición para destruirla de una vez por todas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no me voy a convertir en Cristina Fernández de Kirchner. No me voy a convertir en aquello que vinimos a cambiar. No hay gobierno sin institucionalidad, por eso la política tiene que trabajar para la gente. No hay progreso sin libertad. Todo por Argentina.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lijo es un candidato de la impunidad y de la casta. La voz de la Corte tiene que quedar con los cinco miembros. Lijo es el candidato de la impunidad y de la casta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Evidentemente, Victoria Villarruel, hablando de la universidad pública y de la institucionalidad, generan dudas, teniendo en cuenta que son dos temas en los que se critica al gobierno de Milei, y mientras tanto, la sombra de Macri y su gira por los medios debe tener bastante nervioso al gobierno y al propio Javier Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4171
+}

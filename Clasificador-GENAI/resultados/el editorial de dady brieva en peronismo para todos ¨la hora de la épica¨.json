@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.217,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "*Peronismo para Todos*, uno de los últimos programas… porque la semana que viene hay debate, después la entrega de los premios Goya, y después… *Libertad para Todos* ya no se podrá llamar. No se puede.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un abrazo también para la gente de La Lucila del Mar, mi amigo Fernando y todos los militantes que me avisaron que están al 100% para diciembre.  100% de compromiso, sin dudas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*La Chipi* fue a la marcha del Orgullo Gay, y allí estaban los peronistas y los… simpatizantes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como dice Pepe Mujica, 'la indiada' es la que produce el cambio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que militar, estar atentos, hacer lo que siempre hicimos. Tuvimos una distribución imperfecta, sí, pero la salud pública y la educación están ahí, no hay que inventarlas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después fui a ver a Boca Juniors… y esto es lo que quiero comentarles: el tema de hoy tiene que ver con la épica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1948
+}

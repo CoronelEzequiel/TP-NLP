@@ -1,0 +1,136 @@
+{
+  "texto_id": "Viviana con vos",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.786,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Moser te explicaba que los chantas y los delincuentes en la Argentina siempre están en el poder.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero seguir lavando dólares del narcotráfico es jugar a la ruleta rusa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno es nuestro, dijo el cuervo Larroque.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta interna feroz en el kirchnerismo, en el frente de todos contra todos, se lo va a llevar puesto al presidente Alberto Fernández.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es una maltratadora serial, especialmente con Alberto Fernández.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el Instituto Patria, que es la única patria que tiene el kirchnerismo, dicen que quieren rajar a Alberto Fernández.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso el mayor obstáculo que tienen se llama Alberto Fernández.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y su gente lo quieren débil, Alberto Fernández lo quieren humillado, lo cascotean todo el tiempo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El quisilismo es mucho más despiadado que la oposición, que la vemos blanda.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La policía de Rosario allanó viviendas del jefe de Los Monos y encontró gran cantidad de cajas de alimentos que distribuye el municipio de Rosario.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La política es cómplice del narcotráfico.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Detuvieron al portero de una escuela por abusar de una niña en un jardín de infantes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que ser hijo de puta para abusar de una nena de cuatro años.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el precio del poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de la igualdad te compras un huevo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Renunciar a Ghi, tener un poco de decencia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero y la ficha limpia y la boleta única.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Argentina nos están obligando a elegir hijos de puta o boludos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aguante Robert De Niro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peso a tomar por culo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me revienta cuando lo denigran al Cuná.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes son unas truchas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nueve casos, chicas de abuso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alperovich tiene que ir preso.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ni a los zurdos les parece bien el desbarajuste descontrolado que hacemos en la Argentina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9501
+}

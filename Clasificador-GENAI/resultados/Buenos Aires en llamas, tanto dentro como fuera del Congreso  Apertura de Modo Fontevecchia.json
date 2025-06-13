@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Dentro del Congreso, nuevamente el cuarto intermedio porque no se pudo aprobar la Ley Ómnibus.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mucha muñeca política mostró Miguel Ángel Pichetto. El hombre hoy, sin lugar a dudas, con más experiencia y casi el que está llevando adelante la sesión por parte del oficialismo, o la oposición amigable al oficialismo, en lo que tiene que ver con lo que pasa con la sesión. Incluso dándole algunas lecciones a la oposición de lo que tiene que hacer.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo hizo Unión por la Patria y también la izquierda. ¿Qué decían? Bueno, que era imposible sesionar en el Congreso mientras había represión fuera del ámbito legislativo. Es más, varios diputados se fueron del recinto y estuvieron en la calle acompañando a los manifestantes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parece crecer esta idea de una ley que tiene que pasar dentro del Congreso como sea, pero también con un control de la calle con represión. Son dos patas, la que pasa dentro del Congreso, una ley que tiene que aprobarse como sea y fuera del Congreso con un orden represivo por parte del Ministerio de Seguridad de Patricia Bullrich.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gran pregunta es, ¿eso refleja lo que pasó en el día de ayer? La foto principal del diario refleja lo que pasó en el día de ayer, donde hubo decenas de heridos de bala, casi lacrimógeno, más allá de la veintena de colegas heridos en el día de ayer, con los cuales nos solidarizamos, por supuesto, desde aquí. Hubo todo tipo de heridos. Poner solamente esta foto refleja, y es honesto intelectualmente con lo que pasó en la calle en el día de ayer, por eso nos llamaba la atención lo que ponía el diario Clarín en la tapa en el día de hoy.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5711
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me quiero referir a uno de los candidatos de Unión por la Patria en la ciudad de Buenos Aires que se llama Alejandro \"Pitu\" Salvatierra.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo sí, yo me robé tres bancos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahora entienden por qué el kirchnerismo se negó a ficha limpia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una predilección por los delincuentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una inclinación muy fuerte por lo ilegal, lo delictivo, lo tramposo, lo indecoroso, lo impúdico, lo indecente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero no es solo la fascinación por los delincuentes. Hay una fascinación también por los conversos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina va a salir adelante el día que dejemos de votar al peronismo, por lo menos por dos años.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos ante la fascinación del kirchnerismo y de la izquierda por los delincuentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Con la cleptocracia, como se diga, cleptocracia, siempre es mejor hacerse el pelotudo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3857
+}

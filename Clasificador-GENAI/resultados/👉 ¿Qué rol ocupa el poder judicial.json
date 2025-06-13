@@ -1,0 +1,41 @@
+{
+  "texto_id": "estacera",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La cuestión de fondo es el argumento jurídico que da sustento a la eventual y posible condena en este caso de la vicepresidenta Cristina Fernández de Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Me pueden meter presa, pero lo que van a poder hacer es callarme\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No podrían haberse consumado los atropellos, las entregas, las desgracias sobre tantos argentinos y argentinas sin la complicidad del poder judicial\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es absurdo plantear que el jefe de la administración es responsable por cada uno de sus dependientes, cambia el derecho penal y el encuadre del principio de responsabilidad. Estamos ante un peligroso antecedente para la política, para empresarios y aquellos que tienen dependientes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que se discute es si la vicepresidenta, entonces presidenta, tenía o no participación para que esos hechos se produjeran.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"A mí me va a absolver la historia y a ustedes los va a condenar la historia\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3852
+}

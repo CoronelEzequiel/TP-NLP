@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hemos logrado construir esta alternativa competitiva que no sólo dará fin al quiebrismo, sino que además dará fin a la casta política parasitaria, chorra e inútil que hunde este país.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La meritocracia es la debida recompensa del mérito. Por eso, sinceramente, a mí me hizo bastante ruido cuando la vicepresidente anoche, en la charla con nosotros, defendió el sueldo de los senadores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "20 años de populismo. Nos destrozó la vida. El sueldo. La moneda. Y a esto sumado que la clase media se está ajustando como nunca antes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei, basura, vos sos la dictadura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los militares no hacen más golpes. ¡Fin! Basta de este tema.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6866
+}

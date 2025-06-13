@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este Gobierno, en minoría, elige como método de negociación con la oposición agredirla.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Porque nos traicionaron gobernadores, básicamente\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"A mí no me gusta hablar de los partidos, de lo personal, pero yo soy un tipo que quiero acompañar, quiero ayudar. Quiero ayudar al gobierno, quiero cumplir con el mandato popular que la gente le dio a Milei y la posibilidad de gobernar.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Andá a la guerra, Milei. Macri negoció y se lo cogieron. No se negocia con esta gente. No te pusimos para negociar cosas básicas como bulos o quioscos que Pichetto usó como moneda de intercambio. Esto no es política, esto es traición en la Argentina\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"A ver, el resultado para la sociedad de que se retire el proyecto de ley es una estafa. La sociedad necesita una respuesta en cada una de las dimensiones que se estaban discutiendo en el Congreso y que se discutieron durante un mes. Espero que el Presidente vuelva a enviar el proyecto de ley y se pueda volver a discutir, que cambie de opinión porque realmente si no es una estafa para toda la sociedad\".",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Esto fue una declaración de guerra por el hecho de que no salió el proyecto. Si no acompañan por las buenas, ajustarán por las malas. Mirá vos. El radicalismo vuelve otra vez a confirmar que solamente sirven para hacer putitas del peronismo\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Perdón, perdón chicos. Mira, uno tiene experiencia en ser perseguido. Esto empezó con una persecución al kirchnerismo, que en algunos casos avanzó mucho más, claramente contra Cristina. Pero hubo demonización, persecución, encarcelamientos, racias, intento de asesinato, deshumanización.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Instagram, en donde aparece tipo Terminator diciendo \"Hasta la vista, baby\", que es lo que dice Terminator antes de disparar y terminar y eliminar y matar al último enemigo, y menciona a Belliboni, a sindicalistas, a gobernadores y a diputados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2364
+}

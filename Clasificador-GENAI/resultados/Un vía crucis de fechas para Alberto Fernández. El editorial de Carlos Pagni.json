@@ -1,0 +1,36 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El primer hito de ese calendario en Diablado es mañana, 13 de abril, perdón, pasado mañana. Es el día en que se va a conocer entre mañana y pasado mañana, va a estar discutiéndose la inflación, el nuevo índice de inflación. Se supone que va a ser de 6,2 o alrededor de 6,2 y más de 7% en alimentos. Es un golpazo porque quiere decir que la inflación está disparada",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos hablando de una inflación que va escalando, sube dos puntos porcentuales prácticamente en un mes. Esto genera expectativas muy negativas que prometen que va a seguir subiendo y no bajando, como dice el ministro.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un 23,3 por ciento, según este estudio, dice que la perspectiva de su vida personal, dentro de un año su vida personal y la de su familia será muy buena y buena. Mala y muy mala, el 64,9%. Ahora, si vamos a la clase media, mala y muy mala, el 70% cree que le va a ir peor, 70,4. Y sólo el 20% cree que el año que viene él y su familia va a estar mejor, que la situación va a ser buena y muy buena.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El 47,8% no tiene identificación con ningún grupo político, el 23,6% se autodenomina independiente, el 16,5% dice ninguno de los anteriores, y el 7,7% no sabe. Bueno, esos números de la economía se reflejan en estos números de la política. Acá está el huevo de la serpiente, acá está el desencanto político reflejado en términos de desencanto económico.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En un país con mucha pobreza y con pobreza creciente, ¿quién es el representante político de los pobres?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8311
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es interesante el mensaje que dio hoy Grabois, porque Grabois busca más; como decíamos la otra vez, él quiere la reforma agraria, y para que haya reforma agraria, tiene que haber, sí o sí, expropiaciones de grandes extensiones de tierra.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando habla Grabois, lo hace como abogado de una de las partes en una disputa legal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Le pide al presidente y a Axel Kicillof que dejen de ceder ante los poderes fácticos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Grabois juega fuerte, y en su \"evangelio\" —lo digo con respeto, es una metáfora— cita al Papa para apoyar su causa, porque en su última encíclica el Papa habla del derecho a la propiedad privada, considerado un derecho natural secundario derivado del principio de justicia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Grabois ha perdido apoyo durante este proceso, y en su mensaje de hoy, lo explicita.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las acusaciones de Grabois sobre los Echeverría (corruptos, narcotraficantes, terratenientes que influyeron en la justicia) son las afirmaciones de un abogado de parte, no la verdad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia actuó basándose en documentos, y por eso ordenó el desalojo debido a la usurpación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Grabois continuará con su proyecto, cita al Papa, y hoy la Iglesia emitió un comunicado en contra de las tomas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2131
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_macri",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente, en un gesto muy positivo, la leyó y respondió.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero le digo al presidente, la respuesta da la impresión de que todo es culpa de otros.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el presidente está allí y todo lo que afecta a esta persona es culpa de otros y nada se puede hacer, el voto de la persona no tiene sentido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un deber del gobierno, porque el presidente prometió algo en su campaña.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1139
+}

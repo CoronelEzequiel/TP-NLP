@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_cristina",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, Cristina se sentó después de seis años en un estudio de televisión y dijo: \"La que va a trazar la estrategia electoral voy a ser yo\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina está acostumbrada a ganar en primera vuelta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina lo que dijo es \"la estrategia es que gane el balotaje\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el día que no le sirva más, van a seguir a otro.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina, el día que publica la última carta donde dice por cuarta vez que no va a ser candidata, lo hace en medio de un acto del partido justicialista donde estaban diciendo \"partida de candidata\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2514
+}

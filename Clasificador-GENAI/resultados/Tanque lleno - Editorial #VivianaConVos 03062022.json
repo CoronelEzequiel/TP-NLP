@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, después de tres meses, se volvieron a ver la cara la reina y el gordo. Celebraron juntos los 100 años de YPF. Mirá este meme: “YPF festeja sus 100 años con medio país sin combustible”.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las escuelas no tienen gas, no tienen agua, no tienen luz, no tienen techos, no tienen docentes, pero, al menos, no gobierna la derecha.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos el tanque lleno de ustedes, sin vergüenzas. Hoy se juntan porque es la caja más grande de la Argentina, y YPF, claro. Y como sea, cumpa, hoy tenemos que ir a aplaudir, a cagarnos de risa total, vivimos de esta manga de pelotudos que somos nosotros.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De este gobierno, algunas cosas rescato, por ejemplo, que fue un acierto la voluntad de resolver el tema de los *holdouts*, que era una deuda pendiente que no tenía sentido. Me parece que está muy bien lo que aprobaron hoy de devolución del IVA a los jubilados.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las mujeres somos más inteligentes, más ambiciosas y más fuertes de lo que piensa la izquierda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes, chorras, le robaron el “Ni una Menos” a una mamá que perdió a su hija adolescente, porque la mató su novio porque él quería que abortara y ella no. Ahí nace el “Ni una Menos”.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8857
+}

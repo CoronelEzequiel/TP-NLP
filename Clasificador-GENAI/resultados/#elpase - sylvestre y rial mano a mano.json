@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.343,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo noto cada vez más que los políticos, tanto en el gobierno como en la oposición, no compiten de verdad.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por primera vez en mi vida, te digo con sinceridad, Jorge, me está invadiendo un gran escepticismo sobre el futuro de la Argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No veo dirigentes que se jueguen, que salgan con convicción a decir la verdad.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El único que lo está haciendo es Daniel Scioli.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los demás están cruzados de brazos, esperando… esperando a ver si Cristina Fernández de Kirchner se le ocurre algo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que hay mucho egoísmo en la dirigencia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Cristina no se presenta, y estamos de acuerdo en que no lo hará, no hay tiempo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debe haber definiciones concretas antes del 15 de abril, porque el tiempo se agota.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora están preocupados porque les llegan datos de las provincias: en Salta, \"mi ley\" va primero, en Mendoza también.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo está pasando.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri impone candidatos porque le importa mantener sus negocios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay apego a la democracia interna.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El miedo a las PASO es el principal problema.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se discute tanto en el frente de todos.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando escucho \"Néstor haría esto, Néstor haría lo otro\", pienso: si sabes lo que haría Néstor, hazlo tú.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2670
+}

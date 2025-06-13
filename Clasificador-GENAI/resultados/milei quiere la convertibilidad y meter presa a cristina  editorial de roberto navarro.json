@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.206,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta gente está logrando sacar cero; está logrando que suban los precios, es decir, generando el prejuicio de una devaluación antes de que ocurra.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Contrariamente a lo que dice la prensa oficialista, el gobierno intenta engañar constantemente a los mercados, como si estos fueran peces que nadan bajo el agua.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo máximo que pueden lograr, si reciben dinero, es frenar lo que se llama 'carretrae'. Gente que está especulando y, si recibe dinero, piensa: 'Ah, puedo quedarme unos meses más especulando'.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si aparece una encuesta que la da a Cristina como ganadora por 7 u 8 puntos, bueno, es jaque mate. Los mercados dicen: 'Vuelve el populismo'.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se les mezclaron los errores, y les hago un favor al llamarlos errores porque también puedo sospechar que sea un juego de Nicolás Caputo para darle dólares a sus amigos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El dinero que te da el fondo es deuda pública, deuda externa; después no nos quejemos de la deuda externa. Usar los dólares del fondo para poner un techo al dólar es asegurarle ganancias a los especuladores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La incertidumbre es mucho peor que la certeza, incluso la peor. Lo entiende quien sufre una enfermedad o cualquier situación similar. La incertidumbre mata. Bueno, ellos están generando incertidumbre constantemente.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente, que tenía una forma de trabajar distinta al macrismo, que no había basado su gobierno en el anticristicismo ni en la judicialización de la política, está tan desesperado que ayer lo hizo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando vos no sabés a quién creerle, mirá cómo actúan. Mirá cómo actúan. Esa desesperación de salir siete veces en el día a decir cómo es el acuerdo con el FMI y a decir que van a meter a Cristina presa, lo que me dice a mí es que están reventados, que no saben cómo solucionar el problema, que no saben cómo salir de acá.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6801
+}

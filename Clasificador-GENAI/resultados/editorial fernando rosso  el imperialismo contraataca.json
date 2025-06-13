@@ -1,0 +1,36 @@
+{
+  "texto_id": "El_imperialismo_del_dolar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se trata de un libro provocador que, para comprender el mundo contemporáneo, propone retornar no solo a autores clásicos, sino también a nociones clásicas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El neoliberalismo habría logrado que los propios sujetos internalicen y reproduzcan el poder que los domina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, el encuentro anual de la Cámara de Comercio de Estados Unidos, inaugurado por Facundo Gómez Minujín (presidente del JP Morgan en Argentina), ilustró esta dinámica.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las demandas estadounidenses a los dirigentes y candidatos presidenciales argentinos se centraron en ajustes económicos (ante la grave crisis social), reducción del gasto público, eliminación del déficit fiscal, independencia del Banco Central y profundización de la agenda extractivista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de las discusiones que genera, *El imperialismo del dólar* me parece valioso por reponer categorías como guerra, revolución e imperialismo, no como un ejercicio intelectual, sino porque describen mejor el mundo que enfrentamos, sus fallas y las posibilidades de cambio.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1622
+}

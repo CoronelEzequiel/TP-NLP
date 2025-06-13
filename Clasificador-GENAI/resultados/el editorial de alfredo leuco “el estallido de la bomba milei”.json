@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.656,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El tsunami electoral de Javier Milei explotó como una bomba de fragmentación en el corazón del sistema de los partidos políticos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa dijo que, si llega a la presidencia, va a convocar a un gobierno de unidad nacional.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde la otra vereda, Javier Milei le ofreció a Macri ser una suerte de \"súper embajador\" para conseguir inversiones en el mundo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich tiene ahora un gran desafío por delante.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su eje de campaña debería mostrarla rodeada de los mejores posibles ministros y de los equipos que van a llevar adelante sus principales propuestas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su equipo están proponiendo solidez en los proyectos e institucionalidad previsible con gobernadores, intendentes, senadores y diputados para evitar huir hacia el precipicio o caer en el péndulo de la inmadurez y de los espasmos de la bronca de votar en contra de y no a favor de.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Más república y menos anarquía, más sentido común y soluciones concretas y menos desmesuras, como, por ejemplo, llamar \"socialista\" a Joe Biden o \"gusano comunista\" a Horacio Rodríguez Larreta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gran parte de la sociedad cree en los procesos serios de construcción de un Estado útil y transparente que castiga a los delincuentes, a los vagos y a los autoritarios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Viva la libertad, por supuesto, pero también viva la patria y la república, viva la democracia que es el menos malo de los sistemas conocidos!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2460
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Cristina Sin Vuelta",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¿Por qué un gasoducto cuya construcción es vital y urgente resulta obstaculizado por los mismos que aseguran querer hacerlo?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La nave perteneció a una empresa iraní involucrada con el terrorismo, ahora pertenece a Venezuela, y llevaba una excesiva tripulación de al menos 17 personas, con 12 venezolanos y 5 iraníes, uno de los cuales pertenece a la fuerza Quds, considerada terrorista por Estados Unidos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tampoco se puede olvidar que está en el poder el mismo signo político que también, a pesar de los atentados impunes, firmó un pacto con Irán, el país acusado de realizarlos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El del memorándum con Irán es una de las causas en las que Cristina Fernández de Kirchner logró una rareza jurídica: ser sobreseída antes de que se realice el juicio.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Parece que ahora el juez decidió retener esos pasaportes. Porque uno hasta ese instante se preguntaba: ¿nadie duda de que haya aquí atrás una operación de inteligencia encubierta?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2719
+}

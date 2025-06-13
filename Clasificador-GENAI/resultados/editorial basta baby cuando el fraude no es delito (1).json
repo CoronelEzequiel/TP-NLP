@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.671,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mi solidaridad, en primer lugar, con el pueblo boliviano.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Evidentemente, el populismo parece prestar poca atención a la gente humilde, ya que con frecuencia genera estos conflictos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos ser cautelosos con la izquierda mentirosa y corruptible que existe, aquella que encubre a procesados y que está llena de delincuentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estoy de acuerdo con el gobierno de Alberto Fernández, pero no con que se apoye a una figura como Evo Morales, quien pudo haber dejado un legado positivo pero, en cambio, huyó.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En las próximas elecciones, Latinoamérica podría inclinarse hacia el centro-derecha, y podríamos quedar aislados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos dejar de lado el victimismo, la adulación a Venezuela, y la compañía de personajes impresentables.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es hora de reconocer la violencia existente en el Cono Sur y dejar de inventar excusas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1710
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este fin de semana, el Observatorio de la Pobreza de la Universidad Católica Argentina (UCA) reveló que el 57% de la población se encuentra por debajo del umbral de la pobreza, el peor registro de los últimos 20 años.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La destrucción en los últimos 100 años no tiene parangón en la historia de Occidente. La verdadera herencia del modelo de la casta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el gobierno de Mauricio Macri, la Argentina, como en el juego de la Oca, retrocedía a casilleros a mansalva.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo una fila en el Ministerio de Capital Humano a modo de protesta, porque la ministra Sandra Pettovello dijo que no atendería a los dirigentes sociales; que fueran de a uno los que tienen hambre y que hicieran la fila.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las conclusiones del documento de Cristina son un puente a la modernidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O sea, concretamente, ¿se imaginan al bloque peronista corriéndose al centro y sumándose a los otros bloques llamados \"dialoguistas\"?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4853
+}

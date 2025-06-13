@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.845,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Si Alberto Fernández fuera un presidente responsable, me gustaría decirle que los hackeos son un síntoma de una enfermedad terminal que está liquidando a los países.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En veinte años, el kirchnerismo dinamitó la ley, empoderó a los malandras de todo tipo, romantizó la violencia y el \"choreo\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Rosario es un dolor que llevamos en el alma, pero lamentablemente, además, es un espejo que nos avisa lo que se viene en todos los conurbanos, sobre todo en la provincia de Buenos Aires.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Salvo Patricia Bullrich, Cristian Ritondo y alguno más, nadie tomó la real dimensión de este drama que nos lleva al infierno.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Estado es culpable de estas atrocidades y es responsable por no combatirlas como corresponde, y cuando digo Estado, le pongo nombre y apellido, porque hablo tanto de Sergio Berni y Axel Kicillof como del Estado nacional con los Fernández, Aníbal Fernández, Cristina y Alberto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Consideran que el ladrón o el asesino son víctimas y, por eso, los protegen, y si llegan a caer presos, los liberan lo más rápido posible, y a eso, estos caraduras le llaman derechos humanos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández justificó plenamente la suelta de miles de presos al comienzo de la pandemia, ¿se acuerda?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por lo tanto, a 40 años de finalizada la dictadura, es hora de que las fuerzas de seguridad sean respetadas, capacitadas, pertenecidas y reconocidas económicamente como corresponde.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Defienden los derechos humanos de los presos, pero no de las personas honestas que van a trabajar o estudiar todos los días.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entre todas las herencias malditas que va a dejar este cuarto gobierno kirchnerista están la inflación, por supuesto, la pobreza multiplicada, pero la más grave es la inseguridad galopante.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No tienen la menor intención de enfrentar a los delincuentes, son cómplices, y esta sí es una cuestión de vida o muerte.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2793
+}

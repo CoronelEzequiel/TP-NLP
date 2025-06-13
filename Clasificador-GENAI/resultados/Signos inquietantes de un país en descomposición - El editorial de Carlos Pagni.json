@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que vamos a tratar de ver esta noche, desde muchos ángulos, es cómo está el instrumental político del que dispone la sociedad argentina para enfrentar estas dificultades.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "**Massa** tiende a transformar todo lo que hace casi exclusivamente en un hecho de campaña, como en medio del drama en el que está metido, que probablemente nosotros lo vemos y él no, ir a hacer campaña con su esposa a Tigre, ignorando al intendente, etcétera, solo para jugar la interna del pueblo chico, donde ha perdido el poder y perdió también el consenso de la gente, algo que él está tratando de recuperar con la gestión económica.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es interesante la cuenta de Twitter de **Massa**, porque son anuncios de cosas que va a hacer. Ese anuncio de mañana o de las próximas horas tiene que ver con un proyecto que en realidad se originó en la gestión de **Mauricio Macri**, en el gobierno anterior, el que lo elaboró fue el ministro de Trabajo **Jorge Triaca**, y es la idea de transferir trabajadores desocupados que están recibiendo planes al mundo de la economía formal, facilitarle a las empresas la contratación de esos trabajadores.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al final del camino **Massa** tiene muy poco para ajustar, entre otras cosas, porque una medida de ataque es muy audaz, que recuerda en alguna medida algo que recordó **Cavallo** el otro lunes, que es lo que hizo en la época de **Menem**, voy a hablar de historia antigua, **Germán González** que sentarse sobre la caja, y acá no hay un peso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si se empiezan a alinear muy mal los planetas para la Argentina, que padece desde hace mucho tiempo, con una interrupción que fue el gobierno de **Macri**, una larga historia de prácticas populistas en materia de energía, hay los que están, los que dicen que también **Macri** incurrió en esas prácticas con tarifas exorbitantes en las energías renovables para un país que no es la Argentina, para un país muy rico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8854
+}

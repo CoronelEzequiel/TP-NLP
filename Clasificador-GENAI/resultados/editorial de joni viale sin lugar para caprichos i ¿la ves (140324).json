@@ -1,0 +1,106 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.679,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a hablar de Jesús, perdonó a la prostituta, pero nunca, nunca al traidor.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, pongámoslo número uno: derogación de la ley de alquileres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo, derogación de la ley de abastecimiento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tercero, mirá esto: derogación de la ley de góndolas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuarto, la desregulación de las prepagas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quinto, los contratos en dólares.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sexto, cambios en las indemnizaciones para crear más laburo privado, menos planes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Séptimo, educación como servicio esencial, basta de paro, basta de \"vara\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Octavo, la extensión del periodo de prueba laboral de tres meses a ocho meses.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Noveno también, la incorporación de las sociedades anónimas deportivas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El enemigo no es Villarruel. El enemigo es el populismo que generó el cáncer de la inflación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema no es la vice, el problema es el populismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si se cumplen estos cinco o seis pasos, la gente va a vivir mejor. Y si la gente vive mejor, el kirchnerismo queda fuertemente debilitado, casi jubilado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno se pega tiros en el pie todos los días porque no mide las consecuencias de sus actos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, Milei se quiere cargar a Villarruel, pero Villarruel se quiere cargar a Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me parece que estamos necesitando cabeza fría, inteligencia, aplomo, sensatez.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema no es Villarruel.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si los hermanos se pelean, te devora el kirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo necesita fomentar esto, el quiebre? Divide y reinarás.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6663
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer conté que hoy estamos así porque es “casual day”.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando lo empezaron a acusar, como a Palito Ortega, de haber trabajado en películas durante la dictadura –hizo un *remake* de una película que ya había hecho, creo que “La muchachada a bordo”, con Marrone–, lo identificaron con las fuerzas armadas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero vinieron los mafiosos de mierda, porque era \"facho\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí, de hecho, hay algunos kirchneristas que empezaron a tuitear contra Carlitos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Prohibido en la Argentina, en la Argentina de izquierda, prohibido.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Él, Palito Ortega y otros más que trabajaron en la época de… en todas las épocas; trabajó con Alfonsín, trabajó con Videla, trabajó con Isabel Perón.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2229
+}

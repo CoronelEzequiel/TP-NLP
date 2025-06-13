@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_julian_dominguez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.117,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que las políticas públicas en Argentina deben defender a los productores, que son el motor de la economía, y particularmente las organizaciones de productores como la ACA y la FAA en Argentina han jugado un rol decisivo en la promoción del interior del país.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que sí es seguro es que siempre el Presidente parece privilegiar a los sectores con mayor poder adquisitivo o con mayor nivel de rentabilidad en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está entregando Argentina a grupos minoritarios que sirven a intereses foráneos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina debe ser el único país del mundo donde se exalta la maximización mercantilista de la riqueza en detrimento de la vida de los productores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están entregando la patria en las “4M”: la de Menem, la de Macri y ahora la de Milei.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre los países que tienen vocación de defensa de sus intereses defendieron los mismos intereses; los únicos que le construyeron una literatura diferente a la literatura de la Dependencia, fueron los “filingos” que trabajan para consultoras y que están pensando en sus honorarios más que en el destino del pueblo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3632
+}

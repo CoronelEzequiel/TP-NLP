@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.117,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, será muchas cosas, pero esencialmente es un plan de guerra contra los trabajadores, las trabajadoras, los jubilados, las jubiladas y la clase media.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que el plan de gobierno no es contra este o aquel sector, sino contra todos, y muy especialmente contra la clase trabajadora.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La política no es solo un juego de imágenes en el que se espera pasivamente el desgaste del gobierno mientras opera a través de los aparatos comunicacionales del Estado y las redes sociales, y los aparatos represivos o medios afines para moldear la opinión pública.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2131
+}

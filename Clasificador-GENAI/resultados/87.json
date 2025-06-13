@@ -1,0 +1,61 @@
+{
+  "texto_id": "entrevista_ophelia_fernandez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.215,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Alejarme me está permitiendo un tipo de contacto más directo con las demandas y realidades de mi entorno, una búsqueda más generacional que partidaria, en términos de interpretar los principales problemas y dinámicas para mi generación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poder discutir sin que esto sea un argumento por el cual la sociedad deje de escucharme me deja tranquila.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que es una fuerza política que nace con un intento generacional, con… Digamos, creo que la hipótesis fue: \"hay que organizar al otro lado de esta generación y de la juventud, a los resentidos con la criatura feminista, etcétera\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo nunca vi un cargo como una forma de vida o para ser política; esa era mi principal motivación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que están cometiendo un error grande y no lo están pudiendo dimensionar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Universidad Pública es un caso claro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero ahora sus primeros adversarios son jubilados y docentes universitarios.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que aprender de esos nuevos trabajadores y cómo se mueven.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un pibe precarizado prefiere mirar a Milei.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Flaco favor le hacemos a la historia del movimiento peronista pretender seguir siendo el partido que representa a los trabajadores representando a cuatro de diez.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4377
+}

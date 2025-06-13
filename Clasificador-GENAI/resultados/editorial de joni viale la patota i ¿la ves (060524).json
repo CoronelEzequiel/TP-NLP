@@ -1,0 +1,71 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.821,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Uno de esos días donde queda claro que el \"kirchnerismo\" está en modo patota.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La patota maneja nuestra vida y yo estoy cansado de eso.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo sí creo en que para ser felices hace falta romperse el lomo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no creo en que el Estado te tenga que regalar nada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La patota en acción, mirá.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La sociedad dijo basta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La patota decide cuándo hay colectivos, cuándo hay camiones, cuándo hay aviones, cuándo hay recolección de basura, cuándo hay bancos, cuándo hay trenes, cuándo hay clases, cuándo hay diarios, cuándo hay nafta.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A los argentinos les hemos entregado nuestra vida a esta gente y me parece que ya no va más.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y creo que el \"kirchnerismo\" nos convenció de que todo tiene que ser gratis.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O votás como yo quiero o te escracho.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que el trabajador no se sentiría cómodo si va apretado por la empresa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este sindicalista, Llanos, está amenazando con escrachar a cada senador que vote a favor la ley de bases.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6567
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "La_verdad_del_poder_o_el_poder_de_la_verdad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.136,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esa parece ser la síntesis o la caracterización del gobierno de Javier Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no impidió que Stornelli acusara a los detenidos y las detenidas de golpistas y terroristas, como hablábamos con el entrevistado, por orden prácticamente de la Casa Rosada, utilizando las mismas palabras.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Fondo Monetario Internacional finalizó la octava revisión del acuerdo conocido como de facilidades extendidas, Pablo Anino va a hablar de eso, y esencialmente le dijo al gobierno: \"Che, no estás haciendo suficiente mérito\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por último, es evidente la falta de mérito en el terreno político.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De esta manera se produce una paradoja: los dialoguistas no quieren quedarse afuera de un consenso y un repudio que los incluye.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, de alguna manera se repudian a sí mismos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En fin, es curioso que un gobierno cuya ideología más recalcitrante tiene en el centro al mérito muestre en todos los niveles, la economía, la política, una terrible falta de mérito.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2527
+}

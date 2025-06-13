@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.762,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Aprendamos a lidiar con la cantidad de gente parásita que hay en el ministerio, la mujer y todo el otro ministerio, que se meten a ver cómo viven las criaturas que nadie defiende.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero nos cagaron con las vacunas, ahora no hay más.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chicos, el gobierno hace cortinas de humo para que Cristina Fernández de Kirchner no vaya presa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace 20 años que estamos con una señora que… realmente, con toda honestidad, no sé si le haríamos un examen para ser presidenta si lo pasaría.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué hay que estar todo el tiempo preguntándole a Cristina si se siente bien, si tuvo COVID, si se le retiró?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se dieron cuenta de que estamos en manos de locos, desquiciados, mentirosos, sinvergüenzas y vagos?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay países que tienen sobre 12 vacunas, o sea, compraron más de las que se pueden dar, y nosotros todavía mandando emisarios a negociar a ver si conseguimos una gerencia.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este es el país que tiene Alberto Fernández, ese presidente que no se sabe si es un títere de Cristina, si es un estadista como Charles de Gaulle, si es Kennedy, si es Mandela, si es un inútil… todavía no se sabe cuál es el lugar del presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3027
+}

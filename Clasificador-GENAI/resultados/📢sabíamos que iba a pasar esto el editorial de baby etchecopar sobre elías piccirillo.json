@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo más gracioso de todo es que el populismo que supuestamente gobierna para los pobres son los chorros y los más interesados en ser ricos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque la derecha vive laburando, el populista se hace rico en dos maniobras a costilla de la gente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo que me fastidia es que los medios digan que Jessica Cirio es una pobre chica.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina ha hecho un superávit de garcas y estafadores.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la plata es nuestra.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque la gente no entiende que nos robaron tanto, que no saben dónde esconderla.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única guita que sirve, chicos, es trabajando, rompiéndose, esforzándose, laburando.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No dejemos que la oposición nos ponga de espaldas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No dejemos que la [Comunita?], lo que fue en Plaza de Mayo, los sindicatos que ahora reaccionaron.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tengan cuidado porque son zorros y están al acecho.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos lo que quieren es poner de espaldas al gobierno.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos lo que quieren es poner de espaldas a las instituciones.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3287
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy la política argentina presenta, como pocas veces antes, este tipo de compromiso, este tipo de pacto, y tiene que ver con lo que ocurrió en La Plata, en la legislatura bonaerense, que es algo que cualquiera que conozca la política nacional y sobre todo la política de la provincia de Buenos Aires, tenía que prever qué iba a ocurrir, que era un estallido de corrupción en esa legislatura puesta tan fuera del foco de la opinión pública, del periodismo, etcétera.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese silencio todavía es más notorio, porque uno diría, si mira la política argentina actual, mira los discursos encontrados que hay en esta campaña y mira la bandera principal de Javier Milei, esto que sucede en La Plata, bueno, es casi un trabajo práctico que le deja servido a Javier Milei para que encuentre la encarnación más opaca, más sospechosa de lo que él llama la casta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos fatigados de denuncias cruzadas, maniqueas. Unión por la Patria condena al macrismo. El macrismo ha hecho campaña, ha llegado al poder, ha mandado presa a gente en nombre de la pureza. Pero acá todos coinciden. Y ahora el que levanta la bandera de la antipolítica, que es Milei, también se calla la boca frente a lo que sería un mecanismo de financiamiento que tal vez, su rayo tal vez, es imposible de demostrar, lo salpica también a él.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En seguida tuvieron que salir Morales y sobre todo Valdés a explicarle a Patricia Bullrich que todo eso era una jugarreta de Massa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7955
+}

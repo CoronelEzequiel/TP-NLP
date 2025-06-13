@@ -1,0 +1,91 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.259,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Así como hay nuevas tecnologías en los trabajos, en la forma de producir, si no hace falta avivar el ingenio también en las maneras de protestar y buscar otras formas de protesta que tengan que ver con el siglo XXI, con el siglo que ya lleva casi 24 años.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Perdió el salario en los últimos cuatro meses, de diciembre a marzo, aumentó un 58%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí tenés la caída del poder adquisitivo del salario en ese cuatrimestre terrible que fue diciembre-marzo, donde se disparó la inflación y quedaron muy por debajo los salarios, perdiendo este poder adquisitivo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un problema que no teníamos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que aquí también lo hablábamos con Miguel Kiguel, con el economista, que decía: \"el año que viene, al problema de ingresos que hay en la Argentina, se va a sumar el problema de desocupación\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las políticas van adelante y estamos discutiendo todas las acciones que vienen dañando el entramado social de nuestro país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros tomamos nota del acompañamiento y el gobierno tiene que tomar nota de lo que significa la expresión de los trabajadores y trabajadoras para reconfigurar su política de ajuste, su política que nos está llevando a extremos prácticamente lejos de ser sustentables y, por el contrario, de ser sustentables, se está llevando a extremos a muchos sectores de la ciudadanía que difícilmente se puedan recuperar si esta política sigue adelante\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "habló de un paro de la debilidad, habló de que el paro no tuvo la contundencia que esperaba, que sólo la tuvo porque hubo paro de transporte.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Déjense de joder y vayan a trabajar\", decía Patricia Bullrich.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sindicatos arcas que paran el país contra un gobierno que baja la inflación, que destruye los salarios reales y propone leyes laborales para terminar con el trabajo precarizado de salarios miserables, hijos de puta es poco.\"",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos viviendo algo terrible, pero terrible es la era de la crueldad, aparte, están pasando cosas que tienen que ver con el odio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soy abogado y soy jubilado, estoy cobrando una miseria con la jubilación, pero bueno, sigo trabajando como abogado porque si no, no puedo vivir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, estamos con los jubilados, asesoro a los jubilados y en estos momentos la situación es gravísima para los jubilados. Este señor está provocando un genocidio.\"",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hoy, ¿quién se imaginaría al presidente actual, presidente Javier Milei, participando de una marcha de este, de apoyando una medida de fuerza de Moyano?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo convocan a estar hoy en la marcha de camioneros, justamente por un Moyano, porque este gobierno quiere reproducir lo que fue digamos el estado de la década, era una alianza entre políticos y empresarios, dejaban afuera a los trabajadores y eso es lo que está intentando este gobierno\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El paro y la movilización convocadas para el próximo miércoles, miércoles, son un llamado de atención para la presidenta\", en ese momento, Cristina Fernández de Kirchner.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5416
+}

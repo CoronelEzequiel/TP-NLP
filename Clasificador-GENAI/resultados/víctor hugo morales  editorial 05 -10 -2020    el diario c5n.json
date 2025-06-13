@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.13,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Trump, que contrajo coronavirus, pero que quiere aparentar ser un héroe, debe haber millones de personas que le pudieron ganar al coronavirus, pero él lo va a hacer valer de una manera muy especial. Lo convirtió en un recurso. Se sabe que han mentido desde el viernes en adelante todo lo que fuera posible con respecto a la enfermedad, a la gravedad, al traslado, a la fiebre que había tenido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El intendente de Mar del Plata, Guillermo Montenegro, personaje de oscuro pasado, uno de los que ayudó a Macri a ocultar, o intentarlo al menos, el tema de las escuchas entre otras trapisondas cometidas, aprovechó políticamente esto para decir cualquier disparate contra Axel Kicillof.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha, que está enloquecida, brutal, no repara en nada y se lleva todo por delante a favor, claro, de la compañía periodística que inmediatamente tuvo de los medios mafiosos. Todos están participando de una cosa muy fea, de una extorsión brutal a la democracia y en particular al gobernador de la provincia de Buenos Aires, al que de toda la vida tienen apuntado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos de los argentinos hoy no pueden comprar dólares porque se beneficiaron con los recursos del Estado, pero me encantaría que puedan poner en una balanza importante si preservar su puesto de trabajo o poder comprar 200 dólares por mes, porque lo verdaderamente importante era preservar la fuente de trabajo para que el día que la pandemia pase, todos puedan salir a seguir su vida de trabajo como siempre fue.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 1980 cambió el mundo, un mundo que se corresponde con ese personaje del helicóptero que está llegando a la Casa Blanca. Un cowboy, un actor de modestas características, un hombre de suma mediocridad pero muy volcado a la derecha, fue el que cambió la historia en 1980, en esos años 80. Ahora llegó uno peor que él y peor que Bush.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7315
+}

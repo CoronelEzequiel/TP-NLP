@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.138,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "A esta ministra le ha asignado cuatro ministerios, para los cuales claramente no estaba capacitada.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos ministerios, que deberían garantizar derechos fundamentales, para este gobierno parecen inexistentes y sin obligación de ser garantizados por el Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no es ninguna novedad, ya que Javier Millet, durante la campaña electoral y el día de su victoria, ha reiterado en varias ocasiones su creencia de que \"donde hay una necesidad, no hay un derecho\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su máxima expresión es esa supuesta \"justicia social\", injusta por implicar un trato desigual ante la ley, y además, precedida de un robo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incluso llegó a afirmar que existe el \"derecho a morirse de hambre\", que todos tienen derecho a decidir morirse de hambre y no comer.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya existen dos causas judiciales que investigan al gobierno por este hecho, y se están abriendo otras a raíz de revelaciones sobre contrataciones irregulares desde el Ministerio de Desarrollo Humano, que triangulan fondos a través de organismos internacionales para contratar personal sin control.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, en lugar de solucionar el problema, han encontrado un nuevo negocio.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No solo niegan que detrás de cada necesidad haya un derecho, sino que afirman que donde hay una necesidad, hay un negocio.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se presenta como un nuevo negocio: Sturzenegger propone un sistema donde el Estado paga un seguro mensual a empresas de alimentos para que estas garanticen el stock y la logística en situaciones de emergencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La propuesta de Sturzenegger crea un nuevo negocio donde ya existía un sistema funcional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además de la crueldad de dejar pudrir los alimentos, se suma la de inaugurar un nuevo negocio ante este escándalo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La solución es distribuir los alimentos a los más de 40.000 comedores del país y reponer las existencias.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Donde hay una necesidad, hay un negocio\": el nuevo capítulo de este escándalo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2140
+}

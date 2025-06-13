@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "No sabemos absolutamente nada, no hay información y la investigación es absolutamente fallida.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en 31 años, la Corte Suprema de este país no nos ha dicho qué pasó aquel 17 de marzo de 1992, hace 31 años.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los integrantes de la Corte Suprema desde el '92 hasta ahora son 19.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si la Corte Suprema, en una causa de una magnitud tremenda, que es un atentado terrorista que asesinó a 22 personas, no resolvió nada, pero absolutamente nada, en 31 años, imagínense los tribunales cuando miran para arriba y dicen \"la Corte no resuelve, mirad si voy a tener que hacer las cosas mejor que la Corte\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, un tipo que estuvo 30 años, bueno, menos los que estuvo como procurador, pónganle 25, y junto con los otros 19 jueces de la Corte no resolvieron el asesinato de 22 personas en el atentado a la Embajada de Israel.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces tenemos un poder judicial que en su cúpula no rinde cuentas. Imagínense hacia abajo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2528
+}

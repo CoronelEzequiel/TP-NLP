@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, el Nuevo Frente Popular de Jean-Luc Mélenchon se impuso en las elecciones legislativas francesas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las elecciones del 7 de julio en Francia demostraron que la estrategia del \"cordón sanitario\" sirve para un contexto de avance de las ultraderechas en el mundo, y la unión de fuerzas que van del centro a la izquierda es lo que hizo triunfar a Lula en Brasil.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El domingo, la formación de centro-izquierda del Nuevo Frente Popular fue la ganadora de las elecciones francesas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La izquierda francesa canta la Internacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algo que podría haber sucedido en la segunda mitad del siglo XX. Sin embargo, la crisis económica y las continuas medidas de ajuste y contrarreformas que afectan las condiciones de vida de la mayoría dieron el triunfo en primera vuelta a una organización de ultraderecha del Frente Nacional de Marine Le Pen, y luego al Nuevo Frente Popular de izquierda de Mélenchon.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre los paralelismos son imprecisos, pero para quien no conoce estos políticos, podríamos decir que, si se equipara a un futuro balotaje en Argentina, se dirimiría la presidencia entre Milei y Grabois, es decir, entre los dos extremos ideológicos del sistema político, con el triunfo de quien representa las ideas más de izquierda del espectro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La táctica que se utilizó contra la extrema derecha fue la del \"cordón sanitario\", como fue denominada tanto por los políticos como por los medios franceses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el Nuevo Frente Popular ha conseguido materializar una oposición clara a las ideas racistas del Agrupamiento Nacional y a la política antisocial de Macron.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No debe haber un cordón sanitario contra el Partido Socialista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La campaña contra la extrema derecha fue masiva e incidió en que figuras de primer nivel, como la estrella futbolística Kylian Mbappé, interviniera.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En otros de los países importantes de Europa, en Inglaterra, también se celebraron elecciones. También ganó la izquierda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Viniendo brevemente para este lado del mundo, Milei continúa con su \"mood\" de estrella de derecha internacional, por decirlo de alguna manera.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la larga, como el socialismo es insostenible y necesariamente fracasa, los gobiernos que resisten en esa senda o terminan siendo rechazados por la sociedad o terminan violando la libertad y jugando con la vida de sus ciudadanos para preservarse en el poder.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esperemos que estos espacios políticos que triunfaron en Francia y en Inglaterra, que se plantean solucionar los temas sociales empezando por los sectores vulnerables y que han demostrado capacidad de flexibilidad táctica y vocación de consenso, puedan brindar soluciones a sus pueblos y revitalizar las esperanzas en la democracia, porque, como sabemos, cualquier cosa por fuera de la libre elección de nuestros representantes va a ser peor.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El día de ayer demuestra que en Europa la libertad avanza, pero también avanza la igualdad y la fraternidad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5511
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.13,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy tenemos que estar todos alineados con Cristina, por más que no nos guste o no la queramos, esto es un hecho de gravedad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy somos todos, en este momento, la vicepresidenta y estamos para ayudarla; no hay opositores, no hay a favor, no hay en contra.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No podemos hablar de otra cosa, recién fui a buscar un tema para mi auto y viene uno corriendo y me dice: \"No le creo nada\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros somos netamente presidencialistas y demócratas y, sinceramente, estamos mal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y los que dudan, no duden, démonos la mano hoy con los peronistas, con los kirchneristas y armemos de nuevo la República, porque, muchachos, esta es una escalada sin final.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1669
+}

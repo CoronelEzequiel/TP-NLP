@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.483,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es muy difícil pensar que Macri no vaya a ser candidato y que pueda haber una candidatura de Cambiemos viable si no es la de Macri, porque este es el problema de las reelecciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto produjo un estado de pánico, sobre todo en los tenedores de bonos, que presumen que si este es el resultado de una elección y Cristina vuelve al poder, las posibilidades de *default* (cesación de pagos) de que ella no pueda ni quiera, o no pueda o no quiera, pagar la deuda sean muy reales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un dogma en el que se basaba toda la estrategia oficial del gobierno, toda la estrategia electoral del gobierno, y ese dogma era: “Es imposible que Cristina gane un balotaje”.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, que es inteligentísima, hace una campaña de alguien que sabe que irrita, es decir, tiene algo muy inteligente para un político que le falta muchas veces al gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, la tapa del diario *La Nación* dice: “Se demoran, se empiezan a atenuar, se empiezan a desacelerar las causas de corrupción por el temor de un regreso del kirchnerismo”.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá pareciera que, si uno tiene el poder o está por tenerlo, tiene cierto grado de impunidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6822
+}

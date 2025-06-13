@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Me estoy refiriendo al alineamiento que tiene la Argentina, muy directo con Israel, y esto ha determinado que el Estado de Israel le avisara a la Argentina, a través de la cancillería, de la información militar que se estaba procesando desde el viernes, advirtiéndoles que va a haber, muy probablemente, un ataque muy fuerte sobre el Líbano y eso le permitió al gobierno argentino poner bajo protección, con un grado muy importante de seguridad y de secreto, no solo a los diplomáticos argentinos en el Líbano sino también, eventualmente, a los argentinos que no son funcionarios y pidan protección, que vivan en ese país, en Beirut, en la capital del Líbano, que va a estar seguramente bajo ataque.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No nos cansamos de decirnos, la piedra fundamental, la columna del plan económico del gobierno mira lo económico pero mira, sobre todo, lo político, y la gran conquista de este gobierno en materia política ha sido el retroceso de la inflación, que parece ser muy consistente y parece profundizarse en los próximos meses.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay toda una discusión acerca de cuál es el momento actual de ese ciclo recesivo, si se va a mantener, si se va a profundizar o si empiezan a haber algunas señales de recuperación, de que empieza a pegarse la vuelta, todo menos una vez corta, que era lo que se pensaba en el comienzo por parte del gobierno, pero algún signo de que la caída en el nivel de actividad, el achicamiento de la economía, la quiebra de Pymes, etcétera, podría empezar a moderarse.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este mapa es un mapa doloroso del cambio que ha sufrido la situación socio-laboral del país a lo largo de muchos años, por lo menos 25 años de deterioro, con altibajos en las políticas económicas. Pero crisis tras crisis se fue generando este mapa, que es un mapa que nos devuelve un rostro inesperado de nuestra propia sociedad, de una sociedad muy castigada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8021
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "Habra_consecuencias",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hace un rato se conoció la cifra de inflación de noviembre: 12,8%, la más alta del año y la más alta en 30 años.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Quiénes pagarán el costo del plan anunciado ayer por Javier Milei?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, la obra pública sufrirá un duro golpe, con un anuncio de cero financiamiento externo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También pagarán aquellos que tienen un POTENCIAR Trabajo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro aspecto crucial es la implementación de retenciones a las economías regionales y a numerosos productos industriales que hasta ahora no las tenían.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, todos pagaremos el costo de este plan de negocios, excepto los beneficiarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las empresas energéticas, por ejemplo, al tener vía libre para aumentar sus precios (hoy se observa un aumento del 37% en el precio de la nafta, acumulando un 78% en un mes), y el sector agroexportador, al beneficiarse con un dólar oficial a $800 (aproximadamente) y la eliminación de retenciones para algunos productos (soja).",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En conclusión, este plan de negocios es un ajuste, un tarifazo que impulsará la inflación, generará una recesión y destruirá el mercado interno.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que estamos presenciando es una transferencia masiva de riqueza de la mayoría de la población hacia los amigos del gobierno.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1942
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.143,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Pablo Iglesias, vicepresidente del gobierno español, ha expresado que las medidas de justicia fiscal buscan que quienes más tienen contribuyan más, representando un primer paso hacia una reforma fiscal profunda que corrija la desventaja fiscal de más de siete puntos que arrastra España respecto a Europa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llama la atención la debilidad del poder político en general, y no solo de este gobierno, frente al poder económico, lo que impide incluso hablar de impuestos a las grandes empresas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, en Argentina, algunos intentan hacernos creer que nuestro país es el peor, sin considerar la pandemia, actuando con crueldad y falta de piedad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, el ataque de la derecha mediática y política es incesante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El papel del gobierno es dar certidumbre, ayudar a los más necesitados y luchar contra la manipulación mediática.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, la mayoría de los medios y redes sociales están controlados por sectores adversos al gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El diputado Pichetto ha mostrado su apoyo a los sectores poderosos en contra de los más necesitados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2788
+}

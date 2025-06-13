@@ -1,0 +1,46 @@
+{
+  "texto_id": "reunion_consejo_pj",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.066,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que Cristina está desempeñando un papel importante, convocando a diversos sectores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El objetivo es trabajar para un nuevo gobierno que ponga fin a esta catástrofe.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina no debe estar sometida a este tipo de situaciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me preocupa la actitud de algunos que se decían peronistas y ahora están en otros lados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos ofrecer una propuesta que atraiga al electorado, especialmente a los sectores más vulnerables.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un escándalo que se destine tantos recursos a la seguridad para impedir que unos pocos ancianos se manifiesten.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno de ultraderecha no respeta estas cosas, y esto me preocupa.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2296
+}

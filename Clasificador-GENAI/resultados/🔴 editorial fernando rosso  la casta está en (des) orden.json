@@ -1,0 +1,46 @@
+{
+  "texto_id": "La verdad del poder fue el poder de la verdad. El Círculo Rojo con Fernando Rosso",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.214,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El laberinto en el que entró el esquema económico, el agravamiento de la situación social, signos de creciente malestar en amplios sectores de la sociedad, las críticas de importantes empresarios como Pablo Roca (incluidas las expresadas públicamente en ONN), el recrudecimiento de las internas en Juntos por el Cambio y el distanciamiento de un aliado clave para la coalición de gobierno como Mauricio Macri, configuraban un panorama complejo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el Congreso, el gobierno enfrentaba el riesgo de naufragar en votaciones cruciales como el aumento de los fondos reservados para la CIDE; los pliegos de los jueces propuestos para la Corte también corrían riesgo, y podría avanzar una propuesta de aumento de las jubilaciones que pondría a Milei en la incómoda situación de tener que vetar una ley.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según la misma consultora, la negatividad asociada a esta agenda crecía; es decir, los comentarios sobre la economía eran mayoritariamente negativos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto, hay que tener en cuenta dos indicadores más: el índice de culpabilidad (quién tiene mayor responsabilidad en la situación económica actual) y la necesidad de que no se minimice la actuación del gobierno anterior.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La marcha de la CGT, la CTA, los movimientos sociales y la Iglesia fue, para variar, la acción más moderada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El neoliberalismo progresista entró en crisis por sus resultados concretos (más por lo neoliberal que por lo progresista).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo importante es sacar conclusiones sobre dónde están las fuerzas, cómo deben organizarse autónomamente y qué proyecto político hay que construir para superar la decadencia de la política tradicional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2315
+}

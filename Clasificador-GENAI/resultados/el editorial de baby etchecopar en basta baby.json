@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que la libertad se gana, no se pide.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero también es cierto que Evo Morales es un narcotraficante, un sinvergüenza, un delincuente; todo lo que la gente dice.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy le contesté en la radio y ahora en televisión. Hebe de Bonafini, en una de sus estupideces, dijo que quienes votamos a Macri, el 41%, éramos una cría de hijos de puta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que sale de su boca, en lugar de devolver el dinero que robó con \"Sueños Compartidos\", son blasfemias e insultos, porque usted es una señora fascista.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mi madre pudo haber sido una puta, pero nunca usó la muerte de mi hermano para hacer plata ni fundaciones.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2153
+}

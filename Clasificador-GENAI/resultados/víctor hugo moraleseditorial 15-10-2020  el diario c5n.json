@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "A Larreta no le importa nada. Si consiguió que la ciudad de Buenos Aires olvidara su responsabilidad, siendo la primera en levantar el aislamiento estricto que hubiera evitado tantas muertes y contagios, mucho menos le importará que nos demos cuenta de cómo estafa a la ciudad, cómo se la roba con los votos de 35 legisladores cómplices.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está ganando 35.000 pesos, por debajo de la línea de pobreza. Los enfermeros y técnicos están por debajo de la línea de pobreza, por eso insistimos al gobierno de la ciudad, a Larreta, en un aumento salarial digno y en un flujo sanitario que el Ministro de Salud Quiroz prometió en el hospital, ante nuestro cuerpo de delegados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero al poder real no le importa nada. Vive en la impunidad, protegido por medios de comunicación y diputados de derecha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, en el Coloquio de IDEA, Alberto Fernández dio un discurso frente a empresarios. Escuchemos una de sus ideas y luego veremos lo que hacían los empresarios.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mauricio Macri volvió a hablar diciendo que este gobierno es el último populismo. ¿A quién engaña?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3373
+}

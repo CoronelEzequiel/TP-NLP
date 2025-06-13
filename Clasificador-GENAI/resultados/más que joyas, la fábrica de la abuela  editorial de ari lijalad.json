@@ -1,0 +1,36 @@
+{
+  "texto_id": "Ley_de_Solidaridad_Social_y_Reactivacion_Productiva",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.28,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El Gobierno ha recortado una cantidad significativa de artículos del capítulo fiscal, pero la ley sigue siendo inviable.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argumentan que no se debe analizar la letra chica, sino las circunstancias generales del país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se pretende transferir su administración al Poder Ejecutivo para su liquidación, y se negocia el destino de los fondos: si se quedarán en el Gobierno nacional o se distribuirán entre las provincias para asegurar votos de gobernadores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no se limita a activos improductivos; se trata de la participación accionaria estatal en sectores clave, permitiendo reinvertir utilidades y controlar sectores económicos estratégicos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los grupos económicos mencionados buscan recuperar el control de estas empresas, lo cual representa una pérdida significativa para el Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1464
+}

@@ -1,0 +1,26 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Arranca en 2019 con la asunción de **Alberto Fernández** y **Cristina Fernández de Kirchner**, la pobreza en 35,5%, así la deja **Mauricio Macri**, 15.900.000 pobres.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué quiere decir? Que en la cabeza del oficialismo, pero sobre todo en la cabeza de Cristina Fernández de Kirchner, el horizonte puede ser catastrófico y, por lo tanto, hay que prepararse para una derrota más que para una victoria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es verdad que Massa es, así como es un político como candidato gastado, muy conocido, se le conocen los trucos, uno lo ve hablar y ya sabe lo que va a decir, es muy profesional en términos de campaña, es decir, es alguien que conoce la política, conoce el estado, es audaz como se acaba de demostrar, lo vamos a demostrar ahora más, y además tiene experiencia de campaña, ha sido candidato a diputado varias veces, fue candidato a diputado enfrentando al kirchnerismo en el 2013, fue candidato a presidente, es decir, conoce cómo se maneja una campaña y, por lo tanto, habría que suponer que puede cometer menos errores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7824
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En total, un 53% de la población se encuentra en situación de pobreza extrema.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es impactante que el presidente afirme que los salarios y las jubilaciones superan los niveles del año pasado. O no sabe o miente de manera irresponsable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno optó por una depresión económica para frenar la inflación. Es una decisión política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno sigue aplicando políticas de ajuste.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno de cada cinco argentinos padece hambre. Me parece que, en estas condiciones, la paz social está en peligro.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1755
+}

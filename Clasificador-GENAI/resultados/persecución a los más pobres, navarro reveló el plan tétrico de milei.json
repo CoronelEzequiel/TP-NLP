@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.07,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer fue un día con miles de despidos, como parece que serán los próximos días.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El macrismo duplicó el desempleo heredado de Cristina, llevándolo de 5,5% a 11%, y ahora vuelve a suceder.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que se está haciendo es perseguir a los pobres. Se le está diciendo a la gente que estamos mal por culpa de los pobres, cuando en realidad estamos mal por culpa de los ricos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son los ricos los que tienen 400 mil millones de dólares afuera evadidos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ha armado un sistema de persecución de pobres para disciplinarlos y para justificar que los están matando de hambre.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1908
+}

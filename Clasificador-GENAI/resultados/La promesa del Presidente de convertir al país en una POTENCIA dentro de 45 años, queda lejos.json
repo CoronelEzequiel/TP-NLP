@@ -1,0 +1,36 @@
+{
+  "texto_id": "La Rebelión de la Moderación - Jueves 5 de Septiembre",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta descripción, que podría aplicarse a la actualidad con la nueva represión de ayer a la marcha de jubilados y el veto presidencial a la nueva fórmula de haberes, sin embargo, no se trata de algo de ayer; se trata de una célebre novela de David Viñas, *Diario de la Guerra del Cerdo*, publicada en 1969.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En parte, tiene que ver con que estos jóvenes son aquellos que pueden esperar esos 45 años, mientras que los jubilados, obviamente, no pueden esperar esos años que promete Milei, que Argentina va a ser tan exitosa como Irlanda.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Algunos progresan, otros se adaptan, y es cierto que algunos también quedarán en el camino. Si pueden perseverar en condiciones de adversidad, con impuestos leoninos, regulaciones absurdas y costos altísimos, imagínense lo que pueden hacer sin la bota del estado en el cuello.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las teorías de la Escuela Austríaca pueden ser interesantes del punto de vista académico, más pueden ser un faro para marcar los niveles de exceso de los que se llevan adelante los progresistas y los neoclásicos, pero además de ser anticuadas y no debe - se enfrentó a fenómenos como, por ejemplo, pandemias reiteradas, crisis mundial - son teorías, simplemente teorías que sirven para complementar otras teorías.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace minutos, el vocero presidencial, Manuel Adorni, dijo que no hay que temerle a la represión, refiriéndose casualmente a la represión de los abuelos que protestaban por el veto al aumento jubilatorio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4687
+}

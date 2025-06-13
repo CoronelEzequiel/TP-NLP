@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_de_vido",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer estuve en la Cámara de Diputados, siguiendo el debate por el caso de Julio De Vido, que tiene muchísima significación presente y futura.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Observé la expresión y los gestos de algunos diputados y diputadas del bloque del Frente para la Victoria, a quienes efectivamente les pesaba tener que defender a De Vido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En realidad, ninguno defendió a De Vido directamente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Sabe por qué no lo pudieron defender? Porque De Vido es indefendible.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, entre otras cosas, el silencio de Cristina Fernández de Kirchner es estrepitoso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1072
+}

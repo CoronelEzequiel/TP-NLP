@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Algo similar a la actitud del presidente argentino Alberto Fernández al acercarse a Vladimir Putin y criticar a Estados Unidos en un momento en que Argentina necesita desesperadamente un acuerdo con el Fondo Monetario Internacional (FMI).",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, la decisión argentina de adulonar a un líder autócrata que encarcela opositores, cercena la libertad de prensa y persigue homosexuales en su propio país, confirma peligrosamente una política exterior que traiciona los principios democráticos y los derechos humanos, no solo como una transgresión, sino como una acción de gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Desde una perspectiva pragmática, criticar la dependencia de Estados Unidos ante Putin y ofrecerse como puerta de entrada para Rusia en América Latina contradice las propias necesidades del presidente, quien supuestamente había apostado todas sus fichas políticas a un acuerdo con el FMI para evitar el default.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se trata de un alineamiento inaceptable similar al de Argentina con Nicaragua, Cuba o Venezuela?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mundo atestiguó el fracaso del comunismo, pero la pseudoizquierda kirchnerista continúa idealizándolo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El coqueteo con tantos déspotas no puede deparar nada bueno para una democracia.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1899
+}

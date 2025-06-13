@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_afip",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Muchos portales de noticias buscan generar clics, priorizando el negocio antes que la información veraz.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La operatoria consiste en que los bancos deben informar a la AFIP sobre los gastos superiores a 30.000 pesos. Esto no implica que la AFIP controle lo que cada persona compra; al contrario, busca que se bancaricen los gastos para facilitar el cobro de impuestos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este tipo de situaciones demuestran que somos uno de los países con mayor consumo de noticias falsas. La gente suele realizar lecturas rápidas, sin verificar la información; pero la responsabilidad de evitar la difusión de *fake news* recae en nosotros, los periodistas.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "30.000 pesos equivalen a varias compras en el supermercado, y la idea de un control estatal genera una sensación de vigilancia excesiva.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1346
+}

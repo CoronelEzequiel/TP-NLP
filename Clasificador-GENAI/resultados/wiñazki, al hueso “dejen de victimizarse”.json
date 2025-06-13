@@ -1,0 +1,36 @@
+{
+  "texto_id": "Los_perseguidos_son_otros",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dejen de victimizarse; ahí está más claro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, he estado enumerando algunas cosas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando en realidad, y debo concluir, las víctimas no son las personas que tienen todo el poder, sino buena parte de la sociedad: los 52 muertos por COVID-19, Abigail Solange (nombre completo del fallecido), el joven que intentó cruzar el río para ver a su familia en Formosa, la gente que no puede moverse ni entrar a esa provincia, y así podría enumerar muchos más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando en realidad no es así.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué las víctimas siempre son los que tienen el poder? Lo dicen porque les conviene, y nada más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1555
+}

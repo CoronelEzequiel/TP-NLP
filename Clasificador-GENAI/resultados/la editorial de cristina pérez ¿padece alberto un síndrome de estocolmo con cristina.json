@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.843,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El servilismo hacia el neocomunismo zarista encarnado por el ex agente de la KGB, en momentos en que Rusia amenaza a Ucrania con sus ambiciones imperialistas, supone un desatino para el equilibrio diplomático, a menos que existan oscuros negocios ocultos en acuerdos que probablemente nunca conoceremos en su totalidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, la decisión argentina de adular a un líder autócrata que encarcela opositores, suprime la libertad de prensa y persigue a homosexuales, confirma una política exterior que traiciona los principios de la democracia y los derechos humanos, no como una simple transgresión, sino como una acción de gobierno.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde una perspectiva pragmática, criticar a Estados Unidos ante Putin y ofrecerse como puerta de entrada para Rusia en América Latina contradice las propias necesidades del presidente, quien supuestamente había apostado todo a un acuerdo con el FMI para evitar el default.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se trata de un alineamiento con regímenes como los de Nicaragua, Cuba o Venezuela?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La directora gerente del FMI, Kristalina Georgieva, consciente de las miserias del comunismo tras crecer en la Bulgaria comunista, advirtió sobre los peligros de la alta inflación y los costos de los subsidios.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina, con sus actuales autoridades, demuestra una capacidad notable para convertir en hostil incluso lo amigable, ofreciendo argumentos a quienes piden medidas más duras para el país, que incumplió 21 acuerdos con el organismo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El coqueteo con regímenes autoritarios no augura nada bueno para la democracia argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1770
+}

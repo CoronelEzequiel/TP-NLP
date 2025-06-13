@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.157,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En su catarata de tuits, el presidente Javier Milei celebró que Argentina tuvo superávit fiscal durante el mes de enero.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un breve repaso revela recortes en jubilaciones, pensiones, transferencias a provincias para educación y salud, y transferencias a universidades.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según el gráfico del índice de ventas minoristas de la Cámara Argentina de la Mediana Empresa (CAME) —recomiendo ver el video en YouTube para una mejor comprensión—, las ventas de alimentos cayeron un 37% en enero de 2024 respecto a enero de 2023; es decir, la gente dejó de comprar comida.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, mientras Milei celebraba el superávit, las jubilaciones no se actualizaron.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, pagó la deuda a costa del hambre y la salud de los argentinos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, al igual que Avellaneda, prioriza el pago de la deuda, provocando que la gente compre menos comida y medicamentos, y generando aumentos en las tarifas de transporte y gas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier, no seas sonso. Esta política terminará mal, porque en algún momento, los argentinos dirán \"basta\".",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1600
+}

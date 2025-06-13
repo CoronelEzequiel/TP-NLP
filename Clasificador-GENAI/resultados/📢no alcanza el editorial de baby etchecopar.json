@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.371,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No estoy dando notas, porque se postula como intendente... No, como legislador.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No hay que ser soberbios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora hay un silencio sepulcral donde nadie te explica nada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no alcanza ni la poca ni la mucha.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Presidente, escuchame bien lo que te estoy diciendo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque yo, la verdad, con el pelo batido, la campera negra, hacía así para atrapar a la *papa*, a mí no me engañás.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero la gente sí me importa, y la gente tiene hambre, presidente, la gente no la está pasando bien.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4891
+}

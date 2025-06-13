@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.78,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En un país donde la injusticia se mide con el monto de la jubilación mínima, resulta indignante que el organismo que administra los recursos de la seguridad social, la ANSES,  sea noticia por repartir un bono de $20.000 a sus empleados y nombrar a mil más en planta permanente para festejar su aniversario.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación es un impuesto injusto, que afecta más a los que menos tienen y gastan más en alimentos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los nombramientos en la ANSES o los bonos no cambiarían la situación de los jubilados, pero los ejemplos importan.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es probable que Cristina Kirchner no hable de este tema, calificándolo como una aberración neoliberal que debe demonizarse, y no como la consecuencia de un proceso inflacionario impulsado por una emisión monetaria descontrolada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ellos nunca salen perdiendo.",
+      "score": 0.83,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Festejan con nombramientos mientras los jubilados padecen.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1951
+}

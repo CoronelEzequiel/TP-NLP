@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, yo implementaría un sistema que permitiera a cada club organizarse como quisiera.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En segundo lugar, incorporamos el impuesto al juego como complemento, en la dramática situación que vivimos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en tercer lugar, bajamos los impuestos a los celulares, que hoy financian un régimen terrible de subsidios, con lo cual vamos a aumentar fuertemente la recaudación y a abaratar mucho el precio de los celulares y las computadoras.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí hay una forma de facilitar la reinserción de mucha gente que, en estos cinco años con controles de precios y de cambio, tuvo dificultades, y mucha gente, para proteger sus patrimonios, sobre todo los pequeños, compró dólares.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando usted agarra los números del INDEC, en cualquier gestión, lo mira dos veces, tres veces con desconfianza.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3073
+}

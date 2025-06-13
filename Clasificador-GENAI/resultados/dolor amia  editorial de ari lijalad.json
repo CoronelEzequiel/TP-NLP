@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.186,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nunca vamos a saber quién puso la bomba, pero sí sabemos quiénes se ocuparon de ocultar la verdad",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestro país, nuestro amado país, presenta demasiados ejemplos de familiares buscando justicia, saliendo a la calle, pidiendo por un Estado que no solo es ausente, sino culpable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nunca sabremos realmente qué pasó. Es muy difícil construir un país sin saber qué ocurrió en el peor atentado terrorista que sufrimos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La versión coincidente convenía geopolíticamente a Estados Unidos e Israel, y familiarmente a la familia Menem.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Durante el gobierno de Macri se realizó el juicio oral por el encubrimiento que Bonadio había demorado cinco años, pero que el juez Lijo sí investigó.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, el gobierno de Macri protegió a varios involucrados, especialmente a los fiscales Mule y Barbaccia, en cuyo equipo trabajaba Nisman.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, 29 años después, la prensa durante años se centró en la muerte de Nisman, dejando de lado la AMIA.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2446
+}

@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.05,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los trabajadores se están rebelando, reclamando mejores condiciones laborales y salarios dignos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno, utilizando una estrategia de comunicación similar a la propaganda fascista de 1984, instaló altoparlantes en la vía pública para culpar a los líderes sindicales, como [Nombre omitido] y [Nombre omitido], de las protestas.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se busca silenciar las protestas y generar división entre los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, esto ignora la historia de las luchas populares, donde el pueblo siempre ha conquistado sus derechos mediante la lucha y la resistencia.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se busca reprimir la protesta a toda costa, incluso negando el derecho a la misma.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El objetivo del gobierno es romper con esta historia de lucha, convencer a la población de que acepte su situación de pobreza y resignación, liberando así las calles para las élites.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy es un día de lucha y resistencia, y la conciencia de clase se manifiesta en las calles.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se necesita un paro indefinido hasta que se restituyan los derechos laborales vulnerados.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se debe permitir la reforma constitucional que busca restringir el derecho a huelga.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Somos 50 millones de personas, no podemos permitir que una minoría nos explote.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto debe ser el comienzo de un plan de lucha que incluya a trabajadores, jubilados y jóvenes.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nunca debemos resignarnos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos seguir protestando, reclamando y luchando por nuestros derechos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1797
+}

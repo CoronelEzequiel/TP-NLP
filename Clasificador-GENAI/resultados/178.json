@@ -1,0 +1,41 @@
+{
+  "texto_id": "grabois",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El límite de eso es la capacidad que tengamos los afectados para organizarnos y responder, desde todos los planos, a este ajuste que no es solamente una cuestión de plata.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que la universidad tiene la potencia de mostrar hacia dónde lleva un régimen deshumanizante y puede ser un despertador para sectores medios a los que a veces les cuesta empatizar con los más pobres.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Atacar la ciencia, atacar la universidad pública, es trabajar sobre ese oscurantismo que se ve cada vez más en los discursos y las referencias de Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está generando un movimiento. Está reconstruyendo el movimiento nacional popular, que no es la partidocracia, ni peronista, ni Unión por la Patria, ni los partidos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "el plan de esta gente es la miseria planificada: agredir el estómago de la gente sacándole la comida, agredir los cerebros de los argentinos sacándoles la educación pública y gratuita, o deteriorándola.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero además, cuando se hace una autopista de estas características no solamente es importante para el desarrollo industrial, sino para la vida, para la vivienda.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5347
+}

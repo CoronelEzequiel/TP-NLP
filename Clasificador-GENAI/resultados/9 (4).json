@@ -1,0 +1,51 @@
+{
+  "texto_id": "entrevista_dengue",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El Estado tiene un rol fundamental en la salud pública, especialmente ante enfermedades transmisibles como el dengue, que presenta picos estacionales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Nación debe colaborar con las provincias, brindando apoyo y, crucialmente, comunicación efectiva a la población.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, observamos una falta de comunicación efectiva del Ministerio de Salud de la Nación ante el considerable aumento de casos, afectando a más provincias y municipios que en años anteriores.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La tardanza en la creación de una red de contención y prevención, como se evidenció en la reunión del COFES de la semana pasada, pone de manifiesto la necesidad de mayor presupuesto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Gobierno Nacional y el Ministerio de Salud Nacional deben proveer insumos a las provincias, como siempre lo han hecho.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "se requiere una intervención estatal en la regulación, tanto de precios como de la disponibilidad de repelentes y medicamentos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La intervención también fue necesaria durante la pandemia para regular el acceso a alcohol en gel y respiradores, garantizando su distribución equitativa entre las provincias.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, respecto a la incorporación de la vacuna contra el dengue al calendario de vacunación obligatorio, desde una perspectiva técnica y de salud pública, su inclusión es necesaria, especialmente en zonas endémicas, definiendo grupos etarios prioritarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1574
+}

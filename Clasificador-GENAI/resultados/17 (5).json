@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_a_emilio_persico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.092,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Las políticas del FMI generan inflación, ajustan en contra de trabajadores, empresarios y la economía nacional para pagar la deuda, desacreditando los recursos de Argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se decidió apoyar con fuerza la candidatura de Sergio Massa, y eso ya se está expresando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que el peronismo se moviliza porque la patria está en peligro, como planteamos ayer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decidir construir el gasoducto hacia el interior de Argentina y Latinoamérica, a diferencia de lo que ocurrió en la década del 80, cuando todo se orientaba hacia los puertos para la exportación, es una decisión correcta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Implementar una política trimonetaria y buscar una salida de la bimonetaria a través de una moneda de intercambio que compita con el dólar también son medidas correctas para resolver los problemas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, aunque con su estilo particular. Diría que juega más como líbero, fuera de los esquemas formales de campaña. Tiene sus características, es un compañero de los movimientos populares con el que tenemos muchos acuerdos. Para mí es un hermano en la política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1865
+}

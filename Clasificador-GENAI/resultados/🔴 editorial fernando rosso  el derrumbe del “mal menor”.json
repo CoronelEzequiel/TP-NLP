@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei es un síntoma de esa crisis, de ese derrumbe.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri fue el primer padre de la criatura porque luego del fracaso de su gobierno se radicalizó y en cierta medida radicalizó a su pueblo (le pongo comillas), a su pueblo de derecha, y en el mismo acto empezó a fundar parte de lo que hoy integra el pueblo de Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo progenitor fue el peronismo y sobre todo la última experiencia del Frente de Todos, no solo por los resultados de la gestión que favorecieron a Milei, sino porque en todo el largo proceso electoral lo alentaron desde sectores de ese espacio con la hipótesis de que podían debilitar a Juntos por el Cambio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno de los escombros más pesados que se derrumba junto con el sistema político es el que contiene la estrategia del mal menor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Salir de ese atajo facilista del mal menor, bueno, puede ser más complicado, más trabajoso, más contracorriente, porque justamente es contrario a la propuesta que dice: 'Vení, que solo tenés que votar a este, que se parece bastante a los demás, es amable para el poder, pero es solo para ganar las elecciones, después vas a ver que va a ser otra cosa'.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2556
+}

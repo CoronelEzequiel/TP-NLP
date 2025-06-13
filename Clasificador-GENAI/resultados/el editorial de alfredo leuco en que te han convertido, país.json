@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cuando uno hace compras en el exterior y esos dólares son efectivamente los dólares que tendrían que haber ido al sector productivo, la verdad es que lo que estamos haciendo es dañar el futuro de todos los argentinos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En 14 años de los últimos 18, gobernó el kirchnerismo y los resultados son aterradores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner es la madre de todos los fracasos y encima parece disfrutar de haber convertido a su títere en un trapo de piso que se arrastra a sus pies.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ah, y sí, chavismo ideológico, metodología mafiosa, pero además hay una maldad inconmensurable que siembra odio, que todo lo divide y que ya no sabe cómo evadir la celda que le espera al final del camino.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández, en su soledad de palacio, tiene la cara dura de decir que los problemas son porque estamos creciendo demasiado.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El único crecimiento es el de la inflación descontrolada, el dólar que vuela, la pobreza, el riesgo país, la inseguridad galopante, la mirada siempre a favor de los delincuentes de todo tipo y la admiración por los países en donde más se violan los derechos humanos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No tienen otra propuesta que convertir a la Argentina en un gigantesco coto de caza de pobres y clientes.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner quiere un Estado que sirva para dar limosna eterna a sus dos \"delfines\" y una justicia que le otorgue una medalla a su honestidad en lugar de mandarla a la cárcel por todo lo que robó durante tanto tiempo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son ovacionados por la tropa kirchnerista y envían la peor de las señales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No existe en el mundo un lugar donde haya cientos de cortes de calles y de rutas todos los días, pero todos los días de verdad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mafia sindical es vitalicia, millonaria y patotera.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como si esto fuera poco, está latente una violencia política que tiene el dedo en el gatillo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá no haya mejor límite para la irracionalidad del nacional populismo chavista que la gente en la calle.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando la patria está en peligro, todo está permitido excepto no defenderla.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2627
+}

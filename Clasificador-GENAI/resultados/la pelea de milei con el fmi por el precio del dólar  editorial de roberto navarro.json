@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.157,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "No recuerdo otro momento en la historia de Argentina en el que se perdieran reservas de manera tan continua.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes blanquearon dólares en los bancos los están retirando.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El riesgo país llegó ayer a casi mil puntos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La única medida tomada por el gobierno desde el inicio de esta crisis ha sido contraria a lo que se debería hacer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un contexto de guerra comercial mundial, donde todos los países protegen su industria, el gobierno argentino ha optado por una mayor apertura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno actual ha generado un desastre humanitario en Argentina, quitando subsidios a comedores escolares (afectando a 1,5 millones de niños), reduciendo el acceso a medicamentos para enfermos de cáncer y otras enfermedades graves, y eliminando medicamentos gratuitos para jubilados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la actualidad, enfrentamos un gobierno de extrema derecha, que se caracteriza por la negligencia en la atención de la salud pública y la educación, la entrega de recursos naturales y la concentración de la riqueza.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos una oposición fuerte que sea una alternativa democrática al gobierno actual.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante que se logre una unidad dentro del peronismo, reconociendo el liderazgo de Kicillof en la provincia de Buenos Aires y de Cristina Fernández de Kirchner a nivel nacional.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2493
+}

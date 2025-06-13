@@ -1,0 +1,31 @@
+{
+  "texto_id": "sergio_palazzo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.225,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si bien debemos esperar la información oficial, el Banco Central, en teoría autónomo, no debería responder a las políticas del gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno no cumple ninguna de sus promesas. Caputo prometió un dólar para pagar impuestos, combinando en una sola frase dos promesas incumplidas: la dolarización y la baja de impuestos. Los impuestos bajarán para los ricos, pero subirán para los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si fuera tan simple, ¿por qué no se llevó todo el oro? Es cierto que el oro en el Banco Central no genera rendimiento directo, pero sí proporciona solidez y reserva, influyendo en la estabilidad de los mercados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La operación reciente donde los bancos se deshicieron de los \"puts\" fue celebrada por el gobierno, pero generó preocupaciones sobre riesgos de liquidez, y los mercados reaccionaron negativamente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1890
+}

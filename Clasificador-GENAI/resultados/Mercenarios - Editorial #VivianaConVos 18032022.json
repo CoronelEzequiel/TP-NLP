@@ -1,0 +1,66 @@
+{
+  "texto_id": "LaPuebla",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.845,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Es más fácil que Ucrania le gane a Putin, que Alberto le gane a la inflación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos gobiernan mercenarios. Todo lo hacen por esto, por la guita. Todo es una truchada, son mentirosos. Caraduras, sin vergüenza. Unos hijos de puta viven de la patria.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fracaso de Alberto Fernández, Cristina Fernández de Kirchner, es también tu fracaso.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos tres generaciones de planeros, siete de cada diez niños son pobres. Somos una fábrica de indigentes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri, presidente, la guerra, se lo digo y lo miro, la guerra contra la inflación usted ya la perdió antes de empezar.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Dónde están los ajustes? Explíquenmelo. ¿Dónde están? No sabemos si el presidente es o se hace. No sabemos en qué país vive.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Congreso se convirtió en una guarida para toda esta gente, para lo peor de la Argentina, lo peor.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos volvieron zombies, esclavos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, este acuerdo lo hizo tu gobierno. Sos responsable, no seas hipócrita.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se la chorearon todas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Viviana Canosa, la aliada de los chongos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8267
+}

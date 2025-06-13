@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Sí, no hay nada para celebrar, o al menos no son solo números.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para algunos, esto es, no un motivo de festejo, sino una justificación para el aislamiento temprano en Argentina cuando se conocieron los primeros casos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, es llamativo que de esas 556 muertes, que superan la suma de las víctimas de los atentados del 11 de marzo, la AMIA, la embajada de Israel, la tragedia de LAPA, Cromañón y el ARA San Juan (461), la impunidad persiste en la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sé que hay un sector del oficialismo que, sin celebrar, argumenta que, comparado con otros países, Argentina está bien con 556 muertes.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y me pregunto: ¿Argentina está bien?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay debates sobre si el aislamiento es correcto, pero quería resaltar algo:  ya superamos los 3.000 casos de contagiados, Corea del Sur, por ejemplo, tuvo la mitad de muertos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sé que comparar con otros países puede ser odioso o incorrecto, pero en algún momento Argentina tendrá que abrirse.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tendremos que convivir con el virus, pero desconfinados, lo que puede provocar más contagios y muertes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2171
+}

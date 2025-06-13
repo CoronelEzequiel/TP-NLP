@@ -1,0 +1,36 @@
+{
+  "texto_id": "VamosDeGira",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Más que refutar cada una de las pruebas que se plantearon dentro del juicio de Vialidad, su planteo es que se trata de un juicio inválido y que, finalmente, la historia, o sea, la política, la absolverá.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En 1924, Adolf Hitler todavía no había sido electo, pero sí fue detenido por alta traición. El líder expresó: \"Aunque nos declaréis mil veces culpables, la diosa eterna del juicio final destruirá la acusación y se sonreirá ante el veredicto del tribunal porque ella nos absolverá\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Condenadme, no importa; la historia me absolverá\". Esta última frase fue el título de un libro con el que Fidel Castro llevó adelante, podríamos decir, como bandera, toda su lucha, y que fue uno de los libros más leídos, no solamente en la isla, sino también en toda América Latina, y hoy convirtió a Fidel Castro, probablemente, en el líder popular más importante del subcontinente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Este partido judicial no solamente va a estigmatizarnos a nosotros, los peronistas, los kirchneristas, los nacionales, los populares, como quieran llamarlos, sino que los va a proteger a ellos, porque los está protegiendo, porque no sabemos dónde están los 45.000 millones de dólares del Fondo Monetario, pero acá no pasa nada. No sabemos de esos desbarajustes, no pasa nada. ",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En líneas generales, la oposición necesita mantener la imagen de la vicepresidenta como alguien muy, muy inteligente, y asocia la inteligencia con el mal diabólico. Entonces, colocar a una Cristina Fernández de Kirchner omniscente, absolutamente maléfica, con una capacidad perfecta para producir daño, es necesario para producir la cohesión en el \"punto por el cambio\", que obviamente está compuesta por factores muy diversos, y lo único que los aglutina es el anti-Kirchnerismo que hoy representa la vicepresidenta Cristina Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3685
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_24_marzo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.425,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esta es una de las razones por la que la discusión que impulsa el gobierno de Javier Milei acerca de si el número exacto de desaparecidos es 30.000 o es menos, le quita profundidad a lo que pasó en este país durante la última dictadura.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para nosotros, durante los 70s hubo una guerra y en esa guerra las fuerzas del Estado cometieron excesos. Por tener el monopolio de la violencia, les vale todo el peso de la ley. Pero también los terroristas de Montoneros, los terroristas del ERP, mataron gente, asesinaron gente, torturaron gente, pusieron bombas e hicieron un desastre, y también cometieron delitos de lesa humanidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En relación a la discusión sobre los 30.000 desaparecidos, que en particular me parece que fue un error por parte de las organizaciones de derechos humanos poner foco en discutir que son 30.000 y hacerle lugar al gobierno en una discusión sobre los números y no sobre el plan sistemático de desaparición.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No sabemos cuánto. Y no me refiero solo a la lucha armada, ni exactamente a la lucha armada, que es un capítulo particular que me interesa muchísimo. Después del 24 de marzo del año 76, la capacidad de combate y operación de las agrupaciones armadas estaba prácticamente desarticulada. Y lo que siguió fue una matanza feroz para quebrar todo sentido de participación política, de reivindicaciones sociales, todo ese estado de emergencia y de lucha que no pasó por la lucha armada y que apagó la presencia de la gente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4845
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.333,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy el fiscal Luciani pidió para la expresidenta, vicepresidenta, 12 años de prisión e inhabilitación perpetua.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo percibe también evidencias de corrupción en la oposición, en Juntos por el Cambio, y todo esto requeriría de un poder judicial extraordinariamente serio que sancione como debe sancionar y no deje la sensación de una arbitrariedad, de lo que la vicepresidenta denuncia como lawfare, es decir, una persecución.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para Cristina Fernández de Kirchner, no hay autonomía técnica de la justicia. La justicia es un instrumento de la política siempre...",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En nombre de la Constitución, en nombre de la Constitución expresamente, Alberto Fernández dice que en la causa que se le está siguiendo a Cristina no hay ninguna prueba.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un desajuste entre opinión pública y procedimientos judiciales que está en el centro de este problema, y sobre el que es interesante advertir, aunque esa advertencia sea contracíclica, sea frustrante en un momento en que mucha gente tiene una gran excitación positiva frente a lo que le parece que es un hecho justo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En esa escena, en ese contexto, Cristina Fernández de Kirchner ganó la primera vuelta, no la primera vuelta, las primarias para la senaduría en la provincia de Buenos Aires.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8917
+}

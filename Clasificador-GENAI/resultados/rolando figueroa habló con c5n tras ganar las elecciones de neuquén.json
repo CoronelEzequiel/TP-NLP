@@ -1,0 +1,36 @@
+{
+  "texto_id": "neuquen",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Creemos que debemos mirar hacia adelante y aprender de las cosas buenas que se hicieron en el pasado, para proyectar un Neuquén diferente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Compartimos con nuestros compañeros tu visión del federalismo y la importancia del lugar donde uno vive; la idea de no depender tanto de Buenos Aires.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En esta etapa debemos ser generosos, dedicados, enfocados y seleccionar a los mejores hombres y mujeres para que la riqueza fluya al bolsillo y al bienestar de los neuquinos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos una mirada provincial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las provincias deben ser escuchadas, ya que su crecimiento impulsa el del país.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1423
+}

@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Argentina necesita construir acuerdos políticos que le den al país, como bien dijo Jorge, un rumbo definido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Reconocer que el otro, el opositor que quizás no gane la elección, también tiene razón y propone soluciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si ese concepto de que el otro puede tener tanta razón como yo se consolida en la política, entonces sí, Argentina comenzará a caminar en pos de un futuro mejor, que hoy nos sigue pareciendo lejano.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 921
+}

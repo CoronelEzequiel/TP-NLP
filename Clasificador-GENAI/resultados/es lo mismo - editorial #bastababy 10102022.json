@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.893,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno está perdido.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y Alberto Fernández dicen una cosa, pero a la gente ya no le importa, porque considera que han destruido la Argentina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca tuvo un empleo independiente en el sector privado.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos perdidos porque no hay gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei se va a España a dar discursos de ultraderecha.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno es un manicomio dentro de una cárcel, con delincuentes y locos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente labura y los corruptos viven bien.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1763
+}

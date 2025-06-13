@@ -1,0 +1,31 @@
+{
+  "texto_id": "sin_nombre",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer tuvo un episodio cuyo desenlace no permitió, gracias a Dios, la interrupción democrática.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Vamos a liberar a todos los presos políticos absolutamente, desde Camacho, desde Añez, los generales.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El repudio internacional, por ejemplo, que incluyó a gobiernos de ideas completamente diferentes a la del binomio boliviano Arce-Morales, como, por ejemplo, el de Luis Lacalle Pou, que se asume como un partido de centroderecha, por citar solo un ejemplo de lo que tuvo ayer el apoyo del presidente boliviano.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tal como dijo el presidente de la Nación, es un golpe de estado. ¿Cómo son los golpes de estado modernos? Es el desgaste permanente para intentar generar una situación en la que el estado pierda la capacidad de acción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4689
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Durante todo el día de hoy vimos en el honorable Senado de la Nación el show del cinismo, el kirchnerismo y otros políticos que fueron parte de esta decadencia argentina, escandalizados con la estafa y con la corrupción, mirá.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo haría un portarretratos, lo cual me parece muy bien, porque el gobierno tiene que explicar cómo llegaron estafadores y ladrones a la Casa Rosada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicho esto, escuchar a Parrilli, a Parrilli pidiendo investigar la corrupción, a mí me resulta asqueroso.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero cuando se trata de Milei o de más creo la derecha, tres días en crear la comisión investigadora, que igual no pudieron y pedir el juicio político.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo lo que digo con estos cierros, no permitamos que una manga de cínicos nos psicopatee.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei está lejos de ese debate. Milei ideológicamente me parece pobre intelectualmente, casi indigente mental con respecto... Perdón, está diciendo indigente mental.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4532
+}

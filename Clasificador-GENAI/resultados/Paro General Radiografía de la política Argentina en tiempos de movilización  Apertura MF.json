@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_paro",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En medio del tratamiento de la comisión de la ley bases en el Senado, el Gobierno Nacional atraviesa su segundo paro general, a un día de cumplirse cinco meses de gobierno con una economía golpeada.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La paradoja de la ley Milei es que su gobierno es débil en el Palacio, es decir, tiene pocos parlamentarios, y resulta ser fuerte en la calle, tomando la calle como la opinión pública, aunque quienes lo siguen aún no han protagonizado ninguna movilización importante.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La huelga general es la medida de lucha más importante con la que cuentan los trabajadores y las trabajadoras, y tiene una larga historia en nuestro país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, lo primero que hay que decir es que, para la clase trabajadora argentina, los paros han sido una vía absolutamente crucial para obtener derechos desde sus inicios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El salario no es ganancia, es remuneración. Para mí, el salario no es ganancia, el salario es remuneración. Es el pago por el trabajo y el esfuerzo que hace cada trabajador a lo largo del día, de su semana, del mes. Y, de alguna manera, era vergonzoso que, en un país donde promovemos el trabajo, los trabajadores pagan impuesto a las ganancias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El paro es una forma de decirle a los senadores que no pueden aprobar la ley. Es un paro total de actividades, se están sumando todas las modalidades del transporte, y es una forma de decirle a los senadores y senadoras, fundamentalmente a aquellos que están todavía dudando su voto, que no se puede llevar adelante y aprobar una ley que todo el mundo sabe que va contra los jubilados, contra los trabajadores, contra los recursos naturales, contra las empresas del Estado, de los generadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4668
+}

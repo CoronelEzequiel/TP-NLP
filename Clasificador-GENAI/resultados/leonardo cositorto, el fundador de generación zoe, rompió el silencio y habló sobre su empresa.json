@@ -1,0 +1,36 @@
+{
+  "texto_id": "cositorto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Nos atacan porque se sienten afectados, son traders, financistas y operadores de mercados financieros argentinos. Hay que decir las cosas como son.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros ofrecemos educación en habilidades blandas, comunicación, liderazgo y trabajo en equipo, algo que falta en muchas empresas argentinas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Transcendieron imágenes que muestran su vínculo con sectores políticos, especialmente con el PRO.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fui a comer con Martiniano Molina, por una relación personal y profesional. No simpatizo con ningún partido político, aunque Argentina necesita reformas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una conspiración. Hay llamados de atención de la Comisión Nacional de Valores de Paraguay, la CNV de Argentina, la IGJ de Argentina, la PROCELAC y bancos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3439
+}

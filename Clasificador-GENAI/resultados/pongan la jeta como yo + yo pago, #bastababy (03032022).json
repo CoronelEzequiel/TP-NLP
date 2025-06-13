@@ -1,0 +1,101 @@
+{
+  "texto_id": "¿Cuanto apoyo de hecho tienen?",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Y no le den bola a todos esos individuos que opinan al vacío.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no van a trabajar, torpes de mierda?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Idiotas de mierda.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y después nosotros con nuestro sueldo tenemos que ir a pagar el bono de contribución que dio Cristina.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Veinte años cada vez más pobres, ¿Dan?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escrache era para los militares de la junta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tienen un Instituto de la Mujer que encima la directora dijo una barbaridad que todo el mundo se está queriendo analizar.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué son ustedes? ¿Guerrilleros de la 9 de Julio?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pongan a la gente como yo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Manga de idiotas, inútiles.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los mil millones de pesos de la Casa de la Moneda, la estafa que hizo Cristina con Boudou.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Déjense de joder.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y son todos juegan para ustedes eso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Reconozcan la derrota, inmorales.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El país se hace con gente de plata que gasta en el campo, que gasta en la industria, que exporta.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Golpistas pelotudos, antidemocráticos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No. La vamos a pelear hasta el último hombre.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y si a ustedes les gusta tanto Cuba, ¿por qué no está Gómez Alcorta viviendo en Cuba?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3373
+}

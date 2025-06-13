@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La propuesta de Horacio Rodríguez Larreta y otros dirigentes de Juntos por el Cambio busca conformar una gran coalición para dejar atrás el populismo y ganar las elecciones, no solo en las distintas instancias electorales que vienen desde agosto, sino para gobernar bien y que el populismo sea un mal recuerdo en la Argentina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los países que en algún momento de su historia experimentan un punto de inflexión, se encaminan hacia un modelo de desarrollo avalado por el sistema político y la sociedad a través de una gran coalición que prioriza el acuerdo sobre la competencia política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juntos por el Cambio puede lograrlo con otros sectores que compartan la visión de una Argentina moderna, integrada al mundo y con oportunidades de desarrollo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que abandonar los personalismos y pensar en lo que le conviene a Juntos por el Cambio para ganar y gobernar.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El episodio de Pichetto trabajando junto a Rodríguez Larreta marca una secuencia de ampliaciones de Juntos por el Cambio: la propia conformación de la coalición, Pichetto en 2019, López Murphy en 2021, y Facundo Manes, quien, a pesar de su pertenencia radical, ingresó a la coalición y compitió con Diego Santilli.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2247
+}

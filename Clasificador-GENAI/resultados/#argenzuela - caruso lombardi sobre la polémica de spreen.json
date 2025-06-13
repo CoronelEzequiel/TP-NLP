@@ -1,0 +1,36 @@
+{
+  "texto_id": "Ricardo Caruso Lombardi",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando el chico firmó el contrato en Vélez Sarsfield, en Liniers, la maniobra fue orquestrada porque, siendo uno de los jugadores más conocidos, tenía un gran impacto de marketing.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El tema de las apuestas es un desastre, el fútbol argentino está arruinado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Boca llega a la cima en la tabla anual (puntaje de todo el año), el partido contra Vélez será normal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Deben ser transparentes y decir la verdad a la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es como jugar contra Barracas Central, sabiendo que tendrás problemas con los árbitros, el VAR.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1860
+}

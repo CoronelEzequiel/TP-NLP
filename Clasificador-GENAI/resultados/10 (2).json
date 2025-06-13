@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.358,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El problema de Argentina, históricamente (hace 120 años), es el sector externo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Argentina no reconstituye su patrón de solvencia, que es acumular reservas, toda la política macroeconómica es inconsistente.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poner el eje en lo fiscal y provocar una recesión con una caída del 5% del producto interno bruto y 200.000 desocupados en seis meses es someter a la sociedad a un estrés innecesario, y todo indica que puede profundizarse.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay problemas con el FMI, es porque negociamos con una entidad que prestó una gran cantidad de dinero y Argentina no da certidumbre sobre determinados pasos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que resolver el tema del FMI. Si estamos peleándonos con el FMI, no estamos resolviendo el problema.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Trump tiene que ganar ese espacio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2065
+}

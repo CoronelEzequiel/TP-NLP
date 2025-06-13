@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los jubilados son uno de los sectores de nuestro pueblo más desprotegidos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los hinchas de nuestros clubes sociales y deportivos unidos somos el pueblo argentino.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno se tiene que ir.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich es una asesina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nosotros vamos a meter presos a Milei, a Karina Milei, a Patricia Bullrich.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La descomunal caja que manejó Grabois con Abal Medina y de Alberto Fernández: 244 millones de dólares en cuatro años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hombre, que habla ahora, de la nada, dejó una jubilación mínima de 87 dólares.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está repleta de esquizofrénicos que no conectan con la realidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4189
+}

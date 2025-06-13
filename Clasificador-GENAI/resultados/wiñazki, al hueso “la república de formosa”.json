@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.629,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La situación en la provincia se agrava cada día, y las declaraciones de la dirigencia peronista, antes consideradas pícaras, ya no resultan tolerables.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Amnistía Internacional, una organización de derechos humanos de prestigio internacional que colaboró con Argentina durante la dictadura, denuncia la situación de los varados a quienes se les impide el ingreso a Formosa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, la Corte Suprema intervino gracias a la denuncia del senador Luis Naidenoff y a la gestión de los dirigentes radicales Hernández.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El diputado Rodolfo Tailhade, ex jefe de contrainteligencia de la AFI, publicó en Twitter su intención de impulsar un juicio político contra el juez Carvajal por permitir el ingreso de los estudiantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ministro González, a cargo de cuatro carteras (Trabajo, Seguridad, Justicia, entre otras), ofreció una explicación patética sobre la situación sanitaria, comparando la situación de Formosa con las restricciones de ingreso en otros países, como Inglaterra con Dinamarca,  justificando las medidas restrictivas en Formosa como una medida necesaria para proteger a sus ciudadanos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tailhade, según algunas opiniones,  ha actuado de manera conservadora al impulsar el juicio político contra el juez Carvajal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Amnistía Internacional, la Corte, la oposición y los manifestantes reclaman una solución a la situación de los varados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1477
+}

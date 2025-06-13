@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.894,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner está ideológicamente enamorada de Vladimir Putin.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, en un gesto de genuflexión repugnante, mancilló la soberanía de nuestra patria y se ofreció de manera obscena como la puerta de entrada a la región para semejante tirano.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner quiere que seamos como Rusia y ella quiere ser la zarina, la zarina de El Calafate.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos muchachos kirchneristas hoy se muestran orgullosos como verdaderos hijos de Putin.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Destruyeron todo lo que tocaron y ahora nos humillan al poner a nuestra patria del lado del eje del mal, donde se violan sistemáticamente los derechos humanos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa falsa neutralidad es un disfraz para apoyar el expansionismo ruso y, en ese sentido, repiten la nefasta historia de no enfrentar a los nazis.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después están los chupamedias de Cristina Fernández de Kirchner que viven congelados en un marxismo decadente y fracasado, como Atilio Boron, que dijo que hay un bando agresor, que son los Estados Unidos y la OTAN, y un agredido, que es Rusia.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero que le diga la verdad: el mundo de la libertad extraña como nunca a Winston Churchill.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2027
+}

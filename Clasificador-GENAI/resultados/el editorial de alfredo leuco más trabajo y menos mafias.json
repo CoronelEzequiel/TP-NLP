@@ -1,0 +1,56 @@
+{
+  "texto_id": "Alta Pelgrucilando",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.739,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No de los que nunca trabajaron, como Máximo Kirchner, que va a participar de un acto de la CGT.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son días muy tristes para todos los que se ganan la vida con el sudor de su frente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La inflación, el desempleo y la pobreza son enfermedades que envenenan la vida de todos.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La pandemia y la pésima gestión quebraron empresas y redujeron la cantidad de puestos de trabajo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los desocupados son los desaparecidos de estos tiempos.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siempre digo que la historia juzgará a los gobernantes por la cantidad de trabajo genuino y en blanco que puedan generar.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que eliminar ese tóxico inflacionario que siempre perjudica a los más pobres y combatir las mafias sindicales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos hartos de ver trabajadores pobres y gremialistas millonarios y atornillados a sus cargos como si fueran una monarquía.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que poner toda nuestra energía, y la energía, en combatir al virus criminal, pero también en construir una sociedad productiva, con incentivos al progreso, a la inversión y al mérito.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2226
+}

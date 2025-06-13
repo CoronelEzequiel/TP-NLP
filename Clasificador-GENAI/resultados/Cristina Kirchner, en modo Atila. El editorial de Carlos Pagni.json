@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Las pocas operaciones con bonos en dólares que hubo, porque los salva el mercado en Estados Unidos que estaba cerrado por el feriado, registra una caída del 10% en el valor de esos bonos, con un riesgo país que ya era altísimo; es decir, con bonos que ya estaban muy depreciados.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El dato más importante de todos es que el Banco Central volvió a salvar el valor de los bonos en pesos. Los bonos en pesos son los títulos que emite el Tesoro Nacional, el Ministerio de Economía, para financiarse, tratando de tomar pesos del mercado y prescindir en alguna medida de la emisión del Banco Central.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el problema principal es que, como nunca antes, Alberto Fernández está demostrando una enorme confusión conceptual respecto del problema que debe resolver.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner sostiene que acá hay un problema de falta de dólares por crecimiento.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández dice: \"Faltan dólares, faltan dólares porque estamos creciendo tanto y tan bien, que ya no nos alcanzan los dólares para los insumos que tenemos que comprar para solventar ese proceso de crecimiento\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Guzmán tiene una explicación, si uno quiere, más alineado con los profesionales de la economía o con el consenso de los profesionales de la economía, ¿en qué consiste esa explicación? Hay un déficit desbocado, en cuyo centro está el problema previsional y el problema de los subsidios a la energía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una versión oficial del reemplazo de Guzmán que dice que empezó el operativo de Sergio Massa, luz y sonido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A Batakis la puso Cristina, y esto qué significa, que todo lo del domingo fue un acting, fue un simulacro, un safarrancho de deliberación, y que lo usaron a Massa, ida y vuelta Tigre, para disimular que el nombre ya era el de Batakis, puesto por Cristina el sábado a la noche, y que eso se coronó con una conversación entre Alberto Fernández y Cristina para que Cristina le explique a Alberto Fernández cuál es el sentido de la designación de Batakis.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina está en modo Átila, no deja crecer el pasto por donde pasa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La oposición zafó, porque si hubiera sido Massa, Massa hubiera buscado el acuerdo con Gerardo Morales, eventualmente con Horacio Rodríguez Larreta, y ese acuerdo, o la posibilidad de ese acuerdo, hubiera hecho crujir de nuevo la relación de Macri con el resto de Juntos por el Cambio, de Patricia Bullrich con el resto de Juntos por el Cambio, sobre todo con los radicales, con Batakis se unifica el frente opositor, se unifican sencillamente, hay que criticar a Batakis, es que además, hay que recordar es la que elaboró la teoría y los números para quitarle la plata a Horacio Rodríguez Larreta, cuando había que parar la rebelión policial en la Provincia de Buenos Aires, secretaria de Provincias, es la que hizo el *paper*, dicen que con muchos errores contables, por suerte estaba Batakis, que disimula que en la oposición también hay una crisis.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9321
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "criptomonedas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Con los números que mostraste, ¿qué ocurre si consideramos que una idea de Javier Milei y su equipo era la tokenización del país?  Básicamente, tokenizar todos los activos, crear un banco criptográfico y, posiblemente, eliminar el Banco Central.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su renuncia irrevocable es la del hombre que trabajó en la Secretaría General de la Presidencia con Karina Milei y que, hasta el viernes, durante tres semanas, figuró como asesor especial de la Comisión Nacional de Valores (CNV).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Morales, despedido de la CNV, y sus abogados completan el cuadro.  La contratación de Kozak y Salaver, socios del poderoso estudio jurídico Munilla, La Casa, Salaver y de Palacios, encendió alarmas en el ámbito judicial.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Novelli visitó siete veces a Karina Milei en la Casa Rosada en 2024, a menudo con Morales y Terrones Godoy.  También visitó cuatro veces a Javier Milei en la Casa Rosada y Olivos, algunas veces con Manuela Dorni, la vocera presidencial.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2229
+}

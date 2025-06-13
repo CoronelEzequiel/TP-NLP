@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se trata de un crimen gravísimo, similar al caso Maldonado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La justicia, con la colaboración de la fiscalía a cargo de la doctora Viselle, apartó a la policía bonaerense de la investigación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo indica que la policía bonaerense podría estar involucrada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero destacar la grave actuación de las fuerzas policiales durante la pandemia, actuando de manera brutal en muchos casos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1635
+}

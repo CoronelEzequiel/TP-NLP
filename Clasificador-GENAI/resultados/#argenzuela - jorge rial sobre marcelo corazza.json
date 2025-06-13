@@ -1,0 +1,31 @@
+{
+  "texto_id": "corazza",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si en ese momento hubiéramos actuado correctamente y presentado la cámara como correspondía, tal vez hubiéramos evitado que un pedófilo violador como Corazza estuviera en la calle durante 20 años.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy importante que haya un trabajo coordinado entre la justicia y todos los involucrados para destapar esto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay prostitución, trata de personas, esclavitud… todos los delitos más aberrantes están en esta causa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Prepárate para lo que viene porque ahora van a salir todos a hablar.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1360
+}

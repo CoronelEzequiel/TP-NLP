@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No me hace sentir cómodo porque me parece que nosotros, y mucho más los que empezamos en Juntos por el Cambio hace veinte años, que venimos en una construcción conjunta, hay un liderazgo y es el de Mauricio Macri.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que al macrismo y la idea de Macri, sin duda, lo está representando mejor Patricia Bullrich. Yo creo que, sin duda, es la persona indicada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que Sergio Massa es uno de los referentes mayores de este gobierno. Yo creo que Alberto Fernández, Cristina Fernández de Kirchner, Massa, Kicillof, son todos los mismos, que son los grandes responsables de este gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que al kirchnerismo hay que ganarle, creo que al kirchnerismo hay que ganarle en el debate de ideas, en el debate de gestión y en la cantidad de votos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3169
+}

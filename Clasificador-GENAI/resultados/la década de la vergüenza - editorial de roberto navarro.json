@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.09,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, el gobernador peronista Osvaldo Jaldo, quien organizó el cónclave, colocó un cartel gigante cerca del lugar de la reunión anunciando la presencia del presidente [Nombre del Presidente].",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El documento firmado habla de la \"vida eterna\" y las \"fuerzas del cielo\", priorizando la propiedad privada por encima de la vida, el trabajo, la salud, la educación y el bienestar general.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los gobernadores acudieron suplicando fondos, con una actitud servil hacia [Nombre del Presidente], realizando un acto absurdo para obtener recursos que, según ellos, les son insuficientes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "[Nombre del Presidente], en seis meses, ha reducido los salarios en un 20%, ha insultado a importantes líderes mundiales, ha suspendido la entrega de alimentos a comedores comunitarios, ha dejado sin medicinas a enfermos y ha emitido decretos y leyes que convierten al país en un estado fallido.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto, se observa una actitud similar a la de la dictadura: oportunistas, serviles, arrogantes, egoístas, miserables, miedosos y mediocres.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1289
+}

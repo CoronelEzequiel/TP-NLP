@@ -1,0 +1,36 @@
+{
+  "texto_id": "radio10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.16,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En la Plaza de los Dos Congresos, durante la represión que lamentablemente dejó como víctima a un reportero gráfico, se evidencia la importancia trascendental de los fotógrafos en la construcción del relato histórico.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una foto, que llegó a ser tapa del diario Clarín y se convirtió en un símbolo de la supuesta conmiseración policial, mostraba a un agente (creo que un miembro de las fuerzas militares) abrazando a una manifestante, Susana Leguía, durante una de las marchas por la vida en 1982.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Susana lo encaró, gritándole, y yo, junto con otro reportero gráfico, Marcelo Ranea (ya fallecido), comenzamos a tomar fotos. El represor sujetó a Susana por la nuca y la apretó contra su pecho para silenciarla. No fue un abrazo consolador; fue un acto de represión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto ocurrió alrededor del 4 o 5 de octubre de 1982, después de Malvinas. La dictadura ya estaba en sus últimos meses, pero la represión contra las Madres era intensa. Era un momento crucial de resistencia democrática.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La imagen, aunque quieran manipularla, siempre muestra la verdad. El trabajo de la prensa es fundamental. Lamentablemente, el relato de Magdalena Ruiz tergiversó la realidad. Afortunadamente, existen otros registros que muestran lo que realmente ocurrió.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2066
+}

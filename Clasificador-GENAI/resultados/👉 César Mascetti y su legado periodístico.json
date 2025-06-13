@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Llego a la Argentina y veo que la conmoción se produce alrededor de las declaraciones que hizo Facundo Manes acerca de la comparación de aspectos comunes entre Macri y Cristina, y no puedo evitar decir que no me parece para tanto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En todos los partidos del mundo, la nueva generación critica a la anterior; parece más una defensa, en el caso de los que integran el partido fundado por Macri, de \"chupamedismo\" con el dueño del PRO, y el caso del radicalismo con la interna radical.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Brasil, como vinimos narrando, las diferencias son realmente extremas, de verdad. Lo que hace ver a la sociedad argentina, aún con sus patologías, más sana que muchas otras de nuestros vecinos, y muchas veces miramos con injusticia nuestros males, exagerándolos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recientemente, el Supremo Tribunal Electoral de Brasil pidió que se determinasen sitios que estaban colocando información sobre que Lula era un perseguidor de cristianos, y que fueran levantados, con multa, por considerarse *fake news*. ",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo mismo que ha sucedido en Estados Unidos, lo mismo que hizo Trump en Estados Unidos con las redes sociales, y lleva a la reflexión...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos empeñados en construir un país mejor, y seguimos pensando, como lo hicimos al elegir esta profesión, que el periodismo independiente debe servir no solo para informar, sino para transformar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este cubano, egresado de periodismo de la Universidad de Columbia, tenía una visión sobre la forma de realizar periodismo plural, que era la típica de mediados del siglo pasado, era la típica también que hizo el periodismo de Watergate, que hizo el periodismo norteamericano hasta 1980, que ya no existe más.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O sea, la polarización que yo les comentaba de Brasil también es en Estados Unidos, es más, de hecho podríamos decir que Bolsonaro copia a Trump y las redes sociales, y Steve Bannon era quien asesoraba a Bolsonaro respecto del manual de la lucha política global y cómo la utilización de las redes sociales y las *fake news* para construir esa polarización.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3092
+}

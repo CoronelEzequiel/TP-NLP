@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.456,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hace tiempo que viene disparando misiles contra Mauricio Macri y, también, muchas veces sin nombrarla, contra Patricia Bullrich.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se escuchó que Macri busca ganar para hacer una alianza con Schiaretti.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La acusación más grave que hizo Carrió en una charla que ella misma publicó fue cuando dijo que el espacio del PRO, que lidera Macri, busca reprimir hasta matar, si es necesario, aunque es solo una ilusión de orden, y por eso no lo van a lograr.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más aún, dijo que ese sector, en cuatro meses, recién lo escuchamos, va a realizar un brutal ajuste contra la clase media.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso de Macri, en pocos años gobernó dos veces la ciudad, dejó como heredero a Horacio Rodríguez Larreta y fue el primer presidente no peronista que entregó el poder en tiempo y forma por primera vez en 90 años y se fue con más de 10 millones de votos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya le dije que la Coalición Cívica y Carrió tienen muchos méritos en su lucha contra la corrupción, coraje y lucha contra la impunidad, que nadie le puede negar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Carrió siempre tuvo el mérito de ser indomable, incorruptible, pero el pecado de ser imprevisible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri caminaba por las paredes de bronca por lo que le dijo Carrió en aquel momento, pero más aún, por el momento en que lo dijo, me confesó un funcionario.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Carrió no debería darle pasto a las fieras ni jugar con fuego al borde del precipicio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2534
+}

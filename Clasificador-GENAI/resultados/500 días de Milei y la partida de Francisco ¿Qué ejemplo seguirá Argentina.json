@@ -1,0 +1,66 @@
+{
+  "texto_id": "Bueno, día 500, decíamos de la escuela",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.436,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Figuras como las de Javier Milei le dan una impronta al capitalismo más cruel, a la cara más cruel del capitalismo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El encuentro con el distinto, la solidaridad, la misericordia, la justicia social, en vez de, como el propio papa Francisco dijo, el descarte.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se trata de inculcar la misericordia, el encuentro, la humildad, que son sentimientos que no se imponen, que se sienten, y nos damos cuenta de la distancia que hay entre los valores que representa el papa y los que representa nuestro presidente Javier Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dijo que el cambio climático es un invento de los socialistas, que la agenda género ecológica era una imposición de los organismos supranacionales.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El principio que el papa no recordábamos, decíamos, es la unidad también es superior al conflicto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El papa no reniega del conflicto, incorpora como una parte necesaria en el desarrollo de los procesos, pero la idea es la incorporación del otro para la síntesis.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dijo: 'El fin del modelo de la casta, cuya máxima presión es la aberración de la justicia social'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El salario básico universal es una herramienta fundamental para resolver uno de los aspectos de la exclusión social, que es el ingreso de los que no tienen un ingreso estable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei: 'Podés elegir morirte de hambre'.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La muerte de un padre nos obliga a definiciones, a transformaciones, a ser más adultos, y Argentina tiene una historia de orfandad, de padres confiables, con su consiguiente conflicto con la autoridad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La desaparición física de Francisco es mucho más que la muerte un líder religioso, es un evento político y cultural, la de un líder moral internacional cuyo legado aumenta el capital simbólico de Argentina en el mundo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6228
+}

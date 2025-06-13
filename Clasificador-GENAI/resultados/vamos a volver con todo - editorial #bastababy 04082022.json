@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.662,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Espero equivocarme y encontrarme con un país mejor, con un gobierno que lo maneje con coherencia y cordura; que podamos volver a salir a la calle con tranquilidad, como en nuestra juventud, sin preocuparnos por la inseguridad ni por la devaluación del dólar que nos descapitaliza.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos han afectado gravemente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca los abandonamos y espero que ustedes tampoco nos abandonen.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¡Aguanten el regreso! Vuelvo con todo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 838
+}

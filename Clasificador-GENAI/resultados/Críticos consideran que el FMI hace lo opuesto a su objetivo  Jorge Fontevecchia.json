@@ -1,0 +1,41 @@
+{
+  "texto_id": "audio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.183,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Finalmente, el ministro de Economía, Luis Caputo, brindó más detalles del nuevo acuerdo con el Fondo, que implicaría, en principio, un envío de 20.000 millones de dólares, que da a definir cuánta plata de esa es para pagar la propia deuda con el Fondo y cuáles son fondos nuevos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "*No hay límites, siempre hay créditos, normalmente difíciles de amortizar. Maldigo a todos los amados, amantes del capitalismo, de la economía liberal.*",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*He decidido quitarme la vida porque, como muchos otros griegos, ya no tengo esperanza. Me veo obligado a hacerlo porque el gobierno, con las políticas impuestas por la Troika, el FMI, el BCE y la Unión Europea, me han dejado sin un futuro digno.*",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La plata que ponen esos países es casi como un cabestro, el país queda preso de eso y no puede salir. Miren la situación de Argentina, lo difícil que está por culpa del préstamo que fue hecho por intereses políticos del FMI, los 44 mil millones prestados a Macri en medio de las elecciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que vino haciendo el FMI en tu país sin el mío, antes de que vinieran Donald Trump y Javier Milei, fue exactamente lo mismo, dan préstamos para permitirle a los oligarcas en tu país para sacar su dinero, cambiarlo por dólares usando los que trae el Fondo Monetario Internacional antes de cerrar las puertas y luego todos van a tener que pagar el precio de eso en pesos devaluados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizás esta vez pueda ser distinto, quizás esta vez la suerte de financiamiento de campaña no termine siendo pagado por los argentinos con más austeridad y más ajuste, porque de hecho, el gobierno de Milei ya él mismo dice que ajusta más que el fondo monetario internacional y, como decimos siempre, ojalá estemos equivocados en nuestros temores.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6486
+}

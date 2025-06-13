@@ -1,0 +1,141 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En cada sector de la economía donde se busque, los cepos, las regulaciones, los impuestos y la burocracia alimentan el monstruo del Estado, que consume una paradoja.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un Estado que vive para sí mismo y vampiriza a su población, tarde o temprano encuentra la pared de la realidad y con ella, el agotamiento de los recursos que tomaba como propios, que exprimía, además de un callejón sin salida, que es ese callejón con el que nos encontramos ante una góndola vacía, por ponerlo en una metáfora bastante real: la escasez.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando hablamos de populismo, también hablamos de esto, del dispendio de los recursos, de los recursos privados con la lógica de una supuesta distribución que, al final de la historia, deja al descubierto entramados de corrupción y un mal mayor para toda la sociedad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más que distribuir, termina siendo desmantelar un tejido productivo sensato.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así, la decadencia avanza sin prisa pero sin pausa, con el boleto asegurado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que hace las cosas bien es afectado para que alguien las pueda hacer mal, pero todo en nombre del bien común.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando llegas a esa góndola y algo falta, hay una cadena de insensatez e ineficiencia que impidió que un bien se transara en forma razonable desde su producción hasta la comercialización al público, en los términos que hagan conveniente que alguien quiera invertir, competir, vender o comprar.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como todo este entramado no es visible para el ciudadano común, luego es fácil que le hablen de \"cucos\" o que demonicen la idea del interés de alguien que produce y, obviamente, quiere que en la venta las cosas tengan razonabilidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La otra cara de un mercado que está roto, sin crédito, con la espalda quebrada por impuestos, burocracia e ineficiencia, es el avance del Estado en todas las áreas y el fracaso de su intervencionismo que, en la asistencia social, que es uno de los temas de esta semana, tiene uno de los más dramáticos ejemplos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La misma clase política que los multiplicó ahora se hace la sorprendida.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Antes de que la gente haga saber su rechazo en los focus groups, los planes ya habían demostrado no ser un puente hacia el trabajo, sino una nueva escala en el pantano de la pobreza, y todos lo saben.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La distorsión empieza cuando es el propio Estado el que dice que el mérito no vale y que solo vale el Estado poderoso que iguala.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así, con la misma lógica de la escasez, un día, que es hoy, solo hay falta de educación, falta de capacitación y una cultura del trabajo rota como la economía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En las graves distorsiones del mercado laboral y en el negocio de la pobreza, porque digamos las cosas por su nombre, el negocio de la pobreza del que deriva la cultura de los planes, no hay inocentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero como el tema energético del que hablábamos hace un rato es una de las cuestiones de las que nadie habla, porque no conviene, porque las soluciones no son fáciles, y así lo que se perpetúan son los problemas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sigue sin existir en nuestro país un punto medio entre reprimir y cumplir con la obligación que tiene el Estado de poner orden, porque eso es una obligación que tiene el Estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Prevalece el miedo o la tibieza, y luego, ya sabemos lo que viene: luego vienen los hechos consumados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Meter la mano en el bolsillo de los porteños es una política de Estado para el gobierno nacional, que busca de esta manera atacar a la ciudad que nunca los va a votar y, en ella, a la clase media que detestan.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ganaron las calles en detrimento de miles de personas que vieron obstruidos sus derechos a circular.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero claramente, y aquí está la cuestión, la política no puede renunciar a mantener un marco de orden mínimo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La propuesta porteña de que el que corte las calles pierda el plan social, la verdad, peca de ingenua.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero, ¿por qué? Porque, básicamente, esta lógica funcionó.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay funcionarios del Ministerio de Desarrollo Social que también son líderes de las agrupaciones más grandes y actúan increíblemente de los dos lados del mostrador.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el plan parece la garantía de que no se va a volver al trabajo, y no una transición para conseguir un trabajo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado debe garantizar el cumplimiento de los derechos, sin favoritismos ni ventajas políticas y con la ley como parámetro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lamentablemente, la política encuentra sus monedas de cambio más miserables en la necesidad, y un día ese círculo también se agota, porque solo le convierte, y convierte a la política, en un socio, en un socio de que la pobreza siga absolutamente como está, y peor.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4771
+}

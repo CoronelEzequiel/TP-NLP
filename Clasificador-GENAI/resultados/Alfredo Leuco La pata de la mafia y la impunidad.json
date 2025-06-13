@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Es el realismo trágico, no mágico, trágico, de un kirchnerismo que siempre se coloca del lado de los delincuentes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto que hay letra chica, chicanas leguleyas, excusas de biblioteca, pero lo cierto es que semejante delincuente fue sobreseído por la Cámara de Casación de Buenos Aires.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es impunidad para todos, la utopía de los zafaronis de la vida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La democracia, la paz social y la ética han perdido una batalla porque el \"Pata\" Medina está libre y casi sin problemas a la vista.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Medina se sentía tan todopoderoso que se atrincheró en su momento, en su gremio, dispuesto a resistir la orden de detención de la justicia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Medina siempre militó dentro del peronismo y tuvo roces con todos, pero en la última campaña apoyó la candidatura de Cristina Fernández de Kirchner.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Muchos quieren saber qué otras mercaderías traficaba en el avión de Abril.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso el fiscal Marijuan lo denunció por el delito de intimidación pública y el juez que lo liberó, no se puede creer, dijo que su comportamiento era ejemplar y que no parecía que fuera a querer entorpecer el juicio.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece mentira que estos malhechores millonarios que representan a trabajadores pobres quieran victimizarse como presos políticos, representan lo peor de la corporación sindical que, por supuesto, tiene otros dirigentes que son honrados y democráticos, pero Medina es el emblema de la patota sindical y de la corrupción.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa militancia del apriete, de la intimidación pública y del \"vamos por todo\" es parte de la herencia maldita que dejaron los K.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3102
+}

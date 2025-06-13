@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.537,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La estrategia de Alberto Fernández es muy parecida a la estrategia de Macri durante sus cuatro años de gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri que sale, y esto es muy interesante, porque esto sí tiene consecuencias prácticas futuras, en una posición de mucha intransigencia, también parecida a la de Cristina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Confiando en que la situación se va a desmoronar y que finalmente es la realidad y no su grupo los que lo van a reivindicar. Tiene argumentos para creer en eso. ¿Sabes cuál es el primer argumento? La economía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después va a ser muy difícil hacer creer que él preside este oficialismo, porque Cristina tiene algo que Fernández no tiene, que son los votos propios en el conurbanobonaerense.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si dentro de eso saca esos números que vos decís, mira los escenarios que se van planteando.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces acá, para mí es uno de los temas de esta elección que viene. Son parecidos de alguna manera, es un espacio de centro derecha, derecha.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejame ser mal pensado dejame leer debajo del agua creo que hay sectores que toman posición los movimientos sociales que ahora no se llaman más peronistas son los Cayetanos, ya lo dijimos el otro día son la iglesia casi Pérsico, el chino Navarro el movimiento Evita en su conjunto Gravois casi que se enfrentan al propio gobierno son gobierno y por las dudas son oposición también porque están viendo esta escena económica que estamos hablando están viendo la dificultad del acuerdo con el fondo",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se impuso a la voz de Macri de nuevo intransigente fíjate esto no resistamos que Brulli y Bertucci dure todo lo que tengan que durar no les demos los votos en el Consejo de la Magistratura donde necesita nueve votos el oficialismo para aprobar los candidatos a jueces para esa resistencia depende que no haya acuerdo con dos personas el juez culota que pertenece a una lista de centro-izquierda no quisnerista muy interesada esa lista de jueces en la Cámara Contencioso Administrativo porque ahí está Sergio Torres el hermano de José de la Cámara y el hermano de Sergio Fernández que opera mucho en ese sector él es Camarista Contencioso Administrativo y la otra figura a la que hay que mirar es Silvina Jacopo senadora representante en el Consejo de la Magistratura de Gerardo Morales porque es importante porque Gerardo Morales tiene intereses en la justicia federal y le pide reoleo al juez federal electoral de Jujuy hay quien dice que ya hubo, no lo tengo verificado una asignación de recursos para la ciudad judicial federal de Jujuy por 650 millones de pesos ¿habrá asumido algún compromiso Gerardo Morales por esa asignación de recursos para su provincia en el Consejo de la Magistratura? él jura que no, pero todo el mundo la está mirando a Jacopo sería interesante que en materia judicial haya un acuerdo entre el gobierno y Morales al que buena parte del gobierno del quiesnerismo le reprocha una política judicial muy reprochable por la situación de Milagros Sala Pancho sería un acuerdo con el carcelero de Milagros Sala vamos a ver que diría por",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9372
+}

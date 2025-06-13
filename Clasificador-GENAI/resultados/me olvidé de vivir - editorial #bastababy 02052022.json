@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.645,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se lavan las manos, están peleando con Cristina y… ¿y qué?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, hablemos un poco de Cristina, aunque ya debería olvidarme.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la oposición, Patricia Bullrich, Mauricio Macri, todos peleándose, Gerardo Morales traicionando a… ¿quién? … ¿Y nosotros qué?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya no hay nada más que inventar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando habla Alberto, sabemos que está mintiendo, cuando habla Cristina, sabemos que está mintiendo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Qué país de mierda!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que el país lo cambiaremos en un año y medio. Pero no con los mismos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Feynman le ganó dos juicios a Cristina Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero tuvimos a Macri, con su gradualismo lento como una tortuga, y luego a Alberto Fernández con Martín Guzmán.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Guzmán fue a negociar con el FMI y estacionó en la cochera de la Presidenta del FMI.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Viva la libertad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2409
+}

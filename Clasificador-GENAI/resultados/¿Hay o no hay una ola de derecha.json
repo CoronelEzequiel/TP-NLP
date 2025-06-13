@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.49,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En el caso de Italia, directamente el país completo con Giorgia Meloni, y en el caso de España, su capital, Madrid, con Isabel Díaz Ayuso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El domingo pasado, me tocó participar en la mayor protesta contra Ayuso, con el eslogan \"Ayuso dimisión\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "las medidas de recorte de gastos en salud pública que la presidenta del gobierno de Madrid, Díaz Ayuso, muy conocida por los argentinos porque siempre pone al peronismo como el ejemplo del mal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Hay una ola de regreso a la derecha? ¿Hay una ola que vaya a afectar a la Argentina y que marque el crecimiento, por ejemplo, que tiene Milei, en condiciones a todos los partidos políticos y fundamentalmente a Juntos por el Cambio hacia la derecha?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la idea de que los 100 días sean 100 horas me parece que va a durar 10 días, porque no es la sociedad la que está predispuesta a aceptar medidas de ese tipo, sino todo lo contrario. Creo que la sociedad lo que va a demandar es moderación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jaime Durán Barba, sostenía y sostuvo en este programa, en sus columnas en *Perfil*, que es imposible ganar las elecciones proponiendo ajuste, que en ninguna parte del mundo nadie gana las elecciones proponiendo ajuste.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha que gana en Europa no propone ajuste, propone otro tipo de manifestaciones conservadoras, pero nunca en la economía con ajuste.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy triste, preocupado por lo que estamos viviendo, por el creciente deterioro de un gobierno que no tiene rumbo ni plan, y que se ha dedicado a destruir oportunidades en un momento en que el mundo está girando. Latinoamérica y Argentina están fuera del mapa.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que hoy, y mi libro va en esa dirección, es que tenemos que discutir para qué vamos a volver al poder, cuáles son las ideas y valores que nos van a sacar de una decadencia que viene hace décadas y que no la podemos detener.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tratemos de imaginar lo que podría ser el cambio muy profundo que propone Macri.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4099
+}

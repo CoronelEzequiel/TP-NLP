@@ -1,0 +1,76 @@
+{
+  "texto_id": "checopar_analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.669,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo en la editorial lo armo con el pie de pantalla.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y cuando venga una personalidad muy importante a casa a comer, por ejemplo, Yeza, lo voy a destapar.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque soy bien facho y rebanco a la policía.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Bueno, entonces, claro, entendés, Javi.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero no, MasterChef.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ellos, por una noticia, ponen la vida.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque no te olvides, Cafiero III, Lindo, en línea de su sesión, que cuando termine el gobierno de Alberto Fernández, vos tenés que reabrir la librería de autoayuda que tenías en San Isidro.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y la verdad es que hacen mierda el país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, encima, los mismos propios salen a pegarle, como De Lía y como Duhalde hoy, Duhalde hoy, a pegarle y a tomarlo de pelotudo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque no es casual que a la Argentina todos le cayeron mal.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y la verdad es que es el presidente, y no es un pelotudo, es el presidente.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque si volvemos a votar dentro de dos años, vamos a elegir por esa patología perversa que tenemos, el síndrome de Estocolmo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero no sean cobardes y traidores, porque además están en un partido de cobardes y traidores, que no es el peronismo, son los fracasados del peronismo con los fracasados de la izquierda, con los fracasados de la derecha, con los que no se les para más y tratan, en lo posible, de apoyar a un fracasado para sentirse útiles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3833
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_melissa_trat",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.14,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Como analista de política internacional, prefiero el contacto directo con las comunidades. Me parece más importante interactuar con la gente que vive en contextos específicos y contar sus historias, que participar en paneles de opinión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay lógicas de poder que mantienen la situación.  Este conflicto no comenzó la semana pasada.  Más allá de las imágenes impactantes, no es un conflicto fronterizo entre dos estados.  Hay una población palestina que vive bajo ocupación israelí, con un cercenamiento de derechos básicos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es grave hablar de un combate entre Israel y Hamás, cuando Israel bombardea Gaza, campos de refugiados, hospitales, escuelas de la ONU y periodistas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El objetivo de Israel parece ser erradicar a Hamás, lo que exige la población israelí tras el horror del ataque.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Condenar todos los ataques contra civiles y evitar que la comunidad internacional dé un cheque en blanco a Netanyahu para que responda como quiera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3033
+}

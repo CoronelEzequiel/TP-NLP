@@ -1,0 +1,41 @@
+{
+  "texto_id": "obisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay un desorden económico que se ve potenciado no solamente por su propia dinámica, que tiene que ver con cuestiones de técnica económica, sino por un descalabro en el seno del poder, en la toma de decisiones, en el discurso para explicar por qué esas decisiones se toman, en las operaciones concretas de los principales funcionarios del gobierno.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una de las razones del deterioro económico tiene que ver con que sobran pesos. El país está repleto de pesos por varias razones. La primera es que hay un enorme déficit fiscal que el gobierno financia con emisión monetaria.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá está el problema central del oficialismo en estas elecciones. Ese problema se llama caída del salario real.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el 2017 el oficialismo obtiene el 42% (Macri). No había brecha cambiaria porque no había cepo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La relación entre brecha cambiaria como indicador de malestar económico y pérdida de votos es bastante comprensible. Que la inflación me reste votos y la pérdida de salario real me reste votos es comprensible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El mensaje de Milei es muy sencillo: libertad económica. Se corresponde totalmente con un clima de mucho estatismo, donde el estado, además con su gasto, genera inflación y produce ese malestar del deterioro del salario con el que empezamos hablando esta noche.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8937
+}

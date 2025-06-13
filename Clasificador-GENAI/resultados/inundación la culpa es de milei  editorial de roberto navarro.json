@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.168,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Meleï afirmó que el Estado es el responsable de la tragedia.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El punto es reconocer a nuestro verdadero enemigo: un Estado que falló en su función.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un Estado que deja a los niños desprotegidos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero nos convencieron de que para controlar la inflación había que destruir el Estado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los empresarios aplaudieron estas medidas, mientras que el gobierno le quitó recursos a las provincias, dejándolas sin recursos para seguridad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bajar la inflación de esta manera es irresponsable y peligroso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno actual está desconectado de la gente, incapaz de llegar a las zonas más vulnerables.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno que se jacta de haber realizado el ajuste más grande de la historia, ahora dice que hay que invertir en obras públicas, demostrando su hipocresía.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno es responsable de la muerte y el desastre.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2100
+}

@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.736,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero la prensa va al aguantadero que está al lado del colegio que la madre denuncia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Va a haber todos los males ahí adentro, pero también va a haber patrulleros en la esquina que no hacen nada, porque el patrullero no hace nada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la culpa no es del comisario, que puede ser que esté acomodado, la culpa es del gobierno que permite que los comisarios se acomoden.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mi solidaridad con usted por el papelón que pasó.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Realmente, lejos de andar por los canales con los chichones victimizándose, tiene que renunciar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la verdad, [nombre de persona relevante], ayer usted quedó como un cobarde.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Realmente, ayer usted sintió por 30 segundos lo que nosotros sentimos todos los días, cuando algún hijo de puta, [apellido de persona relevante], eh, facho hijo de puta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Déjese de andar por los canales porque no se explica, y mucho menos algo tan ruin, tan miserable y tan berreta como del [término despectivo para un gobierno], echarle la culpa a [apellido de persona relevante], porque ahora es \"ah, pero [apellido de persona relevante]\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ayer dejó una hija huérfana el colectivo de [nombre de organización].",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer murió un trabajador, un hombre que labura 20 horas por día para llevar el sustento a su casa, lo mataron como a un perro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero usted, [apellido de persona relevante], nos tomó de pelotudos mientras cobraba en el ministerio y nos sigue tomando de pelotudos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2278
+}

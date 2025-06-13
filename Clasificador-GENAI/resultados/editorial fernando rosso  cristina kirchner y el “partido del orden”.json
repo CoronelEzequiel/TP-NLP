@@ -1,0 +1,36 @@
+{
+  "texto_id": "cristina_vs_cristina",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Cuando recibimos el gobierno en 1989, éramos un país fragmentado, al borde de la disolución social, sin moneda y con un Estado sobredimensionado que, como un dios griego, se comía a sus propios hijos. Entonces, bajo el gobierno de Menem, hubo que abordar una tarea muy difícil: reformular el Estado, reformarlo, reconstruir la economía y recuperar la credibilidad de los agentes económicos respecto a la posibilidad de una Argentina diferente. Se hizo con mucho sacrificio, pero se logró incorporar definitivamente pautas de comportamiento en los argentinos\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus palabras ponen de manifiesto que, en momentos de crisis, ante opciones radicales y sin tiempo para medias tintas, su opción es el orden, a cualquier costo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien no necesariamente se puede afirmar que se iba hacia una nueva forma de democratización, sí se obstruyeron, mediante concesiones y regimentación estatal, posibilidades de cambio más radicales que la crisis de 2001 permitía.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante la gestión de Alberto Fernández, y especialmente desde el arribo de Sergio Massa al Ministerio de Economía, Cristina Fernández de Kirchner y el quierismo han sido proveedores voluntarios de orden político para el ajuste implementado por Massa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se debe llegar a un acuerdo para abordar la 'economía bimonetaria' o la 'dolarización de facto'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2067
+}

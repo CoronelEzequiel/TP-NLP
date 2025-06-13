@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.786,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pasó la mitad de su vida aferrado a un puesto sindical digno de una monarquía.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Masoquismo, según el diccionario de la Real Academia Española, en su segunda acepción se define como la complacencia en sentirse humillado o maltratado.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La definición describe perfectamente a quienes proponen, en nombre de los trabajadores, votar a su verdugo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La inflación descontrolada, que superará el 130% anual, deteriora el poder adquisitivo de sus salarios.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La CGT fue, es y será una corporación más de la gran corporación oligárquica en la que se ha convertido el peronismo secuestrado por el kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El rol de Cristina es proporcionar disciplina social a un ajuste doloroso, mal ejecutado y desordenado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La gestión de Sergio Massa es el doble de mala, ya que no mejoró ninguno de los indicadores y, por el contrario, multiplicó todos los problemas: más pobreza, más indigencia, más inflación, menos inversión, menos crecimiento y casi nulas reservas en el Banco Central, y menos ilusiones.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2480
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_bullrich",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bullrich es una política de oficio; ha pasado por diferentes partidos, diferentes gestiones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desde el punto de vista de la gestión libertaria, tiene un triunfo político indiscutible, la reducción al mínimo de los piquetes y cortes de calles en el área metropolitana.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ministra de Seguridad tiene la particularidad de romper los espacios políticos de convivencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Antes del triunfo libertario, Macri y Bullrich estaban en la misma ala, pero ambos eran halcones. Ambos tenían un proyecto mucho más de derecha que Horacio Rodríguez Larreta y entendían que el proceso político estaba siguiendo la tendencia a extrema derecha.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich es percibida por Javier Milei como alguien semejante a él, dirigente de extrema derecha que tiene una actitud frontal, y cuando nos planteamos de extrema derecha, pero como si ella era montonera, aquí el planteo de los extremos es que se tocan.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4545
+}

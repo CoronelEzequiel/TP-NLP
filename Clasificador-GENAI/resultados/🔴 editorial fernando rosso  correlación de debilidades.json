@@ -1,0 +1,36 @@
+{
+  "texto_id": "La verdad del poder o el poder de la verdad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.13,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Como, según diferentes mediciones, los resultados muestran un respaldo de alrededor del 50%, se infiere que es un proyecto político fuerte e intocable.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A esta fórmula la podríamos llamar \"teorema de Loredo\", porque así actúa el diputado radical cordobés, siempre auxiliando al vencedor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Villarruel, con una sensibilidad distinta al proyecto de Milei, hija predilecta de la familia militar, defensora de genocidas y la dictadura, busca reinstalar al partido militar en la mesa de poder.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gerchunoff me dijo que no le preocupa tanto la gente que apoya a Milei (apuesta a su esperanza o a evitar otra decepción), sino la eventual resignación de los opositores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Peleas como la del sindicato de neumáticos o el conflicto del hospital Posadas pueden ser ejemplos contra la desmoralización de quienes especulan y usan las encuestas para esquivar, parafraseando a Gramsci, \"lo único que se puede prever científicamente: la lucha\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1862
+}

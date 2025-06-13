@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si ganaban por más de 20 puntos los kirchneristas, iban a entrar a los canales con un garrote y nos iban a sacar a todos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Dady Brieva dijo que si ganaban por mucho, nos orinaba desde un edificio.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay algo raro que no termino de entender en esta pre-elección, donde hay de todo menos entusiasmo y plata.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A Alberto Fernández lo veo por un lado, que todavía puso la pelota, pero tomó más de 12 pasos para el penal, y se fue al arco contrario, porque no hace nada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora explícame, Alberto, cuando vengas a Argentina, así como esta señora actriz tiene que explicarme esto de que nos orinaban desde los edificios, sus compañeros, vos me tenés que explicar todo esto que se está diciendo, que dicen los sindicalistas.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué están saliendo los chorros de la cárcel?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí me parece bien que metan en cana a los chorros de Macri, a los que lo acompañaban y a él, si es chorro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3181
+}

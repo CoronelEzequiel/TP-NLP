@@ -1,0 +1,31 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El reflejo condicionado es asociar esa crisis política, esa insuficiencia de la política o esas bajas prestaciones de la política, con problemas económicos o con problemas de corrupción, y es verdad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri y Alberto Fernández apelaron centralmente a una operación conservadora que es retener el voto que ya tienen.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fernández lleva adelante toda esta estrategia basado en algo que es central en la campaña, el repudio, en este caso, el repudio a Macri.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Espert se mostró bastante vivo también porque dijo: 'yo soy un señor de su casa, soy el único que no tiene entrenamiento en todo esto', es el que más horas de vuelo tiene en un canal de televisión respecto de los otros candidatos que había anoche en escena.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4583
+}

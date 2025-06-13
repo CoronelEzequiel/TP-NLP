@@ -1,0 +1,31 @@
+{
+  "texto_id": "matias_otomayo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La verdad de la milanesa es que los alimentos no están llegando a los comedores, no están llegando a nuestras ciudades.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos estamos preguntando hacia dónde, cuál es el verdadero motivo, hacia dónde van las denuncias, dónde está la auditoría, porque también los organismos internacionales empiezan a interpelarnos y a preguntarnos qué está pasando en la Argentina con respecto al derecho a la alimentación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Queremos que los organismos internacionales también hagan mella en esta historia, que también interpelen, también como la FAO, porque no estamos cumpliendo con un requisito básico que, además, garantiza nuestra Constitución Nacional, que es garantizar el derecho a la alimentación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, poner de excusa a poder buscar un organismo internacional para resguardarse en la no entrega de alimentos, me parece una cuestión prácticamente cruel.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2747
+}

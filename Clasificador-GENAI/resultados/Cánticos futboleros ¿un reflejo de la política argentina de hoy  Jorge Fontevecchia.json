@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_futbol_politica",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Obviamente, no ayudó que interviniera Victoria Villarruel en la discusión y le diera un carácter de Estado a una polémica racista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es interesante que le preocupe el colonialismo de Francia, cuando de manera tácita reivindica, o al menos relativiza, los crímenes de un gobierno militar que se entrenó con métodos de represión y tortura de los franceses en Argelia durante la guerra de Argelia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Argentina es un país soberano y libre. Nunca tuvimos colonias ni ciudadanos de segunda. Nunca le impusimos a nadie nuestra forma de vida, pero tampoco vamos a tolerar que lo hagan con nosotros. Argentina se hizo con el sudor y el coraje de los indios, los europeos, los criollos y los negros como Remedios del Valle, el sargento Cabral y Bernardo de Monteagudo. Ningún país colonialista nos va a amedrentar por una canción de cancha ni por decir las verdades que no se quieren admitir. Basta de simular indignación, hipócritas. Enzo, yo te banco. Messi, gracias por todo. Argentinos, siempre con la frente alta. Viva la argentinidad.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece como si, detrás de estos cánticos, estuvieran parte del fenómeno mundial que encarnan los libertarios en la Argentina, el fenómeno de la extrema derecha racista, xenófoba y homofóbica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5523
+}

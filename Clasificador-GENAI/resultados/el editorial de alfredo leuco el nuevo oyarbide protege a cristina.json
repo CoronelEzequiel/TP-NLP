@@ -1,0 +1,36 @@
+{
+  "texto_id": "el_lirio_de_la_nacion",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.92,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Le recuerdo que estamos hablando de la mayor corrupción de la historia argentina, liderada primero por **Néstor Kirchner** y después por **Cristina Fernández de Kirchner**.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Martínez de Giorgi** intenta deslegitimar el trabajo impecable de **Cabot** y en ese camino ataca las bases mismas de la libertad de prensa y el sagrado derecho a mantener en reserva la fuente periodística que está protegida por la Constitución Nacional.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son los cuadernos que deberían hacerles confesar y pedir perdón a los kirchneristas que pagaron y cobraron coimas monumentales con dinero que le robaron al pueblo pobre de la patria.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué más hace falta para que nadie dude de que **Cristina Fernández de Kirchner** no es inocente ni decente?",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los caminos de la corrupción conducen a los cuadernos de **Cristina Fernández de Kirchner**.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2113
+}

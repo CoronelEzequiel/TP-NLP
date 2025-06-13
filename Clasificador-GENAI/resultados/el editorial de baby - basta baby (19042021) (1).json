@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.772,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Salió a una charla para tratar de ganar el voto de los médicos, nada más que eso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Salió a tirar la escupidera con los médicos: “A esos médicos, a esos médicos que yo quiero tanto, que amo tanto, que respeto tanto… ¡le voy a dar $6.500!”.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La diferencia entre un sindicalista y un médico es que el médico estudió, se rompió el culo, se recibió, labura por 45 lucas, 51, 500… ahora con el regalo de Alberto por tres meses… ¡ojo, tres meses!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después dijo a los médicos $6.500, a los cuidadores $1.500 y a los “atorrantes”, a los piqueteros, a los que rompen… ¡$15.000!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La culpa no es nuestra, el virus no se está matando… pero no es nuestra la culpa. ¡Es la de ustedes, que se robaron las pocas vacunas!",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como voy a decir todas las noches hasta que me echen de acá: ¡se las robaron y no hay vacunas por ningún lado!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que hay que marchar un solo día: el domingo, que hay que votar y acordarse de todo lo que nos hicieron este año y medio, y meterle un voto “cojudo” en contra para sacarle poder en el Congreso y que dejen de aletear estos tartagales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted… usted realmente debe tener las mejores intenciones; no tiene la culpa de que lo pusieron ahí… pero cada vez que habla la embarra más y estamos todos muy mal, estamos todos muy desesperados, estamos todos muy tristes… y los negocios se volvieron a fundir, y cuando se empezaron a levantar, como los muertos vivos, usted los volvió a aplastar con el camión de la dibreva.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo siempre le decía que haga fuerza para no ser el peor Presidente de la historia argentina, pero llegué tarde… Ahora trate de hacer fuerza para no hacer más papelones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2490
+}

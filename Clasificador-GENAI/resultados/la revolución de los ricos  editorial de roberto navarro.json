@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.044,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Las herramientas de defensa de los trabajadores están siendo sistemáticamente atacadas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se demoniza a los sindicatos que los defienden, a los abogados laboralistas que los representan y a las organizaciones de derechos humanos que los defienden ante las injusticias.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, se ha producido un cambio drástico en las condiciones económicas en pocas semanas, mediante resoluciones y decretos de necesidad y urgencia (DNU).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este cambio, por su magnitud y la prepotencia con la que se ha implementado, constituye una revolución: la revolución de los ricos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el relato de la revolución de los ricos: un cambio a favor de los ricos que desmantela las protecciones sociales construidas a lo largo del tiempo para lograr una comunidad organizada.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con esta revolución, los ricos consiguen, entre otras cosas, exportar energía y minerales sin límites, cobrar precios internacionales por combustibles, gas y electricidad, importar sin controles estatales, fijar precios arbitrarios en medicamentos y prepagas, eliminar controles de precios y abastecimiento de alimentos, cobrar altas tasas de interés en tarjetas de crédito, obligar a empleados a trabajar 12 horas sin pagar horas extras, prohibir el derecho a huelga y a la protesta callejera, y mucho más.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ante una revolución de los ricos, donde un grupo de empresas ha tomado el poder.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No nos engañemos: no hubo un cambio de gobierno, sino una revolución, la revolución de los ricos, y esa revolución es en contra nuestra.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1825
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Fue una especie de, si lo pusiéramos en términos literarios, canto a mí mismo o autocerebración del gobierno, muy entusiasta con el logro de algunos objetivos importantes que está celebrando el gobierno, que celebra a Milei con una palabra que podría sintetizar todo el tono del discurso: hazaña.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para el gobierno, este objetivo fiscal es la clave de esa hazaña de la que hablaba recién Milei, hazaña que él explica en términos políticos, no solo económicos, como un gran logro, como una gran derrota de la clase política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué quiere decir Canción de otoño en primavera? Previsiones a las crisis. Es alguien que está viendo la primavera, que está sintiendo y experimentando, probablemente, la euforia de la primavera, pero que dice: acá, puede haber rasgos de un otoño, puede haber síntomas de que las cosas no funcionan tan bien o no son tan consistentes o sustentables como las percibimos en este momento de euforia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son profesores que dicen: en las universidades hay que repensar el problema del financiamiento, por supuesto. Hay gastos aberrantes, inclusive corrupción en la caja de las universidades, corrupción política, por supuesto, pero ¿se puede cortar el gasto de un día para el otro, como lo ha cortado el gobierno, a pesar de que alguna recomposición del gasto habido, se puede seguir administrando la universidad con el presupuesto del año pasado y estos niveles de inflación?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La caída de la inflación es objetiva, pero claro, la contra cara de esa caída de la inflación es una caída brutal del nivel de actividad, del dinamismo, de la vitalidad de la economía, y esto se refleja en las encuestas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Detrás de la candidatura de Lijo, no solamente hay una amenaza general sobre la calidad de la justicia, hay un tema más particular que es si va a haber sanción o no para lo que fue la corrupción kirchnerista.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8804
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esto puede parecer un logro, y lo es, tras la insistencia de la oposición, particularmente de Luis Naidenoff, ante los tribunales para que se modificara la situación en Formosa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Insfrán cedió en las medidas, pero solo parcialmente.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Insfrán le estaba diciendo a Fernández que entre peronistas no debería haber fisuras, que tal vez existían acuerdos tácitos, incluso de impunidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición está trabajando en esto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá que no.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sabemos que la Secretaría de Derechos Humanos de la Nación no profundizará las investigaciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1939
+}

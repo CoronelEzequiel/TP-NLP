@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este es un fenómeno muy peculiar de este momento histórico: los jóvenes empiezan a abandonar al kirchnerismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que estamos ante un fenómeno raro, pero especialmente inquietante para el kirchnerismo, que tiene su base política en el conurbano bonaerense, en los grandes conurbanos y, sobre todo, en las franjas más pobres de la sociedad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de que prácticamente el 25% del electorado porteño se expresó en una ruptura con lo que sería el discurso populista en materia económica, estado céntrico.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7380
+}

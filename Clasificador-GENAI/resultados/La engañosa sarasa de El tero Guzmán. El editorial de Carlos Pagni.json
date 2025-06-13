@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Probablemente, de esta gira, que incluye una reunión de líderes y jefes de Estado del G-20 en Roma, lugar al que **Alberto Fernández** (como le sucedía también a **Cristina Fernández de Kirchner**) asiste, puede ser gracias al protagonismo que, mucho tiempo atrás, tuvo un gobierno del que formó parte **Alberto Fernández**: el gobierno de **Carlos Saúl Menem**, que es el que consiguió esa \"butaca\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo importante es que este anuncio está traído de la mano del ex-rugbier, capitán de los Pumas y empresario **Agustín Pichot**, a quien hay que mirarlo en este mundo de la energía como representante de esa empresa australiana, pero mucho más en el mundo de los medios y de los contratos con los medios, en el negocio del rugby y en el negocio importantísimo, muy ligado al Estado, de la televisación de los deportes en los medios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué es lo que **Alberto Fernández** había prometido cuando, en la campaña, decía: \"Yo voy a bajar la tasa de las LELICs para aumentar las jubilaciones\"? La tasa de las LELICs no se bajó y las jubilaciones, en general, se están licuando con la inflación.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El concepto central, si hablamos de tasa de interés, es que la Argentina, si normalizara su relación con el FMI, podría estar pagando una tasa de, aproximadamente, 4%.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay algo central al kirchnerismo, que, en general, es bastante similar en otras manifestaciones, llamémosle así, por usar una palabra convencional, populistas, que es pensar que no hay ninguna zona de la realidad, ninguna dinámica, ninguna lógica en la realidad, ni económica, ni energética, ni sanitaria, que no pueda doblegarse, modelarse, ordenarse con el poder político.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8946
+}

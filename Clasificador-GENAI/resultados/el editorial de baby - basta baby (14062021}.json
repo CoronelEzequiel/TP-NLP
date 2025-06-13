@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.789,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mi solidaridad con mi compañera Viviana Canosa, con quien hablo todos los días.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que el kirchnerismo tiene como premisa: \"Podemos robar lo que no se puede contar\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se los conté la semana pasada: el kirchnerismo está en franco derrumbe, en caída libre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Kirchner salió a la campaña desesperadamente porque se ve que están cayendo a pedazos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si dejamos crecer al kirchnerismo, vamos a terminar con un problema gravísimo: persecución ideológica, grupos de tareas como en Venezuela… y yo estaré entre los primeros en ser perseguidos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como le decía a una amiga, te van a negar que tienen listas negras.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Demasiado con lo que tenemos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández y Cristina Kirchner nos han llevado a esta situación: vacunas robadas…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dan vergüenza y lástima.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1910
+}

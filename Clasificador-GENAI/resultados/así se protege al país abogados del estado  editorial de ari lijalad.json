@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer hubo una noticia importante: un gran logro para la República Argentina, aunque aclaro que no se debe a este gobierno, sino al país.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina ostenta el récord de juicios contra el Estado en el extranjero, y explicaré a continuación por qué y quiénes son los responsables.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los fondos buitre argumentan que se modificó la medición para evitar el pago.  Evidentemente, no tienen razón, como en la mayoría de los casos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Martínez de Hoz facilitó los juicios en el exterior, Menem firmó los tratados de protección de inversiones y Macri desmanteló el equipo de la Procuración del Tesoro que defendía al país en estos juicios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se trata de juicios multimillonarios con muchas desventajas: jueces extranjeros, legislaciones diferentes a la argentina, y una situación casi perdida de antemano.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cualquier plan de gobierno nacional y popular debe derogar los tratados de protección de inversiones, eliminar la prórroga de jurisdicciones y fortalecer la Procuración del Tesoro.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, Martínez de Hoz, Menem, Macri y la falta de acción de sucesivos gobiernos han generado un problema que le cuesta a Argentina millones de dólares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2044
+}

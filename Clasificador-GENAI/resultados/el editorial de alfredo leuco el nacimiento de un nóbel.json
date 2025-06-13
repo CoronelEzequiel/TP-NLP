@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mucho más en estos tiempos de incertidumbre en los que la situación política actual genera preocupación, pero sobre todo la falta de confianza en las instituciones, la polarización y la búsqueda de la confrontación social, hacen crujir el sistema republicano y nos envenena el alma.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me gustaría mostrar la contra cara de tanto oportunista y delincuente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso es meritocracia en estado puro.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tuvo un rechazo visceral por el autoritarismo y por eso tuvo problemas en 1943 cuando el gobierno militar dispuso expulsar a todos los profesores de la universidad que habían firmado un manifiesto antioficialista.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La memoria del doctor Houssay es un talismán al que tenemos que aferrarnos para construir un país mejor para nuestros hijos, con más ciencia y menos ignorancia, con más honestidad y menos frivolidad, con más honradez y menos corrupción, con más meritocracia y menos acomodados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2591
+}

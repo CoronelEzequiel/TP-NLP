@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Han ocurrido eventos de extrema gravedad institucional en Santa Cruz, que es la cuna del kirchnerismo y donde actualmente se concentra gran parte del poder público.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La jueza es integrante de la familia Kirchner, prima segunda de Néstor, y su actuación ha sido de una lentitud exasperante y una inusual falta de acción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Balado, Mario Alejandro Balado, también es, desde mayo pasado, el administrador de los fondos y alquileres de Máximo y Florencia Kirchner en El Calafate.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La diputada Mariana Zuvic, nacida y criada en Santa Cruz, rigurosa y valiente denunciante de la mafia corrupta de los Kirchner, a través de su cuenta de Twitter escribió: \"Hace años que advertimos en la justicia sobre la búsqueda del botín, que ya dejó un crimen espeluznante como el de Fabián Gutiérrez\", aclaro, secretario personal de Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Afirma que, una vez más, se está protegiendo a los Kirchner y a la mafia que custodia el botín. Y remata: \"Criminales, el país nos está mirando\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Santa Cruz ha demostrado que, gracias a los Kirchner y a un régimen feudal eterno, cada vez es menos santa.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es la cuna de la máxima corrupción en democracia, y habrá más información para este boletín.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2102
+}

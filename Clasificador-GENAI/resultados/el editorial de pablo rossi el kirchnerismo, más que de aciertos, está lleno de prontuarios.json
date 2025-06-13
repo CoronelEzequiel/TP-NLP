@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Quiénes quieren llevar adelante el ajuste económico? ¿Quiénes buscan ordenar la economía y arreglar las relaciones internacionales?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su visión geopolítica, heredada de la era de Berlín, carece de validez en la actual Rusia de Putin, que practica un capitalismo voraz y neoliberal.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como dijo Cristina Fernández de Kirchner, el Estado se retira y el mercado se llena de narcotráfico.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, los mercados perciben que Argentina no muestra voluntad de realizar reformas estructurales.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Ministra de Seguridad, Aníbal Fernández, intenta intimidar con medidas de fuerza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sobran los análisis; lo que manda es la historia, la historia individual y colectiva, el prontuario del kirchnerismo, más lleno de antecedentes judiciales que de aciertos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1387
+}

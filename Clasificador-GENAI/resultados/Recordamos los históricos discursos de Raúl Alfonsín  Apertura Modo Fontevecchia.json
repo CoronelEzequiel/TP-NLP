@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_alfonsin",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Raúl Alfonsín es el padre de la democracia.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"El pueblo unido, sin distinciones entre peronistas y antiperonistas, garantiza al pueblo argentino que no vamos a fracasar.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Con la democracia, no solo se vota, sino que también se come, se cura y se educa.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2473
+}

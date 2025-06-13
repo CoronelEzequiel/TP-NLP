@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.683,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ella está siendo acusada en un juicio oral y público por ser jefa de una asociación ilícita que, manejando todo el Estado, favoreció a su socio comercial Lázaro Báez solamente en Santa Cruz con 51 obras, contratos por 47 mil millones de pesos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fiscal dijo que de esas cinco obras, sobreprecios de 5 de 51, eran 200 millones de dólares.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, lo digo con total respeto, empieza a comentar partidos de fútbol.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella es la acusada en un juicio con tres toneladas de pruebas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina tiene a su sobrina, Natalia Mercado, como fiscal en el Calafate.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A su sobrina, Lázaro Báez le compró una casa por 150.000 dólares, cuando valía menos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2469
+}

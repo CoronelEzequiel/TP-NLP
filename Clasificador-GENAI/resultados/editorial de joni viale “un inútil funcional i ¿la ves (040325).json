@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.707,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuidado con tu gente más cercana porque te puede traicionar cuando menos lo imaginas.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo sigo creyendo en una Argentina con diálogo en la que se pueda pensar diferente y no te agredan, no porque pienses diferente vas a ser el enemigo, ni me digan Lali Depósito y todas esas cosas, no.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La estabilidad económica que estamos conquistando no significa que hemos llegado a puerto, pero sí que estamos cada día un poco mejor, como ya se viene comprobando con la sostenida recuperación salarial de los últimos nueve meses.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estados Unidos no le suelta la mano a Milei, con el quilombo que tienen de algo estoy enterado, lo que está diciendo es, están ok, está ok la tuya, los 10.000 dólares del fondo van a estar, me parece entender eso, por eso hoy volvieron a subir los, había gente diciendo se derrumba, dio todo verde, ¿no?",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo diría, Milei, Caputo, todos los días apenas se levanten, deberían rezarle a San Kicillof para que siga siendo el mismo inoperante de siempre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El ministro le dijo hoy que el mejor es Bukele, el ministro progre le dijo que es Bukele.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso insisto, la ineptitud del gobernador le es absolutamente funcional a Milei.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3825
+}

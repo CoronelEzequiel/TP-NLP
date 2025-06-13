@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, estamos… vamos a presentar a Marcelo \"Chelo\" Figueroa.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Uno de los puntos altos, si no el más alto de esta gestión, es este pase.",
+      "score": 0.15,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Así que bueno, nada. La historia sigue. Por suerte todavía somos jóvenes.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A nosotros nos duele que te vayas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y sabés, la parte por el clima de buena predisposición, siempre permanente, a cualquier hora.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les deseo éxitos, que nos quedan días intensos todavía.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1749
+}

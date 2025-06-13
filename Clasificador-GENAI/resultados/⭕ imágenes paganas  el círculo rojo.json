@@ -1,0 +1,36 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ese es un rostro de la Argentina, de una minoría, mientras la mayoría sufre las consecuencias del plan económico sobre la economía real y sobre su vida cotidiana.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si vos tenés una macro delineada en función de, en primer lugar, pagar la deuda fraudulenta, pero también rebajar impuestos a los ricos y ajustar a los más pobres, si el equilibrio se logra de esta manera, bueno, la micro está cantada: menos salario, menos jubilaciones, menos consumo de los sectores populares, más tarifas, mayor desempleo, precarización, etcétera, etcétera.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La sociedad argentina tiene el nivel de estallido, comillas, que las direcciones conservadoras de los trabajadores o del movimiento popular le permiten tener.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si ante este escenario no transara cada uno por su lado y se unificara, podríamos tener, quizá no un estallido, porque tampoco los estallidos, ciegos, sordos y mudos, para decirlo de alguna manera, son la panacea de la protesta.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las primeras movilizaciones del movimiento de mujeres, por ejemplo, el 24 de marzo, también las primeras concentraciones de la CGT a tribunales, por ejemplo, recuerdo, acciones convocadas casi para que fracasen, es decir, sin preparación, en horarios pésimos, en lugares complicados, y sin embargo siempre superaban las expectativas, es decir, hasta las peores convocatorias tenían buena respuesta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2834
+}

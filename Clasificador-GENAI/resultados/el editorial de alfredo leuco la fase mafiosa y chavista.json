@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Después de su golpe palaciego, los dos pilares del nuevo gobierno de Cristina son la metodología mafiosa y la ideología chavista.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una costumbre nefasta del peronismo es involucrar a toda la sociedad en sus peleas feroces.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy hablando de La Cámpora, de la guardia de hierro de Cristina y del movimiento de Evita, la brigada en la que se escuda Alberto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La extorsión, la violación de la intimidad de las personas, las amenazas de carpetazos son el ADN de los instrumentos mafiosos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso es incomprobable, pero Luis D'Elía, ex fanático cristinista y hoy fanático albertista, fue el que responsabilizó a Cristina de una persecución contra los piqueteros que lidera el diputado Juan Carlos Alderete.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso se llama chavismo y poder absoluto, como lo llamó hace unos días Patricia Bullrich.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo más inquietante de esta batalla campal puertas adentro del gobierno es que lo hacen con saña y alevosía.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2292
+}

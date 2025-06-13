@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_rosario",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Y tratamos de trascender la grieta donde cada uno utiliza los temas del día, en este caso, el tiroteo que sufrió el supermercado de la familia política de Messi para fines electorales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo pienso que el problema de la inflación tiene el mismo origen y las mismas dificultades que el problema de la droga, que tiene que ver con la pobreza. La pobreza es la que genera condiciones de posibilidad para que problemas que se dan en todas partes del mundo se den en mayor proporción en determinados lugares.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como se ve, el problema no es de simple solución, como cuando dijo Macri que la inflación era fácilmente solucionable.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, entre los audios que nosotros tenemos, vamos a tener tanto el de Patricia Bullrich, que dice que es fácilmente solucionable, como el de también Sergio Berni.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La policía de Santa Fe es parte del problema, como los políticos de Santa Fe son parte del problema. Cuando los problemas son estructurales, como los que acabamos de mencionar, son un síndrome. Tienen toda la estructura de alguna manera corrompida o enferma.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4794
+}

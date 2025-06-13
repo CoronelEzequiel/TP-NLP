@@ -1,0 +1,56 @@
+{
+  "texto_id": "Operativo de Despegue",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.689,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El psicópata definitivo. Se parece mucho a Eliseo, ¿no?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El hombre que creó el Ministerio de la Mujer, al parecer, golpeaba a su mujer.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema que tienen los kirchneristas es que están dándose cuenta de que están llenos de corruptos, de violadores, de abusadores y de golpeadores.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero me parece que muchos sabían todo, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto fue una desgracia, pero Massa también fue una desgracia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros no podemos tener ni corruptos, ni pajeros, ni el amante de tal, ni la amiguita de tal cual, del otro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto es claramente un psicópata que se la pasó hablando de feminismo y feminismo y parece que golpeaba a su mujer.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El problema no es que sean violentos, sino boludos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Síntoma inequívoco de que todo se trata de un gran relato. No importa la humanidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4271
+}

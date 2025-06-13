@@ -1,0 +1,86 @@
+{
+  "texto_id": "entrevista_gines_gonzalez_garcia",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.107,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, la situación es realmente grave. Ha habido una disparada de precios y, lamentablemente, una vez más se demuestra que en salud, un mercado sin regulación estatal genera un mercado negro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se deja que el mercado dicte los precios, ocurre precisamente esto: el gasto de bolsillo de las familias aumenta considerablemente en un momento difícil para todos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, en todo el mundo se regulan los precios de diversas maneras, pero nunca se los deja completamente libres de la manera tan drástica como aquí.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, lamentablemente, la salud pública está en una situación complicada, con bajo presupuesto y pocas posibilidades.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, claro, como vienen haciendo. Esta situación es difícil y, sobre todo, se caracteriza por la falta de una mirada crítica del gobierno.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un sistema de valores no permite que la sociedad abandone a sus enfermos. Claramente, no se puede dejar todo en manos del mercado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lamentablemente, en nuestro país hay un enamoramiento con el mercado para todo, lo cual se refleja en los altos precios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso digo que es necesaria una intervención estatal importante, teniendo en cuenta la historia de Argentina, que no es un país que no haya lidiado con estas situaciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En salud es un poco más difícil, pero creo que ningún Estado moderno deja en manos del mercado cuestiones tan críticas como la educación o la salud.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos dejar de bromear y empezar a pensar cómo salir de esta situación. Y para los más pobres, salir significa cuidar su salud.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se celebra la disminución del presupuesto, la reducción de la estructura, los despidos… No puedo creer que eso sea parte de la estrategia de un país del cual tener que estar orgulloso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina es lo que es porque ha decidido una estructura de servicios, de contención social y de equidad, porque en el fondo es un problema de equidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si en salud todos somos iguales, si lo perdemos, perdemos la equidad como nación.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso es fundamental cuidar la salud de todos, pero especialmente de quienes menos tienen, ya que su único capital es su capacidad física para trabajar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Momentos difíciles. Nunca viví algo así, una tensión permanente: conseguir insumos, estructura… evitar lo que pasaba en otros países… que nadie muriera sin atención en la guardia…",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5157
+}

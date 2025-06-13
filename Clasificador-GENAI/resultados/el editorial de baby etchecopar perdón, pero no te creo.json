@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.771,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Parece que no dejó un país en buenas condiciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y yo… digo, a todos aquellos que lo denunciaron, que son, por supuesto, simpatizantes del kirchnerismo, y a algunos periodistas… ¿han visto cómo se comportan en los estacionamientos de los canales de televisión?",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, no veo mucho entusiasmo en la gente porque saben que son mentirosos.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me causa mucha gracia ver a algunos políticos que primero criticaron duramente a Cristina Fernández de Kirchner, y ahora la defienden.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo voté a Macri y lo volvería a hacer.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No entiendo cómo se puede pensar que Macri arruinó el país, cuando el peronismo gobernó durante la mayor parte del tiempo y dejó al país en crisis.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente está harta de la corrupción, de las mentiras y de los robos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2051
+}

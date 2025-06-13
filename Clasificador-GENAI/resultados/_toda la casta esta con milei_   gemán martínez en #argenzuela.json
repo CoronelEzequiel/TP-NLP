@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.214,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Cómo no va a ser caliente cuando impulsan una ley que tiene absoluto nombre y apellido, que tiene que ver con este intento que hace diez años están queriendo llevar adelante, que es la proyección política de Cristina Fernández de Kirchner?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un ciudadano común se siente todos los días agraviado, descalificado, violentado por Javier Milei. Bueno, a nosotros nos pasa lo mismo, no somos islas en todo eso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy nadie puede decir que Milei no es el rey de la casta. Toda la casta está con Milei, toda, todita, y el que no está está tocando timbre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ayer todos les pusieron los votos, hasta peronistas, de otro lugar los que se dicen peronistas, que ponen algunos votos para que él sea el jefe del antiperonismo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos en un fenómeno donde lo que quiere es que salgamos todos disparados para los costados y se rompan todos los vínculos de solidaridad con otros, ¿no? Entonces nosotros tenemos que reconstruir esa solidaridad en cada dispositivo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto tiene todo lo malo del menemismo, todo lo malo del macrismo y todo lo fascista de Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Santiago Caputo ya tiene un plan que es sobrevivir políticamente y económicamente más allá de Milei.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5919
+}

@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.831,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La ministra de Salud, con una sonrisa provocativa, confirmó que ella es la que tuvo la nefasta idea de hacerle un homenaje y premiar a Ginés González García.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue como extenderle un cheque en blanco y un certificado de buena conducta a un ministro que es el símbolo de la falta de ética del vacunatorio VIP y de un entramado de corrupción insoportable a la hora de afrontar semejante drama.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como si esto fuera poco, fiel a su soberbia, Ginés dijo que no se arrepentía de nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por más intentos de lavarle la imagen que hagan sus compañeros de la pésima gestión, para Ginés ni olvido ni perdón.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo grave es que semejante personaje demuestra que hay un peronismo o kirchnerismo anquilosado y jurásico que se recicla y que es incapaz de modernizar sus ideas y sus dirigentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Se acuerdan cuando Alberto, con la cara de acero inoxidable y como si no fuera profesor de derecho -que no lo es, solo docente-, dijo que no se cometió ningún delito porque no es delito vacunar a alguien que se adelantó en la cola?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No tienen vergüenza.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Me refiero al presidente decorativo de la nación, Alberto Fernández, porque en esto Cristina no se metió.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Con la vida de los argentinos, no.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Gobierno de científicos, las pelucas, mediocres y chantas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Insisto, no pegó una.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿van a destruir la salud también, como ya han hecho con la economía, la educación, la seguridad y la justicia?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Volvió el tránsfuga, el que se tomaba un vinito en Madrid con una señorita.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2539
+}

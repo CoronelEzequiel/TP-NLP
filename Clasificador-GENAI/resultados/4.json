@@ -1,0 +1,41 @@
+{
+  "texto_id": "La Bahía de los Americanos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.108,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos que empezar a trazar la estrategia del Plan B.  Plan B, como dijimos siempre, es el proyecto de gobierno que le vamos a presentar a nuestro electorado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ese llevar adelante significa el programa, como vos dijiste, y en primer y segundo lugar, los hombres o las mujeres, ¿no?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después se incumplieron en las PASO estilos y formas, pero creo yo que lo más prudente, lo más inteligente que podemos hacer dentro del peronismo es analizar bien hacia dónde vamos a dirigir la política, qué poderes vamos a enfrentar, cómo lo vamos a enfrentar.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que consensuar cuáles son las medidas profundas que no pudimos tomar hasta ahora y que debemos tomar, y bueno, la gente elige libremente quien le gusta, pero también sabiendo que si el candidato que le gusta, bueno, no se tiene que negar a unirse, no, porque acá lo que está en juego son dos modelos de país, desde los más peronistas a los menos peronistas, porque ahora todos usan el “peronómetro”, sabemos que a nuestros enemigos los tenemos enfrente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El enemigo es aquel que me viene a destruir, y está claro que en la oposición, tanto del PRO, como de los libertarios, como la La Libertad Avanza, todos esos nombres raros que le ponen, hablando de republicanismo, quieren destruir la República, y encima tienen la herramienta de la Corte Suprema para poder interferir en la democracia, pero bueno, no tengo mucho que pensar a la hora de poner el voto.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo, sea quien sea, el candidato o candidata, es la única oportunidad que tienen los humildes para poder resurgir de sus miserias.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3060
+}

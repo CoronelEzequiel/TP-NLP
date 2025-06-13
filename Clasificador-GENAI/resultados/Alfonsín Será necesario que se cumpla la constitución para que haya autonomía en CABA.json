@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Así que vamos a tratar de hilar lo que viene de unitarios y federales hasta llegar a hoy.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la Constitución de 1853 se pretende federalizar la ciudad de Buenos Aires y la Constitución declara que la capital federal de la Argentina es la ciudad de Buenos Aires, lo que no es aceptado por Buenos Aires.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una geopolítica alrededor de Buenos Aires.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto también tiene que ver con cambios tecnológicos. En el pasado, la televisión iba por aire y llegaba, tenía una capacidad de irradiar a 150 kilómetros. Cada provincia tenía su canal de televisión. A partir de los cambios tecnológicos en los últimos 20 años, los canales de televisión son nacionales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es decir, en realidad la idea de territorialidad es una construcción mental en la cual, por ejemplo, en Brasil se cuenta que fue Globo la que hizo una red nacional, o sea, la cadena de televisión, cuando el mismo programa se veía en todo Brasil, que se logró unir a Brasil en un concepto de nación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina, no se va a quedar con la ciudad de Buenos Aires.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5592
+}

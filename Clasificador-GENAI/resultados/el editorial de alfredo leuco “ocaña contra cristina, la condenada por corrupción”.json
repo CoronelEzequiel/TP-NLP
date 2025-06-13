@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.87,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La inmensa mayoría del pueblo sabe que Cristina es la mujer más corrupta de la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa es una verdad indiscutible.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella es la persona que más daño le hizo a la democracia argentina y que más daño le puede seguir haciendo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso es la persona menos indicada para sugerir la corrupción de alguien, porque ella es la campeona mundial de la corrupción.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el apellido Kirchner es sinónimo de corrupción y así serán recordados por la historia.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1881
+}

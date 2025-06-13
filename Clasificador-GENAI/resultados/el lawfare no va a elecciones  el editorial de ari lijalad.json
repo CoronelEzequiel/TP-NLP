@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.345,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner ofrecerá un discurso en la Plaza de Mayo, que seguramente estará repleta de público esperando definiciones y señales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alega varias razones para no postularse, incluyendo cuestiones personales, como la necesidad de su hija, o su propio estado físico y emocional, que la incapacitarían para afrontar una campaña presidencial.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi argumento se basa en la dimensión económica del caso, ya que, desde hace años, sostengo que el \"lawfare\" es una herramienta económica, no simplemente penal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Observamos una correlación entre las decisiones económicas de Macri y las maniobras judiciales posteriores.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez que Macri tomaba una medida económica que agravaba la situación del aparato productivo del país, se producía una fuerte reacción judicial para contrarrestar la repercusión negativa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no es candidata, cree evitar la intensificación de las acciones judiciales justo antes de las elecciones y dejar de ser un blanco fácil para la derecha.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, la derecha ya ha definido su plan económico, similar al de Macri, pero más agresivo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que Cristina seguirá siendo perseguida, sea o no candidata.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Poder Judicial la perseguirá si gana la derecha y busca implementar su plan económico.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, las acciones judiciales serán más intensas.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que sí es seguro es que el \"lawfare\" no se detendrá.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1915
+}

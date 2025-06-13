@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta situación es inédita en la justicia bonaerense: cinco indagatorias esquivadas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto se relaciona con cómo la clase política suele mostrar privilegios,  viviendo una realidad diferente a la del ciudadano común.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los funcionarios públicos son empleados de los contribuyentes, no al revés.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La negativa de Pablo Moyano a presentarse a indagatoria no proyecta una imagen de transparencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1027
+}

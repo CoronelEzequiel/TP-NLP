@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.705,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El desgobierno de Alberto Fernández, Cristina Fernández y Sergio Massa multiplicó la pobreza y la indigencia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sólo quedaron afuera los talibanes del chavismo K, que son incapaces de pensar la vida colectiva sin la trampa y el oportunismo político.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Derrotamos a todos los fantasmas y a los energúmenos que quisieron estigmatizar a un ex presidente acusándolo de mufa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Soportamos al peor gobierno de la historia en su peor momento.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bancaron a dictadores y golpistas de cuarta.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Negaron y fogonearon la corrupción más grande del siglo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miraron para otro lado y defendieron a los delincuentes que nos arruinaron la vida y, como si esto fuera poco, súbitamente, nos llevaron a un precipicio social y económico que explotó en la inflación y la indigencia.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Veníamos muy golpeados por tanta miseria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta realidad dolorosa es la que tenemos que derrotar por goleada, codo a codo, con los mejores argentinos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un motor que nos empuja, que nos entusiasma y nos saca lo mejor de nosotros.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como el genio de Messi, que diseñó varias obras de arte colosales en la final mejor jugada y más dramática de la historia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2642
+}

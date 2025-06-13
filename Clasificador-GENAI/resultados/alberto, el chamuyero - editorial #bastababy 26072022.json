@@ -1,0 +1,76 @@
+{
+  "texto_id": "Alberto_Fernandez_hablo_hoy",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.895,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Los argentinos no son \"pelotudos\" como los que siguen a Alberto y planean ir a la Rural.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Me ha cansado la cantidad de estupideces que dice Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y encima quieres sacarle la plata al campo, a la gente que ha trabajado duro, que se enfrenta al granizo, a las plagas, al calor, a la sequía.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Después escuché a Patricia Bullrich y me dieron ganas de aplaudirla, porque volverá Patricia Bullrich.",
+      "score": 0.98,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tú y Cristina están terminados y buscan el conflicto para convertir esto en Venezuela y poder gobernar como en Venezuela.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora mandas a cuatro \"boludos\" a la Rural a atacar al campo, esos que nunca vieron una pala.",
+      "score": 0.92,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes tienen que ser juzgados en tribunales y condenados, porque no es fácil robarle toda la plata a un pueblo como se la robaron ustedes y sus socios, y después atacar al campo.",
+      "score": 0.97,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mira qué pasa si el sábado los gauchos atropellan a caballo y a \"lonjazos\", a ver quién queda, porque una vez pasó, ¿te acuerdas cómo fueron a hacer los \"pelotudos\" a la Rural?",
+      "score": 0.99,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y acá arranca.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y sos un hombre grande que nos van a hacer, nos van a perseguir a los periodistas, nos van a silenciar al pueblo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se acabaron las mentiras, se acabó Alberto, el \"fallador de boliche\", se acabaron tus mañanas campestres y tu muchacho \"ajo de papel\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y no le saquen al campo, ya que le dan a los ladrones.",
+      "score": 0.93,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Andate, Alberto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3070
+}

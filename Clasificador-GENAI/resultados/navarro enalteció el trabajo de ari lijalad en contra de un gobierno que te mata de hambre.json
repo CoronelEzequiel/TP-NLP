@@ -1,0 +1,111 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.08,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hace un par de semanas, el gobierno le negó medicamentos a personas con enfermedades graves, muchas con cáncer.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se obstinó en no entregarlos, incluso denunciando corrupción en la entrega ante la justicia, denuncia que fue desestimada por un juez.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Paralelamente, Milei continuó con su discurso sobre el hambre, iniciado en campaña, enfrentándose a Petrocelli.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su discurso sobre el hambre es ajeno a la realidad del hambre que sufren los demás.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pasaron toda la semana obstaculizando la entrega de alimentos a quienes los necesitaban.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, Beto Veloz y gran parte de sus seguidores parecen reflejar esta condición.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El modelo de gobierno de Milei se asemeja al discurso de ajuste del empresariado argentino, presente en los medios de comunicación.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quieren pagar pocos impuestos, por lo que desean un Estado mínimo, con solo ocho ministerios.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta semana fue una lucha por la entrega de alimentos a quienes los necesitaban, un gobierno renuente a atender las necesidades de la población, incapaz incluso de hacerlo si quisiera.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, le otorgó cuatro ministerios a una mujer que hasta hace poco era productora televisiva, sin experiencia política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Beto Veloz se enfrentó a la justicia para evitar la entrega de alimentos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tras revelarse la existencia de alimentos próximos a vencerse, se empeñó en dejarlos pudrir antes que alimentar a la población.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay muchas historias que prefiero olvidar. Los Majul, los Lanata, los Trebuch, esa especie de genocidas mediáticos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si en la dictadura existían quienes secuestraban y asesinaban, hoy matan por enfermedades graves, hoy matan de hambre.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivimos de nuevo en tiempos oscuros donde un gobierno condena a muerte a muchos, encubierto por genocidas mediáticos y con el apoyo de una parte de la sociedad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luchó con su trabajo, honestidad, convicciones, rigurosidad y perseverancia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se enfrentó a Milei, Petrocelli, a los encubridores y a sus cómplices en redes sociales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los venció.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, se rindieron y acordaron entregar los alimentos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los niños tendrán leche porque mientras haya alguien que luche, hay esperanza.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2081
+}

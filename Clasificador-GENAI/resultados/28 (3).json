@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_telam",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creemos que una agencia de noticias y publicidad pública es esencial para la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es lamentable que se celebre el cierre de un medio público, argumentando una mayor libertad de prensa, cuando en realidad se atenta contra ella.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Logramos reconstruir una agencia clave para el federalismo, la pluralidad y la soberanía informativa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente cumplirá su promesa de campaña. Pero para cerrar Télam se necesita una ley del Congreso.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1362
+}

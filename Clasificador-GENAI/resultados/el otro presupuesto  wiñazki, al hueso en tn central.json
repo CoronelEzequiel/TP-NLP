@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Son los nuevos cargos que se crean en la provincia de Buenos Aires porque mañana, si son habitantes de la provincia, tal vez no lo sepan, se votará en el Senado y en la Legislatura, en la Cámara de Diputados de la provincia de Buenos Aires, el presupuesto provincial.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "10.000 son para el Ministerio de Seguridad, para el ingreso de nuevos efectivos policiales (este punto es quizás el menos polémico).",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Eso se quiere arreglar. ¿Cómo? ¿Entre quiénes?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos de esos impuestos pueden ser repartidos por los legisladores, millones de pesos cada uno.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una excepción en la Cámara de Diputados y en el Senado de Buenos Aires con la nueva integración de sus miembros electos en las últimas elecciones: se discutirá hasta cuándo pueden ser reelegidos los intendentes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2088
+}

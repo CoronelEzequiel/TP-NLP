@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.731,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Kirchner, hoy, realizó una acción que muchos consideran un nuevo golpe de Estado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras él intenta solucionar la deuda externa, ella afirma que no se pagará.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La falta de respeto hacia él es terrible.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El país está destruido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner, hay muchas cosas que usted ignora.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes no tienen la altura moral para representar a todos los argentinos; representan solo a un núcleo duro, a quienes les creen.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner, acostumbrada al escrache contra todos los políticos argentinos, olvida que tanto ella como Néstor Kirchner, cuando pidió disculpas en nombre del gobierno argentino, son políticos de cuarta categoría.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En medio de los graves problemas que enfrenta Argentina, ustedes se pelean por el poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, me gustaría que el 24 de marzo, quien sea el gobernante (ya que se rumorea que Alberto Fernández quiere renunciar y Cristina Kirchner quiere sacarlo), recuerde a las víctimas de la subversión, de los extremistas, de los asesinos, de los militares de la dictadura.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos decir “nunca más” a los militares en el gobierno, pero también a los mentirosos, a los corruptos, a los que se roban el país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes, Cristina Kirchner, le hicieron mucho daño al país y continúan haciéndolo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su egocentrismo y sus actos contradictorios nos llevan a la desesperación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Somos unos payasos!",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2277
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "cgt_jambles",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.417,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hemos sido muy claros cuando, luego, el día 24 de enero, en nuestra querida provincia de Corrientes, el Consejo Directivo, harto de promesas, programaba su plan de lucha en busca de encontrar la sensibilidad social que el gobierno no tenía.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que me parece altamente censurable y condenatorio es que, escudándose en una organización sindical, se apunte hacia un aspecto político, como es el sistema comúnmente denominado de privatizaciones, desde la perspectiva o desde la lucha del campo social.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá vino un hombre que cambió la vida del país, Carlos Menem.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No habrá paz sin justicia social.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ningún gobierno en los últimos años hizo más por los jubilados.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos en un momento crítico, un momento que no es casual, un momento que viene como consecuencia del endeudamiento del gobierno anterior, tanto con bonos privados como con el Fondo, y la realidad es la que tenemos hoy. Tenemos un proceso inflacionario muy grande, tenemos debilidad en el tema reservas y, en este escenario, tenemos dos caminos. Un camino es el que marcan los sectores de concentración económica y financiera, y muchos de los que especulan en términos de sus ganancias y su rentabilidad a partir de las exportaciones, que tienen que ver con lo que pretenden: salidas devaluatorias, de shock devaluatorio, suba de tarifas, etcétera, etcétera. Esto lo único que genera es un empobrecimiento colectivo, con la consecuencia segura de pasar otro pedazo más de la población a la pobreza estructural, de la que después no terminan de salir nunca.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2720
+}

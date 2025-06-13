@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Existe una tentación, una confusión, en los periodistas, me incluyo, y en los analistas políticos, a veces, de confundir el rotundo triunfo de Javier Milei en el balotaje y asociarlo a aquel 54% de Cristina Fernández de Kirchner en 2011, aquel del \"vamos por todo\", ¿se acuerdan?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ojo, porque, bueno, acá está el kirchnerismo, el peronismo, acá está **Víctor Hugo Morales**, que dijo: \"No me sacan ni muerto si van por aroliñas\", Juntos por el Cambio; acá está **Emilio Monzó**, que dijo: \"Vamos a hacer una oposición razonable\", está **Pablo Beltrán** que está en contra de Milei, acá está **Juan Grabois**, que dijo: \"Quiero que le vaya mal\", dijo Grabois.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no se confunde y sabe, por lo que uno ve, y ahora lo vamos a analizar, que en realidad lo que cuenta es el resultado de la primera vuelta, pongámoslo: ¿qué es este 30%?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Claro, cuando uno le habla al 55% no le habla del mismo modo que al 30% que aplaudía la motosierra, el Milei enérgico; esto cambia, no solo el discurso, porque acá no cuenta el Milei enojado, sino también, probablemente, la conformación del gabinete.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Presten atención a una palabra que para los diplomáticos es decisiva, que dice Diana Mondino. Esto le contestaba hoy a Feinmann: \"Nosotros vamos a estar ubicados en algo que es una palabra larga: multilateralismo, en donde no vamos a estar solamente con un grupo y en contra de otro grupo. Pero las políticas que vamos a llevar a cabo son las políticas propias de una democracia liberal.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo quiero recordarles que ganó un candidato que enarbolaba una motosierra, que decía: \"No vamos a tener problema con el Fondo Monetario porque el ajuste que proponemos nosotros es mucho más fuerte\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5856
+}

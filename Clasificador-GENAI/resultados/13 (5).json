@@ -1,0 +1,56 @@
+{
+  "texto_id": "Con movilidad reducida",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.389,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de la Ciudad Autónoma de Buenos Aires había avanzado en algunos barrios hasta que Jorge Macri decidió despedir a la funcionaria que trabajaba en este tema, quien, a mi juicio, realizaba una labor interesante en algunos casos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué plan tiene usted al respecto? Primero, convocar a María Migliore.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una excelente persona, con un gran corazón, muy respetada, que se desempeñó como ministra en un gobierno donde lo social no era prioridad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, la gente cercana a Martín Lousteau; Leandro Alperín, quien fue diputado de Martín Lousteau hasta hace muy poco tiempo, representa al radicalismo orgánico de la UCR.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En materia de seguridad, debería ocupar un lugar importante.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imagino un gobierno de coalición, con todo el radicalismo orgánico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo mismo creo que debería hacerse con los socialistas y la gente progresista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me encantaría incluso incorporar gente de la Coalición Cívica, que sé que es muy heterogénea y creo que ayudaría mucho a recomponer la confianza de la sociedad en la política.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi propuesta es sencilla: hacer una gran convocatoria al progresismo y construir un gobierno de coalición, basado en un programa de gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1355
+}

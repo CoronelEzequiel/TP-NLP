@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.643,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No voy a hacer arte para que lo lean, porque no son creativos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero el cargo en el carnet Scene.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No tuvimos un día sano en Argentina, hace 70 años que venimos luchando, la sangre, la fama, el secuestro...",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nos robaron la Argentina...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "hace 70 años que vienen robando la Argentina...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "una dirigente política...",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "para eso perdieron y ahora van a volver a perder... tienen que volver a perder por robarme...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1801
+}

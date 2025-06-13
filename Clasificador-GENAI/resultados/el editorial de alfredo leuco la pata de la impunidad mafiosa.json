@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.822,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Ambos se disputan el manejo del poder extorsivo y de la caja del gremio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo más terrible para la sociedad es que ambos tienen razón y que las dos facciones militan en el peronismo kirchnerista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ferocidad que ejercen y la impunidad de la que gozan hicieron que uno de los agresores atropellara a otro que iba en moto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los muchachos mostraron un parque automotor de alta gama, digno de empresarios exitosos y no de humildes albañiles.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estos malandras, cómplices del kirchnerismo, son la confirmación de que, sin una reforma laboral en serio y a fondo, Argentina no podrá salir del pozo en el que se encuentra.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es el realismo trágico de un kirchnerismo que siempre se coloca del lado de los delincuentes.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Medina banca su aparato con delitos de todo tipo, desde la tradicional coima que les cobraba a los empresarios de la construcción para no hacerles la vida imposible, hasta la extorsión a la que nos sometía, obligándonos a controlar empresas de catering y de transporte que eran de testaferros de \"el Pata\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Medina se llena la boca hablando de Perón, de Evita, de Cristina, de la defensa de los trabajadores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero él tiene un nivel de vida imposible de explicar, igual que los Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2391
+}

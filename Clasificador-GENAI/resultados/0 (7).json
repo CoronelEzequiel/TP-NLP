@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.307,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si podemos aportar algo a esas causas, bienvenido sea, además de esclarecer la muerte.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siendo su hermano y conociéndola bien, él apostaba a que allí encontraríamos información relacionada con los hechos sucedidos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siempre quedará la duda de si el contenido que nos facilitarán es el total o si ha sido manipulado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Resulta extraño que hace unos días Gendarmería informara el tiempo estimado para la apertura y que, casualmente, se haya abierto tan pronto.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que pasa es que, a juzgar por lo que recordamos de lo que dijo Natalia en los meses previos a su muerte, es evidente que más de uno debería estar muy nervioso.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que si los borraron bien, no queda rastro.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siempre que se borra algo queda una huella, dicen, pero en este caso lo borraron.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1603
+}

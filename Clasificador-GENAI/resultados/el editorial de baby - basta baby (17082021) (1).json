@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.783,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Son un desastre, ¿no? Son un papelón.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son las piedras que ustedes tiraban, las 120 toneladas que tiraron para voltear el gobierno de Macri, ¿se acuerdan?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y votan a Milei, por ejemplo, porque tiene algo diferente, algo nuevo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a los viejos los convirtieron en jubilados y los estafaron, Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque a mí, la verdad, Alberto Fernández me importa un carajo. A mí me importa Cristina Fernández de Kirchner, que es la que armó todo este zafarrancho, la que se pone al frente del escenario: \"¡Nosotros!\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, no le tengo miedo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2978
+}

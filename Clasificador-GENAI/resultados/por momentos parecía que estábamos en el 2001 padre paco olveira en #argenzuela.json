@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.14,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lo veía ayer ahí luchando contra la policía.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como dijo el presidente, 'tiemblen zurdos de mierda que van a correr'.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La única forma de que nosotros podamos enfrentar a este gobierno es estando en las calles.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había medio minuto, porque hubimos que salir corriendo, una viejita decía 'yo cobro la mínima y me sacaron los remedios', se te cae el alma a los pies.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el mejor de los tiempos que decían en la época de Néstor y Cristina, había un 23, un 25% de pobreza, bueno yo vivía con ellos, pero había un estado que estaba presente y que permitía a ese 23, 25% pilotear la situación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1972
+}

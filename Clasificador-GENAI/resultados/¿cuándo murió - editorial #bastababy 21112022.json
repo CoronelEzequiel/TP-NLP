@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.871,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Ebe de Bonafini es producto de una sociedad ignorante y corrupta, pero allá en los años 80, cuando yo iba a las marchas, cuando llegaba a Bonafini... No, no era Bonafini en ese momento, eran las madres, todas las madres.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bonafini me lastimó mucho a mí, a usted y a todos, cuando dijo que en Malvinas se tenían que haber quedado, que no tenía que haber vuelto ninguno con vida, cuando brindó por los muertos de la Torre Gemela, cuando brindó por el juez... ¿Cómo se llama?... Zaffaroni.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo voy a decir que era una mujer que se aprovechó, que agarró justo, como Cristina, el camión de los derechos humanos, y usó los derechos humanos para su beneficio, para hacer negocios y para blasfemar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Siempre tuve la teoría de que ella no era la madre de un desaparecido, sino que el hijo desapareció por una madre como ella.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Realmente no tengo ningún respeto por ella, sinceramente no sentí ningún dolor por ella, pero sí por mí, que perdí tantos años combatiéndola y diciéndole las cosas que le decía al aire, que ella nunca contestó porque sabía muy bien dónde le ajustaba el zapato y sabía muy bien quiénes éramos los que conocíamos su forma de delinquir.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ebe de Bonafini fue una rústica. Amante de... amante no... fanática de querer a Milani, un torturador, un represor millonario.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos falta Carlotto, que a diferencia de Bonafini, y por eso estaban peleadas, maneja el cinismo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2613
+}

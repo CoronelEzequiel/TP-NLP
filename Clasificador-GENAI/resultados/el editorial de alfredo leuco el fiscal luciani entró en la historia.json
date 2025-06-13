@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El fiscal Diego Luciani entró en la historia grande de este país.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos hablando de 12 años de prisión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El robo del siglo de los Kirchner sería material de estudio en las universidades porque está probado que Cristina fue la jefa de una asociación ilícita destinada a saquear el Estado desde el gobierno.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Frente a tantas evidencias irrefutables, el kirchnerismo optó por amenazar a jueces y periodistas, carteles y pintadas, grupos de tareas en las redes y la voz de mando de Roberto Navarro y Hebe de Bonafini, que pidió armar una pueblada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En la desesperación, Cristina recusó a medio mundo, incluido el fiscal, pero no tuvo éxito.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podemos olvidar que la Constitución Nacional, en su artículo 36, iguala los delitos de mega corrupción en el Estado con los atentados al sistema democrático.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2226
+}

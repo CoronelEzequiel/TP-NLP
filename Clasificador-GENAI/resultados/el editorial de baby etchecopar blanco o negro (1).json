@@ -1,0 +1,51 @@
+{
+  "texto_id": "show_de_noticias",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pero, en mi opinión, hablan estupideces durante días enteros.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y encima, la gente en la calle… ¡es increíble lo que la gente cree!",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recién vi a Luis Majul, que parecía uno de los Reyes Magos, con esa barba…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya que estamos, recuerden que abrí un kiosko con Turdeira y mañana haré un unipersonal; ¡vendemos todo en una hora al mismo precio!",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en medio de hablar de Evo Morales, dice: \"¿Evo es blanco o negro?\".",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hay un fascista, un hijo de puta… yo no soy fascista, soy periodista, perdón, peronista… ¡hijo de puta!",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con respecto a Evo Morales, no rompa más la pelota, si fue un golpe de Estado o no.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que tener mucho cuidado, porque nos están cerrando las puertas del mundo, porque no hay dinero, porque nos dejan una deuda terrible, porque hay hambre, porque están tomando terrenos en Moreno de nuevo, porque hay violencia: matan ancianos, matan jóvenes, asaltan todos los días…",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2675
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El doctor Álvarez observó al paciente con atención.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vine a una consulta, pero... hay un problema con el pago. Me dijeron que el voucher de 5000 pesos no era suficiente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El doctor Álvarez frunció el ceño. ¿De dónde sacó esa cantidad de dinero?",
+      "score": 0.6,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La honestidad es crucial en este tipo de situaciones.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "después de una larga conversación donde el paciente intenta justificar la procedencia de sus fondos, el doctor le indica que necesita realizar nuevos estudios y que deberá volver con la documentación correspondiente para proceder con el tratamiento de su pie.",
+      "score": 0.5,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1151
+}

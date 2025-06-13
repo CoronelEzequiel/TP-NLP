@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me aburre Cristina, me aburren los kirchneristas con la pelotudez del odio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando vi la foto de Cristina apuntada por ese hijo de puta… Hubo un antes y un después.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy harto de la discusión bizantina de si era una verdad o no.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estoy harto de hablar en contra para que ellos no crezcan y ellos que hablan en contra para que nosotros no crezcamos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy la generación actual tiene la obsesión de convertirse en víctima.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No existe la palabra odio. Existen las palabras chorros, sinvergüenzas, ladrones del Estado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No rompan más las bolas con Alberto Fernández, querido, vos, que vas en cambio a decirle a los industriales qué solución le vas a dar para el quilombo que tienen, vas a hablar de mí que en la mesa de Juana Viale dije que el cáncer era un cáncer y siguen hinchando la bola.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3171
+}

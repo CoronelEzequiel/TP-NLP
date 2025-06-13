@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis_trump",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, miércoles 6 de noviembre, titulamos esta apertura del día 332, porque se impuso Trump y la ola de extrema derecha.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 65% de los norteamericanos vive al día, al menos 29 millones tienen más de dos trabajos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La caída del sueño americano es fundamentalmente la caída de la clase media.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La victoria de un 'alt-right' es algo más profundo que la victoria electoral de un candidato, una propuesta pragmática. Lo que gana es una manera de entender la vida, en donde los adversarios son enemigos, la realidad es una creencia, el Estado es un lastre y la vida, una competencia descarnada y sin contrapesos, en la que el mérito no define necesariamente el éxito. Gana un estilo, un modo de ser, de vivir y una identidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En momentos de crisis, para los políticos gran parte de su astucia pasa por construir un responsable entre nativos e inmigrantes. Se entiende que hay que controlar la inmigración y que no hay que gastar dinero en quienes ingresan ilegalmente al país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En EE. UU. ganó alguien que representa la crisis de la representación política producto de la aplicación de políticas neoliberales desde el Consenso de Washington.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4027
+}

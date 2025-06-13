@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es una continua emisión de decretos; una \"farmacia abierta\", sin ningún problema aparente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sabíamos que era el primer objetivo. Además, cuentan con el visto bueno del gremio nacional, de Sergio Sasia, que avala la privatización a cambio del 10% de las acciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una coima al dirigente gremial para que apoye la privatización. Lo mismo que Menem, solo que Menem entregó todo el ferrocarril.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre con la complicidad de los victimarios coloniales que permiten esto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se merecen el mote de \"traidores\". Son una lacra, y todos los gobiernos, aunque los critican, negocian con ellos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos el apoyo de la sociedad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2333
+}

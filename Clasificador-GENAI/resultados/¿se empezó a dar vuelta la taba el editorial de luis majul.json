@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Se está empezando a hacer una pregunta inquietante a partir de los números de las consultoras: ¿Se empezó a dar vuelta la taba?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero hay otra pregunta para Su Santidad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La brutal reacción, el lenguaje inusual, del viernes de Jorge Bergoglio, que pasó de Papa a \"gerente de la pobreza\", \"Papa a piquetero\", ¿es producto de su ignorancia sobre lo que pasa en la Argentina, o significa que decidió transformarse, en efecto, en el jefe de la oposición?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No hay nada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque en Venezuela sí son torturadas, desaparecen y mueren personas todos los días.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Milei hizo campaña prometiendo que el ajuste lo iba a hacer la casta aeronáutica.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y lo primero que hizo cuando llegó al poder fue rodearse de la casta y hacer un ajuste tremendo y brutal sobre la clase media, los sectores populares y la clase trabajadora.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La mayoría sigue responsabilizando a los gobiernos anteriores por la actual situación, menos mal, ¿no?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Milei, y en especial el ministro de Economía, Luis Caputo, insisten en que la economía está dando la vuelta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Voy a arrancar un poco por un tuit que yo había puesto hace algunas semanas ya.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Puse 'la inflación va a bajar', efectivamente está bajando.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El semáforo que solía ser mayoritariamente rojo hoy es mayoritariamente verde.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4689
+}

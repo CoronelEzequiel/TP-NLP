@@ -1,0 +1,36 @@
+{
+  "texto_id": "audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que vino a reemplazar Milei no es solamente al gobierno, viene también a reemplazar a la oposición.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obviamente, el carácter sistémico de todos estos males hay que imputárselo al kirchnerismo, pero se extiende también a las fuerzas de la oposición.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un mensaje que es muy difícil de explicar del todo, pero yo lo traduciría de este modo. Si las cosas se complican, si hay una disparada de alguna variable, miren a Massa, no me miren a mí.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos los profesionales coinciden con lo que hace más o menos tres semanas **Domingo Cavallo** planteó en una reunión muy reducida de la Asociación Empresarial Argentina con los principales titulares de empresas del país cuando les dijo: \"Piensen en 2024 convulsionado\". Si las cosas se hacen como deben hacerse, debería haber más inflación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Córdoba, Milei sacó 75% de los votos, Massa sacó 25%.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8776
+}

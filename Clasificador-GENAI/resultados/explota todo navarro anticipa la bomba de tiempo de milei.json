@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Milei permitió que, en primer lugar, subieran los precios de los bienes y servicios privados: alimentos, medicamentos, seguros de salud y combustibles.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se trata solo de un error conceptual de los libertarios, sino de una mala ejecución del decreto de necesidad y urgencia (DNU) implementado por Carlos Melconian junto con los empresarios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El plan de Milei y las opiniones de Majul demuestran una falta de comprensión de esta complejidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La \"libertad económica\" que promueven no existe en ningún país del mundo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema de las prepagas es solo la punta del iceberg de un colapso económico que comenzó el 10 de diciembre.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es necesario frenar a Milei.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1479
+}

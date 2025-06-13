@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.425,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno ya cuenta con instrumentos básicos para gestionar, aunque faltan retoques en la Cámara de Diputados.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es lo que encarna Guillermo Francos, que no es un personaje altisonante, es un producto, un ejemplar de la política clásica o tradicional.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una preocupación del fondo por la atención social. ¿Por qué? Porque están preocupados por la dimensión de la recesión y prevén que va a ser más larga de lo que dice el gobierno.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un gobierno que viene envuelto en las banderas de la libertad y convalida o impulsa este tipo de mantenimiento de sistemas tan raros como se hace en el caso de los sistemas de protección que existen en este caso en la isla de Tierra del Fuego.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8635
+}

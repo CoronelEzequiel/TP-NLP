@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.804,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Votar es como esconder la cabeza en la urna, pero cuidado, tu culo se queda afuera y cuando tu culo se queda afuera, te podrían agregar, te empoman, sí, te empoman, te engrampan.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No cabe un chorro más en el gobierno ni un imbécil más en la política. Son como una especie de castigo para la sociedad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Kirchner son ricos, Máximo tiene una fortuna de, escuchá bien, 400 millones de pesos y te preguntas ¿para qué quieren tanta guita?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo es una tragedia.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es más mala que Cruella y que Maléfica juntas.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pertenecer tiene sus privilegios, ellos ricos nosotros pobres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con nuestros impuestos, bancamos esa universidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8789
+}

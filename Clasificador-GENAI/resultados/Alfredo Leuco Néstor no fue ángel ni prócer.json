@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No creo que la desaparición física transforme en ángeles o próceres a las personas que en vida no lo fueron.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No comparto la idea, que algunos intentan instalar, de que Cristina es mala, pero Néstor era bueno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por el contrario, creo que ambos formaron un sólido equipo para acumular dinero y poder con una codicia pocas veces vista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo el mecanismo de la estafa fue idea y dirección de Néstor, pero cuando él falleció, fue Cristina, hace ya once años, quien heredó la fortuna y continuó con el plan sistemático de kleptocracia, de sobreprecios, coimas y lavado de dinero.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina ha sido mucho más dañina, por supuesto, que Néstor, en lo económico y en la multiplicación del autoritarismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor no fue un prócer ni un santo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor se aprovechó de una nefasta ley de la dictadura y se dedicó a embargar las casas de los deudores, como un abogado voraz y usurero.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2203
+}

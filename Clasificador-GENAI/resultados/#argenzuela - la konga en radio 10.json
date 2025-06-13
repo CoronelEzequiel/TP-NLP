@@ -1,0 +1,36 @@
+{
+  "texto_id": "La_Konga",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es nuestro objetivo. Podemos, ahora, hablar de que vamos a ir dentro de poco a algunos países. A Uruguay, vamos a estar por Bolivia.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nuestra cruzada es llevar nuestra música lo más lejos posible, como bandera.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Somos un grupo muy unido. Somos una gran familia. Creo que eso se nota arriba del escenario, disfrutando de los Gran Rex y, bueno, disfrutando de que la gente cante nuestra canción.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que bueno, fue un cambio en su principio, pero hoy ya tengo casi 25 años de carrera y estamos trabajando para seguir creciendo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hemos tenido la suerte de hacer con Luck Ra. En 70 días fue reversionado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2956
+}

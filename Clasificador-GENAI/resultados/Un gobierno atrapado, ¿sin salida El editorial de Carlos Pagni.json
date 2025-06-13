@@ -1,0 +1,36 @@
+{
+  "texto_id": "Audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno acaba de dar una respuesta, la que preveía imaginariamente la tesis de Felipe González, que es encontrar un enemigo, Edesur, e intervenir la empresa con un intendente, Jorge Ferraresi, intendente de Avellaneda, que va a manejar la empresa energética mientras sigue gobernando Avellaneda.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daría la impresión de que promete corregir el tema si algún día llega al gobierno. Pero tuvo un episodio desagradable, un escrache en el bar Británico de San Telmo, probablemente se han mirado las encuestas y se salió de esa línea de explicación para decir: “La culpable es Edesur” y le voy a meter una denuncia penal.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora se interviene la empresa. Bueno, va a haber toda una discusión jurídica de si hay o no un marco regulatorio que permita intervenirla. Seguramente vamos a encontrar argumentos de uno y otro lado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos gente indignada y una salida demagógica, que es decir: “El culpable es la empresa, la vamos a intervenir”. Esa salida es mucho más simple.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri ¿qué hace? ¿Se va a postular o no? No importa, porque ni él lo sabe. Lo que hay que mirar es lo que hace todos los días: campaña para presidente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8375
+}

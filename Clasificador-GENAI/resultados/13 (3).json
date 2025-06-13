@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.165,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que la medida tomada, y que ahora analizaremos con mayor detalle, refleja la insensibilidad del gobierno hacia los sectores más vulnerables, aquellos con menores ingresos que carecen de acceso a redes domiciliarias de gas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno ha consolidado una visión que, desde mi perspectiva y con más de 15 años de experiencia en el sector, ignora la importancia de la energía como motor del desarrollo económico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin precios competitivos de energía, no hay desarrollo ni dinámica en la producción de bienes y servicios, ni competitividad para la exportación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación es aún más grave en zonas rurales o pueblos pequeños, donde la informalidad es mayor y los precios varían significativamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "YPF, cabe destacar, triplicó el precio de los combustibles desde diciembre, demostrando una falta de compromiso con la situación económica del país, a pesar de su rol como empresa nacionalizada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto genera una desprotección absoluta del consumidor, no solo en el caso de las garrafas, sino en otros insumos energéticos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las empresas dictarán el precio, ya que la eliminación del precio máximo les otorga esa libertad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas políticas gubernamentales atentan contra el consumo, generando una caída en la actividad económica que trasciende el sector energético.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La energía no debe ser regalada, pero sí asequible y competitiva, como en otras economías.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se dolarizan los precios de la energía a niveles internacionales, pero los ingresos permanecen anclados, creando una injusticia para jubilados, trabajadores con salarios mínimos y la clase media.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2000
+}

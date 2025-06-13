@@ -1,0 +1,46 @@
+{
+  "texto_id": "la_bomba",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"La bomba ya estalló\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "políticas económicas ortodoxas y que podríamos llamar de ajuste",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Shock\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "estas técnicas son, en esencia, métodos para provocar la desviación de la personalidad",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "un capitalismo más puro y desregulado",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la tesis de Milton Friedman es que un shock hace a la sociedad aceptar un capitalismo más puro que sin un shock lo resistirían y no lo aceptarían",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le votamos el presupuesto a Sergio Massa en tiempo récord, con una aprobación muy criticada por un pedazo de la oposición más dura.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3404
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La banalización del mal, creo que no hay caracterización que soporte la dictadura de Maduro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué pretende Cristina Fernández de Kirchner con tanta conspiración y atropello institucional?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina admira a Vladimir Putin y obliga a que nadie del gobierno lo acuse de criminal de guerra al carnicero zarista y estalinista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina coloca a embajadores y a su gente en esos países y también en China, en Honduras y en todo lo que huela a anti norteamericano.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Debemos estar atentos a todos los embates de Cristina y de su tropa contra la legalidad institucional, pero también debemos señalar que su principal objetivo es destruir el sistema democrático y llevarnos a una especie de Santa Cruz venezolana.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2347
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.444,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que me pregunto es qué habrá dicho… A mí me hubiera gustado leer la entrevista que no se publicó, porque la verdad es que fue…",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo preservo los valores éticos que tiene este programa.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando digo muy ligado no es que pertenece, no hay una pertenencia, pero sí hay cierto grado de correspondencia ideológica.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay una situación de características delictivas en donde se presume una actividad como la que podría llegar a suponer que el presidente haya golpeado a su expareja, lo que las normas éticas del diario dicen es que tiene que publicarse las dos versiones y tienen que hacerse de manera simultánea.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Obvio, entonces repito, ya tenemos la palabra de Fabiola.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi idea personal es exorciarlo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La verdad, muchachos que vienen a hablar de ética, publicaron las fotos pese al pedido de los fiscales de no ponerlo al aire.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero igual, ¿me conseguís un resaltador? Voy a empezar a editar la nota ahora acá.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4130
+}

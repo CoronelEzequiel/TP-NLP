@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_deuda",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"En lugar de gambetear el default, vacuna contra agosto\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que hizo ayer el gobierno argentino, a través de su ministro de economía, Sergio Massa, es comprar una vacuna contra agosto, ¿qué sucedería si en este agosto las elecciones indican que el oficialismo pierde por una diferencia irremontable, y por lo tanto, el claro ganador no hace falta esperar ni la primera ni la segunda vuelta, es el partido opositor?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es como blindar, desde el punto de vista financiero, a la economía para que, sea cual fuera el resultado de las PASO, no genere turbulencias económicas adicionales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Están poniendo riesgo a los más pobres, no despejamos, pateamos ya lo pateamos más adelante y acumulando más nieve en la cima para con más riesgo de aluvión en algún momento.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto fue una negociación entre dos entregados.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4868
+}

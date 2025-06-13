@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Simplemente, quiero decir que estoy cansado de la persecución contra la gente atractiva de tez clara y cabello rubio.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tres jóvenes sanos y bellos, una sociedad idealizada.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este peronismo es para todos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El domingo de Pascuas celebraremos la misa criolla con todos ustedes, cantando canciones como Samba Kipildor, etcétera.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 771
+}

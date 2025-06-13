@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El presidente mete adentro las pelotas que van afuera.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de la ideología, el presidente demostró que sus capacidades de conductor y administración dejan mucho que desear, su mala praxis, la improvisación y las torpezas se están convirtiendo en una política de estado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ejemplo más trágico es el manejo de la pandemia y las vacunas.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peor tiro en los pies que se pegó el gobierno fue cuando Alberto dijo que prefería tener 10% más de pobreza y no 100.000 muertos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos fingen ser inocentes y perseguidos porque tienen la camiseta de Cristina puesta y ella es la que apuesta principalmente a lograr impunidad y venganza que están buscando.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto no es una víctima de Cristina, es un cómplice que no sabe hacer bien ni siquiera el mal.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2197
+}

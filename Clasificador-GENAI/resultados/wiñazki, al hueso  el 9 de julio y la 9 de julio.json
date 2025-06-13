@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.417,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El discurso presidencial, pronunciado hoy en Tucumán, estuvo marcado por incidentes que le impidieron participar en otros actos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En su discurso, el presidente afirmó que no claudicará ante los laboratorios ni ante los acreedores externos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Volvió a pedir disculpas al presidente de Bolivia por las graves acusaciones — aún no totalmente probadas— de que el gobierno de Mauricio Macri habría provisto armas letales al golpe que derrocó a Evo Morales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente también hizo hincapié en la necesidad de construir una patria libre de la subyugación de poderes extranjeros.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La falta de unidad en los actos oficiales, especialmente en el Día de la Independencia, refleja las internas del gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Kirchner argumentó que dicha modificación generaría un gobierno sin autoestima, sometido a los caprichos de los laboratorios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1343
+}

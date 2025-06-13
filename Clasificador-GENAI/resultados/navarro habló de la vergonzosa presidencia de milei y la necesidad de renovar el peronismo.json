@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.208,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me da una enorme vergüenza que Javier Milei sea el presidente de la nación y todos los locos que lo rodean. Me da una enorme vergüenza que hayan llegado al poder.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La agresiva Bullrich, cómplice del asesinato de Rafael Nahuel y Santiago Maldonado, la que reprime a los jubilados; Mauricio Macri, que convirtió su gobierno en un Estado mafioso, donde, mientras hacía negocios, metía presos a dirigentes políticos, sindicales y dueños de medios.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina no quiere ser presidenta, lo ha dicho mil veces; incluso a mí me lo ha dicho. Máximo claramente no está siguiendo una carrera para ser presidente, pero sí intentan opacar a otros para seguir teniendo el poder de nombrar candidatos o condicionarlos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El tremendo crecimiento de las exportaciones argentinas, sobre todo en hidrocarburos. El año pasado la balanza comercial de ese sector dio -5000 millones de dólares, este año va a dar +7000 millones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si toda la parte del campo recibe 600 dólares por hectárea (lo que decían que no sucedería con Néstor y Cristina porque tuvieron suerte), si hubiera ganado López Murphy las elecciones de 2003 no se hubiera salido del pozo, sino que se habría seguido cavando hacia abajo con 600 dólares por hectárea.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, a pesar de todas esas riquezas que están entrando y que van a entrar mucho más, con esta clase dirigente, salvo algunas excepciones, soy pesimista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2181
+}

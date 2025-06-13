@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La oligarquía sindical es uno de los problemas más graves que deberá afrontar el próximo gobierno.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En realidad, el objetivo no son los derechos de los trabajadores, sino los privilegios de la burocracia sindical.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablan el idioma de la izquierda, pero no se olvidan de los beneficios del capitalismo propio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire, no quiero generalizar, porque quien generaliza discrimina, pero la gran mayoría de los gremialistas argentinos son millonarios y viven como tales, mientras dicen representar a trabajadores sumamente pobres.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No se esconden detrás de vidrios polarizados y matones como guardaespaldas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Utilizan listas únicas en las elecciones, no permiten que haya oposición ni alternativas.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No pueden explicar su fortuna y, además, dinamitan cualquier tipo de progreso y aumento del empleo con sus abusos, sus bloqueos y esa tozuda oposición a reformas laborales que permitan incorporar a más trabajadores o blanquear a algunos, a los más que puedan, de los 5.400.000 laborantes que están en negro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son parte, la parte mafiosa, de los graves problemas que tenemos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1899
+}

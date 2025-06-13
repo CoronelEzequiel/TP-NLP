@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.19,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Un país donde vamos a tener una recesión, pero una recesión con muy buenos negocios, y les voy a contar por qué.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto está planificado. Todo esto es la idea que tiene este gobierno y sus empresarios amigos en la cabeza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Javier Milei, que dice que todos los que no estamos de acuerdo con él somos sádicos, somos violentos y no sé qué otros adjetivos más nos pone, se dedicó el fin de semana también a pelearse con un actor fallecido.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero les decía que esto es recesión y negocios, porque no nos va a ir tan mal a todos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le va a dar el litio a Elon Musk y al gobierno de los Estados Unidos, sin el cual Elon Musk no existiría.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2708
+}

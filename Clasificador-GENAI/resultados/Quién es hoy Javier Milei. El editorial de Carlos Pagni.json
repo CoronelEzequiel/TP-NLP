@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Milei logra llevar la inflación mensual de ese 25,5% a un poquito más de 4,2% en el mes de mayo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei llega también con un proyecto de reformas, o instrumentos para desarrollar reformas que pongan a la Argentina en la orientación del mercado, en la orientación de una economía más desregulada, con mayor intervención del sector privado y con un estado más chico, obtenidas desde el Congreso, lo cual significa también, y esto tal vez es más importante que el contenido de las leyes, que un gobierno muy desprovisto de capital institucional, sin diputados, sin senadores, sin gobernadores, sin arraigo en los movimientos sindicales y sociales, logra un esquema de gobernabilidad, logra una ecuación política que le permite sacar esas leyes y conquistar esas reformas para ahora llevar adelante su programa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es cierto que la inflación de la ciudad de Buenos Aires, que predice un poco la inflación nacional, está bastante relacionada con la nacional; ahora aparece un poquito más alta, 4,8%, pero desde el 25,5% de diciembre al 4,2% de mayo es un descenso muy, muy fuerte que le da a Milei la posibilidad de presentarse como el San Jorge que por ahora viene matando al dragón, que es el tema de nuestro tiempo, el problema de nuestro tiempo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llega también con una situación económica muy agobiante y aquí empezamos a ver todo un reajuste que hay en el oficialismo en relación con la administración y con la economía y con la necesidad de ejecutar esas leyes que obtuvo del Congreso. ¿Por qué es agobiante? Por la extraordinaria caída en el nivel de actividad, es la otra cara de la derrota de la inflación, una recesión muy importante.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alcanzar el superávit fiscal, equilibrar las cuentas públicas es para el gobierno el principal objetivo. ¿Por qué? Porque si se equilibran las cuentas públicas se puede financiar más sanamente el gasto del Estado, no se necesita expandir tanto la masa monetaria, emitir tanta moneda y, por lo tanto, se puede dominar el juego de la inflación. Pero ahora, el ajuste fiscal y monetario ha sido tan severo que empieza a impactar sobre la actividad, cae la actividad y con la actividad cae la recaudación y nos encontramos con este problema.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Kicillof está logrando objetivos que tienen que ver con montar un modelo absolutamente contrastante con el del Gobierno Nacional gracias a diputados que llegaron a la legislatura con las listas de lo que hoy es el Gobierno Nacional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8603
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno sigue apostando a esta ficha, cree que gana las elecciones del año que viene a través de un método y una estrategia que es una recuperación del salario real por esta baja de la inflación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el fondo de esta presentación de datos, que habla de un repunte de tres puntos por parte del gobierno para una elección para la que falta muchísimo tiempo, está el arrepentimiento o el posible arrepentimiento de votantes del voto más blando del peronismo de la última elección, aquellos que votaron a Massa con más reservas, con más precaución, que serían los primeros en abandonar al peronismo en este momento por el impacto del escándalo que produce la intimidad de Alberto Fernández, que, como decía, arroja datos inquietantes todo el tiempo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y los problemas de empleo, los problemas de producción, sí, son problemas que los reconozco, pero tal vez atenderlos me implica o me impone poner en riesgo la baja de la inflación. Y si tengo que poner en riesgo la baja de la inflación, probablemente pierda mi único capital político.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aún así, el gobierno siente, y tiene derecho a sentirlo, que está solo en la escena política. Que la oposición no presenta ningún desafío. Que la oposición todavía no encontró un argumento, no encontró un discurso seductor para enfrentarlo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8859
+}

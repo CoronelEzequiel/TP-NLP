@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.542,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El kirchnerismo estatizó YPF, no en cualquier momento, sino en el más dramático de la economía española de los últimos 50 años, probablemente, cuando el gobierno de Mariano Rajoy se debatía sobre si sería intervenido por el gobierno de Bruselas, es decir, por Europa.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández, en 2007, como jefe de Gabinete de Néstor Kirchner y jefe de campaña y financiamiento de la campaña de Cristina Kirchner, solía decir, aunque en voz baja, que la reelección de Néstor Kirchner no era una buena opción, y que era mejor que Cristina Kirchner fuera la candidata.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es curioso que Fernández elija un flanco para criticar a Macri en política económica que es el mismo de la ortodoxia, digamos, de derecha.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández habla de revisar el problema de la deuda, renegociarla, aparentemente sin quita, modificando los plazos, pagando sin una reducción, no como lo hizo Nielsen en la etapa del gobierno de Néstor Kirchner.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Da la impresión de que, en el plano político, Fernández se sitúa en 2007, y que, en el plano económico, habla de una especie de reposición sencilla y fácil del Estado de bienestar, situándose en 2003.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Problemática la situación de Fernández, no solamente por las ambigüedades que él plantea, sino porque él, que pretende ser la síntesis de algo muy diverso, tiene que satisfacer distintas audiencias, muchas veces contradictorias.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6234
+}

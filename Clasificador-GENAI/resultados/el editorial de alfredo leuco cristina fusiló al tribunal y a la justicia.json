@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.778,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner fusiló al tribunal que la juzga, los acusó, como acabamos de escuchar, de ser un pelotón de fusilamiento.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, el nivel de cinismo e hipocresía de Cristina superó todos los límites.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie acusó al gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A esta altura, creo que Cristina padece de *bovarismo*.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de la sentencia, el pueblo sabe que ella robó.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y de inmediato vino lo que Oliveto calificó como un llamado a la violencia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo cierto es que la acusación de los fiscales Diego Luciani y Sergio Mola se hizo con tres toneladas de pruebas irrefutables, con rigurosidad técnica y con un coraje a prueba de balas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Diego Luciani entró en la historia porque fue el principal protagonista del juicio más importante de todos los tiempos después del juicio de las juntas militares que condenaron al terrorismo de Estado.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solamente solicitó al tribunal 12 años de cárcel para la reina del Calafate, también pidió su inhabilitación de por vida para ejercer cargos públicos y que devuelvan las montañas de dinero que robaron desde el Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2290
+}

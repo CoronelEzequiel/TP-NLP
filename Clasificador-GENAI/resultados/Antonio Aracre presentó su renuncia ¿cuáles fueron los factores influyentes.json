@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_aracre",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Rumores, Rumores, Rumores, el mal del gobierno desde los “off the record” hasta aquellos que hablan en “off the record” pero después no hablan “on the record”.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aquí lo que quieren es sacar a Sergio Massa y que Aracre sea el próximo ministro de Economía, ¿no?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos hablando de un tema que surge a partir de uno de los impulsores de la creación del dólar soja.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2342
+}

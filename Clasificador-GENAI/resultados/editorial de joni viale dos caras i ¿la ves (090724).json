@@ -1,0 +1,51 @@
+{
+  "texto_id": "sintesis_de_lo_ocurrido_hoy",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a volver a la gloria!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, para mí, en buena hora llega la reivindicación de las Fuerzas Armadas Democráticas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo te recuerdo que durante los actos del kirchnerismo, flameaban otro tipo de banderas en Argentina. Todas menos la de Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo siempre se apropió de lo público con fines privados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ese cambio cultural debe ampararse obligatoriamente en la reivindicación del orden.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei entendió que sin convivencia con la casta no va a poder gobernar, no se puede.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En definitiva, fue un reflejo de realismo político.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quien lucha con monstruos, escuche, señor, debe tener mucho cuidado en no convertirse en uno de ellos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3586
+}

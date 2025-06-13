@@ -1,0 +1,36 @@
+{
+  "texto_id": "Fiesta, fiesta",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pero como decía Bilardo, en el fútbol se trata de goles; nadie sale campeón por mérito, sino por victoria.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sabes que teníamos la sensación, en el equipo que entregó los alimentos, de que donar un plato de sopa no te da la misma alegría que donar un tomógrafo o un equipo de rayos X. Incluso los países desarrollados necesitan renovar el equipamiento de sus hospitales y clínicas, pero cuando tienes que donar comida… por un lado es la alegría de poder ayudar, y por otro, uno se pregunta por qué tenemos que paliar una necesidad básica de la dignidad humana como el hambre.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo bueno es que se hizo sin intermediarios. Había mucha gente en redes sociales diciendo que esto llegó a la gente, a los comedores. Y te consta, Jorge, que Margarita lo recibió; ya está cocinando, ya está distribuyendo la mercadería. Lo mismo el Pitu. Y convengamos que, como dijiste hace un par de semanas, ambos comedores tienen posturas ideológicas diametralmente opuestas; están en las antípodas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alimentos que no se entregaron al Estado. No, no se entregaron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno tiene que saltar, sea quien sea el gobierno, uno tiene que ir directo a la necesidad; si no, empieza la burocracia, los trámites… y esto no va a funcionar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3380
+}

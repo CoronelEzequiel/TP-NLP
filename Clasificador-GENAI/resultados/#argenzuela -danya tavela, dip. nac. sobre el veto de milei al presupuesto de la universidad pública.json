@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esperábamos, con cierta ingenuidad quizás, que el presidente no vetara la ley ante la masividad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A veces me llama la atención: no hay posibilidad de que el presidente, que durante toda su campaña dijo que la educación debía ser privada, que se definía en el mercado, y que tiene legisladores que piensan que los padres pueden decidir si mandan o no a sus hijos a la escuela, vaya a favor de la educación pública.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ministro de Economía no va a defender su presupuesto.  Ya sabía que no iba a estar, lo dijo desde un principio, no tiene voluntad de ir al Congreso a dar explicaciones. Me parece terrible.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que me preocupa es que como sociedad, estamos tan mal que terminamos creyendo que ese es el camino.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, tildar de golpista a la cantidad de gente que fue… Si fuera así, no sería presidente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si eres presidente, tienes que saber que eso te va a pasar. Y si generas ese escenario con tus decisiones, te va a pasar aún más.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2090
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Jardines de París",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando algún \"progresista\" – esos que andan con el pañuelo verde – intenta exaltarme la figura de la mujer, yo les pregunto: ¿saben lo que vale una mujer, una madre, la cabeza de familia, el eje fundamental de la vida del hombre?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta noche, como mañana no estaré, quiero conmemorar este último día como ciudadano común y mi primer día como un luchador por la Argentina, dispuesto a combatir a los delincuentes de todo tipo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si permitimos que la juzguen y que vaya presa si es necesario, vamos a transformarnos en una república.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando se vaya toda esa gente, cuando los dictadores fascistas de este gobierno terminen con la Argentina, con nuestras casas, con nuestros hijos, con nuestros ahorros, nosotros quizás nos casemos con el gobierno y hagamos recetas de cocina de brotes de soja, como en Venezuela.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero, ¿qué pasa? Nosotros somos una desgracia para la democracia (hablo de Levinas, Lanata, Gaby, Majul...).",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2120
+}

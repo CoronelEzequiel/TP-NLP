@@ -1,0 +1,26 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, por suerte tenemos un presidente muy, ¿cómo decirlo?, muy atento a la realidad de lo que está sucediendo y está preocupado, por ejemplo, porque los docentes dicen que van a tener que pagar ganancias.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, a pesar de que intenta ayudar, no termina de ponerse a la altura de las circunstancias. Estoy hablando del campo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted fíjese que ha habido fe en el país, porque la herramienta que vemos es toda renovada, ha sido toda renovada después de la crisis de Martínez de Hoz, y sin embargo no tenemos respuestas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2192
+}

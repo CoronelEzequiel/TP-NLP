@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Entre los temas más importantes del día tenemos la definición de Horacio Rodríguez Larreta a través de sus tweets en el día de ayer, a la hora justa, a la hora señalada, 2023, señalando este año 2023 como precandidato a presidente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Involuntario para Cristina Fernández de Kirchner, pero voluntario para los senadores que tomaron la decisión, la fractura del bloque del Frente de Todos en la Cámara Alta del Congreso de la Nación, una Cristina que queda debilitada todavía con un gran signo de pregunta respecto de lo que va a ser su futuro político para este año.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich salió a decir: 'No es hora de tibios', y ahí Esteban Bullrich sale fuerte contra Patricia, dice: 'Querida Patricia Bullrich, no confundamos, construir un país con los 45 millones de argentinos se hace dialogando, hace falta más coraje para conversar con el que piensa diferente que para insultarlo. Ya probamos la pelea y no dio resultado, no caigamos en la trampa, cambiemos', dice Esteban Bullrich, es fuerte saliendo contra Patricia, que había horas antes sacado un tuit diciendo: 'No es hora de tibios'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un Totoka Puto del que se viene hablando bastante por sus intenciones de comprar parte de Edesur, ¿no? El otro día estuve intentando averiguar un poquito oficialmente, que la compañía no le da razón de ser a esto, pero hay un ruido muy importante al respecto de que querría quedarse con una parte de uno de los activos de la compañía italiana Enel en la República Argentina, que se está haciendo, ¿no? Algo que no le causa gracia al gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4572
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.734,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Fernández de Kirchner adoptó una postura explícitamente política y confrontativa, demostrando su postura ante los jueces.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su declaración, realizada desde su despacho en el Senado de la Nación, constituyó un ataque directo no solo contra los tres jueces de la Cámara de Casación Penal (Ricardo Borinsky, Gustavo Hornos y Ana Figueroa), sino contra todo el Poder Judicial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repitió acusaciones similares contra los medios de comunicación, a los que responsabilizó por la derrota del Frente para la Victoria en 2015 y por el triunfo de Mauricio Macri.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su estrategia parece apuntar a intimidar a la justicia y generar incertidumbre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta actitud denota, en mi opinión, falta de argumentos sólidos y un claro signo de miedo ante el avance de las causas judiciales.",
+      "score": 0.67,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1689
+}

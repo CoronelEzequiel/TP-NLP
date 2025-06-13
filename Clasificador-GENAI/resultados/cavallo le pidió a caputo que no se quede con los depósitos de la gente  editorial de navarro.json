@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_cavallo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Finalmente, el dueño de la criatura, el creador del corralito, habló sobre el tema más urgente y preocupante: los depósitos de la gente en Argentina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esencia, Cavallo advertía que se estaban utilizando los dólares de los depositantes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El acuerdo con el FMI debe medirse a partir de dos factores: uno a mediano plazo para financiar la deuda argentina, como se hace con el resto de los acreedores; y otro a corto plazo: que el Banco Central deje de vender dólares que no son propios.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, para tapar la situación, se dijo que la pobreza había bajado al 38%. Esto es falso. La pobreza real es mucho mayor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo está roto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2592
+}

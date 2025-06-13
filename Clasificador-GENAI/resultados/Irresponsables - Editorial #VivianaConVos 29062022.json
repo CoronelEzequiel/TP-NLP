@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.86,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El presidente llega de Alemania, desatiende asuntos en Europa, de donde no sabemos a qué fue y qué hace, y cuando llega, va a ver a la delincuente Milagros Sala.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández pensando y tomando una decisión: dólar a 239 pesos, inflación 60%, riesgo país 2500. Viaja a Jujuy a darle mi apoyo a la delincuente Milagros Sala, y fue así.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milagros Sala es una delincuente condenada por la justicia. El presidente la visitó como si fuera Juana Surduy, ¡irresponsable! Es una corrupta que le robó a los pobres, a los padres de la gente pobre.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo Perón en 1973, dice Mario Corzi: 'Voy a terminar con este gobierno de putos y marxistas'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí tiene razón Morales. El presidente se pasa por el quinto forro los poderes, la independencia de poderes. ¡Qué vergüenza! Viaja a Jujuy, no va a ver al gobernador, se va directamente a ver a su amiga, una delincuente que está internada, ¡irresponsable!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8738
+}

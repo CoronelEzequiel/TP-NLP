@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.083,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de extrema derecha que asumió en Argentina se ha naturalizado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un grupo de extremistas ha sumido al país en la miseria con una velocidad alarmante.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede ser demasiado crítico con las acciones de Alberto Fernández, Cristina Fernández de Kirchner o Sergio Massa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Históricamente, la izquierda representaba los intereses de los trabajadores, mientras que la derecha representaba los de la oligarquía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Actualmente, Argentina no está gobernada por la política que representa al pueblo, sino por las corporaciones.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La libertad económica impuesta por [Nombre del político, no especificado en el texto original] no existe en ningún otro país.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos activos, que pertenecen al país y a las futuras generaciones, serán apropiados por unos pocos, y el pueblo argentino pagará las consecuencias en los precios del gas y la electricidad.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el gobierno es feroz, el pueblo debe serlo más.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La historia argentina tiene momentos oscuros y amaneceres bellos; y esos días luminosos, desde hace 80 años, son peronistas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2394
+}

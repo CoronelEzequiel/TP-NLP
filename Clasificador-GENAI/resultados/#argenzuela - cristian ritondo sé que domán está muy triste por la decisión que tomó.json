@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico_independiente",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.53,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Confirmó que quien debía traer el dinero era Néstor Grindetti, y éste no lo hizo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristian Ritondo, hablando de Independiente y de política. Grindetti pidió una licencia de 30 días en la Intendencia de Lanús para dedicarse a la gestión de Independiente.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sí, yo lo vi todo, pero lo dije en campaña, lo dije cuando ganamos, pero ahora digo: para mí no es amarillo, ni verde, ni gremial, ni político; es Independiente, rojo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que por su intencionalidad de voto, es muy difícil que Javier Milei se una a Juntos por el Cambio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Horacio Rodríguez Larreta habló de Soledad Acuña, de Fernán Quirós y de Jorge Macri… da la impresión que algo no cierra.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3384
+}

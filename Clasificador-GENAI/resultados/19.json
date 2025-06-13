@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.188,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Al gobierno nacional lo votaron por una cosa, pero al gobernador Kicillof por otra. Y el gobernador Kicillof está cumpliendo con lo que lo votó: no solo mantener los derechos, sino seguir ampliándolos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿No nota usted, y fundamentalmente otros medios de comunicación, que aplauden la \"motosierra\" de Kicillof, que hiere profundamente, y luego vuelven a mirar al gobierno provincial y le reclaman 'gasas y suturas'?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos defender el ataque de Milei a la educación, a la información, al respeto a los mayores, porque condenarlos a la miseria con el argumento de que \"no hay plata\" es inaceptable.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi opinión personal es que la fórmula de coalición que nos trajo hasta aquí terminó siendo solo una fórmula aritmética para repartir cargos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2672
+}

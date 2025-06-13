@@ -1,0 +1,36 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina quiere \"pudrirla\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no tuviera \"coronita\", y en su momento, fueros, o el diputado Miguel Ángel Pichetto, debería haberse aplicado la doctrina Irurzun.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero a Cristina no le importa, ni le alegra, por ejemplo, que el índice de pobreza haya bajado, corríjanme, por favor, si tienen los datos, pero yo creo que es del 5.9 al 38.1, gracias, Débora.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tratan, ¿no? Porque es la especialidad del kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina quiere \"pudrir\" todo, Horacio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4753
+}

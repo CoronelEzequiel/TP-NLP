@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei presentará su libro *Capitalismo, socialismo y la trampa neoclásica* en el Luna Park, donde además desplegará un show musical, rememorando sus viejas épocas como cantante de rock.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy vamos a ver cómo la densidad de las ideas de los programas políticos, la resolución de los problemas prácticos -en fin, el arte de lo posible, como se denomina la política- se fue transformando en un arte viral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Da la impresión de que Milei es presidente 'por un sueño', o sea, en lugar de *Bailando por un sueño*, que sería la continuación de *Videomatch*, 'presidente por un sueño', el sueño de ser una superestrella de la derecha mundial, un, como le gusta decir a él, divulgador de las ideas de la libertad, el segundo más importante del mundo, como dijo ayer, solamente detrás de Donald Trump.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ver esto de Zelenski nos redime con Milei, nos hace más tolerantes con Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta característica de la política como espectáculo no es algo propio de los espacios de la derecha, también sucede en los espacios de la izquierda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei es una especie de exacervación de todos estos elementos de *showman* presentes en todos los casos anteriores, a lo que se le agrega su intervención constante en las redes sociales.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La forma y contenido se retroalimentan, una escenificación de ataque a la casta para el ajuste y, de esta manera, bajar la inflación, una narrativa para sostener una política antipática.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, puesto menor, yo solo quiero ser un Rolling Stone.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Resulta hasta cínico que quienes cierran las dependencias estatales, dejan a miles de personas sin trabajo y transforman a velocidad récord la matriz económica del país, empujando a cientos de miles de personas debajo de la línea de la pobreza, se recode con una canción sobre la falta, casualmente, de respuestas de las personas damnificadas y todo el sistema político, tal vez deberíamos hacerle caso a La Renga y dejar de tomarnos esto como si fuese un show.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5451
+}

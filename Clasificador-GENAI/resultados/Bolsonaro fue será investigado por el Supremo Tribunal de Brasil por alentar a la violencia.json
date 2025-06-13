@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer reapareció Jair Bolsonaro, de alguna manera, pidiendo disculpas y admitiendo haber cometido algunos errores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jaime De la Barra viene escribiendo de manera continua en el diario *Perfil* que él cree que Juntos por el Cambio, fundamentalmente el ala moderada, los radicales, no están entendiendo el cambio que está viviendo la sociedad y que están, de alguna manera, facilitándole el camino a Javier Milei.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mauricio Macri, que, junto con la polarización, implica una desdemocratización, una democracia en crisis, y que los candidatos que cada vez resultan más atractivos para las sociedades son los que no representan los partidos políticos tradicionales, lo que serían los candidatos nuevos, y que, en este caso, tienen muchas más posibilidades de llegar al balotaje, Milei, que el Frente de Todos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2742
+}

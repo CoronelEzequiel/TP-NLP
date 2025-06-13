@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hemos visto imágenes terribles y desgarradoras, y hoy, Volodímir Zelenski ha denunciado que hay niños, escuché bien, hay niños debajo de los escombros del hospital infantil que bombardearon los rusos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo no largarse a llorar con el relato estremecedor de Elena? ¡Estoy en la mierda! Esos malditos soldados rusos mataron a mis sobrinos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es un genocidio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la cara más oscura de la invasión desatada por un criminal de lesa humanidad llamado Vladímir Putin.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Deberá rendir cuentas, primero en los tribunales de La Haya y además ante la historia, entre otras salvajadas, por la muerte, hasta ahora, de 38 niños, más 71 que fueron heridos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Basta de guerra y volver a casa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Olena, la esposa de Zelenski, mediante una carta acusó a Putin de disfrazar como operación especial el asesinato de niños y nombró a Lisa, a Polina, a Arseni.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2206
+}

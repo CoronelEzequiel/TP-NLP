@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Desde la movilización del 8M hasta la movilización estudiantil del martes pasado, el gobierno nacional empieza a sentir sus primeros golpes y sus cimientos, construidos a base de discursos de odio y ataques en redes sociales, se van desmoronando.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Pagará un costo político Javier Milei luego de congelar el presupuesto universitario y producir una movilización tan importante en su contra?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer vimos cómo, una vez más, aquellos que pretenden seguir viviendo a expensas de los argentinos, se montaron sobre una mentira para promover sus intereses.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No vamos a ser cómplices del negocio que algunos hacen con la universidad pública.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En ningún momento el gobierno nacional insinuó la intención de cerrar las universidades nacionales.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6071
+}

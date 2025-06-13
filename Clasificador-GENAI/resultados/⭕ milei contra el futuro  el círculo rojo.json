@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hablamos de un sector de adultos mayores que genera sensibilidad en gran parte de la sociedad, incluso en quienes votaron a [nombre de la ley] por el rechazo a lo anterior, o incluso entre quienes aún mantienen ese apoyo, pero a quienes no les cierra nada de lo que ocurrió hasta ahora, o de lo que ocurre del otro lado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No nos olvidemos nunca que los jubilados y las jubiladas fueron el “karma” de Menem con la inolvidable Norma Plá (ya hablamos de ella en este espacio), o que la causa de los jubilados y jubiladas fue el principio del fin del gobierno de Macri allá por noviembre de 2017.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero cuando la crisis o el descalabro de un esquema precario comience a hacer agua, seguramente chocarán, como les pasó a tantos, con una sociedad que les dirá que en Argentina se pueden hacer muchas cosas, pero lo que no se puede hacer es gobernar contra el futuro.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, aprovecho este espacio para una reflexión sobre las imágenes que vimos en estas horas, que irrumpen en medio de la fiesta que parece atravesar al gobierno por el “verano financiero”, por el triunfalismo que los tiene un poco obnubilados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1288
+}

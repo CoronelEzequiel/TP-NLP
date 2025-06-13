@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.106,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Patricia Bullrich, quien conoce la identidad del agresor, lo está encubriendo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La impunidad con la que se trató el asesinato de Santiago Maldonado y el de Rafael Nahuel, sumado a la glorificación de Chocobar, crea un clima de permisividad para la violencia policial.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En vez de depender de medios como Clarín, el gobierno debería negociar con quienes registran las imágenes de las manifestaciones y las suben a las redes sociales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los disparos horizontales, que violan los protocolos, son reiterados y sistemáticos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La fuga de 500 millones de dólares el viernes pasado, la mayor venta del Banco Central desde que asumió Javier Milei, es un indicativo de la crisis económica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de inversión en obra pública causa inundaciones (ej. Bahía Blanca).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno utiliza infiltrados para provocar violencia, como se evidencia en el caso de Gonzalo Farías, un policía infiltrado que incendió un tacho de basura y luego se identificó falsamente como periodista.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Clarín manipula la información, utilizando términos como 'camporista' para demonizar a la oposición.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2480
+}

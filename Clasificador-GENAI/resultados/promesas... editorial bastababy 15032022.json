@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Si mañana entro a un negocio y digo que soy kirchnerista, probablemente me echen.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Declarar que la inflación terminaría el viernes fue una imprudencia, un disparate.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Apoyo a Mauricio Macri si decide postularse nuevamente, pero no desde la distancia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La Argentina está en peligro. No soportamos más la corrupción y la ineficiencia del gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quiero a Cristina Kirchner presa, y a usted también, por el tema de las vacunas.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quiero que se investigue a Hebe de Bonafini, a Estela Carlotto, a César Milani, a Adolfo Pérez Esquivel.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La deuda de 365 mil millones de dólares generada durante el kirchnerismo es una muestra de la corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero que se vayan, que no vuelvan y que los culpables vayan presos.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1822
+}

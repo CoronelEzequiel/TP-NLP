@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei_papa",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "\"Sabemos que vivimos épocas de profunda injusticia: pocos ricos, cada vez más poderosos, y millones de pobres, desamparados y excluidos. No hay futuro, ni desarrollo, ni justicia, ni democracia.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El 'Dios Mercado' o la 'Diosa Ganancia' son falsas deidades que nos conducen a la deshumanización y a la destrucción del planeta. La historia lo ha demostrado en innumerables ocasiones.\"",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El Estado, más importante que nunca, debe ejercer un papel central en la redistribución y la justicia social.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Esto es más que un ajuste; es crueldad planificada.\"",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No es un ajuste, ni un caos planificado; es crueldad militante. Es cruel cortar el suministro de alimentos y medicamentos.\"",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Incluso Mauricio Macri, que multiplicó los planes sociales y enviaba comida a los comedores.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1720
+}

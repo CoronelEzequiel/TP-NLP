@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La diputada de La Libertad Avanza, Lilia Lemoine, denominó como terroristas a quienes se concentran afuera del Congreso contra la ley Ómnibus.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ningún gobierno, sembrando miedo, va a obtener resultados positivos. Ningún gobierno, a través de extorsión o sembrando miedo, va a obtener resultados positivos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pichetto se mostró preocupado por el prestigio institucional del Congreso, que según él se ve vulnerado por el accionar del oficialismo.",
+      "score": 0.5,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Nuestros ríos, por ejemplo, están llenos de mierda, dice efectivamente. Ahora son cloacas a cielo abierto porque las compañías de agua privatizadas, en lugar de invertir en sacar los residuos directamente, los echan a los ríos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei y Bullrich, vistos como imitación de la política inglesa conservadora.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5896
+}

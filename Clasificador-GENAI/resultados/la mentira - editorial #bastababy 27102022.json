@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.672,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta situación se llama \"la mentira\".",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No se trata de mentir al decir \"voy a hacer tal cosa\", o \"no robaré\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ya no hablaré del gobierno, porque ya no existe; hablaré de la clase política, de la oposición, de mentirosos y de ineptos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miente Cristina Fernández de Kirchner, mienten todos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristóbal López es una persona —lo digo públicamente— a quien respeto mucho.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Te quiero mucho, pero perteneciste a un gobierno que estafó el futuro de mis hijos\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Soy del pueblo, y estoy indignado como el pueblo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No saben lo que hacen.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mentira es una institución en Argentina.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2277
+}

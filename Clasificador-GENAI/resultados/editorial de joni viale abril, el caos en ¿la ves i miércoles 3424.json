@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, lo que vemos hoy, miércoles, son imágenes de odio, señora **Cristina**, de violencia explícita.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vean lo que hizo el kirchnerismo tomando, por ejemplo, el INADI, de manera compulsiva, de manera violenta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo dejó 21 millones de pobres, ¿estamos de acuerdo?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo dejó más de 200 puntos de inflación anual, 211 para ser exactos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo siento que me están tomando un poquito el pelo.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No está bueno que **Alberto Fernández** ligue una jubilación de privilegio de 7 millones de pesos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo ha elegido el mes de abril como el comienzo de la resistencia violenta, más fácil, más gráfico.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que el presidente, ya te dije, aumenté, lo estás viendo, el presidente tiene un desorden mental muy grande.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peronismo está muy en la pavada, en la boludez",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mira, mira, me pasó una cosa esta mañana, también la voy a contarte.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6579
+}

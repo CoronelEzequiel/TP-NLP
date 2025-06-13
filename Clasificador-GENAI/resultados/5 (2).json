@@ -1,0 +1,41 @@
+{
+  "texto_id": "radio10_tc",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.383,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Así que hay muchas ganas de la gente de ver el TC en Buenos Aires, que por otro lado está reinaugurando el autódromo que fue repavimentado en su totalidad en todos sus circuitos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Así que bueno, nosotros en nuestro caso estamos en esa situación que tenemos que ir a por todo y pelear contra grandes rivales como Matías Rossi y Christian Ledesma.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Arrecifes hay alguien que no corra, la verdad pregunto.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El campeonato es con un \"Play-Doh\", como decía Edu, a quien aprovecho a saludar.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El interior es fortísimo, en el caso nuestro todo, bueno, yo soy de Arrecifes, como decía, pero toda la zona, el núcleo de la provincia de Buenos Aires es fortísimo y se da justo con la cuestión de distancia que bueno, el autódromo imagino que va a explotar porque es un lugar cercano para la mayoría, ¿no?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El automovilismo ha cambiado muchísimo…",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5494
+}

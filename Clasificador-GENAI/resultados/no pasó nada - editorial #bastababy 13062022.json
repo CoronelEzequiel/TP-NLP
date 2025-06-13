@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.722,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Entonces, estoy muy enojada porque esto es una campaña de desprestigio contra Alberto y Cristina.",
+      "score": 0.13928571428571426,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que directamente ellos están gobernando para Ortega, para Cuba, para Venezuela, para Irán, para Rusia.",
+      "score": 0.9181818181818182,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Siento que ya estamos como Venezuela, como Cuba, ya estamos alineados con la escoria, con los países extremistas.",
+      "score": 0.9357142857142857,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Creo que el país está muerto, creo que la tasa de desempleo es altísima, creo que la industria no quiere industrializar nada, el campo no quiere plantar nada, la gente no quiere trabajar más, no hay objetivos.",
+      "score": 0.8857142857142857,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora baja un avión lleno de iraníes y venezolanos y la única infracción que tienen es por no tener combustible.",
+      "score": 0.819047619047619,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que esto va a explotar en septiembre, para el Mundial.",
+      "score": 0.6357142857142857,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3106
+}

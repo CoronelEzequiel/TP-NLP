@@ -1,0 +1,61 @@
+{
+  "texto_id": "viana_con_vos",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.71,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En este editorial reflejo algunas de las cosas, de los conceptos que escuché en ese documental. Hoy decía que la suerte no es suerte. Que la suerte es coraje.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos políticos que nos gobiernan están llenos de fantasías. No de sueños, como nosotros, los argentinos. La fantasía de ellos es ser más ricos, más corruptos, quedarse eternamente en el poder y con el poder.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No puede ir vestida de “hippie con hos” a negociar con el FMI, ni siquiera con ese peinado. Déjense de joder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Frente de Todos Contra Todos sacó un comunicado este fin de semana, acusando a la oposición de golpista. Graciosos, ¿no? Graciosos estos pibes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La líder de la oposición no es **Patricia Bullrich**. La líder de la oposición es **Cristina Fernández de Kirchner**.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos, lamento decirlo, porque hay algunos personajes que son súper rescatables, pero otros, en general, la mayoría, confío con esperanza, confío con esperanza, cagones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Habrá un gobierno más golpista que este? Difícil de encontrar. Falta de coraje. ¿Hay un gobierno más golpista que quiere tirar abajo a la Corte Suprema de Justicia?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las 50.000 viviendas mágicas de **Alberto Fernández** tampoco existen.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Piensen que los argentinos somos el tipo de capucha que está frente al cajero y los políticos son el chorro que está atrás, que nos chorea a mansalva cada día de nuestra vida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argentinos ya nos acostumbramos al maltrato, como una mujer golpeada, que se deja golpear y golpear y golpear. Esos somos los argentinos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8980
+}

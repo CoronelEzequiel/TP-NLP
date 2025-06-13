@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La política, desde mi punto de vista, ¿no?, debiera dejar de judicializar todos los problemas que no puede resolver, por varios motivos, pero uno de ellos es porque le da al poder judicial un poder que no le es propio.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que peyorativamente se llama mesa judicial, si a eso se refieren, es que los que participaban del proceso de designación de magistrados, ya sea subsecretario de justicia, secretario de justicia, ministro de justicia, jefe de asesores del presidente y consejero de la magistratura por el ejecutivo, se reunían a ver cuáles eran los nombres que habían accedido a la terna para que después el ministro le eleve... o la conseja le recomienda al presidente un nombre. Me parece que es lo más normal del mundo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Que lo haga La Nación, es más lógico que lo haga Clarín\". Se estaba refiriendo a difundir una versión satisfactoria para ellos mismos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Son chats que se crearon. Esos son los que tienen los audios donde dicen que hay que apretar a los jueces. Esos son los que tienen estos métodos porque esto, lamentablemente, por no pararnos todos, absolutamente todos, y decir basta, esto viene pasando desde el 2005, se lo hicieron a Rito Alejo Rivera, cuando le crearon cuentas falsas en Suiza.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Justicia para los que no tienen la justicia. ¡Oh, justicia! ¿Para quién? Justicia, ¿para quién?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3318
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.663,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por eso, alguien vino a decirme que los muchachos hicieron un paro por algo que dije el otro día.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si algo bueno tengo de estos cuatro años, es el compañerismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y a los ñoquis, a los que no trabajan, a los que viven enfermos, a los que cobran por no ir a trabajar, que los echen a la mierda y vayan a plantar manzanas, uvas, lo que sea.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estoy harto de los sindicatos, de la gente que arma lío, de los conventillos y los prostíbulos, de la supuesta victoria que no fue ninguna victoria, fue una derrota.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos empezando a entrar en una república, a vivir en democracia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que queremos vivir de nuestro trabajo y los que quieren vivir del trabajo de los demás.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con conventillos no volveremos a Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Londres pudo pasar varios años comiendo ratas para evitar la invasión alemana, nosotros podemos pasar un par de meses más sin comer kiwi ni palta para evitar la invasión kirchnerista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2589
+}

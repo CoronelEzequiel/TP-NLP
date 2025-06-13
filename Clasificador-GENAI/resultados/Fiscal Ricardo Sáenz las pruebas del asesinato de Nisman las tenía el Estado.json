@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a hacer un acto el 18 de febrero a la una del mediodía frente al Palacio de Justicia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O sea, la denuncia realmente tenía sustento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo esto, durante los gobiernos de signo peronista, fue muy difícil de conseguir, ahí se perdió mucho tiempo también.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después, yo explicaba el otro día a un colega tuyo, o sea, la prueba había que pedírsela al Estado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1427
+}

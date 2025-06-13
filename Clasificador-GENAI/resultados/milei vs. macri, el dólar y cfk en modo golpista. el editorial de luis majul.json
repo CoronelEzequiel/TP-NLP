@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.682,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay cuestiones técnicas, monetarias y económicas que deben entenderse, incluso para los especialistas, muchos de los cuales cometieron errores, especialmente en relación con la base monetaria y las herramientas del gobierno para contrarrestar una eventual corrida cambiaria.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El título del comentario es: \"Mi ley versus Macri: el dólar y Cristina en modo golpista\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El más importante, para mí, es sobre el dólar, la inflación y su impacto en la economía y el bolsillo de los argentinos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tras la entrevista con el ministro Luis Caputo —hace minutos la vimos—, tengo la impresión —personal, insisto— de que no habrá un “sincronazo” ni devaluación; más bien, una vez concedido el préstamo, el tipo de cambio tenderá a bajar.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para el presidente Javier Milei, los fundamentos del programa económico permanecen intactos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Considera irrelevante hablar del tipo de cambio porque la base monetaria está tan respaldada por dólares que, incluso sacando toda la base monetaria del tipo de cambio oficial, sobrarían 24.000 millones de dólares.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se puede discrepar sobre la irrelevancia de hablar del tipo de cambio en Argentina —hasta los niños lo hacen—, pero uno de los especialistas más respetados del mercado, Juan Carlos de Pablo, recomendó el viernes en Radio El Observador 107.9 a los inversores tomar decisiones basándose en la ausencia de un salto devaluatorio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para mí, y cada vez más gente, la preocupación por la falta de apego a la institucionalidad ha crecido en estos seis meses.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La estrategia de Cristina Kirchner apunta en dos direcciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La segunda dirección es más grave: generar la sensación de que el país se viene abajo, que esto no da para más, que la volatilidad es el principio de un \"sin bronazo\" que podría terminar como en diciembre de 2001.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina quiere pudrir el sistema político.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3519
+}

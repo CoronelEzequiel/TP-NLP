@@ -1,0 +1,61 @@
+{
+  "texto_id": "contradicciones_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde que asumió la presidencia, Javier Milei suele mostrar contradicciones respecto a sus propios dichos previos a la elección.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La sociedad no eligió a un político profesional, sino que, podríamos decir, eligió a alguien que dice lo que piensa, alguien que no viene de la política y que no tiene los vicios de la mentira y del cambio de discurso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Efectivamente, vamos a comprobar el archivo, porque el presidente no es una excepción, y veremos cómo ha defenestrado a dirigentes que luego terminaron en su gobierno y ha jurado no tomar medidas que luego las ha tomado en más de una ocasión.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi ministro se convirtió en un rockstar. Miren que hemos heredado una bomba que combinaba lo peor de las tres peores crisis de la historia argentina: la del Rodrigazo, la hiperinflación de Alfonsín y lo que fue la crisis del 2001.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Melconian es un excelente economista. Un excelente economista que tiene claro lo que hay que hacer; era quien iba a ser el ministro de economía originalmente, y cuando le señaló a Marcos Peña que había que poner la casa en orden, lo echaron, antes de asumir, por eso, de alguna manera...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Antes de subir un impuesto, me corto un brazo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No voy a tocar los subsidios hasta que no se recuperen los ingresos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que puede hacer la política monetaria es daño. Y la pregunta es, ¿por qué? La primera pregunta de todo es moral. Para mí, robar está mal. ¿Para alguno está bien robar? Porque lo que hace el Banco Central es robarle a la gente, ¡falsificando dinero! ¡Es inmoral!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Teníamos un Milei que nos hablaba de que iba a bajar impuestos, cuando una de las primeras medidas fue subir el impuesto País del 7,5% al 17,5%, encareciendo todos los bienes importados que se consumen en la Argentina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esperemos, por el bien de nuestro país y de nuestras instituciones, que el presidente pueda hacer una síntesis con todas estas contradicciones que ha construido a lo largo de estos meses y que las ideas y las personas veneradas de hoy no sean las odiadas y demonizadas del mañana.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5384
+}

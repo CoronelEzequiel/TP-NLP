@@ -1,0 +1,36 @@
+{
+  "texto_id": "buenos_dias",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este país, que no existe, pero que parece existir, genera molestia y frustración.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que un dueño de un grupo multimedia tan importante amenace a un periodista es gravísimo, más aún si se trata de una empresa con participación pública.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene una de las dos empresas de electricidad. Si quiere, puede cortar la luz a todos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos dicen que quiere vender el canal y que esto le baja el precio. No es mi intención bajar el precio del canal.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Agradezco al Grupo Indalo por su solidaridad y apoyo.  Me cobijaron cuando me expulsaron de América.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2204
+}

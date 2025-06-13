@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.31,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El poder residual de Alberto Fernández",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para que se logre modificar la ley de PASO, sería necesario que todos los diputados del Frente de Todos votasen a favor de la eliminación de las PASO.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Alberto Fernández considera que es una de las formas que tiene para poder condicionar, inclusive, las listas de los próximos legisladores que se vayan a poner a votación el próximo año.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las hipótesis de liga no subestiman el poder residual de Alberto, que al nombrar a estas tres nuevas ministras, de alguna manera está diciendo: \"Cuidado conmigo\"",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"El peronismo es un compromiso de vida\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Voy a trabajar por la unidad y por el fortalecimiento del sector del trabajo\"",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"El sector de la informalidad tiene que recibir el abrazo solidario del gobierno\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Desde marzo, que fue nuestra primera crisis política en términos de que el Frente de Todos votó por primera vez el acuerdo con el Fondo\"",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"es uno de los objetivos de nuestro gobierno (...) trabajar para no solamente traspasar toda esa estructura de planes al empleo formal\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"el club de la mentira que son Cambiemos o Juntos\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4559
+}

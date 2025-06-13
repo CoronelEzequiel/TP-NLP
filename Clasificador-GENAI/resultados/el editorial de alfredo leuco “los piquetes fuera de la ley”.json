@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los anuncios de la ministra Patricia Bullrich son absolutamente constitucionales, tienen sentido común y respetan a rajatabla las leyes vigentes.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La protesta es un derecho constitucional y es el pulmón por donde respira la democracia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que se está prohibiendo, porque ya está prohibido, es el corte de ruta, de calle o el bloqueo, que claramente son delitos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién votó a Eduardo Belliboni o a Juan Grabois?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos intermediarios de la pobreza someten a esa gente y los obligan a asistir a las marchas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quienes hablan de la igualdad y del socialismo no tienen vergüenza de explotar a quienes dicen defender de la explotación capitalista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero en la política hay que demostrar poder: ¿quién es el que manda?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son fascistas de izquierda, son reaccionarios, y celebran cuando al pueblo y al país le va mal.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2699
+}

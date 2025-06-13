@@ -1,0 +1,31 @@
+{
+  "texto_id": "precios_supermercados",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy aumentar un 20% queda totalmente fuera de mercado, competitivamente hablando.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Totalmente, esas acciones son absolutamente repudiables. Hoy, lo que queremos los supermercadistas, las cadenas regionales, la red de supermercados argentinos, todos los supermercados, el comercio en general, es recuperar ventas, vender más.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy se enriquece quien trabaja informalmente, porque la presión fiscal que sufrimos es muy importante en todos los rubros, no solo en el sector de supermercados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, hay que ser sinceros, estamos pidiendo salir de la contracción del consumo, y esta medida alienta el consumo formal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1546
+}

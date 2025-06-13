@@ -1,0 +1,41 @@
+{
+  "texto_id": "Alejandro_Fantino_entrevista_a_Jorge_Santos_sobre_el_fenomeno_Milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.367,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me siento orgulloso de haber contribuido a su lanzamiento, pero su carrera es mérito suyo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei es un síntoma, un emergente de este cambio cultural y laboral que aún no encuentra soluciones.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El trabajo ordena, es una encíclica.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, su postura sobre la ley del aborto. No estoy de acuerdo con su idea de abolirla.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que me preocupa es la clase política.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No se trata de achicar el Estado ni de quitar derechos a la gente. Se trata de cuestionar el estilo de vida de la clase política.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1997
+}

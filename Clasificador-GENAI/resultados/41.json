@@ -1,0 +1,41 @@
+{
+  "texto_id": "Juan_Angel_Sciolli",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Desde la asunción del gobierno, hemos sufrido un claro ataque a la industria nacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La aprobación del Régimen de Incentivos a las Grandes Inversiones (RIGI), orientado a la actividad extractiva, y la indiscriminada apertura de importaciones, agravan la situación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los discursos oficiales hablan de estabilidad macroeconómica y ajuste, pero no se menciona la industria ni el trabajo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La baja de la inflación no resuelve la recesión si no hay poder adquisitivo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En los supermercados, los productos similares a los míos son mayoritariamente de origen chino.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tengo una responsabilidad con las familias que trabajan en mi fábrica (6 familias actualmente).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1477
+}

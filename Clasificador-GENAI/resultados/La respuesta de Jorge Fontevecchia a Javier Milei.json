@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ahora, al no contar con publicidad oficial, se dirige nuevamente a la quiebra.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mire, presidente, no pudo quebrarnos la dictadura militar, no pudo quebrarnos Carlos Menem en el momento de los treinta juicios.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El asesinato de José Luis Cabezas tampoco pudo quebrarnos, y eso a pesar de la nula inversión en publicidad oficial por parte de Néstor Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Usted tampoco podrá",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 699
+}

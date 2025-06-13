@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner renunció a una candidatura electoral y de esa manera cerró el ciclo kirchnerista del peronismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo es un desierto sin figuras convocantes, pero repleto de cajas millonarias y todavía con capacidad de daño.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo Kirchner perdió su único activo, ser el \"nene de mamá\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Comienza una nueva etapa donde Cristina irá perdiendo su poder de veto y ya no podrá designar candidatos a dedo tan fácilmente.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero es bastante claro que en las propuestas tan personalistas se verifica que cuando el líder se borra de la contienda electoral, comienza la decadencia y el final de la hegemonía de ese esquema.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero ella sabe la colosal fortuna que robaron en el poder junto a Néstor.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su individualismo egoísta dejó pagando, colgados del pincel, a todos sus adoradores, por ejemplo al Congreso del Partido Justicialista que cantaba \"Cristina presidenta\" mientras ella publicaba su carta dándose a la fuga.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy podemos decir que el menemismo terminó cuando Menem se bajó de la lucha electoral.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mañana podremos confirmar que el kirchnerismo terminó cuando Cristina dijo \"basta\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y eso pasó ayer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habla de \"fachada democrática\", pese a que están funcionando con todas las garantías todos los mecanismos republicanos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Miente descaradamente cuando dice que no quiere ser una mascota y que no quiere prestarse al juego perverso de los jueces.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2405
+}

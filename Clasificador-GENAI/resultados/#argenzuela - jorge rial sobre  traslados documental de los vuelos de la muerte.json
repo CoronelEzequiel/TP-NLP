@@ -1,0 +1,31 @@
+{
+  "texto_id": "relato_traslado",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "\"Traslado\" es el documental sobre los vuelos de la muerte. Se estrenará el 6 de septiembre, por dos semanas solamente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Astiz aparece mucho en la película. Es más, aparece en el momento en que se infiltraba en organizaciones de derechos humanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él era el jefe del Grupo de Tareas 332 de la ESMA, que tenía como misión infiltrarse en grupos; uno de los más importantes infiltrados fue el grupo de la Iglesia de la Santa Cruz, donde secuestró a madres de Plaza de Mayo",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y bueno, obviamente hay mucho archivo; hace mucho hincapié en el hallazgo de los cuerpos de las monjas Alice Domon y Léonie Duquet.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1118
+}

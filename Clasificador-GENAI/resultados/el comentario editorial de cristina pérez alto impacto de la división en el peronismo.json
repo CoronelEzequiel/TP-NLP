@@ -1,0 +1,96 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.718,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy los puentes que alguna vez pudieron haber existido entre el gobierno y el kirchnerismo están rotos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero no con el peronismo en general, que ustedes saben que ayer fue vital en diputados para que se firmara el dictamen para la suspensión de las PASO.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La división del peronismo tiene efectos muy concretos y muy potentes en cualquier escenario electoral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo pronto, la suspensión de las PASO, si sale como el gobierno espera, le permite al gobernador Axel Kicillof avanzar en el desdoblamiento de las elecciones bonaerenses.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero sabemos que una candidatura de Cristina no solo debe leerse en términos electorales, sino también en términos de su estrategia para zafar de la prisión domiciliaria, de su estrategia para salvar a su hijo y de mantener por todas estas cosas anteriormente mencionadas su poder en el peronismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, ¿qué les estoy diciendo? Que ayer se rompió esa llave maestra.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y luego de la derrota de Sergio Massa, aquí viene la otra cuestión, luego de esa derrota nadie, mucho menos Cristina, mucho menos Cristina, hizo una real autocrítica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero ayer, que fue la primera jornada de actividad del año en la Cámara de Diputados, se consolidó lo que ya se había notado el año pasado, que los gobernadores dejaron de responderle incondicionalmente, los gobernadores del PJ y también algunos diputados que son de su bloque.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, la expresidenta debe haber vivido como una traición las posiciones de su viejo aliado, el gobernador Gerardo Zamora, que instruyó a sus diputados a abrirle el camino al Gobierno de Milei.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el Gobierno, aseguran que no solo no están buscando una alianza sistemática con el peronismo, sino que ahora el partido de los trabajadores son ellos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La libertad avanza porque dicen que el peronismo es el partido de los planes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y son cada vez más los gobernadores peronistas aliados con el gobierno de Milei.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue definitivamente un mal día para Cristina, aunque algunos de sus emisarios aseguren que la denuncia del ANSES le conviene porque la pone a ella como principal líder opositora a Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque primero que en toda esa pedorrada no habla de nada de todo lo que estaba pasando con la inseguridad, ¿no?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su doble cobro equivale a 90 jubilaciones mínimas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin dudas, la señora es la jubilada de privilegio más cara y más descarada de la nación.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y que si Lijo tiene los votos y lo votan, el presidente va a designar por comisión a Manuel García-Mansilla.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5083
+}

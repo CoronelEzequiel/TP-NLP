@@ -1,0 +1,51 @@
+{
+  "texto_id": "a_san_nicolas",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y el pueblo de San Nicolás, como lo dijo el intendente **Manuel Passaglia**, dijo: “Estamos todos unidos, son 50 tipos, vamos a pelear”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que gracias, **Moyano**, porque nos uniste a los que estamos dispuestos a dar la vida por esta hermosa Argentina, porque todo el mundo discute la paritaria.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sumamente apasionada **Florencia Arietto** puso los puntos sobre las íes, sobre la CIA, los policías, los policías, los policías.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso fueron avanzando sobre la libertad y los bienes de todos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sitiar una ciudad en tiempo de democracia es rebelarse contra un pilar del Estado republicano.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Alberto, increíblemente, considera que Hugo Moyano es el modelo de dirigente sindical que necesita el país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos son los personajes nefastos que hundieron a la Argentina, pero hay que destacar como contrapartida la valentía del lado de las víctimas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única salida es el camino que encontró San Nicolás: la política, la justicia y los ciudadanos unidos en defensa de la ley y en contra de las mafias.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2510
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.444,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El obispo castrense Santiago Olivera, quien trabajó cerca de una figura emblemática de la defensa de la democracia y los derechos humanos como lo fue monseñor Justo Laguna, me solicitó una columna sobre Brochero para publicar en la revista del centro de estudios brocherianos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo también sueño con eso, con que nos ilumine como nación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Muchas veces he dicho que no soy una persona creyente, pero admiro profundamente a quienes tienen fe y la canalizan en la construcción de una sociedad más igualitaria.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "José Gabriel del Rosario Brochero fue un verdadero gladiador del Evangelio, que, montado en su mula, con su poncho y un cigarro colgando de los labios, cruzó una suerte de cordillera de los Andes cordobesa, como son las Altas Cumbres, para integrar a esos gauchos olvidados en sus necesidades básicas, en medio de la humildad de sus ranchos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para la mayoría de los cordobeses, el Cura Brochero siempre fue un orgullo, sin distinción de creencias religiosas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Cura Brochero es una bandera de lo mejor de los argentinos, de los que tienen o no tienen fe, de los creyentes o de los agnósticos, porque, además de la palabra de Dios, llevó el progreso social a esos lugares hostiles en el siglo XIX.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ojalá el papa Francisco pueda recuperar ese espíritu y condenar la violación de los derechos humanos, los crímenes, el hambre y los presos políticos que la dictadura de Nicolás Maduro ha multiplicado en Venezuela.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo más en lo que veo y en la ciencia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soy reacio a entender las abstracciones que habitan el cielo de las plegarias, pero creo en los que creen.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2582
+}

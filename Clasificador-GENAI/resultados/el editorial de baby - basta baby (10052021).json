@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.783,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nos va mal, porque si quiero que alguien se ría, le provoco la risa, yo, gracias.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque realmente, yo no puedo creer que uno mira todo el mundo y a todo el mundo le va normal, puede tener algún problema de estado, puede tener algún problema de epidemia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nos están dejando... Ustedes te cuentan que estamos a la intemperie, totalmente a la intemperie, no nos cuida nadie del COVID, o sea, se discuten las elecciones, se discuten las PASO, se discuten quiénes van de candidatos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me importa un carajo lo que digan!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chicos, dejémonos de joder, el kirchnerismo tiene que explicar qué hizo con el afano de la vacuna, porque los argentinos estamos esperando números, no excusas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si la pulseada dice que tienen que tener clase, yo tengo que decir que no tienen que tener clase.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El mundo nos mira asombrado porque nosotros seamos boludos en una época estándar, el boludo de todos los días, está bien entre los bancados porque todo el mundo ya dice que somos cagadores, que somos boludos, que no cumplimos las obligaciones, que somos...",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El tema son las vacunas que nos llegan acá y que son nuestras, que las pagamos y nos afanaron ustedes, gobernadores, intendentes truchos, además, ¿qué ejemplos pueden dar ustedes cuando de pronto un concejal de no sé dónde se mandó una joda en Tucumán, una joda para 400 personas, pero antes había estado el gobernador de Tucumán haciendo una reunión para 400 personas, a ustedes no se agarra el virus, lo corren para que los agarre y si no le pegan a la vuelta a Manzana y lo agarran de frente porque son tan pelotudos, gobiernan tan desprolijamente, son tan desastrosos para gobernar, están en un quilombo tan grande y ayer me llamó un empresario muy conocido y me dijo, ¿cómo ves la cosa en la Argentina?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy la hija de Moró criticaba a esta piba, Mauricio, y ella está sentada con el chino Sanini, que se afanó la vacuna diciendo que era médico personal, pero ¿se dan cuenta que son incoherentes, nena?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque si ustedes dicen, \"nos están tomando de pelotudos\", yo me voy a dormir tranquilo, porque no le crean que nos están tomando de pelotudos, pero si ustedes creen eso, tan loco, totalmente loco, se tienen que internar, si ustedes creen que la payasada que están haciendo en el gobierno es algo que está fenomenal y que el mundo nos mira con envidia, tan loco, se tienen que internar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora, dividamos la cosa en tres. A la oposición le sirve porque se prepara para el año que viene. A ustedes les sirve porque se la están llevando con pala. Y al pueblo del medio que pagamos los impuestos, no nos sirve.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este país se está yendo a la mierda, somos Venezuela, para ir a comprar un pollo necesitan dos carretillas de plata, nadie se lo dice, y encima con un pueblo tan cobarde y tan cagón, que le subieron diez veces la nafta en los últimos dos meses y no se dieron cuenta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3904
+}

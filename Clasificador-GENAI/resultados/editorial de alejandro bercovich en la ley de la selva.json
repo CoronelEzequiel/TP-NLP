@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, después de resistirse y de negarlo durante mucho tiempo, el gobierno aceptó devaluar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Fondo Monetario tomó el timón de la economía argentina, antes incluso de lo que lo tomó con Macri, cuando atropelladamente el ex presidente fue a la calle 19 a volver a pedirle prestado a un organismo del cual en 12 años no habíamos tenido noticias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, cuando dice 'me quieren dar un golpe de Estado' o 'me intentan desestabilizar', nos está tomando de 'giles', porque pocas veces hubo un apoyo tan cerrado del establishment internacional, del gran capital local, de los poderes fácticos, de jueces, fiscales, medios de comunicación, incluso gremios, diría, a una gestión como esta.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y los salarios hoy quedaron tan desfasados de los precios en la Argentina que no extraña esta debacle ya secular, porque fíjense, es algo que viene de muchos años, en la participación de los asalariados en el ingreso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7078
+}

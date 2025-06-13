@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Algunos la ven como una polarización entre populismo –que es una palabra muy amplia, si se quiere tan amplia que encierra todo y nada– y república.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, en estas horas Massa tiene que disimular que no condujo el proceso de su propia fuerza política, sino que su fuerza política en distintos lugares, sobre todo en la provincia de Buenos Aires, –que esencialmente el Frente Renovador es un fenómeno bonaerense–, ya decidió optar por razones territoriales de conservación del poder por el kirchnerismo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay dirigentes de Cambiemos, encumbrados dirigentes del PRO, que hasta hace dos horas seguían creyendo que también tenían abierta una posibilidad de negociación con Massa, un artista de vencer la polarización, por lo menos en algunos nichos de la política, que siguen creyendo que él podía estar de un lado y del otro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente de Colombia acaba de decir que la Argentina de Macri debe triunfar para que no vuelva el kirchnerismo, que es una opción venezolana.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5063
+}

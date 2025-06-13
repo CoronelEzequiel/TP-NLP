@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.881,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La decisión final es que se avance sí o sí con la privatización de Aerolíneas Argentinas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien el déficit fiscal y el costo que esto nos acarrea a todos los argentinos es motivo suficiente para venir aquí al Congreso y pedirles que avancemos en privatizar y sacarnos este yunque fiscal al resto de la sociedad, lo que queremos evitar también a futuro con la privatización es que el día de mañana una futura dirigencia de Aerolíneas Argentinas vuelva a establecer una tiranía sobre el sector aero-comercial.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Efectivamente, Aerolíneas lamentablemente tiene los pasajes domésticos más caros de la región.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, vos y yo con nuestros impuestos pagamos el servicio de carga de Aerolíneas para que transporte el salmón chileno de Calafate a Miami para que lo coma Messi y Antonella.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, explícame por qué un jubilado que gana 300.000 pesos por mes tiene que financiar el vuelo a Roma y estos privilegios.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ergo, para mí, llegó el momento de terminar con los monopolios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más de la mitad, el 53%, dice privatizarla o cerrarla.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la sociedad argentina que se cansó de bancar a la casta de los cielos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2873
+}

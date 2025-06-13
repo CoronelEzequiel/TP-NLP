@@ -1,0 +1,76 @@
+{
+  "texto_id": "Viviana_con_Vos",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.838,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "He decidido llamarle \"Trans Tornados\" porque tenemos un gobierno de \"trans tornados\", señores. Miren estos muñecos. Tenemos un gobierno de \"trans tornados\" absolutamente desordenado, absolutamente confundido.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pocos gobiernos fueron tan destructivos como el de **Alberto Fernández** y el de **Cristina Fernández de Kirchner**. No dejaron nada sano, lo rompieron todo, están \"trans tornados\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno se autopercibe \"trans\". Parece una cosa, pero se siente otra, \"trans tornados\". Y también busqué qué es un tornado. Un tornado es uno de los fenómenos más severos y destructivos que se producen sobre la superficie de la tierra. O sea, también son un tornado, \"trans tornados\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El himno, nuestro himno, me encanta la bandera. Amo a mi patria, amo a mi patria. ¡Este es el himno! No cantado por esos muñecos en la Cancillería.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los pibes se van porque no encuentran acá un futuro mejor. Me cansé de que no alcance. Ahí está, que cada día sea más difícil. La única salida está en Ezeiza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchas de las críticas a las labores de su gobierno surgen del seno de su propio gobierno. ¿Cómo lleva usted como presidente la relación con la vicepresidenta Cristina Fernández de Kirchner?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina no lo quiere ver ni en figurita.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con esta derecha recalcitrante que se ve en toda América Latina, que enfrentó **Boric** en Chile, que nosotros la enfrentamos con los libertarios, los herederos del Tea Party americanos, que la tienen acá instalada con Vox, que aparece en grupos neonazis en Alemania...",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al gobierno solo le interesa la ideología de género.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Buen día, mis amores. A laburar, que muchos quieren derechos sin obligaciones. Estoy harta de todos los que hablan: \"Estos son mis derechos, mis derechos, mis derechos\". ¿Y cuáles son tus obligaciones? Ninguna.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mejor lenguaje inclusivo es que todo niño desayune, almuerce, meriende y cene y estudie. Esta debería, en un país serio, ser la prioridad, que desayune, almuerce, meriende, cene y estudie un niño, no exigir una ley trans.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La vicepresidenta solo busca su impunidad. Lo único que quiere es no ir presa, a ella y a sus hijos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Cámpora maneja ANSES. La Cámpora es una sucursal de ANSES, una de las cajas más importantes de la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9331
+}

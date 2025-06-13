@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tuve acceso a su legajo y lo leí detenidamente. Contiene información interesante sobre su trayectoria, formación, paso por Campo de Mayo durante la última dictadura cívico-militar, participación en el Operativo Independencia y su propio reconocimiento de participación en la represión en áreas rurales y urbanas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero demostrar que la afirmación de la vicepresidenta es inexacta. El legajo del padre no menciona ninguna condecoración.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero dejar claro nuestro profundo respeto por los excombatientes de Malvinas, especialmente por los jóvenes soldados conscriptos (\"colimbas\") que fueron llevados a una guerra impuesta por la dictadura cívico-militar para mantenerse en el poder.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante recordar que hubo militares que cometieron torturas en Malvinas, incluso contra soldados propios, un tema que la Corte Suprema se ha negado a abordar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mostrar estas pruebas no es una falta de respeto; la falta de respeto es afirmar que alguien recibió una condecoración cuando su legajo no lo corrobora.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1965
+}

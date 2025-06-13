@@ -1,0 +1,66 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.055,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Después de meses de escuchar cómo la política y el periodismo argentino festejan a Milei en medio de la miseria, ayer empezaron a festejar a Trump.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trump está condenado por delitos penales e impulsó además un golpe de estado.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese hombre asumió ayer, ese hombre es el festejado por la política argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo primero que firmó Trump, lo primero que firmó Trump, son decretos de transfobia, de amnistía para golpistas nazis, de expulsión de inmigrantes, de salida de la Organización Mundial de la Salud y de salida del acuerdo climático de París.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿A qué se debe la alegría de esos argentinos? Pensar que Trump va a beneficiar a la Argentina es desconocer la economía de Estados Unidos y Trump, vía Trump.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trump dio el paso inicial a una guerra comercial que va a encontrar a Argentina abierta de par en par.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y obviamente lo va a obligar a devaluar tarde o temprano a Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, ayer vimos a la nueva oligarquía planetaria tecnológica en el centro del poder.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fascistas nazis son los que quieren desaparecer al diferente.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina se festeja el gobierno de Milei en medio de la miseria generalizada y ahora se festeja a Trump y se festeja a los megamillonarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero aclarar para finalizar, ahora que está de moda odiar al diferente, que \"el destape\" más que nunca va a bancar a cualquiera que sea diferente, a todas las diversidades, a todos los géneros y vamos a promover todas las marchas y reclamos con toda nuestra fuerza y vamos a defender más que nunca los derechos humanos, los derechos de todas las minorías.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2747
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.194,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sugieren una relación comprometida entre un funcionario de Horacio Rodríguez Larreta y la mano derecha de Horacio Rosatti.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos considerar el rol de la Corte Suprema y sus intereses económicos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Horacio Rosatti, en un evento de Grupo Clarín, afirmó la importancia de conjugar mercado y Estado, mencionando la necesidad de \"erradicar\" la \"teoría del derrame\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Carlos Rosenkrantz, en una conferencia en Chile, habló de la necesidad de combatir el populismo, identificándolo con el peronismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta Corte Suprema ha protegido a los involucrados en el caso de los \"cuadernos de las coimas\", dictando fallos que interfieren en la política económica, las tarifas, las jubilaciones y los derechos laborales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los supuestos chats de D'Alessandro y Robles son una muestra de cómo los grandes empresarios, antes recurrían a los cuarteles, ahora utilizan los tribunales para influir en la política económica.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La proscripción de Cristina Fernández de Kirchner, posiblemente, responde a sus políticas económicas que permitieron a los trabajadores acceder al 50% del ingreso nacional en 2013, situación insostenible para los sectores concentrados de la economía, aun cuando sus ganancias aumentaron durante su gobierno.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, los chats son una muestra de la influencia de la política económica en el poder judicial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1925
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Todo indicaría que el gobierno tiene difícil la aprobación sin cambios de la ley de bases, y probablemente llegue al pacto de mayo sin tener aún este proyecto aprobado.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Seguramente, para este sector, que siempre impuso sus leyes, convirtiendo al Congreso casi en una escribanía del Ejecutivo y sin articular consensos ni escuchar al resto de los sectores políticos de la Cámara, la aprobación de esta Cámara de la ley de bases debe haber significado un duro golpe para su conducción y para su forma de afrontar la agenda legislativa, más destinada a impedir que a reconocer la nueva realidad política de la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En efecto, con un puñado minúsculo de diputados y diputadas de La Libertad Avanza, hayan podido articular tal aprobación con otros sectores, nutriendo a la iniciativa original con importantes aportes de quienes antes no eran escuchados y a los que se les aplicaba la famosa imposición de la prepotencia del número.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y vamos a compartir algunos fragmentos de lo que fue la aparición ayer de la ex vicepresidenta: 'A muchas militantes feministas... Pero todos saben que yo no soy feminista. Yo creo que nadie tiene que asumir roles que nunca ha tenido. Cada uno se reconoce en lo que es, con sus virtudes y sus efectos. Yo no soy militante feminista, pero respeto mucho a las compañeras que lo son'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que no resulta casual es la actitud de Unión por la Patria ante otra derrota legislativa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4942
+}

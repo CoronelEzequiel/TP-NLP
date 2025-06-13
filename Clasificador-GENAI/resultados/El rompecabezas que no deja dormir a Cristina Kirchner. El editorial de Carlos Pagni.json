@@ -1,0 +1,26 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El país atravesó y está atravesando un drama a lo largo de todos los últimos meses, un drama que el comentario político y la crónica periodística, con bastante razón, suele recortar en sus efectos macroeconómicos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Frente de Todos, la interna del Frente de Todos, la perspectiva electoral y la perspectiva gubernamental, la gestión del Frente de Todos depende hoy de dos mujeres, de Cristina Fernández de Kirchner obviamente, después vamos a hablar de ella y de las cosas que tiene en su cabeza y del dilema en el que está metida, y Kristalina Georgieva que está también en otro dilema.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy el gran problema del kirchnerismo es la rigidez conceptual de Cristina Fernández de Kirchner para entender los cambios de la economía y también de la vida social.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7915
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En un contexto de crisis como el actual, la conflictividad naturalmente crece, y si la respuesta política, como nos tiene acostumbrados, solo se basa en la represión, la situación terminará con heridos, con muertos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La violencia fue atada ayer por el operativo policial y casi se podría decir militar, que ya condujo un capítulo más en una suerte de cruzada de su carrera. Una carrera de la funcionaria que hace diez años tiene una agenda de criminalización de la protesta y disciplinamiento social.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich, tanto en la presidencia de Mauricio Macri como en la actualidad, parece querer terminar con estas conclusiones, o sea, dar vuelta a la página de lo que nos marcó nuestra cultura social durante 40 años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mejor manera de evitar que hinchas, y peor aún barrabravas, vayan a marchas de jubilados era no reprimiendo a los jubilados con gas pimienta en primera instancia, que hasta mereció la denuncia del Papa sobre los jubilados a los que se les tiraba gas pimienta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con el tema de un muerto, lo único que logras es no hacer nada. Es decir, la ministra Bullrich diciendo que no le preocupaba tener un muerto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4675
+}

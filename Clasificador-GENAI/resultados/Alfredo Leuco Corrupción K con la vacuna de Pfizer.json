@@ -1,0 +1,91 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.866,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Eso se llama, en cualquier lugar del mundo, querer obtener un retorno de esa vacuna.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y además, eso es criminal.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí el pueblo argentino va a saber que este gobierno decidió que siguiesen las muertes en Argentina por no comprar una vacuna, con las condiciones no éticas que planteaba el ministro Ginés González García.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchó a Patricia Bullrich, la vio anoche.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ginés González García no cerró el contrato por las vacunas del laboratorio Pfizer porque buscaba un retorno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa palabra suele ser una forma más elegante y menos brutal de llamar a las coimas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La presidenta del PRO aseguró que no tenía ninguna duda de que así ocurrieron las cosas y que eso fue criminal y lo deben investigar los fiscales.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la verdad es que este gobierno decidió que siguiesen las muertes por no comprar las vacunas con las condiciones no éticas que planteó Ginés.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y como si esto fuera poco, Bullrich aseguró que Santiago Cafiero miente al respecto y que el presidente Alberto Fernández está al tanto de lo que había ocurrido y por eso dijo \"se me va un amigo\" cuando no tuvo más remedio que expulsarlo del gabinete.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno no habla de este tema y cada vez que habla arroja más oscuridad y menos información precisa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dan ganas de decirle, presidente, \"no aclare que oscurece\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando la justicia intervenga a fondo y cite a declarar a todas las partes, nos acercaremos a la verdad que podría llegar a convertirse en un crimen de lesa humanidad y responsabilidad, porque hay 75.000 muertos en este país y porque todos los indicadores están entre los peores del mundo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como si esto fuera poco fracaso, Eugenio Zaffaroni, uno de los personajes que más daño le hizo a la justicia argentina, instalando la doctrina de favorecer a los delincuentes y castigar a las víctimas, planteó una idea delirante.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zaffaroni y los K no deberían jugar con ese fuego.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Del otro lado de la grieta hay abogados que piensan que esas acusaciones por homicidios como consecuencia de la corrupción con las vacunas y la mala praxis se le podrían hacer al gobierno de los Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre es grave la corrupción o las torpezas de un gobierno pero cuando se trata de muertos y de horror son delitos de Estado y algún día deberán rendir cuentas ante los tribunales por semejante cantidad de hermanos argentinos muertos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3370
+}

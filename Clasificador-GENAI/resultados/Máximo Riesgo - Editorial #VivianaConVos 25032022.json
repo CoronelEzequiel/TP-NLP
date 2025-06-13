@@ -1,0 +1,66 @@
+{
+  "texto_id": "nombre_del_texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.795,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, Máximo Kirchner puso en riesgo al presidente Alberto Fernández.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner y todos los de La Cámpora son unos irresponsables.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo se gastó ayer desde las 6 de la mañana, porque los escuché desde mi casa, hasta la 1 de la tarde sin parar más la caminata tipo Virgen de Luján. La cifra de 68 millones de pesos. Este lanzamiento de Máximo Kirchner nos costó a los argentinos 68 millones de pesos, incluyendo a nosotros, el rebaño de pelotudos porteños.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner no cree en la democracia. ¿Será porque los Kirchner hicieron su fortuna con la dictadura?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El odio que tiene el gobierno hacia los porteños es visceral.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para el frente de todos contra todos, especialmente para Máximo y para Alberto, los porteños somos una mierda, les damos asco.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La metodología de agredirse en el área y discriminar a quien piensa distinto y no te vota es más propia de un dictador fascista que de un demócrata.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si me entero que los Kirchner robaron igual los volvería a votar. Negacionista, negacionista, mirá que esta mina tuvo huevos cuando había que hablar de los derechos humanos, de hacerse cargo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No representan a nadie. Son un mamarracho, un papelón, se llevaron respeto a Marzo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que ayer demostró Máximo y La Cámpora es que el presidente está muy solo, que lo están dejando solo, que ya lo dejaron solo, Alberto Fernández.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esta estación hay un asesino al lado del cartel donde dice Rodolfo Walsh.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8256
+}

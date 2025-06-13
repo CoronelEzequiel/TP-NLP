@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.809,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Echegaray fue el ángel protector de los corruptos del kirchnerismo, el guardaespaldas impositivo de muchos de los delincuentes que más se enriquecieron en el Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue el mismo Echegaray quien dijo que lo condenaron por sus convicciones políticas y que era inocente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Echegaray está acusado de encabezar una asociación ilícita para enriquecerse mediante una red de encubrimiento y violación del secreto fiscal para castigar a opositores.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue una pieza clave en las denuncias falsas, como la que hizo contra Alfonso Prat-Gay.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Alguien cree que Echegaray se hubiera atrevido a cometer semejante delito sin la orden de Cristina Fernández de Kirchner?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Echegaray tiene las manos tan manchadas, ¿se imagina la corrupción de Lázaro Báez o la de Cristina Fernández de Kirchner?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Cristóbal López le dio más de 100 planes de facilidades que Cristóbal López nunca cumplió.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo el escándalo de Oil Combustibles se ejecutó desde la AFIP de Echegaray, primero para fundir y mandar a la quiebra a la empresa, para comprarla a precio vil, y después para levantar los embargos y que Amado Boudou y su banda pudieran seguir fabricando billetes y boletas electorales para Cristina Fernández de Kirchner y sus cómplices.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ricardo Daniel Echegaray está en problemas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fue el ángel protector de los demonios K, pero se puede convertir rápidamente en el ángel exterminador de tanto corrupto.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Santa Cruz se hizo amigo de Rudy Ulloa Igor y eso lo catapultó a la Aduana de Río Gallegos en tiempos de Néstor Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2443
+}

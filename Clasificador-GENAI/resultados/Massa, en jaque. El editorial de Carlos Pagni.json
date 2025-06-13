@@ -1,0 +1,41 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ya sabemos que el gobierno, la Argentina y específicamente el gobierno, está en un drama porque a los desaguisados económicos anteriores a la sequía se le sumó la sequía y con la sequía un torniquete sobre el ingreso de dólares que determina 20.000 millones de dólares menos para la economía argentina y por lo tanto se agudiza algo que era anterior al problema de la sequía, no hay que olvidarlo, que es una crisis de reservas del Banco Central.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiere decir que hoy el gobierno de Alberto Fernández depende de dos actores a los que no maneja, con los que puede negociar pero que no necesariamente le obedecen. Uno son los chacareros, el otro es el Fondo Monetario Internacional.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que recordar siempre la frase de Máximo Kirchner ya con Massa como ministro durante el primer dólar soja que fue: \"Estamos de rodillas frente al campo o nos han puesto de rodillas frente al campo\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En medio de toda esta desesperación para que no se hable del dólar, hay otro rumor que hoy circulaba por el mercado, ojalá no sea cierto, y es que suspenderían el REM. ¿Qué es el REM? Es el Relevamiento de Expectativas del Mercado que son pronósticos que realizan economistas profesionales y que publica el Banco Central. Bueno, sería como cuando intervinieron el INDEC en 2008 con Alberto Fernández, jefe de Gabinete, romper el termómetro, que nadie hable de lo que todos estamos viendo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si uno hablara con un americano, por ejemplo, con un japonés, ellos podrían decir lo siguiente: “El lugar que hoy Brasil y la Argentina ocupan en el mundo es que son los que le venden alimentos a quien eventualmente, en un escenario más complicado, podría ser nuestro enemigo de guerra”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la desesperación, y esta es una novedad de todos estos días, empiezan reacciones complicadas donde reaparece el viejo rostro de algunos funcionarios kirchneristas, \"apretadores\" que caracterizaron sobre todo los años de Néstor Kirchner y de Cristina Fernández de Kirchner, recordemos especialmente cuando reinaba Guillermo Moreno en el gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8593
+}

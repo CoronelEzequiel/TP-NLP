@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy de nuevo están las calles de Santiago ensangrentadas, el cadáver del tirano Franco en un cementerio común de donde nunca debió haber salido.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y Cristina subió al escenario como si estuviera libre de culpa, con una libertad no condicional, sino completa, olvidándose de los procesos por los robos, hablando de la indignidad, hablando de una cantidad de cosas que me dan vergüenza ajena escuchar.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y el peronismo, que creía que la calle era suya, se dio cuenta de que les ganaron la calle y que, ganen o pierdan el domingo, va a haber 13 o 14 millones de personas que vamos a estar fiscalizando cada acto y se va a acabar el patoterismo del miedo, donde se dice: \"No vayas porque está Esteche con los palos y te rompe la cabeza\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que ir a las libertades personales.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que empezar a tratar de ser libres.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que sí podemos hacerlo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2908
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "A partir de ese día, Alberto Fernández habría llegado a la conclusión de que es inútil, estéril, tratar de cumplir con la fantasía de tener contentos a todos, es decir, de poner en el centro de su gestión, en el centro de su proyecto, la unidad de la coalición, la armonía del grupo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esa orientación es, básicamente, llegar a un acuerdo con el Fondo Monetario Internacional (FMI) a través de un método que prioriza la política sobre la técnica, y ese método es algún tipo de alineamiento, todo el alineamiento que le permite la coalición que él gobierna con los Estados Unidos, con la administración demócrata de Biden.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta posición de Fernández, esta opción de Fernández, que es muy criticada dentro del kirchnerismo, cuanto más a la izquierda se corre, más críticas recibe, habla de que, en la cotización de los grupos de poder internos del gobierno, en el predominio de determinados actores respecto de otros, han ganado peso dos figuras a las que hay que mirar de cerca.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una idea y una mentalidad muy dominante dentro del kirchnerismo, que es que todo es política, que si uno negocia bien, aprieta bien, amenaza bien, presiona bien, cualquier resultado se obtiene, aunque esos resultados tengan que ver con números financieros, económicos o con la ingeniería de la energía.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué quiere decir todo esto? Que la discusión todavía no empezó, que están discutiendo temas muy importantes. Hay que mirar a quiénes hay.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como sociedad, la Argentina está viviendo así desde hace mucho tiempo. ¿Qué quiere decir todo esto? Que la discusión todavía no empezó, que están discutiendo temas muy importantes. Hay que mirar a quiénes hay.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8604
+}

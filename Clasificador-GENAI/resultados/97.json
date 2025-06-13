@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Todos queremos que a Milei le vaya bien, y vamos a tratar de posicionarlo y darle apoyo en la Cámara de Diputados, pero no ganamos la mayoría con Juntos por el Cambio ni formamos parte del gobierno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Va a ser un apoyo que tiene que ver con mantener nuestra agenda: gobernabilidad y presupuesto, sí, con el límite de que no vamos a aceptar ninguna baja en el presupuesto educativo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estamos de acuerdo con la dolarización; es mala para la Argentina. Si hubiera un proyecto de ley en ese sentido, no lo acompañaríamos. Tampoco estamos de acuerdo con ningún arancelamiento de las universidades ni con nada que implique menos inversión en educación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El cierre del Banco Central y la dolarización son malas ideas porque te voy a dar un dato: en Estados Unidos, el último año se aprobaron 560.000 inventos; en Argentina, 3.600 patentes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando nace Juntos por el Cambio en 2015, después de la convención radical de Gualeguaychú en marzo de 2015, la preocupación era que Cristina Fernández de Kirchner había ganado la última elección con 40 puntos de ventaja sobre el segundo, y que, por lo tanto, iba a ir por la justicia, por los medios de comunicación…",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Podés tener la mejor teoría, pero una vez en la realidad tenés que manejarte con las restricciones que tenés; el Congreso nunca va a aprobar un programa de dolarización como el que quería.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3634
+}

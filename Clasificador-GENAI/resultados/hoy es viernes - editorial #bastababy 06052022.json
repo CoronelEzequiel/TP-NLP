@@ -1,0 +1,51 @@
+{
+  "texto_id": "El discurso de Cristina Fernández de Kirchner en el acto del viernes generó mucha controversia",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.744,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Su confrontación con Alberto Fernández fue directa, exponiendo abiertamente sus intenciones.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchos interpretan que su discurso lanzaba su candidatura a senadora, buscando inmunidad judicial.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El acto en contra de la Corte Suprema, repleto de personas con antecedentes, parece reforzar esta idea.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El avance sobre las instituciones es evidente, generando incertidumbre y temor a un escenario similar al de 2001.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este discurso, en línea con la trayectoria de Cristina en los últimos 20 años, podría generar desconfianza en los empresarios, el campo y la población en general.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta imagen deja entrever la falta de oportunidades y la situación vulnerable de muchos argentinos, sometidos a una situación de pobreza crónica por décadas de malas políticas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se observa la desesperación de la gente, incluso utilizando niños para obtener un lugar en la fila.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta situación se compara con la problemática de la falta de educación en años recientes, producto de la pandemia y las políticas del gobierno anterior.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1451
+}

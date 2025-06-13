@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.094,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esta manifestación, profundamente conmovedora, nos recuerda la larga lucha por el reconocimiento de las disidencias sexuales y de género en Argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recuerdo, por ejemplo, la promulgación del matrimonio igualitario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con la muerte de Néstor Kirchner, sentimos por primera vez un abrazo del Estado.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, esta aparente victoria no debe generar complacencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta mentira no es un hecho menor; forma parte de una estrategia de estigmatización que prepara el terreno para la violencia contra las personas trans y otras minorías.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este proceso es conocido y se basa en estudios sobre genocidio.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Somos un blanco fácil porque somos un colectivo poco conocido y vulnerable.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El éxito de la movilización del sábado se debió a la indignación, la solidaridad y la organización.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta lucha debe involucrar a todos, incluyendo al peronismo, que no ha logrado resolver del todo problemas como el cupo laboral trans.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1781
+}

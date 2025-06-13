@@ -1,0 +1,36 @@
+{
+  "texto_id": "carta_renuncia",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Soy un militante fiel a Cristina Fernández de Kirchner. Mi fidelidad se extiende a todas sus decisiones.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina ve más allá que nosotros. Yo me puse la remera de Cristina y la de Máximo Kirchner, que refleja el sentir de muchos compañeros. El articulador de todo esto, inteligente pero perverso y cruel, es Máximo Kirchner. Él maneja los medios, los jueces…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Haremos una movilización aún mayor que la del 25 de mayo. La acompañaré siempre. Ella se apartó de una elección, pero eso no la borra.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos un programa económico que incluya el no pago de la deuda, la ley de medios y la redistribución de la riqueza, y que sea ejecutado correctamente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El kirchnerismo tiene el peso electoral suficiente para liderar un programa económico. Los compañeros temerosos y tibios se unirán una vez que veamos un camino claro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1796
+}

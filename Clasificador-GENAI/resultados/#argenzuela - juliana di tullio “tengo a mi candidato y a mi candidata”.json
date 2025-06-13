@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_juliana_di_tullio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.097,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se trata de un proyecto para la mayoría, no para unos pocos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que hay que tener confianza porque los argentinos merecemos recuperar el país que dejamos en 2015, que no era perfecto, pero que casi lograba la independencia económica, la soberanía política y la justicia social.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El endeudamiento de Macri fue por un tema político, con el FMI, que no pierde nada.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo tiene condiciones para impedir que la derecha vuelva.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi misión es tener un proyecto claro para que la gente esté cómoda, y los dirigentes incómodos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que importa es el conjunto.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El que gana conduce, y el que pierde acompaña.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1868
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.143,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se va a votar a ciegas, es una caja negra herméticamente cerrada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy frágil, muy secreto, muy alejado del pueblo y, fundamentalmente, rodeados de un cordón represivo que nos remite imágenes de una Argentina que habíamos dejado en el pasado hace mucho tiempo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, quieren generar un clima de violencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí lo que me llama la atención es que el presidente de la Cámara abiertamente en un chat arengue y dé los nombres de los cinco diputados que van a \"pudrir\" hoy la sesión, la verdad es eso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, es increíble, porque más que presidente de la Cámara de Diputados parece el jefe de una barra brava.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo parece indicar que este DNU va a ser aprobado.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "criticando el plan económico, criticando el hecho de que el ministro Caputo no haya venido jamás a la Cámara de Diputados, a la Comisión de Presupuesto y Hacienda, a brindar alguna mínima explicación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2402
+}

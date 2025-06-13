@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.878,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Todavía no lo puedo creer, pero un delincuente como Amado Boudou fue ovacionado en la sala donde se estaba recordando los diez años de la sanción de la Ley de Identidad de Género.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Amado Boudou ha sido condenado por coimero y corrupto a cinco años y diez meses de prisión por 16 jueces y con sentencia firme, incluso de la Corte Suprema de Justicia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es increíble que la Federación Argentina de Lesbianas, Gays, Bisexuales y Trans le haya ofrecido la posibilidad de presidir el acto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La señal que mandan a la sociedad es de terror.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este país necesita más transparencia, más honradez y, sin embargo, adulan a un ladrón de estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Avanzarían a fondo contra las libertades individuales y la propiedad privada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire, Amado Boudou, a esta altura, es el nombre de la impunidad obscena y el apellido del privilegio repugnante.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este texto es demoledor, parece escrito esta mañana y, sin embargo, fue redactado hace apenas ocho años por el actual presidente que está en España.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Boudou fue y es un delincuente idolatrado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2308
+}

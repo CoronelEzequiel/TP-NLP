@@ -1,0 +1,31 @@
+{
+  "texto_id": "victor_blanco",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Conseguimos una copa que se nos había resistido, pero pudimos concretar, para felicidad del pueblo argentino y de toda la hinchada de Racing.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta lucha entre las Sociedades Anónimas Deportivas (SAD) y los clubes de socios… ganó Racing, una entidad que no es SAD.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lógicamente, tiene que ser administrado como una empresa, pero con un enfoque social.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Racing, nos esforzamos por mantener el plantel.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1686
+}

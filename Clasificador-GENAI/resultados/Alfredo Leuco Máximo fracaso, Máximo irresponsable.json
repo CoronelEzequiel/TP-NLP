@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.827,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El fracaso legislativo, porque no pudo conseguir los votos suficientes; el fracaso electoral como mariscal de la derrota en las PASO; y finalmente, el fracaso político de su proyecto de poder monárquico como príncipe heredero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su discurso es un aburrido rosario de consignas viejas; carece de la astucia táctica de su padre y de la buena oratoria de su madre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tozudo Máximo avanzó enceguecido de ira y chocó contra un papelón.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo tiene licuado su poder, ya no puede imponer las cosas con su verticalismo castrense y castrista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Soberbios y escondidos debajo de las polleras de Cristina Fernández, no le dieron bola a los intendentes, los ningunearon y, a la hora de armar las listas, Máximo puso a sus amigotes camporistas, que en muchos casos no los conocían ni su madre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es cierto que fueron muy exitosos en apropiarse de todas las cajas más deseadas y suculentas de la administración pública y que sembraron las segundas y las terceras líneas de los ministerios con talibanes camporistas, pero también es cierto que sus dogmas ideológicos envejecieron prematuramente, que se convirtieron en burócratas y millonarios en algunos casos y perdieron la rebeldía de la juventud.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hablan en inclusivo de los derechos de las minorías, pero se olvidan del derecho de las mayorías.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La dinastía Kirchner ya no tiene candidatos opositores para la presidencia en el 2023.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo tiene problemas para elogiar a Chávez o Fidel Castro, o ningunear a José Ignacio Rucci, y simultáneamente abrazar a derechistas mafiosos como los Mollano o directamente fascistas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es un millonario que dice combatir millonarios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son la gendarmería de la ideología, los gerentes del modelo, los dueños de la marca Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2728
+}

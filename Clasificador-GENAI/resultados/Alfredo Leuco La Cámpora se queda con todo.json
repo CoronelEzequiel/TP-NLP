@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En forma sigilosa y a paso redoblado, La Cámpora se está quedando con la suma del poder en la Argentina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su metodología es otra, pero el objetivo es el mismo: escriturar el peronismo a nombre de Máximo Kirchner.",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son una fuerza poderosa, con alta capacidad de movilización, con recursos económicos millonarios y con un verticalismo típico de las \"orgas\" revolucionarias.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La \"bulimia\" de poder de los camporistas es insaciable.",
+      "score": 0.82,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Para ellos el poder debe ser total, o no será nada, y eso se llama totalitarismo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se están quedando con todo, quien quiera oír, que oiga.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2314
+}

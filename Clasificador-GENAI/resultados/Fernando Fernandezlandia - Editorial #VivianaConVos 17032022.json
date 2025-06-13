@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En el mundo ideal de Cerimedo-Landia no existe el mérito.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el claro ejemplo es este mamarracho, el librero devenido canciller.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pasamos de Faurie, un señor impecable a esto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los zurdos siempre quieren distribuir la riqueza, pero jamás la crean.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, el pobreismo no es el camino. Cada vez más planes, cada vez más pobres. Basta de limosna, la gente quiere laburar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7040
+}

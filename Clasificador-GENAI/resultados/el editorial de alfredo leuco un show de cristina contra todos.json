@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.708,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Debemos también abordar un tema, tal vez más latinoamericano, que es el partido judicial como instrumento contra los gobiernos nacionales y populares.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También castigó al ex presidente Mauricio Macri y a las grandes potencias que permiten una base de la OTAN en Malvinas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando se refirió brevemente a la invasión de Rusia a Ucrania, no dijo una sola palabra de condena contra los crímenes de lesa humanidad de Vladimir Putin.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A la hora de castigar a la actividad privada, dijo que el Estado ayudó a los empresarios durante la pandemia y que ahora, que los necesitaba, por culpa de la guerra, ponían excusas y no se hacían cargo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su conclusión fue que, para los privados, el Estado es bueno cuando te ayuda con créditos, subsidios y bajas de impuestos, pero es malo cuando quiere regular para combatir las desigualdades.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Advirtió Cristina Fernández de Kirchner que hay que tener cuidado porque la gente se enoja con la política, pero los poderes económicos nunca son juzgados.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dijo Cristina Fernández de Kirchner que la banda y el bastón solamente te dan un poquito de poder.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hasta ahora, Cristina Fernández de Kirchner no encontró ningún camino efectivo para que el lunes no asuma el doctor Horacio Rosatti como presidente del Consejo de la Magistratura en su nuevo formato.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue una interpretación forzada y sesgada, pero ella dijo que se sentía orgullosa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El show de Cristina Fernández de Kirchner incluyó una factura al presidente Macri porque había utilizado esa sala tan maravillosa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Una Cristina Fernández de Kirchner auténtica que se muestra con superioridad moral, incluso sobre a quien eligió como presidente, pese a que ella maneja el 71% del presupuesto nacional.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es imposible saber cuándo y cómo volará por los aires esta farsa de divorciados que conviven bajo el mismo techo del poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2549
+}

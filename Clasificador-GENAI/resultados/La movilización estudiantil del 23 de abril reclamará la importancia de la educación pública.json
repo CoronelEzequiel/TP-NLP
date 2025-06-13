@@ -1,0 +1,46 @@
+{
+  "texto_id": "movilizacion_universitaria",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.643,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto es lo que se percibe en el contexto del recorte presupuestario a las universidades que está llevando adelante el gobierno de Javier Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, la movilización universitaria es impulsada por toda la comunidad: rectores, decanos, profesores, graduados, estudiantes, y por casi todo el espectro político, salvo el PRO y los libertarios.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presupuesto universitario está totalmente congelado con una inflación del 300%. Entonces, la marcha se convoca para defender a las universidades, que es de lo poco que funciona bien en el Estado y que nos genera orgullo a todos los argentinos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En general, los gobiernos, con una matriz ideológica de derecha, ven a la universidad pública con recelo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si nos unimos, estudiantes, docentes, no docentes y todo el pueblo argentino, podemos ganar, podemos derrotar este plan de guerra del gobierno de Milei que quiere privatizar las universidades públicas.",
+      "score": 0.7,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este 23 de abril, la sociedad argentina en su conjunto va a salir a las calles de todo el país a movilizarse contra la decisión del gobierno nacional de Javier Milei de cerrar las universidades públicas.",
+      "score": 0.7,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De financiar a la universidad pública es volver a un país más injusto, más desigual, es obstaculizar el desarrollo de uno de nuestros mayores capitales, el capital humano, como quiere llamar al desarrollo humano este gobierno.",
+      "score": 0.6,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5096
+}

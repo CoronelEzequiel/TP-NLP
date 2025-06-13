@@ -1,0 +1,41 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay que hacer esta advertencia sobre esta especie de manipulación de los resultados de Santa Fe. ¿Por qué? Porque es muy difícil extrapolar esos resultados a la escena nacional.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es evidente que el peronismo hizo una mala elección, sacó 28% de los votos, perdió 14 puntos respecto de las primarias del 2019. Entonces estamos hablando de una caída importante teniendo en cuenta que es una provincia históricamente peronista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pullaro, el candidato ganador de la interna de Juntos por el Cambio, un político podríamos decir de la casta político-partidaria, que hizo de esta campaña, una campaña sostenida en un gran tejido de dirigentes, sobre todo del interior, vamos a ponerlo en estos términos, vieja política, política clásica, sacó 34% de los votos de su interna contra 22% de Carolina Losada",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decíamos, festeja el discurso moderado de Larreta porque ganó Pullaro con un discurso moderado. Bullrich tiene que revisar su argumentación, este llamado a un conflicto casi a provocar la resistencia a lo que serían sus políticas y a pedir que la gente salga a la calle a defender un programa de ajuste, eso tiene víctimas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno desea que eso siga porque cree que le gana más fácil a ese discurso que al discurso de la moderación, que es moderación porque, en realidad, quiere ir al centro. Larreta, en el fondo, es qué capacidad tiene Juntos por el Cambio para capturar el voto desencantado del peronismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si el dólar se mueve, es una señal de desorden político. Acá está el problema de Massa. Este es el problema central.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8620
+}

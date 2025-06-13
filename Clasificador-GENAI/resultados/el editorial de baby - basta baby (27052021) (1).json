@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.745,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy Javier tuvo un problema personal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Miren, si ustedes subieran la calidad de esto…",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero una \"dumita\", pero lo mejor es traer las cámaras.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¡Todos estos vagos de mierda!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Justamente el día en que Alberto Fernández se casa allá, se puso los anillos con Venezuela y anda a los besos con Venezuela, y le pegan a la comunidad judía y están a favor de los extremistas…",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y entonces alguna gente me dijo hoy: “Babi, ¿cómo entendés que tanta gente inteligente que tiene empresas, que tiene propiedades, sea kirchnerista?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si vos, como en todo gobierno fascista… hoy le escribí una nota al “Negrito Oro” para Uruguay que hablaba de la lista de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo: todo es bueno en su medida y armoniosamente. Esto es una dictadura, más que nada por las confesiones ya con Venezuela, el único país del mundo que está último en la lista de los países más pobres, como nosotros, y primero los corruptos; y encima, íntimo amigo de Venezuela.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo no soy antic, yo relato las cagadas que ustedes se mandan, que son chorros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero ustedes tienen que darse cuenta de que si la gente está enojada no es por Baby Etchecopar, ni por Lanata, ni por Viviana Canosa, está enojada por los ladrones que son ustedes, porque se robaron el país, se robaron las vacunas, siguen robando, son unos desfachatados, no tienen vergüenza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y le quiero decir a los hermanos venezolanos que no tenemos nada que ver con estos pelotudos y que nosotros no estamos a favor de Maduro; el pueblo argentino no está a favor del dictador Maduro, a contrario, lo aborrecemos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3647
+}

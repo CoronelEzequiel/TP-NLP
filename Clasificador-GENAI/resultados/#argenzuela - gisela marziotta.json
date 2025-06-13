@@ -1,0 +1,41 @@
+{
+  "texto_id": "Mariotto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.06,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los tres merecen la expulsión por su implicación en hechos racistas e incluso apología de delitos de lesa humanidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son diputados nacionales las 24 horas del día, en cualquier lugar.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos la responsabilidad institucional de exigir la expulsión de estos diputados que visitaron a genocidas, desconociendo los delitos de lesa humanidad reconocidos internacionalmente durante la última dictadura militar.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Represento en la Cámara de Diputados a esos compañeros desaparecidos, soy parte de un espacio político que defiende ese proyecto.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En casos de violencia de género, la víctima tiene la razón hasta que se demuestre lo contrario.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Libertad Avanza aprovecha esto para hacer chicanas, los mismos que eliminaron todo lo relacionado con el Ministerio de las Mujeres.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1687
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.744,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El señor Máximo Kirchner, uno de los principales responsables, hay que decirlo, de la tragedia argentina, de la tragedia argentina, quien fundó La Cámpora, que fundó Tesur, que es diputado nacional, que fue presidente del bloque kirchnerista en la Cámara de Diputados, que es presidente del PJ de la provincia de Buenos Aires, que está procesado por lavado de dinero, el señor Máximo Kirchner, sin embargo, atención, da lecciones de vida, da lecciones de gobierno, miren.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si le manda la plata a las ollas de los comedores, si les manda el dinero y los alimentos a los comedores, si dejan de ser destinos masivos de gente que trabaja dentro de la esfera pública y que cuida que no se produzcan todavía más despidos en el sector privado, o sea, si cambia su mirada, la verdad que para mí es una anécdota que le cambien el nombre, cambio todo, porque traten bien a la gente, no me importa, si quiere le puedo poner Eduardo Rancián, pero que mande la comida a los comedores, que mande la comida a los comedores, Eduardo Rancián le puede poner si quiere, no tengo ningún tipo de problema, no me interesa, que mande la comida a los comedores, que mande los insumos a los hospitales, que no le saquen el medicamento ahora que la jubilará, y que le ponga, tiene, como es esto, Kona, le pone Kona al Centro Cultural, está con esto, pero que lleguen las cosas para la gente.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso no sigan con el discurso anti Eurnekián, anti Empresa, anti Imperialista, anti Derecha, ustedes hicieron mucha guita, mucha guita con los aeropuertos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no lo escuché durante los últimos cuatro años, no le dije ni una sola palabra del desastre social que hicieron, pero nada, digo datos duros, 2003, agarren el país del kirchnerismo, había 400 villas, 387 villas, ¿cuántas hay ahora? 6.400 villas, multiplicaron por 17 la cantidad de villas en 20 años, miren Máximo, no dijiste nada de esto, la inflación arranca el kirchnerismo hace 20 años con 3,7% de inflación, la dejaron en 211,4, multiplicaron por 57 la inflación, unos campeones en 20 años, el dólar, agarren el kirchnerismo hace 20 años, el dólar a 3, a 3 pesos, miren lo que valía, ¿te acordás Nico? 3 pesos, lo dejaron a 1.200, te diría, multiplicaron por 300 el dólar en 20 años, desaparece Máximo Kirchner sin hacer una sola autocrítica de la destrucción de Argentina y te da cátedra de vida, cátedra de gobierno, solo le quiero recordar al diputado Kirchner el desastre que fue su propio gobierno, miren.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso ganan eternamente los caudillos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se puede seguir con un Estado gordo, bobo que mantiene gente por amistad, ideología política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En ese sentido, vamos a eliminar todos los ministerios, salvo siete.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei cumple al pie de la letra, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo quemó la casa. El kirchnerismo vació la casa. El kirchnerismo arruinó la casa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7678
+}

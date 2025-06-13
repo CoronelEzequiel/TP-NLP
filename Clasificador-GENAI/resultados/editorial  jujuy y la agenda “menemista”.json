@@ -1,0 +1,41 @@
+{
+  "texto_id": "jujuy",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.383,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nuevamente, la provincia de Jujuy se instaló en la agenda política nacional, esta vez por la iniciativa del gobernador Gerardo Morales, candidato a vicepresidente de Horacio Rodríguez Larreta, quien impulsó una represión contra referentes políticos y sociales que participaron de las movilizaciones contra su reforma previsional, aprobada apresuradamente con el apoyo del PJ local.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las denuncias contra Gerardo Morales por parte de un sector, al menos del peronismo, están claramente motivadas por intenciones electorales, al igual que los silencios de otros sectores.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay motivaciones más profundas, menos discutidas, que se refieren a la entrega de recursos naturales, particularmente el litio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Similarmente, la reforma laboral propuesta por equipos técnicos de Juntos por el Cambio,  incluye un blanqueo laboral con un periodo de regularización de un año (seis meses a costo cero y un 70% de descuento en los siguientes seis meses), la extinción de acciones penales y multas por contratación informal, y la extensión del periodo de prueba a seis meses, además de un régimen simplificado para los siguientes doce meses.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta reforma flexibilizadora se conecta con la propuesta de un sector sindical, con la participación de Gerardo Martínez (UOCRA), aliado de Sergio Massa y promotor de su candidatura presidencial.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se debe repudiar tanto los métodos represivos de Gerardo Morales como la agenda que representa, e impulsar una agenda alternativa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1688
+}

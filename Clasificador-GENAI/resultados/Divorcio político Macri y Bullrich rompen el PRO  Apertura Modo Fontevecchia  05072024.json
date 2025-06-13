@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El PRO: de la fusión a la confusión. Y nos vamos a meter ahora mismo en todo lo que pasó en el partido fundado por Mauricio Macri.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mauricio Macri nunca le perdonó a Patricia Bullrich que se corte sola, que se vaya como ministra de Milei sin el consentimiento y sin consultarlo siquiera al que era hasta hace algún tiempo su jefe político, a Mauricio Macri.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá que sea la última vez que ven al PRO en estos actos inmaduros de problemas que si no tenés la razón te vas y decís cualquier cosa pero yo espero que eso sea un punto final, que es lo que nos trajo hasta acá.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich dijo \"yo no me voy\", voy a armar una corriente interna, pero ahí hay un problema grande y pareciéndose cada vez más el PRO a lo que sucede en los partidos tradicionales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No extraña que tal cosa viene por izquierda las ideas que no se empobrecieron como país, también viene por izquierda quienes quisieron negar y demonizar a Sarmiento, con todo lo que hizo para elevar el común de los argentinos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6215
+}

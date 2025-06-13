@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La primera es la sequía, una grieta real en la tierra que está generando imágenes impresionantes en las provincias más productivas del país.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente, en lo que parece el inicio de una campaña de reelección, minimiza el problema, afirmando que una parte de la inflación está sólo en nuestras mentes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hecho contrasta con el éxito de la película argentina \"1985\", nominada al Oscar, que aborda el juicio a las juntas militares y la violación de los derechos humanos durante la dictadura.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina tiene el potencial de cambiar su historia en los próximos diez años, gracias a recursos como el gasoducto Néstor Kirchner y la explotación del litio, con la posibilidad de exportar 40.000 millones de dólares en energía.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente afirma que este proyecto une y fortalece el tejido productivo y social, a diferencia de discursos vacíos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta situación, según los expertos, provocará un aumento en el precio de la carne en el próximo año.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1686
+}

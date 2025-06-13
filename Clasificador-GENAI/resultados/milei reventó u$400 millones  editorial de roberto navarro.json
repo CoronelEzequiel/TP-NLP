@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.23,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es decir, Luis Caputo, quien ya fue acusado de estafar a los argentinos durante el gobierno de Mauricio Macri, está utilizando fondos previsionales para subsidiar un dólar barato a quienes buscan obtener ganancias especulativas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La utilización de fondos de la ANSES para la compra de dólares en el mercado de contado con liquidación, con Caputo involucrado, indica una estrategia para sacar capitales del país.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Domingo Cavallo recomendó una devaluación inmediata para evitar un colapso antes de las elecciones, anticipando un posible aumento del dólar a 2000 o 2500 pesos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La reciente destitución de la hija de Cavallo tras una entrevista en Radio Rivadavia donde Milei lo acusaba de realizar negocios turbios, demuestra la desesperación y la incoherencia del gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se refuta la afirmación del gobierno de que no habrá devaluación, respaldada por declaraciones del presidente en una entrevista con Antonio Laje.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2062
+}

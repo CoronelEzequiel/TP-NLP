@@ -1,0 +1,86 @@
+{
+  "texto_id": "analisis_cabaret_argentino",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.78,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Argentina es un cabaret.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo comenzó cuando Lanata denunció hace una semana en su programa de televisión el curro del gasoducto Néstor Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente me parece muy osado por parte del gobierno publicar algo que es evidentemente mentira, y que aparte es muy fácil de averiguar que es mentira.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo rajaron, rajan a Culfas, por decir la verdad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es como la reina de la escoba, los va barriendo a uno por uno, a todos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Cristina ataca al presidente, saltan todos, pero cuando la muchachada de Cristina ataca al presidente, no pasa absolutamente nada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno se llevó valores morales a marzo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que más me extraña y no tanto es que echen a Culfas por denunciar un caso de corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que saben hacer es entongarse con los empresarios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández usa la lapicera contra sí mismo y tiembla todo el gabinete.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández eligió ser el trapo de piso de Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre estamos del lado de los malos, de los maduros de la vida.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado es como Drácula. Te hinca el diente y te chupa la sangre.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usan a los pobres para hacer números. Usan a los pobres para ganar guita.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente no morfa, pero si querés romper juntos por el cambio, lo mejor es decirlo directamente, dice Morales.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8921
+}

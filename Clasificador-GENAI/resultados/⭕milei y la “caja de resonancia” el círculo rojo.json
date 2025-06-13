@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.213,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei logró, por poco, formar la minoría legislativa necesaria para vetar el aumento presupuestario aprobado por el Congreso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El movimiento estudiantil se ha convertido en un actor clave en el escenario político argentino, imponiendo un serio límite al proyecto libertario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como en otras crisis argentinas, la irrupción del movimiento estudiantil suele anticipar cambios en el escenario político, actuando como una caja de resonancia de los malestares sociales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Es solo una lucha presupuestaria? Considero que está íntimamente ligado al declive del gobierno, a diez meses de ataques, maltrato a jubilados y recortes en salud pública.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1437
+}

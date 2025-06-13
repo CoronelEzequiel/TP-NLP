@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.623,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Habló el presidente de la Nación, Alberto Fernández, y no dijo nada más ni nada menos que lo que dice siempre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero voy a hacer un análisis exhaustivo y profundo del discurso que escuché a medias.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque la verdad es que me aburre.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero primero quiero decir algo: la única herramienta que tenemos para no morirnos es cuidarnos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces creo que, en líneas generales, todos estamos a favor de la vida.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso hay que cuidarse, porque ¿sabes qué? El gobierno, en todo el mal que hizo, hace y hará, informa mal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y usted empezó diciendo en su discurso: “El mundo está bajo una…”, sí, pero el mundo no la tiene a Cristina Kirchner, el mundo no quiere cagarle la vida al campo, el mundo no encierra a su gente, porque busca soluciones que usted no supo conseguir, y usted en un año de pandemia no supo conseguir una solución, y tiene un quilombo con las vacunas que no sabe para dónde agarrar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y después tenemos una oposición que es Macri, porque tampoco, ¿viste?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto es típico, mire, señor presidente, del miedoso, ¿no?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el mundo entero lo que hacen normalmente es vacunar, tienen vacunas, todo el mundo tiene vacunas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hizo un discurso como que ahora arrancamos a pelearle al COVID, realmente nos venció el COVID porque nos mató más de 70.000 argentinos, porque usted puso gente y cuando usted se vaya, vayamos a la justicia, algunos delitos, porque si el otro día Zaffaroni dijo que la Corte Suprema tenía la culpa por haber dado las casas y no murió nadie, usted tiene la culpa y su gobierno de no haber aceptado los 16 millones de vacunas que le querían dar, porque estaban negociando tal vez con Pfizer o con Sputnik, o quién sabe qué negocio podrido había en el medio como todos los que hacen ustedes, donde los cometían, porque [nombre no especificado]… usted, señor presidente de la Corte Suprema, lo agarramos en varias, sin ir más lejos cuando hablaba de Cristina Kirchner, y es más, un día tuvo un fallido que lo voy a recalcar siempre donde dijo: “Y esta vez le voy a decir la verdad”, y hoy arrancó diciendo: “Yo no miento.”",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por supuesto, Alberto, yo no tengo que grabar el mensaje, lo digo como me sale con bronca, pero honestamente ya nos dimos cuenta quién es usted, y también nos dimos cuenta con qué gente está rodeado, y también nos dimos cuenta que el mismo miedo que le tiene al COVID es el que le tiene a Cristina Kirchner, pero todavía no aprendió a tenerle miedo al pueblo, porque si usted se mantiene ahí es porque el pueblo no se quiere morir, porque realmente lo que ha hecho en un año de COVID con la cantidad de vacunas que trajeron es insolente, por decir algo para no faltar el respeto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A propósito, la primera dama está viendo casas en España todavía, Alberto, qué degradada que está su imagen, qué degradado que está su gobierno, lo único que aumenta es el COVID, ustedes están por el piso, y la oposición también.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3508
+}

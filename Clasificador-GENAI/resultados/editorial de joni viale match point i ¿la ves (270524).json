@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.835,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "A todos los gerentes de la pobreza que les robaron la plata y la comida a los pobres.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver, Beliboni, no es que el gobierno te quiere preso, la sociedad argentina te quiere preso, porque le robaron la comida y la plata a los pobres.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Sabés por qué Beliboni no pone las manos en el fuego por sus lacayos? Porque están en el horno.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Beliboni, lo mínimo que merecen es la cárcel.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "O sea, usaban la guita de los pobres para financiar al Partido Obrero.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué Beliboni necesita que al gobierno le vaya mal? Para que dejen de estafar con el tremendo curro del hambre.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que estos tipos hablen de un genocidio infantil.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este modelo está match point.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El populismo ha implosionado por peso propio.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo le pido a la señora Lía que por favor escuche el audio de la charla Espinoza-Melody el día después del presunto abuso sexual.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta gente se sabe impune porque Espinoza es la gallina de los huevos de oro, el peronismo de la provincia de Buenos Aires.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Postales de la decadencia populista, ¿eh?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Match point para el populismo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4995
+}

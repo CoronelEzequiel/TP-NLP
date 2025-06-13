@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_jubilaciones",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si bien Javier Milei en campaña dijo que la justicia le iba a pagar a \"la casta\", es bien sabido que la parte más significativa del superávit fiscal la logró reduciendo las jubilaciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Chile, donde rige el sistema de capitalización individual que se ha logrado sostener a lo largo del tiempo, las pensiones mínimas son 400 dólares.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es cierto que si no hubiera inflación, o sea, se controla la macroeconomía y no hubiera *defaults*, las jubilaciones serían mayores. Es decir, que si uno arregla la macro, más tarde o más temprano, va a arreglar las jubilaciones, que esta debe ser la perspectiva de Javier Milei.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como metáfora de esta rivalidad etaria, podemos ver en nuestra sociedad que Javier Milei fue apoyado en un primer momento por los más jóvenes, que con su uso de las redes sociales instalaron también su dinámica y lenguaje, a veces directo, cargado de insultos o apelativos hirientes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pérdida de valor de los salarios actuales que ha disminuido, ha disminuido a las cajas, es otro de los factores que se agrava de manera continua. Sin embargo, la solución no puede reducirse únicamente a la reducción de beneficios, sino que requiere una reforma integral que garantice la sustentabilidad sin comprometer la dignidad de aquellos que han trabajado toda su vida.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6899
+}

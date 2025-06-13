@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.471,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "24 de marzo, si la libertad avanza, la democracia retrocede.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez este gobierno, que se impone a fuerza de la fuerza, y una represión a la protesta social, avance gradualmente en un régimen distinto en nuestro país, en donde la democracia quede restringida, o tal vez sea simplemente otra experiencia del populismo, como el kirchnerismo, solo que de derecha, que siga jugando a pesar de estar al límite dentro de los marcos institucionales.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como ven, las coincidencias con el presente son bastantes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si el gobierno fuese fascista, sería más ordenado, sería un poco más ordenado. Corporativismo clásico, sindicatos fuertes, un poco más ordenado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La realidad es que el gobierno de Javier Milei, en la actualidad, está muy lejos de cualquiera de estas expresiones, inclusive de las europeas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En relación al régimen democrático es muy factible que la segunda figura política más importante de este país, la ex presidente titular del PJ, Cristina Fernández de Kirchner, no pueda presentarse en las próximas elecciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esperemos que algún día esta pregunta no termine siendo como aquella de Videla sobre los desaparecidos, balbuceaba la famosa pregunta de aquella conferencia de prensa de 1980 de Nacho López, pero reiteramos, esperamos estar equivocados y si no, es saludable asistir a la movilización junto a los organismos de derechos humanos en todas las plazas del país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6150
+}

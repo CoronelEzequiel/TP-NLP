@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Primero, vamos a escuchar al jefe de Gabinete, Guillermo Francos, decir que analizarán cuáles son las objeciones que se hacen, refiriéndose casualmente a la modificación de la ley de información pública.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En contraposición a esto que acabamos de escuchar, vamos a escuchar ahora al vocero presidencial, Manuel Adorni. El vocero, con rango de secretario, ni siquiera de ministro, es un ministro desautorizando al jefe de gabinete, es decir, el jefe de todos los ministros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los gobernadores también dicen que no quieren más hablar con Francos porque todas las promesas que Francos hace luego no se pueden cumplir.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Francos, el *consigliere* que está cumpliendo un rol constitucional, que fue desautorizado por tratar de incorporar una inquietud correctamente planteada por la oposición, debería ser escuchado por el bien del gobierno, el de sus políticos, pero también por el bien de la calidad institucional de nuestro sistema.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5232
+}

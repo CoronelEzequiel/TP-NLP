@@ -1,0 +1,31 @@
+{
+  "texto_id": "despedida",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es una decisión para una vida mejor.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La esencia es migrar, viajar, buscar el horizonte… ¡Lo incierto!",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¡Nos ahorramos una indemnización! ¡Es mi día de suerte!",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella se va, nosotros seguimos aquí! Lamentablemente…",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1805
+}

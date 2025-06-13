@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.924,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno, considerado el peor de la historia democrática, continúa lanzando basura política tóxica, ¿verdad?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para colmo, cuando me dispongo a abrir una ventana al aire puro del general San Martín, me encuentro con un recuerdo nefasto del año pasado que no quiero olvidar: ni olvido ni perdón.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es aceptable que el diputado Valdés compare a San Martín con Cristina Fernández; es como igualar el día y la noche.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández, en cambio, cruzó todos los límites legales y se convirtió en la jefa de la asociación ilícita para saquear al estado, la más grave de la historia democrática.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "San Martín es el padre de la patria y nosotros, sus hijos, debemos honrar su memoria, tratando de multiplicar sus valores y de construir una Argentina a su imagen y semejanza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A San Martín, para que nos siga iluminando aún en los momentos más oscuros, con nuestros ganaderos aliados de la gloria.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Cristina Fernández, jamás.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2467
+}

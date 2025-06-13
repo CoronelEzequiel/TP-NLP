@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Elijan su propia aventura: ¿qué es más fácil, obtener una visa de Estados Unidos bajo la presidencia de Donald Trump o un permiso para ingresar a la provincia de San Luis bajo la gobernación de Alberto Rodríguez Saá?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se parecen bastante en su afán de controlar quién entra y quién sale.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Parece que la provincia de San Luis es ridícula.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entiendo por qué Aerolíneas Argentinas envía aviones a Miami y no a San Luis: es mucho más fácil realizar el trámite para ir a Estados Unidos que a San Luis.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En resumen: la visa de Estados Unidos requiere dos formularios, una entrevista, 12.500 pesos y dura dos días; si se aprueba, tiene una vigencia de diez años. El permiso de San Luis requiere georreferenciar el campo, colocar un GPS en el auto, etcétera.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1322
+}

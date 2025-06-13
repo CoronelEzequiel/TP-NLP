@@ -1,0 +1,41 @@
+{
+  "texto_id": "El_Destape_alimentos_almacenados",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.133,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de Javier Milei... tiene más de cinco millones de kilos... de alimentos almacenados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se está dejando a millones de personas desamparadas, mientras la comida se pudre, lo que representa un nuevo nivel de crueldad estatal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno decidió almacenarla, asumir el riesgo de su vencimiento y no entregarla a nadie.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El vocero presidencial y el responsable del área justifican la crueldad de no distribuir los alimentos por una supuesta corrupción que no demuestran.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esperamos que hoy comience la distribución de esos cinco millones de kilos de comida y que se adquieran nuevos alimentos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un elogio a la crueldad del Estado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1773
+}

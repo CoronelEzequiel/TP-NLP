@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El eje hubiese sido ese, porque la pauta oficial puede haber terminado en Argentina, pero no terminó la pauta extraoficial y eventual, a través de YPF, de la AFI, etcétera.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es parte de la saña de este gobierno que avanza cada vez más hacia un esquema autocrático.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No suelten la criptoestafa, porque me da la impresión que mi ley está en una situación complicada con este tema.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lamento que tengamos un presidente al que solo lo tensiona lo que diga el New York Times, los medios internacionales, la comunidad internacional, la opinión pública internacional y no lo que le pase a sus compatriotas, que la están pasando muy mal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que ser consecuentes: hay un pueblo que la está pasando mal.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2818
+}

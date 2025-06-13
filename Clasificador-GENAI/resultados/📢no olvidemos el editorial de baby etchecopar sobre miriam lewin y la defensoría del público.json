@@ -1,0 +1,91 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Voy a hablar hoy de algo que sucedió y, la verdad, me indignó tanto que hoy voy a insistir, porque es un tema que me indigna.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí están, cuando eran extremistas, montoneros, cuando eran guerrilleros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vio que esto lo apoyaban y se fue con esto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta gente, a veces yo pienso, yo los conocí en los 70 a estos. ",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque durante 20 años hicieron mierda a la Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero la diferencia entre esta lacra y nosotros, es que nosotros nos pegábamos de frente, nos poníamos adelante de un televisor y decíamos: robaron esto, esto, esto, están haciendo esto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta es la forma más hipócrita, dañina e hija de puta de haber gobernado durante 20 años, con la montonera Lewin a la cabeza, que yo tengo un juicio con Lewin, no me acuerdo si llamé a una abogada, no, creo que no.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No van a volver más, pero ¿por qué me atrevo a decir que no van a volver más?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo hoy sacaba la cuenta, se afanaron la guita del sur, se robaron varios PBI, no sé si uno o dos, se robaron la plata en bolsas, se rodearon de delincuentes que fue la gavilla de Cristina y de Néstor, que se llamaban gabinete pero era gavilla, no gabinete, dejaron al país destruido con 60% de pobres, persiguieron al periodismo, castigaron al periodismo, compraron medios de comunicación para desinformar a la gente, hicieron mierda a dos generaciones de pibes que usaban los colegios y las universidades para adoctrinar y no para enseñar, vendieron mentiras, le lavaron la cabeza, le dijeron a los pibes que esto era poco menos que San Martín de la patria, Bonafini y Carlotto, Lewin, y todos estos, vendiéndose como los salvadores de la patria, que dice Cristina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces cuando vos te preguntás por qué podría volver alguno de ellos, por nada, porque no hicieron una buena.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La Argentina con los hijos de puta de los dictadores, que no los defiendo yo, fue una guerra civil, chicos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero estos mierdas durante 20 años se surtieron del estado como si fuera propio, se hicieron cargo del país y lo usaron de punta a punta y se cagaron en todo, dejándonos lo que hoy estamos padeciendo: droga, robo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces realmente quería que llegue esta hora para contárselo: no van a volver más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes fueron la mierda más grande de 20, fueron padres de todos los males, cometieron todos los pecados y como si esto fuera poco, nos persiguieron a los periodistas, nos persiguieron hasta la puerta de los teatros, hasta la puerta de casa, nos persiguieron con la SIDE, con la AFI, nos escucharon los teléfonos, nos grabaron los teléfonos, nos copiaron los WhatsApp, nos llamaron y nos amenazaron, mirá que tengo el teléfono en el WhatsApp tuyo para que nos callemos la boca.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso disculpenme que me ponga así, pero me exacerbó ver mi nombre, el de Canoza, el de Feinmann, el de Jonatan, el de Nelson, todos los periodistas, todos los compañeros, incluso Rolando Graña, me exacerbó esa historia.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Videla, Massera, Agosti, Galtieri, Cristina Kirchner, Néstor Kirchner, Boudou, Miriam Lewin, Sabbatella, todos en la misma bolsa, nunca más.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3860
+}

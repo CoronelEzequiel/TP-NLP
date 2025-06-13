@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dicen que el fiscal Diego Luciani generó odio con su alegato.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El valiente fiscal, con su riguroso aporte de tres toneladas de pruebas, generó esperanza de que la justicia condene de una vez por todas a Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un sector de los medios de comunicación y del periodismo independiente lo que trata de hacer es iluminar siempre las zonas oscuras del poder, de todos los poderes, donde florece la corrupción de Estado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La prensa profesional trata de denunciar los avances autoritarios de un kirchnerismo que cada día se parece más a un nacional populismo chavista.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que los medios y algunos periodistas también generan el odio que cargó la pistola, lo cual es también todo lo contrario.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para cerrar, una última reflexión sobre Gabriela Cerruti. Los periodistas, Cerruti, a los que usted les dijo que no había ningún proyecto en análisis sobre la ley de odio, no le creyeron.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2279
+}

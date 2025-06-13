@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.286,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si le parece bien, hoy quiero salir un poco de la política, de la corrupción, la impunidad y el autoritarismo, como los de Cristina Fernández de Kirchner y su grupo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su padre era un anarquista, pobre y poeta, siempre perseguido por la policía y los acreedores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cátulo aprendió a amar a su patria y a su ciudad, los colores, aromas y sabores de Buenos Aires, su cultura, su gente, sus misterios escondidos, y pudo radiografiar y representar los padecimientos de los más humildes y los más explotados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cátulo jugaba para el equipo de los muchachos de Boedo, para él los de Florida eran puros \"cajetillas\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue todo lo contrario de muchos sindicalistas de hoy, con mafias, ideas flacas y bolsillos gordos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mantenía firme el mismo compromiso con los trabajadores y con sus colegas, los autores y compositores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estaba dispuesto a darlo todo a cambio de apenas una mesa con pocillos humeantes y sabrosos, con amigos de la noche, del café, de los \"angelitos\", para disfrutar entre reflexiones y discusiones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2632
+}

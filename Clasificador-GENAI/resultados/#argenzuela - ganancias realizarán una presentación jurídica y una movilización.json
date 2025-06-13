@@ -1,0 +1,61 @@
+{
+  "texto_id": "entrevista_omar_rialde",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.072,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Obviamente, con preocupación y malestar. Desde el movimiento sindical luchamos durante muchos años contra este injusto impuesto a las ganancias sobre los salarios, por su carácter alimentario.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, es un retroceso evidente de un gobierno que, en siete meses, nos ha hecho retroceder enormemente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, sí, hay unanimidad. Se realizarán presentaciones judiciales y movilizaciones de las organizaciones afectadas, alrededor de 800.000 trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La marcha busca sumar a quienes no se animan a manifestarse contra el gobierno, porque hay cierta tibieza en algún sector del Consejo Directivo de la CGT.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La CGT ha mantenido una postura activa, emitiendo documentos y presentando una agenda para un nuevo contrato social para Argentina con 17 puntos, que incluyen trabajo, educación, salud, política social, seguridad social, política internacional, cambio climático y hábitat.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Insisto, no creo que el movimiento sindical esté rezagado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno es la violencia verbal del gobierno, que se está naturalizando. Me preocupa el agravio, la descalificación y el insulto del presidente y sus funcionarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo segundo es que hay un presidente dispuesto a destruir el Estado.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde mi lugar, como peronista y militante sindical, creo que quienes piensan que pueden salvar sus territorios por sí solos, como algunos gobernadores, están equivocados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el gobierno habla de revolución, esta es la revolución: la precariedad.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2671
+}

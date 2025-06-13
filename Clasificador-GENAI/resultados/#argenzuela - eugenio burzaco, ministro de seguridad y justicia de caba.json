@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Todos coinciden en algo: hay un punto de vista distinto en cada uno, pero el tema central es la seguridad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La seguridad requiere planificación, trabajo sostenido y equipos para llevarlo adelante. No es un tema de voluntarismo; no se trata de venir aquí y levantar un piquete solo por voluntad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está atravesada por una profunda crisis, muy impactada por el avance del narcotráfico.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, creo que en la propuesta de Horacio Rodríguez Larreta hay mucho hincapié en el control de cárceles: aislamiento, incomunicación e incluso trasladar a los más peligrosos lejos de su zona de influencia, trabajando en el blindaje de la frontera y fortaleciendo la seguridad en zonas urbanas complejas como Rosario, Gran Buenos Aires, Córdoba y Concordia (Entre Ríos).",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El otro día Horacio adelantó que mandará militares a la frontera.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se pueden parar los movimientos sociales. Hay dos derechos constitucionales que chocan: el derecho a manifestarse y el derecho a circular.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Planteamos dos cosas: una ley clara que regule las marchas, que prohíba la participación de menores de 14 años y que responsabilice a los organizadores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En los últimos 20 años, se ha generado un negocio alrededor de los piquetes. Más piquetes significan más planes sociales, más intermediarios y más dinero. Se tiene derecho a manifestarse, pero no a lucrar con ello.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que en seguridad hay que ir a las causas, no solo a la manifestación del problema. Hay que cortar el negocio de los piquetes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que apoyar a la policía, pero sacar a quienes son parte del problema. Hay que capacitarlos, prepararlos y controlarlos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una herramienta que evita el uso de armas de fuego, y es más efectiva en ciertos contextos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El negocio del narcotráfico hay que atacarlo desde todos los frentes, desde la frontera hasta los intermediarios, incluyendo los bienes que financia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4023
+}

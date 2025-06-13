@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Desde el comienzo, a principios del siglo XX, nuestro sistema político institucional estuvo amenazado y, si bien hubo otros levantamientos después, se podría decir que el que representó, justamente, la Pascua de 1987, bajo el gobierno de Raúl Alfonsín, fue la batalla definitiva que nos consolidó en esta democracia perfectible, aunque duradera, que hemos conquistado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En estos momentos, la división y los enfrentamientos entre las distintas expresiones políticas de nuestro país son una constante. Además, muchas veces, el resentimiento, o hasta el odio a personas basado en su pertenencia a tal o cual sector social, es un fenómeno que, desgraciadamente, sigue creciendo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Papa es el factor contrarrestante de la influencia de la extrema derecha del mundo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos una democracia perfectible como todas, pero es una conquista, al igual que resolver los problemas que tenemos en paz por medio del diálogo; es otra de las formas de la conquista que nos llevó hasta aquí.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4023
+}

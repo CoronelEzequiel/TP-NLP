@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.795,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se contagió de COVID porque él no entró en razón.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y él no dejó de mentir.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nosotros no necesitamos vacunar a nadie. No somos mendigos de nada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Soberbia lo de Cristina, viste, que se cree que es la reina de Inglaterra junto a Alberto y otros \"pajes\".",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Creo que hay una predisposición desde el gobierno en fundirnos a todos, en terminar con la clase media, en hacernos mierda, hacernos arrodillar y mendigar, en que tengamos que decir \"Cristina es inocente\" a cambio de un plan.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todo es un desastre, muchachos, todo lo que están haciendo es un desastre, todo lo que están haciendo es un desastre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una mentira tras otra, es una falacia tras otra.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque Putin no estaba en la presidencia en ese momento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la única solución que tiene ahora el gobierno es decir: \"Mañana\", doctora, es decir: \"Ahora todo va adentro de nuevo, hasta que no pase la pandemia\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que la idea es esa, hacernos morder el polvo y cagarnos bien la vida.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Falta menos para las elecciones, seguramente están preocupados por eso, quieren estirar los plazos, las provincias se alejan y llaman a elecciones, el país es un gran quilombo, Alberto está con COVID, Cristina no quiere ir presa, todos se pelean con todos, y la única solución que tienen para nosotros no es ni malaburo ni parar la inflación, porque, además, no pueden parar la inflación ni con un guinche.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2565
+}

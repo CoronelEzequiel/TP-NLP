@@ -1,0 +1,36 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina fue una \"pecha\", la presidenta, \"pecha\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Permítanme hacer mi trabajo, que es detestar al kirchnerismo, detestar a los trolls de Milei, detestar a los de enfrente, o sea, yo no me caso con nadie, porque estoy para analizar, no para propagandear.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier hace cosas maravillosas que aplaudo y apoyo, hace cosas terribles que detesto y critico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos en un momento gravísimo, delicadísimo de la Argentina, donde la irresponsabilidad de lo que queda, pero es terrible.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El único inescrupuloso partido que puede negociar con Milei para darle apoyo es el cristianismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3170
+}

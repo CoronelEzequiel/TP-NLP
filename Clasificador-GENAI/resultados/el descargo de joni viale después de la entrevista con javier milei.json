@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.619,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No me voy a dejar quebrar por un grupo de mala gente, de resentidos, de envidiosos, de mala leche, que quieren destruir la credibilidad de alguien que... Por lo menos intenta hacer las cosas bien, o lo mejor posible siempre, equivocándose mucho.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo estoy seguro de que todo ese daño fue producto de distintos gobiernos populistas.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Confío en Milei, me hacés decir la verdad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me gusta cuando baja la inflación, me gusta cuando corta los curros, me gusta cuando se enoja con la casta y se pone todo colorado, me siento identificado porque le dice...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El país está lleno de villas. Cagaron la cultura del trabajo. Cagaron la cultura del esfuerzo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo estoy bien parado porque mis hijos y mi familia y mis amigos y mis productores me bancan.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no trabajo para los colegas, para la FOPEA, la Academia de Periodismo, yo no trabajo para ellos.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no me voy a dejar correr por esa gente de mierda. Sí, acepto el error, pero por ustedes no me dejo correr.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6477
+}

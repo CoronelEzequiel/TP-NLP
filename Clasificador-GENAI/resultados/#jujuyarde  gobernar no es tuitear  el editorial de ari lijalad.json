@@ -1,0 +1,41 @@
+{
+  "texto_id": "Habra_Consecuencias",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobernador Gerardo Morales ha decidido que una parte de Argentina incumpla la Constitución Nacional, que en una parte de la República Argentina no se respeten las leyes ni los derechos humanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La estrategia es el negocio del litio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un Estado represivo que prohíbe la protesta social, encarcela a sus dirigentes y mantiene a su pueblo en la pobreza dificulta la resistencia al saqueo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gerardo Morales acusa al gobierno nacional, a Cristina Fernández de Kirchner, a La Cámpora y a Milagro Sala.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una patota de matones disfrazada de magistrados.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya hay repercusiones internacionales de la OEA, la CIDH y Human Rights Watch, por la violación de los derechos humanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2005
+}

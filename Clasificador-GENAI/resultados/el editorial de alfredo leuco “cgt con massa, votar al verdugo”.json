@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.79,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es un caso muy raro el de Sergio Massa, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero para gran parte de la sociedad en general, Massa es el peor de todos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los apoyos de Alberto y Cristina son verdaderas mochilas de piedras, abrazos del oso, pero hoy se conoció algo peor: la alegría por lo que está haciendo Massa con el Fondo Monetario, que \"prestó\" el delincuente condenado por corrupto, Amado Boudou.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En las elecciones presidenciales pasadas, Juan Schiaretti estuvo cerca de Massa, pero hoy el gobernador de Córdoba fue letal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llevó la inflación del 65% al 30% y el dólar de 240 a 520.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay cepos y \"tiros en los pies\" por todos lados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los jubilados de la mínima perdieron en un trimestre más del 5% de su poder adquisitivo, pese a los bonos y a las \"anatas\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los dueños de la multinacional Zara anunciaron que se van del país y dejan el manejo de la empresa en otro grupo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La CGT fue, es y será una corporación más de la gran corporación oligárquica en la que se ha convertido el peronismo, secuestrado por el cristinismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Votar al verdugo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2397
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.084,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es una vergüenza lo de **Mauricio Macri**. **Macri** ha tuiteado mientras ocurría todo esto, que perplejo seguramente tenía como destinatarios a cientos de miles de personas mirando C5N. Tuiteaba que esta es una demostración más de las pacíficas marchas que muestran que los argentinos tienen futuro. Futuro con **Macri**. Mi pasado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esa gente sale por ese gobierno, sale por ese señor **Macri** a la calle a gritar, salen por derechas, salen llevados por *Clarín*, salen arrastrados por las redes sociales, a las cuales el 75% les pertenece también como todos los medios de comunicación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No son pacíficos. No son pacíficos de ninguna manera. Son violentos. Y son violentos porque no tienen razón. La que podrían tener está centrada en este pedazo de mentiroso que no es el más mentiroso del mundo por culpa de Trump. Hasta por eso me fastidia Trump. Porque si no podríamos tener el título mundial del mentiroso con **Mauricio Macri**.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no está solamente **Macri** en alentar a la gente a que salga, vamos, vamos, porque él piensa que de esa manera, tan antidemocrática, puede recuperar el poder. Y entonces lo acompaña **Patricia Bullrich** con **Hernán Lombardi**. Personajes que se definen solos.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Antes de poner en marcha lo que hizo *Clarín* hoy, el bochorno de haber dado a conocer la dirección de **Cristina Fernández de Kirchner** para que la gente fuera. La cobardía infernal de los integrantes del grupo *Clarín*.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le quiero preguntar a **Magnetto** si se animaría a poner en *Clarín* la dirección de su casa. Así como alguna vez puso el teléfono de **Gil Carbó** o alguna vez separaron sus cronistas frente a mi casa para marcar donde vivía para ver si también podía lanzar violencia contra mí. Si **Magnetto** tuviera el coraje de publicar su dirección, decir dónde duerme, desde dónde dirige a toda esta comparsa vergonzosa y antidemocrática, bueno podría tener un poco de derecho a decir dónde viven los demás, pero por supuesto que bien escondido lo tiene.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fueron a cantar por Techint, por Vicentin, por Chocobar, por Bruglia, por Bertuzzi. Esos son los movimientos masivos que han intentado.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7775
+}

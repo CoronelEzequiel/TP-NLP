@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.858,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La condenada **Cristina** Elizabeth **Fernández de Kirchner** utilizó un informe de 96 páginas para victimizarse y atacar con una ferocidad inédita a jueces y medios de comunicación.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus movimientos jurídicos, tratando de involucrar a empresarios macristas o a la policía de la ciudad, esconden el sueño secreto de que el ataque tenga a **Mauricio Macri** como autor intelectual.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En realidad, todas las acusaciones jurídicas que pesan sobre ella y sus cómplices no son una cuestión de género; son por ser la jefa de la asociación ilícita que saqueó al Estado Argentino con la mega corrupción más grande de la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "**Cristina** está condenada a seis años de prisión por ladrona y no por mujer.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Al final de su panfleto, auto celebratorio, **Cristina** dice textualmente: \"La vida de **Fernández de Kirchner** corrió serios riesgos y, por decisión del poder judicial, lo sigue corriendo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cristina** no es futbolera, pero sabe que la mejor defensa es un buen ataque y es lo que hizo, atacar para defender lo indefendible.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2095
+}

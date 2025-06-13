@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.727,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos una presidenta multiprocesada, recluida en su domicilio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están sumidos en la corrupción.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son unos impresentables, porque además de corruptos, son torpes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es una actitud ruin, fuera de toda ética democrática.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No entiendo tanta pelea, ¿será solo por la impunidad de Cristina Kirchner?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la primera vez, después de tanta corrupción, que surge una figura joven y decente del peronismo, apoyada por los sectores honestos, gobernadores y demás.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es un gobierno débil, con muchos delincuentes, sinvergüenzas y presos que buscan la libertad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El gran problema de los argentinos no es el hambre ni la pobreza, sino la lucha por el poder.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El bastón es lo que te ayuda a caminar, a seguir adelante.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El bastón verdadero se despliega blanco, mientras el de estos dos es corto e inútil; a veces habría que pegarles en la cabeza para que reaccionen.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No pelean tanto por el poder y el cargo; se gana con talento, no con los medios de comunicación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2070
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.794,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer identificamos a quienes fueron los mariscales de la derrota: Cristina Fernández de Kirchner y Alberto Fernández.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Votaron con el bolsillo aquellos grupos cuyos salarios o planes sociales han perdido una gran capacidad adquisitiva frente a la inflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tomaron medidas revanchistas contra el campo, la industria, el turismo, la innovación tecnológica y las exportaciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Votaron con el corazón los compatriotas que vieron sufrir y morir a sus seres queridos y a sus amigos y que, encima, no los pudieron despedir como corresponde.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Compraron tarde las vacunas equivocadas, se vacunaron antes que los ciudadanos comunes, se \"robaron\" las vacunas, se mandaron \"festicholas\" en la quinta de Olivos mientras amenazaban con duras represalias a las personas comunes, idolatraron a la maestra violenta que doctrina a los chicos y no se conmovieron ante tantos jóvenes que ven a Ezeiza como la única salida.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Relaciones carnales con Venezuela, Cuba, Rusia, China, Nicaragua y el terrorismo de Hamas, es decir, con los que más violan los derechos humanos y los que menos ejercitan la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También utilizaron su racionalidad informada los que rechazaron el intento permanente de poner de rodillas a la justicia para lograr la impunidad de Cristina Fernández de Kirchner y su banda de ladrones de Estado, es decir, el cártel de los \"pingüinos\" millonarios o la venganza contra opositores o periodistas que les marcaron límites y frenaron las medidas más salvajes de expropiaciones o la locura de liberar criminales, ladrones y violadores, y la de mirar hasta con simpatía la vuelta de los narcotraficantes más crueles.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Qué resultado electoral podía esperar Alberto Fernández si, muy suelto de cuerpo, dijo que él es igual a Cristina Fernández de Kirchner, o que el mafioso Hugo Moyano es un ejemplo de gremialista, o que Gildo Insfrán, el señor feudal de Formosa, es el tipo de político al que admira?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por ejemplo, el extremismo populista, el \"pianta votos\" que sugiere la brigada marginal que integran Gregorio Dalbón, Alicia Castro, Hebe de Bonafini, Roberto Navarro, y otros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2600
+}

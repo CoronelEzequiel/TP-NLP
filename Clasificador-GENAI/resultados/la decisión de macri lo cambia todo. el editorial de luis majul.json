@@ -1,0 +1,101 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.739,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Las razones políticas y personales que influyeron en su decisión final se dieron en medio del peor momento del país y del gobierno, el peor gobierno que se recuerde.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La posibilidad de una asamblea legislativa se mencionó mucho esta semana.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Según nuestras fuentes, Cristina Fernández de Kirchner habría ido más allá y le habría hecho saber al presidente, en términos inequívocos, que si no desiste de la reelección, vaciarán el gabinete.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto lo vamos a conversar con Mauricio Macri y Alberto Fernández.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como escribió Joaquín Morales Solá, se trata de un gobierno desesperado en su fase final.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con la inseguridad y el narcotráfico descontrolados.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con una superinflación que rozó la hiperinflación, camino al 120% o 130% anual.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto no lo dice solo Lilita Carrió, quien lo llamó \"estafador serial\" en Twitter, sino también Graciela Ocaña, quien le advirtió directamente: \"Sergio Massa, no le robes a los jubilados\".",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La decisión de Macri cambia el mapa político argentino.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A mi entender, despeja el camino para Horacio Rodríguez Larreta y Patricia Bullrich, quienes ahora compiten sin la sombra del ex presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La decisión histórica de Mauricio Macri confirma su grandeza y generosidad; priorizó los intereses del país antes que los propios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mauricio Macri tomó una decisión que deja en claro su visión, generosidad, valentía y amor por los argentinos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca más vamos a tener una marioneta como presidente\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gran derrotada con la decisión de Macri podría ser Cristina Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Cámpora presiona a Alberto Fernández para que imite a Macri.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, sin embargo, afirma que Macri actuó bien y que Cristina Fernández de Kirchner debería copiar su decisión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay lugar para los fanáticos de Milei en la sociedad que queremos construir.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno anterior espiaba a sus propios ciudadanos, como Stalin, con la diferencia de que la KGB revisaba hasta el último rincón del Volga.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3170
+}

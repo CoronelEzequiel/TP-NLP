@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.821,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Me pregunto si Cristina Kirchner se da cuenta de que ella misma es el gobierno.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hay alguien que no quiere al peronismo, esa es Cristina Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los peronistas, kirchneristas, todos ellos, cuando gobiernan son menemistas, dualistas, kirchneristas... pero cuando las cosas se derrumban, sacan a Perón y Evita de la tumba para usarlos como garantía republicana.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo ha sido la bomba que destruyó al peronismo, algo que ni Perón ni Evita pudieron lograr.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Kirchner, Máximo Kirchner y el kirchnerismo nos están causando una nueva sensación: vergüenza.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A la Argentina le costará muchos años salir del kirchnerismo y recuperarse del daño causado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hable de alegría, Cristina Kirchner, porque usted robó la alegría a todos hace veinte años.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2232
+}

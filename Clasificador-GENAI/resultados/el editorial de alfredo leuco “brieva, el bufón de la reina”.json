@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.858,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Rubén Enrique Brieva, conocido como Dady Brieva o Ex Midachi, en varias ocasiones confesó su fanatismo por Cristina Fernández de Kirchner, la expresidenta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El bufón de la expresidenta se paseó por varios medios de comunicación para promocionar su espectáculo y en ese recorrido fue soberbio, maleducado y altanero en sus respuestas, llegando al colmo de acusar a los uruguayos de haber cargado nafta a los aviones de Inglaterra que mataron a los soldados argentinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como si esto fuera poco, defendió las simpatías de Juan Domingo Perón por Francisco Franco y Benito Mussolini, porque dijo que era \"la construcción política de la época\", sin repudiar a los dictadores fascistas de España e Italia.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Brieva y otros personajes nefastos, como el doctor Eugenio Zaffaroni, en ese momento pidieron la libertad de los presos políticos y otra vez cometieron el \"bastardeo\" de algo tan delicado.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Siempre nos recuerda que \"pertenecer tiene sus privilegios\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los peronistas kirchneristas masistas se unen para rendirle pleitesía a Cristina, para empujar su impunidad y para instalar un autoritarismo cada vez más peligroso, y eso no es chiste.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2393
+}

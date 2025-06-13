@@ -1,0 +1,26 @@
+{
+  "texto_id": "rial_salud",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En un fin de semana cargado de información de toda índole, un evento nos conmocionó profundamente como equipo: el sábado por la noche nos enteramos de lo ocurrido a Jorge Rial, conductor de \"Argenzuela\" y nuestro compañero y amigo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Jorge, como explicó antes de viajar a Colombia el miércoles anterior, se encontraba allí por motivos laborales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero agradecer a las innumerables personas que nos enviaron mensajes de apoyo y bendiciones para Jorge, especialmente durante el fin de semana, cuando la comunicación con él era muy difícil.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1368
+}

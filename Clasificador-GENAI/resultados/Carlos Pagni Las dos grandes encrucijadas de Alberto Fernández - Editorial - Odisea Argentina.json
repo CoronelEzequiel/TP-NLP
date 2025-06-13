@@ -1,0 +1,46 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.614,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La pregunta es: ¿este es el momento en que Alberto Fernández decide ser quién es? Dicho de otra manera, ¿la crisis múltiple que está atravesando el gobierno de Alberto Fernández va a terminar con un desenlace como les sucedió a tantos gobiernos, como el de Alfonsín, el de Menem, el de De la Rúa, el gobierno de Duhalde, el gobierno de Macri, un momento en que se resuelve qué va a ser ese gobierno en los libros de historia?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay quienes creen, al lado de Alberto Fernández —no sabemos si Alberto Fernández está convencido de esto—, que la carta de Cristina Kirchner fue un disparador de ese momento, del momento en que él tiene que decidir cuál es su relación como líder con el poder y, derivado de eso, su relación con la gestión.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Muy importante lo que dijo Héctor Magnetto. Héctor Magnetto le dijo a Guzmán: “Si ustedes no ponen en orden la política, no van a poder poner en orden la economía, porque sin poner en orden la política es imposible plantear una dirección para el país a nivel material, a nivel económico”. Cuando uno escucha esa frase dicha en un empresario del volumen de Magnetto, “poner en orden a la política” significa, en este contexto histórico en el que estamos hablando, después de esa carta, “poner en orden a Cristina”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos le dijeron, algo que él está dispuesto a escuchar, obviamente, es en lo que está comprometido, hay que buscar un arreglo con el Fondo Monetario Internacional.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alguien habló del impuesto a la riqueza, que es algo que, como sabemos, irrita a los empresarios, sobre todo en un aspecto que, en alguna medida, Sergio Massa lo cuestionó el otro día, o admitió que es un aspecto negativo de ese impuesto, que es que graba a algunos activos empresarios, no personales, y, por lo tanto, castiga la inversión y castiga la producción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir que Fernández está siguiendo, veremos hasta dónde, una ruta que es el intento de relanzar el gobierno, obedeciendo o escuchando, o haciéndose eco de cosas que le dicen algunos gobernadores, centralmente Perotti, Manzur, Uñac, intendentes del conurbano, varios. Ministros, gente que lo rodea, que le dicen: “Hacéle caso a Cristina, goberná vos, tomale la palabra”.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Carrió dice “es tan importante esto que no podemos permitir, por un problema de oposición al gobierno, que el gobierno ponga uno puesto por Cristina, a imagen y semejanza de Cristina, modificando la ley”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7481
+}

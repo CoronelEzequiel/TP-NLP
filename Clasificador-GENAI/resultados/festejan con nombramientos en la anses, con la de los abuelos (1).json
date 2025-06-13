@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En un país donde la injusticia se manifiesta en el monto de la jubilación mínima, resulta indignante que la Administración Nacional de la Seguridad Social (ANSES) celebre su aniversario con un bono de $20.000 para sus empleados y mil nuevos nombramientos en planta permanente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno que no soluciona la inflación, recauda más impuestos gracias a ella, por lo que nunca sale perdiendo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La inflación, un impuesto perverso que licua los gastos y aumenta la recaudación, beneficia al gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En lugar de austeridad, se culpa a productores y almaceneros por el aumento de precios, mientras el Estado celebra con nombramientos y bonos, utilizando los fondos de un país desangrado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El festejo con nombramientos mientras los jubilados sufren es una muestra de la falta de empatía del gobierno.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1673
+}

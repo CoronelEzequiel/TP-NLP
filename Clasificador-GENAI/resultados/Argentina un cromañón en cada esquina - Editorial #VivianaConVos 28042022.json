@@ -1,0 +1,31 @@
+{
+  "texto_id": "Viviana con Vos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "A nuestro gobierno no le importa nada este rebaño de pelotudos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cierren el Ministerio de la Mujer y pongan esa guita para la gente que labura en los ferrocarriles y los frenos funcionan, hijos de puta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La impunidad de Cristina sería otro Cromañón, porque la reina de Tolosa, a la que no le importa la gente de los trenes, por eso hizo el chiste de mal gusto, ¿no?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tren es el mejor medio de transporte, tanto para mercaderías como para personas. Según el Pollo Sobrero, en lo de Viviana Canosa, se descarrilan más de 400 formaciones por año, pero el Estado decide gastar en ministerios que no deberían existir y en empresas que habría que privatizar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8610
+}

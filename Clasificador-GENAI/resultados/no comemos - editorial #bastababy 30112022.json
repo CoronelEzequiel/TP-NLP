@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Pero en el momento de actuar quedan dos o tres: Marijuan, Stornelli y un par más.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo nadie mete preso a Alejandro Ramos Padilla? ¡Un sinvergüenza! ¿Cómo nadie mete preso a Amado Boudou? Otro extorsionador sinvergüenza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que Boudou era el que llevaba el farol en la época de la colonia.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, lo que están buscando estos sinvergüenzas que añoran a Cristina la repartidora de sobres, es que haya un golpe de Estado, una pueblada, sucesivamente un golpe de Estado, el kirchnerismo perpetuarse en el poder como en Venezuela, Alberto preso, si quieren, y si no, déjenlo ahí que lo mismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes con los deditos marcando de todos lados. Son chorros.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es más, ni presa, ¿eh? Simplemente que la van a condenar por haberse afanado media Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3049
+}

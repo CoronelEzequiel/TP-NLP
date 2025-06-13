@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.695,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay un montón de gente en la calle, cagada de frío.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no puedo entender cómo hay gente que tiene en los placares ropa que dice, ah, esto no me lo... Mirá qué color.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Empecemos a hacer comunismo práctico, darle al que... Y no importa si votó a Cristina, eh.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando pase la pandemia, yo creo que la pandemia no va a pasar, va a disminuir.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero peor todavía, cuando pase la inflación y pase este berretín cristinista de ir a Cuba, ir a Venezuela y ser comunista porque a la señora le encanta.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque no hay Estado, no estamos gobernados.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y según lo que dijo Alberto ayer del campo ocioso, el que tiene un campo no va a tener medio campo, va a tener un pedacito de campo por la reforma agraria, porque van a volver por su campo y van a volver por Vicentín.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya estamos presos de la dictadura.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esa señora le da de comer a sus hijos con eso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que impedir que se lleven la otra mitad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2971
+}

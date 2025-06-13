@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.786,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay que decir las cosas como son.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y en 1945 aparece el populismo (porque el populismo es otra cosa) y se dice: \"No puede ser que todo tipo tenga campo. Hay que quitárselo, aunque sea sin razón, pero hay que quitárselo\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y lo que era bello, y que podría haber sido hoy un país al nivel de Roma, o mejor que España, la Avenida de Mayo podría haber sido la Gran Vía madrileña, se transformó en una mugre, llena de piqueteros, bombas, destrucción, golpes, policía.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Puerto Madero es la Recoleta de los políticos corruptos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces se me cruzó Cristina Fernández, la socia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y digo, el derecho humano es que un chico se levante y no pise un piso de tierra, que el chico pueda evolucionar, que tenga educación, que tenga estudio, que tenga mérito, que el día de mañana entre a la facultad y pueda dar bien el ingreso, no como ahora que no tiene ni idea, porque con 19 puntos pasan igual.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pasa es que en 1945 se terminó y rompieron todo, y destruyeron todo, porque no vinieron a cambiar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, cuando usted viaje a Europa y vea todo eso en su lugar, y la gente fina, linda, desayunando en algún lugar, tomando café, riéndose, mire, nosotros teníamos una avenida que estuvo cerrada un año y medio y casi se funde por la cuarentena.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero no, ustedes critican a los que tienen plata, pero no tienen la fórmula para hacerles tener plata a los que no tienen.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque en este país, con los corruptos que gobiernan, los únicos ricos que hay son los que robaron y están en el gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo, no añore Montecarlo, Mónaco, España, Italia, Inglaterra, Estados Unidos. Lo tuvimos y en 1945 lo tiramos a la basura.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3170
+}

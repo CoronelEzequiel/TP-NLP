@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.081,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Las declaraciones de Kristalina Georgieva, la directora gerente del FMI sobre Argentina, que se produjeron en estos días, dejaron en evidencia que, con la deuda, el país vive bajo una extorsión y una amenaza permanente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto es una demostración más, por si hiciera falta, de que esta democracia, en la que los mercados (pongo comillas) votan todos los días y los ciudadanos cada dos o cuatro años, es básicamente una cancha inclinada.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La deuda concentra una relación de poder y es un método de expoliación de unos países hacia otros.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La deuda no tiene lugar por el déficit. El déficit se produce por la deuda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El negocio esencial de los acreedores no radica simplemente en otorgar un préstamo y luego cobrarlo con jugosos intereses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, la deuda y el FMI están específicamente para que eso no pase. Diría que es su función principal. O sea que si no repudias la deuda, no hables de lo otro.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La deuda externa argentina puede ser catalogada efectivamente como odiosa, la que se contrajo en el último periodo es un caso paradigmático, ni un dólar benefició a la población y sí al personal dirigente y a quienes estaban próximos al poder, con blanqueos y todo lo que rodea a estas operaciones.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El único camino, no fácil, no simple, aunque sí realista, es el repudio a la deuda odiosa.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2813
+}

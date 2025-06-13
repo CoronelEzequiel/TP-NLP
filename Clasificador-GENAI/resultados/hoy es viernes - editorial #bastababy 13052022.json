@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Empezaremos el programa analizando brevemente la actualidad argentina, haciendo algunas críticas constructivas al gobierno nacional y al gobierno de la ciudad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy hablé con D'Alessandro en la radio sobre la situación de abandono que sufren las calles luego de las marchas: la basura, los baños destruidos, los destrozos en general.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los impuestos de los ciudadanos se utilizan para reparar los daños ocasionados por manifestantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Asimismo, el Gobierno nacional está perimetrando la ciudad con miras a futuras protestas, por lo que recomiendo a los vecinos estar alerta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este tipo de acciones ilegales se están incentivando y la protección de la propiedad privada parece no importar para este gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por favor, cuiden sus casas y pertenencias, y esperemos que este difícil periodo pase pronto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1335
+}

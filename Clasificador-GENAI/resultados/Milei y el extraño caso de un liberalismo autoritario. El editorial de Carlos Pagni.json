@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En la Argentina esto está aún más acentuado, porque si miramos la historia de los últimos 10 o 15 años, el tema de la justicia fue un tema ordenador del debate público, fue un tema movilizador para la sociedad; basta con recordar las movilizaciones o los cacerolazos del año 2012, 2013 y 2014, las discusiones acerca de la denominada democratización de la justicia que quiso llevar adelante Cristina Fernández de Kirchner, las movilizaciones por la integración de la Cámara Federal, con Brúglieri y Bertuzzi, dos jueces que no hubieran sido conocidos de no existir este tipo de debate.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un problema central, probablemente sea el problema que está por debajo de todo este debate, y es que la Constitución, la Constitución del 53, pero también su versión del año 94, de 1994, que es cuando se la reformó por última vez, supone un tipo de política, un tipo de cultura política distinta de la cultura política imperante en los últimos 20 años en la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei es el beneficiario de esta crisis de representación. Milei es el beneficiario y el denunciante de una gran discordia entre una sociedad que no se ve representada, que no se ve reflejada en su clase política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto se repitió eternamente en la Argentina, y si uno mira una caracterización del menemismo, que es el espejo donde se mira con mayor frecuencia, Javier Milei incurrió también en ese desbalance, en esa asimetría. Hoy Milei ofreció un discurso muy elogiado en la Unión Industrial, fue a provocar a los industriales hablándoles bien del campo, hizo una gran defensa de la libertad de mercado, al mismo tiempo que empiezan a verse con más nitidez, con más énfasis, los rasgos populistas de este gobierno y, probablemente, los rasgos autoritarios.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9014
+}

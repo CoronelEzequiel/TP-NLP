@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El que viaja es un presidente muy debilitado. ¿Por qué? Primero, porque aparece en el gobierno un problema nuevo. Hasta ahora, este oficialismo tenía un diseño peculiar, del que hablamos muchas veces. Quien lidera el grupo, por su peso electoral, por su liderazgo electoral, decidió no postularse como candidata a la presidencia, decidió no trasladar el liderazgo a lo institucional.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner se pasó a la oposición. Y esto tiene una cantidad de consecuencias que estamos viendo en estos días. La primera tiene que ver con el discurso que ella pronunció en Chaco, cuando una universidad, denominada Chaco-Austral, le otorgó un doctorado honoris causa el viernes pasado. ¿Qué es lo importante de ese discurso? ¿Qué hay que ver para entenderlo? Lo más importante es no enredarse en los argumentos. Hay que mirar el corazón político del problema.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que le está diciendo Guzmán a Cristina Fernández de Kirchner es: \"Mirá, Cristina, con esta cantidad de dólares que tenemos, y este es el problema central del gobierno, para hacer ese populismo no hay dólares\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora hay como dos gobiernos: un gobierno parlamentario que está buscando no perder ese electorado cautivo y el gobierno de Alberto Fernández. Esto es muy traumático para el poder ejecutivo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Juntos por el Cambio, los que votan a Juntos por el Cambio, dicen que deberían mantener los subsidios solamente el 30%, 29,7%. Y que debería eliminarlos el 63,6%. Entonces, acá, lo que está diciendo Cristina, es: \"Estás trabajando para el que nunca te va a votar. Que hay gente que vota a tu adversario\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8250
+}

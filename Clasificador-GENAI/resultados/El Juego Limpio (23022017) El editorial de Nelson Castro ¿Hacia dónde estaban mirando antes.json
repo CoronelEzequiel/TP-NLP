@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Un grupo de diputados del Frente para la Victoria ha solicitado al presidente Mauricio Macri que se le inicie un juicio político, acusándolo de mal desempeño, incompatibilidad de funciones y abuso de autoridad, entre otras cosas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A esos diputados les pregunto, y me sorprende especialmente que el diputado José Luis Gioja haya firmado esa solicitud: en la época de Cristina Fernández de Kirchner, cuando se cometían abusos de poder, un enriquecimiento ilícito descarado y actos de corrupción, ¿dónde estaban ustedes? ¿Para dónde miraban?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué actitud más lamentable.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 957
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Rarranjuego y Ibi",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Así como a los 29 años me hice cargo de *ANSES*, y nunca voy a olvidar la felicidad que me dieron los abuelos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos al Congreso a pelear por un *INDEC* autárquico y sobre todas las cosas por obligar a que el Estado se fije metas, porque la inflación está destruyendo el salario de trabajadores y jubilados que sienten que se les va la plata como agua entre los dedos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Voy a eliminar el impuesto a las ganancias a todos los trabajadores.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no quiero que el *kirchnerismo* siga y no tengo problemas en el suelo, y si *Scioli* quiere hacer algo por la salud de su candidatura lo que tiene que hacer es sacarse encima al *kirchnerismo*.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación es el demoledor de esperanzas de la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4945
+}

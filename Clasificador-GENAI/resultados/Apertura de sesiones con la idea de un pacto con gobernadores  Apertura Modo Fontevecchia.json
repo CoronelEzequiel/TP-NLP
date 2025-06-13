@@ -1,0 +1,46 @@
+{
+  "texto_id": "Modo Fonte V",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.314,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cualquier parecido con el pacto que propone \"Mi Ley\" a los gobernadores no es pura coincidencia.",
+      "score": 0.6,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy le da una manito Clarín y publica lo que gana Cristina Fernández de Kirchner por su pensión como viuda de un presidente y su jubilación como expresidenta y exvicepresidenta y, claro, 14 millones de pesos contra lo que gana la mínima un jubilado, que se va a ir recién ahora a 200 mil pesos. Es escandaloso.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se apalanca en eso para imponer un discurso único diciendo: \"Es esto o nada\", es un ajuste salvaje, feroz, de los más grandes que se vieron aquí en la Argentina y que se estudia en otros lugares del mundo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gran pregunta, por supuesto, es si realmente hay un cambio de época cultural, en cuanto a que la gente está dispuesta a aceptar este tipo de ajuste o no, o si esto es temporal y va a haber una reacción.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei que avanza, no? Milei que mientras tanto avanza, párrafo aparte, en esta comienzo de esta apertura de Modo Fontevecchia, para el tema de la agencia Télam, ha llegado una comunicación ayer por la noche a los trabajadores de Télam, diciendo que están licenciados por una semana, está cerrada la agencia Télam, no está funcionando.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos en el discurso el viernes fue el anuncio de Milei que va a cerrar la agencia Télam, este, y por eso hay una incertidumbre y angustia de los trabajadores en este caso de la agencia Télam, ¿no?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La motosierra es despiadada y pasa y no mira, por corta y, en este caso, estamos viendo para aquellos que están viendo las imágenes de una agencia Télam que está este vallada, militarizada, la página de la agencia que está cerrada en este momento y lo que decíamos, lo la comunicación que le llegó anoche la última hora a los todos los trabajadores de Télam, diciendo que están licenciados este por lo menos por una por una semana, dispensa laboral se llama en lo que es el preanuncio del cierre de la agencia, por eso desde aquí el saludo de la solidaridad con los trabajadores, es lo que están todos los días trabajando, poniendo el hombro y todos los que trabajamos en medio de comunicación sabemos que es una herramienta central en la agencia Télam para el trabajo nuestro de todos los días, por eso queríamos cerrar la apertura de Modo Fontevecchia con el saludo mío, por lo menos en forma personal a los trabajadores de allí de la agencia, de la agencia Télam, que no tienen nada que ver ni si hubo abusos y hubo malos manejos en la agencia, son son personas que tienen una familia y que se quedan sin trabajo si esto sigue adelante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5961
+}

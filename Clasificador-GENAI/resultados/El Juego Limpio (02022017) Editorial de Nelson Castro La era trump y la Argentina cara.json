@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Un país con esta riqueza, con este nivel de educación media que se percibe, a pesar de las cosas que nosotros reclamamos, cómo tiene los problemas que tiene.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si las dirigencias políticas, empresariales y sindicales, argentinas y del mundo no tienen en cuenta esto, no habrá forma de combatir la pobreza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué cara tiene la Argentina? ¿Qué cara es la Argentina para los que vivimos acá y para los que viven afuera?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para que abaratar la Argentina no signifique llevar a la gente a la miseria.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué orden hay ahí? Para cruzar la frontera de Bariloche a Chile, hablé con varios, uno de ellos nuestro productor, Xaque el Zanis, que me estaba dando los detalles en estos días. En la frontera argentina hay dos personas, en la chilena 20-25, que hablan el idioma, facilitan todo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1679
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "DAN DAN",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay que salir un poco de la política, ¿eh?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirá que me voy a La Nación, ¿eh? ¡A La Nación! ¡A La Nación! ¡A La Nación!",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos reírnos. Necesitamos volver a vivir la vida.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo entro puteando a Cristina y ustedes dicen: \"Muy bien, ahí está, ahí está\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que vivir libres. Tenemos que ser felices con nuestra vida.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3021
+}

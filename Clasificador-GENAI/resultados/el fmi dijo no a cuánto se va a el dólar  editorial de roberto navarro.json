@@ -1,0 +1,41 @@
+{
+  "texto_id": "El_Pase_del_Destape",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El FMI le está pidiendo a Massa que abra el cepo cambiario.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si quieres seguir dando dólares baratos a tus amigos, no te daremos más financiamiento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ministro mintió el otro día cuando dijo que el dólar no estaba barato.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina tiene el dólar más subvaluado de Latinoamérica y el segundo más subvaluado del mundo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema del gobierno es que agotó las reservas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa se está quedando sin dólares, y sin dólares la inflación se dispara.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1726
+}

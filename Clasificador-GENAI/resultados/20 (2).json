@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_pablo_blanco",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Votaré a favor de la ley de base, aunque tengo algunas diferencias puntuales y espero que se puedan modificar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No comparto la idea de cerrar algo que no funciona. Creo que el Gobierno tiene la obligación de buscar soluciones.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La privatización de Aerolíneas Argentinas, el Correo y los medios nacionales, incluyendo Radio Nacional, no cuentan con mi apoyo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque no confío en que el gobierno cumpla con lo establecido en la Constitución.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1597
+}

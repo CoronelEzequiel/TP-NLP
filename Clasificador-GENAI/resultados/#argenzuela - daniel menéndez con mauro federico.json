@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se percibió un clima de angustia. Nuestra sociedad es consciente de que la remarcación de precios, como la del ejemplo de \"Lola Blue\", se traslada a otros productos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En definitiva, creo que eso es lo que vivimos estos días: estamos luchando para resolverlo, pero es claro que hay sectores concentrados, de especulación financiera, con poder mediático y económico en Argentina, que buscan que la elección se defina entre la oposición y el cambio, intentando así sacar al peronismo de la discusión sobre el proyecto de país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que Massa, y el apoyo que recibe, se centra en la necesidad de renegociar el acuerdo con el Fondo Monetario Internacional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero hay que ordenar y disciplinar la especulación, discutir el acuerdo con el FMI para resolver la falta de dólares producto de la sequía y los términos del acuerdo original.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno debe actuar con firmeza contra los especuladores, mostrar una decisión de construir estabilidad cambiaria y, a partir de ahí, sentarse a negociar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que evitar que cuatro o cinco especuladores saquen al peronismo de la cancha.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No debemos olvidar que intentaron generar una crisis similar en las gestiones de Néstor Kirchner, Cristina Fernández de Kirchner y Alfonsín, y que ahora buscan lo mismo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2562
+}

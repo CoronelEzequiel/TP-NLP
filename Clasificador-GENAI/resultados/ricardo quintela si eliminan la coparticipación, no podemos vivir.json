@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.069,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿Qué piensas de lo que decía el compañero Pablo Moyano? Sí, es correcto. Deberíamos actuar en bloque para apoyar la medida y nuestro proyecto y propuesta.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece raro, porque en nuestro caso, siendo la provincia más pobre de la República Argentina en cuanto a recursos financieros que recibe de la nación, estamos pudiendo dar 55.000 pesos a la gente, más un 5% al básico, y otras medidas como el congelamiento de tarifas estatales de agua, energía e internet para todos, el transporte público en Río Jaú y Chilecito, con tarifas congeladas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando uno lee la plataforma o escucha las propuestas de un candidato a presidente como Javier Milei, hay un punto que me gustaría saber su opinión: dice que eliminará la coparticipación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que el que menos tiene pagará el alquiler. Es imposible. Es una medida que generaría una convulsión social terrible en todas las provincias argentinas, especialmente en las del norte y la Patagonia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con el gobierno de Alberto Fernández y Cristina Fernández de Kirchner, no solo recuperamos esos 1.800 puestos de trabajo, sino que hemos creado más de 3.500 nuevos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que el voto nos sorprendió a todos, a mí también. Hicimos una autocrítica interna, fuerte. No trabajamos adecuadamente, ni visualizamos a Milei como adversario principal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que lo más racional es el esfuerzo que está haciendo el gobierno al que pertenecemos, para atenuar los impactos de la inflación y frenarla (es el caballito de batalla de la oposición).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, Ricardo, entramos al balotaje y seguimos siendo gobierno. Tengo la absoluta seguridad de que ganaremos, y es posible que nos acerquemos con una diferencia sustancial para el próximo 22 de octubre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2740
+}

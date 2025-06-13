@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Milei está muy contento porque logró tener superávit en enero.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto es absolutamente ridículo. El problema es que aplicar esta lógica al Estado termina mal, porque se empieza a ahorrar en áreas esenciales, donde el ahorro implica sufrimiento humano.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, no hay dinero para jubilaciones y pensiones, pero sí para pagar la deuda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, el gobierno de Milei logró el superávit, pero a un alto costo: reducciones drásticas en pensiones no contributivas, recortes en subsidios de transporte, etc.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El superávit se logró a costa de docentes, jubilados, pensionados, etc., y se espera un nuevo circo mediático con las causas judiciales contra Cristina Kirchner.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1851
+}

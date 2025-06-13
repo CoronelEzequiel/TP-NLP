@@ -1,0 +1,41 @@
+{
+  "texto_id": "audio_fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y allí tiene que ir **Javier Milei**, el presidente Javier Milei, a verse cara a cara con los diputados, con el Nido de Ratas, como él mismo lo llamó.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, porque no vino la rebelión por parte del PJ. ¿Qué es lo que suele decir? Bueno, el PJ cuando no gobierna intenta obstaculizar y hasta derrocar al que está en el gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y Milei con su estilo? ¿Cuál es el estilo de confrontación de Milei? Milei, humillar. Busca humillar al adversario de turno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese aislamiento político, la lógica de Milei es: \"A mí me banca la gente, yo tengo el 56%, la gente me votó para que haga esto y todo el resto es casta.\"",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, todos los indicadores de la economía real están para abajo, no hace falta que lo diga, el consumo, lo que tiene que ver con el salario real, todo va para atrás, el ajuste se profundiza, conflicto político con gobernadores, conflicto político con diputados y senadores por ese lado, y por el otro lado, como decíamos, lo que tiene que ver con Javier Milei y su viaje a los Estados Unidos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Pero tenemos gente muy importante ahora mismo en esta sala y ya mencioné algunos, el presidente de Argentina que tiene mucha publicidad, tiene un montón, él es un gran caballero, saben, él es MAGA, él es MAGA, *Make Argentina Great Again*. Él mismo dijo: 'Yo soy MAGA' y después me di cuenta, él es uno de los pocos que pueden hacerlo bien, *Make Argentina Great Again*, Javier Milei.\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4874
+}

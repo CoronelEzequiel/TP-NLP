@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.78,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estoy muy feliz de que lo haya echado Milei.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que el mejor país se hace agarrando el país y sacando lo que no sirve.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que apoyar que saque la larva.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que sacar a las larvas de la Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso todo mi apoyo. Lo único que le pido es que no hable a los gritos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3121
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "Juan Grabois busca mas",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.257,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Juan Grabois busca más; su movimiento social también, y aspira a una mayor redistribución de la tierra.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Grabois aboga por la reforma agraria, impulsa una nueva distribución de la tierra en Argentina, actualmente en manos de propietarios privados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su defensa de la propiedad privada contradice, sin embargo, su propio proyecto político.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El proyecto de Grabois es más ambicioso: la reforma agraria.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Grabois mismo confirma que su proyecto ideológico y político busca redistribuir las tierras,  para que la tierra pertenezca a quien la trabaja.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Grabois ostenta poder político.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Grabois maneja miles, o incluso cientos de miles, de planes sociales; los movimientos sociales manejan un total de 600.000 planes sociales, y Grabois controla una parte significativa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1705
+}

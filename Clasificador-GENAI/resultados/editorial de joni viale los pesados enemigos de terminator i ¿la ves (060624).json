@@ -1,0 +1,81 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.768,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que yo estoy alertando es que no hace falta que el mundo tenga que sufrir semejante debacle para escapar de las ideas del socialismo y una de las cosas que yo suelo decir, digamos, yo vengo de un futuro apocalíptico para evitarlo, algo así como la historia de Terminator.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque no es mi ley, la Argentina está peleando contra enemigos pesados en serio y entiendo la joda, he divertido.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primer enemigo: los gerentes de la pobreza.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si no marchás, no comés.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El presidente tiene que entender que no se puede joder con esto porque están tocando mafias enquistadas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque saben que su salida eventual sería un golpe político durísimo, durísimo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero acá vamos, poneme el artículo 194 del Código Penal, no hay problema.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos son los esclavos modernos de la Argentina populista.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si nosotros podemos, los vamos a fusilar a ellos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Otro enemigo: el peronismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos esperando que renuncie, por favor, ministra, váyase a su casa.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los mismos que tenían una fórmula del ajuste, de miércoles, y el ajuste.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No, basta, si hiciste las cosas mal, merecés cagarte de hambre por hijo de p***",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mantener este esquema rancio y vergonzoso de jubilaciones de privilegio, porque la casta cuando se defiende, es implacable.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6404
+}

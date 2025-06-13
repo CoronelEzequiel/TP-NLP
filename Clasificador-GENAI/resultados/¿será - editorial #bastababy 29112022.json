@@ -1,0 +1,81 @@
+{
+  "texto_id": "La_Vieja_Dama_Indigna",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina es impresentable.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo más antijurídico es que no sé si se recibió en Pitman, pero de abogacía sabe mucho y se hace la tonta, o no sabe nada y no sabe esgrimir su defensa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Señora, le voy a decir una cosa: Cristina, usted viene del sur.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Usted está siendo acusada de choreo, entonces deje a la Vidal tranquila.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Antes de fijarse en la casa de Vidal, fíjese en la casa de su hija y de su hijo: las 40 propiedades declaradas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que una \"torrante\" que no laburó nunca declare 400 millones de pesos y 40 casas es más sospechoso que una gobernadora que se compró un departamento.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para mí, sí. Es lo mismo que [Amado] Boudou. Ya sabemos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, cuando me llora, a veces me da vergüenza ajena cuando se cuestiona si habrá robado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí no me importa la cantidad de años, importa que la condenen, porque lo que la señora va a [lograr] si es condenada, equivale a traicionar a la patria.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted nunca fue rica y va a ser una barbaridad. Ustedes nunca fueron ricos, siempre se quedaron con lo ajeno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La plata que usted luce no es suya, es del pueblo, y va a tener que responder a la justicia, por más que haga una arenga de 20 o 30 minutos poniéndose como víctima y mezclando que esos [son] compañeros.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice \"que me atentaron a mi vida dos pelotudos\", porque uno tiene el tamaño de sus enemigos, y los \"copitos\", como les vengo diciendo, son gente de mierda que no los mandan ni la Gestapo, ni el Mossad, ni la CIA.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No crea que el Mossad, ni la CIA, ni el Kremlin se van a encargar de usted, porque ninguno se va a comprometer por una mujer que dentro de unos días va a ser condenada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es más, ninguno es que medía una escena de violencia para usted cuando saben que, si la dejan sola, el peor castigo después de tener es su espejo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2896
+}

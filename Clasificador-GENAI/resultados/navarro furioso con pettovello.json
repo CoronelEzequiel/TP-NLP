@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay un clamor que pide la renuncia de la ministra de Desarrollo Social, Victoria Tolosa Paz, y una férrea defensa por parte de Javier Milei, quien sabe que acaba de perder a uno de sus principales colaboradores, su jefe de gabinete, Pose,  lo cual representaría un duro golpe; perder también a Sandra Petovello sería aún mayor.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo primero, y lo que originó todo, es la investigación y publicación de Ariel Lijalad sobre la existencia de cinco millones de toneladas de alimentos guardados sin entregar, algunos vencidos y muchos a punto de vencer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El juez Casanello y la fiscal Paloma Ochoa investigan una presunta corrupción en la compra, por parte del Ministerio de Desarrollo Humano, de aproximadamente 3.300 toneladas de alimentos, valuados en casi 4.000 millones de pesos, a través de la Organización de Estados Iberoamericanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Petovello ocultó, como publicamos ayer en \"El Destape\", a agentes de su confianza señalados por una auditoría interna del Mercado Central como posibles responsables de un desfalco millonario mediante la contratación de empresas y servicios fantasmas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una persona que gestiona tres ministerios (hasta hace poco cuatro) no hace nada bien y está bajo sospecha de corrupción.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ministra, en esta situación crítica, recibió el apoyo del presidente, de todos los ministros y de periodistas afines que salieron a respaldarla.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1673
+}

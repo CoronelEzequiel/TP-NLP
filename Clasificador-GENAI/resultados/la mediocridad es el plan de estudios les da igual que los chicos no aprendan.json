@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En un gobierno que rechaza el mérito, la mediocridad se ha convertido en un plan de estudios encubierto, un simulacro de enseñanza.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta medida ha generado polémica entre los padres y ha sido duramente criticada por la oposición, quienes la consideran una clara apuesta por la mediocridad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con eufemismos como “promoción asistida”, se institucionaliza el fracaso educativo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una calificación es una valoración del aprendizaje, un estímulo al esfuerzo y una señal de alerta para quienes no alcanzan los objetivos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Reducir las exigencias a los alumnos no es un favor; es una condena a una estafa educativa inimaginable en un país que alguna vez se vanagloriaba de su sistema educativo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto implica una preferencia por la ignorancia en los alumnos, una sentencia de por vida en las sociedades modernas de la información, donde el conocimiento es poder.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El paradigma de una Argentina educada y progresista se ve amenazado por el ataque a la cultura del esfuerzo y del trabajo, no solo por un asistencialismo que perpetúa la pobreza, sino por un sistema educativo que niega la dignidad del aprendizaje, que es la llave de la autonomía y el desarrollo individual.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1842
+}

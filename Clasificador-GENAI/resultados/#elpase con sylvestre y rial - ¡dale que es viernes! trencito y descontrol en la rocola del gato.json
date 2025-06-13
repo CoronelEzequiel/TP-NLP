@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.414,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¡Lo logramos!",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tú eres mejor que él.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos una ganadora: Lónica Andino de Bericio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, es momento de bailar un poco.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Te relaja y te divierte un poco. En estos tiempos, es necesario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos una nota para darte luego, Ingeniero. ¿Estás bien? Me preocupa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ingeniero Fracasi te explicará todo sobre el consumo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 883
+}

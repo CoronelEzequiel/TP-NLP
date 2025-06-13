@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.792,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy hablé con gente de Patricia Bullrich. Patricia Bullrich tuvo un destacadísimo acto, que todos pasamos por alto.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de bancarse dos años todas las afrentas, ¿acuerdan ustedes? Porque estos hablan de los machirulos, misóginos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero la señora peleó sola, por lo menos en mi punto de vista como radical, peleó sola, sacó la espada, sin labio, y peleó sola contra toda la maquinaria kirchnerista de chorros, estafadores, miserables, y además los parrilli, los moro, el otro que, ¿cómo se llama?, patotero este que era servicio tailandés, contra todo sello.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso quería hacer este... en este editorial este homenaje a la señora Patricia Bullrich. Porque sé lo que ha llorado. Sé lo que ha sufrido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta señora es el coraje cívico hecho mujer.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a los otros, que se organicen entre ellos, que vean qué camino van a tomar porque la cosa está peleaguda porque el país está fundido, porque estos delincuentes no dejan títeres con cabeza, porque les tuvieron que dar a la señora la hidrovía para que se calmen.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2744
+}

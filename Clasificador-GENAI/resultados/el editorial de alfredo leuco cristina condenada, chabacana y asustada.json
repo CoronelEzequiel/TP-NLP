@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner protagonizó uno de los hechos más autoritarios y vengativos contra Mauricio Macri el día en que se negó a entregarle los atributos de mando.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su obsesión contra Macri, Cristina emitió dos tuits en las últimas horas.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el primero utilizó un lenguaje adolescente y provocador.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri, por el contrario, le contestó con respeto y con altura.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La realidad indica que Cristina está asustada porque no puede voltear la causa de los cuadernos de las COIMAS-K, que está repleta de pruebas, documentos y testimonios de arrepentidos y porque avanzan las causas o se temen los juicios donde ella y sus hijos, Máximo y Florencia, están acusados de lavado de dinero.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso digo que Cristina es chabacana, está condenada y asustada porque, en el rubro de los insultos, es una campeona.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2177
+}

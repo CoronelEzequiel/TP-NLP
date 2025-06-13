@@ -1,0 +1,41 @@
+{
+  "texto_id": "Nicolás Vinyasky presenta una nueva perspectiva",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estamos escuchando a Luis Santo en este tema original.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Imagina que tienes una pyme o una empresa y de repente te das cuenta… que lo que te había dado el kirchnerismo, el gobierno, —un sector más radicalizado del peronismo, no el cristianismo— ahora dice que te lo va a quitar o que se quedará… con una parte de tu empresa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y la señora Vallejos, que faltó a la mitad de su trabajo, quiere que el Estado intervenga en las empresas porque les dieron dinero.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy Oscar Parrilli, senador, —nosotros los argentinos que se los ponemos a Cristina Kirchner— pidió juicio político contra el fiscal Carlos Stornelli y pidió también que se sancione a Gustavo Cornejo, un abogado defensor público…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cae en sorteo la causa de Stornelli y aparece Parrilli y dice que le hará juicio político a Stornelli.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los K vienen marchando, y eso no es lo mismo que cuando los santos vienen marchando, lamentablemente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2229
+}

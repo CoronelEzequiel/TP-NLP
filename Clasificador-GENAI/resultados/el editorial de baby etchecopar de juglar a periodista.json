@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vengo a pelear por la libertad, y ahí automáticamente empezaron algunos imbéciles con la condescendencia de la periodista.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero con la democracia pueden estar de traje, de overol, hasta parecerse a ti, y sin embargo, dicen: \"Ahí está Charles Laughton\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos perdiendo la libertad de expresión, muchachos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con Macri, con Alfonsín, con Kirchner, o con Alberto Fernández… digo medio fascista porque el otro medio labura.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y van a dejar a los alcahuetes como Navarro, y van a sacar a los que somos libres y nunca agarramos sus obras.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Declaración de los Derechos del Hombre. Artículo 2. La finalidad de los partidos políticos es la de proteger los derechos naturales e inalienables del hombre: el derecho a la libertad, a la legítima propiedad y a la resistencia a la tiranía.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2506
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "El senador Pablo Blanco",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Destacó la independencia del Senado del Ejecutivo, agradeciendo a Avinetti por plantear los temas en el Senado y no en la Casa de Gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Criticó la falta de inclusión del presupuesto nacional en la sesión extraordinaria, a pesar de los pedidos realizados a fines del año anterior.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Blanco discrepó con esta postura, considerando que el Senado debe representar los intereses provinciales y debatir el presupuesto, respetando el equilibrio fiscal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Criticó la postura del presidente del bloque de la UCR (Unión Cívica Radical), quien, según Blanco, estaría dispuesto a aprobar cualquier cosa con tal de tener un presupuesto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Señaló que se considera un opositor dispuesto al debate, criticando a quienes, en su partido, actúan de forma colaboracionista con el gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Manifestó su disposición a colaborar con otros espacios políticos en iniciativas positivas, siempre respetando la Constitución.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Criticó la tendencia a etiquetar a la oposición, reiterando su histórica oposición a los decretos de necesidad y urgencia y la mala utilización de los mismos por parte del gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1526
+}

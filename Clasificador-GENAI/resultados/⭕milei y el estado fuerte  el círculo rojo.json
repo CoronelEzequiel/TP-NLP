@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El neoliberalismo, rebautizado como libertarianismo —el de los autores que constantemente menciona Milei: Hayek, Mises y Milton Friedman— no es un proyecto económico que busca cada vez menos Estado y menos política; es un proyecto político que pretende un Estado fuerte para blindar el orden del mercado, porque de otro modo la sociedad estallaría.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La crisis de estos proyectos estatalistas abrió el camino a las derechas en muchos países y a Milei en Argentina, y responde a una crisis del capitalismo en general, a una competencia salvaje a nivel internacional en la que el capital ya ni siquiera admite concesiones y vacía, desmantela y priva a los Estados de los mínimos instrumentos de contención.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto implica que los diarios en papel y las suscripciones deberían aumentar de precio al tener que pagar IVA.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si se observa el conjunto de estos anuncios simultáneos —las medidas que pretenden unificar el aparato de inteligencia y el que maneja la información sensible de las cuentas de empresas o personas físicas o jurídicas (lo que estaba dentro de la AFIP), una especie de criptoestado multifacético con múltiples fuentes de información— y, por otro lado, la intención de limitar la voz pública de medios críticos, se entienden los objetivos del gobierno: coacción y coerción mediante la extorsión y el chantaje sobre posibles opositores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Frente a esto, la calle, con el acompañamiento condicional de la izquierda, se erige como la verdadera oposición.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2360
+}

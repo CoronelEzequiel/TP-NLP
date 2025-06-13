@@ -1,0 +1,51 @@
+{
+  "texto_id": "El final de Cristina Fernández de Kirchner y Alberto Fernández: un análisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.863,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Su influencia negativa se percibe incluso en momentos de inactividad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las declaraciones de Cristina Fernández de Kirchner sobre la capital y la provincia demuestran una profunda falta de conocimiento o un intento desesperado por contrarrestar la situación, ya que sus acciones parecen estar siendo afectadas por las consecuencias de sus actos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, quien parecía lúcida en el pasado, ahora emite declaraciones inconsistentes y descabelladas para defenderse.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El problema reside en que su estrategia de confrontación podría tener consecuencias devastadoras, ya que ella y sus seguidores, fervientemente leales, podrían generar una crisis nacional.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner se encuentra a punto de enfrentar consecuencias judiciales, y lo único que le corresponde es el cumplimiento de una condena en prisión, sin embargo, se la presenta como una estadista que cometió errores.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Las mentiras de Cristina Fernández de Kirchner y Alberto Fernández han sido desenmascaradas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su desgaste es palpable; el fastidio que genera la voz de Cristina Fernández de Kirchner, y las figuras de los personajes que la rodean como Máximo Kirchner (mencionado como corriendo por la calle asustado), es evidente y causa vergüenza ajena.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si tuviera un mínimo de dignidad, debería dar un paso al costado, permitir que el país avance, someterse a la justicia y pedir perdón a los argentinos por el daño causado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2063
+}

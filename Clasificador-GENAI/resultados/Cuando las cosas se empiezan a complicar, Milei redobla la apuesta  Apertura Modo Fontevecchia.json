@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Las fuerzas del cielo son un aliado fundamental dentro del gobierno de Javier Milei, quien, aunque no cuenta con diputados y senadores, se apoya en las fuerzas del cielo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La experiencia histórica demuestra que los esoterismos no han sido buenos consejeros a la hora de comandar una nación, y la imposibilidad de gestar acuerdos concretos, por ejemplo, en el Congreso, fue una muestra de ello.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei cree que es parte de una misión celestial encomendada por Dios para ser presidente de la Argentina y que cuenta con el respaldo de las fuerzas del cielo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, Milei utilizó su propia derrota política para volver a acusar de coimeros a todos los diputados y a las empresas que supuestamente hicieron *lobby*.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es curiosa esta relación entre el discurso de Galtieri y las entrevistas de Milei, que solamente un reportaje en el diario norteamericano *The Wall Street Journal*, el actual presidente, habló sobre el reclamo histórico que Argentina tiene con el territorio de Malvinas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No sigan tirando la cuerda, porque después tienen las consecuencias.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy curioso esto de que vienen a parar la hiperinflación cuando todo es, por el contrario... Es el propio presidente el que dice \"motosierra y licuadora\". Licuadora quiere decir licuar el valor del dinero. Licuadora quiere decir aumentar la inflación en mayor proporción.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, no hay plan B. ¿Tiene un plan B? No, no hay plan B. No hay plan B para hacer las cosas bien. ¿Hacer las cosas bien o las haces bien? Porque si el plan B es empezar a hacerlas más o menos o negociar, esa es la historia de Argentina.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4133
+}

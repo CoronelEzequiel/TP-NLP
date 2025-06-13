@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En Dinamarca, toda persona que recibe algún tipo de ayuda social está inhabilitada para votar. Entonces, al no poder votar un tipo que cobra un plan, se evita que la ciudadanía se transforme en clientelismo político. Y que sean votantes cautivos de la gente que los empobrece y les hace mierda la vida.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El movimiento Evita y los planeros salieron en el día del laburo en Argentina a bancar al presidente. Mucha gente fue y toda esa gente la pagó el rebaño de pelotudos para celebrar al presidente en el día del trabajo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno que banca planeros y jode a los laburantes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos hambre de futuro, tenemos hambre de comida, tenemos hambre espiritual. Tenemos hambre de poder, tenemos hambre de educación, tenemos hambre de salud, tenemos hambre de seguridad. Y tenemos hambre de justicia en esta Argentina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Solamente en la cabeza de un facho, de un facho, puede decir las imbecilidades que dicen.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina, chorra multiprocesada. Que si no fuera porque algunos no te sacaron los fueros, ya estarías tras las rejas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4746
+}

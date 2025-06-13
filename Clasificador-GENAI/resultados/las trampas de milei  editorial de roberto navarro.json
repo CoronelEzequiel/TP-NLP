@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El descenso del consumo, que genera desempleo y hambre, fue autoimpuesto como parte del plan económico del gobierno de Milei, con el objetivo de reducir la inflación y disminuir las importaciones para aumentar las reservas de dólares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien aumentaron las ventas de autos, motos y algunos electrodomésticos, la disminución en la compra de alimentos refleja una sociedad dividida entre quienes tienen acceso a bienes y quienes sufren hambre.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei se ha aliado con la derecha, tras un acuerdo con Macri.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para evitar una mayor pérdida de apoyo electoral, Milei profundiza una estrategia de \"caos\", similar a la descrita en el libro \"Los ingenieros del caos\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ruido de la confrontación política tapa el hambre silencioso de los pobres.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1487
+}

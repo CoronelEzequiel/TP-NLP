@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_a_gustavo_jankelevich",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que pasa, Jorge, es que creo que tenemos grandes productores (y productoras independientes, claro) y mucho talento en Argentina. El problema no es el talento, sino que debe ir de la mano de la economía del país.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A medida que la economía del país decayó, la televisión se hizo con lo que había disponible.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Susana le duele mucho la Argentina, las dificultades económicas, el rumbo del país, y lo expresa como puede.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es un tema de talento, ni de audiencia, sino de la economía.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la década de 1990 –y esto no lo digo desde una perspectiva política, sino como un relato de lo que ocurrió–, había mucho movimiento económico para los canales de televisión y las empresas publicitarias.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2896
+}

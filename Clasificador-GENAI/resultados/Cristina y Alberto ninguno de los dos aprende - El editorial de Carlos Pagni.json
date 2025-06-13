@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estamos hablando de los primeros meses del gobierno. **Cristian Ritondo**, y en ese momento el gobierno le pide a la oposición peronista, dialoguista, -estamos hablando, básicamente, en la Cámara de Diputados, de **Diego Bossio** y, en la Cámara de Senadores, de **Miguel Ángel Pichetto**- que acompañe una reforma legal que le permitía al gobierno iniciar negociaciones con los *holdouts*.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto, los gobernadores, que influían mucho tanto en Bossio como en Pichetto y en los dos bloques de diputados y senadores que ellos representaban, apoyaron esa idea de salir de la política de Cristina Fernández de Kirchner y **Axel Kicillof**, e ir a una recomposición de relaciones con el mercado financiero internacional, que le iba a permitir a las provincias de esos gobernadores volver a financiarse.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la razón por la cual Kicillof está especialmente entusiasmado, más allá de la fascinación que le produce su jefa, en darle argumentos a Cristina Fernández de Kirchner para demoler, frente a su propia audiencia, frente a su propia base política y electoral, la política económica de Martín Guzmán.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son algunas teorías en las que parece que Kicillof le ocultara a Cristina algunos datos o algunas informaciones que aparecen en los diarios. Por ejemplo, ella defendió la idea hoy de que la emisión no genera inflación y que el déficit fiscal financiado con emisión tampoco genera perturbaciones en la economía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que sabemos es que si esta es la dinámica, el año que viene lo que va a haber es más inflación durante todo el período que va hasta las elecciones, va a haber entonces un deterioro del salario y va a haber una caída más pronunciada del gobierno en las encuestas que va a obligar a Cristina a hacer más de lo que hizo hoy.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7933
+}

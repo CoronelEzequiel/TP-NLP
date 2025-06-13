@@ -1,0 +1,71 @@
+{
+  "texto_id": "Dia 58 Los fachos salieron del clóset",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.363,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En los últimos años, con la expansión de la corrección política, la mirada pública tendía a condenar y a considerar negativos discursos que estuvieran fuera del registro de lo aceptado por el progresismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, para analizar la expansión de este fenómeno, decidimos abrir el día de hoy con nuestro programa \"Día 58: Los fachos salieron del clóset\", con una canción de León Gieco que lleva como título la palabra \"fachos\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, se puede tener el \"orgullo\" o salir del clóset por lo contrario, por ser de un colectivo ya no de género, sino político, que discrimina, odia y ejerce violencia sobre minorías, o que sufrió *bullying* por ser \"facho\" y tuvo que reprimir su verdadera ideología.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El *influencer* y escritor de extrema derecha Agustín Laje, uno de los soportes intelectuales de Javier Milei, es el ejemplo de esta actitud, que en algún contexto puede parecer desafiante, pero también es símbolo de una nueva situación social.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que se merecen son balazos, las pagan.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La nueva derecha, por ponerle un nombre, tiene una estrategia similar y comparable a las comunidades LGBT, que, con sus marchas del orgullo llenas de auto-reivindicaciones, mostraban cuerpos desnudos y manifestaciones que la sociedad al principio no toleraba y luego fue aceptando.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El único colectivo que busca liberar es aquel de los políticamente incorrectos, es decir, ya se liberaron todos los colectivos que son políticamente correctos, ahora lo que tenemos es la reivindicación de los colectivos políticamente incorrectos, o sea, en contra del INADI, que no es más que los valores conservadores de la derecha, que fueron minoría en los últimos años y que fueron reprimidos e inhibidos por las propias personas que tenían tendencias a esas ideas.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La idea de la superioridad estética, por ejemplo, es una idea directamente nazi.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando cualquier otro gobierno, luego de decir semejante barbaridad, Sánchez no hubiera asumido ningún cargo, sin embargo, Milei y sus asesores entienden que, como parte de esta estrategia de batalla cultural de la extrema derecha, este hombre tiene que estar en un puesto destacable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso con el que abrimos de Agustín Laje se inserta plenamente en esta lógica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La racionalidad política, la educación, los debates abiertos, son el posible antídoto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Al fascismo se lo supera leyendo y el racismo se cura viajando.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5462
+}

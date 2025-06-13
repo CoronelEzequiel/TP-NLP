@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.796,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es tan grande la derrota cultural de este cuarto gobierno kirchnerista que acaba de evidenciar que perdió hasta el olfato popular.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La reacción ciudadana ante la victoria deportiva más importante de todos los tiempos produjo una concentración multitudinaria jamás vista en la historia, de alrededor de 5 millones de personas, que se repitió en casi todas las ciudades y los pueblitos de la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un grupo de muchachos, conducidos por un líder productivo, responsable, respetado, con una personalidad que combinaba irrespetuosidad y falta de toxicidad, sacó a las calles familias enteras que sueñan con la esperanza de construir un país a imagen y semejanza del equipo de Lionel Scaloni.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, Cristina Fernández de Kirchner y Wado de Pedro quedaron en fuera de juego, un \"offside\" producto de su ideologización.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La inflamación de la ideología no les permite disfrutar de semejante fiesta popular porque no pueden ver nada si no es a través del ojo de la cerradura de sus dogmas jurásicos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los kirchneristas viven en una coraza que los aleja del verdadero sentimiento de la gente.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pierden sensibilidad para interpretar los humores sociales y eso es letal en la vida política.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como escribieron María Julia Oliván y Leonardo Faccio, todo lo que tocan lo rompen o lo corrompen.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La devoracidad por apropiarse de todo, esa angurria y codicia sin límites los empuja al abismo de su ocaso.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández decretó un feriado nacional insólito, incluso ofensivo, para el interior del país y para aquellos que necesitan tener la vida mínimamente organizada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quien la tuvo más clara fue el senador Esteban Bullrich.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, que no entiende nada de fútbol y supo elogiar a los barras bravas de \"El Paravalancha\", creyó encontrarle la vuelta a este desafío.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2765
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El alegato del fiscal en la causa Vialidad Nacional, que tiene como principal acusada a la vicepresidenta Cristina Fernández de Kirchner, fue una de las sorpresas del juicio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, con el juicio llegando a su fin,  se empieza a entender el porqué de sus acciones durante su periodo en el poder.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una afirmación sorprendente, considerando la cantidad de acusaciones y pruebas en su contra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La fiscal Luciani Vázquez refutó las defensas de la vicepresidenta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está siendo investigada por un esquema de corrupción que involucra a su fallecido esposo, Néstor Kirchner, y a Lázaro Báez, quien obtuvo de manera irregular 51 contratos de obra pública en Santa Cruz, por un monto equivalente a aproximadamente 3 mil millones de dólares.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El economista Matías Surt señaló que durante el gobierno de Mauricio Macri se utilizó un 18% más de asfalto y cemento, con un 27% menos de gasto que durante el gobierno de Cristina Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las declaraciones de Soria y Amena, defendiendo a Cristina Kirchner, parecen un guion preestablecido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1750
+}

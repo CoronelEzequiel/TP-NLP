@@ -1,0 +1,61 @@
+{
+  "texto_id": "Marina de Lanús presenta su serie \"División Palermo\" en Netflix",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo soñaba, obviamente, con que le fuera bien, pero en las últimas semanas sentía una sensación extraña a mi alrededor, como si la serie fuera de nicho.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, ahora nos pasa esto… que nos saludan policías en la calle.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, sí me sorprendió que me escribieran de todos lados. De todos lados, incluso de la grieta, como que realmente llegó a todos, que era lo que queríamos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hablarle a un solo sector, ser realmente inclusivos a la hora de generar humor.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por eso también tenemos a Martín, que cuando hay que hacer chistes al límite, hay un personaje que los hace, pero también hay una mirada de la serie que no es la del personaje que los hace.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "digamos, las minorías son seres de luz. Se piensa mucho que las personas con discapacidad son seres asexuados, se los infantiliza, se los trata como chicos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la verdad es que todos tenemos contradicciones, complejidades.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque también la idea no era caer en la política partidaria y demás, sino poder contar una realidad y algo que bueno, que vimos.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una crítica política al exceso de la mano dura, al discurso.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y también el objeto de burla es cuando vos tenés buenas intenciones y aún así sos un pelotudo que te mandás cagadas con cosas que no conoces.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7022
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Usted aparece en un grupo de WhatsApp, un grupo de reunión.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No me gusta revolver cuestiones de 50 años atrás.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina necesita dar vuelta de página.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Argentina no puede vivir del pasado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Respeto la Constitución y la justicia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No se puede censurar la libertad de expresión de un diputado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Comparo delincuentes con delincuentes; ambos están condenados.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La persona, por más delitos que haya cometido, sigue siendo humana y tiene derechos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros queríamos que se le permitiera mejores condiciones de detención.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No he visto ningún proyecto de ley al respecto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2016
+}

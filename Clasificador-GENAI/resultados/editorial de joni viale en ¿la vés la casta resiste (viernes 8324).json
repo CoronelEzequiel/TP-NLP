@@ -1,0 +1,91 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, eso es exactamente lo que hizo la casta política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Confesaron que no quieren soltar los privilegios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso es correcta la decisión del gobierno de dar marcha atrás con el aumentazo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, que no me vengan con que eso no les alcanza porque hay muchísima gente que le está pasando muchísimo peor con muchísimo menos plata.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, la verdad es que está bien esta decisión de mi ley o del gobierno de dar marcha atrás.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por favor, la clase política, la casta, como dice mi ley, que la gente no soporta esto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema, en todo caso, es lo mal que gana y vive la gente común y corriente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay demasiada distancia entre la política y la gente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, como decía, yo me acuerdo de Diana Conti.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, Alberto no lo tomaba.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo te digo que esto a la gente le molesta y le duele.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, es correcto que el gobierno haga un ajuste profundo, profundo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que esto es correcto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el ajuste lo tiene que hacer toda la clase política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esta Argentina de funcionarios ricos y ciudadanos pobres, en esta Argentina donde los que trabajan como funcionarios tienen todo y el pueblo no tiene nada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Cívica Javier, que tocó el turno, fuiste el que ganaste la opción de cambio como martirín, hoy te acompañamos Javier para que seas el próximo presidente de los argentinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 5836
+}

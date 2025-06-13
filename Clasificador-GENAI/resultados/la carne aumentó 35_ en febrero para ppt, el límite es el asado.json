@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Hay algo más peronista que un asado compartido entre trabajadores?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos en el nivel de consumo más bajo de los últimos 100 años. Lo dijo mi amigo Roberto Navarro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos proponemos al mundo como oferentes de alimentos y carne, pero puertas adentro tenemos una gran deuda.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El consumo interno, en cambio, ha ido degradándose desde 2015.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El campo no es todo, ni todos los productores agropecuarios son iguales. Está cada vez más concentrado.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1251
+}

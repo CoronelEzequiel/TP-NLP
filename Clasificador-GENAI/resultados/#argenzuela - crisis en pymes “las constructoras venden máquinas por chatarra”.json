@@ -1,0 +1,71 @@
+{
+  "texto_id": "La Asamblea de Pequeños y Medianos Empresarios",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.108,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estamos en el día a día, atendiendo la demanda social, que lamentablemente cada vez es menor debido al profundo proceso recesivo que estamos atravesando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El anuncio del ministro de Economía de una recesión profunda es duro, pero aún más lo es la exigencia de vender dólares para pagar impuestos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno exige vender ahorros para pagar impuestos, ¿quién podrá comprar zapatillas, una remera o salir a comer afuera?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creemos estar ante una recesión inédita, y prevemos algo peor en los próximos meses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mensaje no es solo para las constructoras, sino para toda la sociedad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es preocupante cómo se están destruyendo capacidades productivas, transformándose en chatarra.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos modelos económicos condenan al subdesarrollo para complacer al mercado financiero.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay indiferencia.  Hemos contactado a Marcos Allera, subsecretario de Emprendedurismo, pero no se resuelve nada. No hay planes, incentivos ni modelos para activar la industria argentina.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El modelo se centra en complacer al mercado de capitales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La industria necesita importar equipamiento e insumos, y un mercado interno creciente demanda más importaciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los dólares de la balanza comercial deberían distribuirse en la sociedad, pero el gobierno prefiere destinarlos al pago de intereses y capital de bonos para reducir el riesgo país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Julián Moreno, presidente de la PYME, dice que la situación es dramática.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1938
+}

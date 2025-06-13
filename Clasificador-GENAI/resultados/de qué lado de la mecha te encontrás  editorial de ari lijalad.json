@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_ley_miseria",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.05,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, celebraron quienes la redactaron.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El comunicado es llamativo porque destaca la generación de riqueza por parte de las empresas, y no de los trabajadores.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son los dueños de Argentina, quienes deciden el precio de los alimentos (como los Pérez Companc), los medicamentos (como el señor Bagó), las viviendas (a través de las empresas vinculadas a la construcción), las transacciones (los bancos y Mercado Pago, también dentro de la AEA) y, básicamente, el valor de los salarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es criminal que la compra de alimentos caiga casi un 40% y la de medicamentos casi un 50%.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivimos en un país donde los empresarios redactan leyes y celebran rentabilidades extraordinarias que liberan aún más los precios, llevando a una disminución en el consumo de alimentos y medicamentos (según CAME).",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿De qué lado de la mecha se encuentran? Nosotros, al menos, del lado de quienes vemos cómo nuestro salario vale cada vez menos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1723
+}

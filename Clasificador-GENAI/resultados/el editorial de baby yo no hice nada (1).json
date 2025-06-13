@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me gustó mucho el discurso de Alberto Fernández, pero fue un discurso…",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por supuesto, yo estoy del otro lado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto que no soy de los que creen que Mauricio Macri dejó tierra arrasada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por supuesto que no soy de los que hoy fueron a comer un lomo al plato en el Plaza Hotel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto que no cambio mis principios y por supuesto que soy un gorila, un facha, una porquería de ser humano que en este momento no cotiza en bolsa, pero al menos me queda la dignidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "O sea, que si esa es la cultura que nos traen… después tenemos unas imágenes más de la plaza, pero sinceramente, yo creo que es una fiesta popular cuando vamos todos, no cuando va esta gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y realmente, el acto de hoy me da un poco de vergüenza, porque ¿sabes qué pasa?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que seguimos siendo una pequeña república bananera.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dios salve a Alberto Fernández, ojalá que nos salve, ojalá que todo sea para bien y ojalá que esta Argentina se parezca mucho a la de hace 70 años atrás.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3105
+}

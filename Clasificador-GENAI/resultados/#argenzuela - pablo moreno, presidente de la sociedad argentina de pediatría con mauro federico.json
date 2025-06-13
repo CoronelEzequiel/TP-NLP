@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por eso el ministro lo señaló y, entre otras cosas, manifestó su preocupación por la falta de pediatras que hay en nuestro país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para hablar de los dos temas, convocamos a Pablo Moreno, que es el titular de la Sociedad Argentina de Pediatría.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero lo que sí provoca es, digamos, un aumento en la demanda de consultas, digamos, porque el virus circula.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, en el diagnóstico que hace ayer el ministro Kreplak, hace referencia a la carencia de pediatras.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, es así y nosotros hemos manifestado ya varias veces en los últimos dos años, y alertado sobre esta situación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto, se percibe un aumento de la demanda. Pero ahí no tiene que intervenir... Te lo pregunto también pensando en función del diseño de una política de salud pública, ¿no tiene que intervenir el Estado alentando de alguna forma?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros creemos que sí, que tiene que haber una política reguladora del Estado, pero también tiene que haber un trabajo coordinado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3231
+}

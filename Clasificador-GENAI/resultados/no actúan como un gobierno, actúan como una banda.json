@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.721,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ante una afirmación que podría implicar la comisión de un delito, realizada por un funcionario propio, un gobierno serio debería haber garantizado una investigación transparente, a disposición de la justicia, y haber ofrecido explicaciones técnicas con los funcionarios del área para despejar cualquier duda sobre su probidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente optó por la complicidad, protegiendo lo sucedido y asociándose con quienes pudieran estar implicados en un ilícito, si se probara.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No actúan como un gobierno, actúan como una banda.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta es otra ilusión que se suma a la lista de amagues de independencia que muchos, inexplicablemente, siguen esperando de Alberto Fernández, como si no hubiera pruebas suficientes de su verdadera postura.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema de los albertistas es que Alberto Fernández siempre termina siendo cristinista.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién se juega por un presidente que no se juega por sí mismo?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claramente, gobiernan con los alineados a Cristina Kirchner. El resto termina alienado.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Realmente quieren hacerlo o prefieren demorarlo? ¿Les conviene seguir importando gas?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las importaciones cuestan una fortuna que desangra las reservas del Banco Central.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es curioso que Cristina Kirchner, desde su regreso al poder, argumentó en su defensa legal contra acusaciones de corrupción que existía una persecución política orquestada desde la justicia (LOFER).",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, en el país, la crisis energética afecta a las escuelas sin gas y a 19 provincias sin gasoil en plena cosecha.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es difícil que sigan diciendo que la gente es lo primero cuando la única prioridad parece ser la interna, y quién sabe qué intereses inconfesables.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2306
+}

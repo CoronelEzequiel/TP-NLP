@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Día 331, Orgullo de Derecha, porque, como ya ocurrió muchas otras veces en la historia del mundo, las ideas de ultraderecha vuelven al centro de la escena y se instalan como factibles.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una Argentina orgullosa de ser de derecha, que ese día no se manifestó, pero lo hace a diario cuando se festejan, por ejemplo, despidos en el Estado, se celebran las represiones de las manifestaciones de los jubilados, o cuando se llama 'batalla cultural' a una lucha en contra de la supuesta ideología de género manifestada en esa marcha del sábado, por ejemplo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de Javier Milei, que representa a esa Argentina, espera con ansias las elecciones en los EE. UU. que se realizan hoy 5 de noviembre y que pueden devolver al poder a Donald Trump al frente de la Casa Blanca.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Uno entonces podría preguntarse: ¿por qué Trump ayuda a Macri a obtener el préstamo del Fondo Monetario Internacional? ¿Por qué Milei cree que el candidato republicano lo puede ayudar?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta internacional derechista, que viene como respuesta a cierto grado de melancolía, de eso que ya no existe, que es ese comunismo que fue desapareciendo de todo el mundo, también tiene un desdén por la democracia, tiene puntos en común con aquella internacional de izquierda, busca generar liderazgos autoritarios, defensa de valores no democráticos, como podrían ser la libertad, la crítica, el disenso, que pueden ser una trinchera de defensa en las sociedades mundiales contra el avance tanto de la extrema derecha como de la extrema izquierda.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4856
+}

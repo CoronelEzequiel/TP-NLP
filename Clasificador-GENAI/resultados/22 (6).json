@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.158,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Feroz, fue terrible, ya lo hablamos, ya lo dijimos, ya nos enojamos, ya le pedimos que la sociedad proteja a los adultos mayores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el proyecto, digamos, ¿no? Es represión, ¿no es cierto? Es adoctrinamiento, disciplinamiento.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos reclamando lo que nos corresponde por derecho.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich, a quien conocemos muchísimo sobre todo en los mayores, no permite que pisen la calle.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solamente vamos los adultos mayores a reclamar por nuestros derechos, nuestros ingresos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También vamos porque no queremos este país. No es esto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros luchamos, los compañeros nos han dado la vida por un país inclusivo y de buena vida para todos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No nos van a mandar a casa, aunque seamos cuatro, Jorge.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero si este tipo aplica la política que quiere aplicar, ustedes que vienen atrás, no se jubilan.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos todavía, vamos a estar ahí nosotros como siempre acompañando con las cámaras y todo, vamos a estar acompañándolo y cuando... Gracias, Jorge, gracias.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lamentablemente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hubiesen sido jubilados venezolanos, no le hubiesen pegado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2977
+}

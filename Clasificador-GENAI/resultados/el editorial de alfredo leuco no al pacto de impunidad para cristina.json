@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.786,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si quieren paz social, paren el juicio de Vialidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un discípulo del señor feudal Gildo Insfrán y sabe, al igual que los Kirchner, que nada es imposible cuando se está dispuesto a violar todas las leyes e incluso la Constitución Nacional.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es un intento que nació muerto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay un solo dirigente de la oposición que esté dispuesto a firmar nada que viole la división de poderes, y Mauricio Macri, mucho menos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dicen que Macri cometió errores, pero Cristina cometió delitos, es muy diferente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quieren hacer borrón y cuenta nueva; ellos garantizan que nadie más perseguirá judicialmente a Macri, y piden que se les garantice que nadie más perseguirá judicialmente a Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La consolidación de las democracias republicanas y de la paz social solo se consigue con verdad, juicio, castigo y condena para todos los que cometieron delitos, para la banda que quiso asesinar a Cristina y también para Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2111
+}

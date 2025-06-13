@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina ha tenido problemas de energía a lo largo de prácticamente toda su historia reciente. Por eso decimos que es una metáfora de dólares, es decir, finalmente, la falta de energía es equivalente a la falta de dólares o a la falta de recursos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tan impactantes fueron electoralmente las consecuencias de los cortes de electricidad y la metáfora de que la falta de energía en realidad era la falta de dinero, que fueron uno de los puntos fuertes de la campaña de la oposición, que terminó ganando, que era Carlos Menem.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Interesante el lenguaje de De Vido, el ministro De Vido en su momento, “conscientes”, siempre palabras bastante poco usuales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces cuando de golpe ustedes se encuentren en su casa en invierno y se vean que están en remera o están en patas, es que están consumiendo energía de más.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2922
+}

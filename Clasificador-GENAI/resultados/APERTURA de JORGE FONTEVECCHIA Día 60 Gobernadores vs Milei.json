@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.525,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Tras la estrepitosa caída de la mega ley ÓMNIBUS, el gobierno inauguró un nuevo capítulo en la disputa contra las provincias, a las que llamó 'traidoras' y 'rebeldes', y contra los gobernadores aliados que, hasta el último momento, se mantuvieron en el tratamiento de la ley, aceptándola parcialmente, pero no totalmente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y estos mandatarios locales, evidentemente, no fueron alcanzados por el hartazgo con la política en lo que 'mi ley' denomina difusamente 'casta'.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente, ante estas actitudes, solo ha anunciado amenazas, como por ejemplo, 'dejar sin un mango', textualmente, a las provincias, como si todo esto que estuviera diciendo, además, no lo llamara 'traidores', 'delincuentes', o acusara de estar a favor de los privilegios.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense la falacia kirchnerista, votan con los kirchneristas, nada de kirchneristas. Primero, los mismos gobernadores que le reclamaban al kirchnerismo cuando el kirchnerismo gobernaba.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4088
+}

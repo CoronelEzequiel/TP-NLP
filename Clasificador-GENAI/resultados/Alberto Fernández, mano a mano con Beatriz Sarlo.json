@@ -1,0 +1,211 @@
+{
+  "texto_id": "Alberto Fernández entrevista",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.235,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Voy a empezar por la historia, que es la historia de malos entendidos entre los presidentes y los vicepresidentes, si tomamos los últimos 20 o más años en Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La idea de la política es que, si uno mira políticamente esta historia, está buena la reflexión, no se me había ocurrido analizarla así.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando Menem lanzó su candidatura, necesitaba un bonaerense y encontró a Duhalde, que era el único que lo acompañaba, mientras todos los demás acompañábamos a Antonio Cafiero.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Cristina fue un intento con Cobos, yo fui parte de ese intento y no anduvo bien, y a mi juicio eso no anduvo bien, primero por la actitud de Cobos, que a mi juicio fue muy poco responsable, más allá del aspecto, yo tengo buen trato con Cobos, pero él olvidó que era el vicepresidente y votó como un senador mendocino, y no era un senador mendocino, era un vicepresidente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La primera sensación que tengo es que estamos los dos juntos por convicción, por convicción política y por convicción humana.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo fui muy crítico de Cristina, me fui de su gobierno haciendo muchas críticas, muchas de las cuales yo diría que casi todas las tengo hasta el día de hoy.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no siento que Cristina y yo tengamos una visión sobre el país que queremos distinta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque yo creo tener, respecto a todos esos presidentes que acaba de mencionar, Beatriz, una ventaja, que yo tengo una vicepresidenta que es una amiga, es una amiga, con quien, además, hemos tenido muchas diferencias, conocemos nuestros pareceres y nos respetamos y apreciamos y queremos mucho.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin ninguna duda, Cristina es un aporte central.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Cristina, tal vez, pudo haber sido presidenta, pero ella lo que entendió es que la Argentina necesitaba abrir otro espacio nuevo, donde ella podía acompañar, pero que, por ahí, no era lo ideal que ella fuera la primera figura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no es justo que no se le reconozca, no solamente generosidad, quiero ser franco, porque, si no, es como que le bajamos mucho a la calidad de su decisión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizás, entonces, ella sabía que eso lo conservaba, porque era el último recuerdo bueno, pero que tenía un techo en las capas medias que son indispensables para ganar elecciones.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si ella vio eso y pensó que yo aportaba eso, tuvo razón.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es cierto, pero le hago una pregunta. Según algunas de las tablas de gastos de las provincias, las provincias gastan en educación menos de lo que reciben para que gasten.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo quiero que un chico que nazca en Jujuy tenga la posibilidad de tener salud en Jujuy, de tener la educación que corresponde en Jujuy.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo quiero que un jujeño sea educado igual que un porteño.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora esto no está pasando en la Argentina del presente, hace muchos años que no está pasando, Beatriz, y eso es lo que yo digo, vamos a cambiarlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo siento que, si nosotros no cambiamos el modo de desarrollo en la Argentina, vamos a seguir repitiendo la misma experiencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que hay un día en que el Estado Nacional tiene que decir, basta, vamos a devolverle a la provincia la dignidad de seguir por sí misma.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y cuando le digo a Lammens, hagamos de Buenos Aires el centro tecnológico para todo el país, le estoy diciendo que los porteños, alguna vez, le devolvamos a las provincias todo lo que las provincias hicieron para que la ciudad de Buenos Aires sea lo que es.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo quiero terminar con los sismos. Dije la vez pasada que, la verdad, yo no quiero ser un gran presidente, quiero ser un presidente de un gran país, que es otra cosa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y para ser un gran país hay que terminar con los personalismos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso yo digo que los cuatro años que vienen, si me toca ser presidente, no va a ser el gobierno de un presidente, va a ser el gobierno de un presidente más 24 gobernadores, y vamos a tomar la decisión entre todos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo vamos a encarar la seguridad en Argentina? ¿Vamos a encarar, como es hoy, cada uno en su provincia lidiando con sus policías?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En los servicios públicos, me estoy refiriendo, básicamente, a educación y salud.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo primero que tenemos que hacer es poner en valor a la docencia argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ponerla en valor quiere decir ver de qué modo le pagamos lo que corresponde, y también quiere decir ver de qué modo los maestros se actualizan, se capacitan para dar la mejor calidad educacional, las dos cosas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, nosotros tenemos que volver a la idea original de la paritaria nacional, que, de algún modo, ponga orden en esa idea de que no terminemos discutiendo cuánto gana un maestro porteño y nos desentendamos del jujeño, si después le vamos a pedir al jujeño que enseñe como el porteño.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando a mí me hablan de la reforma laboral, yo siempre pregunto, ¿qué quieren reformar? Díganme qué quieren reformar, porque yo no entiendo a la Argentina, si es un país distinto en el mundo, porque le dio derechos a los que trabajan y ahora hay que quitárselos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no conozco ninguna sociedad que crezca restringiendo derechos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina tiene un problema fiscal, que, a mi juicio, deviene de la falta de actividad económica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si algún Estado cobra impuestos a partir de la actividad económica que tiene, si la actividad económica decrece, los impuestos se caen a la par.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nosotros tenemos un país que, en el año 2015, tenía un producto bruto de 600.000 millones de dólares, y hoy tenemos un país cuyo producto bruto interno es de 300.000 millones de dólares.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, Macri, por una cuestión de pertenencia de clase, a mi juicio, a todos ellos los eximió y los liberó en exceso, en exceso, y cargó solo las tintas sobre las sociedades.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una de las rémoras. ¿Cómo va a ser? Porque hay que arrear a las personas físicas para que no tengan ganancias.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo quiero parecer... Yo sé que no, que es un autópico, pero yo quisiera tener la lógica de Finlandia, quisiera tener la lógica de Noruega.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que yo quiero es plantearles a los argentinos la utopía de ser un país más justo, donde cada uno pague en función de su riqueza, y, a su vez, de ser un país que empiece a promover la ciencia y la tecnología como mecanismo de desarrollo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que ahora tenemos que hacer es un análisis introspectivo sobre cómo somos, diría el Aya Blásquez, ¿no? ¿Cómo somos? Y ver lo que somos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Argentina no resiste más ningún modelo de corrupción, ni de un tipo que carga dólares en un bolso, como fue el caso López, ni de las cosas que se han hecho en este gobierno privilegiando a los amigos en los grandes negocios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No puede seguir ocurriendo, no puede seguir ocurriendo en un país donde, además, hay gente con hambre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 11118
+}

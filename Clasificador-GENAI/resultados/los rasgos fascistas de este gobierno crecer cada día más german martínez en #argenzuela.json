@@ -1,0 +1,36 @@
+{
+  "texto_id": "Cruzo todos los dedos y ojalá Pablo se recupere",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que une a quienes se conmocionan y recuerdan a Pocho Lepratti en Rosario, en diciembre de 2001, a quienes recuerdan a Carlos Fuentealba en Neuquén y a todos los que hoy están tratando de aportar fuerzas para la recuperación de Pablo, es que están viendo un poder político absolutamente dispuesto a todo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, cuando nosotros veníamos diciendo hace tiempo que los atributos autoritarios y fascistas de este gobierno estaban en enorme crecimiento, muchos decían que no, pero creo que el otro día quedó totalmente claro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las cámaras, el Congreso, el ámbito de la representación popular y de las provincias es lo que más le molesta.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando ves un gobierno atrapado en una criptoestafa, que para taparla nombra jueces por decreto, que para tapar eso quiere intervenir la provincia de Buenos Aires y le pide la renuncia al gobernador, que para tapar eso va a un acuerdo con el FMI… Cuando uno ve ese gobierno, el campo nacional popular tiene que abrir los brazos y convocar cada vez más.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero creo que acá esa bandera de la paz, que es lo que queremos todos los argentinos, la tenemos que poner en la mayor cantidad de manos posible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3174
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.793,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno se ha convertido en una máquina de falsedades para ocultar sus propias responsabilidades y fracasos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando el poder no solo no puede solucionar los problemas, sino que los empeora dilapidando la confianza y sin generar esperanza en un futuro mejor, la realidad se vuelve irrespirable.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argentinos perciben que la única guerra que existe hoy no es contra la inflación, sino entre los miembros de la cúpula del poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vivimos peor cada día, y el Estado abusa de su poder, cargando las espaldas de quienes siempre se esfuerzan y faltando el respeto a todos al no hacerse cargo del sufrimiento general.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este caso, este gobierno es de Cristina Fernández de Kirchner desde el primer momento.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras Cristina Fernández de Kirchner ejecuta el plan de su gobierno, se dedica con más ferocidad a dominar el Poder Judicial, aunque eso abra un grave conflicto de poderes.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando el hijo de Cristina Fernández de Kirchner exclama \"¡Háganse cargo!\", también debería decírselo a su propia madre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1921
+}

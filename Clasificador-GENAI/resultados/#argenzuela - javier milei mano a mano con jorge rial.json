@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No tengo nada en común con las tibias socialdemócratas, como María Eugenia Vidal o la UCR.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que hay una opción basada en la defensa de la libertad, que podría incluir a liberales, peronistas federales, republicanos y menemistas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Macri da el salto, ¿no tendrías problema en una alianza con él? No. Yo no tendría problema. ¿Tú como candidato? No hay problema; si él se une, lo resolvemos en una interna.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En 2023, me veo dando la batalla por la libertad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Banco Central determina la cantidad nominal de dinero, lo que afecta el nivel de precios, la inflación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Propongo, antes de dolarizar, reformar el sistema financiero, con un sistema de \"Bank Assignment\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El eje central de mi argumento es moral. Es una cuestión moral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Estado puede hacerlo, y es una estafa. Entiendo la discusión sobre la soberanía, pero ¿estamos de acuerdo en que el Estado estafe a los argentinos, impidiendo el crecimiento económico y afectando desproporcionadamente a los más pobres?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La idea no es eliminar los planes sociales, sino que con el crecimiento económico y la creación de empleo, la gente dejará los planes naturalmente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Legislatura porteña, no acompañé la declaración de Libertad Avanza para encontrar a los 30.000 desaparecidos, porque considero que hay víctimas de ambos lados.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En política exterior, ¿cuál sería tu posición? Pro-Occidente y pro-Israel.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con China no tendría relación, no negocio con quienes no respetan la libertad.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2837
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.084,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Repito, lo que se vio el miércoles pasado nunca fue tan obsceno.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claramente tenemos un gobierno que intenta desfinanciar la educación, que cree que mantener a la gente ignorante es beneficioso.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto demuestra que no son violentos, ni terroristas, como se quiere instalar.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos que Servini de Cubría se ponga con los expedientes y que no se deje presionar por el fiscal.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mañana hay una convocatoria a las 16:30 en Plaza de Mayo.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que decidió Patricia Bullrich antes de irse a sacar fotos al penal de máxima seguridad de Bukele en El Salvador.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mañana, si se cumple lo que desea Patricia Bullrich, hay gente que lo va a pensar dos veces.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3054
+}

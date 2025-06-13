@@ -1,0 +1,56 @@
+{
+  "texto_id": "El poder o el poder de la verdad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.144,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El nivel de exitismo del gobierno es directamente proporcional al tamaño de las dificultades que enfrenta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es raro, porque el gobierno festeja que logró la misma inflación altísima que dejó Sergio Massa cuando se fue del Ministerio de Economía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En términos del salario, según el índice de salarios del INDEC, en el período de noviembre del 2023 a marzo del 2024, la caída es del 12% entre los trabajadores formales del sector privado y del 21% entre los trabajadores formales del sector público.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En síntesis, el programa económico, si es que hay algo que se parezca a eso, hace agua por todos lados y es insostenible.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei quiere verse reflejado en ese espejo y probablemente su objetivo sea el mismo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque en primer lugar, el mundo es muy diferente.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, Milei cuenta con muchos colaboracionistas con ganas de ir en auxilio del vencedor entre la dirigencia política tradicional y la dirigencia sindical también, pero lejos de ese volumen que conquistó Menem.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero cuando se preguntan por las medidas concretas, mayorías nítidas se oponen a las propuestas de Milei, tanto en términos de privatizaciones, de jubilaciones (el recorte que están haciendo las jubilaciones), o inclusive de aumento desmedido de tarifas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, al contrario del bilardismo al que dice adherir Milei, que indicaría que los goles se festejan cuando el árbitro ordena sacar del medio, lo que está festejando son goles que no son.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3090
+}

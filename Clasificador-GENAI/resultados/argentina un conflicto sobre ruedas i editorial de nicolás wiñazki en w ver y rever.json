@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.718,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto está pasando en la Argentina, en medio de un conflicto gremial que está fogoneado o liderado por un sindicato de izquierda, un sindicato tradicional de la CGT, como es el de Camioneros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es así, pero nunca había pasado que, en una negociación abierta por una paritaria de los sueldos, un sindicato tome el Ministerio de Trabajo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y los conflictos empezaron de vuelta a estallar por todos lados, casi al mismo tiempo, aunque siempre estuvieron estallando varios de ellos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué es eso? Que quieren más planes sociales.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y entonces, hace menos de una semana, Camioneros, el sindicato de Hugo Moyano, de vuelta produjo hechos violentos en una empresa, pero subió un paso más, en Logística MIO, una empresa grande que está acá en Argentina desde 1902, casi igual que la empresa Goodyear, 1902.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entraron 70 personas a la empresa, barrabravas del sindicato, delegación Capital Federal, que es la que maneja Pablo Moyano, a pegar, le pegaron al dueño y a empleados, a uno le fracturaron la mandíbula, pero no para afiliar a los empleados a Camioneros, son camioneros, o sea, camioneros le pegaron a camioneros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero saben que los empleados de la fábrica le perdieron el miedo a las barras, se quejaron de que este delegado hace siete años no iba a trabajar y cobraba.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se iba a resolver a las piñas, todo se está resolviendo a las piñas en la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A esto se suman, como decíamos, los conflictos que en la Argentina parecen empezar a resolverse una vez que llegan a un extremo violento.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El centro de estudiantes que los maneja, la Cámpora.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, ¿quiénes son estas personas que están generando estos hechos que pueden terminar mal? Está con nosotros Patricia Bullrich, ex ministra de seguridad, que de algún modo habló en su momento de todo esto, de Moyano, de los sindicatos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3004
+}

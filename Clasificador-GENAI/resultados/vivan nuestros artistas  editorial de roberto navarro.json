@@ -1,0 +1,36 @@
+{
+  "texto_id": "artistas_comprometidos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Son todos enormes artistas que triunfaron aquí y en el mundo, que son famosos aquí y en el mundo, que son queridos aquí y en el mundo y que han ganado mucho dinero aquí y en el mundo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anoche los estaban escrachando otra vez; son fotos en la tele y los tratan de ladrones, de planeros, que se quedaron con la plata. Son kirchneristas por plata y después pagan precios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando ellos defienden el cine nacional también están defendiendo al espectador, al público, a quien los disfruta, a quien vive de ellos, a quien saca la savia de su talento.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay algo que caracteriza a Milei es la incerteza, la incertidumbre, no sabemos qué es capaz de hacer Milei, acaba de poner un tipo de los servicios en la AFI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ellos quieren que no reclamemos, ellos quieren que nos callemos, ellos quieren un país donde los ricos no paguen impuestos o paguen mínimamente y el resto se caiga de hambre y no tenga ni comida ni arte, que no tenga nada.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1627
+}

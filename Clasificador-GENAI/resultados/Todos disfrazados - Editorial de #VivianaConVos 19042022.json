@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.562,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "A Cristina le importa tres carajos Alberto Fernández. Ella solo quiere su impunidad. A ella le importa su ombligo, sus intereses.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente creó un nuevo impuesto para los que generaron una renta inesperada. ¿Cómo les gustan esas frasecitas pedorras? Renta inesperada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Harta de los sindicalistas millonarios. Ellos sí que tienen rentas inesperadas. Viven de lujo tomando la teta del Estado, extorsionando empresarios. Son una vergüenza, una manga de patoteros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De qué manera podemos pedirle a los que han tenido una ganancia extraordinaria, empresas, grandes empresas, que contribuyan a generar más equidad y más igualdad en el desarrollo argentino.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los salarios no logran alcanzar la inflación. ¿Qué? ¿Sabés por qué Fernández no logran eso que decís? Porque hacen todo para el orto.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es una tragedia y estos tipos se ríen. Pablo, no hay nada que festejar en esta Argentina de hoy.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un país hecho mierda, 52% de pobres, pero la ganancia extraordinaria de la Rosadita, la inflación más alta de los últimos 20 años, devuelvan lo que se afanaron, chorros. ¡Chorros!",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La democracia es no tolerar a la negra, a los xenófobos. Digámosle que somos trolos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8449
+}

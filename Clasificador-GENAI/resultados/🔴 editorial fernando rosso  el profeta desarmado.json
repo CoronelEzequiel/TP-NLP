@@ -1,0 +1,41 @@
+{
+  "texto_id": "El Círculo Rojo con Fernando Rosso",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno no tiene problemas de gestión o de administración. Tiene un profundo problema de debilidad política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El sector cayó 37,2% en abril de este año en comparación con el mismo mes del año pasado, de 2023.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, justamente, Milei agita el veto a esa ley, ya lo dijo en, al menos, cuatro lugares, y la amenaza del veto, contrario a lo que él piensa o considera, es una señal de debilidad y no de fortaleza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no es déficit de gestión, porque siempre se equivocan para el mismo lado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Fondo Monetario Internacional volvió a marcarle la cancha y puso el acento en, textual, aumentar la asistencia social para apoyar a los pobres, asegurando que la carga del ajuste no recaiga desproporcionadamente sobre las familias trabajadoras, etc.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero todo el cuadro que estamos presenciando muestra que es un experimento político y de ajuste totalmente derrotable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2421
+}

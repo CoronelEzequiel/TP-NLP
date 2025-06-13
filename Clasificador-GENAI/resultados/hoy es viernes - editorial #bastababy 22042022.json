@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Todos a la plaza, no solo por el tractorazo, sino porque Cristina Kirchner maneja la Corte y la Justicia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner, para mí, fue una presidenta mediocre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que hubiera sido más digno que una señora tan mayor se retirara a su departamento en Recoleta, como hicieron Fontanarrosa, Menem,  etc.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana, a las tres de la tarde, estaré en la plaza con Agustín Rodríguez y mis amigos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estaré ahí, poniendo el pecho como siempre, sosteniendo la bandera celeste y blanca, la bandera del campo, y gritando \"¡Viva la patria!\" y que no queremos más 125",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Evidentemente, ni Cristina, ni Alberto, ni Kicillof saben lo que es agacharse a recoger un choclo, levantarse a las cuatro de la mañana para trabajar la tierra, o lo que son la sequía, la langosta, el piojo, o las inundaciones.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1989
+}

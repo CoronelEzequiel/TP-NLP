@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_santoro",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.275,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y bueno, hay que entender que eso también está en un contexto, porque finalmente la crueldad y el abandono, que son las dos características que nosotros identificamos en esta ciudad –abandono muy marcado por parte del gobierno de la ciudad y una crueldad que tiene mucho que ver con el clima de época que inicia Milei pero que continúa Macri– es el contexto que explica el deterioro de la Ciudad de Buenos Aires y la crisis también de la derecha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si uno mira los números, esta atomización le puede provocar una derrota histórica al PRO.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero acá hay dos cosas. Primero, el apoyo político. Y segundo, que me parece que hay algo que es un poco más sutil pero más profundo, que es que históricamente los acuerdos con el FMI, ambas partes, el Estado y el FMI, dejaban claro que eran con el Estado, que eran institucionales, independientemente de quién fuese el presidente de la República.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo voy a ir con una agenda local y voy a responder sobre temas locales. Punto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3815
+}

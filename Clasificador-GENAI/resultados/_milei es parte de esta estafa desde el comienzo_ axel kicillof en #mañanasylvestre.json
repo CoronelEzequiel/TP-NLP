@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Para que no se pare la cosa, que estamos todos prendidos a los que tenemos responsabilidades y a cuidar a la gente, en vez de estar articulando estafas como hace el presidente, nos dedicamos a estas cosas, ¿no?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ante una estafa electoral sin precedentes, este tipo es un estafador, porque dijo que la motosierra era para la casa y le sacó la plata del bolsillo a los que trabajaron toda la vida, a los que se dedican a enseñar, a los médicos, hasta a los enfermos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei fue el promotor. Él, en la entrevista transmitida por TN (porque otro medio no mostró casi nada), leyó lo que yo había escrito y dice: 'No, no, yo no promocioné. Yo… difundí'.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo lo que estamos escuchando es malo, y en un año electoral, mostró ni un átomo de sensibilidad por el cierre de una empresa nacional, siempre en esta que vemos ahora, a flor de piel, a plena luz del día.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2937
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.237,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La inflación discursiva sobre la capacidad política de Milei y la realidad en la que asumirá el gobierno recorre dos vías.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei advierte sobre una hiperinflación inminente y un 90% de pobreza si no se aplican sus medidas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El plan de Milei, si se aplica, provocará un salto en la pobreza y el hambre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ante un experimento de reseteo regresivo, más audaz incluso que el plan económico de Martínez de Hoz o el inicial de la dictadura, pero desde una posición de debilidad política.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1578
+}

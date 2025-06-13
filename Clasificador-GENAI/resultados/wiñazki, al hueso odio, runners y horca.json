@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.487,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La Sociedad Rural y CRA argumentan que hay sectores politizados que están atacando sus campos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández optó por una postura más conciliadora.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Oscar Parrilli, senador, en declaraciones que recordaron el estilo de Cristina Fernández,  afirmó que la gente que marchó sentía odio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "José Mayans, jefe del bloque de senadores del Frente de Todos, opinó que la marcha buscaba atacar y desdibujar la figura del presidente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También se expresaron referentes vinculados a Cristina Kirchner, como Mempo Giardinelli, escritor chaqueño y articulista de Página/12, quien en declaraciones a Tector calificó la marcha como un claro acto de golpismo antidemocrático de la oligarquía terrateniente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "González Fraga, expresidente del Banco Nación, explicó coherentemente la situación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No defenderé a Macri, pero sí defenderé el derecho a la crítica sin recurrir a la violencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se puede marchar en democracia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2100
+}

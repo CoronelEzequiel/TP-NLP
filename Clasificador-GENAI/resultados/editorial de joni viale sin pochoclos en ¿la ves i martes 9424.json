@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.706,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Milei dice que Pepe Albistur llamó a un golpe contra Milei porque sabía que se venía una investigación muy seria contra su pareja, Victoria Tolosa Paz.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pregunta que tengo es: ¿por qué la clase media sigue bancando a Milei?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ataque a la clase media no es sincero a la economía.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente ya registró que ni Grabois, ni Moreno, ni Cristina, ni Massa, ni Kicillof va a solucionar esto.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy la mitad de los argentinos creen que de acá a seis meses estamos mejor.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peronismo fracasa una y otra vez porque reivindican al cartonero en lugar de la movilidad social y al ascendente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo se sabe sin pochoclos, es muy importante entender esto, cada día que pasa se quedan con menos nafta para este helicóptero terrible que tienen, cada día que pasa tienen menos fuego para incendiar el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo, no sé si me vas a elegir. A ver, no sé, ¿qué elegís vos? Pasar de Putin a Zelensky en ese es a ¿y vos qué elegís? Yo me voy para allá, yo con este asesino no quiero saber nada, pasar de Irán a Elon Musk no está nada mal, ¿no?",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 6324
+}

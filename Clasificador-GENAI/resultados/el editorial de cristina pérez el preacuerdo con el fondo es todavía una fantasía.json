@@ -1,0 +1,36 @@
+{
+  "texto_id": "No miren arriba",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.87,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Peor aún, a pesar del peligro de este cometa que puede estrellarse contra la Tierra, eligen usar el tema políticamente y para hacer negocios.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es interesante cómo para venderle el sapo con ropa de príncipe al kirchnerismo duro, el ministro de Economía, Martín Guzmán, prácticamente dijo que no habrá ajuste, una falacia sobre otra, porque ¿quién puede creer que Argentina puede salir de la postración económica que sufrimos sin hacer absolutamente nada, con un nivel de inflación insoportable, de gasto insostenible y un sistema productivo encadenado por cepos, ideología y mafias?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La inflación ha sido una política deliberada de su gobierno y también del gobierno de su delegado y es el peor impuesto para los más vulnerables, además de multiplicar pobres.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina no tiene salida, por eso lo que ella necesita es sacar a Argentina de la República, como alguien me dijo una vez, \"cuando mueren las repúblicas, cuando van por su Corte Suprema\", como pasó en Venezuela.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La diplomacia kirchnerista no ha ocultado ese posicionamiento: sus amigos y aliados son los peores regímenes de esta tierra, que ejecutan siniestras violaciones de los derechos humanos y, como la complicidad con Irán demuestra, no importan ni siquiera los muertos de la AMIA.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2834
+}

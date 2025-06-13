@@ -1,0 +1,131 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.842,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández es un presidente formal que a esta altura no maneja casi ninguno de los resortes del poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su intento de tener aunque sea una iniciativa, inventó un homenaje a los casi 100.000 fallecidos por la pandemia y terminó consagrándose como el presidente de la hipocresía y el cinismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hipocresía tiene como sinónimos falsedad y simulación, y cinismo es descaro, desfachatez y el antónimo de ambos conceptos es sinceridad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y eso fue lo que exhibió con obscenidad esta puesta en escena de Tristán Bauer, el ministro de Propaganda y Venganza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El acto ni siquiera fue original porque se trató casi de un plagio de un acto que realizó Alemania y fue encabezado por Angela Merkel.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La sobreactuación fue tan chocante que se convirtió en una falta de respeto a los casi 100.000 fallecidos, a los que toda la sociedad debe rendir un homenaje sincero, no como el de ayer, y a los que el gobierno debe pedirles perdón por su responsabilidad en la multiplicación de las personas que dejaron de existir.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto fue enfocado en primer plano mientras derramaba algunas lágrimas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una gran parte de los argentinos seguramente habrá pensado en el egoísmo de los traficantes de vacunas como Carlos Zannini y Horacio Verbitsky, porque para muestra basta un botón o dos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero eso no es egoísmo, eso es justicia, porque como Zannini le dijo a Verbitsky, ellos son personalidades especiales que la sociedad tiene que cuidar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Más superioridad moral y elitismo burocrático y estalinista no se puede pedir.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Fue tan grande el bochorno televisado con formato cinematográfico que no quisieron participar ni la vicepresidenta Cristina Fernández de Kirchner, ni su hijo Máximo, ni el presidente de la Cámara de Diputados, Sergio Massa, que se burlan de la incapacidad del presidente y son los que realmente mandan en la Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "También hay que decir que Cristina huye de las tragedias porque no quiere contaminarse con las responsabilidades.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todas vidas truncadas en parte por la corrupción o la mala praxis criminal de gobiernos kirchneristas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quedará en la historia como de lo más nefasto de la política aquella afirmación de Alberto de que prefería tener un 10% más de pobres y no 100.000 muertos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Montaron un show deleznable con los muertos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El diputado Luis Petri vio un homenaje a su propia torpeza, indolencia e improvisación.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "María Luján Rey repudió la perversidad extrema, donde nunca incluye la palabra perdón.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Santiago Cobelli aseguró que no tuvieron el coraje de la verdad y Fernando Iglesias fue demoledor.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "\"Los que tenían dos dosis son muertos de la pandemia, el resto son muertos de tu gobierno\", escribió.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El jefe del principal bloque opositor, Mario Negri, interpretó que quisieron evitar el efecto del golpe de los 100.000 muertos que van a sonar como un estruendo e inmediatamente le hackearon su cuenta de Twitter.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo, por el contrario, que sólo puso en evidencia que las negociaciones opacas y sospechosas con la compra de vacunas, las brutalidades que declaró y las pésimas decisiones que tomó, las va a tener que explicar algún día ante los tribunales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tal vez le tocará estar sentado en el banquillo de los acusados junto a Ginés González García, uno de los principales autores intelectuales y materiales de estos crímenes de lesa humanidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Faltaron los familiares, la vergüenza, el sentido común y la sensibilidad social.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sobraron la hipocresía y el cinismo de un presidente que se hunde en las arenas movedizas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3244
+}

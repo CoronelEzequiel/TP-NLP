@@ -1,0 +1,116 @@
+{
+  "texto_id": "544_millones_de_dolares",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esto le va a costar al país el paro de hoy, según el Instituto de Economía de la UADE.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Por qué? Porque diez gordos millonarios no te dejaron trabajar a vos y a mucha gente.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Poneme a Andrés Rodríguez, líder de UPSRA, líder de los estatales, desde hace 34 años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso digo, este señor no tuvo ningún problema en viajar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero sigamos. Poneme ahora a Hugo Moyano, jefe de los camioneros, desde hace 37 años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, ellos pueden viajar. Quedate tranquilo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El transporte es un servicio público esencial.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos son, estos son... Te dicen que, si querés trabajar, tomate un taxi, porque estos están de paro, están de vacaciones, no jodas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto funciona así hace 50 años: sindicalistas ricos, trabajadores pobres.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El país se levanta trabajando.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los burócratas sindicales que hoy pararon son parte de esta oligarquía argentina nefasta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy, la doctora Silvina Martínez dio a conocer las nuevas pensiones vitalicias de Cristina Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina sigue siendo un país muy injusto para el jubilado que se rompió el alma y aportó durante toda su vida.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Eso es lo que Milei tiene que cambiar, eso es lo que Milei tiene que cambiar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se tiene que terminar el país donde un grupo de rufianes, porque hoy eran rufianes, se apoderaron de todo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso Milei puso \"faraón\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El trabajo es sagrado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me pienso rendir ante estos extorsionadores patoteros sin pólvora.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La gente se da cuenta de que no son sindicalistas, son militantes políticos con un chaleco que dice \"ese jefe\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Veredicto: vergonzoso, caraduras, payasos, payasos totales, insolentes que se burlan de la gente de bien que quiere trabajar.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero sepan que cada vez les queda menos pólvora. No los va a frenar Milei. No los va a frenar Adorni. Los va a frenar la gente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 5471
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Una sociedad muy importante, ¿eh? Muy importante. Cálmense, porque no es el momento.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mauricio Macri le ordenó a sus diputados que voten junto al kirchnerismo y en contra del gobierno para extorsionar y pedir más poder.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los diputados del PRO, aclaro yo, que votaron junto al kirchnerismo. Su rechazo. Eligieron ponerse del lado de las mafias.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por lo menos para mí es un grave error creer que el kirchnerismo murió, aun con esa obscenidad de la \"pornopolítica\" de Alberto Fernández.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El régimen político que destinó miles de millones de dólares a operar, a manchar, a ensuciar, a perseguir, a \"carpetear\", espiar opositores, empresarios, periodistas, ahora se presenta ante la gente como los garantes de lo republicano y me encanta, ¿no?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tenemos que entender que estamos ante gente muy perversa.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo que no hay lugar para peleas de poder ni para internas de jardín de infantes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por favor, recordemos que había infectólogos que nos enseñaban a vivir.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina decía: \"La derecha está enferma de odio. Nosotros somos el amor, esos son el odio. Tenemos que amar, el odio hace mal\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Enfrente hay un régimen político que se robó mil millones de dólares de la obra pública.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Enfrente hay un régimen político cuyo expresidente, Fernández, llegó a decir que Luciani no se suicide como Nisman.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Del otro lado hay un grupo de profesionales del mal, de la corrupción y de la mentira.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4163
+}

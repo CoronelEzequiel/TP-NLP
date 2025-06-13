@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.489,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Durante mucho tiempo, aquí hemos hablado (y se habla en la prensa en general) y ahora vamos a hablar, vamos a dialogar con **Miguel Ángel Pichetto**, que le presta mucha atención a este tema desde hace mucho tiempo, de nuevas formas de violencia que aparecieron en el sur del país, similares a las que aparecieron en el sur de Chile, ligadas a sectores que reivindican de manera severa, violenta y conflictiva la causa de los mapuches.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo en una manifestación en el Senado un ataque muy violento a las oficinas de **Cristina Fernández de Kirchner**, al que ella, por supuesto, le presta mucha atención, sobre todo retroactivamente, después del atentado que padeció, como todos sabemos, hace pocos días.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tribus urbanas con consignas de ultraderecha, filonazis, atacan la Casa de Gobierno con antorchas, expresan consignas y mensajes conflictivos, ya no con la política, ya no con la clase política, con el Estado, sino con la democracia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si era un loco suelto, ella puede decir: \"Me quisieron matar\". Si es una banda manejada por alguien desde algún inframundo, desde alguna zona oscura del poder, ya no es \"me quisieron matar\", es \"me quieren matar\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es raro verlos hablar de diálogo, ahora, claro, es raro verlos en esta escena, de semejante vulnerabilidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la intimidad, Macri le ha hablado a gente que está en contacto con el gobierno y que son amigos de él dentro del PRO de lo que para él podría ser el comienzo de una conversación. Y es: \"Tráiganme cinco puntos si vemos\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a decir algo impensable: Cristina y Macri. ¿Habrá algo de lo que puedan hablar frente a este fenómeno, que es el fenómeno de un reto que se llama la pobreza?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este Massa viene de acordar con el Fondo y logra acordar con el Fondo, logra cosas que no lograba Guzmán.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un solo lugar, es una isla frente a Senegal que fue un lugar histórico de tráfico de esclavos que fue declarado por la UNESCO, patrimonio de la humanidad, siendo un lugar ligado a la memoria, a la reivindicación de los derechos humanos. Este sería el segundo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9211
+}

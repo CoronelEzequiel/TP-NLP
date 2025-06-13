@@ -1,0 +1,31 @@
+{
+  "texto_id": "discurso_AF",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Habló, por ejemplo, del crecimiento de la economía sin mostrar o acentuar quiénes son los beneficiarios de ese crecimiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La fascinación que le genera a Alberto Fernández esa parte del país que aparenta ser más dinámico, lo conduce a algunos *lapsus* que son un poco bochornosos, como el que manifestó el lunes pasado en Chaco cuando dijo que el gran drama de los y las docentes es el impuesto a las ganancias",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese contexto, como el FMI, el Fondo Monetario Internacional, impone un plan que hace que nadie se pueda diferenciar mucho en el terreno económico, o mejor dicho, hay como una especie de polarización asimétrica: la derecha dice que va a ser más rápido lo que el gobierno hace gradualmente, pero el sentido y la dirección es la misma",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández apostó a polarizar con el poder judicial y, por su intermedio, con la oposición, y de esa manera tratar de \"abroquelar\" a todas las fracciones del peronismo, lo que no puede polarizar justamente en la economía: polarizar en el terreno político lo que no puede hacer en la economía.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2789
+}

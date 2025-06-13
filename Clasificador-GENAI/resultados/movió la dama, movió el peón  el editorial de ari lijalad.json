@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.236,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es evidente que Macri se retiró de la carrera presidencial porque no ganaría.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri representa a un poder establecido: las grandes empresas y los intereses norteamericanos en Argentina, que buscan evitar riesgos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juntos por el Cambio tiene la ventaja de ir a una interna, o al menos todo indica que así será, con un proyecto económico común.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No hay diferencia entre los planes económicos de Patricia Bullrich y Horacio Rodríguez Larreta.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su propuesta, tanto para Bullrich como para Larreta, implica una devaluación para reducir la brecha inflacionaria.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Frente de Todos, por el contrario, carece de esta unidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por último, existe el proyecto económico de Cristina Fernández de Kirchner, de corte capitalista con redistribución de la riqueza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1768
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.06,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Están reclamando, como bien vos decías, la falta de alimentos en los comedores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Denuncian desabastecimiento, persecución a los comedores y señalan que la entrega de alimentos está demorada a pesar de que ya fueron auditados y reconocidos por el propio ministerio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, nosotros veníamos preparando los alimentos tres veces por semana, antes de que asumiera este gobierno. Desde que asumió, no recibimos ni un grano de arroz.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay más de 5 millones de toneladas de alimentos que se están pudriendo en los galpones del Ministerio de Desarrollo Social en Retiro. 5 millones de toneladas. Esto es criminal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Realmente los gobiernos liberales, de derecha, tienen una maldad, una crueldad enorme.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2512
+}

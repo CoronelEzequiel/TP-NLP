@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Resulta grave que el presidente de Argentina se asocie, con un contrato firmado, con un estafador.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei afirmó que quien crea un monopolio es un benefactor social.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina se abstuvo de condenar a Putin en la ONU para quedar bien con Trump.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay casi el doble de pobres en la ciudad de Buenos Aires que lo que dice el INDEC. Pero hay cinco veces más indigentes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2478
+}

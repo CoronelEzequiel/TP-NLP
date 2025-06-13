@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este es el argumento de la película del momento, *No mires arriba*, protagonizada por Leonardo DiCaprio, pero tranquilamente podría ser la política del gobierno argentino hasta el entendimiento agónico con el Fondo Monetario Internacional, cuando el país marchaba en rumbo de colisión directa con el dólar por las nubes y los muchachos cristinistas coreando \"default, default, ¡qué grande sos!\" desde las tribunas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es interesante cómo, para venderle el \"sapo con ropa de príncipe\" al kirchnerismo duro, el ministro de Economía, Martín Guzmán, prácticamente dijo que no habría ajuste, una falacia sobre otra, porque ¿quién puede creer que Argentina puede salir de la postración económica que sufrimos sin hacer absolutamente nada, con un nivel de inflación insoportable, gasto insostenible y un sistema productivo encadenado por cepos, ideología y mafias?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nuestro país ya venía sufriendo por anticipado las consecuencias de un *default*, las venía sufriendo, no sólo porque así lo marcaban los indicadores de riesgo país.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La demora no fue gratuita, obviamente, la pagamos todos. Significó millones de dólares, crédito cero para el país y sus empresas, que son las que tienen que generar trabajo; escasez de dólares, devaluación, inflación, obviamente, pobreza, un limbo decadente, pero que le permitía a la señora Kirchner continuar con su prosa populista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina entiende que extender la negociación con el FMI a ella le conviene, aunque eso también alargue la agonía del país, porque beneficia sus posibilidades políticas para 2023.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces acá aparece la otra pregunta incómoda: si Cristina se opone, como hizo siempre, ¿qué hace el presidente?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dicen que el gobierno no tiene plan, pero Cristina sí tiene planes, siempre tiene planes, con su horizonte judicial aún muy complicado dentro de la república y sus leyes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3024
+}

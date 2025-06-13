@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En un país con niveles altísimos de corrupción, desde hace muchísimo tiempo, en un país donde ha avanzado inquietantemente el tráfico de drogas, sobre todo el que daña a los más pobres, en un país donde hay una cantidad de huecos en el sistema judicial por falta de personal designado...",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner y toda una corriente de pensamiento y toda una corriente política junto con ella, entienden que en la vida pública de un país, y en el fondo esto es, está en la raíz del populismo, no hay nada inapelable salvo el voto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia, igual que otras instituciones, los mercados, la prensa, se deben inclinar frente al que tiene el poder político porque tiene la representación popular.",
+      "score": 0.8,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá hay una decisión política de ir al conflicto con la Corte, no es la consecuencia no querida, es el objetivo no accidental.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos viendo algo muy interesante y es una especie de dictadura de una minoría.  una minoría importante, muy homogénea, muy combativa, muy militante, la que lidera Cristina Kirchner, que tiene capacidad de bloqueo para que no suceda nada de lo que a ella no le interesa que suceda.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7904
+}

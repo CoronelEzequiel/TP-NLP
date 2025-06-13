@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El kirchnerismo fueron chorros improvisados, misóginos improvisados, golpeadores improvisados, estafadores improvisados, mentirosos improvisados, defensores de derechos humanos improvisados.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí, cuando algo no es 'de libro', es improvisado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los argentinos, si algo tenemos que no es 'de libro', es la ventaja de no ser más pelotudos y darnos cuenta de todo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras estos caraduras 'de libro' se mandaban a la 'conga catonga', y con la mentira 'de libro' de la nena, que ella no sabía que iba a festejar 'de libro', y que vive con unos 'pesitos'...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy podemos decir más tranquilos después de cuatro días de análisis: ¡Mirá que no hay 'pobre Fabiola'!",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando llegó Néstor, improvisó a los derechos humanos, que los terminan volteando porque si se hubieran subido al tren de la ultraderecha (que podían haber sido fascistas, bien fascistas como el turro este de Maduro), nadie los sacaba del gobierno.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos robaron, nos cagaron, nos humillaron... ¡Esos son derechos humanos, carajo!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente no perdamos más tiempo yendo a España, viviendo en España, preguntando a Alberto, preguntando a Cristina. Digamos directamente: son una porquería 'de libro'.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3745
+}

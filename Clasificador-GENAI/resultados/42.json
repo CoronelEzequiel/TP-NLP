@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay un tema que todos seguimos con mucha atención: la situación de los jubilados y la imposibilidad de muchos de ellos de continuar trabajando debido a la eliminación de la moratoria previsional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que Milei está haciendo lo mismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice que la ANSES no sirve para nada, que la mínima jubilación es irrisoria, que no alcanza ni para la compra de supermercado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí aparecen los amigos de Caputo, Zorraquín, Milei y todo el menemismo, que nos dejarán sin trabajo y sin jubilaciones a generaciones de argentinos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación es desesperante.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivimos con miedo a los despidos, a que nos quiten nuestros puestos, incluso a que nos saquen coordinaciones o supervisiones adquiridas a lo largo de una carrera administrativa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los libertarios vienen a quitarnos el lugar, y eso es terrible.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante el gobierno de Fernanda Raverta en ANSES, logramos importantes mejoras salariales y conquistas, y hoy nos encontramos perjudicados por la aceptación de UPCN.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Seguiremos luchando para que el gobierno de Milei se doblegue o, en su defecto, para que en un par de años tengamos un gobierno nacional y popular.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1913
+}

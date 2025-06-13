@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno rompe todo y lo sabe, y lo hace a propósito.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes saben que en el siglo XXI tener celular e internet es un derecho humano básico, y uno queda fuera de la sociedad si no puede acceder a ellos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice que el Estado tiene que garantizar, tiene que maximizar la renta de las empresas (así lo dice, 'maximizar la renta', artículo 147).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que estén adentro, que se jodan.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2658
+}

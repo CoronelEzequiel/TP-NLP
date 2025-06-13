@@ -1,0 +1,326 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.115,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Como patriotas, queremos palabras en porteño, en argentino, en criollo, o como mucho, en español.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso usas en tu campaña la inclusión de diferentes idiomas de los pueblos originarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como siempre. La última vez que viniste, me quedé con tu frase sobre haber llorado cuando nombraron a Alberto Fernández presidente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sabía muy bien lo que iba a hacer, lo que te dije aquí y en cualquier lugar donde he estado desde el 26 de mayo del año pasado, cuando hicimos la primera actividad con Juan Grabois, del plan de desarrollo con Integral, del nuevo plan quinquenal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no es un hijo de esa generación diezmada o un hijo político del 2001; si no es un hombre formado en las ideas de Cristina; si no es un compañero que va a desarrollar un programa de transformación social profunda; y si es una figura política como Sergio Massa, que para nosotros no representa la fidelidad a nuestra historia –el movimiento nacional y popular en Argentina tiene 200 años–; si es una persona que no creemos representativa y fiel a esa historia, vamos a ir nosotros y vamos a ir por dentro.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además de la historia de nuestros padres, tenemos nuestra propia historia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por qué sabemos que Unión por la Patria es una delimitación frente a proyectos inhumanos, ni siquiera de derecha, inhumanos, donde el ser humano es prescindible, donde la represión puede afectar a cualquiera.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bullrich puede poner a un dirigente sindical, a mí, a Máximo Kirchner en un spot diciendo que nos van a sacar a la calle.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso, desde el punto de vista represivo, persecutorio y antidemocrático; y desde el punto de vista socioeconómico, el descarte humano a través de un ajuste brutal, como lo caracterizó Elisa Carrió, cuando dijo que esta gente que apoyó antes cambió su planteo original, que era más desarrollista, y ahora plantea un ajuste brutal y una represión donde no les importa que haya muerto gente. Eso es así.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no me cabe la menor duda. También creo que hay un tacticismo o conformismo de un sector de compañeros a los que valoro y respeto, pero que últimamente parecen priorizar su propia subsistencia a jugársela un poco más.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que no se apoyó a Juan Grabois como candidato, con el argumento de que era un mal candidato.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque también hay una estrategia para invisibilizar que existe una PASO.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, hermano. Estoy en la lista de Unión por la Patria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque es un mensaje extraño. Por un lado bajan a Grabois, y por otro lo apoyan.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay compañeros que no quieren perder su \"patente de corso\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Conceptualmente, con una épica de liberación nacional, terminamos con un candidato de centro neoliberal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina dice algo muy claro: al pueblo hay que decirle siempre la verdad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una desvalorización de la militancia. El militante, el que está en el territorio, en los barrios, en la realidad… necesariamente es un boludo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y somos unos \"biobárbaros\" porque vivimos en un country, porque vamos a comer a Puerto Madero con los grandes empresarios. Eso no es política popular. Ni la política de Cristina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina no juega sola. Primero, le metieron un arma en la cabeza. Segundo, está proscripta. Tercero, existen los gobernadores. Cuarto, existen los intendentes. Quinto, los que debieron apoyar a Grabois no lo hicieron.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema del sistema no es quién puede ganar y quién no. Es quién puede gobernar según sus reglas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que el sistema sea poderoso no quiere decir que no haya que enfrentarlo. Nunca nada cambió pensando que podría ser peor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros seremos un condicionante, pero de sentido inverso. Como el poder fáctico condiciona la política, nosotros queremos ser un condicionante para la política también.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el grupo de Massa juega sucio, nosotros jugaremos limpio. Y si juega limpio, jugaremos limpio. Nosotros jugamos limpio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si gana Massa, ¿vas a acompañarlo? Si uno juega por dentro, tiene la obligación de acompañar al que gana, sea quien sea. Es una obligación. Si no, es una estafa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para que mis votantes vayan a votar en octubre, Massa tendrá que adoptar parte del programa de Tierra, Techo y Trabajo, Salud, Educación que planteamos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el acto del gasoducto, faltaba algo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En los barrios populares, donde viven los del Escamismo del Presente, el 98.5% no tienen gas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero que me explique qué vamos a hacer para que la gente tenga gas y no lo pague a un precio ridículo. Esto no pasa solo con el gas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los recursos son para el pueblo argentino primero.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso lo impulsó Frondizi con dos objetivos: desarrollar las industrias electrointensivas en la Patagonia y que sea un elemento de irrigación. Lo único que se logró fue la generación eléctrica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este año, no el año que viene. Terminamos la charla con la gente del municipio, etc., para armar un escrache para renacionalizarlas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esas son las cosas ridículas que hay que cambiar en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Segundo, está el tema de las divisas. Pero no puede ser la obsesión principal frente a la exclusión del pueblo de los servicios básicos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo con Cristina tengo una relación de respeto, de amor, de cariño, de diferencias. Que va más allá de una elección.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente la quiere y porque hizo cosas por la gente. La gente que no tenía un mango en el 2001, algo tenía a partir de la AUH y la ampliación jubilatoria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, los armadores tácticos… No sé cuál es el nivel de participación de Cristina. Hablaste con ella. No sé. No voy a hacer una interpretación. Hay muchos \"cristinólogos\" que… Tenés miedo de decepcionarte, siento. Tenés miedo de que digan que ella hizo esto. No lo creo. Es una cuestión de fe.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos deberían dejar de bloquear la posibilidad de que se exprese la PASO dentro de Unión por la Patria. Es muy dañino desde el punto de vista conceptual, ideológico y doctrinario del campo nacional y popular.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bloquear la PASO, subestimarla, desvalorizarla, ridiculizarla, tal vez con el único objetivo de mantener la patente de corso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí no me interesa tener ninguna patente de corso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo lo que conseguimos lo conseguimos peleando desde abajo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero es preferible que gane Massa a que gane la derecha. Por eso estoy en Unión por la Patria.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después el que gana gana y el que pierde acompaña. ¿Hasta dónde acompaña? Hasta la victoria. Después la militancia continúa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y voy a hacer lo mismo que hizo cualquier militante popular del Frente de Todos, una vez iniciado el gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras más votos saquemos, más capacidad tenemos y más equidad para decir… no todos los argentinos queremos ser un patio trasero de los Estados Unidos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No todos queremos que determinados grupos económicos se queden con el litio, con la energía eólica, etc.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a tener capacidad de condicionar ese sistema político-empresario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo que tenemos enfrente es infinitamente peor.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta la victoria acompañaremos con toda la fuerza y la inteligencia, porque un acuerdo de cúpula no derrama en todo el pueblo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no estoy para contener a nadie. No soy la ambulancia. Nosotros estamos sembrando una alternativa de poder para el presente o el futuro.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una alternativa que tiene un proyecto de transformación de la estructura socioeconómica de Argentina. Que hoy es desigual, con niveles de exclusión tremendos, con un 40% de pobres.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué carajo es el peronismo? ¿Qué eran los descamisados? ¿Qué eran loscabecitas negras? ¿Eran los pobres de su tiempo? ¿Dónde están los pobres ahora? ¿Y dónde está el peronismo?",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los pobres están, yo los veo. El movimiento nacional y popular está en Unión por la Patria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero han cambiado las hegemonías, se ha corrido a la derecha como producto de una ofensiva tremenda contra Cristina, que no fue enfrentada con el coraje necesario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la tocan a Cristina, va a haber quilombo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando quieran mostrar otra imagen, fíjate dónde estaba yo cuando mi contrincante andaba con Macri. Yo estaba en Comodoro Rivadavia con Cristina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Somos fieles a una historia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a apoyar al candidato más competitivo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que Grabois y Axel Kicillof eran más competitivos. Pero tenemos PASO. Si gana Massa, lo vamos a apoyar.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No voy a salir a decir que acabo de descubrir en Sergio Massa un componente de la liberación nacional. Diré lo mismo que digo acá: tenemos en frente algo inhumano.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no seré funcional a una estrategia que le permita la victoria al macrismo ni a ninguno de estos deshumanizantes.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero tampoco voy a mentir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a la noticia y seguimos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8436
+}

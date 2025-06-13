@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En 14 años, el kirchnerismo instaló diversas enfermedades sociales; tal vez la más grave sea la utilización del odio como herramienta política, su mayor logro fue la grieta.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El caso más flagrante es el de Cristina Fernández de Kirchner, la jefa de la cleptocracia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Fue claro que, para el kirchnerismo, los únicos privilegiados son los delincuentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay suficientes pruebas para condenar a \"el Caballo\" K. Es uno de los dirigentes sindicales más corruptos de la historia argentina.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "\"El Caballo\" resume mucho de lo peor del sindicalismo argentino: corrupto, autoritario, oportunista, un caballo de Troya contra la honradez, un caballito de batalla de los ladrones.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Reapareció de lo más campante, siempre, siempre a caballo de la impunidad.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2162
+}

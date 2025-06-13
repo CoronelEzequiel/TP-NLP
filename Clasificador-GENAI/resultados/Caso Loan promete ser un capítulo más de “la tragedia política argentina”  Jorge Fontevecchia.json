@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_caso_loan",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La causa llegó a los tribunales de Comodoro Py y el fiscal Guillermo Marijuan presentó ayer una denuncia contra el gobernador de Corrientes, Gustavo Valdés, el senador correntino Diego Pellegrini, el desplazado ministro de seguridad provincial Buenaventura Duarte y su sucesor, Alfredo Vallejos, y al abogado José Fernández Codazzi, entre otros, por el delito de encubrimiento.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobernador correntino, que ante este caso decidió remover la cúpula de la policía de Corrientes, denunció que se está haciendo un uso político de la desaparición del menor y habló de los \"caranchos\" de la política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El intendente de 9 de Julio es de la alianza “Vamos por Corrientes”, que tiene a los radicales como primos interpares.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Creemos que tenemos que hablar de una posible causa de trata. Se han encontrado pistas que ahora se están evaluando en la justicia, concretamente una zapatilla y que seguimos investigando. Es altamente probable de que el niño no se encuentre en el lugar y seguramente seguiremos colaborando con la justicia, con todos los otros elementos que nos vaya indicando la fiscalía, que en este caso se encuentra al frente de la investigación, pero que hemos puesto toda la diligencia, todo el trabajo y toda la energía que es posible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Interesante cómo coloca en primera persona el recurso del Estado como si fueran de ella.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El senador peronista Camau Espínola, el viejo caudillo radical Ricardo Colombi, pueden ser aspirantes a la gobernación provincial en el contexto en el que el poder del gobernador Valdés quede totalmente dañado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La justicia determinará quiénes son los responsables y el grado de responsabilidad que tiene cada actor político policial en la causa, pero es importante que podamos reflexionar sobre lo que la desaparición de Loan hace aparecer como visible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6060
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei_papa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.383,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Día 64 del maligno al más lindo",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el encuentro del papa y el presidente Javier Milei se sintetiza una reunión de dos cosmovisiones totalmente antagónicas de ver el mundo. Por un lado, el cuidado por los pobres, el amor al diferente, al prójimo, la necesidad de ponerse en lugar del otro y las personas como lo más importante de la sociedad. Y por el otro, en el caso de Milei, la exaltación del individuo, la ganancia como lo más importante de la sociedad y, muchas veces, el odio al que piensa distinto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la concepción del papa frente a la crisis, la salida es la solidaridad. Y la concepción de Milei frente a la crisis, la salida es el individualismo, la competencia y el esfuerzo individual.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Volviendo a la visita de Javier Milei al papa, hoy tuvo lugar la audiencia trascendente, de la cual todavía no tenemos detalles, aunque es dable suponer que conversaron de diferentes temas y las palabras que vimos en la oración acerca de ayudar a los pobres y las palabras acerca del encuentro con el otro, tanto en el Ángelus de ayer como luego en la canonización de Mamá Antula, hayan sido tópicos que el papa trató con el presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esperemos que el presidente pueda escuchar algo de las palabras del papa y, en su regreso, ayude a mitigar los efectos de sus políticas económicas y se siente con la oposición para tratar de encontrar el rumbo político que deje de enfrentar a los argentinos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El hecho de perdonar a quien ofende, por ejemplo, es absolutamente cristiano. Sin embargo, nosotros lo leemos como un proceso de acercamiento a Milei, cuando, en realidad, puede ser exactamente lo contrario: que aquel más pecador es aquel que más perdón merece, como una criatura de la naturaleza, criatura de Dios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4327
+}

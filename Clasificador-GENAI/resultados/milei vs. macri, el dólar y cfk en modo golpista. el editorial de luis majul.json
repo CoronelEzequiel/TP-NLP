@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.653,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El título del comentario es \"Milei versus Macri: el dólar, Cristina y un intento golpista\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para el presidente Javier Milei, los fundamentos del programa económico siguen intactos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mauricio Macri tiene otra teoría: en un acto en la Bolsa de Comercio de Córdoba, dijo que la falta de apego a la institucionalidad del gobierno afecta su programa económico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner apunta a dos direcciones: hacer creer que es una perseguida (fabricando un \"triángulo del mal\" con Donald Trump, Javier Milei y camaristas de Casación) y generar la sensación de que el país se viene abajo, para desatar una corrida cambiaria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Kirchner son especialistas en desestabilizar gobiernos no peronistas, desde el hostigamiento al gobernador Ricardo del Val en 1990, hasta el apoyo a la renuncia de Alfonsín, la caída de De la Rúa, el intento de desestabilizar a Macri en 2017 y el ataque a Milei el 12 de marzo de 2024.",
+      "score": 0.7666666666666667,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2724
+}

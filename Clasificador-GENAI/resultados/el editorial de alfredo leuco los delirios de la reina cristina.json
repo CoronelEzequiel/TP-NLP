@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.857,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cuesta abajo en su rodada, Cristina Fernández entró en su etapa más delirante.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gran problema de Cristina es que una cosa es cometer errores, nadie está exento.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La más evidente es tratar de instalar que está proscripta electoralmente; no lo cree nadie, y por eso nadie defiende con convicción ese absurdo que se desvanece en el aire con dos palabras.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los fanáticos cristinistas se hunden en ese pantano inexistente y no saben qué hacer: embisten contra molinos de viento y, en una flagrante contradicción, simultáneamente le ruegan que sea candidata.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un producto típico de la soberbia y la altanería de Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su combate contra la Corte Suprema va perdiendo por goleada, casi como Alberto y Massa contra la inflación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como si esto fuera poco, la justicia avanza en varias causas para castigarla por haber sido responsable, junto a su marido fallecido, del robo del siglo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1664
+}

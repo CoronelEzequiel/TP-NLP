@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.492,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a tratar de entender cuál es el \"para qué\" que está implícito en el lanzamiento de este libro, que se hizo exactamente igual, en el mismo lugar, en La Rural, donde se hizo la presentación del libro que marcó el comienzo de la nueva carrera vicepresidencial en su momento de **Cristina Fernández de Kirchner**.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El \"para qué\" de Macri tiene reminiscencia de un célebre libro de Lenin, publicado en 1901, que era \"¿Qué hacer?\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese sentido, habría dos proyectos, podríamos decir, en pugna dentro del PRO: el de Mauricio Macri, que plantea que hay que hacer lo que uno quiere hacer de manera más contundente, esta que se llama la famosa frase de \"lo mismo, más rápido\", versus lo que podría ser el \"para qué\" que representa **Horacio Rodríguez Larreta**, que implica consenso, es adecuarlo a lo posible, llevar adelante aquello que la mayoría querría y no aquello que uno solo cree que es lo que hay que hacer.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este Macri que vamos a escuchar ahora parece Milei, hasta se permite decir unas palabras y es aprobado como... como ir ahí, una mileización, que sería un buen título: \"La mileización de Mauricio Macri\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo soy aquel que, por querer, que ya no vive, el que te ve, el que te sueña, el que quisiera ser dueño de tu amor, de tu amor.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que el verdadero cambio es el hacer, es lo que estamos haciendo acá en la ciudad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3026
+}

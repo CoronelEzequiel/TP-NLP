@@ -1,0 +1,86 @@
+{
+  "texto_id": "entrevista_felipe_pigna",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.087,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Publicó el fin de semana el Gobierno Nacional, muy mal editado, ¿no? Como no estoy acostumbrado al Gobierno Nacional, unos videos que realmente parecen editados por chicos de la escuela primaria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La raza es un término que Naciones Unidas y la UNESCO condenaron reiteradamente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que bueno, es una... bueno, a vos te dice algo una barbaridad insostenible, creo que ningún científico del mundo podía sostener, ni de Harvard ni de donde quiera, de cualquier universidad del mundo, cuando dicen: “Comenzó la civilización, ¿no? Cuando llegó Colón, comenzó la civilización”.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una palabra que atrasa milenios, qué sé yo. Civilización es toda... es una palabra muy latina que tiene que ver con la ciudad, como que la civilización es básicamente lo que tiene que ver con lo urbano, frente a la barbarie que estaría instalada en el campo, es la famosa dicotomía sarmientina del siglo pasado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Colón fue un personaje muy polémico, como todos sabemos, que, además, para dejar en claro que no estamos sacando de contexto, porque es uno de los argumentos que usan, ¿no? Que sacamos de contexto, fue muy criticado en la época por contemporáneos como Bartolomé de las Casas, pero no solamente, Colón fue condenado por los Reyes Católicos, fue enviado preso en el año 1500, se le prohibió tocar los puertos americanos, condenado por la reina Isabel y por el Consejo de Castilla, donde se le quitó su título de almirante, todos sus títulos que le habían dado a la capitulación de Santa Fe, y el tipo termina condenado por corrupción y por crímenes cometidos en América, por los Reyes Católicos, no por el revisionismo histórico del siglo XXI.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, bueno, Sarmiento es uno de los grandes promotores de la educación pública y gratuita, es el autor de la ley 1420 de educación gratuita, laica y obligatoria, ¿no?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es impresionante la cantidad de mentiras, en cada discurso te encontrás, no sé, diez mentiras, una atrás de la otra confiando en la ignorancia de la gente, que es tremendo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él detestaba a la oligarquía agroexportadora, te digo, si querés, te leo un texto que tengo acá, que es muy interesante sobre estos sectores a los que defiende Milei, como los veía él, ¿no?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, por supuesto. Varios de los apellidos que nos va a hacer la política. Es que Sarmiento, ellos suponen que Sarmiento es una cosa, pero Sarmiento es otra, bastante diferente, ¿no? Pero bueno, es increíble, ¿no? Cansa un poco tener que estar desmintiendo todo el tiempo porque se basa en la mentira permanentemente, ¿no?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, bueno, es una cosa clásica de la derecha argentina, ¿no? Cuando llega al poder le cambia el nombre a todo, prohíbe nombres.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esta idea de la palabra libertad, pues yo, desde lo intuitivo, te diría que todos nos sentimos un poco menos libres, ¿no? Desde diciembre de 2023 hasta ahora, porque tenemos que trabajar más para tratar de llegar al fin de mes, tenemos que pagar más caras las cuentas, cada vez todo cuesta más, cada vez hay peores servicios, o sea, los pagamos caros y recibimos peores servicios. Yo me siento menos libre, pero ¿qué podría ser, qué expresa en la idiosincrasia argentina la palabra libertad?",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, que la palabra libertad para ellos, en realidad, se remite básicamente a lo que tiene que ver con los mercados, no con la práctica de la libertad, ¿no?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, una distopía, ¿no? Una distopía total, un cambio de régimen hacia un régimen profundamente autoritario que no tiene ningún problema en usar la fuerza para contra jubilados, contra estudiantes, contra todo aquel que se oponga a sus propósitos, ¿no?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además de la imposición económica que vos decís que es violencia, porque sacarle el pan de la boca a la gente es totalmente violento, también es una violencia ejercida en las calles de una manera indiscriminada, ¿no?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos perdiendo calidad democrática cada día, de una manera que va resultando imperceptible, ya, como te querés acordar, ya te cuesta hablar, ¿no? Como pasó en otros momentos de la historia argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4954
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "sin_nombre",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo único que de verdad me molestó es que me traten como si fuera algo negativo *pro familia*. Señores, sin familia no hay futuro. Sin familia no hay sociedad. Yo soy pro familia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era la Argentina de mi hijo el doctor. No la Argentina de mi hijo el planero.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El estado se convirtió en un aguantadero de militantes y de burros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esta sociedad de mercado se vende absolutamente todo, tus ideales, tu dignidad, todo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si dejás de comprar ropa de hombre y de mujer y decís quiero ropa de género, la marca se va a ver obligada a venderte ropa de género. Flacos, hoy miren que quiero vestir con ropa de mujer. Ocúpate de que la gente que vaya con las minas más gordas, más flacas, más altas, tengan sus talles. Nadie pelea por la ley de talles.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy es políticamente correcto hablar de las trans. Y es políticamente incorrecto defender a una monja. Así estamos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son prostitutos de la pauta. Joder, si me das un palo verde me caso con vos. Si me das la pauta de... Son de izquierda, pobres, se hablan de los pobres de la pauta. Y después la quieren toda junta, quieren los verdes y contarlos. Prostitutos de la pauta. Los compran con la pauta. Huelen la pauta y... vamos, vamos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8908
+}

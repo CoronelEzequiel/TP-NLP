@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Mi desprecio hacia el Estado es infinito.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llegó sin partido, sin programa, sin equipo, sin diputados, sin senadores, sin gobernadores, sin intendentes.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei es eso, Milei se mueve como pez en el agua en medio de una situación caótica, que es la situación que lo llevó a él al poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De todo lo que cubre hoy el espacio político, el kirchnerismo es el único agente que tendría posibilidad de enloquecer la escena pública frente a un Milei que tiene mucho consenso en la opinión pública, pero poco poder institucional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En su momento, a Patricia Bullrich, que es la ministra de Seguridad, le quitaron de las manos el manejo de las custodias de presidentes, ex presidentes, ex vicepresidentes, es decir, la custodia de Cristina Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ojo, que si la excluyen a Cristina, incendiamos el país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8539
+}

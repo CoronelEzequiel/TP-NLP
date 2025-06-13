@@ -1,0 +1,36 @@
+{
+  "texto_id": "modo_fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Para decirlo más claramente, no es que ha dejado su cargo: Javier Milei echó al ministro de Infraestructura, Guillermo Ferraro.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a lo largo de la mañana a tratar de contar qué pasó con este primer gran cimbronazo del gabinete, que, por supuesto, se da en el marco de una negociación clave que viene llevando adelante el gobierno en el Congreso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En ese contexto es que se suma otro capítulo más a esta negociación en la Cámara de Diputados, pero en un momento en donde las negociaciones no se han caído.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"No les voy a dar un peso, los voy a dejar sin un peso\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Es una angustia que el gobierno central se pretenda quebrar una decisión de, creo que sí nos habla a nosotros, porque fuimos el principal gobierno que se plantó ante un tema que entendíamos que era injusto para la provincia de Santa Fe, retenciones a las deportaciones agropecuarias y retenciones a las deportaciones industriales.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5955
+}

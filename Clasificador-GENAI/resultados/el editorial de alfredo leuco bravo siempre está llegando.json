@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es una de las personas más queridas en este ambiente lleno de celos, codazos y mezquindades.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El día que murió Néstor Kirchner, tuvimos que salir juntos de Radio Continental, acompañados por la policía, como si fuéramos delincuentes, y jamás tuvimos ni un cheque devuelto por falta de fondos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "300 salvajes con la cara tapada y palos en la mano gritaban: \"¡Que suene el bombo, que suene el tamboril! ¡Fernando Bravo y Alfredo Leuco se tienen que morir!\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Otra vez, los fanáticos de Cristina lo corrieron dos cuadras a la salida del Teatro Colón, solo por defender la libertad y la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bravito, periodista de la nostalgia de la ética republicana, el conductor de los programas de juego, el que no oculta sus lágrimas ni sus risas, el que juega de arquero y de nueve, el Fernando Bravo de las emociones, su corazón goteando en la pantalla, esa capacidad de descubrir talentos y potenciarlos, y lloró, lloró por las despedidas al aire y de los televidentes y por su viejo y su vieja y por el amor de Andrea Montaldo, es decir, el amor de sus amores.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2763
+}

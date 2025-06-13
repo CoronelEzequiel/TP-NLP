@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.83,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Yo no soy anti-K. Yo relato las cagadas que ustedes se mandan. Que son chorros.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso digo: todo es bueno en su medida y armoniosamente. Esto es una dictadura, más que nada por las concesiones ya con Venezuela, el único país del mundo que está último en la lista de los países más pobres como nosotros, y primero los corruptos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y quiero decir que estamos —por lo menos todos los que yo conozco— yo con Israel, y no con los extremistas y asesinos de enfrente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi idea es que Alberto Fernández se quede, que aguante, y dentro de dos años, cuando haya juicios por el tema de la vacuna, juicio por el tema de la carne, juicio por el tema de los robos, juicio por esta inhumanidad… ¡Lo quiero ver a Alberto Fernández y a Cristina Fernández de Kirchner sentados en el banco de los acusados, dando explicaciones!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero yo no soy un perro domesticado. Estoy a favor de las vacunas. Hay muchos imbéciles que andan diciendo: \"No se vacunen\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3339
+}

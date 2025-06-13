@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.726,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo más gracioso de todo es que el populismo, que supuestamente gobierna para los pobres, son los chorros y los más interesados en ser ricos, porque Nordelta y Puerto Madero están llenos de populistas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acuérdense cuando mataron a Nisman que los departamentos estaban todos alquilados por populistas.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si quiere un abogado, lo traigo a Agustín Rodríguez. Gracias. Que además sabe.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El populista se hace rico en dos maniobras a costilla de la gente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sirve la guita mal habida porque, ¿sabes qué pasa? ¿De qué te sirve afanarte 100 millones de dólares si tenés que vivir como un pobre?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, y con respecto al gobierno, no dejemos que la oposición nos ponga de espalda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No dejemos que los comunistas, los que fueron a la plaza, los sindicatos que ahora reaccionaron...",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3087
+}

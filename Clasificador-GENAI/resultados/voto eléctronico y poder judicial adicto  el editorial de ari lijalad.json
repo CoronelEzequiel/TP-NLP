@@ -1,0 +1,31 @@
+{
+  "texto_id": "voto_electronico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.225,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En Argentina, especialmente este año en que conmemoramos 40 años de democracia, el voto es sagrado; debe ser secreto, universal, obligatorio e igualitario: lo que se deposita en la urna debe coincidir con lo que se cuenta posteriormente.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es decir, votaremos con un sistema de voto electrónico que es manipulado diariamente por Horacio Rodríguez Larreta y la empresa Magic Software Argentina, y que no ha sido auditado para su uso el 13 de agosto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La justicia porteña, a través de la fiscal Marcela Molina, argumentó que la Fundación Vía Libre carece de legitimidad para presentar la demanda.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ojalá se frene esto y podamos votar en la Ciudad de Buenos Aires como siempre, con boletas de papel, con un recuento transparente, para que la voluntad popular se refleje en los resultados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1712
+}

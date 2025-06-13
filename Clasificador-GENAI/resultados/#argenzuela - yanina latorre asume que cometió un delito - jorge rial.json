@@ -1,0 +1,31 @@
+{
+  "texto_id": "Hoy a las 5:54 de la mañana",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En este país, quien acusa debe probar la culpabilidad, no el acusado. Yo no tengo que demostrar mi inocencia; ella debe demostrar mi culpabilidad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una cosa es la crítica profesional, la chicana,  pero no estamos hablando de chicanas que atacan lo personal o acusan a alguien de un delito.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El artículo 390 del Código Penal argentino define la extorsión como un delito de alto impacto:  'La comete quien, sin derecho, obligue a otro a dar, hacer, dejar de hacer o tolerar algo para obtener un lucro para sí o para otro, o causando a alguien un prejuicio patrimonial'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero dejar claro que fui acusada falsamente y que el pago de una multa evita un juicio y un antecedente penal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1666
+}

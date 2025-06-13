@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_corrupcion_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.19,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "No se han cumplido aún seis meses de gobierno y ya estamos transitando el primer acto de corrupción del gobierno de Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de leche, fideos, arroz y hasta hierbas medicinales. Algunos funcionarios, antes populares y ahora clasistas –quienes consumieron hierbas medicinales toda su vida– ahora las desprecian.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se combinaron dos barbaridades: privar de comida a los hambrientos y saquear la caja política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es excelente que Pettovello haya actuado así; es lo que hay que hacer. No se debe proteger a los funcionarios corruptos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tal vez erradicaron la forma de corrupción que conocíamos, pero inventaron otra. Son corruptos al fin.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2875
+}

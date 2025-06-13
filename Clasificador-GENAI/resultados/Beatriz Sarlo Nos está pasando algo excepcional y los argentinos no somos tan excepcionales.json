@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_sarlo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "No estoy diciendo, me leen y más, estoy diciendo, hay otros candidatos, no dejan a la gente tranquila, no dejan que se diseñen otras opciones.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tengo decidido mi voto por quién no voy a votar, jamás votaría por un candidato de rasgos antidemocráticos y autoritarios como Milei, jamás votaría por ese candidato.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "si no podría votar por la izquierda o por cualquiera de los pequeños partidos de izquierda, que ya he hecho eso en otras elecciones, porque me parecería bien que entraran algunos representantes en el Parlamento de esa izquierda, eso es posible, y tampoco diría, si votar por Massa, me hago el araquiri, tampoco diría eso, porque tenemos tan pocas opciones que el araquiri puede ser la más segura.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei acaba de postear que la Argentina se divide entre tener dignidad, que el balotaje, él lo sintetiza bajo la idea de tener dignidad versus cagar en un balde.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene una Corte Suprema consolidada, que a uno le puede gustar más este juez o más este otro si analiza los fallos, a uno se pasa la vida analizando los fallos en la Corte Suprema, pero tiene una Corte Suprema consolidada, compare eso con las Cortes Supremas del pasado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2536
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me gustan las canciones de protesta de mujeres y trato de acercarme a eso porque es el público que me gusta tener.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuesta mucho, cuesta cuando uno tiene hijos. Y hay que afrontarlo. Son esos mismos que te dicen que vos no podés, que sin esa persona no vas a hacer nada. Está la manipulación siempre.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y cuando salís de eso… ahí está Miguel, que es el motor de todo esto. No por lo económico, porque es difícil, hay que invertir tiempo, esfuerzo y dinero. Pero si vos no tenés el apoyo de tu pareja, tampoco lo podés hacer. Porque esto es todo sentimiento.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pasamos por una pandemia, por cosas difíciles, y las mujeres tenemos que salir a hacer lo que queramos hacer.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí, es fundamental la oración. Le pido a Dios que me dé fuerzas, que no me pase nada, que no tenga vergüenza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2515
+}

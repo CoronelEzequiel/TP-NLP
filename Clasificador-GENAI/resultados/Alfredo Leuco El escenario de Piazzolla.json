@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.286,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Fue un revolucionario del tango.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Le querían sacar tarjeta roja, pero el tango nunca se fue.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue muy resistido por la guardia vieja de la ortodoxia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Astor era discutidor, no se le callaba a nadie, se iba a las piñas en dos minutos, se le subía la \"tanada\" y la autodefensa que necesitó de pibe por las calles hostiles de Little Italy en Nueva York.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Astor derrotó para siempre a los conservadores anquilosados del tango, del \"taquito\" y la pereza.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hizo punta con su admirado Osvaldo Pugliese, encontró un nuevo lenguaje, para un tiempo sin tranvías ni buzones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Don Astor, gracias por su tozudez, su creatividad y su talento.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2624
+}

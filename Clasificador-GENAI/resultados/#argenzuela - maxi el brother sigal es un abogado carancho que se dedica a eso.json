@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se está exagerando una simple discusión de vecinos? Se conocen los involucrados o son desconocidos? Hubo un intento de asalto o secuestro, como se ha dicho? Sé que este tipo de noticias vende, y mucha gente está amplificando las cosas, presentándolo como si fuera un delincuente, un asesino, un narcotraficante o un violador.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, no está bien, está muy mal. Se está politizando todo, en Argentina todo se relaciona con la política. Pero en Estados Unidos no es así. Los raperos hacen videos con armas y no hay tal reacción.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, lo que ocurrió fue una discusión que se descontroló. Todas las causas contra Elián son por discusiones con vecinos. El caso de Cigal, por ejemplo, surgió de un altercado con una mujer que casi le choca el auto en General Rodríguez.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cigal, el abogado, lleva los casos de los vecinos contra Elián, pero esos vecinos luego se arrepienten. Te puedo pasar el número de alguien que denunció a Elián y luego me llamó arrepentido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dejaremos que la justicia siga su curso. No buscamos prensa ni aliados políticos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se está exagerando todo porque es Elián. Mostraron armas de juguete, armas de paintball que Elián usa en un circuito que tiene en su casa. Lo pintan como un narcotraficante o un guerrillero.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Elián llegó de bailar, no tenía nada que ver. Como tiene dinero, le quieren sacar plata.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para ustedes, el tema es el dinero, lo que genera tentaciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2372
+}

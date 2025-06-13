@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner quiere quedarse con los planes sociales como si ella fuera dueña de ellos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los planes sociales los tienen que cuidar, creo. Alguien decente, probado, un triunvirato de argentinos decentes, honestos, ni Bonafini, ni Carlotto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo propongo a Luis J. Plumber, uno, ¿qué se te ocurre? Tres personas honestas.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner manejaba en la Argentina, hoy nos encontramos con esto. Se disparó el dólar, se disparó la inflación, se disparó la economía.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Van a meter mano en las cajas de ahorro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No digan que no se los dije, esto no es golpismo, no es sensacionalismo.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y el presidente paseando hoy, no sé dónde fue, a la cumbre esta que va.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las Malvinas son inglesas y no hay ningún diálogo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3318
+}

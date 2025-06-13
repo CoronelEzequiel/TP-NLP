@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.096,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hemos logrado, con la participación de las tres cámaras principales del Mercado Central (BAIRES, MAFO y MAVANA), un compromiso de venta mayorista a precios que se informan públicamente para que los consumidores puedan defender su poder adquisitivo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El conocimiento del consumidor permite que este defienda su poder adquisitivo y evite pagar precios abusivos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trabajamos principalmente con productos de temporada, ya que la variación de precios en los productos fuera de temporada, debido a problemas de oferta, es muy grande.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una situación inaceptable que la gente esté perdiendo su poder adquisitivo debido al robo a plena luz del día.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los precios en el Mercado Central son mucho más bajos que en los barrios.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestra preocupación es el consumidor del barrio, que no debería pagar 300 pesos por una cebolla cuando un precio razonable sería 120 o 130 pesos.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una gran contribución a la lucha contra la especulación, que genera una inflación cada vez más preocupante.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras más se difundan estos temas, mejor se podrá defender el poder adquisitivo de los salarios.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1801
+}

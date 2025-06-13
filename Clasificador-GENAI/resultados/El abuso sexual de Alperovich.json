@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es tan caradura que lo único que le faltó fue apelar al \"lawfare\", como su amiga Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Encima, cuenta con el silencio cómplice del colectivo de mujeres kirchneristas, que solo condena y denuncia con firmeza cuando los violadores no tienen su misma filiación partidaria.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alperovich es amigo de Cristina y eso le da un blindaje.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso lo podemos ubicar dentro de la categoría del \"feudalismo K\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que combatir con firmeza a todos los golpeadores y violadores, sin que importe la filiación partidaria.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ojalá el caso de Alperovich no corra la misma suerte, y no traten de esconderlo bajo un manto de silencio y complicidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2039
+}

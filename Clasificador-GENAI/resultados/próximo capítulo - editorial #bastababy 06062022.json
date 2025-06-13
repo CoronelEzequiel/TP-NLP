@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Realmente, cuando uno quiere preguntarse por qué el país va como va, nada mejor que ver la parodia que hicieron el viernes para darnos cuenta de que estamos gobernados por gente que debería ir a un neuropsiquiátrico.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente, la vicepresidenta y el presidente están desquiciados y tienen que ir a un neuropsiquiátrico.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y nosotros estamos detrás de dos personas que están mal de la cabeza.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Están haciendo mucho daño al país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No les digo a Alberto Fernández y Cristina Fernández de Kirchner que no piensan. Les digo a ustedes que están en sus casas y que se pararon delante del televisor para ver si estos dos payasos decían algo nuevo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que nos importa es que están destrozando a la Argentina.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Chicos, realmente dan vergüenza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2461
+}

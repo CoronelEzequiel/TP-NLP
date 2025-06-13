@@ -1,0 +1,46 @@
+{
+  "texto_id": "Martín Lusto y Aníbal Fernández",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Han destruido todo y ahora están destruyendo a su propio gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No importa el nombre, importa la actitud de Cristina, porque todo el odio que ella siempre destiló ahora lo está dirigiendo contra Alberto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tanto Cristina como Alberto son los victimarios.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina encontró en el nacional populismo chavista una excusa para justificar su carácter autoritario.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre dividió a la gente entre esclavos y enemigos, y al que no se arrodilla hay que castigarlo, aunque sea de su propio gobierno.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina es así.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo grave es que, si gobernara Cristina, estaríamos mucho peor, con atropellos contra la propiedad privada y contra la libertad, es que Cristina siempre va por todo y para siempre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2094
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.47,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Qué ves cuando reprimen a una jubilada?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un sector del periodismo, entonces, parece haber sido cooptado totalmente por la política, dispuesto a representar una línea partidaria, y de uno y otro sentido.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si la política triunfa e invade su lógica sobre el periodismo, sobre el derecho, la democracia va a estar muy mal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está del lado de la policía, Bullrich está del lado de la policía.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En realidad, ese “nosotros” es un tema que es un tema de un sistema, que es un tema de un sistema, que es un tema de un sistema, que es un tema de un sistema, de la… unicomprehensivo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La violencia ya no tiene nada que ver con la expresión, con la libertad de expresión, y eso tampoco es derecho a la protesta, porque, si no, eso se convierte en derecho a la violencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno acusó a los intendentes de La Matanza y de Loma de Zamora de financiar a grupos violentos para desestabilizar al gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El pensamiento occidental se acostumbró a basarse en que no se podía sostener nada de lo que no se hubiese hecho primero pruebas basadas en hechos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cada nicho de opinión solo consume aquello con lo que está de acuerdo anteriormente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hubo redacciones de importantes medios en la que esta tarde se les prohibió a los periodistas escribir palabras como, entre comillas, “represión” y, entre comillas, “marcha de jubilados”.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7144
+}

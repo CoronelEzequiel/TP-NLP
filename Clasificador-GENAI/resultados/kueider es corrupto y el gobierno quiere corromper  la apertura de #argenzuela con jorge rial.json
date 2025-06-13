@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_cuder",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "También es innegable que el dinero encontrado en su poder proviene de un soborno de este gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso me preocupan las fotografías de ocho senadores con  Victoria Villarroel, Patricia Bullrich y Karina Milei, todos mirando a la cámara con una expresión sospechosa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La corrupción es el tema central. El dinero proviene del gobierno nacional, a través del Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los de La Libertad Avanza probablemente votaron por ideología; pero los demás son sospechosos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1834
+}

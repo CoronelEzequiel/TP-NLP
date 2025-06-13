@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.608,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Está asustando.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está tratando de generar un clima de... en la campaña del miedo, vamos a decirlo brutalmente, en lugar de ser más empático con una sociedad que viene harta, cansada de un año de aislamiento obligatorio, el 2020, que puede haber servido, obviamente, tal vez para no saturar el sistema de salud, pero destrozó la economía y ahora por eso el gobierno no puede, y además por la falta de autoridad moral, por la cuestión del vacunatorio, no puede imponer medidas de restricción a la circulación o de aislamiento o de confinamiento que tal vez, no sé si ahora, pero quizás más adelante sean necesarias.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que hace Kreplak es subir este video que genera mucho pánico, temor entre la gente que no... a las personas que obviamente no saben de medicina, se dicen récords de muertes en Brasil, 3.000 muertes por día, mirá Perú se está cerrando, mirá Europa también se está cerrando, ahora el ministro de la provincia de Buenos Aires nos está informando tal vez con la cautela o la mesura o la transparencia, porque ahora te vamos a contar en lo que viene de Tenecentral como están faltando vacunas en la provincia de Buenos Aires y esto obviamente complica el panorama, por eso el cuento del lobo bonaerense, quizás por esto también el gobierno no puede imponer las medidas que tendría que imponer aunque sean antipáticas, porque asustan, asustan, asustan, no va pasando nada y quizás, y esperemos que no, cuando realmente venga el lobo, quizá mucha gente no le crea y pase lo que pasa con el cuento, ojalá que no y se imponga la realidad y la tranquilidad y la alarma, que no es lo mismo, estar atentos que tener miedo, no es lo mismo el miedo que la atención.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay mucho miedo en el gobierno, en el sistema de salud, lo contamos todos los días, pero lo que está haciendo Kreplak con este video, realmente, es, por lo menos es mi opinión personal y la de algunos de sus colegas de otros distritos, asustar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gigante sudamericano registró el martes, por primera vez, más de 3.000 muertos en 24 horas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Está asustando.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2103
+}

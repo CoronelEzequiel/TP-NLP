@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Una protesta tuvo lugar, y debo contarles que comenzó temprano. Llegaron personas con pancartas y carteles, en una situación que afecta especialmente a los jubilados por temas económicos. Las pancartas reclamaban por el tema de las jubilaciones.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese control de retención, según manifestó el secretario de seguridad provincial, Lirola, se encontró a un hombre de 70 años con un arma de fuego. Fue aprehendido inmediatamente y se encuentra en la fiscalía para averiguaciones de antecedentes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Evidentemente, se trataba de un grupo espontáneo que protestaba, especialmente por los temas relacionados con las jubilaciones y Javier Milei.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un dato importante sobre la tenencia de armas: en la provincia de San Juan, a los policías retirados se les ofrece la opción de entregar sus armas, obviamente dentro del marco legal y con los protocolos correspondientes, incluyendo una evaluación de sus facultades mentales.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1435
+}

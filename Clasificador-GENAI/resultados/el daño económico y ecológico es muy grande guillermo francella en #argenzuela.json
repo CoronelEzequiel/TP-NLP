@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobernador de Santa Fe, Maximiliano Pullaro (o el nombre correcto del gobernador), me llamó para ofrecer ayuda, enviando personal de Protección Civil de la provincia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Protección Civil de la ciudad, coordinamos esfuerzos en un centro de operaciones instalado en el cuartel de bomberos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, nuestro sistema de trabajo local se coordinó con la provincia para responder a las necesidades primarias y complejas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos atendiendo a la población, intentando contenerlos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El daño material y ecológico es significativo; aproximadamente el 50% del arbolado urbano está dañado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La ciudad quedó devastada, pero los casildenses somos resilientes y superaremos esto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1315
+}

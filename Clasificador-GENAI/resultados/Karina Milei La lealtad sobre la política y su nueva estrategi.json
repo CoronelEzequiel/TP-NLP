@@ -1,0 +1,31 @@
+{
+  "texto_id": "T-72: Del poder de la simbiosis a la simbiosis del poder",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Muchos, cuando piensan en este fenómeno político que son los libertarios, se preguntan si están enfrentando a genios de la política que lograron derrotar a todo el sistema político y reconfigurar el mapa de fuerzas y alianzas que dominó la escena política nacional en los últimos 20 años, o a un grupo de gente sin experiencia, excéntrica, con serios problemas emocionales y muy enojada, que conectó en un momento con la fluctuación de la sociedad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Contra la política que hace décadas está organizada para tener todo a su favor. Sí, es verdad. Porque ellos están en el Congreso, están en los sindicatos, están en las organizaciones sociales. Y también están en los medios. Sí, están en todos lados. Y todos ellos están organizados con el mismo objetivo: hacer lo imposible para que este gobierno triunfe. Así que... bueno... ellos van a aprovechar cada oportunidad para boicotear este gobierno\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella se encargó de limar la figura de la vicepresidenta, Victoria Villarruel, y dejarla alejada del centro de la política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para el presidente y su hermana política, el Congreso es un nido de ratas, un consorcio de ladrones que se dedica a sostener curros, son capaces de hacer cualquier cosa, contratar, mantener su privilegio y, más allá de que esta sea una visión absolutamente cegada y que la política ha hecho grandes cosas en la historia de nuestro país, incluido la de dar estándares sociales históricos ubicados muy por encima de cualquiera de los países de la región, estos últimos años se ha visto un importante deterioro en la relación de los dirigentes políticos con sus representados y esto fue claramente aprovechado por este fenómeno que hoy nos encontramos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4210
+}

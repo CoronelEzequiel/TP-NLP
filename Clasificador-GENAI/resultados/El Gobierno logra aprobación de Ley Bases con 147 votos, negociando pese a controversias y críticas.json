@@ -1,0 +1,56 @@
+{
+  "texto_id": "Mundo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.522,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Resulta afirmativo, se comunicará al Poder Ejecutivo, en el primer debate de la Ley de Bases.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por un lado, por el Ejecutivo hablábamos de Guillermo Francos.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El otro tema central fundamental que se discutió mucho hoy: El RIGI, el Régimen de Incentivo para las Grandes Inversiones, que es el RIGI.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hacer varios diputados, sobre todo de la oposición, decían, \"Le estamos dando herramientas y poderes especiales a un presidente que lo que dice que quiere destruir al Estado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como ya se sabe, el Senado quitó Aerolíneas Argentinas, los medios públicos y el Correo Argentino, pero se va a ingresar, y una de las primeras que seguramente van a ser privatizadas tiene que ver con la empresa de agua, AySA, y lo que tiene que ver con los trenes, Belgrano Cargas, y la operatoria de los trenes, también está en una de las primeras privatizaciones que seguramente van a llegar.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta ley de bases que falta la reglamentación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El \"tisnerismo\" está intentando, el \"tisnerismo\", con cualquier argumento, siempre va a tratar de obstaculizar hasta que se dé cuenta que el pueblo argentino quiere un cambio, porque el pueblo argentino ya se dio cuenta de falta de entender a los \"tisneros\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Protagonistas y protagonistas de esta ley de bases, Guillermo Francos, uno sin lugar a dudas, y otro, el protagonista que pasó del llanto a a bancarse algunos gritos en la calle, a argumentar de manera bastante particular, es el presidente del bloque de la Unión Cívica Radical.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Señores, el gobierno tiene ley de bases, se tuvo que ir a negociar al Congreso, después que, recordemos, asumía el 10 de diciembre, Milei de espaldas al Congreso, hablándole a la gente, pero no de las espaldas al Congreso, en lo que era el discurso inaugural.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6301
+}

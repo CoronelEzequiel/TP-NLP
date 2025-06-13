@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.771,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Considero que el debate está viciado, con muchas voces que opacan a quienes realmente poseen el conocimiento necesario.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es indiscutible e indispensable el regreso a clases presenciales; así lo afirma la Sociedad Argentina de Pediatría.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En Argentina, los niños parecen ser la última prioridad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué las aulas no? ¿Egoísmo? ¿Miedo?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué algunos sindicatos, que son una minoría, resisten el regreso al trabajo?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Equiparar la opinión de un delegado con la de la Sociedad Argentina de Pediatría es un acto criminal.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "De Baggis afirma que las escuelas no son un foco de contagio de COVID-19 y que los beneficios sociales de la presencialidad son mayores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2034
+}

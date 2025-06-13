@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El señor Pablo Monaco debe prestar atención a esta información sobre una importante investigación judicial relacionada con la muerte de Natasha Haid.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Según su hermano, Ulises Haid, el dispositivo contiene información crucial.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La investigación, a cargo de los tribunales de Tigre, busca determinar si Natasha falleció por homicidio o por sobredosis.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ulises siempre afirmó que el iPad contenía información sensible, incluso relacionada con casos de pedofilia y abuso de menores.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gravedad de la información encontrada, confirmada por los abogados y Ulises Haid, es considerable.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 769
+}

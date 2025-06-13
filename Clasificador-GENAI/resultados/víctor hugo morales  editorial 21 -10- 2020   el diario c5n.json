@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.257,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La ciudad más rica tiene bolsillos grandes, corazones muy pequeños. No puede ser que las enfermeras y enfermeros, aquellos que están cuidando a miles de pacientes por el coronavirus y por otras enfermedades, tengan que ir a mendigar, poco menos, lo que les corresponde: el derecho que se han ganado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras piensan solamente en los negocios, en el Sheraton, en Costa Salguero, en todos esos sitios en los cuales entregan terrenos a sus amigos, y hacen enormes negocios y levantan grandiosos edificios, hay gente que vive en humildes casas y que está necesitando un lugar decente, con la comida, con la vestimenta, con la posibilidad de educar a sus hijos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos acá por apoyo más que nada a lo que es la propiedad privada, nadie puede usurpar de lo que es de uno. Pero sí lo que nos metemos es en la defensa de la propiedad privada, nosotros estamos totalmente en contra de cualquier usurpación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno que duda y debate, así como debate, que es parte de lo mismo, si Venezuela es o no una democracia o una dictadura, es una dictadura, no puede caber duda y acá se debate; también debaten si hay que controlar o desalojar a alguien que usurpa.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El foro de periodistas, supuestamente **FOPEA**, de periodistas entre comillas que ahora quiere ver la legalidad a una resolución de un juez, está apoyado por, entre otros, la embajada de los Estados Unidos, la embajada de Inglaterra, la de Canadá, la de Noruega, la de Finlandia, todas las embajadas extranjeras apoyan a estos periodistas, pero no solamente esto, la Open Society, está Microsoft, están todos los poderes fácticos de los Estados Unidos apoyando a estos supuestos periodistas, periodistas que se han constituido en meros operadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a dejar este tema que tendrá por supuesto la necesaria continuidad en el día a día a medida que se van sabiendo más cosas todavía, que vamos leyendo el expediente que es muy voluminoso, más de mil páginas, pero hay una página magnífica para América Latina y estos dos hombres que hoy se encontraron, **Evo Morales** y **Alberto Fernández**, ya tienen una historia escrita para que Latinoamérica sea una canción nuevamente de todas las voces, faltará un poco todavía para que sean todas las voces, pero estamos en camino, viene Chile, viene Ecuador, poco a poco se recuperó el gobierno de Bolivia por la democracia, otra vez la gente de **Evo** con el presidente **Arce** a la cabeza ganó el gobierno, el poder político y de esta manera lo comentaron, dos hombres que tienen una historia formidable además en el salvataje del que participó como número uno **Alberto Fernández** cuando **Evo Morales**, la derecha enloquecida y asesina quería terminar con su vida en aquellos días de Bolivia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay violencia en ese gobierno de la ciudad de Buenos Aires que no escucha a esas enfermeras y enfermeros que dan la vida por otros y que están por debajo de la línea de pobreza en la ciudad más rica del país. Parece mentira y eso también es una forma del odio, del desprecio por la vida de los demás.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7771
+}

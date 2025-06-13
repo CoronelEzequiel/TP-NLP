@@ -1,0 +1,36 @@
+{
+  "texto_id": "El_Destape",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La Nación+ parece estar cada vez más alineada con el gobierno, lo cual se percibe en la promoción del programa de [Nombre del periodista], donde los nuevos columnistas son presentados con imágenes de la Casa Rosada, creando una sensación de ambigüedad entre su rol periodístico y su cercanía al poder.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ataque contra Kicillof se centra en los índices de criminalidad. Si bien es cierto que los homicidios dolosos en la provincia de Buenos Aires han disminuido desde 2013, con un pico durante la gestión de [Nombre del político], la oposición argumenta que la situación actual sigue siendo crítica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno nacional, por su parte, está implementando el plan \"90-10\", un ambicioso plan de propaganda con un presupuesto de 25.000 millones de pesos anuales para redes sociales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se observa una inusual lealtad por parte de periodistas que defienden al gobierno sin presentar datos objetivos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La estrategia del gobierno implica un ataque frontal contra Kicillof, utilizando una amplia red de medios, periodistas y un elevado presupuesto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2198
+}

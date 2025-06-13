@@ -1,0 +1,51 @@
+{
+  "texto_id": "radio_perfil",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.638,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Massa significaría un ajuste con sonrisa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa era un \"descuidista\", alguien que aprovecha la situación de fragilidad de alguien para beneficiarse, o sea, finalmente alguien que le roba algo a alguien. En este caso, sería el poder a Alberto Fernández y a Cristina Fernández de Kirchner.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, inconscientemente, se está despidiendo con 14 meses de anticipación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Massa tuviese éxito, lo que resulta posible, aunque no lo más probable, en este escenario, él sería el candidato natural, o podría serlo, a la presidencia. De alguna manera, implicaría pasar a un peronismo trans-kirchnerista, una descristinización de la política, una pérdida de peso específico de la política.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el punto de la política kirchnerista y desde el punto de vista económico, hay una tendencia clara de Massa hacia una ortodoxia algo más amigable con los mercados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "que se está estudiando la posibilidad de darle a las empresas, a las grandes empresas de la Argentina, la posibilidad de recomprar sus acciones, que están en poder del ANSES, en el Fondo de Sustentabilidad del ANSES, al valor actual de mercado, con bonos o títulos de deuda argentinos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí se plantean distintas alternativas, distintas formas de liquidar mejoras sobre las retenciones y, fundamentalmente, una devaluación del dólar del 20%.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El combo se parece, en algún sentido, o podría parecerse en algún sentido, a un regreso a ideas más noventistas desde el peronismo, un peronismo que ha sabido acomodarse hacia la derecha o hacia la izquierda, dependiendo de las condiciones de posibilidad de cada época.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4365
+}

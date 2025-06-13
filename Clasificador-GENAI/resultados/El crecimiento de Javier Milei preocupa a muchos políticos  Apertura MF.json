@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La pregunta surge a partir de la conmoción que generó, ayer, la mención a Hitler en una entrevista realizada en esta radio al presidente Alberto Fernández, y de las derivaciones que ya en el pasado tuvo la comparación entre Javier Milei y la emergencia de los libertarios con la eventual emergencia del partido nazi.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ver, yo lo que digo es, mostrame dónde están los 30.000 desaparecidos, mostrame la lista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei puede ser peor que Hitler.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8660
+}

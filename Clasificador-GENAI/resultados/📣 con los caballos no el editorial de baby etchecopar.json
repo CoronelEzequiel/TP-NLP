@@ -1,0 +1,46 @@
+{
+  "texto_id": "Littletown Allison",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y la culpa, no sé si es del gobierno o de quién, pero estamos... La gente que cobra mal, vive mal.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo amo a los caballos. Los caballos son héroes argentinos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces que el gobierno tome medidas y, ya que no pueden hacer nada con los narcotraficantes, que le echen sal en la cola, hagan algo con los cuatreros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía que había que abrir la silobolsa y que había que quemar los campos, las cosechas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a ver, presidente, qué hacemos con los caballos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y te cuento cómo los roban, si querés también.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así los roban, así los faenan, o los venden para los carros, o se van en la procesión a Luján y después de la procesión largan los caballos porque son afanados y se vuelven con el zurco.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3262
+}

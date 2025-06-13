@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.854,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Si no se desata un verdadero escándalo que sancione a quienes utilizan la educación para adoctrinar y bajar línea militante, estamos perdidos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se puede tolerar que profesores o maestros abusen de su poder sobre los alumnos para lavarles el cerebro o intentar convertirlos a su fanatismo ideológico.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La escuela, la universidad, la educación en general, debe ser un lugar sagrado para potenciar el pensamiento crítico, el debate pluralista y la mayor libertad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos los días los periodistas recibimos denuncias respecto de este tipo de manipulación burda multiplicada por los sindicatos docentes y las autoridades kirchneristas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Colocan a los chicos como potenciales militantes y su intención es cooptarlos y sumarlos a sus facciones partidarias.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como puede verse, se trata de una verdadera humillación a los alumnos y un típico intento fascista de imponer ideas y pensamientos en lugar de fomentar la diversidad de opiniones.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es una vergüenza que la gloriosa Universidad Pública no debe permitir.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La batalla cultural, la instalación del relato y de conceptos absolutamente amañados es una política permanente de este nacional populismo autoritario y kleptocrático.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son muchos los jóvenes que, producto de este adoctrinamiento constante en colegios y universidades, creen que Cristina es una santa, revolucionaria, honesta y combativa que viene a redimir a los pobres, por favor.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich salió, como corresponde, con los tapones de punta.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto fomenta el odio, la intolerancia y construye la división de los estudiantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El adoctrinamiento es típico del autoritarismo y totalmente contradictorio con el pensamiento democrático.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con los chicos, no. Fuera el fascismo que adoctrina en la comunidad educativa.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como dijo San Martín, para defender la soberanía, la educación es el mejor ejército.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2889
+}

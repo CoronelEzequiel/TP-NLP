@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿Por qué preguntábamos esto? Aquí quiero hacer un poco de historia, porque una estrategia común de las empresas es vaciarlas. Muchos empresarios lo hacen cuando tienen deudas o problemas, vaciando la empresa para que, cuando quiebre, no haya nada que repartir. Por ejemplo, los Macri lo han hecho varias veces, una de ellas en el caso de Correo Argentino cuando les quitaron la concesión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me acordé de Menem porque hoy vi a varios haciendo un saludo en redes sociales por el segundo aniversario de su fallecimiento, recordándolo como un gran estadista, como un tipo 'antigrieta'. Pero Menem vendió o alquiló el país, privatizando muchas cosas que después se recuperaron, como el espacio radioeléctrico, el agua, Aerolíneas e YPF.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entiendo que esa intervención tendrá un plan de obras urgente y rápido para mejorar la situación de todos los usuarios de Edesur, lo cual implicará inversión, inyección de dinero. ¿Quién inyectará ese dinero? ¿Cómo quedará Edesur después de esta intervención? ¿Mejor o peor? Y si queda mejor, ¿estaba Edesur a la venta? ¿Estamos mejorando la empresa para quien después la compre?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo único que me animo a plantear es que no sea una intervención para sanear una empresa para que los mismos 'vivos' de siempre hagan negocios. Que sea una intervención para sanear una empresa y que el Estado vuelva a recuperar el control de un lugar estratégico para pensar un país, que es la distribución de la energía.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2172
+}

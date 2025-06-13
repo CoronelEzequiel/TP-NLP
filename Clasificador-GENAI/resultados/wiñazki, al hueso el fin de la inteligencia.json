@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina está completamente desprotegida.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Agencia Federal de Inteligencia (AFI), si bien tiene muy mala fama, en parte justificada y en parte no, ya que sus agentes realizan trabajos importantes para contener y detectar posibles ataques extranjeros que pongan en riesgo el orden constitucional y nacional.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para que el espionaje sea efectivo, no debe ser transparente, lo cual no es lo mismo que espurio; es decir, que se utilice para robar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es inaceptable.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La AFI ya no existe y eso es grave.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La nueva jefa de la AFI, queriendo transparentar el organismo, lo transparentó de un modo completamente ridículo e ineficaz.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debe haber un servicio secreto en los países.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es confidencial y secreto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1920
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.425,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Y acá hay algo importante también para mirar que tiene que ver con la derecha argentina, y ahí vamos al PRO y a otros, a sectores del PRO y a otras manifestaciones de derecha, como por ejemplo, los libertarios de **Milei**.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuidado con menospreciar el problema de la corrupción o de tratar de enmascararlo con un relato que en el caso de **Lula** es muy similar al caso del kirchnerismo, que es el relato del *Lava Jato*, donde solamente se pone el acento en las eventuales manipulaciones que puede tener el sistema judicial y no en el problema de fondo que es la corrupción en grandes montos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto es lo que no puede pasar en un gobierno kirchnerista obviamente y esto es lo que inquieta a **Cristina**.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando los escuchaba decir vamos a ser inflexibles con los pibes o acusar a las trabajadoras y trabajadores del gremio (no se específica cuál) de ser intransigentes, me preguntaba por qué nuestro país, escuche, por qué nuestro país fue puesto de rodilla frente a las cerealeras.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8742
+}

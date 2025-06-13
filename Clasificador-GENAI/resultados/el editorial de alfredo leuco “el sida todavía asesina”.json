@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.212,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "José del Barrio tiene encima y carga sobre su espalda los dos virus más terribles de estos tiempos: el VIH y la desocupación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un día, maldito, José se hizo un examen de rutina y apareció el virus.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Silenciosamente, la discriminación se agazapó para el tiro final.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Convertir a alguien en un desocupado, en un desaparecido de estos tiempos, si el trabajo dignifica, la desocupación deprime e invisibiliza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El arma contra esa discriminación la tenemos los docentes, los curas, los periodistas, los artistas, todos los que tenemos un lugar para comunicarnos, un púlpito desde donde hablar y dar información.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La información rigurosa es el arma más poderosa que tenemos en la lucha contra el sida.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso creo que hay que decir, con todas las letras y con el lenguaje de la calle, que a esta altura de la vida no se puede ser tan irresponsable de no usar preservativo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy está comprobado que los tratamientos evitan que se replique el VIH.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2607
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno, inmerso en una interna feroz y en conflicto con la Corte Suprema, solo ofrece las mismas medidas ineficaces.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La respuesta gubernamental es siempre la misma: advertencias de controles, parches asistenciales y nuevos impuestos, medidas que han demostrado ser ineficaces.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En una economía sobrecargada de impuestos que necesita crecer urgentemente, el gobierno parece actuar en sentido contrario.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La principal preocupación del gobierno parece ser la lucha interna, donde el kirchnerismo desafía al sistema republicano.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta guerra contra el Poder Judicial, no contra la inflación, preocupa a la vicepresidenta, cuyos intereses están directamente relacionados con las causas por corrupción que la involucran.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras tanto, los precios siguen subiendo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1624
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hablé con varios políticos de Juntos por el Cambio, con Carlos Lozada y con Patricia Bullrich, quienes quedaron en llamarme, pero nunca lo hicieron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fíjate lo que nos hicieron con la pandemia, precisamente porque pusieron a Ginés González García por ser amigo del presidente, no por ser el mejor, cuando había un montón de infectólogos superiores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, nuestro presidente, Alberto Fernández, dijo: \"El mérito no existe\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fijate lo que pasa en Bariloche con estos hijos de puta de los grupos mapuches y los idiotas del gobierno que se hacen los idiotas para no mandar a Gendarmería y sacarlos de los campos que tienen dueño.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso te digo, hoy pensé todo el día, porque hoy es un día de idiotas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2584
+}

@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.841,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina y Máximo Kirchner le soltaron la mano a Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se lavaron las manos más que Poncio Pilatos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos tratan de tontos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hicieron un desastre social y produjeron una catástrofe económica que todavía no terminó.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Kirchner, en el acto de la UOM, responsabilizó a Alberto Fernández de la tristeza de la sociedad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie ignora que ella es la vicepresidenta de este gobierno y que fue la que bendijo a Alberto Fernández como candidato a presidente mediante un tuit.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El príncipe Máximo Kirchner castigó a Alberto Fernández al calificarlo de aventurero individualista y lo mandó a hacer turismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, el peor presidente del peor gobierno de la historia democrática, le contestó que no va a haber suma fija, que no van a voltear las elecciones primarias.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es penoso cómo ella somete a las instituciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ella fue la que tomó las decisiones más nefastas y contraproducentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En su desesperación intenta una táctica condenada al fracaso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2397
+}

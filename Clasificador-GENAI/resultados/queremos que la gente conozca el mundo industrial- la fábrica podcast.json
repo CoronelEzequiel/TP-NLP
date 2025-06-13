@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Nuestro objetivo es reivindicar el rol del industrial.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestro objetivo es fomentar el conocimiento para que la gente saque sus propias conclusiones. No buscamos ser complacientes con ningún bando político, tratamos de mantener un equilibrio que a veces es incómodo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hemos escuchado a funcionarios del gobierno calificar a los industriales de \"llorones\".",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien la Argentina es un país hermoso, con muchos problemas históricos, creo que debemos buscar soluciones desde una postura propositiva y optimista.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En nuestro caso, generar trabajo e inversiones, y contribuir al desarrollo de nuestro sector, es algo que nos llena de satisfacción.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2074
+}

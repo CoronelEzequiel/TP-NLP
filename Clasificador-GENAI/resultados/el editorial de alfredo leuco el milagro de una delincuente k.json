@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¿Qué dirá el Santo Padre, que llenó de rosarios y bendiciones a una delincuente hecha y derecha como Milagro Sala?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El pueblo pobre, la justicia y el periodismo fueron contundentes en denunciar y comprobar en los tribunales los niveles inéditos de corrupción estatal y la violencia feroz y autoritaria con la que se manejaba esta señora.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Milagro la persigue el código penal y por eso denunció a Gerardo Morales, su jefe, y llamó a defenderla en la calle, aunque el gobernador se negara.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué dirá el Santo Padre ahora que sabemos que Milagro llevó al Vaticano una delegación de 16 personas para traficar dólares sucios?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella le exigió a Shakira que se operara de una hernia para demorar uno de los juicios.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Shakira dio detalles del robo escandaloso que hizo Milagro Sala de los dineros que le mandaban Cristina Fernández y Máximo Kirchner desde Buenos Aires.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue un fracaso estrepitoso porque en la intimidad del cuarto oscuro los pobres que ella decía defender le votaron en contra, en defensa propia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2343
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¡Te robó el futuro!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "esos son inventos de los medios hegemónicos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta señora se llama Laura Radetic, es profesora de historia y fue empleada de la Cámara de Diputados.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "y aclara que no menciona a Macri porque no es un político, es un delincuente.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Adoctrinar es someter a los alumnos, es abusar del poder que tiene un docente que puede aplazar al chico.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Adoctrinar es decirle a un joven qué es lo que tiene que pensar y no enseñarle a pensar con autonomía.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2137
+}

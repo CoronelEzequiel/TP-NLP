@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Debemos privilegiar la libertad de expresión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estos 20 años con Cristina, nos autocensuramos y perdimos la libertad de expresión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este país no es para Alberto Fernández, ni para Máximo Kirchner, ni para Cristina Kirchner, ni para Cafiero, ni para Donda, ni para Ney Gwynn, ni para ninguno de estos tipos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este país es para un hombre de verdad que se pare y diga: “Vamos todos juntos a sacar esto adelante”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted, Alberto, no dijo “idiota”, ni “inútil”, ni “estúpido”.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y usted y su jefa son soberbios. Los vamos a castigar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2464
+}

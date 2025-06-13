@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.821,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El enemigo es la farsa desde el día en que asumió, porque siempre supieron que los controles no iban a funcionar.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero son simplemente estúpidos que buscan solucionar un problema reincidiendo en el error.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando el fraude de fondo es que saben perfectamente, por suerte sabemos perfectamente, que eso no va a funcionar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Cristina hizo lo que sabe hacer a la perfección, que es usar cualquier problema candente para sumar poder en áreas clave y poner uno de los suyos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque ya sabemos que la falacia de congelar un precio es solo sumar una distorsión a un aquelarre de distorsiones.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para este gobierno, para el kirchnerismo, ahora y antes, todo es, en realidad, un pretexto para más controles.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Deje de hacer este papel lamentable de la caricatura de un policía, señor Feletti.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2114
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, Milei, que suele tener el gatillo fácil para la descalificación y el insulto, cuando se le preguntó sobre ese entramado de negociados y extorsiones, dijo, casi en voz baja, que es un problema de los sindicatos y que se tienen que arreglar entre ellos.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina tiene muchos problemas que resolver, uno de los más importantes es hacer más flexible la contratación de trabajadores y evitar los abusos sindicales y la industria del juicio que producen los Moyano y compañía.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Otra muy distinta fue la respuesta de Patricia Bullrich frente al desafío de Pablo Moyano.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Salió al cruce de su provocación y dijo que, si corta las calles o comete delitos, va a ir preso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es un tema ideológico, es un tema épico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2149
+}

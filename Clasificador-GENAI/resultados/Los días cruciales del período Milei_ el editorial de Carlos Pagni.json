@@ -1,0 +1,36 @@
+{
+  "texto_id": "nombre_del_texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El centro político de este gobierno, no solo económico sino político, es revertir el proceso inflacionario que deterioró los ingresos de manera muy importante en la Argentina en los últimos años, probablemente en los últimos 20 años.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero también es importante desde el punto de vista político, ¿por qué? Porque esta regresión de la pobreza hace que \"La Libertad Avanza\", el oficialismo, la fuerza que conduce Milei, tenga la ilusión, la pretensión, el proyecto de representar también a sectores medios-bajos y bajos de la sociedad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gran desafío de Milei, si uno mira la historia en la larga duración, es que no le pase a Milei lo que le pasó a Menem y lo que le pasó a Macri.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maquiavelo ya decía que la principal preocupación de un líder cuando llega es acuchillar al que ayudó al que lo ayudó a llegar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿es posible que Macri mantenga su liderazgo si no empieza desde hoy a pensar una candidatura presidencial de él mismo para el 2027?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8761
+}

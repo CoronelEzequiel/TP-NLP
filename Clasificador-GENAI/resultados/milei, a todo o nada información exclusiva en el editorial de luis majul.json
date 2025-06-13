@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.764,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El peronismo ha olido sangre y no se detendrá en su intento de, ¿cómo decirlo?, metafóricamente, devorar a mi partido, bocado a bocado.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a volver a ganar la provincia de Buenos Aires y en octubre tendremos más diputados que los que tenemos actualmente en nuestro bloque.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestra mayor responsabilidad —grábenlo en la cabeza, aunque tengamos que ceder algún espacio personal— es construir una alternativa que ponga contra las cuerdas a este gobierno.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creemos en el punitivismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para el delincuente no hay puertas giratorias: cárcel o bala.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Vamos a defender la República.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque no vienen contra mí, vienen por ustedes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi partido le dijo a Patricia Bullrich: no vamos a aflojar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri separó la paja del trigo y lo apoyó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Votar el DNU, aprobarlo en una de las cámaras… yo no comparto que sea DNU, pero es lo que eligió el gobierno.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los profesionales del caos están al acecho, buscando alguna grieta por donde entrar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4229
+}

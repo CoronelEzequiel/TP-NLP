@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer el gobierno militarizó la ciudad de Buenos Aires.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el estado generando miedo a los ciudadanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cambiaron las balas de **Bullrich** por el miedo de **Caputo**.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Cristina, digo, por cualquier ley de mierda que sacaba, que la sacaba, que le mandaba al Congreso y la ganaba, aparecía un juez en Calamuchita y se lo frenaba. Es la ventaja de gobernar para los ricos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer la policía, de todas maneras, ¿cómo es eso? ¿Cómo está en su naturaleza? ¿Está en su naturaleza? La policía es así.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este escenario tenebroso, sus socios en el Congreso le votaron un DNU de un acuerdo con el FMI que no existe.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los jubilados tienen familia, muchachos. No son cuatro gatos locos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno dice que ayer ganó 3 a 0, pero sabe que en los últimos dos veces se derrumbó.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3385
+}

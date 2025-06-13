@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Macri afirmó en Córdoba que Schiaretti le votó todas las leyes al Frente de Todos, ignorando que los legisladores peronistas cordobeses, oficialistas en todos los gobiernos, también votaron las leyes de Macri.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de Cambiemos osciló entre conquistar volumen político para cambiar la relación de fuerzas o cambiar la relación de fuerzas mediante un shock de ajuste para ganar volumen político.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El sector más \"talibán\" del macrismo (Bullrich y Macri) considera que se hicieron demasiados acuerdos con el peronismo, frenando su plan de ajuste.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Peor sería un \"neomenemismo\" o una derecha con fuerza para aplicar un ajuste sin obstáculos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1586
+}

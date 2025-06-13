@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, no es la guillotina de Robespierre, es la guillotina de Javier Milei.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por lo tanto, o sea, no se puede estar en la misa y en la procesión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La lectura que hacen ellos es: \"No podés fallar\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Milei le duele mucho más el fuego amigo que la crítica genérica.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un nene de 8 años diciendo: \"Quiero seguridad\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Han transformado una provincia linda, hermosa, en un territorio anárquico, anómico, sin ley, sin norma.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3671
+}

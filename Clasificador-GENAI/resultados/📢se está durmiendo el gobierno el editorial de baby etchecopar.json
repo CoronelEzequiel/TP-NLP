@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.722,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno se está durmiendo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si le das poder a lo peor de la sociedad, estás teniendo los resultados que se acaban de ver.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los barrabravas son \"manos de obra desocupadas\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los pagos se atrasaron y los últimos dos años el boliche lo tomó la barrabrava.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estos momentos, un barrabrava vale más que 10 activistas de izquierda.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y el gobierno de Milei cada vez se achica más.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenés un adversario que es enemigo y que está esperando la debilidad de tu gobierno para entrar como un misil al pecho.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me gustaría que tengamos que ir a Plaza de Mayo a defender al gobierno todos los argentinos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No solo que no terminamos con la inseguridad en la calle, sino que la acrecentamos poniendo nuevos protagonistas, como por ejemplo estos tipos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2460
+}

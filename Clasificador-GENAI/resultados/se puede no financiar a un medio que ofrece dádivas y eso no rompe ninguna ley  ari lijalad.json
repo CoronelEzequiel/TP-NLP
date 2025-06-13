@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tras el anuncio, medios como Clarín, La Nación, Infobae y América se vieron obligados a incluir el tema en su agenda.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, jueves, ninguno de esos medios menciona la gravedad de que jueces, funcionarios de la Ciudad de Buenos Aires, fiscales, agentes de inteligencia y un publicista hayan compartido unas vacaciones de tres días, con todos los gastos pagos, en la quinta de un amigo de Mauricio Macri.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No existe un mecanismo institucional efectivo para resolver el hecho de que la Corte Suprema, la Cámara de Casación, la Cámara Federal de Comodoro Rivadavia y una gran parte de los jueces y fiscales de primera instancia de Comodoro Rivadavia incumplen la Constitución y las leyes.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se pueden tomar decisiones políticas dentro del marco constitucional y democrático para abordar este problema, aunque su resolución requiere votos y un nuevo gobierno con el poder suficiente para enfrentarse a este poder judicial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "He dicho muchas veces que Clarín es el principal beneficiario de la pauta oficial.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es necesario tomar decisiones políticas y simbólicas que reflejen que se han superado esos límites.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2011
+}

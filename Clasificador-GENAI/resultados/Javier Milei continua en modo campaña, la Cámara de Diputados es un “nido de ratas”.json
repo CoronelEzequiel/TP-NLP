@@ -1,0 +1,86 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.547,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Y ahora sí, hay que votar a un liberal porque un cambio es necesario.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que se les dé a los libertarios todo aquello que sea del Estado: intendencias y sus alcaldías, presupuesto para la cultura, tanta plata para una ciclovía, las monedas de 50 pesos... todo el peso es una porquería.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es mi ilusión de libertario sacar subsidios al agro, poder vender usted y Ancap, y, por supuesto, Cerro TV Ciudad.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si viene para Uruguay toda esta moda de libertarios, hay que dejar de gastar en el Estado y sus funcionarios.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que pretenda comer, que trabaje, y si trabaja y no le alcanza, que sea libre de morirse de hambre.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estos tiempos se multiplican los discursos que hablan de la libertad, que hay que defender la libertad. Lo que no te dicen es la libertad de quién.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuidados con comprar el cruel concepto de la libertad que nunca es para vos, es todo para ellos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos enfrentar, luchar por los derechos sin parar, cuidarlos con seguido, y no hay para atrás, nunca hay que callar.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A seguir hablando de la casta, recostándose sobre lo que empieza a estar en duda, sigue teniendo el respaldo del 56%.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los gobernadores, este otro hit del verano para las peleas de Milei, volvió a pelearse con los gobernadores, 'mafia de corruptos que solo defienden privilegios', dijo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Allí estuvieron todos, allí recordaba Pablo Gelo, Néstor Peréz Alfoncín sentó las bases de nuevas formas de convivir socialmente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El propio presidente Milei decía que el Congreso era un nido de ratas, con lo cual siempre con la marcha y la contramarcha, el gobierno sigue desarrollando este plan, del cual vamos a hablar después de cómo se está licuando todo, pero digo, siempre con marchas y contramarchas en el plano político.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei está en la listita de los traidores, la listita negra López Murphy, y les hablaba a los liberales que estaban ayer unidos en Corrientes, y hasta les decía, yo sé que a ustedes por ahí esto les duele, pero López Murphy es esto, esto, esto y esto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ajuste fiscal hasta ahora ha sido drástico básicamente en base a dos cosas: 1. el parate absoluto de la obra pública, es decir, la obra pública financiada por el gobierno nacional que está en marcha, y el segundo, el que se hace saber y el que trae más polémica política, el freno a las transferencias automáticas a las provincias, lo que se llaman las transferencias discrecionales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una de las cosas por las cuales los políticos no ven y no entienden lo que yo hago es que partimos de premisas distintas. Ellos parten en un supuesto donde creen que la gente los ama, y yo parto del supuesto de que son una mierda, que la gente los desprecia, y yo parto de la gente que no les gusta y que no les gusta y que no les gusta y que no les gusta, son una mierda, y la gente los desprecia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7638
+}

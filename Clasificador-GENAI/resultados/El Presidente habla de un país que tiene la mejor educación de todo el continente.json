@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.378,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y vamos a arrancar con lo que ya es una campaña electoral lanzada en este 2023, que, como les venimos diciendo, se va dando a diario en los destinos turísticos más importantes de la República Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Fracasada la sociedad con la mejor salud pública del continente, con una educación pública que dio cinco premios Nobel? ¿Fracasada la sociedad que jugó y condenó a los que no se iban, que recuperó la democracia a dirito de \"nunca más\" y la defendió para siempre?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Somos una sociedad solidaria y tratada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos quieren desanimar los mismos que quieren adueñarse de la patria hablando de una victoria con un fracaso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digamos, este título, la Argentina se lo ganó mucho antes de la llegada de Alberto Fernández y bastante en deterioro vino la educación, no solo por el gobierno de Alberto Fernández, sino por los sucesivos gobiernos de los últimos años.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, hay un premio Nobel en 1970, premio Nobel de Economía que dijo que en el mundo había cuatro países: Estados Unidos, la Unión Soviética, plena Guerra Fría, Japón y Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si vamos al caso, bueno, Macri, Macri, Macri, pero Macri, es decir, se ha centrado, o se centra, se centra el discurso del gobierno, a tres años ya de gobierno, justamente, se centra en lo heredado, en lo anterior.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "También el canciller, el canciller compara a Macri con Bolsonaro y con Donald Trump.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la verdad es que pegarle a Macri no es curar las heridas, alzar la frente y mirar hacia adelante, sino que es, a ver, ver el futuro con el espejo retrovisor.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3236
+}

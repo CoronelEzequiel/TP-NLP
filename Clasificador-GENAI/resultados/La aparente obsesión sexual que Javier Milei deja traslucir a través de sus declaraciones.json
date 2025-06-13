@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La banalización de los delitos sexuales contra niños por parte de un presidente es algo absolutamente desconcertante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En definitiva, el capitalista es exitoso, ex-ex-exitoso porque es un benefactor social.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los partidos de izquierda, por ejemplo, durante el siglo XX, fueron bancos del enojo y tenían esa función.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Parimos como sociedad un fenómeno como Javier Milei por la frustración de no alcanzar las metas individuales y colectivas que dejaron el kirchnerismo y el macrismo?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3285
+}

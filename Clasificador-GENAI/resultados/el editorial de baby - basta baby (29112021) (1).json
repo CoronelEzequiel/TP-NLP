@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esto es el extremo del libertinaje, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No le podés dar a este par de hijas de mil puta la tenencia de una criatura.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto, cuando se te deja hacer cualquier cosa y darle la libertad absoluta a estos monos, es como darle un arma a alguien que no sabe tirar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que tomar de tirisvilo al hombre y creer que todos los hombres hay que matarlos, como ya he visto en la Avenida Callao, pintado: \"macho bueno, macho muerto\", \"muerte al macho\", y en este caso, muerte al machito, porque el nene tenía pene y ya pasaba a ser un enemigo en potencia para este par de hijas de puta viciosas, hijas de puta y asesinas, que la verdad les digo, y por más que mañana se hagan el festín del bavi, me gustaría que estas hubiesen hecho lo mismo en un país con pena de muerte y que las frían en una silla eléctrica.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Volvemos a Focazzero, por supuesto, de estos tipos hay que sacarlos de la justicia, es urgente y, si es posible, meterlos en cana y ya que estamos, barra la cárcel para cuando entre Cristina, porque a la corta o a la larga va a tener que caer, y se van acabando ya las cuartadas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2915
+}

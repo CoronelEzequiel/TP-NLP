@@ -1,0 +1,41 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es un día importante para la receta económica que lleva adelante Mauricio Macri, porque después de largas negociaciones que se llevaron a cabo durante el fin de semana, que, al parecer, finalizaron anoche, es decir, a última hora, se logró lo que parece una especie de paradoja: en la zona de no intervención cambiaria, que así se decidió llamar a este esquema de bandas que no serían estrictamente bandas, va a haber intervención cambiaria.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto satisface a quienes pensaban, y son muchos los economistas, que era imposible mantener un régimen de acuerdo de precios, de control de la inflación y una expectativa de inflación que puede llegar al 25%, porque la banda es muy ancha.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué se pretende? Uno podría decir: están tratando de lograr un dólar adecuado a las necesidades de la economía argentina, para que la economía argentina tenga el nivel de competitividad necesario y las empresas exportadoras puedan exportar como corresponde y generar la cantidad de dólares que necesitamos para que siga funcionando la economía.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El objetivo es lograr estabilizar el tipo de cambio, estabilizar el precio del dólar, ¿por qué? Porque la candidatura de Macri sube y baja en su consistencia atada al precio del dólar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cambiemos es el vehículo de esa sociología no kirchnerista o, para ponerlo en los términos que usan algunos, un término muy indiscutible, no populista.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si yo digo un día que no soy candidato, no solamente no vamos a ganar la elección con otro candidato, sino que no terminamos el gobierno. Porque el peronismo me va a ver débil, va a ver que hay un candidato mucho más desafiante y el kirchnerismo va a generar un clima de obstrucción e inestabilidad, que me voy a hundir yo como presidente y se va a hundir nuestro candidato.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5664
+}

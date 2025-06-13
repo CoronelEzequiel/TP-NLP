@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.461,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los rumores y las versiones acerca de futuros cambios de gabinete nos hacen preguntarnos sobre una especie de nueva y relativa fortaleza del gobierno de Javier Milei, luego de la aprobación de la ley de Bases.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy el gobierno necesita vender futuro, construir, al igual que pudo hacerlo Moisés, la idea de una tierra prometida, un lugar donde llegar para que la sociedad argentina aguante las privaciones y las angustias del presente en pos de un futuro próspero.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde La Libertad Avanza, para el segundo semestre del 2024, entendemos que, ya aprobada la ley de Bases y punto de partida para la libertad de los argentinos y el paquete fiscal, vamos a poder pensar en una eliminación del impuesto país y una eliminación del cepo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero hay datos, al mismo tiempo, muy preocupantes sobre la actividad, sobre el consumo, que permiten pensar que gran parte de la población no percibe en carne propia lo que para el gobierno son éxitos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien el ministro de Economía sería una de las claves de los cambios que se vienen para el segundo semestre, no es la única clave.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei mismo, en una entrevista que había hecho con Majul, dijo que pasada la prueba de la ley de Bases, se hace una evaluación y se hará una evaluación de lo que fue la primera etapa del gobierno y, textualmente, todos los ministros están bajo la lupa.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pettovello quedó debilitada luego del escándalo que significaron, primero, las denuncias de no entrega de alimentos a comedores barriales en un contexto de crecientes por ese, luego, el destape de contrataciones truchas, se podría decir así, dentro de su ministerio, que terminó con su segundo al mando fuera de la mega cartera.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El segundo semestre sería entonces la tierra prometida de Javier Milei, idea por la cual deberíamos atravesar el desierto de la justa y de la austeridad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los próximos meses dirán cuál de las dos excepciones que se aplican a la palabra utopía serán las que correspondan al gobierno de Javier Milei, por lo pronto, es posible que haya cambios en la política del gobierno de cara a una segunda mitad de año, por eso nos vamos a despedir nuevamente con la misma canción que abrimos, que llevaba como título Segundo Plan.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4921
+}

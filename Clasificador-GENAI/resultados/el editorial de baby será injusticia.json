@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.629,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Detesto a [Nombre del individuo], me parece un delincuente común.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si a alguien no se le dice si es culpable o inocente, eso me molesta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En cualquier momento pueden venir algunos con la bandera… y nos hacen pelota el país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, te pido un favor: no hables del aborto porque se enoja el Papa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que pacificar la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si te gusta Macri, vótalo. Si te gusta Alberto, vótalo. Pero cuando llegues al poder, demuestra lo que sabes hacer.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese poder de los miserables, de los genuflexos, de los chupaculos…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2095
+}

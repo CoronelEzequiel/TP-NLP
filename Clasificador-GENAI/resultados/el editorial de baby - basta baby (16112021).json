@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Antes quiero decirle a la oposición que se está preparando el operativo, con los pañuelos verdes de nuevo, para perseguir y difamar a la gente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La idea es callarnos a Alfredo Leuco, a Jonatan Viale, a los  Leuco, a los  Grünwald, a Majul.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo soy uno de los que no lo ve. Pero realmente, lo llevé y se lo presenté a Infante.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y cuanto más adulador sos en los medios de Cristóbal López, no importa si estás adentro, tenés que ser muy…",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero si Vavi… Vavi es un payaso, ni él se cree lo que dice.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1717
+}

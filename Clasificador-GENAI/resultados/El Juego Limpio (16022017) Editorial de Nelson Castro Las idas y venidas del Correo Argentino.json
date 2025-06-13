@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Entonces, a una deuda que era de un peso, para decirlo en términos concretos, se la terminaba pagando por dos, algo que no es admisible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mauricio Macri se defiende y dice que el Estado no cumplió con ninguna de las condiciones, pero en realidad, ellos tampoco cumplieron.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es verdad que el kirchnerismo no hizo absolutamente nada. El kirchnerismo ahora se defiende y dice: \"No, nosotros no hicimos nada porque, en realidad, Macri quería pagar esto, lo que valía uno, quería pagar dos pesos\". Pero, como es sabido, los argumentos del kirchnerismo tienen a la mentira como base de casi todo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Franco Macri fue un hombre de una cercanía fenomenal al kirchnerismo, con una habilidad notable. De ser vilipendiado y criticado por Néstor Kirchner cuando se adjudicó el contrato, pasó a tener una cercanía increíble.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde un punto de vista político, el presidente ha dado un paso correcto, al decir que esto no se sostiene. Y ha estado bien, además, en hacerlo en la conferencia de prensa y en responder preguntas de todo tipo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2067
+}

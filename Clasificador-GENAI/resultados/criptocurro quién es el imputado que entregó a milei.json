@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_criptomonedas_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿qué pasa si decimos que la idea de Javier Milei y su equipo era tokenizar el país, básicamente? Todos los activos, un banco cripto y que quizás el Banco Central desaparezca.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sergio tenía un vínculo directo con Karina Milei, ya que formó parte de la Secretaría de Presidencia. Pero al revisar el currículum completo de Sergio Morales, es interesante ver cómo él mismo, afirma ser director de la parte de blockchain y fintech de la UTN, lo cual es falso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay posibilidad de que se salve, será acusando a alguien de mayor jerarquía. ¿Y quién está por encima? Solo Karina Milei y él.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué Milei no tomó distancia de Hayden Davis? ¿Por qué es reacio a criticar a Novelli, Terrones Godoy y Morales?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2275
+}

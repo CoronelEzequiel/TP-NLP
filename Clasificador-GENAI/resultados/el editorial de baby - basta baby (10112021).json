@@ -1,0 +1,41 @@
+{
+  "texto_id": "El discurso que presencié fue una masacre",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy lo escuché con Romina Manguel y Berni. Dijo que estaba a favor de la pena de muerte.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece un retroceso a la Edad de Piedra, un \"ojo por ojo\".",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En cambio, se privilegia sacar el campo del campo y entregárselo a los delincuentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner no es valiente, ni líder. Es miedosa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Debería llamarse \"Príncipe\", no Delía. Es el mayor sinvergüenza de Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como son tan estúpidos y antisemitas, ya no nos asustan más. Ahora el poder lo tiene el pueblo, y lo demostraremos el domingo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2335
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El fenómeno Milei que ha logrado por primera vez que el Fondo Monetario Internacional quede a la izquierda del gobierno argentino.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta especie de, que muchas veces se utiliza en política, de cortina de humo, de tirar bombas para que se hable de lo que quiero que se hable cuando estamos haciendo otro tipo de cosas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos haciendo el ajuste más grande de la historia argentina y mi imagen está en los mismos niveles de cuando asumí.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero los jubilados... Bueno, está bien, estás ajustando a los más chicos también, ¿no? Porque ahí tenés más de 60% de pobres, en realidad tenés dos tercios de pobres ahí.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un cierre que tiene una idea profundamente ideológica. Y lo explicó ayer incluso el presidente Milei. Ellos no creen en este tipo de instrumentos, no creen en el Estado, no creen en el Estado intercediendo en la sociedad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que fundamentalmente acá lo que hay es un DNU muy perverso, es un DNU que ataca a la gente, que ataca al ciudadano común, al hombre de a pie, que tiene un nombre y apellido que se llama Sturzenegger, es el ideólogo de este DNU que con una perversidad, con una animosidad contra la gente y además burlándose, no ya de los legisladores de la oposición como somos nosotros, sino de los mismos legisladores, sacó un video mostrando que él había hecho el DNU o la ley Ómnibus y después cuando hace la conferencia de prensa el presidente, él como custodio se muestra allí diciendo acá estoy yo para garantizar que esto se aplique y este DNU le está causando graves perjuicios a la medicina prepaga, le está causando graves perjuicios a los que tienen escuelas privadas, obviamente la tarifa de transporte, los servicios públicos, los inquilinos, es decir, no hay sector del pueblo argentino que él no haya querido con esta perversidad, animosidad y alevosía que tiene en contra de la gente afectarla.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6162
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Milagro Sala está convencida de que perdió la agenda desde que se descubrió el deterioro de los alimentos y quiere recuperarla metiendo preso a Juan Grabois.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos periodistas, que llaman a Grabois 'gerente de la pobreza', presentan una narrativa sesgada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mire cómo todos los gobiernos de derecha que recortan derechos y transfieren ingresos de la población a las élites, no son considerados culpables.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha le apunta a los líderes para romper la organización de los pobres y así empobrecerlos sin resistencia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En los próximos días verán a estos periodistas afines al poder económico, Majul y Viale, generar odio contra Grabois para justificar un futuro intento de encarcelamiento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1325
+}

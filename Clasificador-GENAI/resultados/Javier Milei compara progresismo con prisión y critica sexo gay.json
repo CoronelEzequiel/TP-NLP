@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.275,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Más allá de que ítems como el de \"solo las personas de la fuerza tengan armas\" o el de \"salud y educación gratis\" y que todos tengan el mismo trato, pueden ser aspectos verdaderamente deseables para cualquier sociedad democrática, y no solamente un aspiracional para los pobres, llama la atención la particularidad de la frase \"mucho sexo gay\" como una crítica o burla hacia la gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto constituye prostitución, donde el problema no radica en el acuerdo de partes en sí, sino que el problema radica en que las acciones de Alberto Fernández estarían siendo soportadas, pagadas por los impuestos pagados por los argentinos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El discurso de Milei, la actuación pública de Milei, demuestra que goza haciéndole el daño al otro. Esto es sadismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al colocar \"mucho sexo gay\" como una burla, evidentemente ese rasgo homófobo no es un patrimonio solo libertario.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4192
+}

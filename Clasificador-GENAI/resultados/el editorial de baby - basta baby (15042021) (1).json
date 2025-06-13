@@ -1,0 +1,36 @@
+{
+  "texto_id": "El piso está caliente",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.88,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Usted marcó otro hito en su carrera: empezó a ser antipático, porque hasta ahora era el pobre Alberto, manejado por Cristina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo peor que hizo ayer, y lo que creo que más indignó al pueblo además de encerrarnos en un campo de concentración, fue que esta noche, gracias a usted, hay 200 personas por local nocturno en Palermo tomando cerveza y emborrachándose porque era la última noche que podían salir.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los chicos con capacidades diferentes son seres que jamás se robarían seis millones de dólares y los pondrían en una caja fuerte de un banco, y mucho menos un PBI completo, y mucho menos saldrían a mentir diciendo que los encierran para hacerles bien, porque no tienen la maldad que usted tiene, Alberto, la que tiene su jefa, la que ahora estamos descubriendo en Kicillof.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Realmente, como ciudadano, considero que usted es el peor presidente de la historia argentina, y como ciudadano considero que los que están a su alrededor, en muchos casos, son corruptos y nos robaron el país, y que no son ni los chicos de los colegios, ni los chicos con capacidades diferentes, ni los médicos los que se relajaron; busque a los relajados que tiene alrededor.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso le digo, mi querido Alberto, no somos tontos. No está gobernando a giles. Se le acabaron los tiempos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2481
+}

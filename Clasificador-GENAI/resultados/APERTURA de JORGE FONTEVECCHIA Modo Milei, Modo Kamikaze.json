@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Milei apuesta siempre a todo o nada, pero esta vez su contrincante no dobló y lo que terminó \"chocando\" fue la Ley Ómnibus.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pasó entonces que la caída de popularidad de Milei, pasó también la falta de *expertise* del gobierno, y que, evidentemente, no se puede cambiar estructuralmente un país en contra de una amplia mayoría parlamentaria representada en la sociedad, en dos meses.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es Milei acelerando el auto, esperando que el contrincante doble, pero la política es mucho más compleja que la teoría de los juegos, llamada en Estados Unidos, o vulgarmente, este juego de los autos que se enfrentan, \"juego de gallinas\", así lo llaman en Estados Unidos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si no me votan todo lo que me gusta, saco la votación primero\", como ya dijimos, o sea, lo saco de la votación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ajuste tendrá que ser mayor. La casta sabe que estaba obstruyendo el cambio que la gente votó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El pueblo jamás olvidará los nombres de aquellos que, pudiendo facilitar las reformas que fueron elegidas por el 56% de la Argentina, decidieron seguir haciéndole el juego a la casta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es increíble que, entre los nombres de quienes votaron en contra del pueblo, enemigos de la patria, está el nombre de **Nicolás Massot**, que es un político que tiene posiciones similares en varios temas con el gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5823
+}

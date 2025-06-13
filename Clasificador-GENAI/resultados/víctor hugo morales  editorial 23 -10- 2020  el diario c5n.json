@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No se puede jugar con estas cosas. No se puede hacer algo políticamente cuando la situación pasa por otro lado. El deseo de desmarcarse del gobierno de la provincia de Buenos Aires llevó al intendente de Tandil a adoptar esas medidas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo más grave que se ha hecho es anteponer los intereses políticos, y esto ocurre en los Estados Unidos ahora mismo. Lo hizo Trump y lo padece.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que ponerlo en contexto. Si usted no sabe por qué está pasando esto, es grave. Sucede porque hay un mercado que va contra el gobierno, arremete contra él mismo. Es un mercado golpista, que no quiere un gobierno de esta naturaleza.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obama fue muy bueno para adentro de los Estados Unidos con los sistemas de salud, etc., pero Obama no solucionó Guantánamo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ellos se manejan de esta forma. ¿Acaso tengan que afrontar consecuencias en algún momento en el plano jurídico? A las otras no les temen.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7123
+}

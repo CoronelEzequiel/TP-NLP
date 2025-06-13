@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner dijo que había en el aviso fúnebre un tal Manu Avellera que era… ¿Cómo se llama este? Pepín.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner. Manu Avellera, además de un negocio, le suministraba los convertidores de Directivis para hablar en la villa gratis.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, ¿de dónde sacaste, maestra, que el Banco, no que el Banco Finansur, que la guita era de Macri que tiró López?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es para defender a Macri, es para contar la verdad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, cuando vos, hoy te hiciste la que habías descubierto en el agujero del mate, acá hay un tal… no lo voy a nombrar porque está muerto, porque ayer le pegaste a dos muertos, a tu marido y a este muchacho.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y el fiscal está trabajando.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, le quería contar estos dos casos de mentiras de Cristina Fernández de Kirchner y de todo el séquito del parrilla y de ese fascismo que tienen de la sida que amenaza a la gente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2859
+}

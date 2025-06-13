@@ -1,0 +1,101 @@
+{
+  "texto_id": "Milagros Sala en Radio 10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.158,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Quiero preguntarte sobre tu salud, las últimas noticias, y tu visita al Presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estoy en mi domicilio, bajo tratamiento ambulatorio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sé que algunos pueden pensar que, por una amistad o conocimiento previo, te voy a hacer preguntas suaves.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero que preguntes lo que quieras sin ningún tipo de restricción.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tengo la conciencia tranquila.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella dice que lleva 26 años a mi lado, pero la conocí dentro de la Tupac Amaru, así que eso ya es una mentira.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es fácil hablar, fácil acusar, como lo hace Morales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es mentira que he realizado 80 viajes al exterior.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la década de 1990, cuando el país estaba destruido, creamos la Tupac Amaru para ayudar a los desempleados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Jujuy, en menos de 10 años, se destituyó a cuatro gobernadores por corrupción.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Morales dice que no terminamos de construir mil viviendas.  Eso es falso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él está desalojando a nuestros compañeros de sus casas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jujuy vive bajo una dictadura.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El negocio del litio en Jujuy favorece a Morales y perjudica a los jujeños, quienes reciben boletas de luz con un aumento del 300%.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me molesta la hipocresía de algunos, como la de Lilita Carrió, que dice que el gobierno de Morales es limpio, a pesar de la corrupción evidente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jujuy es un laboratorio político.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero justicia.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Morales quiere pegarse un tiro, que lo haga, pero que luego vaya a la cárcel por todo el daño que ha causado a Jujuy.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4042
+}

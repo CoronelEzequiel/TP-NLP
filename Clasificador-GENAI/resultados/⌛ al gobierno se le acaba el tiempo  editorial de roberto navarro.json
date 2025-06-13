@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El agotamiento del gobierno va a tono con el agotamiento de los mercados y el cansancio social, que lleva a entidades como la Iglesia Católica a advertir en apenas cinco meses sobre el peligro de las políticas de \"la ley\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay un tropiezo económico, el responsable posible es el Presidente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"La ley\" ya se peleó con los principales socios del país, con los gobernadores, con los legisladores, con sindicalistas, con organizaciones sociales y medios de comunicación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El campo quiere obligar al gobierno a devaluar el dólar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un gobierno agotado que consumió su poder velozmente ahora tendrá que enfrentar al enemigo histórico de todo gobierno nacional: la escasez de dólares.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy dijo una barbaridad sobre el Presidente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno se le acaba el tiempo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1624
+}

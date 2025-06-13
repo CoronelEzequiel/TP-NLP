@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mi trabajo se centra en un sentimiento político que, si bien se ha mencionado, no se ha enfatizado lo suficiente: el resentimiento político.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es interesante que una política progresiva e inclusiva como la de Lula generara una reacción en quienes veían acercarse a un sector de la población al que no querían acercarse.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, quizás el movimiento fue simétricamente opuesto: la incapacidad del gobierno anterior para cambiar la realidad de la mayoría, que había rechazado a Macri y a la derecha, condujo a una derecha aún peor.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derrota de la extrema derecha no se logra solo con campañas en redes sociales o medios de comunicación; en Argentina, por ejemplo, fue el peronismo el que contribuyó a ello.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál es un punto débil de la ultraderecha a nivel internacional? La dificultad para sostener un movimiento político basado en el antielitismo dentro de un sistema económico y político que profundiza las desigualdades.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sorprende el regreso de Trump tras el fracaso de su primer gobierno.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2667
+}

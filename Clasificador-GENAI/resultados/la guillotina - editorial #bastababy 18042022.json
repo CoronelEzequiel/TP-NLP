@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo único que hacen es desmantelar el Estado y lo único que se les ocurre es sacar más dinero de algún lado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sale a defender a Venezuela y a decir que hay que ayudar a Venezuela, como si él fuera alguien que pueda ayudar a Venezuela.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si en las próximas elecciones se postula Macri, lo voto con las dos manos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La única salida sería indemnizar a Cristina, que se lleve todo su dinero y no vuelva más.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso hago lo que quiero y digo lo que quiero y me siguen teniendo en cuenta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Realmente es un desastre la situación del país. No le veo salida.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1973
+}

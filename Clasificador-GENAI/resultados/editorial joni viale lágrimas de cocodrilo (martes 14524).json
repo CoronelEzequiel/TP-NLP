@@ -1,0 +1,36 @@
+{
+  "texto_id": "llantos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.86,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Entre 2015 y 2019, durante el gobierno de Macri, el de la derecha, hubo en Argentina mucha lágrima, mucha, lloraba gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Volvió Cristina, volvió Alberto, volvió Massa, volvió el kirchnerismo y las lágrimas desaparecieron. Como por arte de magia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no te duele el frío cuando gobierna Alberto? En serio lo pregunto. ¿Por qué no te duele el hambre cuando gobierna Cristina? ¿Es solamente cuando gobierna la derecha?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cambió el gobierno. Ganó la derecha, la Libertad Avanza. Hubo un cambio. Se fue el kirchnerismo. Y llegó Javier Milei. Y adivinen, ¿qué pasó? ¿Qué pasó? ¿Qué pasó? ¿Qué pasó? ¿Qué pasó? Y llegó Javier Milei. Y adivinen, ¿qué? No lo vas a poder creer. ¿Sabés qué? Volvieron. Volvieron las lágrimas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie llora por esto, ¿no? A nadie le duele que el Polo Obrero le robe la plata a los pobres? ¿O somos nosotros solamente los estúpidos que nos indignamos con esto?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5310
+}

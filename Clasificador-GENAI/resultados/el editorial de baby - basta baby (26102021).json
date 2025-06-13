@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.592,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Siempre loco, siempre loco, aquí no nos vamos, tengo mucho miedo de que venga la maga.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando vean esto, yo estaré descantando porque no doy más; no me da la voz, ni las fuerzas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo mejor es que te atrae a las cámaras, ya lo dije anoche.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¡Grande el que me hace el aguante!",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hice una presentación; quería dejar presentaciones.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un día estaba comiendo en un boliche de Pilar, que se llama Tinto y Soda, y me encontré con Claudio Huberti, a quien no conocía.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me contó que esta mujer ahora aparece, porque empiezan los arrepentidos de Maduro, y tiene que ver con una historia que yo cuento siempre, que es ficción, no sé si es real, la del Mercosur.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los países necesitaban blanquear el dinero del narcotráfico, que son los financieros de Latinoamérica; o sea, Latinoamérica es de los narcotraficantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esta película que estoy escribiendo, mueren, por casualidad o por destino, Chávez y Néstor Kirchner, que eran los dos intermediarios que se quedaban con una parte de todos los negocios del Mercosur.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y entonces necesitan un paraguas de protección.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Néstor Kirchner era el marido de Cristina Fernández de Kirchner, padre de Máximo Kirchner, a quien en un momento lo quitaron y lo hicieron emular como un prócer.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, esto es para que vayan descubriendo a quién tienen que votar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2434
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Afirma ser ingeniero industrial, lo cual es falso, ya que no está recibido ni figura en el registro público de ingenieros, según nuestra verificación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue felicitado por el diputado Agustín Romo por, según se dice, haber dejado un trabajo próspero en el sector privado para aceptar un cargo en el Estado con la mitad del salario.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sermeño no solo encabeza este grupo empresarial, sino que también estuvo involucrado en la campaña de Bolsonaro y es acusado de participar en el intento de golpe de Estado contra Lula.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este grupo está involucrado en la difusión de noticias falsas y amenazas a través de las redes sociales, utilizando el algoritmo de Irigoyen, y coordinando acciones con influencers, a quienes llaman \"cuasimodos\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se caracterizan por denigrar a los empleados estatales, llamándolos \"ñoquis\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1093
+}

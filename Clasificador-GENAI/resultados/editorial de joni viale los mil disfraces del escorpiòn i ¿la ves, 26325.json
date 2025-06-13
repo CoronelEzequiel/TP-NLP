@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.768,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hasta que alguien se dio cuenta de que, en realidad, se trataba de un escorpión venenoso y traicionero.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo lo definiría como descomposición institucional, en un marco grave de la economía que atraviesa hoy la República Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa llegó a decir que a los jubilados les alcanzaba para llegar a fin de mes con 120.000 pesos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta misma gente organiza la marcha de les jubilades.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una jubilación no es retribuir el esfuerzo que hizo un laburante toda su vida.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Odian al imperio, pero van a Miami.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Destrozan a Elon Musk, pero usan Twitter, todo Twitter.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo es, siempre y en todo lugar, una enorme contradicción moral y material.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El populismo dinamitó el sistema previsional incorporando 5, 6 millones de personas vía moratoria.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, volvemos a la ingeniería del caos que estamos viendo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está clarísimo que el dólar a mil pesos o mil cien no va más.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo se los dije ayer.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La devaluación como última esperanza del kirchnerismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si falla el caos en la calle, lo que decía D'Orazio, queda una última bala: que haya corrida cambiaria, que ellos niegan, ellos dicen, \"Acá no hay corrida\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3435
+}

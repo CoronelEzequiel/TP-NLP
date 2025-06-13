@@ -1,0 +1,51 @@
+{
+  "texto_id": "26 de agosto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.288,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Peronismo y radicalismo unieron fuerzas en el Congreso y bloquearon de manera contundente la avanzada del gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para analizar esto, que en otros países del mundo se llama \"cordón sanitario\" contra la extrema derecha, un fenómeno que no se constituyó durante el balotaje pero podría constituirse quizás en el Congreso de manera más permanente, abrimos esta columna escuchando el cerco de resistencia suburbana.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El llamado \"progresismo\" se \"ayorna\", se modera y hasta toma puntos de la agenda de su oponente; y por el contrario, el de la derecha se radicaliza hasta llegar a teorías conspirativas como el negacionismo climático y otro tipo de posiciones anticientíficas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En España, el PSOE de Pedro Sánchez se reinventó y ganó la presidencia aliado a Podemos de Pablo Iglesias con una campaña antifascista contra Vox, una organización reivindicadora de la dictadura de Franco y que organiza eventos internacionales en los que se reúne la extrema derecha de varios países y ha participado allí nuestro presidente Javier Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, las votaciones contra el DNU, el cambio de fórmula jubilatoria y la movilización contra la quita de presupuesto a las universidades nacionales parecen estar mostrando indicios de una especie de frente de acción o coordinación parlamentaria para controlar los excesos del gobierno de Javier Milei.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿las fuerzas democráticas, del progresismo, de centro y de centro derecha podrán construir una alternativa electoral con consistencia interna y competitividad electoral para derrotar a Milei en las próximas elecciones?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Libertad Avanza devaluó inicialmente la moneda argentina 118%. Hay cientos de leyes modificadas por un DNU que aún continúa vigente, y aprobó en la Ley Bases 200 artículos que cambian en gran medida parte de la vida económica y social del país.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Del cordón sanitario a la derecha a nivel mundial, al control parlamentario de la Argentina. Tal vez todo este proceso termine en un gobierno democrático de contención al avance de la extrema derecha.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4630
+}

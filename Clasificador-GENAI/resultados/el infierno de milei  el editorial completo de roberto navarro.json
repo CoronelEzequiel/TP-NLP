@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.021,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, resulta vergonzoso que estén celebrando con un asado mientras se les niega un aumento de 13.000 pesos a los jubilados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si compro comida, no puedo comprar medicinas; si compro medicinas, no como.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡No tienen vergüenza, ni respeto, y encima nos reprimen!",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una miseria de aumento; y hoy lo celebran.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "20.000 pesos para los funcionarios, mientras mi esposo, con cáncer, necesita 8.600.000 pesos para sus medicamentos, y el PAMI no se los proporciona.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos un paro general con concentración y movilización.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Han pasado 10 meses desde que asumió el gobierno actual, y el país presenta un panorama desolador.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Robaron un 20% del salario a los trabajadores.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se está restringiendo el derecho a huelga y a la protesta.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les bajaron los ingresos a los jubilados, les quitaron sus medicamentos, y triplicaron el monto de sus facturas de luz y gas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina no es un país pobre, es un país injusto.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos una gran manifestación.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No dejemos que maten a nuestros mayores.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2619
+}

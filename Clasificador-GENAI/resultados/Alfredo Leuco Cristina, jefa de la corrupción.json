@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Anoche, una investigación periodística exhibió nuevas pruebas que confirman que Cristina Fernández de Kirchner fue la jefa del plan sistemático de corrupción K.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se descubrieron cientos de llamadas de la Casa Rosada a varios de los implicados en esta estafa monumental al pueblo argentino.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ningún gobierno democrático cometió tantos delitos por tanto dinero y por tanto tiempo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La responsabilizan de ser la jefa de una asociación ilícita que durante 12 años recaudó fondos ilegales y coimas que aportaban contratistas del Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Cristina se la acusa concretamente de haber cobrado coimas en 40 oportunidades por un monto superior a los 19 millones de dólares.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya nadie puede dudar que fue la jefa que sucedió a Néstor, el jefe.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire, los Kirchner batieron todos los récords de bulimia por el poder y por el dinero y produjeron los 12 años de mayor corrupción de la historia argentina democrática y, probablemente, del mundo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, no hay nada más que probar, ya está todo probado.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2292
+}

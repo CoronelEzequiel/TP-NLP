@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.764,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En primer lugar, quiero felicitar al intendente de Tigre por su maravillosa gestión en la situación, junto a la gente de la provincia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy hubo una marcha por la impunidad de los delincuentes, por los presos políticos, supuestamente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece madura la actitud de los canales que no enviaron móviles a cubrir la marcha.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vienen épocas difíciles para Argentina; hay que apoyar, poner el hombro y no entorpecer.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Toda esa gente debe estar en la cárcel.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso luchamos por un Estado de Derecho para que mañana tengas una agencia de motos con 20 o 30 motos que repartan pizzas y seas millonario.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, usted votó para que los que se robaron el dinero en la etapa anterior puedan disfrutar de lo robado y no ir a prisión.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2055
+}

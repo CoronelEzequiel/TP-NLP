@@ -1,0 +1,51 @@
+{
+  "texto_id": "despidos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.106,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer nos despidieron a todos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En general, los periodistas nos informan, nos piden ayuda y nos solicitan que difundamos la situación.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso digo que nos despidieron a todos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y sí, vos, empresario rural, ¿cómo vas a saber ahora si se viene una tormenta, si hay granizo o si se viene una helada?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y todos estos despidos tienen que ver con tu vida cotidiana, con tus derechos y con la organización de tu vida, que te la garantizan los trabajadores estatales, quienes realizan un enorme trabajo, en general mal pago, para que vos, trabajador del sector privado, comerciante del sector privado o empresario del sector privado, puedas llevar adelante tu vida porque hay alguien que se está ocupando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es mentira que el Estado no sirve. No habría capitalismo sin Estado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer lo que hizo el gobierno de Milei fue despedirte a vos. Despedir tus derechos, tu posibilidad de progresar, tu posibilidad de comerciar, tu posibilidad de producir.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y quiero dejarles este mensaje a los miles y miles de trabajadores estatales que van a pasar un fin de semana horroroso y que a partir de la semana que viene tienen que empezar a buscar trabajo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2606
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Agosto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Macri giró y apoya ahora al presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"La mayoría de los senadores que ahora expresan su preocupación por los ingresos de los jubilados son los mismos que se opusieron con vehemencia al cierre y venta de empresas del Estado deficitarias y llenas de corrupción.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, voy a asegurarles que las universidades públicas del conurbano no son un despilfarro, sino un elemento fundamental para la movilidad social argentina, pero bueno, esta es la opinión del expresidente Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El Congreso Nacional, en un acto de populismo demagógico, sancionó un proyecto de ley irresponsable, ilegal e inconstitucional que establece gastos exorbitantes sin su correspondiente partida presupuestaria, lo que implicaría necesariamente que el gobierno vuelva a caer en las viejas prácticas de la emisión monetaria, el aumento de impuestos o el endeudamiento, que son las mismas recetas que nos han llevado al fracaso durante los últimos 100 años.\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no tengo dudas de que quieren romper este gobierno, porque si a este gobierno le va bien, va a significar que los argentinos van a estar mucho mejor y estas ratas no vuelven más, estas ratas no vuelven más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5296
+}

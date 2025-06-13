@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay que transmitir los partidos del Mundial en las escuelas. Esto es en lo que están pensando nuestros políticos, nuestro gobierno, el ministro de Educación, Ministro de Educación de la Nación. Hay que transmitir los partidos del Mundial en las escuelas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner y Sergio Massa otorgaron un aumento del 69% para los trabajadores del Congreso. La mayoría de los argentinos que vamos a ayudar a pagar ese aumento, la mayoría no estarían llegando a fin de mes, pero le tienen que pagar a toda la gente del Congreso, incluidos diputados y senadores, el 69% de aumento.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como decimos siempre, te quieren ignorante, pobre, te toman como un rehén. Te quieren comprar con un plan, con una limosna. Te quieren rehén del Estado, de la teta del Estado, no es justo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es impresionante cómo le han hecho mierda la cabeza a tanta gente. Les hicieron creer que el Estado se tiene que hacer cargo de todo y ellos no tienen que hacer absolutamente nada. No es justo. ¿Qué daño enorme le han hecho a este país los gerentes del pobrismo?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos quieren cobrar, pero no quieren trabajar. No es justo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Resulta que una vez naufragó un barco. Un barco naufragó, sí, lo va a repetir todo, no, no, no, simplemente para reafirmar lo que usted está diciendo. Estamos siendo, en el naufragio se salvaron solamente tres personas, dos hombres y una mujer, que fueron a dar a una pequeña islita sola, deshabitada, y no quita, dos hombres y una mujer. A los tres meses, la mujer, horrorizada con lo que estaba haciendo con los dos hombres, se suicidó. Tres meses después, los dos hombres, horrorizados con lo que estaban haciendo, la enterraron. Cualquier semejanza con la realidad es pura coincidencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Holanda puede vivir sin políticos, pero Holanda no puede vivir sin agricultores. Toma, no es justo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9017
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Realmente nosotros queremos justicia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este es un país sin justicia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero esto quiero sumarle a que nos dejemos de pensar un poquito en los desaparecidos, y hay que tener los cojones para decirlo, en los desaparecidos y en los hijos de los desaparecidos, y en Estela de Carlotto y Hebe de Bonafini, un poquito nada más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso mismo, estoy cansado de cada día, día y medio, conmemorar una desgracia por el incumplimiento de los funcionarios públicos, porque se afanaron las vías, o porque se afanaron un tren de aterrizaje de un avión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no me hice entender.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3411
+}

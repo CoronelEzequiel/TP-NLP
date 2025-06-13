@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.088,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Las declaraciones de sindicalistas que se resisten a aceptar el fin de los privilegios en Argentina contrastan con la actitud de algunos diputados que, aunque apoyaron el cambio en las urnas, luego intentaron traicionar su mandato.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente propuso limitar los mandatos, y le preguntamos a Pablo Moyano, secretario general de la CGT, y a Pablo Rialde, de Radio 10, su opinión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las palabras del presidente son ridículas; se arrastra con el Papa y reivindica a la dictadura militar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El cierre de Télam es el primer ‘sambonazo’ de los anuncios presidenciales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este señor presiona a gobernadores y diputados, pero con la CGT, tendrá una respuesta: una gran movilización o paro general.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La OIT garantiza el derecho a huelga.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo debe volver a ser una referencia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La CGT es un muro de contención contra el gobierno.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1815
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si bien aún es alto, representa una disminución significativa en comparación con los meses previos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto se relaciona con el concepto de \"miseria planificada\" (frase de Walsh), ya que se busca reducir la inflación a través de una drástica disminución del consumo, aumento de la pobreza y el desempleo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podríamos tener un país con un 15%-20% de desempleo, alta precarización laboral (actualmente, un 43% de trabajadores precarizados), pero con una clase media que, con un dólar estable y una inflación controlada, puede consumir mediante el crédito.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Existe una probabilidad de que Javier Milei gane las elecciones el año próximo, y otra de que el plan de \"miseria planificada\" fracase por diversas razones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El aspecto más relevante es que el plan de \"miseria planificada\" está funcionando en la actualidad, con bajadas de precios y una desaceleración de la inflación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2285
+}

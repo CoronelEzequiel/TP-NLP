@@ -1,0 +1,36 @@
+{
+  "texto_id": "El que nació en el Mediterráneo, Joan Manuel Serrat, hoy está cumpliendo 80 años.",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Parece mentira que hace un par de años algunos insultaron a Serrat y hasta le dijeron fascista porque estuvo en contra de la manera en que se formuló el referéndum por la independencia de Cataluña.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Serrat se convirtió en una bandera que nos dio letras para todo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era tanto el silencio y el miedo a que te secuestraran, que hasta escuchar a Serrat era todo un desafío.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gracias por todo, Joan Manuel, en tu cumpleaños de 80 me gustaría regalarte la vuelta olímpica del Barça con Kubala y el recuerdo de Messi de la mano, para que ningún niño se deje ya de joder con la pelota.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O una España donde nunca más corra la sangre por las calles, y nadie utilice el tiro en la nuca con los que piensan distinto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2705
+}

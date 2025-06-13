@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.046,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es importante destacar el rol trascendental que tienen los fotógrafos y reporteros gráficos en la construcción del relato y de la historia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Existe una foto emblemática de la dictadura militar que muestra cómo se construyó una *fake news* a partir de una imagen.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este represor agarró a la madre por la nuca y la apretó contra su pecho para callarla. No fue un abrazo de contención, sino un intento de silenciarla.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Coronel de Piano me dijo que esa foto no debía ser publicada, amenazándome a mí y a mi familia.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tu testimonio es muy representativo. Evocamos el comienzo de la dictadura cívico-militar y homenajeamos a los reporteros gráficos y periodistas que arriesgaron sus vidas para dar testimonio de lo que ocurría.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2232
+}

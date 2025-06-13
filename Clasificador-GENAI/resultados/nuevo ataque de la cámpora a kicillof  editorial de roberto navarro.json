@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.408,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que antes parecía un acto aislado, como el de Máximo Kirchner, ahora se percibe como el inicio de una especie de guerra cotidiana.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la entrevista, afirmó la necesidad de una autocrítica, señalando la falta de buena relación con los empresarios y mencionando a un ministro de economía que no dialogaba con ellos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mencionar como único ejemplo la falta de diálogo del ministro de economía con los empresarios refuerza los prejuicios generados por medios como Grupo Clarín, que lo suelen calificar de “pibe de la academia”, sin vínculos con el sector empresarial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación se está convirtiendo en un problema nacional, no solo para el peronismo, sino para todo el país, porque todos necesitan un gobierno menos debilitado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras la gente sufre, pasa hambre y se enfrenta a la precariedad, nosotros mostramos una imagen de divisiones internas, similar a la de los cuatro años de gobierno de Alberto Fernández.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si la gente percibe que solo se pelean por cargos, puede optar por un outsider, alguien que prometa ser mejor que Alberto Fernández, y que termine siendo otro político ineficiente.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2263
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vimos ayer en una reunión de la Sociedad Rural, reclamando pero fundamentalmente apoyando al presidente de extrema derecha porque, más allá de sus negocios coyunturales, la sociedad rural quiere un presidente de derecha, sin importar quién sea.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchos piensan que los hermanos Milei no tienen con qué durar cuatro años, pero que ese apoyo que ostentan puede transferirse a otro líder de derecha.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Curiosamente, los mismos que financiaron la campaña de Milei financian ahora a Guillermo Moreno, quien está adoptando un discurso cada vez más derechista.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Moreno confunde a muchos con su retórica peronista, pero está mostrando sus cartas, como lo hizo con la propuesta de alianza con Victoria Villarroel.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un audio y video muestran a Guillermo Moreno apoyando a Bolsonaro, quien provocó la muerte de cientos de miles de brasileños durante la pandemia y quien intentó un golpe de estado tras perder las elecciones.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Moreno, financiado por los mismos que apoyaron a Milei, se alía con una figura que muchos consideran cómplice de genocidas, una mujer que visitaba a Videla y que además apoyó a Trump, quien declaró \"Estados Unidos primero\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La derecha está peligrosamente cerca de convertir un gobierno democráticamente elegido en una dictadura de espionaje y extorsión.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peronismo debe definir una estrategia y enfrentar a esta derecha multifacética.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1684
+}

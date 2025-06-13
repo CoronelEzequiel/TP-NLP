@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.795,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En toda su gestión, **Alberto Fernández** ha demostrado estas características nefastas para conducir el estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según el informe de resiliencia de Bloomberg, Argentina quedó última en la tabla de posiciones, como el peor país para sobrellevar la pandemia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son crímenes de lesa humanidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llegó a la cima de la provocación cuando dijo que prefería tener un 10% más de pobreza y no 100.000 muertos, pero humilló a todos cuando amenazó a los que hicieran lo que él estaba haciendo durante la cuarentena estricta.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pregunta capciosa: el presidente **Fernández**, ¿de qué lado se ubica ahora que se conoció toda la verdad?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández** batió todos los récords de mamarrachos en sus declaraciones y acciones, permitiendo un desfile de peluqueros, coloristas, maquilladores, adiestradores de perros, vendedores de humo y hasta una tarotista.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son patéticos y sin vergüenza, porque ahora abren todo porque se vienen las elecciones y las encuestas les dan mal.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada piedra como homenaje a una persona fallecida. ",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ruegan que a nadie se le ocurra arrojar las piedras como hicieron en su momento con 14 toneladas grupos opositores al macrismo contra el Congreso Nacional.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora proponen dejarlas respetuosamente en el suelo como un alarido silencioso por el desgarro de la pérdida y para que nadie olvide a los muertos, y tampoco a un presidente \"chanta\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2385
+}

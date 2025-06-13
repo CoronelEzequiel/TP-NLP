@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.542,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La incorporación de Pichetto por parte de Mauricio Macri buscó ofrecer garantías de gobernabilidad, mayor volumen político para un eventual segundo mandato, y una mayor amplitud para encarar las reformas pendientes.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el aval de su origen peronista, Pichetto elevó el tono de la coalición oficial y propuso, entre otras medidas, una mayor presencia de Gendarmería en la Patagonia para garantizar la explotación de los recursos naturales, especialmente el petróleo, sin importar el daño ambiental; la flexibilización laboral, citando como ejemplo los convenios firmados por el sindicato petrolero; la reducción del gasto fiscal; y el cumplimiento de los compromisos internacionales, incluso si ello implicaba pagar la deuda a costa del pueblo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los grandes empresarios percibieron en la incorporación de un peronista a la coalición una garantía de triunfo para un futuro ajuste.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández y, ahora, Sergio Massa, representan ese camino hacia la moderación, o más precisamente, esa capitulación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La excepción es la izquierda, que ha ampliado su unidad y se dirige a las mayorías, no a los mercados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante este panorama, debemos elegir entre una apuesta política propia, aunque compleja, que responda a los trabajadores y las mayorías, o someternos a los dictados del mercado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1848
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.336,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si se liberalizan las tarifas, podríamos repetir la situación de los planes prepagos, donde el gobierno tuvo que dar marcha atrás.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En áreas esenciales para la vida cotidiana, el Estado debe tener poder de regulación, como se demostró con el caso de los prepagos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considero que no está en condiciones de asumir las tareas del Congreso.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las universidades carecen de presupuesto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A partir de ahora, el gobierno deberá enfocarse en la gestión (infraestructura, educación).",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bienes personales es un proyecto que Mauricio Macri intentó, disminuyendo el impuesto para eliminarlo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Libertad Avanza y los bloques dialoguistas intentarán evitar un conflicto judicial.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1695
+}

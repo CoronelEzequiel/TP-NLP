@@ -1,0 +1,31 @@
+{
+  "texto_id": "dialogo_peronista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "A veces yo me pregunto ¿para qué fui peronista? Porque la gran... ¿viste que uno se siente como que está solo, vio, general?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me viene mi familia, mi barrio, la casa que hicimos con el Plan Eva Perón, el Banco Hipotecario, que papá pagaba lo que serían 240 pesos, lo que sería el particular de 240, me acuerdo. Y le daba vergüenza pagar tan poco. Y con eso se hizo la casa, las vacaciones, todo, todo, todo. El vivir bien, la dignidad, el mirar a los ojos, no mirar así como un perro al que te van a cagar a palos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ir a Miami, porque viste que ellos quieren ir solo a Miami. Nosotros queremos que vayan todos, inclusive yo también, que me lo merezco.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "General, el peronismo no para de traicionar, no para de traicionar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1403
+}

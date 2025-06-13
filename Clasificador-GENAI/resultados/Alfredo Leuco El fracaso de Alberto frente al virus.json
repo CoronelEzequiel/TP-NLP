@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay demasiadas torpezas, mala praxis y sospechas de manejos tan oscuros que podrían encubrir algún tipo de corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gestión que el gobierno de los Fernández hizo de la pandemia es un verdadero desastre.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llegó la hora de llamar a las cosas por su nombre, basta de eufemismos y medias verdades.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Es consciente el presidente y su jefa política de que la gran mayoría de los argentinos podríamos estar inmunizados a esta hora si no hubieran cometido la salvajada de no acordar con Pfizer y el fondo COVAX, como lo hicieron en muchos países de la región?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Han muerto casi 63.000 argentinos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿me equivoco mucho si pienso que ustedes son pésimos administradores del Estado porque nunca trabajaron fuera de la política y el lobby, y que son muy malos negociadores porque están acostumbrados a someter al otro en lugar de buscar acuerdos de consenso?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2418
+}

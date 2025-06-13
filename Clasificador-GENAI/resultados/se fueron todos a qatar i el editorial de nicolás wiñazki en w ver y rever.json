@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Les contaremos sobre la \"coalición de la selección\": un grupo de políticos, un juez y sindicalistas que viajaron a Qatar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "López logró venderlo a la provincia por 10 millones de dólares, mucho más de su valor real.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La declaración de la ministra Kelly Olmos, sobre postergar el análisis de la inflación hasta después del Mundial, parece una medida a medias.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El doble discurso de los gobernantes genera irritación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay personas que ahorraron durante cuatro años para ir a Qatar, mientras que otros se enriquecieron en ese período.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una parte importante de la Argentina es pobre.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como funcionarios públicos, deberían cuidar las formas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1883
+}

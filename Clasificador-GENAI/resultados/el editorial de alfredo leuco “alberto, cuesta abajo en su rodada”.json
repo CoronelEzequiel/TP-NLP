@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.813,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández, el presidente en funciones de la nación, se ha dejado humillar de tal manera que, en cierto modo, nos ha humillado a todos los argentinos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde que comunicó que no se presentaría para una reelección, se refugió en una aparente inactividad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El escándalo de ayer, con la fecha para anunciar el índice de inflación, deterioró aún más a este gobierno que no gobierna.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A esta altura del deterioro argentino, no hay dudas de que Alberto Fernández es el peor presidente de la historia democrática, pero creo que Fernández está batiendo otro récord: nadie fue tan humillado por su propia fuerza política.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El fuego amigo ha sido letal en los últimos días.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Berni aseguró que, si Néstor Kirchner se levantara de la tumba, sacaría a Alberto a patadas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Fernanda fue suave comparada con su ya histórico tsunami de agresiones, que instalaron palabras como \"mequetrefe\", \"ocupas enfermos\" y varios insultos más.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Muchos cronistas del poder cuentan que, en la intimidad, Cristina le dice a Alberto \"pelotudo\", igual que a Oscar Parrilli.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2158
+}

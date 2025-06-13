@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.183,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Valoro muchas cosas en esta decisión.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Presidente habla de democratizar el partido; esto significa que quien quiera competir deberá inscribirse y participar en las elecciones internas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Presidente no tenía desventajas iniciales, pero sí enormes desafíos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para resumir, Aníbal, hablé con gente cercana al Presidente, y el mensaje es claro: renuncia a su candidatura, pero no abandona la participación política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Propondrá la democratización del partido para que todos puedan participar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto demuestra que Alberto Fernández sigue trabajando en los distritos importantes, apoyando a candidatos que considera adecuados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2199
+}

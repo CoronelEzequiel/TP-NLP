@@ -1,0 +1,46 @@
+{
+  "texto_id": "50.000_dolares",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.243,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Celebro que por fin algo funcionó bien en este país.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después del caso de Lucio Dupuy, que una directora de un colegio, al escuchar a un niño decir que le pegaban cintazos en las piernas, hiciera lo que corresponde: denunciarlo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es para celebrar, porque la falta de acción en el caso de Lucio Dupuy, en la escuela y en el hospital de La Pampa, terminó con la muerte del niño, con su asesinato.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, sin una evaluación interdisciplinaria, sin una cámara Gesell, la justicia dijo que no pasó nada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí se trató de minimizar el asunto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Poner por encima de los derechos del niño a un equipo o jugador… una locura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el colegio actuó como dicta la Ley Lucio (sancionada después de la muerte del niño), ante un caso así hay que darle atención inmediata.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2088
+}

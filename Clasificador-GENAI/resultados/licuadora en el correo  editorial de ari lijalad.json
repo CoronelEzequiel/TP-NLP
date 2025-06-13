@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.263,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Macri le está pidiendo a Milei que le ayude a \"licuar\" su deuda, según un escrito presentado ante la Corte Suprema.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Compartimos la necesidad de liberarnos del peso de un Estado asfixiante y sus regulaciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri busca que mi ley confirme la \"licuación\" de su deuda con el Correo Argentino, mientras el juez que podría procesarlo es propuesto para la Corte.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 19 de abril, la familia Macri ofreció pagar 118 veces menos de lo que debe.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1693
+}

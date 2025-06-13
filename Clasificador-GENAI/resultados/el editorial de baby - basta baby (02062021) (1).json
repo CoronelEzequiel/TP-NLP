@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.883,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto, 80.000 muertos, hermano.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no dejaron morir 40.000 personas?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, no le da vergüenza reírse con 80.000 muertos bajo su tutela, de los cuales le pertenecen 40.000 más o menos por ineptitud, por no tener las vacunas, con una falta de respeto por la vida terrible que no se vio en ningún gobierno, salvo el de Malvinas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes no pueden revisar ni los dedos en un club de barrio de la pileta para ver si tienen hongos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son los sinvergüenzas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, compre un reglamento de democracia, hermano. Y denos el derecho a no morir más.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3243
+}

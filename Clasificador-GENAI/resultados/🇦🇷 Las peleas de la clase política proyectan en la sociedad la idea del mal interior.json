@@ -1,0 +1,36 @@
+{
+  "texto_id": "notas",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Aturde que, mientras el barco se hunde, se peleen entre ustedes. La desconexión de la coalición gobernante con la realidad es total. Aturde la forma en que ignoran el padecimiento de la gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Se tienen que hacer cargo ustedes en función de la herencia que habían dejado\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Nos dejan el poder a una ministra, Batakis, que parece que la nombraron los gobernadores, la vicepresidenta y el presidente. Si tenemos suerte, va a ser una almacenera. Si tenemos mucha suerte, va a ser una buena almacenera. Si la Argentina tiene poca... con perdón de los almaceneros, por supuesto, si tenemos poca suerte, que creo que es lo que nos va a pasar, no sabemos cuánto tiempo va a durar\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Soy Esteban Wolf, vengo como empresario, como emprendedor, pyme, soy dueño de una fábrica de lazos, exporto a tres países y tengo que decirles que sufro la Argentina desde hace 15 años. ... Pero lamentablemente, sufrimos la Argentina todos los días. ... Tenemos que generar escuelas de oficio, tenemos que enseñarles a la gente a emprender, a crear empresas. ... Por favor, dejemos de confrontar, terminemos con la grieta, pongámonos juntos a trabajar empresarios, dirigentes y políticos a construir un nuevo país.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La inteligencia que tiene mayor capacidad intelectual permite refinar las conductas perversas y tener más capacidades cognitivas para agudizar esa acción destructiva. Esa es la perspectiva que, de alguna manera, debiera asociarse cuando se percibe a Cristina Fernández de Kirchner como mala.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3127
+}

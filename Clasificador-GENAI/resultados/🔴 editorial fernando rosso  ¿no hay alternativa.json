@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde esta perspectiva, Milei sería una especie de fatalidad histórica, una expresión genuina o inexorable de esta época.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema argentino y mundial, si se quiere, es que el fruto de ese esfuerzo se lo quedan precisamente los que viven del trabajo ajeno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derrota de una perspectiva política que se autopercibía como colectivista en el sentido de reivindicación de lo colectivo o de lo común no transforma en una certeza a la orientación opuesta, también sintetizada en su momento por Thatcher.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, más allá de la discusión doctrinaria, plantear así como lo planteó la ex presidenta esta cuestión en este momento en que el gobierno de Milei ataca a las organizaciones, a los integrantes de las organizaciones desocupados, porque quiere dar la idea de que son improductivos, es decir, porque no producirían lo que consumen, a los trabajadores estatales, por ñoquis, es decir, por improductivos, plantearlo en esos términos es claramente una capitulación conceptual enmascarada en un intento de diálogo con estas ideas reaccionarias que quiere instalar Milei, las legitima después de todo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque, bueno, el presidente se autopercibe muchas cosas: el Terminator, el Topo del Estado, Menem, Thatcher y muchas otras cosas más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2665
+}

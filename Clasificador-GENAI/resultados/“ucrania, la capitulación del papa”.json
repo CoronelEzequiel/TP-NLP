@@ -1,0 +1,41 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Es su amistad con Putin? ¿O es su buena relación con un líder que lo visitó tres veces? ¿Es su predilección, su punto débil, su talón de Aquiles, por los autócratas de la supuesta izquierda, primero latinoamericana y ahora todo aquel autócrata que ponga una base en contra del neoliberalismo, el capitalismo financiero internacional?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y bueno, el enemigo histórico de la teología del pueblo, del mito de la nación católica cultivado por el catolicismo argentino, que es un catolicismo que nace en contraposición extrema a la tradición ilustrada, al liberalismo, al iluminismo europeo, al occidente como concepto...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando el intelectual de Putin, Aleksandr Duguin, dice que el enemigo es el globalismo, bueno, es lo mismo que la \"sinarquía\" enemiga de Perón, que el liberalismo enemigo del catolicismo argentino.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero lo que tienen en común Rusia, el mundo eslavo por un lado, y por el otro Argentina y Latinoamérica, es que son áreas del mundo que han vivido durante siglos con un pie adentro y uno fuera de Occidente.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Detrás de él hay empresarios exitosísimos que lo financian, filósofos importantes que lo sustentan.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No nos olvidemos que en algunos países, pensemos en Hungría, donde hubo elecciones hace dos días y donde el líder, Viktor Orbán, a pesar de que el país forma parte de la Unión Europea y que no es un aliado de Putin, sino un admirador de Putin, ganó elecciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2979
+}

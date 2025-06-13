@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.82,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Piensen que ustedes, sin hacer nada, tienen lo que muchos otros no pueden tener trabajando todo el día. Y probablemente no les alcance, pero piensen que hay muchos argentinos que trabajan por mucho menos que esos 157.221 pesos. Se levantan a las 5 de la mañana, viajan dos horas en colectivo para intentar llegar al trabajo, les roban cada día por la inseguridad y, aparte, buena parte de ese día lo trabajan para poder pagar impuestos para que ustedes puedan tener sus planes sociales.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con una inflación de más del 9%. Con una inflación en alimentos que superaría el 10%. Camina una proyección del 120% de inflación. Con 20 millones de pobres ahora. ¿Soñás que alguna vez pensaste que íbamos a tener un país con 20 millones de pobres sobre 47 millones de habitantes?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un país con más memoria, una memoria no profundísima, es corta, una fuerza política como el kirchnerismo, con decenas de funcionarios presos por corrupción, José López, De Vido, Amado Boudou, toda la lista, Ricardo Jaime. Con su líder condenada y procesada, no solamente en la causa de la \"idealidad\", en otras tres causas de lavado y fraude, donde figura como la jefa criminal de asociaciones ilícitas. Esa fuerza ya debería haber dejado de ser competitiva.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En serio, mira que yo he visto muchas cosas últimamente, soy una persona grande, ¿no deberían dejarse de joder ya? ¿No te suena como una tomadura de pelo que, por ejemplo, esta semana, Ayelén Mazzina, la ministra de Mujeres, Géneros y Diversidad en la Argentina, durante el lanzamiento del plan MenstruAR, definiera a la menstruación como un hecho político?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En especial, después del alarmante informe del Observatorio Social de la UCA, que se conoció ayer y que revela que sin planes sociales la pobreza en la Argentina superaría el 50%.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5167
+}

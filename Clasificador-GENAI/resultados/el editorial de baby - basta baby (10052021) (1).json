@@ -1,0 +1,36 @@
+{
+  "texto_id": "No es la corchada, Bismark",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo estoy desgañitándome los sesos, tratando de entender por qué nos va tan como el orto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nos están dejando... ¿Ustedes se dan cuenta que estamos a la intemperie, totalmente a la intemperie?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chicos, dejémonos de joder, el kirchnerismo tiene que explicar qué hizo con el afano de la vacuna, porque los argentinos estamos esperando números, no excusas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que se tienen que despertar los argentinos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este país se te ha hecho mierda, somos Venezuela, para ir a comprar un pollo necesitas dos carretillas de plata, nadie se lo dice, y encima con un pueblo tan cobarde y tan cagón que les subieron diez veces la nafta en los últimos dos meses y no se dieron cuenta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3140
+}

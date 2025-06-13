@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Argentina no va a adherir al acuerdo de pandemias de la OMS.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él tiene una fase donde hablaba solo de economía y una fase donde empieza a hablar de los manejos de la pandemia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El principal error del gobierno fue darle absoluta prioridad a la \"infectocracia\" liderada por el infectólogo Pedro Cahn.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Para Milei, el conjunto de aquellas decisiones trascendieron a la emergencia sanitaria y respondían a un objetivo político autoritario, al que el presidente con sus palabras llama de esta manera: \"la cumbre del huoquismo de control social\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Fue más larga de lo que tendría que haber sido desde el punto de vista, dado la información técnica que tenían, fue más larga de lo que tendría que haber sido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo cuando escuché este audio el año pasado sentí realmente algo personal en la sensación de ultraje que te hace solo pensar que nos estaban estafando con algo que era absolutamente grave, había gente que no podía ver a sus padres y pedir a sus seres queridos que estaban en estado crítico.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero con respecto a las restricciones en las libertades, esto hacía que se centralizara de una manera sin antecedentes en el presidente de la Nación y nunca se habían cercenado tanto las libertades en nuestro país desde la dictadura militar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En el caso del titular de la Organización Mundial de la Salud, el presidente lo va a denunciar por crímenes de lesa humanidad ante la Corte Penal Internacional en base a lo que dice el Estatuto de Roma en el artículo 7, inciso K.C., donde habla de esclavitud de la persona cuando se suprime sus libertades de todo tipo, llegando a la deriva económica, de quebrantos o que las mismas tengan dependencia del Estado, porque eso también lo considera esclavitud.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4675
+}

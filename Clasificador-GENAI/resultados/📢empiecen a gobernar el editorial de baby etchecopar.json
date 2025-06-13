@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno es un poco gatopardista, porque saca cuatro y pone ocho, va corriendo gente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando Milei empieza a relajarse con los gobernadores, los gobernadores son la casta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto vamos a criticar, que se agranden, que nos denigren, que se sientan superiores.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me estoy preguntando por qué el presidente se va a Estados Unidos a buscar un premio cuando tendría que estar dándole medallas a los que quedan vivos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3123
+}

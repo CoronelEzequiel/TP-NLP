@@ -1,0 +1,56 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.811,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Mañana está el Ejército de las Tinieblas, que ya conocemos. Va a estar al pie del cañón haciendo quilombo de la mañana a la noche, buscando, posiblemente, un cadáver, buscando un muerto o buscando empujar al golpe de estado.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que si no decimos que es un intento de golpe de Estado, estamos fallándole a la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después no se quejen, porque después viene el helicóptero de cartón, Carlotto, los hijos, todos los delincuentes, Grabois y todos los sinvergüenzas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y se puede incitar a matar a un presidente, como esto, desde un streaming.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si nosotros no denunciamos un intento de golpe de Estado, hoy Cristina empezó a juntar a la tropa, esto pasó en el gobierno de Cristina, si nosotros no defendemos la democracia, no defendemos las instituciones, vuelve esa gente de mierda.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto para usted, ¿no es un conato de intento de desgaste del Estado para pegar el golpe?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es tiempo de calma, de reflexión, sobre todo pochoclo, no nos quedemos sin pochoclo, esto es Semana Santa, no sabemos si cae en marzo o en abril.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero bueno, les quería decir esto, humildemente, yo creo que es un conato de golpe de Estado que no van a parar hasta ver que el sueño dorado de ellos es que salga el helicóptero de la Casa de Gobierno con Milei, que se arrodillen y se rindan, verlos colgados en Plaza de Mayo, como dijeron ya muchas veces, \"los queremos ver colgados en Plaza de Mayo\", esto no va a parar hasta que usted no pierda la democracia que consiguió.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Necesitamos ver que el que las hace las paga, y no los que van a tirar piedras solamente, sino los de la casta noble, los políticos históricos que ahora están reunidos para ver cómo mañana sacan a Milei del gobierno, que vayan en cana.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6049
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_argentinacorrupcion",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina tiene una desesperada necesidad de combatir la corrupción.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peronismo, como siempre, intentaba \"asustar\" argumentando que se trataba de una proscripción, con todo ese \"bla, bla, bla\" interminable de los corruptos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claramente, hubo una decisión del gobierno de no avanzar con esto, y ahí es entonces que aparecen los fantasmas de la tranza política con el kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los mejores planes que se concibieron bajo diferentes gobiernos, con distintas orientaciones ideológicas, sucumbieron a causa de la corrupción.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta es la esencia del proyecto, que el peronismo, como siempre, intentaba \"asustar\" argumentando que se trataba de una proscripción...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1737
+}

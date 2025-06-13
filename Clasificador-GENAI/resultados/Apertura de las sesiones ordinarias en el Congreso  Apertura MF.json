@@ -1,0 +1,31 @@
+{
+  "texto_id": "apertura",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando, como hoy, se defienden los intereses nacionales y se endereza la política para trabajar por la felicidad del pueblo, las instituciones recuperan legalidad y legitimidad, y la política se reconcilia con la sociedad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿De esa Argentina que votaba las leyes que pedía el Fondo Monetario Internacional? ¿De esa Argentina que condenó a millones de argentinos a la pobreza? ¿De esa Argentina que condenó a nuestros jubilados al hambre permanente después de haber trabajado toda una vida? ¿De esa Argentina que trabajó y generó leyes para salvar a los bancos a costa de los argentinos?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los cambios profundos requieren paciencia. Muchos van a pensar, pero yo estoy peor casi un año, todo me cuesta más.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Necesitamos una reforma integral del sistema de la administración de justicia federal. Lamentablemente, el proyecto de ley de reforma judicial que envié en 2020, que fue aprobado por el Senado, ahora ha perdido estado parlamentario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3612
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "Nuevo de los Mañanos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.144,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Historias realmente fuertes, historias conmovedoras, historias que buscan un reencuentro familiar; siempre emocionan.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Venimos de una historia muy particular porque nuestro padre desapareció.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, esto empieza más o menos en la década del 90, con la hiperinflación de Menem y Alfonsín.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no pude volver nunca más.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, qué historias… Todas las historias son muy emocionantes y todas merecen cumplirse.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se fue, como muchos argentinos, cuando la economía estaba mal en la Argentina, se fue a Europa a probar suerte.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y para ir uno necesita aquí, por lo menos. Es imposible. Así que yo les voy a agradecer de corazón. Pero…",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Reconocemos que la historia de Roberto es muy fuerte. La historia personal, la explosión de ese local, de ese restaurante.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se van a encontrar en Barcelona! ¡Y nos van a dar unas fotos! ¡Sí! ¡Se van a encontrar en Barcelona!",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8845
+}

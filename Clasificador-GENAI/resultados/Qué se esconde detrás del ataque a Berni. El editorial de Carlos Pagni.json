@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Berni desciende en helicóptero, prácticamente solo, del lado de la Capital Federal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno parece estar entusiasmado con ese fenómeno, suponiendo que va a quitarle votos a Juntos por el Cambio y de esa manera llegar más cerca a acariciar el poder.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sube Milei, y acá hay otro dato interesante: sube el número de los que no quieren hablar con encuestadores, de los que no quieren contestar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa acaba de disponer bonos por los ingresos, bonos para financiar un déficit gigantesco. Que no queden exentos del IVA los importadores. ¿Qué hacen los importadores ahora? Suben los precios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La decisión de Cristina de recuperar YPF es uno de los hechos políticos más importantes de las últimas décadas\". Listo, no importa cómo lo hicimos, no importa cuánto vale. \"Reina Cristina\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8189
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_covid",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "También se puede decir que la muerte política del gobierno de Alberto Fernández se produjo en aquella reunión de cumpleaños de su esposa, en el medio de la pandemia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con mucha más fuerza, el COVID evidenció las desigualdades que se asentaban en la sociedad, la proliferación de peligrosas teorías conspirativas y el auge creciente de la extrema derecha.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta Javier Milei estaba de acuerdo con la medida de aislamiento al principio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Claramente, Bullrich la vio antes que Milei. ¿Qué es lo que había empezado a suceder? Bueno, los estados no podían seguir sosteniendo económicamente las cuarentenas, es decir, no podían pagar los sueldos a todo el mundo todo el tiempo para que se quedaran en sus casas, hasta desarrollar totalmente la vacuna.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ventaja que tenía Javier Milei es que era desconocido en ese momento. Entonces, nadie recuerda que él había apoyado las medidas de la cuarentena y el castigo a quienes la incumplían. Mientras que Patricia Bullrich ya era una persona muy conocida en ese momento, había sido ya ministra de seguridad, había sido ministra de trabajo y ha sido diputada varias veces.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5080
+}

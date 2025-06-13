@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El político tiene que tomar decisiones, tiene que ver blanco o negro; no le conviene ver las contradicciones, los matices, las perplejidades que hay en los fenómenos, en los hechos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei estuvo en Mar-a-Lago, en el *country* de Donald Trump en Palm Beach, y fue la estrella de este festejo por muchas razones, pero la más importante de todas era que era el único presidente y el único jefe de Estado presente en esa celebración, que fue la celebración del triunfo de Trump combinada con una reunión, una concentración de una organización de ultraderecha que se refleja en Trump y en otros movimientos similares, entre ellos, La Libertad Avanza.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Trump viene con una política proteccionista que se parece muchísimo más a la que podría predicar un líder peronista, más a la que podría predicar un líder kirchnerista.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La agenda de género, todo lo que tiene que ver no solo con feminismo, sino con la agenda LGTB. El gobierno de Estados Unidos que viene, no el que está, el que está está a favor de esa agenda.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La agrupación Fuerza del Cielo, que está formando hoy aquí entre nosotros, es el brazo armado de La Libertad Avanza, la guardia pretoriana del presidente Javier Milei.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8861
+}

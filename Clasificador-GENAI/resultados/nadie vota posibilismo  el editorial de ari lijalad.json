@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.108,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Quería hablar sobre la nota que publicamos el fin de semana con Franco Misrahi, que mostraba documentos y hechos que confirman buena parte de lo que figura en los chats atribuidos al celular de Marcelo D'Alessandro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alguien tiene interés en su publicación, y ese interés no es desmantelar el sistema de vínculos entre medios de comunicación, servicios de inteligencia, jueces, fiscales y empresarios que existe en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestra hipótesis, expuesta en nuestras notas, es que se trata de una suerte de \"licitación del *lawfare*\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, medios como Clarín, La Nación e Infobae han decidido ignorar esta evidencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si los senadores asisten mañana, estarán haciendo el juego a Rosatti, en detrimento de la democracia, especialmente en un año electoral.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es democrático que la Corte Suprema decida quiénes integran el Consejo de la Magistratura o quiénes pueden ser candidatos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1708
+}

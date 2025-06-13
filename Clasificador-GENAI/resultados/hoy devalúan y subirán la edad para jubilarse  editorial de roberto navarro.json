@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente, que insultó como nunca habíamos escuchado de un primer mandatario a todos los que le decían que iba a devaluar, lo llevó a 1400.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el nuevo plan diseñado por el Fondo Monetario Internacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fracasó porque se atrasó de nuevo el dólar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora manda el FMI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo pronto, empieza siendo inflacionario y empieza siendo contractivo porque acordaron con el Fondo pisar los salarios, aumentar el gasto y subir la tasa de interés.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno vistió el fracaso de su plan económico en una épica de levantamiento del cepo, que no es tal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy los mercados van a festejar, van a subir las acciones, van a subir los títulos públicos porque hay 15 mil millones más para la fiesta. Es la fiesta de ellos, es lo que vivimos desde que asumió Milei. Hay una fiesta para los mercados, y a vos se te va complicando.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repito, van a llevar la jubilación de los hombres a 70 años y la de las mujeres a los 65 años, y vas a tener que tener 35 años de aporte, cosa que hay muy poca gente que los tiene en Argentina. Es decir, van a destruir el sistema jubilatorio.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno está muy mal y lo sabe.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5333
+}

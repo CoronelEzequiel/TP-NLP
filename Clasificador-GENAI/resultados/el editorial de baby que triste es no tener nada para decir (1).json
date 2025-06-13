@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Parecen peronistas: cuando están llenos, se descontrolan.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chicos, me quedo sin editorial por su inacción. Solo hablan y hacen tonterías todo el día en las redes sociales. Ya nadie se acuerda de los argentinos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero hoy leí en Infobae que Alberto Fernández hizo un programa con Correa. Y luego, en el mismo portal, vi que Correa acaba de ser declarado prófugo de la justicia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son presos políticos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero hay que apuntar hacia arriba, no hacia abajo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los únicos contentos son los chorros y delincuentes que se quedaron con el país en la época de Cristina y que saben que los van a dejar libres.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En algunos lugares hacen sueltas de palomas; acá deberíamos hacer sueltas de chorros.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2052
+}

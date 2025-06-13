@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_inflacion",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.514,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La política tiene que desguazar el Estado, y punto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación es un delito que no está tipificado en el código penal, y debería estarlo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que persistir en la política de regulaciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La política monetaria y cambiaria tiene que ir hacia la unificación del tipo de cambio.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El deterioro en la actividad es la estrategia masista para combatir la evolución de los precios.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "6% de inflación mensual es la imagen de un fracaso económico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La inflación también mata, tiene menos drama en el día, pero también mata la inflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8803
+}

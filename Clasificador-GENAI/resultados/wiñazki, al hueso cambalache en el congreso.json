@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Las leyes de la física establecen que una persona no puede estar en dos lugares a la vez.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer se debatió el significado de la palabra \"consenso\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición aboga por la presencialidad, el oficialismo no.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner convocó a una sesión para tratar temas importantes: el decreto que declara de interés público las telecomunicaciones y 20 pliegos de jueces y fiscales enviados por el macrismo y que el kirchnerismo no quiso votar inicialmente, pero ahora sí.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Congreso está trabado en medio de la pandemia, la falta de médicos, las discusiones presupuestarias, la deuda, la escasez de camas…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1907
+}

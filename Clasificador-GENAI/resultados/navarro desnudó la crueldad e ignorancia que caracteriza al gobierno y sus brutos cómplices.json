@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.138,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La mayor parte de la sociedad perdió, y mucho, pero algunos ganaron enormemente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi ley ejecutó una transferencia de ingresos aún mayor a la de Mauricio Macri, mucho mayor.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este saqueo se da en el contexto de un fuerte avance sobre las libertades individuales de los argentinos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recordar que el momento culminante fue el día que intentaron asesinar a Cristina Fernández de Kirchner y que ese intento tomó un significado aún peor cuando la justicia encubrió a los verdaderos culpables, cayendo la sospecha sobre un familiar del ministro de Economía y un hombre muy cercano al actual ministro de Seguridad.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El hecho de que Patricia Bullrich y Carlos Stornelli, entre otros, hayan apresado y acusado de terrorismo e intento de golpe de Estado a quienes fueron a manifestar su reclamo ante una norma de enorme gravedad, revela la impunidad de la derecha nacional y lo poco que se parece la Argentina a un país democrático.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivimos en un estado de excepción en el marco de una enorme degradación humana.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es imprescindible que el campo popular dé lo mejor de sí.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la unidad de los mejores lo que nos sacará de este lugar.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1407
+}

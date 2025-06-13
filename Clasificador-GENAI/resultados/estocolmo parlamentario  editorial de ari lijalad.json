@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_ley_bases",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.107,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Absolutamente nada que mejore la vida de la población, excepto, quizás, un pequeño grupo de empresarios, estudios jurídicos y allegados al presidente que la redactaron.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo justificarán quienes la aprueben otorgar facultades extraordinarias a alguien cuyas capacidades psicológicas son cuestionables?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No protege a la ciudadanía de los criminales, sino que, prácticamente, establece la pena de muerte, autorizando a la policía y a los ciudadanos a matar si sospechan un robo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta ley secuestra la democracia y las bases de una convivencia pacífica, económica y culturalmente democrática.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos diputados lo justifican en aras de la gobernabilidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El DNU, que no ha sido judicializado, elimina leyes fundamentales como la de alquileres, la de góndolas y la de abastecimiento, desregula los supermercados, permite privatizaciones, incluyendo la del Banco Nación (taxativamente prohibida), e incluye una reforma del Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cada artículo de esta ley elimina derechos, pone en peligro a la población y agrava la injusticia en el país.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1853
+}

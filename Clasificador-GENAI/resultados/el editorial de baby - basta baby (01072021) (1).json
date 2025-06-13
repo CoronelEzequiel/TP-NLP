@@ -1,0 +1,41 @@
+{
+  "texto_id": "...",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Necesitaríamos los nombres de todos los diputados que votaron para que no venga, porque esos tipos son enemigos del pueblo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que ahora voy a hablar con los periodistas, pero me parece que no es una noticia que Alberto haga un decreto para ver.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo pasó porque al final voy a terminar pensando que Pato Bullrich tiene razón.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La señora Cristina se le pone la espada a la mujer sin dejada y pone a unos impresentables, unos impresentables raperos que muestran un arma en cámara, que es apología del delito, hablan de la droga.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esa mujer, puede ser que esta mujer nos haya cagado el país, puede ser que esta mujer nos haya cagado la vida, puede ser que esta mujer nos siga cagando la vida",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando un gobierno es pésimo, hasta las buenas cosas que hacen, que no le encontré ninguna, queda como el culo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2741
+}

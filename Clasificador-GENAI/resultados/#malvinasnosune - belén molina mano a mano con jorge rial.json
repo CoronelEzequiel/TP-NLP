@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.136,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ushuaia es malvinera, no hay duda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese es el trabajo que hacemos aquí, y se respira ese aire malvinero.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos 11 nuevos murales, surgidos de una convocatoria nacional, generan básicamente y fundamentalmente soberanía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros somos promotores de la palabra Malvinas, de la causa Malvinas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La idea es esa, decía uno de nuestros compañeros de gestión, Daniel Arias, el nuevo secretario.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Tierra del Fuego, la causa Malvinas es parte de nuestra identidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una verdadera fiesta y una democratización de la cultura.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2628
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.03,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy es el Día del Periodista y de las Periodistas. Aprovecho para saludar aquí a los compañeros de la radio, compañeras de la radio, de la redacción y de este gran proyecto que tenemos, que es el de esta AP.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la otra cuestión en el día de hoy es también para qué esos patrones tienen medios de comunicación y para qué lo tienen: para influir en política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque periodismo no es contar cosas injustas, periodismo es informar de esas cosas injustas para que cambien.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo menos en el caso nuestro, yo soy periodista para cambiar el mundo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando vos contás algo que es injusto y decís quiénes son los responsables de esa injusticia y los señalás y los mostrás, eso es hacer periodismo, para que eso cambie, no limitarse a contarlo e irnos a nuestra casa tranquilos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2379
+}

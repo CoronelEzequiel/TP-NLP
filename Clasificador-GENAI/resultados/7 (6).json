@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.157,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Así es, está definido mantener el cuadro tarifario del transporte, ya sea el automotor de pasajeros, los micros y los trenes, al mes de agosto, a este mes de agosto, a los efectos de que durante 90 días no haya cambios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y eso tiene un objetivo: primero, acompañar el plan de fortalecimiento que lleva adelante el ministro Sergio Massa respecto a las familias, los ingresos y la producción; y, por otro lado, dar un tiempo para analizar la incidencia que tienen en los costos del transporte algunos factores, como el combustible, por ejemplo, que es un insumo esencial y que también se congela durante 90 días.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es muy importante, porque esta es una manera indirecta de acompañar al trabajador, al estudiante y a quienes utilizan el colectivo o el tren por cuestiones de salud.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También es una forma indirecta de asistir al empresario, al que tiene una pyme, porque trasladamos a los trabajadores y las trabajadoras con una tarifa subsidiada, que es un ingreso indirecto para cada uno de ellos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la evaluación de Macri, que fue del 30% para el otro, cuando fue lo de las PASO del 19, no hubo un plan de contención, no hubo un plan de atender la necesidad de la gente y se enfrió la economía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entramos en una recesión peor que la que había en ese momento, y, la verdad, se enfrió el consumo y se generó una situación de daño muy grande sobre la empleabilidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes saben que venimos planteando con Massa que ese subsidio debe ir directamente al bolsillo de la gente, sin intermediación o sin tanta intermediación, e incluso las mismas cámaras estarían de acuerdo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2366
+}

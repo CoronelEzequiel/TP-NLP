@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.713,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los problemas personales de los periodistas son de los periodistas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Necesitaríamos los nombres de todos los diputados que votaron para que no venga, porque esos tipos son enemigos del pueblo, porque no estamos hablando de traer una vía a chorros.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La vacuna tendría que haber estado acá hace un año y medio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Algo pasó porque causó un revuelo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los negocios paletos como la hidrovía, los negocios se hacen por decreto y a la mierda, y cométela, y vos sos ciudadano, nada que para pagar los impuestos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son cobardes, son como un gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa mujer puede ser que esta mujer nos haya cagado el país, puede ser que esta mujer nos haya cagado la vida, puede ser que esta mujer nos siga cagando la vida, y puede ser que cada vez que esta mujer aparece, este tema de conversación, la corrupción, la apología del delito, el doble discurso, la mentira, el antisemitismo, antisemitismo, antisemitismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces recurre al núcleo duro, que es lo que hablan de la droga, lucen un revólver, ponen pibes en bolas y sea la gente que sigue a Cristina, la juventud que quiere Cristina para la Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2847
+}

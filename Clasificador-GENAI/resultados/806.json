@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.108,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El viernes, el ministro de Economía reivindicó el bot de Jumbo, que sabemos que es falso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo peor es que ayer el presidente, en la entrevista con Fantino, también lo mencionó como ejemplo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mostró el bot. Toda la información del presidente, de Caputo y de todos los funcionarios que hablaron de esto fue una mentira.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de alguien que habla con un bot inventado, que recibirá un premio de origen desconocido, que quiere iniciar una guerra contra un enemigo desconocido y que dice que no tenemos capacidad para una guerra.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer hubo un ataque feroz a la prensa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Defiendo la libertad de prensa, sobre todo a mis compañeros de Perfil.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si un funcionario no depende de su sueldo, ¿de qué vive? ¿Es corrupto?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si aliados son los Estados Unidos, sean demócratas o republicanos, el aliado es Estados Unidos.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El aliado más grande de Gran Bretaña para matar a nuestros chicos fue Estados Unidos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3204
+}

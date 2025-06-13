@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.112,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esto nos llevó, incluso, a mi gremio a realizar un paro de 24 horas hoy.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es necesario que el gobierno comprenda que no se trata solo de un tema de caja, sino de la responsabilidad de gobernar un país.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debe considerar la situación de los sectores más vulnerables, los jubilados, y la existencia de 70.000 comedores en todo el país, que son una realidad tangible, donde la gente come porque no tiene dinero.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto que estamos hablando –licuar el dinero de la gente, los jubilados, la falta de alimentos en los comedores– forma parte de un plan del gobierno.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si su objetivo es cerrar números en febrero, no lo cerrará en abril, junio o diciembre, ni el año que viene. Argentina es un mapa con personas, no solo un Excel.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tema de la salud es permanente. Hoy hay afectación del servicio, tal vez porque los empresarios no entienden que hay que distribuir mejor.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que trabajan con prepagas se han recompuesto, pero hay sectores con obras sociales provinciales o prestatales, o el PAMI, que están desfinanciados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este descalce se da en muchos sectores empresariales porque solo se mira la macroeconomía y no la economía real.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La CGT no discute salarios, y estos se fueron actualizando durante el gobierno anterior. No recuperamos lo perdido en la época de Macri, algunos sectores recuperaron algo, pero la mayoría no mucho.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tampoco hubo decretos o leyes contra los derechos de los trabajadores o las organizaciones sindicales, a diferencia de este gobierno, que día a día cambia las relaciones laborales y sindicales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente está muy enojada y ha perdido la esperanza en un gobierno que asumió democráticamente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estadísticamente, el 63% de los jubilados votó a este gobierno, y son los primeros afectados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con respecto a la marcha, ¿les llegó alguna factura por los gastos? No, eso es un disparate.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2700
+}

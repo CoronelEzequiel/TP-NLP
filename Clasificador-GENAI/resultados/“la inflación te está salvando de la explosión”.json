@@ -1,0 +1,56 @@
+{
+  "texto_id": "el_texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.661,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Comparto el criterio, el concepto de afincarse en algunos amigos para ir corrigiendo, asentando el punto de vista.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si vos me decís si este gobierno tiene una probabilidad mínima de llegar a donde institucionalmente está, fuera de discusión, o en términos de evitar una explosión financiera, macroeconómica y demás, yo, dejando con las ganas a los que pronostican una explosión hace mucho tiempo, te diría que sí, que puede llegar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, mi explicación de que es evitable y aún más la he complementado diciendo: es evitable, no te hagas el vivo de querer tener una inflación más baja mintiéndole a la gente, porque te tirás un tiro en el pie.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero, primero hay algo que dijiste al pasar en lo que yo personalmente pienso diferente y te lo quiero decir: la confianza no la da el fondo, la confianza la da el gobierno de cada país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, ejemplo, en el fondo de todo esto hay... Por eso el plan pegatina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para la Argentina sería bueno que estos 18 meses, este 20 meses, se empiezan a corregir cosas con visión de futuro, porque ahora no porque falta mucho, pero en cuanto se pueda van a empezar a postergar de verdad, en cuanto se pueda, porque si vos no tenés salida y los números electorales no te dan por más que el político salga a la cancha y los partidos hay que jugarlo y nunca sabe y aparecen los tapados, por todo el día que los números de las encuestas no te ven, y este bodoque no lo podés dar vuelta y entras ahí, ahí sí entras explícitamente en \"le dejo este regalo al que viene\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces como yo pienso en la Argentina y no pienso egoístamente en ese formato político, lo que mejor le podría pasar a los 45 millones de argentinos es que este gobierno se vea obligado a corregir.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces la realidad esa te va apurando, tener este contacto entre la teoría, la política, el chamuyo y la realidad es vital, es vital.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una cosa es tener que salir a ser popular a ser conocido a ganar votos porque la gente es tastiada porque dice de esto no me gusta ninguna cosa es eso y eso caminé la provincia de la capital me encanta la emocionalidad y la empatía con la gente como empanada choripán y me abrazo con todo cuando tencerras y tenés que ponerle valor a las variables te tiembla el pulso terminó el boludeo de la empanada barra bailar arriba del escenario y todo eso entende como el historial.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5955
+}

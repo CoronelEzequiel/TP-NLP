@@ -1,0 +1,36 @@
+{
+  "texto_id": "Antidemocráticos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es indudable que Facundo Manes, nadie lo duda, está buscando su minuto de fama y que lo consiguió.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Está documentado que el doctor Manes revisó el librito de la Constitución, lo vieron, ¿no?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, bajar la inflación, por ejemplo, bajar la pobreza, por ejemplo, recuperar lentamente, pero recuperar - lo vamos a hablar ahora con José Luis Espert - el poder adquisitivo, el salario, recuperar lentamente, pero recuperar el poder adquisitivo de los jubilados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les recomendaría dejar de pelearse, yo les diría con los Facundo Manes de la vida y con los dos o tres artistas que cada tanto se quejan y lloran por los pasillos, porque al final, al final, al final del camino, termina siendo pura ganancia, ¿saben para quién? ",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vaciémosle el Congreso, autoritaria. ",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2112
+}

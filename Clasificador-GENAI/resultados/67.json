@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_mazado",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nuestro sistema está diseñado para promover la formación de mayorías y consensos, protegiendo a quienes pierden una elección, y no para garantizar la discrecionalidad a quienes la ganan.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde afuera, se ven dos gobiernos: el oficial, con su 'es mi ley', incluso ayer, diciendo 'no me importa nada, si no quiere, vamos a confrontar'; y otro paralelo, que se reúne con ustedes y dice: 'Ah, está todo bien, quédense tranquilos'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este Congreso, le guste a quien le guste, frenó un ajuste mucho más feroz contra los jubilados, frenó el aumento de las retenciones a la industria, frenó un sistema de priorizaciones por delegaciones que era peor que el de los 90.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creeemos que los derechos a la educación pública, a la salud pública, al trabajo en ciencia e investigación, al desarrollo, son políticas que tienen todo el sentido para defenderlas, y que pueden hacerse sin volver a un estatismo exasperante o a un derroche fiscal, que es lo que nos trajo hasta acá.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se puede ser fiscalista, responsable, creer en el capitalismo y en una inserción responsable en Occidente, reivindicando al mismo tiempo una mejora en la calidad de vida de la gente.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3055
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.11,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Desde nuestra investigación periodística, detectamos que la asociación servía como refugio para dirigentes del bullrichismo, además de pagar miles de pesos en sueldos y honorarios por asesoramientos injustificables para una organización de esa envergadura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La investigación de la IGJ, junto con la documentación aportada por el propio \"Instituto de Estudios Estratégicos de Seguridad\" (una entidad que consideramos irregular), demostró que organizaban seminarios y charlas —supuestamente sobre seguridad y fortalecimiento de la justicia— que en realidad eran almuerzos y cenas para recaudar fondos para la campaña de Patricia Bullrich, lo cual está totalmente prohibido para una asociación civil sin fines de lucro.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Martín, existe una tendencia, especialmente en la derecha, a privatizar la política. Lo que estamos describiendo sobre Patricia Bullrich y el caso de Milagro Sala —la recaudación no es para el partido, sino personal— es un claro ejemplo. A los sectores republicanos les gusta hacer política con dinero en negro.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se detectaron pagos a consultores políticos e integrantes del equipo de Patricia Bullrich, incluyendo a Milman y María Bonetto, pagos que Bullrich intenta ocultar.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto demuestra la impunidad con la que operan, creando sociedades ficticias para evadir impuestos y financiar campañas proselitistas, utilizando estas organizaciones para perseguir opositores.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1664
+}

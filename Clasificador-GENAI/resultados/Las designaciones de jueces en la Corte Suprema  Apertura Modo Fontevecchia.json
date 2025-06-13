@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei, mediante dos jugadas rápidas, busca consolidar una mayoría oficialista en la Corte Suprema.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la Corte actual, con la presidencia de Horacio Rosatti, la atacan tanto desde el gobierno libertario como desde el anterior gobierno peronista. ¿Qué nos dice eso? Probablemente, que estemos ante una de las composiciones de la Corte más independientes de los últimos años.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei quiere avanzar contra la división de poderes, como lo hizo contra el Congreso con el DNU.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por otro lado, le daría un fuerte poder a Milei para que blinde judicialmente su visión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de Lijo, tiene una muy buena llegada a los gobernadores peronistas por diferentes fallos que pueden llegar a servirle para fortalecer su postulación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y García-Mansilla fue un reconocido detractor del aborto, causa que en los últimos años el kirchnerismo apoyó fervorosamente...",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3909
+}

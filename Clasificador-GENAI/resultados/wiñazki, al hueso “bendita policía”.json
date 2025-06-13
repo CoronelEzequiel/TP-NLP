@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El principal problema en la provincia de Buenos Aires, y en el país según diversas encuestas, es la inseguridad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien la Policía Bonaerense está estigmatizada por su pasado, marcada por la frase “maldita Bonaerense”, y por actos de corrupción y tropelías,  hoy en día, sus miembros son en su mayoría profesionales formados en democracia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Irónicamente, esta situación, a pesar de su complejidad, podría indicar un avance: el hecho de que la policía esté manifestándose públicamente por mejores salarios y recursos básicos para trabajar, resulta, en cierto modo, tranquilizador.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ser policía en Argentina implica bajos salarios, riesgo de muerte y falta de recursos incluso para protegerse de enfermedades.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto me lleva a creer que, al menos estos oficiales que se manifiestan, son honestos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1104
+}

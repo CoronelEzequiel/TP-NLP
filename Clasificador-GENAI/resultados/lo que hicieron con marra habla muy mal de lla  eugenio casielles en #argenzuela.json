@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.358,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto es algo que en su momento me hizo alejarme de La Libertad Avanza: las cuestiones autoritarias.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me sorprende pensar que Patricia Bullrich ahora sea liberal, por ejemplo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto tiene más que ver con un grupo de personas haciendo un negocio político.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que piensa diferente está fuera.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para mí lo que prima son las políticas públicas y no la estrategia de cuánto suma un voto o cuánto suma el otro.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero no importa, en esta faceta ella preside La Libertad Avanza y como presidenta y dirigente del espacio, es quien toma las decisiones políticas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2801
+}

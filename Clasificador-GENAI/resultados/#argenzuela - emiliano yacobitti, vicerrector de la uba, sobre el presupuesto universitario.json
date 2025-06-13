@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_radial",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.14,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno busca un déficit cero, pero mantiene privilegios, baja impuestos a los ricos, mantiene subsidios a empresas millonarias y aprueba blanqueos, a costa de los salarios de jubilados y universidades públicas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestras universidades funcionan bien y son un valor agregado para Argentina. Sin embargo, el presidente, con una postura ambivalente, muestra desprecio por lo público y lo científico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La actualización presupuestaria para universidades representa solo el 0,14% del PBI, menos que la pérdida anual por la baja del impuesto a los bienes personales o los subsidios a empresas de Tierra del Fuego. Las prioridades del gobierno están claras, y abusan de la información.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Defender el salario de los jubilados debe ser una razón de Estado. Es injusto que se otorgue estabilidad fiscal a quienes evadieron impuestos, mientras que los jubilados, que aportaron toda su vida, enfrentan incertidumbre.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una lata de gas pimienta que usa el gobierno cuesta más que el salario mensual de un jubilado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1814
+}

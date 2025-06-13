@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Porque lo que se acabó el viernes pasado (o sea, anteayer), cuando el gobierno anunció la nueva banda de flotación del dólar oficial, fue la expresión de un rotundo fracaso del esquema de Javier Milei y su ministro de Economía, Carlos Caputo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En primer lugar, cuando un gobierno, en cualquier parte del mundo, pide un rescate al Fondo Monetario Internacional (FMI), es porque fracasó.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué *déjà vu*? Porque la montaña de dólares que el gobierno recibió del FMI volvió a relanzar la misma hoja de ruta que estuvo a punto de terminar en colapso: un dólar artificialmente planchado que favorece la fuga de capitales y empeora la balanza comercial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se dijo que el blindaje de dólares y la visita del secretario del Tesoro de Estados Unidos eran una señal del triunfo del gobierno, cuando en realidad la dimensión del respaldo económico-político revela cuán cerca estuvo de hundirse, de que su esquema no solo fracasara, sino que colapsara.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, Rodríguez dice que todo esto es culpa de la falta de flexibilidad laboral y un mercado capitalista imperfecto con débiles derechos de propiedad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre consideran que el problema de Argentina son los derechos y los salarios de los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2515
+}

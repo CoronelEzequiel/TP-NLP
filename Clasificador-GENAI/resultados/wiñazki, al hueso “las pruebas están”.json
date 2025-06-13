@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La denuncia contra Fernández de Kirchner se refiere a la causa AMIA e Irán.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fiscal Eduardo Taiano, el juez Julián Ercolini y la Cámara Federal determinaron que se trató de un homicidio, no de un suicidio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El domingo tardaron mucho en entrar a su departamento, por lo que hay dos imputados procesados, posiblemente con una próxima elevación a juicio oral, por mala actuación como custodios: Nisman y Minio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Séptimo: las comunicaciones telefónicas del domingo entre altas autoridades del gobierno nacional de entonces y agentes de inteligencia son llamativas, y nunca antes se habían registrado comunicaciones similares un domingo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Octavo: Nisman fue atacado desde que realizó la denuncia, se desacreditó su vida privada y pública, y rápidamente se instaló la hipótesis del suicidio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por último,  el sábado anterior a la muerte de Nisman,  le insistí para obtener los audios de la causa del Memorándum con Irán, audios que indicaban que el gobierno de Cristina Kirchner había negociado la impunidad en el caso AMIA.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2192
+}

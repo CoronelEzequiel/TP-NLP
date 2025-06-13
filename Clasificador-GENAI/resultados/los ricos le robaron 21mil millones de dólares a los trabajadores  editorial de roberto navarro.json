@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Existen partidos políticos que defienden los intereses de las élites y otros que defienden los intereses de los trabajadores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El objetivo final, sin embargo, es la transferencia de riqueza desde la población hacia las élites.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los trabajadores estatales fueron los más afectados, con una pérdida del 22% de su poder adquisitivo; los trabajadores privados, sufrieron una pérdida del 7%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado mismo está diseñado para perpetuar esta situación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1458
+}

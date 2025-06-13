@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.678,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo veía ayer la final de Gran Hermano.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y digo, con razón tenemos los gobiernos que tenemos (y no hablo de los presidentes), porque somos muy fáciles de encantar, somos muy fáciles de engañar y muy fáciles de mentir.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver, esto es el comienzo del fascismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tenemos que aprender, Milei ahora, ante Cristina y ante Néstor y ante Álvaro de Alsogaray, tenés que aprender que yo puedo ser Baby, Guillermo Francella puede ser Francella, vos podés ser Javier Díaz, y pensar diferente y querernos igual.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si quieren terminar, a mí me da lo mismo, yo ya pasé la barrera.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero es insólito que a esta altura de los acontecimientos estemos todavía peleándonos porque si Furia piensa una cosa y yo pienso otra, que parece que todos tenemos que enfilarnos detrás del sindicato kirchnerista de actores, que si no sos comunista sos una mierda, que si apoyás a Estados Unidos sos una mierda, que si no estás con el kirchnerismo sos una mierda, que si no vas a ver cómo baila Cristina sos otra mierda, que si no... ¡Chicos, se acabó!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mientras todos en el kirchnerismo corrían, laburando, con los teatros prendidos fuego, porque tampoco cuentan hoy el Charly DuPont y compañía, cuando a mí me quemaban los teatros y ustedes no se solidarizaron con nadie, no había colectivo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso digo que en esta gran cacerola, todos sacan partido con una cuchara a ver qué pueden comer, y algunos que se les acaba el morfi están tratando de poner la cacerola de la nueva arriba del fuego.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no quiero a nadie, ni a Cristina ni a Milei.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3414
+}

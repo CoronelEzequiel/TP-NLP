@@ -1,0 +1,61 @@
+{
+  "texto_id": "Las_victimas_del_milagro",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Las imágenes, a cargo del director de cine Pablo Raziopi, prueban, en línea con los expedientes judiciales, los asombrosos niveles de abuso de poder, corrupción estatal y maltrato a mujeres, niños y jubilados.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay testimonios desgarradores, como el de un joven que cuenta que fue violado en el barrio de Milagro y que ella ocultó todo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quisieron instalar a Milagro Sala como una persona perseguida por ser mujer, negra y coya, y la justicia, en todas las instancias, demostró que Milagro no es una presa política, sino una mujer corrupta, violenta, autoritaria y golpeadora, sobre todo de mujeres.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usó y maltrató a los pobres, no los defendió.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milagro organizó un grupo de choque con disciplina, uniforme y paso redoblado, tan castrista como castrense, y se dedicó a extorsionar a los más humildes de los humildes, sometió a los más necesitados, no los ayudó a liberarse ni a valerse por sí mismos, los hizo dependientes de sus caprichos disfrazados de ideología bolivariana.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es increíble pensar que el colectivo \"Ni Una Menos\", copado en su conducción por el kirchnerismo extremo, levanta pancartas con su cara como si fuera una militante feminista, cuando era todo lo contrario.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quisieron inventar una especie de Che Guevara o de Evo Morales con polleras, pero fue solamente eso, un invento.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La llamaban \"la gobernadora\", porque manejaba los fondos millonarios que le enviaban Cristina Fernández de Kirchner y Máximo Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milagro, Amalia y Ángela Sala, junto con Cristina Fernández de Kirchner y la criptocracia que ejercieron en forma obscena, deben tener su juicio y castigo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milagro no es una \"carmelita descalza\" perseguida por la oligarquía, los medios y el imperialismo, como nos quisieron hacer creer, y tampoco está presa literalmente, repito, tiene cuatro condenas, se escuchó bien, Milagro tiene cuatro condenas, una confirmada por la Corte Suprema, ¿de qué persecución hablan?",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2613
+}

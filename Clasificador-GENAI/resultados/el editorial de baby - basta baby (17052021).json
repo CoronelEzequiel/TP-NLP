@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.811,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Como pueden ver, estos muchachos, los Kirchneristas, son terribles los fines de semana.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quieren aprobar una ley para desmantelar todo el sistema de justicia y quedarse con el control.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si logran aprobar esta ley, el sistema de justicia se derrumbará y entraremos en una situación similar a la de Venezuela.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero haremos todo lo posible para impedirlo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos justicia, y eso se logra manteniendo a los fiscales honestos en sus cargos y no haciendo cambios innecesarios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En lugar de preocuparse por la cantidad de muertos, la falta de vacunas y la falta de recursos…",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi cuñada viajó anoche a Miami, llegó esta mañana y ya está vacunada.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso le digo al presidente que deje de ser hipócrita.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Presidente, realmente, el peor gobierno de la historia argentina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2623
+}

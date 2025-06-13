@@ -1,0 +1,101 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.331,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, iba Milei ahí, había expectativa de qué iba a decir, y el presidente se plantó y les dijo unas cuantas cosas.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sí, no trató del todo bien a los industriales que lo escuchaban allí en la sede de la UIA, en vivo y en directo, porque les reprochó que siempre la industria nacional, de alguna manera, ha vivido de la asistencia del Estado, y también se ha aprovechado de los beneficios que le ha reportado al país la producción agropecuaria.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Exactamente, por eso llamó la atención la manera en que se plantó el presidente, diciéndoles que viven del Estado, que le roban al campo, y después, las mismas palabras que querían escuchar los grandes empresarios de la industria, que es hablar de que va a ir por una reforma laboral.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí estaba Javier Milei hablándole a los industriales y tuvo una respuesta por parte del gobernador de la provincia de Buenos Aires, Axel Kicillof.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, Axel Kicillof, que, de alguna manera, le recordó todo el esfuerzo y el impacto que tiene la industria para el desarrollo de la Argentina, y que lo ha tenido históricamente, muy crítico.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, en el Día de la Industria, decir una barbaridad, que es que los industriales argentinos han vivido de sacarle algo a otros.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, los empresarios industriales y trabajadores argentinos viven de su trabajo, no del de otros.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, es un decreto reglamentario que se publicó en el día de ayer y que busca limitar el alcance de la ley, una ley que se votó, se sancionó durante la gestión de Mauricio Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una fuerte polémica también se produjo en momentos en que el propio Milei salió a respaldar públicamente, a través de la red social X, justamente al dueño de la red social X, por las restricciones al servicio de esa red impuestas por la justicia de Brasil, al advertir que atentan contra la libertad de expresión.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y otro tema importante, Ale, tiene que ver con, en la traslación de cómo se avanzó con esa reglamentación, y otra vez, en el centro de la polémica, el rol de Santiago Caputo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recordemos que en las últimas horas, en la negociación que se había abierto informalmente, lo tenemos que decir, desde el gobierno con actores claves del Senado, incluso se menciona a la expresidenta Cristina Kirchner, o a referentes, representantes de la expresidenta, para acompañar, para lograr el respaldo del kirchnerismo a la candidatura de Lijo, pues esa negociación está en una situación de *standby*, no hay avances significativos, porque también el gobierno se niega a los planteos de la oposición, de o ampliar la Corte, o designar o proponer alguna mujer para ocupar un lugar vacante en el máximo tribunal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver, el fondo de nuestro país no es económico, sino institucional.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esa es la raíz de nuestra pobreza, pero a pesar de que en la campaña apareció que con su definición de casta, el presidente entendía el problema, ahora está claro que no.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es verdad, como dijo el presidente Milei, que será el único jurista que conoce el sistema penal, y tampoco es cierto que sea el único jurista que el kirchnerismo aprobaría apodo a este gobierno, pero no puedo apagar esta lamentable decisión.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando hablábamos de restricciones al acceso a la información pública, y es llamativo que el Banco Central acuse a los planteos de irresponsables por dar a conocer situaciones de lo que ocurre con las reservas del Banco Central, pero bueno, efectivamente confirmó el envío, no dijo ni dónde, ni a dónde fueron los lingotes, ni cuánto efectivamente oro envió Argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y otro de los temas, por supuesto, del día es Venezuela, vuelve a ser Venezuela, que cada vez se complica más, por lo menos en el plano internacional, no con dos informaciones: lo que pasó con el avión presidencial, y con una decisión ante lo que hace poquito era candidato a presidente, exactamente, porque la fiscalía principal de Caracas en Venezuela dispuso ayer una orden de detención contra Edmundo González Urrutia, el candidato a presidente que compitió con Nicolás Maduro en las elecciones de hace casi un mes, y que muchos estiman que efectivamente ganó las elecciones.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos que esto tiene lugar en medio de una creciente conflictividad política y social que se observa casi a diario en las calles de Caracas, en el interior también de Venezuela, donde, bueno, la oposición critica entonces la falta de datos efectivos del resultado electoral, denuncia un fraude, un fraude también, una denuncia de fraude a la que también se ha sumado la comunidad internacional, incluso regional, reclamando la realización de nuevas elecciones en el país, y también ayer, entonces, la decisión de Estados Unidos de retener un avión venezolano que había aterrizado en su territorio, así que bueno, escala también las diferencias y la disputa entre Maduro y el gobierno de los Biden.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra vez, hay que hablar de los incendios en las sierras de Córdoba, hay 10 focos de peligro que se desatan tanto en Yacanto como en Cala Muchita.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6691
+}

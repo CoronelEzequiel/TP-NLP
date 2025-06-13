@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Verbitsky divulga una denuncia judicial presentada por Fabián De Sousa, dueño junto a Cristóbal López del Grupo Indalo, C5N y otras empresas, contra el gobierno de Macri por asociación ilícita, administración fraudulenta en perjuicio del Estado, violación de los deberes de funcionario público, abuso de autoridad y peculado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es impresionante que, mientras este gobierno disfrutaba del apoyo abierto de medios hegemónicos como *Clarín* y *La Nación*, también intentara apoderarse de una emisora relativamente opositora.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la ciudad, el negocio inmobiliario está en el corazón de los recursos del oficialismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A nivel nacional, gran parte del llamado \"peronismo del medio\", hoy en el Frente de Todos, especialmente Sergio Massa, votó las leyes del gobierno de Macri durante gran parte de su mandato.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Algunos critican a Verbitsky por ventilar estas cuestiones, argumentando que nunca es el momento oportuno.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1930
+}

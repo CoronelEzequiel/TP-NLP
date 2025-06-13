@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estamos hablando de robarle la comida a los pobres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juan Zabaleta, usted, Arroyo y Tolosa Paz, los tres ministros de Alberto que no cumplieron.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada uno tenía su caja.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se cagaron en los pibes pobres.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El problema de Patricia es cómo limpia la casa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nunca más, señora, hable en nombre de los pobres desde Recoleta, ganando 15 millones de pesos por mes de jubilación.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso estamos siendo testigos privilegiados. Estamos ante un cambio de época fenomenal, ¿eh?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No nos psicopatea más.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca más.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 5048
+}

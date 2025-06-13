@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.69,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "A Sergio Massa lo agarraron con las manos en la masa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Gobierno de Alberto Fernández y Cristina Fernández de Kirchner no quiere oír hablar de elecciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Saben que el riesgo de perder es muy grande, debido al voto castigo que se espera por la hecatombe económica, la catástrofe sanitaria, la inseguridad creciente y la búsqueda desesperada de impunidad y venganza por parte de Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En su momento, sus críticas a la kleptocracia kirchnerista y a La Cámpora fueron brutales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa era un cruzado contra los camporistas. ",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy es el principal socio y cómplice de Máximo Kirchner, el comandante en jefe de la \"Orga\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la última encuesta de Imagen Negativa de la Universidad de San Andrés, Sergio Massa y Alberto Fernández comparten el tercer lugar con el 48% de rechazo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Solo son superados por Axel Kicillof con el 56% y Cristina Fernández de Kirchner con el 65%.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tal vez por eso Sergio Massa no quiere elecciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tal vez por eso recibe tantas críticas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2304
+}

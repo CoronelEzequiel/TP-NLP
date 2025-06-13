@@ -1,0 +1,31 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Para el gobierno, todo es campaña, inclusive hasta el abuso.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La clave del problema consiste en que, en gran medida por la pésima política energética que tuvo durante años el kirchnerismo, la falta de gas se transformó en un problema macroeconómico, ya no en un problema sectorial.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Debemos preservar nuestras libertades y derechos, aún si esto dificulta el combate del narcotráfico?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si ustedes no cierran rápido el acuerdo con la Argentina, China pone o le permite a la Argentina usar el swap de monedas, los yuanes que tiene Argentina, chinos, para pagar por adelantado todos los vencimientos que tiene la Argentina de acá a diciembre",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7176
+}

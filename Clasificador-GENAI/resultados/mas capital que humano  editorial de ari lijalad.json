@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.131,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es decir, se están utilizando recursos públicos para intimidar a la población.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En otras palabras, parece haber recursos para una línea de denuncias anónimas, pero no para atender casos de violencia contra las mujeres.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de Milei, por lo tanto, está generando inflación mediante la liquidación de los ahorros.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un plan económico que implica el saqueo de los ingresos de la población y su transferencia al capital, profundizando una tendencia ya en marcha.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este protocolo, denunciado por más de 1700 organizaciones ante organismos internacionales por violación a los derechos humanos, se relaciona directamente con la amenaza de Pettovello (\"el que corta la calle no cobra\").",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo indica una estrategia articulada para reprimir las protestas contra la transferencia de riqueza hacia el capital.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La declaración de Pettovello solo deja en evidencia que este gobierno prioriza el capital por sobre el bienestar humano.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1651
+}

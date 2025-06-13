@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.171,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La verdad es que cada vez que en Argentina se dijo \"No voy a devaluar\", se devaluó.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Domingo Cavallo mantuvo una extensa conversación con el presidente, quien estaba muy enojado con él. Cavallo intentó hacerle entender la necesidad de una devaluación inmediata para evitar una crisis mayor.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Kicillof, destacado economista peronista con publicaciones de alcance internacional, cuestionó la política económica del gobierno, que intentaba desviar la atención hacia otros temas, como la situación de las mujeres trans o la eventual salida del país, en lugar de abordar el problema de la inflación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno ha estado utilizando reservas para esterilizar pesos, es decir, comprando dólares para controlar la masa monetaria.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mantener este precio artificial del dólar le costó al gobierno 19 mil millones de dólares el año pasado, lo cual es insostenible.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos los datos indican la insostenibilidad del tipo de cambio actual.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente, desesperado, intentó frenar la corrida, pero su única estrategia, \"planchar el dólar\", es insostenible a largo plazo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2290
+}

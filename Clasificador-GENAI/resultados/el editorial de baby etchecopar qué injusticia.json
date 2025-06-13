@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.781,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La señora que afirma que Cristina Kirchner tiene un problema… debería recibir atención profesional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Senado es un nido de corruptos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner, en su verborrágico discurso, dijo que Alberto Fernández la traicionó.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me pareció un monólogo de un borracho desquiciado por el poder.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y usted, señora, con todo respeto, piensa que somos todos idiotas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo estoy enfrente, no abajo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con la censura del fascismo de izquierda que usted representa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Seguimos creyendo que usted es culpable hasta que se demuestre lo contrario.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1981
+}

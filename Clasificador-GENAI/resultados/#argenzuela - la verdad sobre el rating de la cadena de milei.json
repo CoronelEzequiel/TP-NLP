@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.231,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se le explicó que, incluso considerando ese número (que luego pondré en duda), se trataba de la cadena nacional, obligatoria para todos los canales de aire y noticias, lo que inflaba considerablemente la cifra.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La discrepancia se debe a un error de cálculo: se sumaron los totales de televisión abierta y cable, considerando erróneamente que todos los canales de cable participaban en la cadena nacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Adorni afirma haber alcanzado los 50 puntos en una emisión de *VideoMatch*, recordando el encuentro con él en esa ocasión (en la que *ShowMatch* obtuvo 20 puntos, mientras que *VideoMatch* logró 40).",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La comparación con el rating de los diarios de los años 90 no es válida, ya que el panorama mediático actual es radicalmente diferente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Respecto a *Gran Hermano*, el crecimiento de este programa es beneficioso para la industria, especialmente para Telefe, el único canal que analiza seriamente las métricas de audiencia y las utiliza para su programación.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El auge de los canales de noticias (ocho en Argentina, en comparación con los dos principales en Estados Unidos) ha impactado en la televisión abierta, creando una competencia interna, como se evidencia en la competencia entre *Telenoche* y los conductores de TN a las 21 horas.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La fidelidad de la audiencia es un factor clave. *Gran Hermano* tiene un índice del 70%, mientras que *Argenzuela* alcanza un 30%.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "C5N fue el canal de noticias líder en ese mes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1732
+}

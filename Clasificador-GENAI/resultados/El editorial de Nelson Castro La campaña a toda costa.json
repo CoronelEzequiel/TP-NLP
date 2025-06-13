@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner representa una clara intención de volver a ese pasado que muchos, una minoría pero representativa, valora, y el deseo de lo que hoy es, en cuanto a su dispersión, una mayoría, dispersión en distintos partidos, que no quiere más aquello.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando vemos los tres hitos más importantes que protagonizó el kirchnerismo, que son las declaraciones de Fernanda Vallejos, candidata a diputada nacional por la provincia de Buenos Aires por Cristina, cuando dijo: \"Boudou es un perseguido político, igual que Perón, Evita, Cristina\", en esto y demás, uno ya tiene una marca de lo que es el pasado, la reivindicación de ese pasado, el pasado que se quiere hacer otra vez presente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso era mucho más que una protesta: era una provocación, una imposición, una actitud de decir \"nosotros por la fuerza nos imponemos\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y es más interesante cuando se analiza a algunos de los referentes de organizaciones que participaron en los hechos de ayer.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina habla del futuro, desentendiéndose del pasado, y lo que quiere para el futuro es imponer el pasado, su pasado, su pasado de poder.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el tercer punto, lo que sucedió hoy con el jubilado que se quitó la vida en una sesión de Mar de Ajó.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, y sobre todo desde el kirchnerismo, apareció esto de la utilización política de la muerte, cosa que, hecha desde el kirchnerismo con los jubilados, es realmente abominable.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1928
+}

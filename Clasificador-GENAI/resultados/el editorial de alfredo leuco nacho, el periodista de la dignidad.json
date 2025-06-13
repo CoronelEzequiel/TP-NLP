@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Creo que no me equivoco demasiado al calificarlo como el periodista de la dignidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En 1976, en plena dictadura de Videla, le pusieron una bomba en la puerta de su casa y, en 1983, el presidente electo Raúl Alfonsín lo convocó para que fuera su vocero.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sospechaba de la ultraderecha que publicaba un semanario llamado \"El Caudillo\", que lo había incluido en una lista donde lo acusaban de ser un marxista infiltrado en la iglesia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue cuando se trató de evitar la masacre del 2001.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue un esfuerzo monumental que, lamentablemente, de la Rúa subestimó.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1757
+}

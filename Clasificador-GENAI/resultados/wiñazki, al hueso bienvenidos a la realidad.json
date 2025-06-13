@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Al decir que la vacuna estará lista en el primer trimestre de 2021, las autoridades nos están indicando que, como mínimo hasta entonces —es decir, durante siete meses—, tendremos que aprender a convivir con el virus.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me sorprende que se hable de cuarentena cuando todo está abierto; una realidad que hasta ahora no se había reconocido abiertamente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Habrá que analizar si estas medidas son justas o injustas, considerando el esfuerzo realizado por la sociedad para combatir el coronavirus durante un confinamiento que, en la práctica, se fue flexibilizando y rompiendo, como suele ocurrir con muchas normas en Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este anuncio de hoy, a mi juicio, es positivo porque el presidente asume la nueva realidad: el virus estará entre nosotros, como mínimo, hasta el primer trimestre del año próximo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A pesar de las medidas, la gente sale a la calle, las fronteras siguen cerradas, hay muy pocos vuelos internacionales, el transporte de larga y media distancia sigue limitado, la gente no puede ir a sus casas de la costa por robos y usurpaciones y el transporte público no funciona como antes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1757
+}

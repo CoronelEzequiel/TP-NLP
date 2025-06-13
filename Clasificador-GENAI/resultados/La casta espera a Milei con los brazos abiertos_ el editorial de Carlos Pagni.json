@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Eso puede estar pasando en este momento con algunas decisiones que está tomando el gobierno y que irrumpieron, no en el centro de la escena, pero sí se hicieron notar en los últimos días.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El jueves pasado *Sergio Massa* viajó a Paraguay. Viajó como parte de su campaña presidencial donde utiliza el cargo de ministro de Economía para proyectarse en un nivel que no le daría el de mero candidato a presidente perdedor de una fuerza que salió tercera.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando analiza esto en la mesa de *Juntos por el Cambio*, dice que el kirchnerismo se convirtió –escucha la palabra porque es paradójica– en \"anti-patria\" porque resigna intereses de largo plazo, compromete intereses de largo plazo, dispone alineamientos automáticos –en este caso con una potencia imperial que sería China– a cambio de unas monedas que necesita *Massa* para llegar al fin de año, al fin del mandato y además para sostener su candidatura presidencial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Nuestro alineamiento de geopolítica –alineamiento de geopolítica– es Estados Unidos e Israel. Esa es nuestra política internacional. Nosotros no nos vamos a alinear con comunistas\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El modelo de la casta dice que donde hay una necesidad nace un derecho\". Ahora el problema radica es que las necesidades son infinitas y que si hay un derecho alguien lo tiene que pagar y si alguien lo tiene que pagar, les cuento que los recursos son finitos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habrá que ver si las consecuencias de esta medida se conocen con *Massa* presidente o cuando *Massa* ya se fue y que la cuenta y el problema lo pague otro, porque él tiene que ganar la elección.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8919
+}

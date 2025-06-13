@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Manuel Belgrano nació en cuna de oro y murió en la más terrible de las miserias.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner nació en un hogar humilde y murió multimillonario, con cientos de calles, puentes, barrios y plazas que recuerdan su nombre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la función pública, Néstor Kirchner se enriqueció ilícitamente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner dijo \"¡que te pases Clarín, ¿tenés miedo?!\" y fogoneó el plan sistemático de ataque a la libertad de prensa más feroz desde 1983.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner fue un populista autocrático, imaginó un relato a favor de los trabajadores, dinamitó sus organizaciones sindicales en varios pedazos y las cooptó con fondos y prebendas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no quiso recibir a la comunidad Qom para preservar su alianza estratégica con el señor feudal de Formosa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner multiplicó sus cuentas bancarias y bóvedas, pese a que fue empleado público durante más de 20 años, y le dejó una fortuna como herencia a su esposa y a sus dos hijos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner fracturó la sociedad en todas sus entidades y organizaciones intermedias, sembró el odio y nos hizo retroceder a los años 50, cuando la Argentina se partió en dos mitades, a favor o en contra de Perón.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está claro que este país, para salir del atraso, del autoritarismo y la corrupción, necesita mucho más el legado de Manuel Belgrano que lo que nos dejó Néstor Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la hora de romper los vínculos y de dejar de ser una patria esclavizada por los autócratas y por los ladrones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Manuel Belgrano cohesiona a los argentinos detrás de su ejemplo. Es una figura casi indiscutida como emblema del país que queremos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2576
+}

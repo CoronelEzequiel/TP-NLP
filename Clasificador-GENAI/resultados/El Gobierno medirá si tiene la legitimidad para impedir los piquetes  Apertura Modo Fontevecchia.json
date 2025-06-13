@@ -1,0 +1,61 @@
+{
+  "texto_id": "dia_9",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mañana, el nuevo gobierno intentará probar que tiene fuerza y legitimidad para impedir los piquetes en nuestro país, luego de una fuerte devaluación que mermó los ingresos de los trabajadores y los beneficiarios de planes sociales.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La ministra de Seguridad, Patricia Bullrich, y de Capital Humano, Sandra Pettovello, anunciaron que quien corte la calle no cobrará, o sea, no recibirá la ayuda del Estado y será detenido, y se le cobrará a la organización el costo del procedimiento.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a escuchar fragmentos de estas funcionarias refiriendo estos avisos y vamos a darle explicación y relación luego al título de esta columna: \"Día 9: Consenso o coerción\", que tiene que ver con una frase de Gramsci, que luego explicaremos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El que corta no cobra.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a contrastar algunos de los tuits referentes a lo que dijo Sandra Pettovello y Patricia Bullrich.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Usar Mi Argentina para decir 'el que corta no cobra'... O sea, usar Mi Argentina es la app donde todos los que cobran planes sociales se dirigen a través de ella.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decir un anuncio directo podríamos decir, persona a persona. Usar Mi Argentina para decir 'el que corta no cobra' es un acto fascistizante, o sea, fascista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el gobierno no encuentra consenso para reprimir las protestas, puede ser que las movilizaciones sean cada vez mayores y se empiece a perder el apoyo que obtuvo de la sociedad en las urnas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esperamos que podamos contar con puntos de consenso entre los argentinos para poder pasar las fiestas en paz y luego encarar un nuevo año con todos los desafíos que nos esperen. Le pedimos grandeza a los dirigentes que nos escuchamos para que eviten la coerción.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando Gramsci escribió en la cárcel sus \"Cuadernos de cárcel\", en donde planteó la idea de consenso o coerción, habría que agregar un elemento más, que lo vamos a ir desarrollando en las próximas aperturas, que es la resignación.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5635
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_horowicz",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Un modelo basado en el endeudamiento externo, la fuga de capitales (legal e ilegal), que permite a las empresas trasladar sus pérdidas al exterior, lo que conduce a nuevos endeudamientos y ajustes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La deuda, según Horowicz, no es mala praxis, sino un instrumento estratégico de disciplinamiento político.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se busca hacer creer que la derrota del peronismo es la derrota de todos, como si no hubiera alternativa, una idea similar a la de Margaret Thatcher.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Incluso Cristina Fernández de Kirchner destacó que Sergio Massa decía la verdad al pueblo: que se vio obligado a aplicar la devaluación posterior a las PASO por presiones del FMI.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1803
+}

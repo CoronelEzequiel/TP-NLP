@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.307,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mire, a los hombres de Estado la verdad que les importan un carajo con lo que está pasando, porque es todo, la política argentina es espasmódica, actúa cuando hay un hecho, pero actúa para cuidarse el culo nada más, porque después no les interesa nada.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces cada vez que tenemos un hecho de estos, empiezan los caranchos de la política a presentar proyectos, esto y después desaparecen.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque acá se tienen que poner todos los diferentes actores a coordinar un mecanismo para que esto no suceda y créame que no es difícil, créame que no es difícil porque si hay algo que caracteriza a la provincia de Buenos Aires, que es sacando el narcotráfico, que es otro tema para hablar, después no hay delitos complejos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces hasta que no se pongan de acuerdo la política en su conjunto, hasta que no se ponga de acuerdo el poder judicial, estos testimonios lamentablemente los vamos a seguir escuchando y créame que no es difícil la provincia de Buenos Aires.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque cuando se habla de la ley de imputabilidad, ¿usted para qué quiere bajar la ley de imputabilidad? Para que ese menor vaya preso, ¿o no?",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la pena es lo mismo. Entonces, en el problema de la ley penal juvenil que se ha hecho en la provincia de Buenos Aires, el juez tiene el poder de encerrar a un menor.",
+      "score": 0.45,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces la sociedad no se puede dejar engañar con estos discursos que lo único que son, son canto de sirena.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4464
+}

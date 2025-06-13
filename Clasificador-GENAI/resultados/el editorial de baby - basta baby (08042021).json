@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los Montoneros tomaron la avenida del Libertador y, a gritos de \"¡Bioperón, Bioperón, Biobabita, Bioperón, carajo! ¡Che Guevara!\", rompieron todo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que no es momento para decir que hoy Alberto estaba nervioso, que fue un grosero, un maltratador, porque, en realidad, creo que hay una parte de Alberto que es grosera y maltratadora y se manifiesta cada tanto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En vez de politizar la cuarentena y basurear al que piensa diferente, tendría que tener un gesto mínimo de humildad, señor presidente, y decir: \"Nos equivocamos, hicimos todo mal, ayúdenos\".",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso creo que hasta eso maneja mal Alberto.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted, señor, que es el padre de la familia loca que hay, olvídese de Cristina.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De un gobierno miserable, de un gobierno lleno de delincuentes, de un gobierno que no puede satisfacer los problemas sanitarios de la población adulta, de un gobierno que no sabe cómo explicar la derrota y el fracaso, de un país que hace un año y medio está fundido y quebrado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, señor presidente, y con todo respeto y discúlpeme, me subo acá para no tocar piso argentino a hablar de usted, ¿por qué no se pone a gobernar y se deja de insultar?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2724
+}

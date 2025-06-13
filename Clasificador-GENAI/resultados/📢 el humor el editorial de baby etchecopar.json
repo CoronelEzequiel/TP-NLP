@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.617,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y yo entré en una cruzada, así como fui el primero hace 20 años con Jorge Lanata, Lilita Carrió, un montón de locos más, como los locos de la Azotea, en empezar a combatir esto que estamos terminando de combatir, que es el fascismo del populismo berreta y los chorros del gobierno.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el control del humor es directamente proporcional a la hipocresía, al sadismo y al fascismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque a la gente le robas la sonrisa y te haces cargo de darles la voz en dosis homeopáticas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no tenemos que permitir que nos roben la risa.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que volver a ser felices.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero directamente, si nosotros nos dedicamos a llorar, estamos perdiendo un tiempo maravilloso de la vida.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2982
+}

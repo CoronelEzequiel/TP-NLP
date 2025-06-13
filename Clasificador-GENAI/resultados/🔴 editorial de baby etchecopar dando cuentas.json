@@ -1,0 +1,46 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay gente, gracias a Dios, todavía queda un 50% de los argentinos –entre los que se encuentran los políticos– que dicen qué comemos, no qué vamos a comer.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo quiero saber qué van a hacer con la gente, porque acá hay que dar soluciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es horrible la indignidad de tener que tener la mano estirada. Y peor, la indignidad de entrar al cuarto oscuro, renunciando a tus ideales, por los ideales de otros, a cambio de la comida para tus hijos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso hoy abrí con un alto dirigente político y le dije, \"terminemos con la fiesta, terminemos con la pelota de 'vamos a la jura, rapidito', y a gobernar, flaco, a ver qué sabes hacer\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy harto de mentiras. Vamos con Eduardo a hablar del hambre, de la mesa navideña vacía, y de ese Papá Noel al que algo le pasó a las cataratas en los ojos, que no pudo leer la carta de algunos chicos pobres.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que vamos a hablar no de lo que pasó, tampoco de lo que está pasando, sí de lo que va y puede pasar, si no tomamos al toro por las astas, no nos acojonamos, no llamamos a una unidad nacional, no llamamos a una mesa del hambre real, no la mesa de los ricos de careta que puedan hacerse los solidarios, sino la mesa del hambre de verdad, y le damos solución, porque decirle a la gente \"los vamos a echar\" no es una solución.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo confío en una Argentina en paz, armonía, y con los egos... para tener ego hay que ser *grosos*, y acá no hay ningún *groso*.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4094
+}

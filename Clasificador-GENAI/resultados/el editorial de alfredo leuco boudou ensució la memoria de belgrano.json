@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Entiendo que el fanatismo ideológico o el dinero fácil llevan a mucha gente a rendir pleitesía a personajes indeseables.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero aplaudir con obsecuencia frente a un delincuente de estado de semejante magnitud, supera todos los límites.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Boudou es el ícono del latrocinio y el robo a mano armada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Boudou está en las antípodas de Manuel Belgrano.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Pretenden instalar que Boudou es un dirigente honrado, cuando es todo lo contrario?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Necesitamos cada vez más transparencia y honradez, y resulta que adulan a un ladrón de estado.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2225
+}

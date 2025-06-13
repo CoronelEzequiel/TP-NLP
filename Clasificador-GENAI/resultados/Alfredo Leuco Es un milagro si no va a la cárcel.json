@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Milagro no es una presa política ni una política presa, es una delincuente condenada, y esto no lo dice Gerardo Morales ni la justicia de Jujuy, sino la justicia federal, la Cámara de Casación Penal y la Corte Suprema de Justicia de la Nación.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Milagro Sala recibiera el indulto de Alberto Fernández, como ella misma lo exige, sería mucho más que un milagro penitenciario: sería un escandaloso ataque a la justicia y una semilla nefasta para la inmensa mayoría honesta y democrática de la sociedad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablan de Milagro Sala como si fuera una militante social pacifista y honrada, cuando en realidad, como dijo el abogado, es una delincuente que aprovechó su poder en la Tupac Amaru para robar fondos que son de todos y para someter casi a la servidumbre y castigar a muchos piqueteros, especialmente mujeres.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que Cristina Fernández de Kirchner fue quien ordenó que liberaran a Milagro Sala lo antes posible y que nada ni nadie los detenga.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milagro Sala no es una \"Carmelita Descalza\" perseguida por la oligarquía, los medios y el imperialismo, como nos quieren hacer creer, y tampoco está presa arbitrariamente.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milagro no combatió la pobreza; ella combatió, maltrató y agredió a los pobres, los estafó.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2448
+}

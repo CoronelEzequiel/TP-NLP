@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto es, interpretar el enfrentamiento entre Mauricio Macri y Horacio Rodríguez Larreta en términos de intereses personales, egos y subjetividades; factores relevantes y presentes, pero no determinantes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su administración nació condicionada por la crisis y por la espada de Damocles del Fondo Monetario Internacional (FMI), al que ninguna facción del Frente de Todos estaba dispuesta a enfrentar seriamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando todos respaldaron a Sergio Massa, quien aplicó el ajuste exigido por el FMI, incluso superando algunas metas, con el respaldo del albertismo, el kirchnerismo y otros sectores.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri se bajó de la candidatura porque era la cara más visible de la ruina de su gobierno (2015-2019).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larreta y los radicales saben que esto generaría un alto costo social y político.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso del Frente de Todos, el ajuste, acelerado con Massa, generó malestar y rechazo, pero no fue lo suficientemente profundo como para conformar a los factores de poder que permitan impulsar un ciclo expansivo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero el factor Milei debe entenderse en el contexto de las relaciones de fuerza: una sociedad cansada, frustrada, pero no derrotada, y no dispuesta a perder derechos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inflación actual demuestra la imposibilidad de implementar un plan similar, lo que reclaman sectores como la Sociedad Rural.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es importante no identificar mecánicamente desplazamientos electorales con relaciones de fuerzas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1998
+}

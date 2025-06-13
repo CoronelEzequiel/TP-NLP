@@ -1,0 +1,111 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.905,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Es un hecho sumamente importante porque este delincuente tenía vínculo directo con quien acabamos de escuchar, Néstor Kirchner, y porque fue la llave que abrió las relaciones carnales y mega corruptas entre el chavismo y el kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Guido Alejandro Antonini Wilson hoy vive en Miami y confesó ante el FBI de los EE.UU. que ese dinero sucio era para la campaña de Cristina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hugo \"El Pollo\" Carvajal, ex jefe de inteligencia venezolana, reconoció ante la justicia española que esos dólares eran solo una parte de un total de 16 valijas por 21 millones de dólares.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los negociados y estafas que hicieron Uberti y Néstor Kirchner hicieron que muchos rebautizaran a los líderes de la \"Patria Grande\", como se autopercibían, como \"los jefes de la plata grande\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uberti, en aquella madrugada de agosto del 2007, fue directamente a la quinta de Olivos a informarle a Néstor Kirchner y a ver cómo hacían para encubrir el delito.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Formalmente, Uberti era solo el encargado de controlar los corredores viales, pero en la práctica era el custodio y el ejecutor de los monumentales negociados corruptos que hicieron ambos presidentes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uberti reconoció una operación colosal digna de una película de terror: Chávez compró 500 millones de dólares en títulos de la deuda argentina, luego hizo una \"bicicleta\" aprovechando la brecha terrible que había en Venezuela entre el dólar oficial y el mercado paralelo, o \"dólar blue\" como le decimos ahora.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El resultado de esa trapisonda fue que ganaron, entre comillas, o se robaron, mejor dicho, 100 millones de dólares.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uberti fue el encargado de traer los 25 millones de dólares que le tocaban a Néstor en un avión.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eran billetes verdes físicos, contantes y sonantes, y estaban acomodados también en valijas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En una reunión de los presidentes de Iberoamérica en la Isla Margarita, Néstor le dijo a Uberti que le reclamara a Chávez por los otros 25 millones, porque no creía en eso de las comisiones.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ambos tenían una bulimia sin límites por el poder y por el dinero, pero se llenaban la boca hablando de los pobres, del \"Socialismo del Siglo XXI\" y de la admiración hacia Fidel Castro.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, 16 años después, Uberti fue condenado solo por el tema de la valija de Antonini.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les recuerdo que en la actualidad desde Irán le envían petróleo y dinero para sostener al régimen de Nicolás Maduro.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Oscar Laborde, que es el actual embajador argentino en Caracas, por momentos pareciera hablar en nombre de un dictador investigado por crímenes de lesa humanidad en La Haya, como es Nicolás Maduro, defensor de la libertad y de la democracia en Venezuela y en la región.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos produce vergüenza ajena que siempre el gobierno de Cristina, Alberto y Sergio Massa se pongan del lado de una narcotiranía, donde los presos políticos son torturados diariamente.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, Cristina y Sergio Massa siguen siendo cómplices del chavismo que destruyó a Venezuela y expulsó al exilio a más de 6 millones de sus ciudadanos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo empezó con aquella valija de Antonini para la campaña de Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pasaron 16 años y fue condenado Claudio Uberti, el recaudador de esa relación carnal y cleptocrática.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está claro que la ideología era apenas un escudo para robar fortunas, ideales a los pueblos de Venezuela y Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3221
+}

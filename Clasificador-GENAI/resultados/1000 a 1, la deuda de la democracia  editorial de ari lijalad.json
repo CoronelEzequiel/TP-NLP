@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.264,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que deberían escucharla de nuevo porque tengo una noticia sobre esto que acaba de salir.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se dice que hay que liberar a los genocidas porque se van a tener que tomar medidas impopulares y entonces habrá que reprimir.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y los que saben reprimir, matar, torturar y desaparecer son los que están presos por crímenes de lesa humanidad.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque lo que muestra lo que dice Pando es que la dictadura fue cívico-militar y que necesitaron del aparato militar, de las torturas, los secuestros, el terror y el terrorismo de Estado para imponer un modelo económico que sin eso era imposible de imponer.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos 1136 condenados por crímenes de lesa humanidad entre militares y civiles que no eran empresarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El caso Blacker es muy parecido al que hubo condena hoy, porque la condena de hoy se trata de un trabajador de La Veloz del Norte que fue secuestrado en la empresa, trasladado en un auto de la empresa y torturado después en un centro clandestino de detención.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos seguir hablando de esto porque, como bien reconoce Cecilia Pando, se necesitó a los militares para implementar un plan económico cuyos beneficiarios no fueron los militares (excepto algunos, sobre todo de la Armada, que se dedicaron a robar los bienes de las personas secuestradas y después armar inmobiliarias, financieras, etcétera).",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los beneficiarios fueron los empresarios, un grupo de empresarios (tampoco quiero generalizar; también hubo empresarios secuestrados, torturados e incluso desaparecidos, como Rafael Perrota, dueño del diario \"El Cronista Comercial\" en ese momento).",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella dice que, en vez de pagar impuestos, la gente del barrio se junta y dice: \"Hagamos algo ahora, por ejemplo, la cloaca\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Y de dónde sacan la plata? De los impuestos que dejan de pagar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Diana Mondino, viva usted sin impuestos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora no toque nada que se haya hecho desde el Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando escuchan decir: \"No quiero pagar más impuestos o se cobran demasiados impuestos\",  ¿cuáles? ¿Qué quieren resignar?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En realidad, lo único que quieren son privilegios: no pagar impuestos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2577
+}

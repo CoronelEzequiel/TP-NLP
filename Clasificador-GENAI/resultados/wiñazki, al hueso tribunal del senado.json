@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.71,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se removerá a Leopoldo Bruglia y Pablo Bertuzzi, camaristas federales que intervinieron en numerosas causas de corrupción kirchnerista, incluyendo la condena de Amado Boudou.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este tribunal es el encargado de juzgar a Cristina Fernández de Kirchner en la causa de los cuadernos de las coimas, una causa de corrupción con una gran cantidad de pruebas, incluyendo confesiones de empresarios y funcionarios implicados, así como el descubrimiento de bienes multimillonarios pertenecientes a secretarios privados de los Kirchner, como el fallecido Daniel Muñoz, quien adquirió dos departamentos en el Hotel Plaza de Nueva York, entre otras propiedades.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana, Cristina Fernández de Kirchner, si preside la sesión, liderará la votación que removerá a un juez que la juzgará en la causa de corrupción más significativa de la democracia argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta acción genera una profunda controversia sobre la independencia judicial y el estado de derecho en el país.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La oposición no cuenta con los votos suficientes para bloquear la medida.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1409
+}

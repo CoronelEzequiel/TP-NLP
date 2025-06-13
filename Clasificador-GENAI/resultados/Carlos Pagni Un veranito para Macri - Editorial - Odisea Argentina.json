@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno se ha propuesto construir una atmósfera más aceptable para colectar, conseguir votos para Macri.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el dólar está donde el gobierno quiere que esté, hay previsibilidad, el gobierno tiene las riendas de la vida pública; si el dólar está en un lugar donde el gobierno no pronosticó que iba a estar, el gobierno está “quemado”.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay toda una discusión, que después hablaremos con Marcos Buscaglia, respecto de cuánto liquida y cuánto no liquida el sector exportador de esos dólares que se hacen con la venta de los granos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un personaje central en Cambiemos a la que le está yendo, y usted ya por el género que usted debe estar dándose cuenta de quién hablo, en las encuestas mejor que a Macri y, en la elección, peor que es María Eugenia Vidal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Va a tener que remar mucho Alberto Fernández para explicar que esta es una Cristina distinta de la Cristina populista que dejó el poder en el 2015, estatizando, yendo contra la justicia, contra los medios, etcétera",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6370
+}

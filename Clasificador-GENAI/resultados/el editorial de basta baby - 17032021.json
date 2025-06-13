@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Quiero destacar que me gustó mucho ver a Berni y a Javier Milei unidos en la búsqueda de la niña.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero también debemos comprender que Maya es una víctima más de la inoperancia política, del hambre y la miseria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me pregunto cómo el populismo permite que una niña viva en esas condiciones infrahumanas, bajo una lona, durmiendo con tres cartoneros y su madre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es fácil calificar de misógino a quien defiende a las mujeres, pero ¿dónde está la libertad de una niña de siete años que se sube a una bicicleta con un supuesto secuestrador?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Me preocupa que estemos avanzando hacia un régimen totalitario.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi pregunta es: ¿quién le paga la cerveza al populismo que nos gobierna y nos lleva por este camino?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las activistas pro-derechos reproductivos deberían estar movilizadas exigiendo la vida de esta niña, que también es mujer, en lugar de abogar por el aborto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1681
+}

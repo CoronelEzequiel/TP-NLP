@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Empecemos con el programa de esta noche.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto Fernández del peronismo puro, la gobernadora del peronismo puro, Cristina Fernández de Kirchner del kirchnerismo, algunos del marxismo… cada uno querrá imponer su ideología y se enfrentarán.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ya sufrimos doce años, y en los 70, diez más, rehenes de una guerra que no causamos, ni hicimos, ni vivimos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, sí se les ocurrió a los hijos de Hebe de Bonafini y Estela de Carlotto, y a sus nietos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repudio a Sabatella. Sabatella es malo como todo petizo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si esa es la gente que has traído, si ese es el gabinete que nos vas a imponer, yo aguantaré dos años, pero después te votaré en contra en un 99%, porque este país no lo queremos y lo que estamos viendo es una catástrofe.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese 30 o 37% es un cáncer permanente, un cáncer del país.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi madre, una mujer mucho más decente, madre de un héroe de Malvinas, nunca se colgó un pañuelo blanco para asociarse con los padres de los desaparecidos, nunca hizo las payasadas que usted hace.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a crear un partido político, no para entrar en política, sino para… los indignados.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que fueron los Montoneros, Perón, López Rega…",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hagamos un club de defensores del pueblo, pero no de la payasada, un club para defender al pueblo y las instituciones democráticas, no las dictaduras venezolanas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando esté llena de causas penales, y no de programas en Canal 7, cuando quiera dar lástima, aprenderá a callarse la boca y dejar de humillarnos a todos los que no pertenecimos a esa banda de delincuentes que secuestraban gente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No voy a permitir que usted, sin ningún mérito moral, me acuse de haber participado en el golpe.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le voy a mandar una demanda, ya la están preparando.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2576
+}

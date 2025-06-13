@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Para empezar este programa de esta noche, mi repudio a lo que le hicieron al presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los K empezaron a escrachar gente como una forma, como todos los inventos nefastos de Cristina, que es un cerebro puesto al servicio del mal.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y se transformaron estos pedazos de nazis que tenemos hoy en el gobierno, que siguen una teoría castro-madurista, que van por todo, que hoy nos mostraron otro ejemplo más de cómo se manosea la justicia como si fuera plastilina, cómo se le toca el culo a los jueces y al pueblo argentino, que somos bastante mansos y pelotudos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque la palabra escrache no existía en la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los K empezaron a escrachar gente con la historia de, como habían comprado los derechos humanos, que era el bondi que mejor los llevaba al populismo, y empezaron a escrachar a militares.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, estos son los mismos malos que ayer, anteayer, defendieron a Alberto, porque era el mismo sindicato, con la diferencia que no eran tan malos, porque permitieron que al presidente le den dos sopapos por la cabeza y habían de dos pies de gaso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El escrache, como decía, y la violencia, la implementó nuestra querida maléfica, Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Que votar en contra ahora cuando venga la legislativa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y este es un país asqueroso en este momento, con una justicia asquerosa, repugnante para mi gusto, con una falta de respeto brutal para los jubilados, con una falta de respeto brutal para los viejos, una falta de cagarse en los jóvenes, porque tu hijo puede tener seis palos verdes, pero el mío no, o sea, nos salvamos el grupo de los diez, igual que con Maduro, igual que con Castro, ¿no?",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso también hay que entender que repudio lo que le pasó al presidente, pero hay gente que está enojada porque se dio cuenta que a Maldonado no lo mató nadie y que fue el comienzo de la campaña para quedarse con las riquezas del sur.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3149
+}

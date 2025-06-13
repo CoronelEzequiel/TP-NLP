@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Como decía recientemente Pilar Rahola, hace casi dos décadas que el kirchnerismo tiene secuestrado al peronismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vimos una gran fragmentación expuesta en la coalición de gobierno, muchos oradores que parecían opositores y pequeñas rebeliones en la granja.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Eso es grave para la liturgia del peronismo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Perdió el encanto entre los jóvenes el autoritarismo chavista, acá olfatean una derrota contundente en las próximas elecciones del año que viene.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El peronismo está hecho mierda, dijo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren, la historia de Santa Cruz demuestra que el kirchnerismo degrada y destruye todo lo que toca.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esa flexibilidad justicialista, que fue del neoliberalismo de Menem hasta el chavismo de Cristina Fernández de Kirchner, hoy está anquilosada por la sumatoria de fracasos económicos que nos han condenado al 50% de la pobreza y al 100% de inflación anual.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, ¿arrastrará al peronismo en su caída libre? ¿Sepultará al peronismo como fuerza multitudinaria y popular?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2224
+}

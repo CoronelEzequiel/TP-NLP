@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los granjeros, bravos anarquistas de izquierda, piden precios más bajos para arrendar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señores, comienza el boicot, ¿vale?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La enorme mayoría de la sociedad argentina, hace muy poco, dijo basta de chorros, de piquetes, de inseguridad, de inflación, de emisión, de corrupción, de soberbia, de dólar blue, de planes sociales, de vivir mal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La sociedad se cansó del piquete, de la patota, de la falta de respeto, de lo chabacano, de lo vulgar, de lo mediocre, de lo descortés, de lo ordinario, de lo violento, de lo belicoso.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El PRO ha perdido su identidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estuve y estoy en contra de entregar el PRO a Milei.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuidado con eso. Por eso, aflojen, porque si no, al palo se lo pueden pegar ustedes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3972
+}

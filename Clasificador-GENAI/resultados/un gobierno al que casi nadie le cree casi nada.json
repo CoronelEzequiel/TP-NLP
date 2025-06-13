@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.86,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Un gobierno en el que casi nadie confía.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es la inflación sino una estafa serial, un ajuste permanente, un impuesto a los más pobres, un robo encubierto?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No son un gobierno, son una máquina de obstrucción para controlar y quedarse con todo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Descargan su venganza sobre la clase media, y quien se atreva a preguntar es tildado de golpista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Señora Vicepresidenta, deje de pontificar sobre economía; las ruinas de este gobierno son evidentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1802
+}

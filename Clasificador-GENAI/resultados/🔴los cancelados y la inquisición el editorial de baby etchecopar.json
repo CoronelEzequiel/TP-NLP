@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No se toca porque fue una herramienta fascista para prohibir al que no te gustaba.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Conmigo, Cristina lo intentó durante diez años. Buscó por dónde atacarme para que no fuera más al teatro, para que no hablara, para que no opinara, para que no hablara de la libertad, para que no señalara a los corruptos y a los ladrones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, estoy en contra. Cada uno es libre. Y esta es la libertad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo peor que puede pasar en un país es que empiece la Inquisición, porque ahí se acaba la libertad y la democracia.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos periodistas. Vamos a tener un punto de vista, pero... Yo me puse pelo porque el buitre tiene la cabeza pelada para no infectarse cuando entra en la panza de los animales agusanados y se come las vísceras podridas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3627
+}

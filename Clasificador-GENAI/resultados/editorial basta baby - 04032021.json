@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.823,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Escuchamos una locución de una hora y pico. Puteando a la justicia, basureando al periodismo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Señora, ¿usted es la reina de la Argentina?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero es verdad que tiene un núcleo duro, Cristina. Es el núcleo duro que no sabe inglés.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando un juez nos llame por alguna causa... Nosotros vamos a decir, ¿usted sabe que llaman todos unos porros? Hijo de puta, me llaman a mí, en cambio de estar llamando al otro.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y usted compara un delincuente con otro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igualmente, esa fantochada que hizo hoy en la justicia, es más, desde el Senado, porque ahora usa el Senado para hacer stand-up.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tiene una cualidad usted que nos revuelve las tripas a todos los argentinos, que es esa soberbia que no apoya en ningún lado.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La verdad, Cristina, usted no tiene dónde apoyar la soberbia.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mire, te voy a contar, yo a esa hora estaba en la radio, y en un momento bajamos el sonido de la tele porque volvimos al aire, y yo la veía así en sonido y me daba vergüenza ajena.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y me daba pena también por sus hijos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y vayan a reponer el busto que los patoteros esos que tienen cabeza de termo rompieron en el velorio de Maradona.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No nos toquen a los héroes. No nos toquen a los próceres. Ni mucho menos a la gente digna que hizo la democracia en la Argentina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes se pueden comparar con Idi Amin Dadá. Ustedes se pueden comparar con Maduro. Ustedes se pueden comparar con Fidel Castro, con Chávez.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y si la condenan también me importa un carajo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero honestamente, señora, y con todo respeto, se lo digo como argentino, no se meta con Irigoyen.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3451
+}

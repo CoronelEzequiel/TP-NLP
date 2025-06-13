@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es imperdonable que fanáticos que se llenan la boca hablando del pueblo y de la igualdad, a la hora de la verdad, se hayan apropiado de los salvavidas y arrojado del barco a los demás.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estos salvajes gritaron en silencio: \"¡primero nosotros, los kirchneristas!\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este gobierno, de mediocres y no de científicos, está desarrollando un plan de impunidad para Cristina y no logra establecer un buen plan de vacunación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fracaso absoluto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo esto es grave, pero lo más terrible fueron los traficantes de vacunas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2110
+}

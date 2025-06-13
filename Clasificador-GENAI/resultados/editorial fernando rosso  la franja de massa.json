@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.444,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La fórmula preferida de Cristina Kirchner era precisamente la de Urtubey y Manzur, pero los gobernadores presionaron, los intendentes del conurbano bonaerense se quejaron, Alberto Fernández apuntaló el desafío de Scioli dentro de la interna, y todo ese enfrentamiento benefició a Sergio Massa.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Algo similar, en mi opinión, es aplicable al peronismo. El empate general que caracteriza la situación del país se refleja en el peronismo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aunque Massa está disminuido en su capacidad territorial y en su potencial electoral —en masa no es precisamente uno de los dirigentes más apreciados de la Argentina—, tiene vínculos importantes con factores reales de poder que lo hacen potencialmente más fuerte en la disputa interna, por lo menos.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa, y esto es verdad, al menos la segunda parte (la primera es discutible), tiene respaldos y socios empresarios como Daniel Vila y José Luis Manzano (en medios y energía), y mantiene históricas relaciones con la familia Rocca (del Banco Macro), con Gerardo Werthein (del grupo Werthein), con Marcelo Mindlin (Pampa Energía), con Sebastián Eskenazi, entre otros.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa también construyó lazos muy estrechos con figuras del Poder Judicial.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa también fue un aliado clave del macrismo durante aproximadamente la mitad de la gestión nacional de Cambiemos y durante toda la administración bonaerense de María Eugenia Vidal.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son conscientes de que pueden tener fugas por izquierda por haber elegido a Massa, y la mayor demostración de esto es el trato que recibió Juan Grabois.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jujuy, con esa combinación virtuosa entre lo político y lo social, marca una alternativa al centro, a la continuidad del ajuste y a quienes cubren las espaldas a Massa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2304
+}

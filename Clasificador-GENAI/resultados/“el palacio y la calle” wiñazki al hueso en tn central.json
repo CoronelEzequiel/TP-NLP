@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.667,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La calle se manifiesta con la fuerza de un terremoto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay mucha bronca por lo que pasó durante la cuarentena, por la crisis actual, por el miedo y por la gente que no puede retomar su actividad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Algo está pasando en la calle.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cada vez más gente se atreve a confrontar al presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La opinión pública está empezando a manifestarse, aunque no anticipo ningún estallido social.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Especialistas como Sergio Berensztein señalan que, dependiendo del sondeo, hay alrededor de un 30% de indecisos, y una parte importante de la clase media manifiesta su enojo con el gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1633
+}

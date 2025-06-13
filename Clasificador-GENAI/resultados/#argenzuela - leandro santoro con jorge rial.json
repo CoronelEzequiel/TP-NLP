@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.129,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La razón principal es la falta de conducción política de las fuerzas policiales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha está muy fuerte y se aprovecha de nuestras diferencias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos tener cuidado, porque la indignación puede llevar a fanatismos y a la búsqueda de soluciones mágicas, autoritarias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ultraderecha está consiguiendo una aceptación popular que antes no tenía.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En política, debemos mostrar compromiso, ideología y sensibilidad social, en lugar de peleas personales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos fortalecer el espacio, el Frente de Todos, y tener una propuesta unificada para enfrentar a la derecha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Frente de Todos necesita acumular poder político. Las transformaciones que necesitamos requieren mayorías en el Congreso y consenso social.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2182
+}

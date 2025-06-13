@@ -1,0 +1,51 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.188,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Para nosotros hoy, lo más importante que pasó en la Argentina es que finalmente, incumpliendo su última promesa, Alberto Fernández descendió a los sótanos de la democracia y se hizo cargo de una operación de espionaje clandestino para, poniéndola en su boca, presionar a la prensa que, según él, no la quería publicar.",
+      "score": 0.1,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy Alberto Fernández hizo algo que no se hace. Lo mismo que esos jueces hicieron algo que no se hace.",
+      "score": 0.15,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él había prometido no hacer uso de esas artes. Lo prometió en el discurso inaugural de su mandato. Y hay que decir algo, cumplió bastante.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández cayó en el fangal hoy, presionado por la Cristina que lleva dentro.",
+      "score": 0.1,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso crece Milei, Larreta, Vidal, porque ustedes, en vez de preocuparse por lo que pasa dentro del propio frente y en la propia intimidad, siguen diciendo \"no somos lo mismo\".",
+      "score": 0.15,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner, mientras tanto, sigue tomando distancia de Alberto Fernández.",
+      "score": 0.2,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, solito, se va hundiendo en los sótanos de la democracia, mientras Cristina no se moja los dedos. Casi que lo mira con compasión.",
+      "score": 0.1,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es la caída de octubre respecto de septiembre. ¿Qué es la línea amarilla? La línea amarilla es el índice de confianza en el gobierno de la Universidad de Itela.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8919
+}

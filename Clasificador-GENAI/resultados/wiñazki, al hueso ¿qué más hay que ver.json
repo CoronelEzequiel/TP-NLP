@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.879,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Ayer escuchamos una nota periodística de Paula Dañini, absolutamente desgarradora, sobre madres que se esconden en la selva para dar a luz a sus bebés por temor a que les sean arrebatados.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo 8000 personas varadas por el cierre total de la provincia, centros de aislamiento donde se obligaba a la gente a permanecer durante semanas, incluso con PCR negativos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Personas fueron encerradas en hoteles o en otros lugares de manera discrecional; opositores fueron encarcelados al denunciar la situación en los centros de aislamiento; y la represión del viernes pasado dejó un saldo de 93 detenidos y personas heridas por balas de goma.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ramírez conocía casos de madres a las que les habían quitado a sus bebés inexplicablemente, sin informar sobre su paradero.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Petri minimizó la información, hablando solo de violencia institucional policial.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Formosa conocía la situación.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La explicación de que todo esto era falso es inaceptable.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1429
+}

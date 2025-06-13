@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.688,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pareciera que todos los días nuestros gobernantes se levantan pensando cómo jodernos la vida, y te digo que casi lo consiguen todos los días, esto no termina bien.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno es puro relato. Es un relato que está atado con hilos. Y se está viendo absolutamente todo. Esto no termina bien.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un gobierno que apaña corruptos. Esto es tremendo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para el Frente de Todos el show debe continuar y continúa, por supuesto, el plan platita. Porque es imposible hacer kirchnerismo sin plata.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, el gobierno castiga a la gente que labura y ayuda solo a los planeros. Ya tenemos, como digo, siempre tres generaciones de planeros. Y más de la mitad de los argentinos son pobres. Esto no termina bien.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si sos K seguro que el Papa te recibe. Si estás a favor del aborto el Papa te recibe. Si sos feo, sucio y malo el Papa te recibe. Se ve que disfruta con los cumpas porque admira a Eva, ama a Pietragala.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Emitan sin miedo, muchachos, dice Gerardo Morales. Esto no termina bien, escúchenlo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ustedes, los discapacitados, no solo que no les importan, sino que se cagan en ellos. Ustedes esconden a los discapacitados debajo de la alfombra. Una vergüenza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8889
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "Buenas noches, bienvenidos oficialmente",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo te diría, motosierra 2.0, ¿no?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Venimos de una cleptocracia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno que está combatiendo la corrupción no puede tener un solo corrupto adentro.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, ante la mínima sospecha, lo voy a decir en latín: \"patada en el orto\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso digo que, con esta gente enfrente, a Milei le digo que no hay margen para relajarse.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Está claro que el gran acierto del gobierno es bajar la inflación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para eso, corruptos e inútiles, también, afuera.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4652
+}

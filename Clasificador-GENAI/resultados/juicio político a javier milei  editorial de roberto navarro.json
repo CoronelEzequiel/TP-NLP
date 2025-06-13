@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.161,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Milei instó a una \"rebelión fiscal\", llamando a no pagar impuestos en la provincia de Buenos Aires",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof, en realidad, disminuyó los impuestos para el 99% de los ciudadanos de la provincia de Buenos Aires.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal acción podría ser causal de juicio político.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta frase refleja la preocupación que existe en Argentina sobre la gestión del presidente, quien, según algunos, fomenta la violencia en el país de manera constante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se considera que la gestión del presidente es insostenible, ilegal e irrelevante.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Asimismo, se critica que el gobierno haya transferido miles de millones de pesos de los trabajadores a la élite, encareciendo servicios como la medicina prepaga, los medicamentos, el combustible y los alimentos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la elección entre garantizar la alimentación en los comedores y la continuidad del presidente, se prioriza la alimentación.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, se prioriza que el presidente sea sometido a juicio político antes de que se produzca un nuevo éxodo de científicos, como el que ocurrió durante el gobierno de Domingo Cavallo, y que el país se convierta en una economía exclusivamente extractivista.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En conclusión, se considera que este presidente es peligroso para todos los ciudadanos y que la mejor opción es que enfrente un juicio político y abandone el cargo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1796
+}

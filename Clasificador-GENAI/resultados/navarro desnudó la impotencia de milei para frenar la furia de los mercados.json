@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.163,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los inversores extranjeros mostraban su intención de abandonar Argentina.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La economía argentina está en crisis: los mercados se desploman, en cinco meses se duplicaron las suspensiones de trabajadores y el desempleo subió un 60%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 75% de los trabajadores públicos son pobres.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI exige a (Nombre del funcionario) una devaluación y unificación cambiaria como condición para otorgar 10.000 millones de dólares.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "(Ley) reprime para imponer su plan porque el FMI le exige un cierre social, y cree que puede lograrlo mediante la represión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, un plan económico aberrante desde el punto de vista social, que además no funciona ni siquiera para los mercados; ni para quienes deciden el valor del dólar, el riesgo país o el valor de las acciones argentinas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, este plan cuenta con el apoyo del establishment político, mediático y empresarial local.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando veo a estos grupos apoyando a este gobierno y tildando de desquiciado a (Nombre del funcionario), pienso que ojalá él fuera el único desquiciado en este país, porque me parece que hay muchos más.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1547
+}

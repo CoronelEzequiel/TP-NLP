@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Siempre me sentí en las antípodas de sus formas y de su contenido.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me generó una profunda tristeza, primero por lo sorpresivo y veloz del desenlace fatal y luego por el momento inquietante en donde la destrucción del COVID empieza a multiplicarse geométricamente, pero también y sobre todo porque en este tiempo edificamos un afecto muy especial con su hijo, con Jonatan Viale, al que muchos consideramos uno de los periodistas más completos y estudiosos del formato audiovisual.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Astuto y alegre, incisivo e informado, profundo y efectivo, se ganó mi estima en muy poco tiempo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Jonatan venía rodeado de éxito, disfrutando la construcción y la pasión de este oficio maravilloso, satisfecho por los altos niveles de audiencia y reconocimiento, y gambeteando los \"bardos\" envenenados de muchos mediocres y envidiosos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tal vez todo eso me sacudió el corazón de tristeza y, ¿por qué no confesarlo?, también su condición de hijo y padre en los medios, como Miguel y Nicolás Buonomo o Diego y yo, hay como una defensa de uno al otro, espalda contra espalda, un aguante de amor familiar que se convierte en escudo frente a las amarguras que esta profesión también tiene.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Miro la foto que el hijo posteó en las redes cuando todavía el padre estaba peleando y me emociona y me conmueve.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la hora de la verdad, lo único que no tiene contraindicaciones es esa foto que resume el núcleo básico de la sociedad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Jonatan, con ilusión y expresión de deseos, escribió que el padre se iba a poner bien porque era un toro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2076
+}

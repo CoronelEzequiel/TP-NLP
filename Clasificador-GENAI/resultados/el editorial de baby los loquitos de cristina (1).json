@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner vuelve con sus hijos, como del exilio, como una figura triunfadora que regresa para salvar a la patria.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su gobierno fue insoportable, y el día que se fue, salvo algunos pocos, todos festejaron.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vuelven porque Alberto Fernández, Cristina Fernández de Kirchner y sus allegados son sensibles;  Macri y Vidal no lo son.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri no los lleva en ómnibus a la plaza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo va a parar a esa gente cuando salga a matarnos?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1976
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero la otra noticia del día tiene que ver con un caso de presunto abuso sexual simple que involucra a uno de los políticos más poderosos de la Argentina, Fernando Espinoza.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero hoy en la Argentina, este símbolo, esta figura resulta más adecuada para contar y para simbolizar todo lo contrario.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los tres peces gordos son los de siempre, Cristina, Sergio Massa y Kicillof, quienes siguen permaneciendo ciegos, sordos y mudos como los monitos, con respecto a una noticia que acaba de suceder y que a nosotros como periodistas, ya te voy a explicar por qué, nos resulta alentadora.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En vez de negar los hechos, los abogados de Espinoza, la defensa del intendente, atacó a la presunta víctima.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, Fernando Espinoza y sus abogados consideraron a Melody Racaucas – ahora la vas a ver hoy – un agente inorgánico de inteligencia.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hemos visto en Argentina y en el mundo cómo las acusaciones, las cancelaciones, e incluso las condenas, se alientan o se agitan, de acuerdo o no a la verdad de los hechos, sino al color político del sospechado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ninguna organización feminista vinculada con el peronismo dijo una sola palabra.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y esto demuestra que a nosotros tenemos que resaltar la decisión del juez que lo condenó, Juan Ramos Padilla - Alperovich, quien a pesar de sus ideas políticas muy cercanas a la de Cristina, no dudó en mandarlo a la cárcel.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El silencio de Cristina y de Massa.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4060
+}

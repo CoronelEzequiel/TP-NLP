@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.883,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El tipo es un desastre en la pandemia del COVID, ¿te acordás? 130.000 muertos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es ser un verdadero caradura.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo le pido al presidente que recupere la sensatez que ha perdido, si es que la tuvo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peor presidente de la democracia da clases de diplomacia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Me da asco, repugnancia que estos tipos te saquen el manual de buena conducta presidencial.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que ser cararrota para criticar a Milei por cantar después de haberse pasado la presidencia de joda, fiestas en Olivos, modelos, actrices, pintoras, guitarrita, Baglietto, Vital, levabasónico...",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Por qué será que al kirchnerismo le comen la lengua los ratones cuando los victimarios son ellos, no?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso siempre insisto con que no tienen ninguna autoridad moral para indignarse.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por lo tanto, la sugerencia para todos es no dejarnos y combatir nunca más por estos caraduras que arruinaron los últimos 20 años.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4941
+}

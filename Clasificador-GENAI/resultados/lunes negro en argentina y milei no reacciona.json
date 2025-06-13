@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.138,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno enfrenta una situación compleja: si gasta muchos dólares para controlar el precio de los dólares paralelos, aumenta el riesgo país, demostrando su incapacidad para afrontar la deuda.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde hace ocho meses que asumió el actual gobierno, el consumo ha caído sin encontrar un piso. No hay una recuperación a la vista, sino un precipicio económico.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno está creando un marco legal para acciones autoritarias con el fin de controlar a una población cada vez más empobrecida y hambrienta.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La respuesta del gobierno son 100 mil millones de pesos para la CIDE (Agencia Federal de Inteligencia), la ley antimafia que permite encarcelar sin orden judicial y la ley que habilita el despliegue de las fuerzas armadas en territorio nacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1675
+}

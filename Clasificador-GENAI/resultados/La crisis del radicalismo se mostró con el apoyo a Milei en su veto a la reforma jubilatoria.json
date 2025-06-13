@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_radicalismo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.414,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, el Congreso decidió respaldar el veto del presidente Javier Milei a la nueva fórmula jubilatoria que le otorgaba una leve recomposición de haberes jubilatorios.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una de las claves del triunfo libertario fueron los cinco diputados radicales que habían votado la nueva fórmula jubilatoria y luego cambiaron su voto a favor del veto del presidente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin ánimo de entrometerme en los problemas maritales de aquellos que hoy se pelean para ser más oficialistas que el propio Milei, pero la verdad es que no puedo dejar de recordar una frase con la que, en junio pasado, obtuvimos las dos terceras partes en este recinto a favor de recomponer las jubilaciones de nuestros abuelos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei, por el contrario, odia al radicalismo, probablemente por razones históricas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alfonsín, como padre de la democracia, impulsó el juicio a las juntas militares, tuvo su enfrentamiento con el campo, intentó tomar medidas económicas de protección a los sectores sociales más vulnerables, todo lo opuesto a los valores que defiende Milei, quien tiene de vicepresidenta a Victoria Villarruel, alguien que se afirma y plantea una alternativa que es relativizar los crímenes de la dictadura militar y verdaderamente reivindicar el accionar de la propia dictadura.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizás la misma situación de identidad, crisis de identidad política, la esté viendo en este momento el peronismo, que nació medio siglo después, se históricamente tuvo raíces socialdemócratas, ante oligárquicas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre creí, y así lo dije con tantas en tantas oportunidades, que es la misión de los dirigentes y de los líderes plantear ideas y proyectos evitando la autorreferencialidad y el personalismo, orientar y abrir caminos, generar consenso, convocar al emprendimiento, emprendimientos colectivos, sumar inteligencias y voluntad, asumir con responsabilidad la carga de las decisiones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5225
+}

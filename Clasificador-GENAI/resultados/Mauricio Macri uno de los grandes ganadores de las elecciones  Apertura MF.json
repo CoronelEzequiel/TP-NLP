@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_macri",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Habló de que \"lo políticamente correcto\" era, literalmente, una \"mierda\", y luego continuó con declaraciones en un programa televisivo por la noche.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde esta perspectiva societaria, no sería incorrecto decir que Macri sintió que Horacio Rodríguez Larreta le amenazaba, siguiendo la terminología empresaria, con hacer lo que se llama un \"aggressive takeover\", o sea, tomarle agresivamente su sociedad, la que había creado Juntos por el Cambio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En un país que viene acostumbrado a relaciones políticas violentas, como nos planteó el kirchnerismo durante 20 años, que pensemos en esta nueva era de relaciones políticas respetuosas, afectivas, sabiendo que competís, pero no sos un enemigo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y, además, quiero decirte que la motosierra es fundamental, fundamental, pero tiene que ser parte de una caja de herramientas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri, muy inteligente, muy armado, en el cual partió de un pequeño partido que se llamaba PRO, fue sumando primero a los radicales, después a la Coalición Cívica, ahora suma a los peronistas desencantados, peronistas republicanos, y ahora suma también a La Libertad Avanza, logrando construir una amplia *holding* que logra tener el 60%, por lo menos, de las intenciones de votos expresadas en las últimas elecciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2891
+}

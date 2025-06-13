@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.069,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Parece que saben mucho de pollos, pero poco de respeto a las normativas laborales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente se cansó de tantas concesiones sin respuesta de la empresa.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La empresa no pierde dinero.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que la empresa intenta disfrazar con este pretexto de crisis anual es despedir a las personas con mayor antigüedad, aplicando la ley base para contratar a otros trabajadores con menores costos laborales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ahorran antigüedad, indemnizaciones, vacaciones e incluso parte de la indemnización por despido, ya que se descuenta un porcentaje del salario del nuevo trabajador.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen que tienen mano de obra cara, pero en realidad se está cobrando por el trabajo realizado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta radio siempre está del lado de los trabajadores, dando testimonio y amplificando sus voces.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se cree que los trabajadores somos ignorantes, pero es hora de levantarnos y exigir nuestros derechos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1782
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La vicepresidenta de la República Argentina, Cristina Fernández de Kirchner, enfrenta numerosos problemas judiciales que están afectando el funcionamiento del Poder Ejecutivo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se rumorea que la senadora Kirchner está utilizando su influencia en el Senado para obstaculizar el avance de las investigaciones judiciales que la involucran.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué Cristina Fernández de Kirchner busca evitar ser juzgada en la causa de los \"Cuadernos\", si se declara inocente?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El más importante es el juicio por \"Obra Pública\", donde es la principal acusada de haber montado una asociación ilícita para desviar 46 mil millones de pesos de la época a Lázaro Báez para la realización de obras públicas en Santa Cruz.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su accionar, que incluye presiones sobre camaristas, jueces, fiscales, el jefe de los fiscales y los arrepentidos de la causa de los \"Cuadernos\", entre otros, afecta el funcionamiento del Poder Ejecutivo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1314
+}

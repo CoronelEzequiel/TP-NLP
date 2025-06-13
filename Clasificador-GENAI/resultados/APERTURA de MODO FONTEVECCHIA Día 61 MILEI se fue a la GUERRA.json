@@ -1,0 +1,91 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.241,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero Milei se fue a la guerra aparentemente con todos, cumpliendo dos meses de gobierno mañana, 10 de febrero, cumple dos meses apenas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo último, lo que se sabe, y lo contábamos ayer a la mañana en vivo, fue la guerra con los gobernadores, abierta, descarnada, ahora sacándole a los gobernadores la plata que tiene que ver con el subsidio al transporte.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero en estos dos meses tuvo frentes abiertos con los diputados, después de que se cayera la Ley Ómnibus, con los que podían ser aliados, los radicales, la Unión Cívica Radical, con aquel posteo diciendo \"terminan siempre siendo las putitas del peronismo\", radicales, por supuesto, ofendidos con Javier Milei.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero vamos a ir repasando justamente lo que fueron estos dos meses del gobierno de Javier Milei, donde ha pasado absolutamente de todo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno hablaba de terminar con la inflación, bajar impuestos, recomponer los salarios, dolarizar, echar a la casta política; eran las principales banderas de gobierno.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hace dos meses, por lo pronto, lo que estamos viviendo es una inflación del doble, por ahora, del periodo anterior.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, aquí claramente Milei creaba un escenario mucho más apocalíptico que el que ya había, obviamente, con una economía destrozada que quedó después de los 8 años del gobierno de Mauricio Macri y de Alberto Fernández, para justamente comparar su gestión con lo que se venía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ministro de Economía, Luis Caputo, hizo una devaluación del 250%, pero vamos a escuchar lo que eran sus pronósticos en ese momento.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ajuste económico lo presentaba el ministro de Economía y la otra pata de este principio del plan de Milei, innecesario si la idea, justamente, es aplicar una política de ajuste, ¿qué hacer con la protesta social que inevitablemente llega cuando hay algún tipo de plan de ajuste y de recesión, sobre todo con lo que decíamos, alta inflación y bajos salarios?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y apenas asumido, pocos días después, ya mostraba claramente cuál iba a ser la relación con las provincias por parte de Javier Milei.",
+      "score": 0.25,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, y la frase de estos dos meses, que es \"no hay plata\", que se repite en el gobierno de Javier Milei, y \"no hay plata\", y en muchos momentos también \"no hay\" lo que tiene que ver con la función pública, \"no hay gestión\", porque lo que pasó en enero en los comedores fue complicado, las partidas no llegaron nunca, nunca estuvo la plata para los comedores comunitarios de los principales barrios y esto trajo muchísimos problemas, con la idea, claro, de correr a las organizaciones sociales de ese lugar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero el 28 de diciembre de 2023 hubo una manifestación de la CGT a tribunales, justamente en contra del Decreto de Necesidad y Urgencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En consecuencia, no hay solución alternativa al ajuste.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei en Davos, exponiendo su pensamiento más íntimo de lo que es la política internacional: \"Darles un mensaje a todos los empresarios aquí presentes y a los que no están, pero que nos están siguiendo desde todas partes del planeta. No se dejen amedrentar ni por la casta política, ni por los parásitos que viven del Estado. No se entreguen a una clase política que lo único que quiere es perpetuarse en el poder y mantener sus privilegios. Ustedes son benefactores sociales, ustedes son héroes, ustedes son los creadores del período de prosperidad más extraordinario que jamás hayamos vivido. Que nadie les diga que su ambición es inmoral. Si ustedes ganan dinero es porque ofrecen un mejor producto, un mejor precio, contribuyendo de esa manera al bienestar general. No cedan al avance del Estado, el Estado no es la solución, el Estado es el problema mismo. Ustedes son los verdaderos protagonistas de esta historia y sepan que a partir de hoy cuentan con Argentina como un aliado incondicional. Muchísimas gracias y ¡Viva la libertad, carajo!\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está en guerra también Javier Milei contra la sociedad argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dos meses de Javier Milei, Milei se fue a la guerra y desde aquí, por supuesto, hacemos un llamado para que vuelva a la paz.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6655
+}

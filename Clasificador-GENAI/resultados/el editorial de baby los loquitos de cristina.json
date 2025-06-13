@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner vuelve. La gente no sabe que vuelve, porque le armaron un lío en la cabeza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y se olvidan de que Cristina perdió con el voto popular. A Cristina la sacaron con el voto; su gobierno fue insoportable.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Macri no es sensible, son todos una porquería, nadie pensó en los hospitales, Vidal nunca hizo calles ni rutas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo quería, en esta pequeña charla que hago al comenzar el programa, decir que esta elección es tan disparatada como la vuelta de titanes al ring.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No engañen al ignorante, al hambriento. No busquen el voto del que no razona. No mientan tan descaradamente a la gente humilde.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque no saben gobernar, ni Macri ni Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, esos son tuyos, no son de Macri. Los de Macri no los llevan en ómnibus a la plaza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Cómo vas a parar esa grieta que Cristina armó y sigue armando con su odio, con sus discursos y sus mentiras?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2635
+}

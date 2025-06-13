@@ -1,0 +1,26 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En segundo lugar, porque en la Argentina estamos en un proceso también de cambio, donde lo más interesante también es la incomunicación y la ignorancia de unos actores respecto de lo que está haciendo el otro, a tal punto que 'medio frente de todos' dice enterarse ahora de lo que hacía el otro 'medio frente de todos' negociando con el fondo, dos años después, y dicen 'no me gusta'.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema es un populismo que se quedó sin dólares, que se quedó sin plata.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el fondo, la necesidad de hacer este programa, con o sin Fondo Monetario Internacional, termina siendo un homenaje a las ideas de la oposición. Para decirlo más crudamente, o más agresivamente, en el caso del kirchnerismo, un homenaje a Macri.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6999
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.544,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El presidente siempre es presidente, y todo lo que hace genera las consecuencias de un acto presidencial.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, lo que creo que queda claro al final de esta historia, más allá de lo que determine la justicia, es que las redes no son un juego para un presidente.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso digo que me parecería ridículo. Por eso, por lógica, uno tendería a descreer que el presidente salió a estafar delante de todos nosotros, ¿verdad?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, que estos \"lúmpenes\" tecnológicos hayan sido contacto del presidente es gravísimo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peronismo, por su parte, salió directamente a pedir juicio político, cuando tienen una presidenta condenada por corrupta, por estafar a 44 millones de argentinos varias veces, y no se hacen cargo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La imprudencia o la negligencia, en cualquier persona común, por ahí no es nada, pero, a veces, cosas graves terminan siendo imprudencia.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, sobre la honestidad del presidente, la honestidad de Javier Milei, yo les quiero decir algo que me parece... No sirve que... A ver, les puedo decir que, en lo personal, yo pienso que Milei es honesto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver, creo que hoy el kirchnerismo y los opositores de Milei, que no daban pie con bola, son los únicos agradecidos del criptoescándalo, porque tuvieron de dónde agarrarse.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero también será clave cómo maneje políticamente este tema el gobierno.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5502
+}

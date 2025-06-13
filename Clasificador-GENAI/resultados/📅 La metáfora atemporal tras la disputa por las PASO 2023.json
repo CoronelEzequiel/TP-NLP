@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.529,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Herminio Iglesias, el candidato a gobernador por la provincia de Buenos Aires... quemando un cajón que tenía el logo y la descripción de la Unión Cívica Radical.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Herminio Iglesias era una persona que se había enfrentado a lo que podría ser el sector de izquierda, lo que hoy representaría La Cámpora.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En ese acto simbólico, lo que Herminio Iglesias estaba haciendo era repetir el pasado reciente y la sociedad quería cambio.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "la intransigencia de ahora, como por ejemplo, tratar de que no haya paso a que haya un candidato del Frente de Todos elegido directamente por la vicepresidenta Cristina Fernández de Kirchner...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Conscientes de su responsabilidad como fuerza mayoritaria, acá está el peronismo dispuesto a asumir los deberes que han rehuido las minorías usurpadoras durante siete años de vasallaje económico y de autocracia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí, Alfonsín sigue siendo un mal nacido políticamente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entremos juntos a una Argentina en la que va a ser más importante la enseñanza primaria obligatoria que el servicio militar obligatorio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3729
+}

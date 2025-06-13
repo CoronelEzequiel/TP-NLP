@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, llegaron los primeros argentinos a Roma.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se priorizó a los turistas, según entiendo, decisión tomada por la Embajada y el Consulado en Tel Aviv.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se están organizando para las próximas horas en Roma y para el regreso a Buenos Aires.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quienes tienen recursos se las arreglan solos; a quienes no, se les brindará ayuda.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Hércules está reprogramando su partida para Tel Aviv esta tarde-noche; permanecerá en Israel no más de dos horas para recargar combustible, embarcar pasajeros y regresar.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1251
+}

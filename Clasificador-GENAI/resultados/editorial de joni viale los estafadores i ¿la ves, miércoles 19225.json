@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El presidente es un estafador.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo es en sí mismo una banda de estafadores.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso es serio. Inventar comedores. Inventar merenderos, muchachos. Robarse la comida de la gente. Gerenciar la pobreza. Usar a los pobres. Usar a los cartoneros para hacer política.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno debe aclarar lo que pasó con Libra. Claramente, pero mucho más. El presidente tiene que sacarse encima gente que me parece que lo está perjudicando.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo normal sería que mañana millones de argentinos salgamos a las calles de todo el país a pedirle al estafador Milei que se vaya y no vuelva nunca más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo puedo ser mejor o peor periodista, todo lo que hablamos ayer. Pero no me robé seiscientos millones de dólares de las regalías de YPF que todavía andan en algún banco frío.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3903
+}

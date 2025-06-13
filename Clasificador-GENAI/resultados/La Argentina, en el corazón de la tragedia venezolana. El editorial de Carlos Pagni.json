@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.665,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Por qué estamos todos prestando atención al drama venezolano? Bueno, obviamente, porque lo que pasa en Venezuela es de una extraordinaria anormalidad que incluye no solamente violencia institucional, sino violencia física.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La presión de la dictadura del chavismo, la presión de la dictadura de Maduro sobre la sociedad venezolana, ha ocasionado una migración muy, muy caudalosa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Venezuela, la Venezuela chavista, ha sido en los últimos años la plataforma de operaciones en América Latina de otras dictaduras, otros gobiernos autoritarios opacos, como el chino, el ruso y el iraní.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si nosotros recordamos la política argentina de los últimos años, sobre todo la política peronista, uno de los grandes problemas que tenían algunos candidatos peronistas, como por ejemplo Sergio Massa, era poder definirse frente a la dictadura de Maduro.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, que por haber dicho que el que pierde deja el poder, le dijeron, no vengas a mirar, no queremos tu opinión sobre el resultado de las elecciones, no estamos hablando de alguien que es un enemigo de la dictadura venezolana, más bien es alguien que ha sido bastante complaciente con el gobierno de Venezuela.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el centro de todo este drama está la Argentina. Primero porque el gobierno argentino se ha puesto a sí mismo en la vereda de enfrente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que mirar las cosas que dijo el canciller venezolano ayer, que lo trató de nazi a Milei.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la estridencia de Milei le corresponde el silencio de Cristina Fernández de Kirchner, que todavía, al menos hasta ahora, no se pronunció.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri se pronunció una sola vez explícitamente sobre este tema pero fue una reunión privada donde había unas pocas personas pero era un lugar cerrado, sin periodismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno de Milei es cada día menos liberal y más conservador, menos cosmopolita y más nacionalista, menos libertario y más autoritario, menos laico y más mesiánico y se parecerá cada vez más a la derecha tradicional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8577
+}

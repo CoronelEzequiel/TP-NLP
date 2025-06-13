@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.664,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Queremos hablar del estado policial, señor diputado?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hablemos también del 2001, porque era su partido y usted estuvo del lado del golpe de Estado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si en el Congreso se coloca gente coherente, gente normal, nosotros tendríamos que dedicarnos a otra cosa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es negocio para el periodismo. Y cuando algo es negocio para el periodismo no se termina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si el Congreso y los legisladores fueran personas serias. Que van, trabajan, se ponen de acuerdo, negocian.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich es una asesina. Ha matado gente, ha participado en gobiernos que mataron gente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros vamos a meter presos a [nombre del político], a [nombre del político], a Patricia Bullrich. A todos estos sinvergüenzas que están cometiendo delitos. Van a ir presos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver, nosotros tenemos una obligación. Porque acá hay criminales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto se llama ineptocracia. Como este, por ejemplo. Como [nombre del político].",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si los chorros estuviesen presos, hoy no estarían manejando la marcha de mañana.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes están vivos. Si ustedes fueron privilegiados… Entonces, digan por qué. Y por qué ahora todos son millonarios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero nunca dijeron que era una guerra civil porque necesitaron cobrar indemnización.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siempre hay una secta de hijos de puta que quiere terminar con la República y hacer mierda el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este otro sinvergüenza asesino es de los suyos. Mañana apoya la marcha.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5419
+}

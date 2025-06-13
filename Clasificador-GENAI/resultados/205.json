@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Creo que las buenas intenciones iniciales se pervirtieron, más por entornos poco saludables y por intereses ajenos al bien común, que era lo que buscábamos al principio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los verdaderos líderes no andan amenazando. Los que lo hacen son de poca monta. El que está seguro de su posición no necesita andar amenazando.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Libertad Avanza supo capitalizar el sentimiento anti sistema, ese rechazo a la “casta” política.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Reducir el gasto público sí, pero de forma eficiente. No sirve de nada reducir el gasto si la gente sufre las consecuencias.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La promesa era bajar impuestos a quienes producen, pero… ¿cuántos impuestos se bajaron de verdad?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2402
+}

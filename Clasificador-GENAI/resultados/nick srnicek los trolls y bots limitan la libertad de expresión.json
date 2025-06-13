@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_srnicek",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que invitar a estas empresas supone el riesgo de depender de ellas y quedar sujetas a sus intereses, en lugar de a los del país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, ¿qué ofrecen en términos de regulación? ¿Permitir los consensos sin consentimiento? ¿Permitir la manipulación electoral?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No debemos ser complacientes sobre lo que pueda ocurrir en el futuro, pero creo que se está subestimando el impacto de estas plataformas en la democracia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Discrepo. Creo que, fundamentalmente, seguimos en el capitalismo. No hemos pasado a una sociedad tecnofeudal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es un problema de centralización del poder en manos de estas empresas, pero no algo que escape al capitalismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1934
+}

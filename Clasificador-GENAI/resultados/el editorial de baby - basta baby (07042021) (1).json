@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Yo me tuve que fumar a estos payasos durante dos o tres años en la puerta de los teatros, futeándome... La gente de gendarmería me decía, 'no contestes, no contestes'. Tiraban piedras, huevos. Estos eran los kirchneristas de la agrupación Evita, la agrupación Máximo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy vi cómo le hacían eso a Waldo Wolff. Estuvo bien, huevos, levantó la mano. Está, Patricia Bullrich. Y estaba el hermano de Santiago Maldonado. Un tipo que, de ser un músico ignoto y gris, pasó a la notoriedad y a tener unos manitos, gracias a que lo hicieron pasar por desaparecido Maldonado. Cosa que se les está acabando el curro...",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo veo a Alberto en la conferencia de prensa. Primero, una payasada, no hace falta que el presidente esté en el medio de nada, con una cámara robótica, con dos pantallas gigantes, no hace falta, hermano, toda esa parafernalia estúpida no hace falta. Después, arrancó el charro de la culpa a nosotros. Yo no me afané ninguna vacuna, les dije, ¿viste? Y entonces, si vos me lo dijiste a mí, Alberto, ¿por qué carajo te lo agarraste vos?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La realidad es que ustedes se rascaron las pelotas, se preocuparon por Cristina, que era para lo que llegaron, yo lo expliqué anoche, te lo cuento de nuevo ahora, para limpiar las causas penales de Cristina, para ver cómo le podían acomodar la vipera, y se cagaron en el pueblo literalmente.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto querido, mi querido presidente, nosotros, los que estamos en frente, los que no te bancamos, los que ya no aguantamos más las mentiras, te vamos a sostener los dos años y medio que faltan, porque la democracia es linda, aunque ustedes no sepan lo que es, el día que prueben lo que es la democracia, se van a regocijar, la democracia es que un tipo que le roba al Estado vaya preso...",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2870
+}

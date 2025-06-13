@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si hace un año hubiéramos dicho que el gobierno arrancaría con una baja del 30% del gasto, nos hubiéramos reído, por implausible, pero acá estamos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gasto público era una cuartada para sostener una serie de gastos políticos. 'Voy a usar tu plata para sudarte', te decían, pero la realidad era que usaban tu plata para sudarse a ellos mismos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pobreza trepó del 41.7%, que dejó el gobierno de Alberto Fernández, al 55% en la actualidad. Esto es cerca de 14% más de la población argentina en estado de pobreza, es decir, casi seis millones y medio de personas, algo más de un millón de pobres nuevos cada mes en el que Milei estuvo gestionando este país, más de 200.000 nuevos pobres por día y seguimos la cuenta, más de 10.000 nuevos pobres por hora.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inflación de los últimos tres meses comenzó a bajar considerablemente y, probablemente, sea el mayor éxito del gobierno. En mayo, va a cerrar alrededor del 5%, lo que realmente es muy bueno y hay que reconocérselo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En estos seis meses, ha quedado en claro que al presidente no le interesa el cargo para intentar resolver los problemas de la gente. No le interesa el cargo para intentar resolver los problemas de la gente. Sino que le interesa el cargo mucho más para tratar de transformarse en el mayor influencer mundial de la ultraderecha global.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6713
+}

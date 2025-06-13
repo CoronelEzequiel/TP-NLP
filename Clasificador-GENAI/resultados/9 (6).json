@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La realidad es que los municipios estamos debatiendo cómo responder a las muchísimas necesidades y demandas crecientes, con recursos que no alcanzan a contrarrestar la inflación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que pedimos es que, si la provincia implementa esta medida, lo haga de manera coordinada con los gobiernos locales, porque necesitaremos asistencia financiera y recursos extraordinarios.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que, en una situación tan compleja como esta, como una medida excepcional, puede servir y generar un efecto multiplicador, no solo para quienes lo reciben, sino que después gastan en comercios, que a su vez gastan en otros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema es cómo se generan estas medidas y cuáles son sus consecuencias. Solucionamos muchos problemas con más emisión, que genera más inflación, y las soluciones duran poco.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero los recursos, como decía, deben surgir de manera extraordinaria, y supongo que el gobernador tampoco los tiene.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1943
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estamos tan saturados del autoritarismo, la corrupción, el fracaso del gobierno en todos los planos y la hecatombe económica que por momentos nos invade cierta oscuridad por la falta de esperanza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí aparece toda su rebeldía contra los funcionarios corruptos, toda la morbosidad de alguien que, pese a los antepasados de gran alcurnia, jamás se olvidó de ser un ponchito protector de su gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Cuchi fue uno de los defensores del pobre río salteño.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue el que provocaba a los conservadores de toda laya con su filosa ironía.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2587
+}

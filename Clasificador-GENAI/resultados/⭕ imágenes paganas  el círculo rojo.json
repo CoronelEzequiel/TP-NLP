@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.19,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Más allá de la cuestión de la imagen, que tiene sus límites, incluso consultores que obtienen resultados favorables al gobierno aclaran que este presunto mejor momento tiene cifras comparables con los peores momentos de otros gobiernos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta división es falsa. Si la macro se diseña para pagar una deuda fraudulenta, rebajar impuestos a los ricos y ajustar a los más pobres, la micro está cantada: menos salario, menos jubilaciones, menos consumo popular, más tarifazos, mayor desempleo y precarización.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La sociedad argentina tiene el \"nivel de estallido\" que las direcciones conservadoras de los trabajadores o del movimiento popular le permiten tener.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si ante este escenario no se transara individualmente y se unificara, podríamos tener algo mejor que un estallido ciego: un plan de lucha, una huelga nacional que incluya a todos los afectados, incluidos los precarios, y que ponga en jaque a [Nombre y Apellido del Presidente].",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La defensa, dijo [Nombre y Apellido del Empresario], contra la competencia desleal es esencial, sumado a la estabilidad en las reglas del juego, la reducción de la carga tributaria y un tipo de cambio que refleje la productividad de los factores y no los flujos de capital de corto plazo (es decir, contra la timba financiera de este gobierno).",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2095
+}

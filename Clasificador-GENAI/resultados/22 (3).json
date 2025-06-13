@@ -1,0 +1,151 @@
+{
+  "texto_id": "entrevista_abel_furlan",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.044,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, claro, un contexto totalmente desfavorable, donde hemos venido perdiendo derechos y sufriendo dificultades para sostener el poder adquisitivo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, más que nunca, el movimiento obrero debe recordar aquella gesta que implicó liberar a un líder encarcelado por defender los derechos de los trabajadores y lograr su dignidad.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que el peronismo debe debatir públicamente qué pretende representar y cómo lo hará.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debe comunicar a la sociedad que recuperar su histórica bandera de lucha contra el poder real para que las mayorías populares, y fundamentalmente los trabajadores, accedan a la felicidad plena, tendrá un costo.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso digo que el peronismo debe dejar de mostrar contradicciones.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Surgió de la rebeldía contra las injusticias; es sensibilidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy Argentina tiene casi el 53% de pobreza; en los últimos meses, más de 5 millones de personas cayeron en la pobreza.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo el peronismo no va a mostrar sensibilidad y rebeldía ante tanta injusticia?",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo concibo un peronismo rebelde, sensible, transformador, que contenga a las mayorías populares y a los trabajadores.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para eso hay que disputar contra quienes detentan el poder real, cada vez más sólidos y fuertes, tanto en Argentina como a nivel global.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo repartir la riqueza concentrada en pocos para que las mayorías populares, fundamentalmente los trabajadores, tengan una mejor calidad de vida?",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso se hace con tensiones, no hay otra manera.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero también quiero dejar claro que acompaño a Cristina Fernández de Kirchner en su decisión de conducir el Partido Justicialista.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su esfuerzo personal y político para ordenar el peronismo merece nuestro apoyo.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo irá a un proceso de unidad y reconstrucción para ofrecer un proyecto político a la ciudadanía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos preocuparnos por que el peronismo levante su bandera histórica en defensa de las mayorías populares.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que hablar con sinceridad a la sociedad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se debe hacer con tensiones frente al poder económico y eso tendrá costos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quien no esté dispuesto a pagar ese costo, que se dedique a otra cosa.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En mi organización, creamos el Instituto de Formación Político Sindical para preparar cuadros que entiendan la política, la economía y la geopolítica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede tomar decisiones desde la ignorancia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos fallado al no formar a nuestro pueblo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una concentración de la riqueza que no se resolverá en mesas de negociación.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se necesita tensión y disputa, y eso tendrá un costo; paros, etc.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La CGT debe llamar urgentemente a un consejo directivo para analizar un plan de lucha.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le han quitado derechos a los jubilados y pulverizado el poder adquisitivo de los trabajadores.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La mayoría de los compañeros quiere confrontar con este modelo económico, político y social.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la mayoría decide enfrentar este modelo con planes de lucha, lo haremos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3450
+}

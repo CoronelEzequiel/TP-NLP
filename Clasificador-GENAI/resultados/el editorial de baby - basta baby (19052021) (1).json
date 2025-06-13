@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Así que hay que tratar todos los días de esforzarse y levantar el ánimo de esta gente que está tan desanimada por las mentiras del presidente.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero es una estupidez que, si uno se pone a pensar, le tiene que dar vergüenza tener este gobierno de mentirosos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente estamos hartos de que no haya hisopados, de que haya negocios con los hisopados, con las vacunas, de que se las repartan entre ustedes, de que se las roben y de que la única solución que usted tenga sea hacer tiempo con todos, que no deben pensar nada.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos cansados de Cristina, estamos cansados de usted, estamos cansados de toda esa comitiva de inútiles, estamos cansados de las mentiras que no se cumplen, estamos cansados de las idas y vueltas, estamos cansados de que estén todos juntándose para ver si cambian tribunales completamente para ver si algún juez puede perdonar a Cristina, que hasta ahora parece estar más sucia que una papa; estamos cansados de que nos roben la plata, estamos cansados de que no haya comida para los pobres, estamos cansados de que haya pobres, por supuesto; estamos cansados de que Juan Carr no esté en la puerta de arriba repartiendo pulóveres como en la época de Macri; estamos cansados de toda esta hipocresía que ni Tinelli la tapa, toda esta mentira que ya no nos distrae ni entretiene más, y estamos cansados de esto de hoy.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se equivocó al cerrar la exportación de carne, se equivocó en que no hay carne para la gente, se equivocó en querer fundir al campo, se equivocó en querer quedarse con Vicentin, se equivocó en tener esa caterva de delincuentes alrededor y hacerlo salir de la cárcel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Deje de meternos adentro porque eso no sirve para nada. Deje de guardarnos como canarios porque no sirve para nada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2799
+}

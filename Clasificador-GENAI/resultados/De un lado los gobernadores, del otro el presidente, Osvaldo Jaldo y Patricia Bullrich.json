@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Especialmente desde Casa Rosada, especialmente desde la cuenta de *Twitter* del presidente Javier Milei, que no para con las agresiones hacia todos lados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La venganza que está llevando adelante Javier Milei después de que se cayera la Ley Ómnibus.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta ahí hemos llegado, ¿no? Claro, pues para qué queremos el INADI si vamos a estar justamente burlándonos de los chicos con síndrome de Down. Hasta ese punto crece la virulencia del presidente Javier Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dice, \"si yo soy disruptivo, a voto distinto\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El único que no está del lado de los gobernadores y uno de los que ha recibido fondos durante estos últimos días por parte del Gobierno Nacional. ¿Quedó? ¿Quedó? ¿Osvaldo Jaldo?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich, como presidenta del Pro, no sale a defender a su gobernador, un gobernador de su partido, sino que se pone del lado del presidente Javier Milei.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6102
+}

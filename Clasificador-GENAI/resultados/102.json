@@ -1,0 +1,51 @@
+{
+  "texto_id": "Evo_Morales_Ayma_entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vi al ministro de gobierno sonriente y conversando con militares.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En América Latina, especialmente en Sudamérica, hay una lucha permanente entre gobiernos del pueblo y gobiernos afines al imperio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ideológicamente, tenemos profundas diferencias, incluso éticas, con el gobierno argentino.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estados Unidos ha buscado evitar gobiernos de izquierda, socialistas, progresistas, humanistas y antiimperialistas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de Milei apuesta por un triunfo de Trump, ya que creen que Estados Unidos necesita detener la influencia de China en América Latina, comenzando por Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos unirnos para enfrentar los problemas económicos y sociales. La plurinacionalidad significa unidad en la diversidad para afrontar la crisis climática, energética y económica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos profundas diferencias ideológicas y programáticas.  La receta del Banco Mundial y del FMI es achicar el Estado, lo que beneficia a las transnacionales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos políticos y organismos internacionales buscan reducir la población \"innecesaria\", que es la gente humilde, pobre y con discapacidad.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2484
+}

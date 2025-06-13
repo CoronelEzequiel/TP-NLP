@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La liberación de varios procesados en causas de corrupción genera una profunda inequidad en el sistema judicial argentino.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El caso de Báez, procesado por lavado de dinero en la “ruta del dinero K”, ilustra este problema.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las pruebas presentadas por la Unidad de Información Financiera (UIF), la Fiscalía de Investigaciones Administrativas (FIA) y la Oficina Anticorrupción (OA) — todas del gobierno actual— confirmaron la veracidad de los bolsos con dinero pertenecientes a Báez, según se desprende de las investigaciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La situación se agrava al analizar los casos de otros imputados, como Amado Boudou, quien, tras haber solicitado la televisación de su indagatoria ante el juez Ariel Lijo, fue procesado y luego liberado bajo arresto domiciliario.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La situación económica y social de Lázaro Báez, quien pasó de una vida humilde a una fortuna de 200 millones de dólares, con mansiones lujosamente amuebladas, un gran parque automotor, y  propiedades en la Patagonia, es una clara evidencia de las irregularidades.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta situación, lejos de ser una excepción, representa un problema sistémico, donde la prisión preventiva afecta desproporcionadamente a los individuos sin recursos, mientras que los poderosos, con la ayuda de abogados costosos, logran eludir la justicia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Finalmente, la pregunta central perdura: ¿es la ley igual para todos en Argentina?",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La respuesta, a la luz de los hechos expuestos, es inequívocamente negativa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1781
+}

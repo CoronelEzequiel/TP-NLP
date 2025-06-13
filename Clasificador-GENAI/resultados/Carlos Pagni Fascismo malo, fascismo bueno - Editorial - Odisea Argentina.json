@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Claro, muy inconveniente desde muchos puntos de vista lo que pasó con Ameri y esa sesión virtual, no solamente para el desarrollo de las sesiones virtuales, que fue motivo de una gran polémica en la Cámara de Diputados y que ahora con esto queda más herido.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se está discutiendo la estabilidad, como todos sabemos, de tres jueces: dos camaristas federales, los doctores Bruglia y Bertuzzi, y un juez del Tribunal Oral Federal que debería juzgar a Cristina Fernández de Kirchner por el escándalo de los cuadernos de la corrupción, el doctor Germán Castelli.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fiscal de cámara, Rodrigo Cuesta, que debe pronunciarse sobre este caso, ya se pronunció muy contundentemente a favor de lo que sostiene el gobierno, y es que estos jueces fueron trasladados sin el correspondiente acuerdo del Senado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No es solamente cómo va a fallar en adelante la Cámara con jueces más o menos amigos del gobierno en temas de corrupción, es qué conducta, qué clima hay, qué receptividad hay dentro de la Corte Suprema de Justicia a las necesidades penales de la vicepresidenta de la Nación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la historia de la economía, no tuvieron que renunciar los ministros de Economía o de Hacienda, como se le llamaba en el gobierno anterior. Las cabezas que cayeron por los problemas económicos fueron las de presidentes del Banco Central, porque centralmente, valga la redundancia, la Argentina tiene un problema monetario y cambiario que está en el corazón de su problema económico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7414
+}

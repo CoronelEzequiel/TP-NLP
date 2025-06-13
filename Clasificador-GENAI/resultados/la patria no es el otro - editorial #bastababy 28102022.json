@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.783,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo pensaba, no, la patria es uno mismo. Yo soy la patria para mí. Vos sos la patria para vos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Puede ser que estos sinvergüenzas: Hebe de Bonafini, Estela de Carlotto, Adolfo Pérez Esquivel y Cristina Fernández de Kirchner, piensen que, al arriar la bandera celeste y blanca que casi no se ve, no sea casual.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, ¡viva todos los idiotas que ahora se ponen la vincha, la camiseta celeste y blanca porque viene el Mundial!",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Vos sos una mierda.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, realmente creo que hay que empezar a enarbolar la celeste y blanca, que no nos dé vergüenza nuestra linda bandera argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Manda una fragata y que los caiga a tierra y los hunda!",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2605
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.156,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, forma parte de la agresión misma que caracteriza el método de este gobierno para dirigirse a las provincias y mantener un trato, al menos, razonable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso de La Rioja, desde el comienzo de su gestión nos retuvieron el 30% de los recursos que le corresponden, acumulando una deuda de 150.000 millones de pesos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tema de este individuo (en lugar de \"changó en un bajul\"), lo que dijo, refleja la metodología de ese grupo de \"fantasmas\" que residen en la Casa de Gobierno, costándole una fortuna al país.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación me recuerda a \"Platero y yo\", pero desde el lado de Platero.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablar de que este gobierno va a intervenir la provincia cuando la Constitución Nacional establece que es materia del Congreso, solo en caso de ataque exterior o de disfunción institucional, es inaceptable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jorge, en mis 40 años de democracia, no he visto un sistema político tan aletargado y sumiso (salvo honrosas excepciones como Quintera y dos o tres gobernadores).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso mediático del gobierno de que las provincias viven de la coparticipación es falso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Deberíamos cerrar organismos inútiles, como la Presidencia de la Nación.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem fue la base de la década de estabilidad más larga en 60 o 70 años. Este gobierno actual no se compara con Menem.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2332
+}

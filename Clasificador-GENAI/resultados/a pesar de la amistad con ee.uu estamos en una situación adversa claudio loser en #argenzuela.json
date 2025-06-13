@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mucha gente piensa que las caídas de los mercados no afectan a la población en general, pero sí lo hacen.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A pesar de la amistad con Trump y Estados Unidos, Argentina se encuentra en una situación adversa.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El desafío es convencer a los socios del FMI para poder continuar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Romper con China parece fácil, pero es nuestro segundo socio comercial, mientras que Estados Unidos no lo es.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una sugerencia que no le conviene a Argentina y podría generar más problemas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1741
+}

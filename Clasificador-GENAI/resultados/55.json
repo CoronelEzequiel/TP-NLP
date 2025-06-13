@@ -1,0 +1,51 @@
+{
+  "texto_id": "Georgina Aureliano",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.119,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La marcha, antifascista y antirracista, busca contrarrestar el retroceso en políticas y derechos que, según Aureliano, el gobierno actual está impulsando.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aureliano explicó que los anuncios y declaraciones del presidente y sus funcionarios representan un retroceso en conquistas logradas por el colectivo de mujeres meretrices y el movimiento social en general a lo largo de años de lucha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La secretaria general destacó la precariedad de la vida de muchas personas, argumentando que la falta de acceso al trabajo, la informalidad laboral y las dificultades económicas generan un clima en el que se culpabiliza a los grupos que ya poseen ciertos derechos, como el colectivo de mujeres trans, por la situación general del país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La convocatoria a la marcha surge, según Aureliano, de una asamblea en la que se manifestó la urgencia de movilizarse, ante una falta de representación política efectiva.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aureliano enfatizó la necesidad de una participación masiva, incluyendo no sólo al colectivo LGBTQIA+, sino también a organismos de derechos humanos, sindicatos y otros grupos afectados por las políticas gubernamentales.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La marcha se presenta como una respuesta a un ataque ideológico que trasciende las fronteras de Argentina, aprovechando el descontento social por la situación económica para atacar derechos sociales preexistentes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La convocante instó a comprender las raíces de la situación actual, incluyendo la responsabilidad de miembros del gobierno actual en los problemas económicos del país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La marcha del 1 de febrero es considerada crucial para defender los derechos conquistados y evitar un retroceso significativo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1389
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En el kirchnerismo hay sectores que quieren que al gobierno le vaya mal para poder volver.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez que en la Argentina, en democracia, un gobierno se tuvo que ir antes -y esto ocurrió con los dos únicos gobiernos no peronistas de estos 33 años: el de Alfonsín y el de De la Rúa- el costo lo pagó la gente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que para aquellos que pregonan esto en nombre del pueblo les pido que tengan un poco de memoria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tal vez, cuando la tengan, tendrán otra conducta y dejarán de alentar lo irresponsable que siempre es alterar el orden democrático en un país.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 889
+}

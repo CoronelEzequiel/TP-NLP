@@ -1,0 +1,71 @@
+{
+  "texto_id": "denuncia_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.102,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El material que les recomiendo ver en YouTube es la denuncia contra el presidente Javier Milei ante el Departamento de Justicia de los Estados Unidos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo indica que Karina orquestó una estafa de 289 millones de dólares.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se acusa al presidente y a su hermana de haber aprovechado su posición en la Casa Rosada para asociarse con personas inescrupulosas en una estafa con criptomonedas, utilizando la “pasta base” del mercado, para obtener grandes ganancias.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El uso de su cargo para estafar al pueblo argentino es innegable.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La denuncia presenta pruebas sólidas, incluyendo chats que involucran directamente a Karina Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto involucra a la hermana del presidente, secretaria general de la presidencia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La denuncia no solo presenta evidencia financiera, sino que incluye antecedentes de solicitud de dinero.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La denuncia también incluye registros de ingreso a la Casa Rosada y Olivos de personas vinculadas a la estafa, con seis reuniones con Karina y dos con Javier Milei.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los abogados argumentan que Milei era el cabecilla de la estafa, a diferencia de un simple creador de criptomonedas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La denuncia, disponible en YouTube, y las pruebas recopiladas por el estudio jurídico son contundentes.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Abogados argentinos están iniciando acciones legales contra Jonathan Viale por encubrimiento, ya que en una entrevista Milei prácticamente confesó el delito.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación presenta una gravedad institucional sin precedentes, con la justicia estadounidense involucrada y la prensa internacional cubriendo el caso.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2402
+}

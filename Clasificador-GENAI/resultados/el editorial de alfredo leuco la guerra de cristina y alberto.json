@@ -1,0 +1,41 @@
+{
+  "texto_id": "La guerra de los Fernandez",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Porque no solamente se están destrozando entre ellos, también están dinamitando la casa de todos, que es la Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su autoritarismo chavista, Cristina designó a Alberto con un tuit y lo quiere destituir con otro tuit, pero por ahora no puede.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta guerra de los Fernández entró en su etapa de definiciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras tanto, repito, están destruyendo al país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina lo insulta y lo trata de pelotudo, y Alberto habla de desequilibrio emocional de Cristina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto ya supera todos los límites, el hartazgo social con esta gente es definitivo, la inmensa mayoría del pueblo quiere que en las elecciones pierda el oficialismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2032
+}

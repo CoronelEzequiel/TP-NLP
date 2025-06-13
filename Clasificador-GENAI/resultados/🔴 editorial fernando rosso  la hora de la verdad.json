@@ -1,0 +1,81 @@
+{
+  "texto_id": "La verdad del poder o el poder de la verdad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.271,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Justamente para poder divisar las grandes tendencias que se ordenan al mediano o al largo plazo y justamente salir de los detalles.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este caso me refiero al giro sorpresivo dado por Santiago Caputo, el asesor estrella de Milei, que repentinamente salió de esa especie de oscuridad en la que habita y de esa mamushka de cuentas de X o de Twitter que se le adjudican y de las cuales jamás se deslindó.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y brindó una curiosa declaración, una declaración periodística a Manuel Jové del portal TN, que si uno la lee bien, una entrevista corta, tenía un único objetivo: elogiar a Mauricio Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque de repente dejó ese mundo de intrigas y medias verdades en el cual mostraba el lado B del poder, un poco temerario y un poco friki, del Mileismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de que no son cuentas oficiales, Caputo es parte de este juego porque si no quisiera que se le vincularan estas cuentas a él, habría una cosa bastante simple: crearía una cuenta oficial y diría que no tiene responsabilidad sobre ninguna de las que se le adjudican al asesor de Milei.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, la fragilidad política.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el terreno económico porque el esquema se muerde la cola, no hay signos de recuperación, no hay guita del Fondo Monetario, no le mandan los dólares, las inversiones todavía están muy lejanas y están conteniendo el dólar a un alto costo para las reservas, todo esto conversábamos con nuestro entrevistado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso sale Macri a marcar la cancha.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero a veces los gobiernos también entran en crisis por contradicciones de los de arriba que generan condiciones para la acción de los de abajo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ver, en esto hay un punto en común entre el kirchnerismo y el libertarianismo de Milei. Ambos estuvieron sobre-narrados y sub-ejecutados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el relato del kirchnerismo contenía muchas promesas, progresistas, digamos, pro-derechos, de las que no era capaz de satisfacer, la narrativa del Mileismo contiene mucho más ajuste del que es capaz de ejecutar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por esta razón el FMI no habilita los dólares, por esta misma razón Rocca, como decía antes, dice que, capaz, estuvieron demasiado entusiasmados o que exageraron un poco.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto significa que está dicho que Milei no puede consolidar su poder, que esto es una fatalidad, bueno, no, quiere decir que está todo muy abierto, más abierto incluso que hace ocho meses cuando asumió el poder, porque bueno, el tiempo no pasa en vano y aumentan las ansiedades de todos y todas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y tanto para el gobierno como para quienes nos oponemos desde diferentes perspectivas, se acerca la hora de la verdad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3494
+}

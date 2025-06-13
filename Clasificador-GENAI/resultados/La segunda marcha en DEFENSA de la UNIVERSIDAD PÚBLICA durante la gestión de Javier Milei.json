@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En este país se puede ser hijo de una modista y de un carpintero y revolucionar la medicina mundial.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casualmente, tomado como ejemplo por Milei, que hace exactamente lo opuesto a lo que hacía Roca en este sentido, en la creación de un Estado sólido y fuerte, e impulsó la educación básica pública y laica para toda la población.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gracias a esa reforma universitaria y al gobierno radical nacional y popular, entraron los hijos de la clase media a la universidad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A los científicos del CONICET, nuestro presidente les dice \"ÑOKICET\" por \"ÑOKIS\". Y a los periodistas nos dice \"ENSOBRADOS\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La educación pública ha hecho muchísimo daño, lavando el cerebro de la gente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5758
+}

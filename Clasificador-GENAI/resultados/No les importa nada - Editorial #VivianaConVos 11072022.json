@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.792,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mientras escuchaba al pueblo en las entrevistas, sentía que estamos hartos de seguir manteniendo los privilegios de la casta política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sean conscientes de que no creemos en la justicia, que no creemos en nuestros gobernantes, no creemos ya en nadie.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá la ves a Cristina acusada como la jefa de una asociación ilícita porque la corrupción es el gran motor del kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente no se anima a criticar a Cristina Fernández de Kirchner y nos tira mierda todo el día, todo el tiempo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A veces siento que ningún político, o casi ninguno, se está dando cuenta de que los argentinos no aguantamos más.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo del novio de Luana Volnovich es impresionante porque se llevó una fortuna y dijo que unos veinte palos eran para dos centros de jubilados, dos centros de jubilados que no existen.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8706
+}

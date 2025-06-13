@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Su rigurosa investigación había estallado en la justicia con 12 detenidos en la mayor redada anticorrupción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay antecedentes en la historia democrática donde una asociación ilícita, liderada primero por Néstor Kirchner y luego por Cristina Fernández de Kirchner, haya saqueado al Estado con tanta impunidad para enriquecerse en forma ilegal y colosal.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En cualquier país democrático del mundo estarían presos los principales responsables, es decir, los jefes y las cabezas de los involucrados, y los empresarios cómplices.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora, ¿qué más hace falta para que nadie dude de que Cristina Fernández de Kirchner no es inocente ni decente?",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A las órdenes de Cristina Fernández de Kirchner, el cártel fue liderado por tres organizadores: Julio De Vido, que era el gerente general, Roberto Baratta y José López.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso tenemos los dirigentes políticos que tenemos; son paridos por nuestros riñones, a nuestra imagen y semejanza, no nos importan de Japón, viven entre nosotros, por eso a Cristina Fernández de Kirchner solo le interesa apropiarse de la justicia y desde allí lograr su impunidad y saciar su sed de venganza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2130
+}

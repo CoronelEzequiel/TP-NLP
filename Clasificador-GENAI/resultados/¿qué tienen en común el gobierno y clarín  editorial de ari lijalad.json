@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto se debe a que no hay posibilidad de implementar un plan económico serio y real que detenga la inflación en Argentina si no tenemos dólares.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La idea, y lo que está tratando de llevar adelante el gobierno, es ahorrarnos dólares en todo lo que podamos para poder gastarlos en lo que realmente se deben gastar los dólares del Banco Central, que es intervenir en el mercado financiero para frenar corridas bancarias, para frenar la inflación, para evitar una devaluación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero obviamente, la traducción mediática de toda esta estrategia es que Argentina no se alinea automáticamente con Estados Unidos, sino que corre el peligro de someterse a China, el desatino de mirar hacia otro lado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente que Clarín y el gobierno tienen miradas ideológicas distintas de lo que sucede en el mundo, pero tanto Clarín como el gobierno van a buscar financiamiento donde ese financiamiento está, por razones distintas: el gobierno porque necesita dólares.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después, cuando publiquen otras cosas, sepan que esta información, que es pública, te muestra que tienen bastante en común el gobierno y Clarín: van a buscar financiamiento al mismo lugar.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2246
+}

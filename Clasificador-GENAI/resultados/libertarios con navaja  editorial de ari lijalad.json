@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.14,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de Milei actúa en política internacional según intereses personales e ideologías, sin considerar la posición histórica ni la seguridad de Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alinear a Argentina en un conflicto tan grave basándose en noticias judiciales falsas es preocupante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rechazo cualquier acto de violencia, tanto de Irán como de Israel, incluyendo lo sucedido en Gaza. Pero rechazo aún más que el gobierno argentino utilice esta situación para alinearse con Estados Unidos y poner a Argentina en riesgo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Libertarios con navajas, eso es lo que tenemos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo se puede basar la política internacional en un fallo judicial falso y una gacetilla armada por un juez que afirma algo que no puede afirmar?",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1822
+}

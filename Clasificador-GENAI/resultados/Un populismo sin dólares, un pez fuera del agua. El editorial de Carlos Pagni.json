@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En el centro de todo el problema argentino hay un problema económico, y en el centro de ese problema económico está, como sucede desde hace 50 años, una crisis con el dólar, una crisis con la capacidad de la Argentina, de la economía argentina, de producir los dólares necesarios para sostener nuestros niveles de consumo y de vida.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner hizo una defensa, no solamente de la no devaluación, sino de los controles de precios. Es decir, puso sobre la mesa los instrumentos a los que suele recurrir permanentemente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso de Milei es el discurso de alguien que, cuando lee la historia, dice: \"El problema empezó en 1916\", como se explicaba Camila la otra noche, es decir, empezó con la democracia, empezó con el voto secreto obligatorio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner está por este camino, está diseñando este camino para las elecciones del año que viene y le tira un centro a los radicales este viernes y se dice: \"Hay que reconstruir el pacto democrático de 1983\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un ajuste, es el ajuste que no le gusta a Cristina, para todos, menos para la familia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8376
+}

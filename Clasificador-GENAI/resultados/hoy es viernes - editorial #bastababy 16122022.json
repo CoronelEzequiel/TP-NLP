@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se ratificó la condena a Milagro Sala por robo. No es una presa política, es una ladrona.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, la ineptitud de Cristina, la estupidez de Alberto, de Acampora…",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es igual que Cristina, Evita, ante un delito concreto, sale por la tangente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo que no entiendo desde lo legal, y aquí me pongo un poquito más serio, es la utilización de los nombres, ¿cómo van a arreglar eso?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1939
+}

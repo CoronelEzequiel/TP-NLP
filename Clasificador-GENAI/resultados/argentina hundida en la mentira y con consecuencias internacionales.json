@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.114,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Si miras la televisión, lees noticias o te informas, te hablan de un país en el que no vivimos, te describen situaciones que ya ni siquiera son deformaciones de la realidad, sino inventos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La operación \"Lofter\" (o el caso Lofter, según el contexto) tuvo mucho que ver con esa propagación de falsedades.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se les quita la comida a los comedores comunitarios, aparece Majul y dice: \"Hay hechos de corrupción en la entrega de comida a los comedores\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo mismo ocurre cuando se les van a quitar los medicamentos a las personas con cáncer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso no era lo que se juzgaba (el encubrimiento, no el atentado en sí).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto se armaba para seguir con la causa Memorándum con Irán, para obtener otra condena contra Cristina Fernández de Kirchner, encarcelarla y disciplinar al resto.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un país importante como Argentina se ha hundido en la mentira, y esto tiene implicaciones internacionales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1572
+}

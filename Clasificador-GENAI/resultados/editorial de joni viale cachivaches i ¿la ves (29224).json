@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.69,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto es cachivache.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un tipo que está todo el día \"sienteando\", peleándose y no resolviendo los problemas de la gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que el 4 de marzo todo con el paro docente para lograr el objetivo, que lo mejor es el año.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El silencio atroz que hizo el sindicalismo peronista, mientras el gobierno de Alberto Fernández y de Cristina Fernández de Kirchner destruían nuestro salario.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Cuántos paros le hizo Moyano a Macri? Cinco.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema aquí, claro, las víctimas de los paros no son ni Milei, ni Caputo, ni Karina, ni Petovello, ni Patricia, ni Petri.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El populismo, no el kirchnerismo, el populismo, te quiere burro, te quiere pobre, te necesita débil, te quiere sometido, sin crítica, subyugado, que seas un muñequito, un papelito, manejarte.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que ser poco hombre, perdón que lo diga así, perdón.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo dejó un país destruido.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso digo, antes de hablar de cachivaches, hay que revisar la casilla, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que se juega este año la supervivencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso hoy también amenazó con que nazcan miles de nuevos piqueteros, mirá.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un momento demasiado complicado para la Argentina como para andar dilapidando, ¿no?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso la recomendamos y ya cierro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema es la mentira.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5675
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "entrevista_a_tarotista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.238,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "De hecho, fui una de las primeras tarotistas en ofrecer consultas virtuales durante la pandemia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soy profesional, y además del tarot, me dedico a la espiritualidad desde joven.  Hago registros akáshicos, soy maestra de Reiki y cosmetóloga.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Incluso predije el resultado de las elecciones presidenciales de hace cuatro meses.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sí, hice un video sobre la traición. Advertí al presidente sobre la amenaza de una traición inminente desde su círculo íntimo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me alegra mucho. Sé que lo hace con buenas intenciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soy chamánica, y tengo un espacio espiritual entre Cataratas del Iguazú y El Dorado, donde atiendo a comunidades originarias de Misiones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así fue como predije el resultado de (nombre de la ley).",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Advierto a la persona, pero también la guío y aconsejo. Soy tarotista evolutiva; les doy herramientas para que mejoren su situación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1639
+}

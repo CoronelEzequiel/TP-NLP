@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_jay_mamon",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La investigación avanza y, a medida que estos temas salen a la luz, muchas víctimas empiezan a sentir que ya no hay cierta protección, se sienten más tranquilas para hablar, ya son adultas y pueden procesar lo que vivieron de menores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Efectivamente, encontramos la denuncia de Lucas Benvenuto; la denuncia existió.  Tengo la carátula aquí. Prescribió el 9 de marzo de 2021 (causa nº 53.975-2020).  La causa está sobreseída por prescripción, lo que significa que el hecho ocurrió, pero la causa prescribió por el tiempo transcurrido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer discutí con Rojo sobre esto: todos tienen derecho a una defensa.  No importa si te gusta o no el abogado; no puedes evitar que alguien defienda a alguien que no te gusta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuché otras justificaciones raras: que el consumo de pornografía infantil es un tema privado.  Esto es falso: es un delito, la mayoría de los consumidores luego pasan a la acción, y las víctimas son menores vulnerables.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1762
+}

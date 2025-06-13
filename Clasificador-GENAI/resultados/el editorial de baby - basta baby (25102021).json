@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.472,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El canal nos deja trabajar con mucha libertad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Somos humildes.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hacemos la voz del pueblo y peleamos por la gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé si esto se debe al momento histórico que atraviesa Argentina, que está tan revolucionado, o si simplemente llegué en el momento justo al lugar correcto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos algo muy bueno: investigamos más que nadie, nos esforzamos al máximo, hacemos el ridículo, hablamos de nuestras miserias, hacemos la voz del pueblo y peleamos por la gente.",
+      "score": 0.5333333333333333,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero que esta semana vean la humanidad de este programa, lo que hacen mis compañeros, y les pido que no nos abandonen, que sigan con nosotros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2048
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La tragedia afectó gravemente a Valencia, con inundaciones catastróficas.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "He leído informaciones sobre si se prestaron atención a las alertas meteorológicas o no, y sobre la influencia del cambio climático.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una de las críticas es que, a pesar de los indicios, se tardó mucho en lanzar la alerta roja.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Unos responsables del gobierno anunciaron por Twitter a las seis y media de la tarde que la tormenta había pasado y que se podía hacer vida normal.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras ayudaban, muchas personas robaban delante de la policía, que estaba priorizando el rescate de personas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las imágenes son terribles.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1767
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "reforma_previsional",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El movimiento en Francia contra la reforma previsional, impulsada por decreto por el presidente Emmanuel Macron, que aumenta la edad de jubilación y los años de cotización, ha puesto en el centro del debate —un debate global de décadas— qué hacer con las personas mayores y cómo financiar los sistemas de pensiones.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que defienden el argumento demográfico obvian o ocultan algunas cuestiones. En primer lugar, expanden el problema previsional más allá del mercado laboral, ignorando la informalidad laboral (un tercio de los trabajadores argentinos) promovida por quienes ahora proponen reformas regresivas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el sistema es insostenible, ¿por qué no restablecer los aportes patronales al 33% o más?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El movimiento francés invierte los términos del debate: la lucha no es entre población activa y pasiva por recursos escasos, sino entre trabajadores y jubilados contra quienes se benefician y justifican el sufrimiento con la excusa de que la gente vive demasiado.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1439
+}

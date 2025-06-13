@@ -1,0 +1,51 @@
+{
+  "texto_id": "viviana_canosa",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.713,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ahí estamos viendo al amigo ruso Alberto Fernández, al amigo ruso de Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero como ya este gobierno se aprovechó de la pandemia para hacer de las suyas, no voy a ser cómplice hablando todo el tiempo de la guerra como tema único.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el conurbano no está mucho mejor que Kiev. Así que no me rompan las pelotas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Flor Peña, que defiende la invasión de Rusia a Ucrania, es la misma que tiene un portal... ...donde cobra en dólares para mostrar el cuerpo y se va de vacaciones al exterior. ¡Odian el capitalismo! Pero el culo te lo muestran y quieren cobrar en dólares. Es una doble vara impresionante.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que tiene razón Cristina Fernández de Kirchner y es el momento de sacar a todos los funcionarios que no funcionan.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta oposición tibia y ensobrada da asco. Das asco, Gladys González. Y si querés, vení a que te lo digo en la cara.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejá de hacer esa tortilla que estás haciendo, las milanesas para los pibes, o la polenta que te hace morfar este gobierno. Pero dejá todo por un segundo y mirá esta gente convocando al campamento anticapitalista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, han convertido el himno nacional... Mirá, le hace un perreo y todos aplauden. Esta es la decadencia, esta es la decadencia más absoluta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6248
+}

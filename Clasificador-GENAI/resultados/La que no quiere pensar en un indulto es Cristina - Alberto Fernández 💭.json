@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_indulto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.433,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Así que, bueno, abrimos este programa con este trap y lo titulamos \"Indulto, la única salida\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En verdad, nosotros tenemos una justicia que se parece mucho más a la justicia de una monarquía que a la justicia de una democracia, porque es una justicia selectiva, que se aplica en favor de poderosos, donde los poderes fácticos influyen y operan y todo el mundo lo sabe, no estoy diciendo algo que no se sepa, y que, por lo tanto, definitivamente maltrata el servicio de justicia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Clarísimo Zaffaroni, que puede ser controversial en muchos aspectos, pero no cabe ninguna duda de que es uno de los juristas más prestigiosos que tiene Argentina a nivel internacional.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3746
+}

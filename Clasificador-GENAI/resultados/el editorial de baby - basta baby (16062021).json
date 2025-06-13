@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.771,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos 86.000 muertos y así con la chica que pinta, que además se desenvuelve bien.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como este gobierno es un desastre, yo prefiero a Alberto así, distendido, charlando, que a Alberto con el dedo acusador.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "86.000 muertos en la calle y usted floreándose con la chica linda dentro de la Casa Rosada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque para ellos el manicomio es el futuro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Quién les hizo creer que ustedes son más que los demás para juzgarnos?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son gente perversa, mediocre y resentida, como estas que fueron a… ¿Cómo va a ser a patentar “Ni una menos”?",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Realmente son muy berretas. Muy berretas es Cristina, muy berretas es usted, presidente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3521
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.657,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo creo que, por ejemplo, para dar el ejemplo del primer año de Milei, fue un quiebre tan brutal para el status quo reinante que el cambio de dinámica realmente impactó en un cambio de rumbo del famoso péndulo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí me gusta decir que el kirchnerismo es el verdadero \"riesgo país\", porque cuando la gente dice, \"si algo falla en este gobierno\", lo primero que piensan es en Cristina, esta cuestión del riesgo que implica en Argentina que el intento de cambiar de rumbo fracase por el peligro del otro lado.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo contrasto esto con lo que pasaba con el kirchnerismo, que era desde dentro del sistema romper el sistema.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Javier Milei recibió un apoyo importantísimo del expresidente de los Estados Unidos, Donald Trump, y hay que reconocerlo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dijo Kicillof: \"El peronismo necesita reconstruirse para liderar una alternativa al experimento de ajuste y crueldad del gobierno de Milei\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la economía va bien, a Cristina le va mal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La reconstrucción de la identidad del PRO desde una línea republicana en defensa de las instituciones es lo que deslizó el expresidente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4242
+}

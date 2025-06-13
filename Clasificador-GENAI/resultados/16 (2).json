@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Aracre, ex CEO de Syngenta e integrante del equipo de asesores de Alberto Fernández hasta hace unos meses, está imputado por un delito de abuso sexual agravado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La denuncia, presentada el viernes por la tarde por un joven de 17 años, indica que los hechos ocurrieron primero en la oficina de Aracre y luego en su casa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El denunciante, quien se encontraba con dos amigos en un bar llamado \"London\" (donde según su relato hablaban de política), fue llevado por Aracre solo a su casa en Palermo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La orden de allanamiento también incluía la búsqueda de rastros papilares, dactilares, palmares, pelos, y la utilización de luminol para detectar fluidos corporales (semen, sangre, saliva y células epiteliales).",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aracre aún no ha declarado ni ha sido citado a declarar, solo notificado de la formación de la causa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1184
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La derrota de la inflación, lo venimos repitiendo hasta el cansancio, es el gran activo de este gobierno, es el gran capital de este gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir que el problema no es sólo cuándo levantar el cepo, el problema para el gobierno es, además, cuándo constituir un oficialismo, cuándo constituir una alianza, cuándo operar sobre la política para configurar una nueva forma de poder, que está siempre por darse, pero no termina de consolidarse por las inquietudes económicas que rodean al gobierno de Javier Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos hablando de tenencia de dólares por parte del Banco Central, estamos hablando de la dualidad de tipos de cambio y todo eso deriva, al final, en el nivel de inflación, en el cual se sostiene el prestigio de Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El liberalismo, es no creen que el problema del 'qué es medismo' pasaba por el ejercicio del poder en sí mismo y no por las ideas de mierda que quiso implementar. Creen que la respuesta al verticalismo es la fragmentación y no un verticalismo igual de fuerte, por eso perdieron siempre",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8620
+}

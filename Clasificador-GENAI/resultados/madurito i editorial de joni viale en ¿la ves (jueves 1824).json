@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.793,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Todavía no entiendo cómo el gobernador Axel Kicillof tiene tanta vergüenza de defender a su padrino venezolano.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maduro es Cristina Kirchner, Maduro es Néstor Kirchner, Maduro es Alberto Fernández, Maduro es Sergio Massa y Maduro también es Kicillof.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El capricho fue suyo en todo caso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Juegan a la pelea de cortísimo plazo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se puede ser tibio si del otro lado hay una dictadura asesina, porque a los tibios los vomita Dios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La internacional fascista: Elon Musk, Jair Bolsonaro, Javier Milei, Nayib Bukele, Vox y los narcotraficantes, asesinos y sicarios de Colombia, Álvaro Uribe Vélez, Iván Duque y todo el narcotráfico, toda la internacional de la extrema derecha fascista viene por la joya de la corona.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que se mete con Venezuela se seca.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2912
+}

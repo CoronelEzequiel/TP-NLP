@@ -1,0 +1,91 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿La libertad avanza o la casta avanza?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a reducir drásticamente la cantidad de contratos para diputados y asesores de la nación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Reduciremos drásticamente la cantidad de contratos para asesores de los diputados y senadores de la nación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es casta pura.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Vengo a romper el sistema.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Prometiendo que la meritocracia le iba a ganar a la cleptocracia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso el gobierno no puede permitir estas cosas de ninguna manera.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente labura, no hace piquetes, no hace paros.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gente no... acá todos laburantes se pagan los impuestos, se pagan los servicios, se pagan la prepaga, se paga el colegio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A esa gente que está haciendo un esfuerzo descomunal no se le puede fallar, con todo respeto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y Milei prometió un país donde el ajuste lo pague la casta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Levandovski, que se refiere al asesino hijo de puta que fusiló a un placeró rosarino, ¿te acordás?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta es la casta que se tiene que terminar de una buena vez por todas y para siempre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo quiero más Galperín, más Colapinto, más Glova, más Mercado Libre, más Gallardo, más Faustino Oro, el chico mundial, campeón mundial de ajedrez, más esfuerzo, más talento, más éxito, más progreso, más sacrificio, más estudio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No necesitamos todo el tiempo el Estado para todo, a pesar de que ustedes lo necesitan.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y sobre todo, necesitamos sacarnos a la casta de encima de una buena vez.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4182
+}

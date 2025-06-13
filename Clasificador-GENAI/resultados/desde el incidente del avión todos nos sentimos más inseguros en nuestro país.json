@@ -1,0 +1,41 @@
+{
+  "texto_id": "Cristina Sin Vuelta",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Políticamente, los funcionarios argentinos se han esforzado en estas horas por desestimar toda sospecha, en vez de extremarlas para cuidarnos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ministro de seguridad, Aníbal Fernández, que parece casi el abogado de los iraníes, salió a destacar ayer que no tienen claves rojas por alertas, eso quería decir el ministro, le dijo claves, esas que pone Interpol.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina tuvo dos atentados que aún están impunes.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, está muy justificado que nos preocupen, está muy justificado que no seamos prudentes, sino todos lo contrario, imprudentes; por eso hemos solicitado al tribunal hoy a la mañana que se impida la salida del país hasta que se investigue de qué se trata.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El hecho de que recién ayer la justicia haya decidido inspeccionar la aeronave que aterrizó en Argentina el día 6 de junio por primera vez es suficiente para temer por la brecha de seguridad que implica este episodio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La realidad es que, desde este incidente, en un país con el antecedente de dos atentados terroristas impunes perpetrados por Irán, según la justicia, todos nos sentimos más inseguros.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2382
+}

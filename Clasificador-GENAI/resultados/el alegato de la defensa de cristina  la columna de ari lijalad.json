@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy se llevó a cabo la primera audiencia de defensa de Cristina Fernández de Kirchner en la causa Vialidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Inicialmente, se pretendía auditar toda la obra pública provincial; luego, solo la realizada por Lázaro Báez; después, 51 obras específicas; y finalmente, solo 5.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A pesar de esto, todos los testigos citados por los fiscales Luciani y Sergio Mola durante el juicio declararon que las obras se realizaron según lo previsto, sin sobreprecios y dentro del presupuesto.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veraldi asumió la tarea, tal vez inapropiada según su perspectiva, de demostrar la inocencia de Cristina Fernández de Kirchner.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Coincidentemente, cada vez que presentaba pruebas que podrían demostrar dicha inocencia, los fiscales experimentaban fallas en su conexión a internet.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señaló la singularidad de la situación: Cristina Fernández de Kirchner es perseguida simultáneamente por cinco delitos de asociación ilícita, un hecho sin precedentes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Preveo una condena en este juicio, lo que plantea interrogantes sobre su candidatura.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El contexto político actual se complica aún más por las fuertes presiones sobre Cristina Fernández de Kirchner.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1329
+}

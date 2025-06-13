@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_jefatura",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El jefe de gabinete de ministros fue, podríamos decir, una inspiración que tuvo Raúl Alfonsín para tratar de construir un sistema semiparlamentario en la reforma constitucional de 1994, cuando acordó con Carlos Menem en este momento a cambio de que existiera la reelección, una serie de modificaciones, como la independencia de la ciudad de Buenos Aires y su jefe de gobierno, y entre ellas, este jefe de gabinete, cuya función en la constitución de 1994 es ejercer la administración general del país, nada menos, se parece bastante a casi ser el presidente.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina tiene que seguir garantizando su superávit fiscal y comercial y nivel de reservas. En definitiva, vivimos un momento muy especial del mundo, un mundo que tiene situaciones complicadas desde el punto de vista económico, desde el punto de vista monetario.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se santifican a los muertos porque se murieron. No se enoja al chancho y se come, no hay que tener mucha preocupación por eso. Es lo que dice que yo soy un cobarde. Cobarde porque no santifico a un muerto que hizo las cosas mal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4554
+}

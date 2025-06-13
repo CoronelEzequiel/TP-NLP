@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.138,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Mariana Corvalán, una emprendedora de 41 años, relató su difícil situación en una entrevista radial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, en los últimos nueve meses ha experimentado una caída del 80% en sus ventas.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación la ha llevado a una profunda crisis económica, dificultando incluso la reposición de materia prima debido al alto costo de la fruta y el azúcar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente prioriza la compra de productos más baratos, dejando a emprendedores como ella en una situación precaria.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para afrontar la situación, Mariana ha tenido que realizar severos recortes en su consumo, incluso dejando de comer carne.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Relató un episodio conmovedor en el que tuvo que comprar alitas de pollo en oferta para alimentar a su hija de seis años durante varios días, debido a su limitada capacidad adquisitiva.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación la ubica por debajo de la línea de pobreza, y la lleva a cuestionar la viabilidad de su emprendimiento, que inicialmente concebía como una forma de lograr estabilidad económica.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mariana enfatiza que su situación no es única y que muchos emprendedores se encuentran en una situación similar, desesperados por encontrar alternativas laborales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1361
+}

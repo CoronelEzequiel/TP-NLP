@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.708,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estamos ante una situación en la que la propiedad privada está en entredicho, lo cual es muy peligroso.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto se debe a una combinación de factores: personas necesitadas de vivienda ante la ausencia del Estado (falta de cloacas, luz, etc.), y negocios de punteros políticos; en el caso de Moreno, la participación de una barra brava provocó un tiroteo con consecuencias fatales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su propuesta de reforma agraria y expropiación de tierras para redistribución, aunque no se concretó, tiene una historia vinculada al sur del país.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con el caso Maldonado, la situación cambió: el Estado tomó partido por quienes usurpan tierras.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aníbal Fernández (Ministro de Seguridad de la Nación) minimiza la cuestión de seguridad en las usurpaciones, contradiciendo el Código Penal y las declaraciones de Sergio Massa (presidente de la Cámara de Diputados), quien propone desalojos y la quita de beneficios sociales.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está dividida y paralizada; ni siquiera los legisladores pueden desplazarse libremente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1834
+}

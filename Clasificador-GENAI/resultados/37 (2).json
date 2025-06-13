@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.087,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, desde Argentina, les mostraremos aspectos desconocidos de la visita de diputados a genocidas en prisión; no se trató solo de una visita, sino de una declaración de principios, un plan para liberar a los condenados por crímenes de lesa humanidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que diputados visiten a genocidas, y luego intenten disculparse de forma superficial… nadie les creerá.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No queremos más desapariciones ni muertes.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Peor aún, muchos las impulsan, incluso la vicepresidenta.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las Abuelas y los organismos de derechos humanos seguimos de pie. Nos organizaremos para salir a la calle.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Latinoamérica debemos defendernos, todos sufrimos dictaduras y perdimos familias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo al pueblo que nos escuche: que nos respeten, que tengamos comida, trabajo. Que el gobierno sepa que no es una dictadura, pero que no estamos de acuerdo con el abandono del pueblo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2337
+}

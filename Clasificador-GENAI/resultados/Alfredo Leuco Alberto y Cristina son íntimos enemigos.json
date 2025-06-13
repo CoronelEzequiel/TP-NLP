@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.662,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde que **Cristina Fernández de Kirchner** se fue del gobierno en el año 2008, fue creciendo el odio y el desprecio entre ellos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "**Alberto Fernández** la culpó de todo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dijo que su gobierno fue deplorable y psicótico y que ella actuaba como una psicópata y de haber encubierto a los terroristas iraníes que volaron la AMIA.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de la designación del general César Milani, fue demoledor.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dijo **Alberto Fernández** que tozudez la de **Cristina Fernández de Kirchner**.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde que celebraron el matrimonio por conveniencia y el pacto espurio de cumplimiento imposible que llevó a **Alberto Fernández** a la presidencia, se siguen hostigando, se siguen despreciando pero no lo hacen en forma explícita ni pública.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una realidad de extrema gravedad institucional que llevó a decir a la diputada **Mariana Zuvic** que el presidente no está en funciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, si las urnas demuestran una mayoría de voto castigo, van a dejar a **Alberto Fernández** como un espantapájaros desnudo y como el mariscal de la derrota.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Cristina Fernández de Kirchner** tiene una regla, no? Ni olvido ni perdón.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El cruce con **Máximo Kirchner** fue mucho más duro todavía.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después quedó claro que se refería sólo a los norteamericanos y se preguntó qué pasará con el acuerdo con el Fondo Monetario si se bajaban los pantalones de esa manera con un simple laboratorio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Le contestó que antes de ceder y perjudicar los intereses del pueblo argentino se iba a su casa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que que no venga a poner excusas y amagar con irse a su casa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2607
+}

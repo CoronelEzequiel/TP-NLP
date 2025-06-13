@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.777,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Las tres mujeres más importantes de la oposición expresaron su objetivo de reemplazar a Sergio Massa en la presidencia de la Cámara de Diputados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Deja atrás las posiciones más timoratas de dirigentes que siempre se ven a sí mismos como supervisores de los gobiernos peronistas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si la voluntad soberana de los argentinos le otorga a \"Juntos por el Cambio\" un triunfo electoral contundente, estarán demostrando que pueden ser la primera minoría y, por lo tanto, estarán en condiciones de elegir al presidente de la Cámara Baja.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Más democrático, imposible.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una forma de tomar nota del mensaje de las urnas, por el contrario, sería una manera de que un dirigente opositor pueda convertirse en garantía de estabilidad y equilibrio democrático ante cualquier tipo de turbulencia que podría ocurrir producto de la hecatombe económica o del ataque permanente de Cristina Fernández de Kirchner a Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son dirigentes y partidos que siempre han actuado en defensa de la República y la división de poderes.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si \"Juntos por el Cambio\" logra la suficiente cantidad de diputados, tiene la obligación de mandar a Sergio Massa a una banca común y sacarlo de la presidencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No es una pistola en la cabeza de las instituciones, es la mejor manera de ponerle límites a una posible radicalización chavista de Cristina Fernández de Kirchner y de fortalecer el debate, los disensos y los consensos que deben darse en el Parlamento.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El profesor Andrés Malamut, desde Portugal, no ha logrado advertir la profundidad autoritaria y destructiva del nacional-populismo de Cristina Fernández de Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina vive una crisis de magnitud.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que levantar la guardia, hay que encender las luces de alerta para fortalecer las bases del sistema y, de ninguna manera, dejarse involucrar en las feroces internas del justicialismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería la mejor forma de custodiar la libertad y la democracia.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sería la mejor forma de mostrar equilibrios institucionales y una alternancia en serio que espante cualquier aventura extremista.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2631
+}

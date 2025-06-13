@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei logró, por poco, formar la minoría legislativa que le permitió sostener el veto al aumento presupuestario aprobado por el Congreso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La realidad es que este movimiento estudiantil se ha convertido en un factor determinante en la histórica correlación de fuerzas en Argentina, imponiendo un serio límite al proyecto libertario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ascenso de Milei aceleró la política argentina, desencadenando en diez meses un movimiento estudiantil que, aunque centrado en el presupuesto universitario, está conectado con el clima de declive gubernamental: diez meses de ataques, maltrato a jubilados, recortes en salud pública, etc.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este movimiento sacude tanto a quienes sobrevaloraron a Milei como a quienes especulaban con la rutina electoral.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1648
+}

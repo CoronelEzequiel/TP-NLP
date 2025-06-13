@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Alberto Fernández cree que puede comprar a la justicia, y lo peor es que, en este caso, la justicia aceptó sobornos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vemos a un presidente que se burló de las restricciones y parece haber actuado con total impunidad.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Presidente, usted mismo habló de ese desprecio.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente mintió a los argentinos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En realidad, la intención siempre fue evadir la verdad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fiscal, el juez y el propio presidente deberían saber que hay cosas que no tienen precio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia se compra y se vende; escupen en la cara de quienes sufrieron en la pandemia.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un gobierno donde el presidente y la vicepresidenta creen que pueden salir indemnes sin ir a juicio, sobreseídos sin la consideración de sus faltas por parte de un tribunal, salteando los procesos y ofreciendo dinero como en este caso.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos toma a todos por idiotas y la justicia no asegura a los argentinos justicia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo que nunca tendrá precio, señor presidente, es su propia palabra, que usted ha devaluado una y otra vez, y vuelve a hacerlo ahora.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué decir del fiscal?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quien tiene dinero y poder puede arreglar sus culpas con dinero; un Judas de la justicia acepta las monedas de la traición y sacrifica el honor mancillado de los argentinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto perjudica el prestigio del poder judicial y lo divorcia de la buena fe de las personas comunes que ven que la igualdad ante la ley no se aplica a los poderosos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alfredo Llobrán tenía razón cuando decía que el poder es impunidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2523
+}

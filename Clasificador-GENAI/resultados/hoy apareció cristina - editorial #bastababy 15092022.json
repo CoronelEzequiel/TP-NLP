@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.883,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En su discurso, reconoció la responsabilidad por los tres años de su gobierno, admitiendo la alta inflación, el deterioro económico y el hambre que aqueja a la población.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aclaró que sus acciones pasadas, basadas en la mentira y la polarización, fueron un error.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Criticó la estrategia de sembrar el odio y el resentimiento, reconociendo su papel en la generación de un clima de confrontación, ejemplificando con episodios como el envío de militantes a agredir periodistas, incluyendo a figuras como Jorge Lanata, Alfredo Leuco y Nelson Castro.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Arrepentida, pidió disculpas por sus acciones y aseguró haber cambiado su enfoque, optando por la paz y la reconciliación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También responsabilizó a su gobierno por el estado actual del país, manifestando su pesar por el sufrimiento del pueblo argentino y la situación creada por su gestión.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, reiteró su compromiso con la democracia y la libertad de expresión, reconociendo el derecho de los periodistas a opinar libremente y la función de la oposición.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1083
+}

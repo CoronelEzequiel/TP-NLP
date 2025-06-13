@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En estos días, el presidente de la Nación, Alberto Fernández, parece creer, embelesado, que estrenar su ímpetu crítico con su vicepresidenta, Cristina Fernández de Kirchner, equivale a haber asumido el poder; que, como cuando dio un giro de 180 grados en todo lo que pensaba y apareció abrazado con ella después de ser su férreo atacante, las cosas pueden arreglarse a los volantazos, diciendo lo contrario y ya está.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández se mató de risa ante una pregunta de este tipo formulada por una periodista extranjera.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese mismo señor declaró hace unos dos meses la guerra a la inflación, banalizando una guerra real y prometiendo humo, porque hoy se conoce otro índice de precios y ya sabemos que marcará que aquella guerra fallida está perdida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esa instancia, no solo no se le ocurrió pedir por una salida pacífica, sino que ofreció a Argentina como una especie de \"novia\" para el villano, dejando al país en una posición casi de paria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Será que el presidente argentino viene desacostumbrado a las conferencias de prensa porque acá las esquiva y menos acostumbrado a las preguntas incómodas que los entrevistadores amigos que suele elegir ciertamente nunca le harían.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y claro que no da gracia. Qué triste que dé risa el presidente de los argentinos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2809
+}

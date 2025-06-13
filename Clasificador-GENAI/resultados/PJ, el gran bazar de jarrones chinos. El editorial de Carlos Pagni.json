@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Entonces, es una primera decisión que tiene que ver con poner al frente del arzobispado de Buenos Aires a alguien que va a estar ahí, probablemente, 20 años.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando estaba en la Villa de San Isidro, Jorge Ignacio García Cuerva solía decir: \"Yo estuve acá con la hiperinflación de Alfonsín, con el 1 a 1, en 2001, cuando repartían de todo, en la época de la expansión kirchnerista… siempre esto estuvo igual, porque la única clave para sacar a los pobres de la pobreza, o por lo menos la clave principal, es la educación\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es probable que Jorge Ignacio García Cuerva haya tenido mejor relación con dirigentes del PRO, como María Eugenia Vidal y Carolina Stanley, que con gente del peronismo, donde, biográficamente, estaba más cercano por su juventud.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner todavía no tiene candidato, no sabe cuál es el candidato, pero sabe que tiene que lograr algún tipo de confrontación con Javier Milei y opacar, en el medio o en el otro extremo, a Juntos por el Cambio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa le tiene que garantizar al Frente de Todos que consigue las reservas, no para salir exitoso, para llegar a las PASO.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Massa es candidato (no sabemos a qué, pero si Massa es candidato a presidente), Scioli no se baja, es decir, hay un eje de enfrentamiento personal que determina este problema de si va a haber interna o no en el Frente de Todos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8441
+}

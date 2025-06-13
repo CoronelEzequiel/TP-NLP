@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Están espantando Alberto y Cristina. Malgastaron y desperdiciaron todo este tiempo, casi estos dos años, por mirarse solo el ombligo. Y finalmente van a terminar muy mal.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no le cobran, por ejemplo, la renta inesperada a todos estos chorros que se afanaron la Argentina?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Millones de dólares en La Rosadita, los bolsos de José López en el convento, los hoteles de Cristina, los millones de dólares de Florencia, la fortuna inexplicable de Máximo, la mansión y el zoo de Valdez.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Venezuela, el país del petróleo, le falta petróleo. Cuba, el país del azúcar, le falta azúcar. Argentina, el país de la carne, le falta carne. Un delirio, eso se logra solo con socialismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina tenemos 25 millones de personas cobrando alguno de los 182 planes sociales. En el Estado trabajan unos 4 millones y medio. Somos apenas 6 millones de trabajadores privados y productivos, manteniendo a casi 30 millones de improductivos en un país de 45 millones de personas. Señores, los números no nos cierran.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7722
+}

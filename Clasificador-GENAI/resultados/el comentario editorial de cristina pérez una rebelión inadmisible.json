@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En términos políticos, no hace falta que yo se los diga, ustedes ya lo saben: venimos de uno de los mayores asedios a la Corte Suprema de Justicia, que, en forma descarada, el kirchnerismo buscó colonizar para sus fines, sobre todo, para lograr impunidad para su jefa, la ex Presidenta Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una y otra vez hablamos de la importancia de la división de poderes, de la prohibición constitucional que recae sobre los presidentes, artículos 109 y 110 de la Constitución, para interferir en causas judiciales.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Imagínense, cuando se pueblan los tribunales de mandaderos políticos, sabemos lo que pasa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchachos, si quieren cambiar la ley de coparticipación, háganlo como se debe. Si creen que la provincia merece más, háganlo como se debe, háganlo por ley.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, a mí ya no me asusta, no me genera sorpresa que el kirchnerismo intente la desobediencia, porque ellos han sido un poder político que desde adentro quiso minar el sistema republicano.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El orden jurídico argentino nos puede gustar o no, pero tiene su vértice y su cumbre en la Corte Suprema.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3586
+}

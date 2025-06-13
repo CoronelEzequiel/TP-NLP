@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Realmente la política argentina se ha transformado en una payasada, en una payasada que está lejos de lo que es la democracia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A Milei lo vi porque... \"Che, silencio ahí arriba, que estamos trabajando incómodos\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, cuando se ve que lo \"coachearon\" a Milei y le dijeron: \"Vos quedate tranquilo, no te involucres, Massa te va a buscar para que salgas\".",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y Milei, que no tiene cintura política porque, con todo respeto, porque quiero a Javier, es un gajo de la política, no tiene trayectoria, está trasplantado a la política, empezó a contestarle, a ver \"por sí o por no, bueno te voy a contestar, no, por sí o por no la pelota, a ver, por sí o por no nada, vamos a debatir de lo que le pasa a la gente\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque venimos de 20 años o 30, donde nadie fue preso, donde se robaron las ilusiones, donde nos violaron sistemáticamente, donde nos abusaron todos los días, donde se cagaron en la niñez, en la educación y en la justicia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que yo quiero es cerrar el Banco Central.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2517
+}

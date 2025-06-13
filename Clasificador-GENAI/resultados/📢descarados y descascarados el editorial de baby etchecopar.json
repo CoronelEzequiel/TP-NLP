@@ -1,0 +1,51 @@
+{
+  "texto_id": "Descarados y Descascarados",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Milei está jugando con Macri, como juega el gato maula con el miserable ratón, lo está boludeando, está haciendo jueguito, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A mí me pasó una cagada grande. Yo voté a Milei. Y siempre quedo del otro lado de la guerra, ¿viste? Porque yo voté a Milei, pero ahora Navarro, C5N, son todos \"mileístas\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me gusta hacer oposición, porque yo soy político de raza, y me gusta criticar y me gusta confrontar.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No puedo dejar pasar esto y vivirlo como en una democracia que es normal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Explíquenle a su marido que no podemos soñar con un auto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, ¿sabe qué pasa? Hay una cosa que es lo peor que puede tener la Argentina, que son los nuevos ricos, que son los nuevos poderosos, que son los que nunca fueron y un día de pedo son un ratito.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con este gobierno y con estos planes económicos, no estamos en Miami y los ratones son el pueblo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se puede ser golpeador, se puede ser misógino, se puede ser sinvergüenza, se puede ser mentiroso. Lo que no se puede ser es tan poco hombre de estar mostrando las historias clínicas y poner a una sinvergüenza como testigo que diga que Fabiola caía borracha entre las plantas y había que levantar a la borracha porque los caballeros no tienen ven. Pero, ¿qué digo? Usted nunca fue un caballero, es un pito duro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3936
+}

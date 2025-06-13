@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.514,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Y vamos a analizar la deriva del presidente de gobernar a través de decretos y vetos, sin importarle demasiado lo que diga el Congreso, incluso judicializándolo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese sentido, todas las iniciativas del kirchnerismo para perpetuarse en el poder terminaron sirviendo a sus contrincantes para poder desalojarlos del poder y para poder construir otras corrientes políticas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente actual es un presidente elegido con el 56% de los votos el 22 de noviembre, y el veto es una facultad constitucional.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En ese posteo señalaba la necesidad de construir un verticalismo libertario y que busque llevar adelante las ideas a como dé lugar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No nos cabe dudas desde ATE que el presidente ha decidido gobernar por decreto. Eso arrasa con el Parlamento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están avisados. Marchas, paros, tomas, quieren derrocar al presidente con más huevos de la historia. Están avisados, zurdos de mierda. Después no lloren. Represión.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Javier Milei termina de habilitar las manifestaciones callejeras y continúa con sus DNU y vetos, la pregunta será qué tipo de democracia tendremos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4247
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.786,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dicen que hay un trato favorable para Cristina Fernández de Kirchner, y que el procesamiento de Mauricio Macri está bien llevado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que decirlo claramente: ¡No mientan más! Ustedes robaron.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto se lo digo a los religiosos que ven este programa y dicen que las denuncias contra Cristina son justas, y que el procesamiento de Macri es merecido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri se lo merece.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "José López robó, Ricardo Jaime robó (ambos confesos y condenados), Roberto Arata robó, Julio De Vido robó, Amado Boudou (con condena firme por robo), Sergio Schoklender robó, y Hebe de Bonafini también robó.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero la coima en obras públicas de miles de millones de pesos, es una coima que pide el presidente, nadie más.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y se la pide a empresarios que pueden hablar directamente con el presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1443
+}

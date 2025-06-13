@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.785,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Las personas condenadas por corrupción en segunda instancia no podrán presentarse como candidatos en elecciones nacionales.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei cometió el error más grave desde que llegó al gobierno: por una presunta conveniencia electoral, traicionó las promesas que el presidente hizo en su primer discurso y que acabamos de escuchar.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Impulsaron el fracaso del quórum en la ley de Ficha Limpia, y eso significa que ayudaron a la peor versión de la casta, que son los corruptos de Estado, como Cristina, Urribarri y siguen las firmas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El presidente Milei fue aplaudido por todo el Congreso, menos por los ladrones y sus cómplices de izquierda antisemita y el peronismo kirchnerista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milei está disfrutando de una luna de miel con prácticamente media ciudadanía, media población.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sus méritos son contundentes en la baja de la inflación, en evitar el abismo de la hiperinflación, en los equilibrios fiscales, en la desregulación de las burocracias mafiosas del Estado, en la desarticulación de los piqueteros extorsionadores y en poner a la Argentina del brazo de los países más democráticos y que más respetan los derechos humanos en el mundo, como Estados Unidos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se pareció mucho a un pacto de impunidad entre Milei y Cristina, y eso es gravísimo, no importa cuál sea la explicación electoral de esa intención.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez están más cerca de ir con listas separadas y en Buenos Aires eso podría producir la victoria de Cristina, Massa, Kicillof y La Cámpora. Sería imperdonable: no convertiría nuevamente en competitivo el kirchnerismo kleptocrático que tanto daño le hizo a nuestra bendita Argentina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Cómo puede ser que, por una conveniencia electoral de cortísimo plazo, Milei y Cristina hayan trabajado para lo mismo?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La historia dirá que, en el mejor momento del gobierno de Milei, se confirmó \"ficha sucia\", la impunidad avanza.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2745
+}

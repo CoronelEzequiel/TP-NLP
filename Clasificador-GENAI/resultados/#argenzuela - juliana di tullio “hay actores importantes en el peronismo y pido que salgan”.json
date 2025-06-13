@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_di_tullio_rial",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que su ley perjudica más a la gente que a la clase política. Él nos insulta, nos descalifica… mientras la gente pasa hambre.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Millones de argentinos han caído a la pobreza; hay que hablar de la inflación descontrolada, del impacto de las medidas de Caputo, Macri, y…de su ley, que ha generado un 51% de inflación en tan poco tiempo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos representar al pueblo, ponerle límites al Presidente mientras lo escuche. Si no, seguirá llorando y haciendo más daño.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hicimos un mal gobierno en los últimos cuatro años. Me hago cargo, pero la gente sufrió.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Somos la oposición a este gobierno, y debemos poner límites en temas como la dolarización, el endeudamiento externo sin pasar por el Congreso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2419
+}

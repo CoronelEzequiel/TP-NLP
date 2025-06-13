@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La cultura es la dádiva, sacar plata, como el INCAA, productora de películas, o una fuente de prebendas para los amigos del kirchnerismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La cultura es algo innato, una cosa que nace con nosotros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué buscan con la cultura? ¿Que las universidades de San Martín, por ejemplo, o la de Lomas de Zamora, les banquen las películas? ¿Eso es cultura?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando vos tenés un montón de minas en tetas que van a Plaza de Mayo gritando \"soy puta y abortera\", creo que estás lejos de la cultura.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Decir que los pibes no tienen mérito, que el mérito no existe, es otra cultura.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando vos ves que llevan a la gente hambreada como rebaño y los chicos que van en ese rebaño no fueron ni a la guardería ni al jardín, porque dentro de ese gobierno, y hablo de Alberto Fernández y de Cristina Fernández de Kirchner porque estos también estaban con Cristina, no van al colegio, van con el cochecito de la mano de los padres a marchar por la 9 de julio, porque los llevan Benini, los lleva el otro, el amigo del Papa, era vos, esa es otra cultura, los chicos que nunca van a estudiar, que están fuera del sistema.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2107
+}

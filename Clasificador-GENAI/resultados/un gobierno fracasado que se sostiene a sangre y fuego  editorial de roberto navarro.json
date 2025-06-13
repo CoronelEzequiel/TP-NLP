@@ -1,0 +1,56 @@
+{
+  "texto_id": "nombre_del_texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.058,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno declaró la guerra a su propio pueblo, y ayer se libró la primera gran batalla.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos ante nosotros un gobierno dispuesto a imponer su plan de saqueo y miseria a sangre y fuego.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "[Nombre del presidente] ya había demostrado su capacidad para gobernar al margen de la ley, mediante megadecretos, nombramientos de jueces de la Corte Suprema por decreto, incumplimiento en la presentación del presupuesto y decretos de necesidad y urgencia para contraer deuda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, dejó claro al pueblo que, si es necesario, se convertirá en una dictadura capaz de asesinar a jubilados y trabajadores.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich afirmó que Pablo Grillo, el trabajador herido, era kirchnerista. Esto implica que, según ella, se puede matar a alguien con la excusa de que es kirchnerista.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno está débil y fracasando, intentando mantenerse en el poder a sangre y fuego.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está sucediendo es fascismo: el odio, la demonización, la estigmatización y la deshumanización del diferente.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las marchas sin policía, como la antifascista, o las de las universidades y la de las mujeres, todo fue pacífico.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La violencia surge con la presencia policial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2911
+}

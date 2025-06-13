@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.337,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Más allá de las fluctuaciones coyunturales, el clima político en estos momentos muestra un descenso notable del triunfalismo que se desplegó tras las elecciones generales, y han vuelto a crecer las expectativas sobre Javier Milei.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Se puede seguir hablando de empate en un contexto donde una porción significativa del electorado optó por variantes de derecha o ultraderecha, incluso considerando que Sergio Massa, el candidato de Unión por la Patria, representa una de las expresiones más moderadas dentro de esa coalición?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, tras las primarias, declaró que era la primera vez que las ideas liberales tenían tanto respaldo en Argentina, como si todo ese voto reflejara un apoyo incondicional a su programa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta misma triunfalismo, junto con una serie de exabruptos, llevó a Milei y a sus partidarios a llevar sus propuestas al extremo, especialmente en materia económica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, más que una solución, es un síntoma de esta crisis, como han señalado varios analistas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Observando las campañas, vemos que Massa, para recuperarse del golpe de las primarias, realizó concesiones: eliminación del impuesto a las ganancias sobre salarios y devolución del IVA.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Incluso reconociendo los desplazamientos ideológicos hacia la derecha, existe un límite que todos los actores políticos deben reconocer; es ahí donde comienza la demagogia, la necesidad de un discurso aparentemente de izquierda.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es probable que esta situación continúe, incluso agravada, después del 19 de noviembre.  Sin embargo, más allá del resultado concreto, es importante evitar los extremos del triunfalismo y el derrotismo, manteniendo una perspectiva realista y preparándose para las luchas políticas que se avecinan.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2015
+}

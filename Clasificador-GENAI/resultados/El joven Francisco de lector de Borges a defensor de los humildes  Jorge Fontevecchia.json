@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_bergoglio",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El papa se dedicó a la vida espiritual, la reflexión religiosa, pero siempre ligado al sufrimiento humano, al parecer de los pobres, a la lucha contra la avaricia de los poderosos, y en eso era totalmente argentino.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con respecto a la política, Bergoglio contó que su familia era profundamente antiperonista, inclusive por momentos usó la palabra \"gorila\", dice textualmente \"vengo de una familia gorila\" en el peor sentido de la palabra.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En ese marco Bergoglio ayudó a quienes pudo e hizo lo posible por proteger y seguir haciendo su trabajo social en el contexto muy difícil de una dictadura militar que secuestraba y torturaba a personas, algunas, simplemente por opinar distinto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Durante su gestión impulsó una pastoral fuertemente comprometida con la realidad social, reforzó la presencia de los curas villeros en los asentamientos del Gran Buenos Aires, defendió públicamente a las víctimas de la pobreza estructural y fue crítico del modelo económico neoliberal de la década del 90.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y cuando nuestros chicos nos ven a nosotros, dirigentes que le damos este testimonio de bajeza, no se animan a soñar, no se animan a crecer.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5022
+}

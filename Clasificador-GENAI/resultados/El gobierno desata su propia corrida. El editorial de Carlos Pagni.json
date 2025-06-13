@@ -1,0 +1,136 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina está teniendo un problema con uno de esos flujos, es el flujo de gas.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno inauguró el 21 de abril, con pompa y circunstancia, un gasoducto al que llamó Néstor Kirchner.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ex ministro Matías Kulfas insinuó verbalmente que había algo raro en esa licitación porque quedaba para el grupo Techint.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo importante de todo esto es que entró en crisis una obra imprescindible, no solamente por razones energéticas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si tuviéramos una economía ordenada, tendríamos un gran negocio para hacer en materia energética, que es la producción de gas, que debe ser trasladado con un gasoducto.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema no es solo este, sino que toda la distorsión que hay alrededor de la economía argentina hace que el problema del gas, la deficiencia o el déficit que tenemos en el consumo de gas, como no lo producimos por carencia, inclusive de este gasoducto, lo tenemos que importar y esa importación demanda una cantidad extraordinaria de dólares.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es un gráfico, no importa si lo vemos con toda claridad, importa el dibujo general.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ser un gobierno suicida con niveles de incompetencia pocas veces vistos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repiten que la deuda en pesos es intrascendente en alguna medida porque la pueden pagar con emisión o sostenía Prat-Gay, al decir que es intrascendente y que no hay prácticamente que contabilizarla ni afligirse por ella, manda una señal subliminal tácita de que esa deuda en el fondo, tal vez, no la voy a pagar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Evidentemente, no hay nadie que pueda prestarle atención a los dos temas dentro del propio gobierno, es decir, un problema de incoordinación muy llamativo.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mercado entonces empieza a sospechar que el estado no va a pagar la deuda en pesos, claro, ¿qué tendría que hacer el estado para convencer al mercado de que la va a pagar? Podría subir la tasa, hacer más atractivos esos bonos, claro, pero si sube la tasa, empieza a generar una bola de nieve, que ya está generada, por la cual, para después pagar esos intereses de una tasa más alta, tiene que emitir más, no la sube.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos frente a un ajuste, el ajuste fiscal.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema de no querer equilibrar las cuentas fiscales, la idea de que la emisión no genera inflación, que es un fetichismo, una superstición, la idea de que el estado puede gastar por encima de cualquier restricción, esas ideas, la idea de no querer hacer un ajuste, con perdón de la palabra, nos lleva a esto, que es un ajuste por otra vía, que es la vía más dolorosa, el mercado que le dice: \"Ajustar porque ya no te presto\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un, hay un, una tentación por parte del gobierno, estos son rumores que figura que circulan en el mercado, de salir a comprar bonos para sostener el precio de los bonos y que no se terminen de destruir a través del Banco Central, con lo cual daría la impresión, esto es una hipótesis o una sospecha, el Banco Central para resolver el problema que hay detrás del déficit y detrás de la emisión, emite más, es decir, estamos ante un ciclo vicioso que va empeorando aquello mismo que quiere corregir.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina que vota a la oposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema de la inflación a generar un nivel de pobreza y de angustia entre los que menos tienen, los que no tienen trabajo, los que tienen un trabajo informal que, por supuesto, no pueden correr a la inflación como la corre el asalariado con paritarias, que van potenciando el mismo fenómeno de la inflación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, que es una dinámica también viciosa.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hay una disputa de poder entre la política partidaria, los intendentes y esta nueva forma de organización política que surge en la Argentina y se extiende a partir del crecimiento de la pobreza de los últimos 20 años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora sí empieza a haber dos Argentinas: una Argentina que puede más o menos consumir servicios de calidad, por ejemplo, internet y telefonía celular, televisión por cable y otra Argentina que va a recibir esos servicios de manera más imperfecta, pero los únicos alcanzables, porque no pueden comprar otra cosa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La destrucción del peso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es sorprendente cómo, tal vez por primera vez, el peronismo tiene desalineada su política económica con sus necesidades electorales y con su representación política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los dos tienen un pronóstico muy sombrío sobre el tránsito desde ahora a las elecciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los sindicatos adquieren protagonismo siempre que hay alta inflación, porque su función central es pelear por la capacidad del poder adquisitivo en medio de este problema tan complejo que el gobierno no logra resolver con fechas dramáticas hacia adelante como este 29 de junio, en que vence medio billón de pesos de las cuentas públicas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un razonamiento que da la idea de que alguien le dicta cosas que no entiende del todo o ideas a medio confeccionar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pareciera que gobernar no es el tema para Alberto Fernández, como dijo Lito Nebbia, que le gusta tanto, solo se trata de vivir.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 10243
+}

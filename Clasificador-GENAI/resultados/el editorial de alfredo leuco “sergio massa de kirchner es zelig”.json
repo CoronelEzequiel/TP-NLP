@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.827,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Massa es el director de una película de terror, un cine nacional atroz que está sufriendo la inmensa mayoría de los argentinos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es el responsable máximo de estas calamidades, que además de la superinflación se expresan en un cepo feroz que espanta empresas e inversores y en las aterradoras reservas negativas del Banco Central, que ya no rasca el fondo de la olla porque empeñaron hasta la olla.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En tres años huyeron del país 25 empresas multinacionales que daban miles de puestos de trabajo, escapando de la inseguridad jurídica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es insólito que el verdugo económico de tantos argentinos sea el menos peor candidato a presidente que tiene el kirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un oportunista muy experimentado en cambiar de camiseta a cada rato, y por eso se lo apoda \"panqueque\" y \"ventajita\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No lo mueve la justicia social, lo mueve la voracidad por lograr el poder y la presidencia a cualquier precio.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy es más cristinista que Cristina, hoy es más camporista que La Cámpora, hoy dice que construyó una relación de respeto con Cristina y actuó un putero casi llorón cuando Dady Brieva le mostró los elogios de la \"reina del calafate\".",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su presunta picardía y su \"sanata\" de \"chanta\" hoy sobreactúa izquierdismo \"berreta\" porque tiene pánico de que Juan Grabois llegue a los dos dígitos en las elecciones paso.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y, en consecuencia, asume esa idea ferozmente antidemocrática de meterle miedo a la gente y de decir que si ellos no ganan, vamos a lamentar asesinatos y sangre corriendo por las calles.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "\"Ajuste y represión\" es lo que dicen que hará la oposición si ganan las elecciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa se sacará el disfraz de Néstor o de Chávez y se colocará el de Bolsonaro o el del mismísimo Trump.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cambia, todo cambia, pero la corrupción no cambia. Tienen una voracidad por el dinero ajeno y por convocar a delincuentes condenados con condena firme de la Corte Suprema, como Amado Boudou.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy Sergio Massa y su mujer Malena Galmarini le dan duro a Mauricio Macri y tratan de subirlo al ring, igual que Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerdo que Malena y Sergio en un programa que hacíamos con mi hijo Diego en TN, confesaron que ellos votarían a Macri antes que a Scioli.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, el día de la inauguración del gasoducto, elogió a Massa por ir para adelante y agregó que eso siempre es bueno. No vaya a creer, doctora, siempre es bueno ir para adelante, salvo cuando estamos al borde del precipicio y del abismo que fabricaron ustedes tres: Alberto, Cristina y Sergio Massa, de Kirchner, más conocido como Zelig.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2998
+}

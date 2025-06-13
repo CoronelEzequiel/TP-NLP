@@ -1,0 +1,66 @@
+{
+  "texto_id": "ModoFontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo nombramos Javier Milei y el título de esta apertura de Modo Fontevecchia en Modo Viernes es \"El Terminator de Villa Devoto\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Soy como un Terminator que viene de un futuro apocalíptico para evitar la debacle\", lo dijo Milei, no me miren, así yo no tengo nada que ver.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Me encanta\", responde, \"soy una especie de topo que voy a destruir el estado desde adentro\", eso es lo que dijo Javier Milei.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer lo decía la apertura de Jorge Fontevecchia, el talón de Aquiles del gobierno, lo que sucede con Capital Humano, lo que sucede en estas dos cuestiones que hubo esta semana: el escándalo Capital Humano y la reacción de diputados aprobando esta movilidad jubilatoria en contra de lo que quería el Ejecutivo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Viendo una enorme tarea, digo, que hizo la ministra Pettovello, quién ha sido tan torpedeada en estos últimos días. Es decir, a ver, acabamos de hacer un tremendo ajuste y solamente tenemos reclamo del plano social a los \"gerentes de la pobreza\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, hemos, nos hemos cansado de escuchar en conferencias que había que terminar con el \"curro\" de los intermediarios, que había que terminar con la corrupción en los programas sociales, que teníamos que salir del asistencialismo para que aquellos que tenían la desgracia de caer en esas situaciones desafortunadas pudieran salir adelante con dignidad. Lo estamos haciendo ahora.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Posiblemente, si el apellido no fuera Pettovello, si fuera cualquier otro ministro ya hubiera salido eyectado de su lugar. Pasó, ni más ni menos, con el jefe de gabinete, con Nicolás Posse, que tuvo que renunciar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero Pettovello tiene una relación muy especial con el presidente, con Javier Milei, una relación personal muy especial y esto está relacionado con sostenerla en su cargo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se ha recortado en gasto social, en educación y en cultura. En trabajo se han establecido topes a las paritarias y se fomenta una reforma laboral que plantea avanzar contra derechos adquiridos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El que corta no cobra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las universidades públicas son uno de los motores de la democracia, la producción y los lazos sociales. Nuestras universidades han sufrido un fuerte ajuste en términos reales, en los denominados gastos de funcionamiento...",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6071
+}

@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.811,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández perdió la cabeza, o mejor dicho, fue influenciado por Cristina Fernández de Kirchner.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo peor de lo que dijo anoche le costó una denuncia penal de la Coalición Cívica por instigación al suicidio y amenaza de asesinato mafioso al fiscal Diego Luciani.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Fue un claro mensaje mafioso, dijo el diputado Maximiliano Ferraro.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es una violación a cielo abierto de la división de poderes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora, directamente, se han convertido en cómplices de la kleptocracia y de la corrupción de Estado más grave de la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Anoche, Alberto repitió eso de que Cristina es una mujer honesta, que no participó en nada de lo que se le acusa y fue condenada mediáticamente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Degradaron al fiscal que, según dijo Alberto, planteó un sinfín de disparates jurídicos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, fogonearon marchas, cortes de ruta y actitudes violentas y patoteras para intimidar a los jueces que tienen que resolver si condenan a Cristina a 12 años de prisión por ser la jefa de una asociación ilícita que saqueó al Estado, tal como propusieron los fiscales.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto apeló a la zaraza y a las mentiras seriales para despejar a Cristina de los negociados sucios y corruptos con Lázaro Báez.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No debería ser gratis convocar por los medios a cortar la ruta 3 y 20 rutas más hasta que renuncie la Corte Suprema de Justicia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Eso es un levantamiento carapintada de los piqueteros, un acto sedicioso, como lo definió Joaquín Morales Solá.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Durante una entrevista que le hizo nuestro colega Eduardo van der Koogh en TN a principios del 2015, solo Alberto se atrevió a decir que todo lo que dijo e hizo Cristina fue cínicamente delirante.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insisto, esto no lo estoy diciendo yo, un humilde cronista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto lo dijo el actual presidente de la Nación sobre la actual vicepresidenta de la Nación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2763
+}

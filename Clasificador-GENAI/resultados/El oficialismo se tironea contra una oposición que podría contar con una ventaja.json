@@ -1,0 +1,96 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La oposición se esfuerza en juntar los dos tercios necesarios para bloquear el veto del presidente Javier Milei a la ley de financiamiento universitario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con las políticas económicas de Javier Milei vamos a un país sin clase media o con una clase media adelgazada como en la mayoría de nuestros vecinos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por otra parte, si se confirma la derrota parlamentaria de Javier Milei, la oposición le habrá asestado dos golpes en dos semanas: una derrota en la calle y otra derrota en el Congreso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora hay que ver si la oposición logra tener un discurso que consolide sus dos tercios y evite que el gobierno vuelva a reunir a los famosos 87 \"héroes\" con quienes festejó el \"asado\" al sostén parlamentario al veto que cambiaba la fórmula de movilidad para los jubilados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Congreso debe ejercer su rol constitucional frente a este desafío institucional. Convocamos a sesión especial al 9 de octubre para tratar el veto total al proyecto 27.757. Defendamos el equilibrio de poderes y la educación pública.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Unión Cívica Radical convoca a sus diputados y senadores nacionales a que insistan con la aprobación de la Ley de Actualización Presupuestaria de las Universidades Públicas, que se votó por amplias mayorías en ambas cámaras y que fue vetada hoy por el presidente Javier Milei.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero qué ridículo, el que tuvo un acuerdo populista con Sergio Massa y tiene un frente de impunidad con Cristina Kirchner es Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es interesante porque la estrategia del gobierno estrena la escena el fantasma de una vuelta al kirchnerismo para quienes se alejan de las políticas de Javier Milei por sus consecuencias, sigan dándole su respaldo político para evitar que vuelva el kirchnerismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y hoy en la marcha vimos a todos los monstruos que destruyeron el país. Lo vimos a Massa, lo vimos a Moyano, lo vimos a Cristina, vimos a todos los monstruos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pareciera que \"kirchneristas\" todos los que atravesaron la política, lo fueron en algún momento y tendría que dejar de ser un calificativo que categorice a la persona como indeseable.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Actuará el PRO según lo que piensa? Es decir, ¿Mauricio Macri utilizará su posición de fuerza para negociar posiciones de poder hacia dentro del gobierno de \"La Libertad Avanza\"?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es Macri quien tiene la llave de los dos tercios. Es increíble porque en otro momento era el kirchnerismo el que tenía esa llave, hoy la llave la tiene el PRO.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vamos a poner solamente dos ejemplos de el legislativo votando la salida anticipada de un presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No descarto el juicio político a Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se busca impedir el juicio político, hay una idea de desestabilizar el gobierno como existe siempre en la Argentina desde que somos democracia y existe también en la región de que los golpes se inicien en el parlamento, tienen una afectación económica-financiera y después termina una estrategia social.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y este conflicto, además de que presupone un choque de los tres poderes de la República, por un lado, sabemos que la batalla que se desarrolla en el Poder Ejecutivo del presidente Milei y el legislativo en el Congreso, sin embargo, orienta a que vamos hacia un conflicto con un tercer poder, porque el gobierno ya anticipó que judicializará la ley si el Congreso logra bloquear su veto, entonces, contará el poder judicial de la Corte Suprema de Justicia a tomar partido en la disputa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esperemos que el gobierno pueda rever su posición para que los docentes tengan un ingreso superior a la línea de la pobreza.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5766
+}

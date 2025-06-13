@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.045,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El 9 de la mañana de hoy, finalizaron los alegatos de Cristina Fernández de Kirchner en la causa Vialidad.",
+      "score": 0.05,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No obstante, esta auditoría se limitó a la provincia de Santa Cruz y, específicamente, a las obras realizadas por Lázaro Báez en dicha provincia.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo sorprendente es que la propia auditoría encargada por Iguacel concluyó que no existía direccionamiento de obra, que las obras se habían ejecutado correctamente y que los pagos se habían realizado de manera adecuada.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante el juicio, numerosos testigos –jefes de gabinete, peritos que realizaron la auditoría y diputados de la oposición– declararon que no había evidencia de irregularidades o presiones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner hizo hincapié en la preocupante relación entre el fiscal Luciani y el juez Jiménez Uriburu, quienes comparten equipo de fútbol (Liverpool) en un torneo disputado en la quinta de Mauricio Macri en Los Abrojos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner analizó la situación en el contexto del pasaje del “partido militar” al “partido judicial”, utilizado por grandes corporaciones para perseguir dirigentes políticos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner alertó sobre el efecto disciplinador de esta persecución judicial, que busca intimidar a cualquier persona que cuestione el *status quo*.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner cuestionó la acusación de asociación ilícita, argumentando que un gobierno elegido democráticamente en tres oportunidades no puede ser considerado como tal.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este proceso judicial no es, en esencia, un tema legal, sino una maniobra para proscribir políticamente a quien logró un reparto equitativo de la riqueza nacional.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La condena del martes que viene, aunque firme sólo luego de la revisión en la Corte Suprema, tiene pocas probabilidades de ser ratificada por sus miembros: Mariano Borinsky (vinculado a Macri) y Gustavo Ornos (vinculado a Macri), ambos con estrecha relación con Mauricio Macri, junto con Carlos Rosenkrantz, Horacio Rosatti y Juan Carlos Maqueda (todos con vínculos al gobierno de Macri o al partido dualde).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1984
+}

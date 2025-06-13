@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Qué mensajes podemos sacar de lo que pasó en Río Negro y de lo que pasó en Neuquén que puedan iluminar esos mensajes en la vida política nacional?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay algo interesante que puede tener un significado o que nos hace pensar en otras provincias y es que las fuerzas nacionales parecen no tener mucho predicamento en estas elecciones locales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Figueroa no es un antibiótico, es decir, no es un producto elaborado para combatir algo distinto que sería una bacteria, no, es una vacuna, es un producto hecho con el mismo material que él quiere combatir, viene hecho con la genética del MPN.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa patea todos los problemas para adelante, dice Prat-Gay, complicándole la vida a su sucesor, al revés de Remes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina prohíbe la palabra devaluación y mucho más la acción de la devaluación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No ha habido otro gobierno más inoperante que este para controlar la inflación y la especulación con el precio de los alimentos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8798
+}

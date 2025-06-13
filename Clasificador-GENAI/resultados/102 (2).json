@@ -1,0 +1,51 @@
+{
+  "texto_id": "El_Fuego",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.438,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Nos encaminamos hacia cifras alarmantes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Decía que no podía creer haber trabajado para este gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos atravesando días difíciles.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Observatorio de la Deuda Social de la UCA estima que la pobreza ronda el 57%.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer un economista me comentaba que, en general, en este tipo de planes en Argentina, ha habido una confiscación de ahorros, como con el Plan Bonex.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me sacaron la verificación de Twitter y mi cuenta está en revisión. No pago por la verificación. Creo que es un paso previo a eliminar mi cuenta. Elon Musk arruinó Twitter.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a hablar de dos datos alarmantes sobre la pobreza y el crecimiento económico récord en apenas 60 días desde que Javier Milei es presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Le voy a pegar a Elon Musk! Es un virgo terrible.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2087
+}

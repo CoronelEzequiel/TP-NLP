@@ -1,0 +1,61 @@
+{
+  "texto_id": "beatriz_sarlo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Parecen dobles de Javier Milei, que me parece el pensamiento más aterrador que se pueda tener sobre la política y eso es lo que encuentro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El descrédito de lo público es muy grande.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay ningún líder político importante como pudo ser Alfonsín o como pudo ser Cafiero, padre, o como pudo ser Menem en su momento.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras que vos tenías políticos como Antonio Cafiero o como Alfonsín que interpelaban lo más alto del sentido común.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, el riesgo del crecimiento de Milei es que gane la batalla en nombre del liberalismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que la Argentina es un país en decadencia, que empezó el siglo XX entre un puñado de países que estaban entre los primeros, las 15 naciones con mayores expectativas del mundo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si logramos rescatar la educación de los que tienen hoy entre 6 y 15 años, que ya parecen los que tienen 15 estar perdidos para eso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto aprendió en la escuela de Cristina. La escuela de Cristina es una escuela fría. No es una escuela cálida. Uno podría pensar en otros líderes que tuvieron un tipo de liderazgo más cálido. El liderazgo de Cristina es frío. Es encendido, pero frío. Es un fuego frío.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que ser segura de sí misma para decir que las Malvinas no son argentinas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El camino tiene que pasar por la política. El descrédito de la política y el desinterés masivo por la política cierra todo camino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7958
+}

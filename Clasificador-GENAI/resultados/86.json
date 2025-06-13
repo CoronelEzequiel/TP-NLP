@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Rechazamos los ajustes a costa de jubilados, universidades y educación pública.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos dejar de esperar racionalidad y sentido común del gobierno; este presidente no responderá a los problemas sociales y económicos sin presión.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos formar un espacio que represente a la socialdemocracia, dispuestos al debate cultural. Creemos en un estado solidario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El radicalismo tiene dos corrientes: una socialdemócrata y otra más de derecha en lo económico.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos construir una alternativa con otros actores sociales y políticos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1899
+}

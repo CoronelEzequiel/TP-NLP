@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Gabriela Cerruti, que ejerció durante muchos años como periodista profesional, descalificó la información por provenir de un \"off the record\", como si esto la convirtiera automáticamente en falsa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde antes, se había dejado llevar por la aversión a la prensa que caracteriza al kirchnerismo desde sus orígenes: erigir a periodistas y medios críticos en enemigos cuyas informaciones son sistemáticamente descalificadas, mientras se los hostiga con ciberpatrullaje, difamación o ataques personales, incluso por parte de los más altos funcionarios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su nuevo ataque a la libertad de expresión se suma a otros sucesos en los que descalificó personalmente, a través de sus redes sociales, a periodistas (entre los que me incluyo), desatando la furia de una jauría que inmediatamente sale a atacar a la persona que osó informar u opinar algo que molesta en las altas esferas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El control de la información siempre ha sido el verdadero objetivo del kirchnerismo en relación con los medios, un rasgo autoritario propio de los populismos más rancios y de las autocracias que admira.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El problema fue la verdad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero para el gobierno, atacar a la prensa no es un error, sino una política sistemática y la única forma que tienen de defenderse: combatir la verdad.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2057
+}

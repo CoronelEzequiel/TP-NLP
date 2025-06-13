@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.87,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Tengo los \"huevos\" por el COVID, por el gobierno, por la mentira, por los videos, por las trapisondas, por las trampas, por la \"reta\" de la semana.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Demostraron que Ginés González García fue un inepto para el cargo, demostraron que, además de ineptos, son corruptos porque se apoderaron de todas las vacunas, que hay un montón de gente que va a morir por culpa de las vacunas que se robaron estos hijos de puta, que encima con una displicencia total salían con el brazo haciendo la \"V\" de la victoria.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El gobierno está desesperado porque nos quiere meter de nuevo adentro.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La cantidad de gente... Mira, el día que al presidente de todos los tiempos se le ocurra decir: \"¿Hay entrada para los argentinos?\", acá quedan Alberto, Cristina y Dylan, porque se las toman a la mierda todos y no queda ninguno, la gente no quiere estar más, ya estamos viviendo la Argentina como una desgracia y eso es feo, vivir en un país como una desgracia.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si la gente es tan mansa y tan \"boluda\" de hacerle caso a Alberto y meterse atrás del vidrio, mirar cómo pasa la vida por afuera con barbijo, cagó el país, ahora si la gente es ciudadana y no voy a hablar de patriotismo, y le dicen: \"No, no, ya te dimos un año de nuestra vida al pedo para que ustedes jueguen y encima cuando llegaron las vacunas se las afanaron, no, pibe, no, te equivocás, esto no es una gripecita, esto no es el dengue\", como dijo tu amigo Ginés, que vos eres lo único lamentable de todo el drama del COVID con 60.000 muertos, y que tuviste que echar al pobre doctor Kilder, esto es peor, Alberto, con total respeto presidente, deje de pensar que el único plan que tiene es encerrarnos porque no podemos encerrarnos más, ¿sabe por qué? Porque no robamos nunca, porque nuestros hijos no tienen 6 palos para ver en el banco, porque tenemos que trabajar todos los días y porque además nos robaron las vacunas, y después de habernos robado la vacuna no tiene autoridad moral para meternos atrás de un vidrio.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2760
+}

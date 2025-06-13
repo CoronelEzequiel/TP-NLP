@@ -1,0 +1,31 @@
+{
+  "texto_id": "miguel_pichetto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Veo muchas ideas y funcionarios del PRO que vienen colaborando y marcando la diferencia:  (Sumario, Toto Caputo, Federico Struzenegger, etc.)  Petri en otro ministerio, y otros más que quizá no son tan conocidos, pero que vienen haciendo un buen trabajo, vienen del PRO o trabajaron en Juntos por el Cambio y están colaborando con el gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El rumbo, el cambio, trasciende a lo demás, ¿no? Y me parece que es una manera más clara de apoyar el cambio, de profundizarlo, de sumar mi experiencia en el territorio, de ser intendente en el Conurbano bonaerense durante nueve años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como bien dijo Patricia Bullrich, para mí el PRO es parte del cambio; esa es su naturaleza, su historia, su ADN. Porque fuera del cambio están Axel Kicillof, Sergio Massa, Cristina Fernández de Kirchner; y en los márgenes podría estar Juan Schiaretti.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No veo sensibilidad social (cosa que a vos te reconozco, porque te conozco mucho, y a Javier también), pero no veo en los sectores del gobierno una propensión a que esa sensibilidad social se traduzca en políticas activas para proteger a los que van a quedar dañados, porque este proceso está dejando gente dañada, lamentablemente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3076
+}

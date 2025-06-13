@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.488,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo peor que puede haber es el desencanto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Somos muy fáciles de engañar y muy fáciles de mentir.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ver, esto es el comienzo del fascismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que aprender, Milei ahora, ante Cristina y ante Néstor y ante Álvaro de Salvo, tenés que aprender que yo puedo ser Babi, Guillermo Francella puede ser Francella, vos podés ser Javier Díaz, y pensar diferente y querernos igual.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí lo que está pasando estos días con Francesa y con el Gran Hermano me asusta, me asusta que los compañeros a Francesa lo traten de \"eh\", porque Francesa no tiene colectivo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si quieren terminar, a mí me da lo mismo, yo ya pasé la barrera.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y la verdad que llegó Milei como no le pedí nada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no quiero a nadie, ni a Cristina ni a Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3222
+}

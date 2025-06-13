@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Las investigaciones sobre la responsabilidad de grupos terroristas como los iraníes y venezolanos, y la presunta complicidad de funcionarios, siguen abiertas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es imprescindible que se identifique a los culpables y se les aplique la justicia correspondiente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este contexto, es inaceptable que algunos personajes públicos, como los mencionados Yossef y Bonafini (si se refiere a Hebe de Bonafini), intenten minimizar el hecho o desviar la atención hacia otros asuntos, utilizando su influencia política para defender intereses particulares.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los ciudadanos debemos estar atentos y exigir explicaciones por las presuntas irregularidades en las investigaciones y las posibles vinculaciones con regímenes autoritarios como el de Putin o el de Maduro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se aluden a una serie de presuntos delitos de corrupción con gran cantidad de detalles y personajes involucrados, entre ellos Cristina Kirchner y varios de sus colaboradores, por cuya impunidad se denuncia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En conclusión, el país se encuentra en una situación compleja, con graves problemas de corrupción e impunidad que requieren de una solución inmediata.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1477
+}

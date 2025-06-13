@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_odio",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Con el odio, acabaremos. A ver, está claro que el odio y el discurso del odio no son los causantes del atentado de asesinato a la vicepresidenta, pero es lo único que podemos sacar de positivo: reflexionar sobre cómo podemos mejorar.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Si la tocan a Cristina, qué gran país vamos a armar\", exactamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Bueno, esto es un tema de las personas. El que quiere estar armado, que ande armado; el que no quiere estar armado, que no ande armado. La Argentina es un país libre.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"A este chorro le metemos preso, a El Cajón\". \"Vale, muchacho, falta algo, ¿y con la viuda qué hacemos?\". \"A esa chorra, la jefa de la banda, que cuide El Cajón detrás de los barrotes\". ¡Viva la libertad, carajo!\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Pedazo de hijo de puta, vieja enferma. Cárcel, chorra, que cuide el cajón detrás de los barrotes.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2593
+}

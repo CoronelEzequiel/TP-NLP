@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.671,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En cuanto al caso de Patricia Burd, no creo que la sanción sea suficiente por lo grave de su denuncia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ginés González García y Aldo Arturo Fernández deberían dar una conferencia de prensa conjunta para explicar la negociación con Pfizer, que nunca se aclaró.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que la única manera de limpiar su imagen es que dé una conferencia de prensa y presente una auditoría de su gestión del último año, considerando los 75.000 fallecidos.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La respuesta del gobierno a Burd me pareció graciosa, y más aún la respuesta de Dugan en Canal K, faltándole el respeto de manera misógina y xenófoba a Burd y a Nini Taccardi, y a todas las mujeres.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que Patricia Burri tiene razón, aunque no sé si los métodos fueron los adecuados ni si tiene pruebas, pero el nerviosismo que generó en el gobierno es evidente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta degradación, en la que jóvenes como ustedes ven a diario cómo Argentina, Cristina Fernández de Kirchner, Dalbón en la justicia, Bermejo, Ginés González García e incluso Alberto Fernández, no representan la patria ni la República…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso sigo trabajando.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2338
+}

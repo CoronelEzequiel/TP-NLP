@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.213,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Buscar el equilibrio macroeconómico requiere trabajar en los equilibrios microeconómicos, considerando el impacto en los distintos sectores.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un país federal requiere equilibrio territorial, lo que nos lleva a la discusión sobre los recursos provinciales y la coparticipación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que estimularlo, al igual que a los proveedores locales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno necesita un plan productivo que vaya más allá de esos cinco sectores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debe incluir políticas industriales y productivas del interior y las economías regionales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesita una mayor amplitud, por ejemplo, en la coparticipación, que necesita una norma desde 1994.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recortar la distribución discrecional desfinancia a las provincias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se necesitan mecanismos de contención social y políticas que impulsen otros mercados más allá de los cinco sectores mencionados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1790
+}

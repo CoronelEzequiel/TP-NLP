@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.525,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos claro que no hay progreso material sin batalla cultural.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y sí, queremos ser *garantes* de la derecha.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei afirmó que esto pasa en Argentina desde hace tiempo, diciendo a su audiencia: \"¿Vieron cómo cambió el debate en Argentina, hacia nuestro favor?\"",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso el gobierno anterior perdió las elecciones: por una política económica de derecha, no por una retórica progresista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No fracasaron las ideas de izquierda (que no son mayoritarias y no se implementaron); fracasaron las ideas de ajuste, barnizadas con discursos centroizquierdistas o de inclusión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es una de las grandes operaciones que hay que desmontar en la batalla cultural: que a las cosas se las llame por su verdadero nombre.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1960
+}

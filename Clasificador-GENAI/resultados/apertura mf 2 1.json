@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Con la imagen de los presidentes de Uruguay, el presidente actual más el presidente saliente, en un verdadero gesto de unidad y de madurez política de parte de Uruguay, allí presentes en la asunción de Lula.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En lo que hace a la política local, el pedido de juicio político a Alberto Fernández al presidente de la Corte Suprema de Justicia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si uno ve cualquier encuesta, todos tienen sus fortalezas, sus debilidades, pero nadie mide mucho más que el otro. Los números de Macri son parecidos a los de Larreta, a los de Vidal, a los de Patricia Bullrich.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4353
+}

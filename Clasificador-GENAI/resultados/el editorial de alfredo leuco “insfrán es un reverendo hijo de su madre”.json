@@ -1,0 +1,51 @@
+{
+  "texto_id": "Gildo Insfrán",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.887,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Gildo Insfrán sintetiza lo peor de la política argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Convirtió a esa provincia en una pequeña Venezuela chavista.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gildo exhibió, como acabamos de escuchar, su fragilidad intelectual, atropelló el diccionario y eligió el insulto de que los porteños son unos \"reverendos hijos de su madre\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gildo es uno de los mayores instigadores de una nueva grieta jurásica, como es la pelea entre capital e interior.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insfrán comete delitos de lesa humanidad e indignidad.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gildo se formó en el peronismo derechoso y violento, que en los 70 hacía \"caza de brujas\" contra la Juventud Peronista, que Cristina Fernández de Kirchner pretende hoy representar.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una especie de Francisco Franco del litoral, ¿no? O un monarca que se hereda a sí mismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insfrán es el patrón del mal de Formosa, un \"reverendo hijo de su madre\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2352
+}

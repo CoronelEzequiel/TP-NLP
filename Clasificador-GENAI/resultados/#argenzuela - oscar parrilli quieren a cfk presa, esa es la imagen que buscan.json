@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.083,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Claramente, los mismos jueces admiten que es un fallo político.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es la jueza especial, esto es el antiderecho, la antijusticia, cambiaron el código electoral por el código penal, como ella dijo, \"presa o muerta\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que están haciendo los grupos económicos, los medios de comunicación, sectores del partido judicial y sectores de Cambiemos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ninguna duda, son violentos, agresivos y han roto el pacto democrático que se fundó en el año 83 y que el peronismo dio muestra cuando fueron los intentos de golpe de estado con Alfonsín y fue y se puso al lado de Alfonsín defendiendo, y salió la foto en la Rosada.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se dio no solamente en esta presunción judicial en la Argentina, se dio en Chile contra Marco Enríquez-Ominami, se dio en Brasil contra Lula, se dio en Uruguay contra Evo Morales, se dio en Ecuador contra Rafael Correa, se dio en Honduras contra Mel Zelaya, que también le hicieron un juicio para prohibirlo definitivamente, pero como dijo Cristina, \"los pueblos siempre vuelven\", y allí volvió, después de 15 años, Xiomara Castro y ganó las elecciones, no la esposa Messera, Lula es presidente, Evo no, pero Arce ganó la presidencia y, bueno, solo queda Ecuador, con un gobierno que se está cayendo a pedazos, no producto de este partido judicial que suplanta todos los golpes de estado tradicionales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el señor es padre en un cacho. Si la proscriben a nuestra líder, que además va a ser candidata, nos proscriben a todo el peronismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3516
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Según Milei, Facundo lo cruzó y lo encaró. Milei le respondió textualmente: \"Sos un ensobrado. Si llego a presidente, se te va a cortar la pauta\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si soy presidente, preparate para correr. Esta es una amenaza directa a la libertad de expresión, una amenaza a un periodista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero de ahí a amenazar a un periodista…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema es cómo va a ejercer el poder alguien que se refiere de forma violenta a quienes piensan diferente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero esto es una amenaza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2045
+}

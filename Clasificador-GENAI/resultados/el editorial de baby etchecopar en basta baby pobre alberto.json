@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy se autodenominó líder. Y la verdad es que se lo merece, porque estuvo 30 días trabajando como un perro, subió muchos puntos en las encuestas y se transformó en la oposición más poderosa.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dentro de lo que me había dicho la vocera de Dietrich estaba la idea de que estamos gobernados por dos mafias: la macrista y la peronista.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no quiero un país con mafiosos, yo no quiero un país con ladrones, yo no quiero un país de idiotas que te insultan cuando van en contramano porque además son cobardes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso no se ofendan los políticos cuando digo que son mafiosos, porque ustedes, si no, no se venderían algunos políticos a quienes criticaron.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Alberto no se saca a los estúpidos como Grabois, a los matones como Moyano, si Alberto no trabaja como lo hizo Macri, y yo volvería a votar a Macri, porque se parece más a una república, pero voy a apoyar a Alberto si empieza a trabajar para sacarse a los mafiosos de encima.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2202
+}

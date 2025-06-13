@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.129,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros estamos haciendo los boludos, siguiendo a la oposición para hablar de la realidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que estamos queriendo ver cuál es la visión y cuál es la propuesta que tienen.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En realidad no es un robo, porque es una contribución que hace el ciudadano a la política de defensa, de seguridad, de educación y de salud.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en eso, por ejemplo, [Nombre del presidente anterior - información faltante] se va invicto porque pagó todos los meses, no se fue en default, dejó un billón en la caja, les dio plata a las provincias por convenios que tenían para ayudar en el tema de la sequía.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, que él me dice que si desconoce eso, hay 10.000 personas que van a ir a la calle en San Juan.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si le va a dejar afuera al sector previsional, le va a dejar afuera a los docentes, le va a dejar afuera a los militares, a los de la…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y bueno, se quieren quedar con el Estado y se quieren quedar con todo, así que nos dejen algo para el pueblo, José.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3911
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "**Alberto Fernández**, que nos miente, que nos miente, que nos miente, que se miente. Practica el autoengaño. Hoy leí un montón acerca del autoengaño. Argentina es una locura. Está al frente de un gobierno enajenado, con un nivel de imprudencia enorme. El presidente se centra en su propia percepción. Ahí lo vemos, todo distorsionado. Distorsiona la realidad en la que vive y vivimos. Y, como siempre, como buen mitómano, acusa a los demás.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Total, a ellos les conviene el rebaño de pelotudos, guardaditos, calladitos, prudentes, con miedo, aceptando lo que diga este comité de expertos. ¿Dónde estará **Pedro Cán**? **Pedro Cán** que no puede salir a la calle a caminar porque lo deben reputear todos. Cómo nos asustaron, ¿eh? No podíamos ni salir a caminar. Pero ellos, de joda, con el Olivos Gate.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, los diputados K... Para joder a **Guzmán** y al presidente aprovecharon para hacer populismo explícito. Argentina, una locura. Ellos ahora piden un salario universal. Nunca laburar, nunca el mérito, todo de arriba, salario universal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para este gobierno, la prioridad es todo lo que tenga que ver con el género. No es la salud, no es la educación, para ellos la salud y la educación son temitas menores. Argentina, una locura. Quieren que los chicos sean burros, que aprueben con 0, 1, 2, 3, 4, que se lleven 80.000 materias, que se lleven previas. Les da lo mismo, hasta con 19 previas podés pasar de curso en Formosa. No solo que no educan, sino que en muchas escuelas ya el lenguaje inclusivo está funcionando. O sea, todos hablan como pelotudos, eso es para mí el lenguaje inclusivo, vengan de a uno.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Exigen, derechos, derechos, ¿y las obligaciones? Ah, no, ustedes quieren exigir todo. Me tienen las pelotas al plato, exigiendo, pidiendo planes, costo, el trance, el cupo, el costo, el otro. Laburen, exigimos, dejen de exigir, derechos y obligaciones. Argentina, una locura.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8923
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y sabés lo que preocupa también, Oscar, uno podía discutir un montón de cosas a **Milei**. De hecho, se las discutimos. Ahora todos teníamos claro que era un tipo que sabía de cripto, porque lo dijo, que sabía de economía, sabía de todo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso la Argentina está como está y soy muy crítico de todos los gobiernos. Pero en ese sentido, si el día que nosotros sepamos reconocer y sepamos defender lo que tenemos que defender, y lo que tenemos que criticar, lo que critiquemos sea el gobierno nuestro y nos duela que cometan errores, nos va a ir tan bien, tan bien nos va a ir que es enorme.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por **Javier Milei**, pongo la mano en el fuego y creo que es absolutamente decente en estos casos, en todos estos casos, menos que menos. Yo creo que él está preocupado y trabaja sobre esto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que caiga quien caiga, flaco, que caiga quien caiga, que se jodan, ¿me entendés? Que caigan quien caiga. A ver, estoy teniendo que escuchar a un tipo, un caradura que dice, no, estoy esperando la orden del Presidente para devolver la plata. Es una joda, es un espanto esto. Hijo de perra, viejo, qué bueno de joder.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4889
+}

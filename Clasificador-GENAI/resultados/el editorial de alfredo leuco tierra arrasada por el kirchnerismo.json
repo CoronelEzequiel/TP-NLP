@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.897,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Al gobierno de Cristina Fernández de Kirchner y Alberto Fernández ya no le queda nada por destrozar.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Han logrado convertir a nuestro sufrido país en tierra arrasada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hacen nada para frenar la inflación y, por el contrario, toman medidas para acelerar y profundizar la catástrofe económica.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se ponen siempre del lado de los delincuentes de todo tipo, de los corruptos ladrones del Estado como la propia Cristina, Julio De Vido, Lázaro Báez, Ricardo Jaime y cientos más, y del lado de los dictadores criminales que gobiernan Cuba, Venezuela, Rusia o Irán.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina \"tiene un quilombo con la negrada, no quiere la negrada, ella prefiere los blanquitos de clase media\" como La Cámpora, lo dijo Luis D'Elía en una radio del palo, la acusó con todas las luces, la acusó de discriminar a los pobres y D'Elía, a esta altura, no es un eslabón suelto, hoy expresa lo que Alberto no se atreve a decir o no puede decir.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "D'Elía acusando a Cristina de que sus posiciones están en sintonía con el macrismo y remata diciendo: \"Yo no fui a la cárcel por corrupto, yo fui por defender a Cristina\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son irresponsables y suicidas que nos están llevando al peor de los mundos, a la \"tierra arrasada\", y está claro que no fue magia, fue magia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En eso no se equivocan, siempre del lado de los victimarios.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2569
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.286,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es un mercado golpista, que no quiere un gobierno de esta naturaleza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El deseo de desmarcarse del gobierno de la provincia de Buenos Aires llevó al Intendente de Tandil a adoptar esas medidas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo más grave que se ha hecho es anteponer los intereses políticos, y esto ocurre en los Estados Unidos ahora mismo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Están robándose la ciudad, las autoridades de la misma. Se han ido quedando con pedazos muy importantes de tierras, de muy buenas tierras, no Guernica, por ejemplo, detrás del Sheraton o en Costa Salguero.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri, ¿cómo nos pasó Macri en el país?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gracias. Que mi hermano haya blanqueado es un derecho que le daba la ley, y lo hizo dentro de la ley.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería como reconocer, en caso de dejar a Guzmán afuera, que entonces todo lo que se hizo efectivamente estaba mal y la lectura será, 'ah, era el gobierno el que se equivocaba, no que estaba padeciendo el ataque brutal de un mercado que nunca queda satisfecho'.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7705
+}

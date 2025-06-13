@@ -1,0 +1,36 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La oposición le hizo piecito y Javier Milei tiene dictamen para que haya ley base el próximo día lunes, o por lo menos eso es lo que van a intentar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo marcha, al día siguiente se pusieron la bandera, la camiseta, la universidad pública y dijeron: 'Somos los primeros defensores de la universidad pública'.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para garantizar el quórum en el recinto y para garantizar las firmas, accedieron al pedido de un bloque por el tema reforma laboral, léase, entregaron los derechos de los trabajadores argentinos y argentinas a cambio de firma en el dictamen y a cambio de quórum y votos en el recinto.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de escuchar a mis compañeros diputados de la izquierda, reafirmo la idea de que definitivamente odian a los ricos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No registra a la memoria de nuestra feria que el gobierno nacional haya estado ausente, sin un stand en este evento, la excusa de que la participación del Estado Nacional en la Feria implicaba una erogación de 300 millones de pesos, no es otra cosa que una flagrante mentira.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5889
+}

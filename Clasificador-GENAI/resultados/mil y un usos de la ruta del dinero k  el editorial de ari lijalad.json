@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Todo lo relacionado con el *lawfare* debe ser tratado por la sección de economía, ya que las causas judiciales agrupadas bajo ese término no persiguen un objetivo jurídico ni una aplicación específica del Código Penal. Su único objetivo reside en afectar los balances de las grandes empresas argentinas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué interés tenían los fondos buitre en que se conociera la verdad sobre el atentado a la AMIA? Ninguno. Su interés era debilitar al gobierno de Cristina Fernández de Kirchner, cuyo canciller, Héctor Timerman, había firmado el Memorándum y había logrado una resolución de la ONU, apoyada por más de 130 países, que limitaba el accionar de los fondos buitre en la negociación de deudas soberanas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Mauricio Macri asumió la presidencia, la 'Ruta del Dinero K' se utilizó para encubrir el acuerdo con los fondos buitre, al cual Macri accedió, pagándoles más de lo que habían pedido durante el gobierno de Cristina Fernández de Kirchner.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Constantemente se manipuló la 'Ruta del Dinero K' para encubrir las políticas económicas de Mauricio Macri.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2001
+}

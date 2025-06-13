@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los sionistas están comprando toda la Patagonia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo voté a Milei para vivir diferente, yo voté a Milei para que Baier descanse en el lugar que lo pusieron y Colón descanse en el lugar que tiene que estar y cada lechón en su teta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No podemos seguir tirando la esfinge de Baier cuando todavía hay un montón de corruptos que andan sueltos por la calle.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso la marcha muestra nada más que lo pelotudos que somos, el respeto a los jubilados, la lucha por lo que bien merecido los jubilados tienen que tener, el aumento, la lucha, estamos todos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos ganas de vivir tranquilos, tenemos ganas de estar con la familia, tenemos ganas que la guita nos empiece a alcanzar, tenemos ganas que se estabilice el dólar, no queremos estar más con el dedo en el culo, tenemos ganas de vivir felices.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3319
+}

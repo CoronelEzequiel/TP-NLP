@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Qué hace el kirchnerismo? Aprovecha y juega con la incertidumbre. Son malos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La nueva alianza, y uso la palabra alianza a propósito, es kirchnerismo-UCR. Como alguna vez fue Frepaso-UCR. La izquierda peronista y el radicalismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Buscaron el veto. Buscaron el veto. Están buscando el veto. Buscaron dejar expuesto al gobierno. No es por los jubilados, nunca les importaron los jubilados.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Piensen los senadores si quieren ser héroes o traidores de la patria.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Este es el proyecto populista? ¿Para esto quieren gobernar? ¿Dejar a un país hambriento, miserable?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo fui parte de boicotear al gran hijo de puta de Guzmán para poner al genio de Sergio Massa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí el camino inevitable es la libertad. Tiene que ser la libertad, es la libertad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5435
+}

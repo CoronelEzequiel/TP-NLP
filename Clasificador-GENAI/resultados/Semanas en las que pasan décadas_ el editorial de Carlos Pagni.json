@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La Cámara de Casación decidió remover a esos dos jueces y que se realice el juicio oral contra los responsables imputados en las causas de Hotesur y Los Sauces, centralmente la familia Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere decir que quedan abiertas dos cuestiones importantes para el kirchnerismo en plena campaña electoral, y esto significa, por supuesto, un golpe para el candidato electoral, para el candidato presidencial de esta fuerza política, para Sergio Massa.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es inevitable entonces, dados los altos niveles de corrupción que caracterizan a la Argentina en estos tiempos, que el tema de la corrupción y el tema de las causas judiciales se cruce con la pelea política, con la pelea electoral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "San Juan y San Luis, dos que me vienen a la cabeza. Le quedan diez provincias de las que tenía y Juntos por el Cambio, que es una alianza que comenzó siendo muy urbana, muy metropolitana, ya tiene ocho provincias, de las cuales la mayoría son radicales.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa, como vamos a ver después, su eje de campaña principal para juntar votos es “bueno, yo me hice cargo de un desastre que había”, él lo llama “el fierro caliente”. Les pido el voto por eso, que me premien por mi altruismo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8841
+}

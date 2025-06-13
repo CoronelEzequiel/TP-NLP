@@ -1,0 +1,36 @@
+{
+  "texto_id": "ley_ficha_limpia",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En este proceso, lo que se quebró fue la hegemonía peronista, un estado de cosas donde la política parecía un antro de complicidades.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, la confesión del diputado y sindicalista Mario Manrique dejó a todos atónitos: \"Soy cómplice\", gritó tres veces.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su defensa de Cristina Fernández de Kirchner culminó acusándola: \"Si no votamos por [el candidato propuesto por la oposición], somos cómplices.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este proyecto de \"Ficha Limpia\" fue impulsado por el presidente Javier Milei tras el fracaso de una ley anterior, debido a la ausencia de miembros del oficialismo y sus aliados, por sospechas de pactos con el kirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En resumen, el escenario está abierto. No son días fáciles para Cristina Kirchner.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2697
+}

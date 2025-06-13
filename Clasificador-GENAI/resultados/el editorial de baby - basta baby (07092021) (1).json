@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vos sabes que te están cagando ahora los políticos todos, yo los veo a todos en campaña, todos vienen a salvarnos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicen: \"Para que los chicos tengan clases\", nos cagaron las clases, los años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya saben, Tolosa Paz promete \"garche\" para todos y todas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un país, un país tiene gente rica que hay que respetarla, tiene empresarios libres que hay que respetarlos, empresarios que apuestan a Argentina, que no hay que combatirlos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Espero que la gente el domingo se avive, si va a votar, no te dejan cerrar el sobre por el COVID, no le podés pasar la lengua, así que la gente dijo: \"El generato\", mejor, más fácil para ser fraude.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voten a los candidatos más recomendables dentro de lo que hay, nosotros apoyamos a alguna gente que sabemos que puede andar bien y apoyamos a muchos que no son candidatos, pero que en el 2023 a lo mejor pueden mojar, como por ejemplo, puede ser Randazzo, Pichetto, Ritondo, gente que digo: \"No, que me gustan y que merecen un lugar en las listas, en la política y dentro del gobierno\", porque la verdad que en esta veo que el 50% de lo que hay es descartable.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente la han destruido los Kirchner en la Argentina y digo los Kirchner, porque Macri, \"Gato\", estuvo cuatro años, pero estos tuvieron 20 y la verdad es que la tienen hecha de mierda.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el Congreso no va a cobrar para votar y levantar la mano, eso es lo que se va a votar ahora.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para que se termine la merca, me la tomo toda, viste, uno se \"enloga\" en el...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3194
+}

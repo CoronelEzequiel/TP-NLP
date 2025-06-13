@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Para nosotros no hay ninguna duda, aunque algunos hacen piruetas tratando de disimular. Para nosotros es una estafa mundial, a esta altura, considerando los días transcurridos desde el viernes hasta hoy, lunes por la mañana, Jorge.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soy diputada nacional, pertenezco al bloque Unión por la Patria, y somos un bloque que ha pedido juicio político al Presidente de la Nación por incumplimiento de sus deberes como funcionario público.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Presidente de la Nación, para nosotros, cometió una estafa mundial. No solo utilizó su cuenta verificada en X (anteriormente Twitter), sino que, a nuestro juicio —y el de muchos legisladores, no solo de Unión por la Patria, sino de otras bancadas— hay clara evidencia del incumplimiento del artículo 265 del Código Penal: no puede promocionar negocios para su propio beneficio o el de terceros.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Queda claro que el Presidente miente. En su primer tuit dijo que no estaba al tanto de lo publicado, que no estaba bien informado; quiso minimizar su irresponsabilidad y culpar a la oposición.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1989
+}

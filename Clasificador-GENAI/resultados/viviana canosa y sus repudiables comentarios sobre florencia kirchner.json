@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nos referimos a lo ocurrido en el canal La Nación +, donde Laura Di Marco fue invitada junto a Viviana Canosa, y se volvió a atacar, no solo a la vicepresidenta Cristina Fernández de Kirchner, sino también a su familia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parece que hoy en televisión se puede decir cualquier barbaridad.  Recuerdo que por mucho menos yo recibí diez denuncias penales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sigamos hablando de la “operación”, llámenla persecución como quieran. Pero esta es una faceta de esa persecución: atacar lo más sagrado, la familia, para generar miedo en la vicepresidenta y en otras mujeres o líderes políticos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gran problema es la concentración de poder en pocas manos. Trabajo en los medios, estoy bastante informado, pero no vi esos tuits. ¿Cómo vi lo de Di Marco y no los tuits?  Hay un error de información. Hay una concentración de medios que favorece la reproducción de este tipo de discursos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1714
+}

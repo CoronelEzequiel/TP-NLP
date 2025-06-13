@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y pienso que, aunque dicen que va a cambiar, porque Argentina en 2023… no va a cambiar nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tengo miedo de que alguno de mis nietos, Francisquito, sufra las consecuencias con impuestos, que le arruinen sus años de vida, su trabajo… o quizás Máximo Kirchner, hijo de Máximo, o el hijo de Cristina, nos sigan arruinando la vida, porque aquí hay dinastías de gente que te arruina la vida, dinastías como la de los Simberwell.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, estaba pensando cómo puede salir adelante un país que repite los mismos nombres.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso digo: si nos acostumbramos a que somos una mierda como argentinos, porque no hay generaciones espontáneas, sino los \"hijos de puta\" que nos gobiernan, son argentinos que nosotros votamos, que quizás muchos de estos \"hijos de puta\" fueron al colegio contigo, se sacaron fotos, hasta habrán ido a tu cumpleaños o a tu comunión, y no eran \"hijos de puta\", se van haciendo porque Argentina te perfecciona en el arte de ser un desastre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, no esperes que dentro de un año y medio cambie algo, porque ahora empezaron con la zanahoria del burro, ahora te empiezan a proponer…",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso no esperemos que haya un cambio, es como pedirme a mí que no putee.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cada uno es como es, y anda siempre con lo opuesto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2665
+}

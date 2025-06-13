@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Un presidente sin vergüenza que nos da vergüenza a todos los argentinos, hasta a los que lo votaron.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos ladrones de guante blanco andan dando cátedra de moral y de ética por doquier.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Presidente, no ofrezca su corazón, ¿por qué no ofrece su renuncia?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se disfraza de izquierda y es más capitalista que el dólar.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pandemia nos puso a todos con el modo miedo en el cerebro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tres generaciones de planeros.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En vez de suspender, por ejemplo, el ministerio de la Mujer, Género y Diversidad, que no sirve para nada porque las mujeres se quejan de que nadie las cuida, esa plata tiene que ir a los colegios, a las aulas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7215
+}

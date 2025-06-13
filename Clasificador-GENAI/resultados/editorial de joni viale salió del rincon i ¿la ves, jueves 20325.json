@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno se tiene que ir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juicio político por inhabilidad moral del presidente y de \"videlitas\" que ahora se hace la que llora, pero que es igual que él.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich debería estar detenida por intento de asesinato.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que ya está derrotado Milei como partido político de la derecha argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dura derrota para la oposición golpista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta gente eternamente subestimada sigue ganando batallas con 7 senadores y 39 diputados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, además los libertarios son unos pelotudos bárbaros.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y aun así les ganan a los K. Y aun así son una máquina de conseguir victorias políticas importantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No será el momento de que la oposición esta violenta, bruta, tosca, inculta, ignorante, torpe y ordinaria que tenemos deje de subestimar un poquito a este grupito de locos que se hizo con el poder hace un año y tres meses?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La justicia social es que la comunidad es aquello que ordena las aspiraciones de un hombre...",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3480
+}

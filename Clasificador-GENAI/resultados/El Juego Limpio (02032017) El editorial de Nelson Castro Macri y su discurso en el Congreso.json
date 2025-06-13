@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_macri",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.525,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El discurso de Macri señaló logros que existen, algunos de los cuales fueron destacados por el diputado Amadeo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gran ausente fue el reconocimiento de la situación de mucha gente a la cual se le habla de largo plazo sin considerar el presente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo una falta de respeto destituyente hacia el presidente, mostrando una intolerancia generalizada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué hubieran dicho si, cuando hablaba Cristina Fernández de Kirchner, los opositores hubieran tenido los actos de intolerancia que tuvieron durante el discurso?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 878
+}

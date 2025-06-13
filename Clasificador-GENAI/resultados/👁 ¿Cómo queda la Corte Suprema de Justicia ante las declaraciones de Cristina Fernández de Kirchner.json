@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.53,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los argentinos y las argentinas deben saber que será muy difícil mejorar las condiciones de vida de todos y todas con esta Corte y con este modo de funcionamiento del Poder Judicial, en donde las condiciones de igualdad ante la ley son letra muerta de la Constitución.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "el de construir, como hizo Néstor Kirchner en 2003 con apenas el 22% de los votos y en el marco de una crisis institucional sin precedentes en la historia contemporánea, una Corte de la que todos y todas podamos volver a sentir orgullo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "obviamente, quienes opinen que tiene que ver con su propia preocupación sobre los fallos inminentes que puede llegar a tener, fundamentalmente en los casos de corrupción, y otros que en realidad lo que plantean es un ataque a Macri, culpado en el caso del espionaje a los familiares del ARA San Juan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo siempre tengo la tesis de que se sobreinterpreta a Cristina Kirchner y que realmente su forma de pensar no necesariamente siempre maximiza su beneficio, sino que puede tener muchas veces equivocaciones, errores inconscientes que le hacen hacer cosas que van en contra de sus propios intereses.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 16 de mayo de 2022, ¿verdad? Vos, mejor que nadie, y todos los valientes sabemos que desde chiquitos en nuestras casas nos enseñan que decir la verdad es de buenas personas, ¿no? Pero cuando uno le dice la verdad a algunos 'atorrantes' y se ponen como locos, y si se les decís en la cara, peor todavía.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ver, la verdad es lo más fuerte que hay en política, ni te digo, ¿no? Porque tarde o temprano te da la razón, y tener la razón en política es un arma muy, pero muy poderosa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "que, a mi juicio, son los padrinos de la persecución político-judicial y mediática que se montó durante cuatro años del macrismo, ¿no? Esos han sido, de alguna manera, responsables por acción o por omisión",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí no me gusta, por estos hechos, hablar de golpe institucional, y a mí me parece que para golpe falta un poco. El tema es que las prácticas se les parecen mucho, porque el sistema de reglas fundamental de nuestro país, que es la Constitución Nacional, termina dando por sentado pequeños pasos que son gravísimos en términos institucionales.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El juez, a diferencia del político, se maneja en un margen de acción limitado, digamos, 10 grados, 15 grados. El político es de 180 grados.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestra única política, por ponerlo de alguna manera posible, es el resguardo de la Constitución y de la ley. En esto nos diferenciamos de los órganos políticos que cuentan con representación popular, para quienes, en el contexto de la Constitución, hay mucha maniobrabilidad, hay muchas políticas posibles que son igualmente constitucionales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5113
+}

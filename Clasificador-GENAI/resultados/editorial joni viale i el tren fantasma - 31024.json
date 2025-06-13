@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.711,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La libertad avanza de un lado, a la derecha, obviamente, y del otro lado, todos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice Milei que ha nacido un nuevo frente de izquierda populista, así dijo, compuesto por Cristina, Massa, Loutó, Larreta y Carrió.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa fue el ministro que pulverizó nuestra moneda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa fue el ministro que hundió a docentes, a estudiantes, a obreros, a profesionales, a industriales, a las empresas, a los sindicatos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, yo no entiendo qué hacía ahí y por qué los estudiantes lo recibían como un héroe.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es la reelección del populismo kirchnerista. Es la reelección del desastre de este gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es la reelección del desastre de este gobierno. La reelección de seguir con la hiperinflación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y además, yo siempre me enfrenté con el kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay ninguna posibilidad de que yo integre el gobierno kirchnerista.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto, que el agua es una causa noble.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo vimos a Massa, lo vimos a Moreno, lo vimos a Cristina, vimos a todos los monstruos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei arranca bien, 55, hoy lo tenés en 46 de positiva.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuidado con esto, porque jubilados, universidades, tarifas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy es la microeconomía. Hoy es la jubilación, hoy es la prepaga, hoy es el colegio de los chicos, hoy la gente está en un respiro, hoy la gente pide un respiro, hoy el sueldo no avanza.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4294
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_macri_pro",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mauricio Macri será electo presidente del PRO tras un periodo en el que estuvo al frente la actual ministra de Seguridad, Patricia Bullrich.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Larreta mostraba un perfil más de centro institucional y de gestión, mientras que Macri y Bullrich eran 'halcones' en comparación con las 'palomas' del PRO, que en ese momento eran Larreta y María Eugenia Vidal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para Larreta, el desembarco de los funcionarios del PRO en el gabinete de 'La Libertad Avanza', el apoyo pragmáticamente incondicional de buena parte de los diputados y senadores a las iniciativas de Milei es un error total.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La otra alternativa es fácilmente infiltrable y la otra alternativa es una agrupación no madura, sin volumen, sin equipo, fácilmente infiltrable, que no puede garantizar ningún cambio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri es un político astuto y difícil de vencer, por eso logra mantener buena cuota de poder a pesar de las derrotas electorales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3712
+}

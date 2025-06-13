@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente de la Nación, Javier Milei, está gobernando sin presupuesto, la ley fundamental para cualquier gobierno en cualquier país del mundo, por decisión propia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Posteriormente, insultó al Congreso, se le imputan actos de corrupción con varios legisladores, y ahora impone dos jueces en la Corte Suprema por decreto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei llegó al poder debido a los errores cometidos por el peronismo en los últimos diez años.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La principal causa del ascenso de Milei es la falta de liderazgo y coherencia ideológica del peronismo, que dice una cosa y hace otra.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La situación actual en Argentina, bajo el gobierno de Milei, con la falta de presupuesto, la imposición de jueces y la amenaza de intervenir una provincia, nos lleva a hablar de totalitarismo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1887
+}

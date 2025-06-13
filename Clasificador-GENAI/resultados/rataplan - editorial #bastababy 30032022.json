@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo no estoy a favor de los piqueteros. Pero tampoco estoy en contra. Porque tienen hambre.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y es raro que en este país haya gobiernos y sindicalistas tan millonarios y un pueblo tan pobre, ¿no?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que quieran castigar a un tipo que gana 400.000 pesos cuando un político en una hora se lleva 2, 3, 4 millones de dólares.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos robaron ellos, muchachos, los jueces, casa en Cariló, casa en Punta del Este, los encontrás en Miami, los políticos, pisos en todos lados, casa en todos lados, uno le dice: “No, venía a conocer la chacra”, la chacra cuando tiene dos mil hectáreas, “venía a conocer mi casa en Miami”, está con el barco en la puerta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y la señora, la reina madre, Doña Margarita, se queja por las piedras. No le importa que la gente se caga de hambre, que se muere de frío, porque ella ya tiene guardado, como dicen los judíos el “pécale”, ya tiene el “pécale” guardado para los hijos, los hijos y los hijos de los hijos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3213
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los hermanos Milei manifiestan una simbiosis que, lejos de mantenerse en el ámbito estrictamente personal, se cuela en las decisiones del gobierno, al punto de conseguir que la Secretaría General de la Presidencia firme el Pacto de Mayo como uno de los gobernadores.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Pacto de Mayo, firmado en julio, marcó un punto clave en el gobierno de Javier Milei y, más allá de la *evolución* de cómo siga la gestión, el presidente pudo mostrarse con muchos gobernadores y expresar algunas ideas que marquen un rumbo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Describe cabalmente lo que el periodista Horacio Verbitsky definió como \"gobierno de hermanos\" a este gobierno de \"La Libertad Avanza\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei, en reiteradas ocasiones, explicó que, en realidad, *el jefe* era su hermana, y siempre marcando que él era solo un divulgador, y comparó su relación con la de Moisés y Aarón en el éxodo bíblico.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso del presidente, el hecho de tener a su hermana acompañando en su experiencia al frente del poder, no parece darle las cuotas de conexión necesarias con la realidad y la crítica necesaria para un mandatario. Es decir, la coraza que genera su hermana le impide realmente conocer toda la realidad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5071
+}

@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estos tres interrogantes están vinculados y, en general, parten de una premisa que considero absolutamente discutible: colocar la responsabilidad en la sociedad, en la gente, en el pueblo, en las mayorías, como se quiera llamar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero también existe otro elemento: desde hace tiempo, todas las coaliciones y referentes tradicionales se sumaron a lo que Alejandro Horowitz llamó el \"Partido Nacional del Ajuste\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La realidad es que, en términos de movilización social, en estos dos meses o más, pasó de todo: la marcha del 20 de diciembre (impulsada por la izquierda), el paro de la CGT, la movilización de la CGT al tribunal el 27 de diciembre, las huelgas recientes en ferroviarios, sanidad, docentes, y movilizaciones en todo el país (por ejemplo, en Córdoba).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2031
+}

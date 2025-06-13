@@ -1,0 +1,76 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Entonces, yo creo que por ahí... Hagamos algo para que cambie o que se vaya rápido.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La supuesta voz de la democracia, la intocable, la señora, la abuela, la divina, Estela de Carlotto, pidiendo que el nuevo presidente se vaya rápido.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "O son demócratas o son golpistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el balotaje, el cambio ganó en 21 de las 24 provincias argentinas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que hay que cansarlo hasta que se vaya.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El populismo es felicidad a corto plazo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Peronista de Perón y Eva.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se cagaron en la gente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El populismo vendió. Se fumó todas las reservas del país.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es una discusión que atrasa, literalmente, medio siglo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente tiene su cabeza acá, muchachos: trabajar, pagar las cuentas, que no te roben, pagar la tarjeta, la escuela de los chicos, la prepaga, el dengue, la escapadita del fin de semana, si podés, y qué sé yo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Déjense de joder con los 70.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que controló la prensa.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 6691
+}

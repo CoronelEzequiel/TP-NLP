@@ -1,0 +1,66 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.545,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "De todo ese universo proviene Nannini Lemmo, quien será, seguramente, una funcionaria con perfil técnico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese propósito, que es deseable desde el punto de vista teórico, habrá que ver si no encuentra dificultades prácticas en el camino.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por un lado, vemos un profeta, podríamos decir, exitoso, que anda por el mundo diciendo su verdad, una verdad muy radical, muy extrema, que es aplaudida en muchos foros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchos sospechan que en realidad Milei, muy aconsejado por un personaje que adquiere más y más poder dentro del gobierno, que es Santiago Caputo, el principal asesor de imagen de campaña de Milei, que se está convirtiendo en una especie de administrador de poder dentro del gobierno, el mago del Kremlin, Milei saca a Posse para poder sacar a Sívori, es decir, al jefe de los servicios de inteligencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es importante todo este mundo vidrioso, opaco, este submundo, porque aparece en la pelea que se da en Capital Humano durante estos últimos días.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo esto está ligado, y aquí empieza el capítulo más escabroso de toda esta historia, a una funcionaria de Pettovello, una abogada que se llama Leila Gianni.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"No había alimentos vencidos, no había alimentos vencidos. Nosotros mañana, la subsecretaría legal, tiene una audiencia en la Sala 2 de la Cámara Federal en función para llevar los argumentos por los cuales apelamos la cautelar del juez Casanello en la que nos había obligado, en un plazo de 72 horas, a presentar un plan de distribución y su inmediata ejecución. Además de ir a exponer los argumentos de una manera verbal, vamos a ir a defender la democracia porque no vamos a permitir ni que fiscales ni que jueces militantes nos digan a nosotros cómo diseñar y cómo ejecutar una política pública\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno añora cada vez más, al menos me pasa a mí, la Edad de Oro, donde había partidos políticos en los que uno nacía y se moría, y donde no había este tipo de promiscuidad, donde uno no termina sabiendo a quién le debe lealtad cada funcionario.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La consecuencia de todo este panorama es esta que consigna en X Pablo Salinas, el economista Pablo Salinas: \"En 176 días de gobierno, 39 funcionarios fueron despedidos. El 33% en el Ministerio de Capital Humano, que lo llaman Ministerio de Decapitar Humanos. 33%, 18% en Economía, 10% en la Jefatura de Gabinete, 10% en Salud, 5% en la Presidencia\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todavía el gobierno genera una enorme expectativa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, entre las muchas coberturas muy buenas de la elección mexicana, había una de TV Azteca, donde la periodista dice: \"Vino y estuvo con AMLO y aconsejó a la nueva presidenta Alberto Fernández\". El otro periodista le dice: \"Alberto Fernández, el que se fue y dejó un desastre en la Argentina\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 9186
+}

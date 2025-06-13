@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La indigencia se duplicó durante este gobierno, incluso en términos reales, debido a la mala estimación de la inflación. Se recortó el 42% del presupuesto de comedores alimentarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes plantean un nuevo paradigma sin intermediarios, se están colocando como intermediarios. Es un intermediario que además declaró que el preservativo no sirve para evitar contagios. Es decir, una persona sin nociones básicas de realidad sanitaria, alimentaria, ni de nada.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es difícil enfrentarse a un Estado que patotea al Poder Judicial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se la dieron a un amigo del gobierno, Abel Albino, a solo 22 centros de su fundación privada para combatir la desnutrición infantil (un ‘hobby caro’, según él). Hay cerca de 40.000 comedores en el país; le dieron comida a 22.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repartieron solo el 10% de la comida a una fundación financiada, según su página web, por grandes empresas alimenticias, bancos y supermercados que, si quisieran ayudar, podrían hacerlo directamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2448
+}

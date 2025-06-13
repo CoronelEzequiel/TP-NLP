@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Una de las grandes preocupaciones de quienes realmente reflexionan sobre política, de quienes tienen visión política (Cristina, no solo Cristina, sino Cristina entre ellos) es la violencia que puede despertar un gobierno como el de Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno pide que la casta festeja la casta, festeja el peronismo, festeja el kirchnerismo, ¿entendés? Pero bueno, no escuchan el viento, porque la sociedad quiere ir hacia un lugar y la casta se resiste.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Además del festejo inmoral de los kirchneristas, inmorales, dejaron el peor desastre de toda la historia en Argentina y festejan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si la antesala del atentado a Cristina y del encarcelamiento y las razias a medianoche de dirigentes populares fue un discurso antikirchnerista, ¿la antesala de qué es? ¿Para qué se prepara?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El radicalismo vuelve otra vez a confirmar que solamente sirven para hacer las \"putitas\" del peronismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, la \"buquelización\", es decir, gobierno yo hago yo lo que quiero con violencia, violo los derechos humanos, ellos empezaron demonizando, estigmatizando, corriendo de la política a un sector, digo corriendo de la política porque tiene una condena que la inhabilita para ser candidata a Cristina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2469
+}

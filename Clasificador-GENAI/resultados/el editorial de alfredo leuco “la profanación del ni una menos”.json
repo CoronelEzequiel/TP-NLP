@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.78,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay una metodología nefasta que comparten el kirchnerismo y la izquierda más sectaria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A todos los organismos les pusieron la camiseta partidaria y les quitaron el carácter universal que tenían.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy las marchas y los reclamos por los derechos humanos son cada vez menos masivos, se colocan del lado de los violadores de los derechos humanos y se convierten en cómplices de dictaduras como Cuba, Venezuela y Nicaragua, y eso les quita legitimidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El mismo fenómeno tóxico lo hicieron con la heroica lucha contra todo tipo de violencia de género y femicidios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No pueden digerir que los tribunales democráticos hayan condenado a Cristina Fernández de Kirchner con todas las garantías constitucionales a seis años de prisión por mega corrupción de Estado.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Santificar a Cristina Fernández de Kirchner busca darle impunidad, es quitarle legitimidad a la lucha valiente y justa del colectivo original Ni Una Menos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En lugar de defender a las víctimas que son golpeadas, se defiende a la golpeadora.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Las mujeres quisieron instalar que Milagro Sala era perseguida por ser mujer, por ser negra y por ser coya.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que combatir a todos los golpeadores y violadores sin que importe la camiseta partidaria.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son mujeres asesinadas por machos que, insisto, no merecen llamarse hombres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2450
+}

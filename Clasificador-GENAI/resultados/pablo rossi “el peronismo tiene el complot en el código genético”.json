@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El peronismo tiene el complot en el código genético",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos los millones de muertos por su ingeniería social en el campo chino durante el Gran Salto Adelante, a fines de la década de 1950.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos los campos de reeducación de Mao Zedong, las violaciones cotidianas y sistemáticas de los derechos humanos en China hoy en día.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Que el presidente de un país democrático comparta esto es una locura, una vergüenza!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Resumiendo: el FMI es algo así como el padrino de los narcos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El narcotráfico es un fenómeno lamentablemente universal, muy serio, muy trágico, muy complejo, pero no tiene ninguna vinculación causal con el FMI ni con el neoliberalismo (palabra que se usa para cualquier cosa).",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peronismo ha sido un movimiento mesiánico-complotista? Lo ha sido, y por lo que veo, sigue siéndolo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una visión escatológica, mesiánica… ¡un desastre!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2290
+}

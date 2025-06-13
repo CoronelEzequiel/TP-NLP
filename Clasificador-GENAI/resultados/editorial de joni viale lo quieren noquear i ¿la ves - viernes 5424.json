@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.67,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si la gente sale a la calle y pide masivamente que cambie el gobierno, habrá todas las herramientas constitucionales que tenemos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Malena, en todas esas provincias que acabo de nombrar, perdió tu marido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Perdieron por culpa de todos, Malena.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa rompió todo como ministro de Economía.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo tengo un solo líder que es la persona que casi gana en primera vuelta, a pesar de que todos le decían que no lo podrían hacer.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El tipo no podía, estaba sin los cabareteros, ¿sabía?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este presidente que tenemos, lamentablemente, es un payaso y avergüenza al conjunto del pueblo argentino.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad, me sorprende escuchar a un radical... Viste que los radicales son educados.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No hay mejor defensa que un buen ataque.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tienen pánico de que el populismo colapse y se vaya para siempre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 6104
+}

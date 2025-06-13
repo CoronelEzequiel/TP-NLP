@@ -1,0 +1,56 @@
+{
+  "texto_id": "entrevista_radial",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.333,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Claro, porque el gobierno ha elegido una estrategia a la vista de todos, ¿no? Es salvar a Cristina Kirchner de la ficha limpia y de la condena final, que juegue las próximas elecciones y polarizar contra ella.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero bueno, ven fantasmas por todo lado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero a mí me consta, por fuentes desde dentro del espacio de la Libertad Avanza, que vos estás trabajando en el armado político de Victoria Villarroel.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo dije, voy a armar esto. Francisco (apellido no especificado) me dijo, ¿este es el momento de hacer algo? Porque si acá se va a polarizar con Cristina, corremos el riesgo de que Cristina le gane.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo estoy votando todo lo que decimos en campaña.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero esto que... Tiene que ser campaña, así vota (nombre no especificado).",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Francisco, recién acabo de decir algo como al pasar corremos riesgo de que gane Cristina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero Cristina puede ganar la provincia de Buenos Aires y que sembró y terminó de talibarme todo el territorio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero esto no es de una sola persona, Jorge.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3423
+}

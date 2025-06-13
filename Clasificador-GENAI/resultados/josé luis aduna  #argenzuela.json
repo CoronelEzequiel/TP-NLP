@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El consumo de carne está cayendo y, además, desde el sector anticipan nuevos aumentos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gente está optando por proteínas más económicas, como cerdo y pollo, reemplazando la carne vacuna por razones presupuestarias.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El asado, que siempre fue el producto estrella en el mercado porque al argentino le encanta comer asado, ahora se está dejando de lado debido al precio.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos dos kilos de milanesa a $15.000, dos kilos de tapas de asado a $13.500, y dos kilos de paleta o roastbeef a $12.800.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una realidad que afecta a todos. Los gastos fijos son inamovibles, pero podemos ajustar lo que comemos. Comer asado se ha convertido en un lujo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, muchos clientes usan Cuenta DNI del Banco Provincia y otras aplicaciones bancarias con promociones.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1530
+}

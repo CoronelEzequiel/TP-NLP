@@ -1,0 +1,36 @@
+{
+  "texto_id": "berni_quintela",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que no se puede hacer es, bajo el pretexto de una interna, paralizar un movimiento, un partido como el peronismo, que, como decíamos recién, está tomando fuerza como única oposición real a las políticas de entrega del país que lleva adelante este gobierno, ¿no? A este tercer gobierno menemista…",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y justamente nosotros siempre nos opusimos —usted puede ver cualquier entrevista mía de los últimos años— a que el partido sea conducido por un gobernador o un intendente, porque eso genera presiones mucho más fuertes y se tiende a negociar en base a los intereses del Partido Justicialista.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire, hay un peronismo entreguista, no \"peluca\". Hay un peronismo entreguista histórico. Ya lo vimos con Macri, los \"dadores de gobernabilidad\"; lo vimos con Milei, aquellos que fueron elegidos por la ciudadanía.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No tengo duda de que Cristina es la voz más fuerte, la más valiente, la más representativa, pero, sobre todo, la única que nos va a cautelar ante las presiones de este gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En mi caso particular, yo siempre preconicé la interna dentro del partido justicialista, pero con la lealtad que debemos tener los peronistas hacia el partido, hacia nuestros afiliados; no poniendo piedras en la rueda ni generando inconsistencias, porque lo que dice Quintela son todas inconsistencias.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3853
+}

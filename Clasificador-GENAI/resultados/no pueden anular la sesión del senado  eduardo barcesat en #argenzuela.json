@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.157,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El motivo, la excusa, era que Villa-Ruel no debió presidirla porque debía estar a cargo del Poder Ejecutivo, ya que el presidente había viajado a Italia al mediodía.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No, porque al momento de la votación, con su previo debate, la doctora Villa-Ruel aún no había asumido la presidencia interina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes buscan anular la votación pueden desistir, pues no procede.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parte de la operación que se está impulsando —insisto— desde Presidencia (nos llegan mensajes, incluso capturas de conversaciones por chat entre la secretaria de la vicepresidenta y Casa Militar, confirmando 48 horas antes el viaje del presidente)— no incide en lo que usted dice.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos argumentos buscan una respuesta en la opinión especializada y pública.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Está despejado el camino para que la doctora Arroyo Salgado avance con los pedidos de extradición y la detención del senador Cuéllar?",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sí, por supuesto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1422
+}

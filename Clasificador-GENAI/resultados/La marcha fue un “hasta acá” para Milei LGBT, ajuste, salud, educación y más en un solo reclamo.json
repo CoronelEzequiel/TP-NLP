@@ -1,0 +1,41 @@
+{
+  "texto_id": "3 de febrero",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.267,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La derrota política que recibió la gestión libertaria fue tal, que luego de la movilización, Javier Milei respondió que, en realidad, su discurso en Davos fue editado y desde la Casa Rosada intentaron plantear que la marcha fue orquestada por la oposición.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hubo paro, ni los sindicatos pasaron por cada puesto de trabajo para plantear a los trabajadores que tenían que ir a la marcha sí o sí, ni hubo punteros que les dijeran a nadie que perdería el plan. Ninguna lucha común del ideario de derecha intenta explicar el porqué de las movilizaciones.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno le recordó a todos lo que hizo a lo largo de este tiempo. Por ejemplo, eliminó los medicamentos para jubilados, salvo que se tengan que anotar, es decir, lo redujo notablemente. También redujo la cantidad de medicamentos para enfermos con distintas enfermedades, como por ejemplo, VIH. Desguazó el hospital, afectando una parte de los trabajadores estatales, y redujo la asistencia a los discapacitados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Es hasta acá. No se puede decir, sin caer en el discurso de odio, que una pareja homosexual es una pareja potencialmente abusadora. Es hasta acá. No se puede decir que la homosexualidad sí, pero siempre que sea puertas adentro; eso es una invasión inconstitucional de la libertad.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A diferencia de otras marchas ligadas al sindicalismo o los movimientos sociales, las columnas orgánicas de las organizaciones partidarias de izquierda o peronistas eran superadas ampliamente por los miles y miles de personas sueltas que asistieron a la marcha sin participar de ningún espacio político.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Patricia Bullrich dijo que no se volvería a cortar una calle y que todo el mundo debería marchar por la vereda. Sin embargo, quienes seguimos políticamente hace algunos años su trayectoria, estamos acostumbrados a sus repetidos cambios de opiniones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4213
+}

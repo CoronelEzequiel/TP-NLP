@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.82,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La oposición debería estar muy alerta y con la guardia bien alta para garantizar que haya elecciones primarias.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están fingiendo un debate interno, pero toda la información disponible indica que están juntando los votos en el Congreso para suspender las PASO.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El motivo es muy claro: el oficialismo nacional no tiene casi candidatos taquilleros y la oposición tiene varios.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una trampa destinada a complicarle la vida y la representatividad, sobre todo, a Juntos por el Cambio.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mi humilde opinión es que las PASO son muy útiles para que sean los ciudadanos, y no las roscas de cúpula partidaria, las que elijan a los candidatos.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repito, si alguien dice que son muy caras las primarias, o cuestiona sus objetivos, me parece bien que se debata, pero no para esta elección de 2023, que, a mi criterio, va a ser una de las más trascendentes de la historia de la democracia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería una malversación, una estafa antidemocrática, pero no descarto que Cristina Fernández de Kirchner y su tropa lo aprueben entre gallos y medianoche.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son especialistas en atropellar los reglamentos, los estatutos y los códigos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Avanzan a paso redoblado y a tambor batiente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usan y abusan de todos los recursos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Desde que los Kirchner llegaron al gobierno provincial, con Néstor Kirchner como gobernador, nunca perdieron una elección.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los regímenes autoritarios y feudales son así, son totalitarios, quieren la suma del poder público.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Otra vez el kirchnerismo viene por todo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si se escudan en los costos, habría que decirles que también se oponen a la boleta única de papel, que bajaría notablemente los gastos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que no quieren es perder, y menos perder por paliza, como anticipan varias encuestas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2493
+}

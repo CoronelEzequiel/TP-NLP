@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.093,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La polémica sobre la llegada tardía del presidente al Vaticano generó debate.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Taiana destaca la importancia del mensaje del Papa Francisco en un mundo marcado por el individualismo, y lamenta no haber podido asistir al velatorio personalmente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno argentino está utilizando a las Fuerzas Armadas en tareas de seguridad interior,  algo que Taiana considera ilegal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Taiana coincide con López Murphy en que la autorización de uso de armas letales por las Fuerzas Armadas en funciones policiales viola la ley.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Taiana critica la decisión de utilizar a las Fuerzas Armadas en lugar de la Gendarmería, argumentando que esto aumenta el nivel de militarización y desvía los recursos de las Fuerzas Armadas de su función principal: la defensa nacional.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Taiana defiende la necesidad de que las Fuerzas Armadas se centren en su entrenamiento y en la defensa de la soberanía, no en tareas policiales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Taiana concluye lamentando el uso político de las Fuerzas Armadas y  el aumento de la represión social, argumentando que las protestas son un derecho constitucional.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1364
+}

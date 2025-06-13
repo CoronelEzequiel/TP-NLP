@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_fontedecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los femicidios no tienen fin, no tienen término en la Argentina, pese a la visibilización que hay de la problemática. Esto sí se ha ganado en los últimos años en visibilización, pero todavía falta, y mucho.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un contexto donde la gran pregunta era: ¿Cómo va a tomar el guante el gobierno nacional luego del impacto o la nacionalización? Y, ¿por qué no decir la proyección internacional de la crisis de seguridad en la provincia de Santa Fe y también en la ciudad de Rosario, el epicentro de la violencia narco?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Del mismo modo ejemplar como actuaron en la pandemia y los incendios, harán ahora con la misma honestidad, destreza y convicción en socorro de una ciudadanía que las necesita.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No aceptamos mezquindades ni especulaciones políticas. Rosario, cuna de la cultura, de la ciencia y de las artes, no merece vivir en la zozobra, la manipulación informativa con el propósito del desgaste institucional y el juego político que hacen algunos para sacar provecho de esta situación, solo merecen el repudio democrático.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina no lo entenderías. En 24 horas ha pasado absolutamente de todo y lo vamos a ir contando y desandando a lo largo de la mañana de Modo Fontedecchia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4889
+}

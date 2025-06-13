@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se podría decir: \"Es la macroeconomía y el discurso anticasta, estúpido\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Observemos sus declaraciones en Córdoba: \"Se terminó la Argentina de la casta, llega la Argentina de los hombres libres que serán prósperos\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La repetición constante de conceptos como \"déficit cero\" o \"la motosierra avanza sin piedad\" consolida la ley.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No duda en atacar a quienes denomina \"generadores fiscales\", a los que acusa de usar la excusa de la forma para vivir de la teta del Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero para mí, cosas como la falta de acceso a la educación para mis hijos, el 50% de pobreza, el vaciamiento del Banco Central, la destrucción del sistema energético, el aislamiento internacional, las alianzas con Chávez, Maduro y los Castro, me molestaron mucho más que una mala palabra.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno no se preocupa por la precisión de los datos, ni la sociedad parece demandarla.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La frase \"Milei, el Divu, bancamilay\" podría considerarse una conclusión forzada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero la frase \"A la Argentina la veo bien. Por años estuvo muy mal. Y ahora van cambiando las cosas para que se puedan mejorar. Esperanzas hay\",  es sobria y correcta.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner y el kirchnerismo están en su peor momento, repudiados por la mayoría de los argentinos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei practica el \"sincericidio\" y la autenticidad, sin doble discurso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente utiliza sus redes sociales para sugerir irregularidades en el asalto a las oficinas de la UCR.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ajuste es en gran parte \"motosierra\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3011
+}

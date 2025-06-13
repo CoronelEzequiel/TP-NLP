@@ -1,0 +1,96 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.638,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina, más que nunca, necesita a todos los niveles hombres de la estatura moral de Strassera.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Julio César Strassera fue como una especie de Raúl Alfonsín de la justicia.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alfonsín porque tomó la decisión corajuda de combatir la impunidad de los terroristas de Estado para refundar la democracia sobre la base de la verdad, la justicia y el castigo a los culpables.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca más a los golpes militares, nunca más a la tortura y la desaparición forzada de personas, nunca más un genocidio, nunca más a la utilización de la violencia y las armas en la política.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pregunto a todos los argentinos: ¿habremos aprendido esa horrorosa lección de la historia?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hace siete años que murió don Julio, se fue sin doblegarse ni quebrarse, fiel a sus convicciones de enfrentar siempre a los autoritarios, e hizo un viaje rumbo a la estatura de prócer cívico.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y digo para que nunca más los fusiles y la muerte puedan más que la Constitución y la vida.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy los fiscales están muy amenazados por quienes no quieren reconocer su infinita cleptocracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Strassera dignificó para todos los tiempos la categoría de fiscal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que decir, en la dimensión humana de la historia, que una maldita infección intestinal y un cuadro de hiperglucemia terminaron con la vida de don Julio, pero parieron su leyenda.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Despreciaba los homenajes, pero aunque él no lo quisiera, tal como dijo Moreno Ocampo, ya es un santo del \"Nunca más\" que deberíamos bendecir de una vez por todas.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no estoy exagerando, ser el fiscal acusador de aquellos genocidas era jugarse la vida, exponerse a los atentados, a tantas amenazas de muerte para él y su familia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En aquellos tiempos, los exdictadores y sus patotas tenían poder y capacidad de daño; no era fácil, como ahora, hablar de los derechos humanos y condenar a los asesinos de uniforme.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora es fácil, repito.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Don Julio inmortalizó aquellas dos palabras, aquellos dos rezos laicos que lo decían todo: \"Nunca más\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquel juicio fue una bisagra en la historia de este país.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Don Julio consideró inmoral el indulto otorgado por el expresidente Carlos Menem a los militares y a los montoneros y se retiró de la función pública.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2868
+}

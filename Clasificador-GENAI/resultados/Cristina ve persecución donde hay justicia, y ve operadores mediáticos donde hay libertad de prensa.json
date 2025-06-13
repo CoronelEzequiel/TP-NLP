@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.872,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner siente pánico ante la posibilidad de ir presa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca nadie fue tan corrupta durante tanto tiempo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Fomenta mentiras y falsedades dignas de un fanatismo incontrolable.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El enriquecimiento ilícito colosal de la familia Kirchner y el cártel de los pingüinos millonarios la lleva a atropellar todas las instituciones de la República.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Compara el terrorismo de Estado de Videla y su banda criminal con un gobierno democrático como el de Mauricio Macri.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina ataca con falacias que a esta altura no se pueden dejar pasar.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina está tan obnubilada y negacionista que ve dictadura donde hay democracia, ve persecución donde hay justicia y ve operadores mediáticos donde hay libertad de prensa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Le ordenó a los radicales que se despabilaran.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo es lo peor que le ha pasado a la democracia de nuestro país",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2031
+}

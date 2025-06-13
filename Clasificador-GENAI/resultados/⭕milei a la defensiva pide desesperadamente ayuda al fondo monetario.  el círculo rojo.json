@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esa era la lectura predominante durante el primer año de gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un antes y un después, evidentemente, de la crisis que se generó a partir de que el presidente promocionó una criptomoneda que disparó su valor, subió y estafó básicamente a mucha gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, esto llevó a que en la entrevista con *Jonathan Viale* se metiera *Santiago Caputo*, la editara prácticamente en vivo, eso quedó mal, se demostró como que está \"ensobrado\" o que por lo menos está arreglado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El dólar planchado, una especie de plan \"platita\" para la clase media, que a la vez lo utilizan como ancla para el principal activo que tiene este gobierno que es la desinflación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora uno podría pensar que todas estas cuestiones son una muestra de fuerza porque bueno usa el poder arbitrar y todo lo demás pero en el fondo yo creo que muestra debilidad porque si no lo podés discutir abiertamente, si no tenés confianza que el Congreso te lo puede votar, si no podés lograr mayoría ni siquiera con este Congreso que es tan servicial, dócil para decirlo de alguna manera, bueno creo que es una muestra de debilidad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2848
+}

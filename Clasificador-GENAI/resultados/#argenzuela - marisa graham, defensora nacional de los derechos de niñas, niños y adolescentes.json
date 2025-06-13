@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.117,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, bueno, cuando empezamos a recibir denuncias de los comedores, la última vez que habían recibido alimentos secos fue en octubre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, como la respuesta de Pablo de la Torre no fue suficiente —incluso tuvimos conversaciones telefónicas— decidimos iniciar una prohibición de innovar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pedir papeles a esas mujeres que dan todo de sí para alimentar a los niños es inhumano.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede cortar una prestación, no es solo un problema de gestión, sino de derechos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos un amparo contra la provincia de Salta por la mortalidad infantil de la niñez wichí, que muere por falta de agua segura.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a seguir insistiendo en que, hasta que tengamos una situación ideal, no se interrumpa la prestación y que se repartan los alimentos que hay en depósito.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2600
+}

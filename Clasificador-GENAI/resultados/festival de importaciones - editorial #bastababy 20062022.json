@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me gustó mucho su reflexión sobre los padres.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy volvió a hablar la señora, ¿viste? Había que esperar a que la señora, Belgrano, empezara a hablar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decíamos que el problema no es lo que ella dice, sino lo ingenuos que son quienes la escuchan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gracias a Dios hoy volvemos a ver la bandera celeste y blanca, porque hacía mucho que solo veíamos la bandera roja con el Che Guevara.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las iconografías del kirchnerismo son ridículas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy harto de este gobierno, de esta gente. Es un gobierno de miserables, de mentirosos, embusteros.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Kirchner quiere gobernar con el caos y lo está provocando.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La persecución al periodismo es terrible.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos sabemos qué cartas tienen, sabemos que son culpables los dos, sabemos las cagadas que se mandan, sabemos cómo vendieron la patria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Realmente usted no sería tan feliz si no dejáramos entrar a Oscar de la Renta, las carteras de Vuitton, las perlas…",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2139
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei_kirchnerismo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.592,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que nos encontramos es que el presidente se pelea, se enoja, discute con una cantidad de periodistas a lo largo de los últimos dos meses, pero todos tienen en común haber sido críticos del kirchnerismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy curioso que no se pelea, no discute o confronta con periodistas claramente afiliados, cercanos al kirchnerismo, como podría ser Página/12 o C5N; se la agarra siempre con periodistas que fueron críticos del kirchnerismo, mostrando la repetición de que, finalmente, los populismos tienen en común, más allá de que sean de derecha o de izquierda, un encono especial con el periodismo.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a empezar con el clásico “Néstor Kirchner, ¿qué te pasa, Clarín, estás nervioso?”. En tiempos del kirchnerismo, se hablaba de \"periodismo militante\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O'Donell, el presente vídeo de mi llegada de 6 y saliendo en una camioneta deja en evidencia que has mentido, con el objetivo de ensuciar periodistas. Mintiendo, un clásico de la progresía argenta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lanata, infórmese bien sobre la reunión, corjito, no mientas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La nueva normalidad mundial es que en todos los países hay sectores políticos que tienen una gran hostilidad hacia ser primer profesional, el primer independiente, es el mismo crítico, y en algunos casos esos grupos políticos llegan al poder.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4328
+}

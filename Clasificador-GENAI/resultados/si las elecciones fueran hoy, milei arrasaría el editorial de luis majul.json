@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.678,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Según esta fuente, que diariamente procesa encuestas junto a otras, si las elecciones legislativas del año próximo fueran hoy, la Libertad Avanza obtendría un porcentaje similar al obtenido en noviembre de 2023, cuando Milei fue elegido presidente en segunda vuelta (más del 56% de los votos).",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno parece querer polarizar con Cristina Kirchner, lo cual, según Milei, no es un problema para él, sino de la oposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei promueve la hipótesis de un triunfo con más del 50% de los votos, tanto dentro como fuera del \"círculo rojo\", por tres razones: 1) desmentir rumores de un pacto con Cristina Kirchner para evitar la aprobación del proyecto de \"ficha limpia\"; 2) negociar con Mauricio Macri y Juntos por el Cambio los posibles acuerdos para el año próximo desde una posición de fuerza; 3) reiterar que el senador Edgardo Cúder es afín a Cristina Kirchner, como Milei ya expuso en un tuit.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los intentos del kirchnerismo para expulsar a Cúder del Senado y reemplazarlo por Estefanía Cora podrían perjudicar a Cristina Kirchner.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei advierte sobre el riesgo de que la exvicepresidenta, con dos condenas firmes por corrupción y seis años de prisión en suspenso, compita en un periodo electoral con una candidata condenada e inhabilitada para ejercer cargos públicos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una encuesta de Opina Argentina muestra un aumento en la popularidad de Milei, un mayor diferencial de imagen positiva y un deterioro en la imagen de los dirigentes de la oposición.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei planea enviar al Congreso proyectos de ley sobre reforma política (incluyendo un límite a los fueros parlamentarios y un nuevo proyecto de \"ficha limpia\"), eliminación de los aportes estatales a los partidos políticos, normativa antimafia, y la privatización de Aerolíneas Argentinas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei y Caputo prevén una inflación del 20% y un crecimiento del PBI del 5% para 2024, cifras más optimistas que las proyectadas por las consultoras.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para concluir, Milei publicó un video en Instagram con inteligencia artificial donde aparece caracterizado como Elvis Presley junto a otros líderes mundiales.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2463
+}

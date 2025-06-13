@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.667,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta vez perdimos, pero los vamos a \"recagar\" a trompadas, ¿no?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me querían matar, me querían asesinar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces tienen lo que se merecen, van a buscar eso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Macri habría que fusilarlo en la Plaza de Mayo, ¿no?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo que no entiende el kirchnerismo, el progresismo, la izquierda troska, es que, a ver, más del 55% de los argentinos, te guste o no a vos, cabeza de termo de mi corazón, votó un cambio de sistema cultural.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Déjenlos pegando trompadas al aire.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3175
+}

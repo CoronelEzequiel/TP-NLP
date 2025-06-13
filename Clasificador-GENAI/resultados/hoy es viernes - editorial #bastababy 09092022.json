@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.383,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer hice una nota con Luis Majul y Alfredo Leuco, quienes me felicitaron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Alberto Fernández le pegó por pedir más odio, por dar listas de periodistas opositores, por hacer boludeces.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La palabra \"odio\" no la conozco.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como periodista, conozco los entretelones y deseo que haya justicia y condena.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Soy enemigo político de Cristina Kirchner, de Parrilli y de toda esa rufla, y los voy a combatir hasta que, si son culpables, estén presos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, que es una máquina de decir gags, debería explicarle que yo no soy odiador.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2336
+}

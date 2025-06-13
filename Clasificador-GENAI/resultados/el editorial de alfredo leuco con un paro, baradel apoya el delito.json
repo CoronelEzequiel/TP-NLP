@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.783,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estoy totalmente en contra de los delitos que muchos gremialistas cometen a la hora de reclamar.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero estamos en Argentina y la CTERA, liderada por Roberto Baradel y compañía, acaba de decretar un paro nacional docente para mañana.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejen de hundir cada vez más a la educación pública y a los chicos que más la necesitan y que menos tienen.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Roberto Baradel es el ministro de educación *de facto*.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son más militantes que docentes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos una revolución educativa y productiva, con los docentes como abanderados, los padres como escolta y el aporte de la sociedad civil.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2063
+}

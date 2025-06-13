@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.783,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los Kirchner tienen esa costumbre de sentirse dueños de la pelota, del Estado y de todo lo que lo rodea.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son \"che guevaras\" con Rolex de diamantes, \"trotskistas\" con Audi, \"revolucionarios\" con fueros y sueldos del Estado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo, para salvarse, está en guerra con la legalidad, con la república, con el progreso.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta maniobra táctica, que busca cambiar todo para que nada cambie, esconde muchos peligros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cualquier cosa que hagan es para asegurárselo, para salvar su narrativa y, por supuesto, para evitar ir presos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un acuerdo con el FMI implica medidas de ajuste (subas de tarifas, reducción del gasto, etc.) que requieren la colaboración del kirchnerismo, que ocupa posiciones estratégicas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1787
+}

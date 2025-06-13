@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_massa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay un \"Massa\" para cada gusto, o sea, los sectores financieros apoyan, aprueban, aplauden. Dicen que llegó Massa, bajan el riesgo país, suben los bonos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al mismo tiempo, la CGT y los sindicatos aplauden que vino Massa. Evidentemente, parecen cuestiones contradictorias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es cierto que Massa representa el área de centro, centro derecha del Frente de Todos, de la misma forma que lo representa Alberto Fernández.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La diferencia es que Massa siempre fue una persona con una voluntad de poder distinta, más decisión y está más clara, y Alberto Fernández es más una persona de relaciones públicas que acomoda su discurso a la audiencia que tiene en ese momento.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Y el que la manda hacer eso es Sergio Massa. Y yo tengo duda de eso, madre hija de puta\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4426
+}

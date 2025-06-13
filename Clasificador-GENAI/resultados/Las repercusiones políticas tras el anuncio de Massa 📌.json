@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este punto de inflexión tiene una conexión, porque al mismo tiempo un juicio con un fallo adverso a la vicepresidenta, en el tema en el que hoy el fiscal Luciani presenta el alegato final, pondría en riesgo la continuidad de la alianza gobernante, ya que la vicepresidenta podría ser responsabilizada por su falta de suerte jurídica.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Será Sergio Massa el que corte el nudo gordiano, que permita mantener unida –valga la paradoja– a la coalición gobernante y hacerla competitiva en las próximas elecciones? Veremos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer, una vez que fue designado Gabriel Rubinstein, con todo el respeto de Gabriel, me acabo, digamos, de perderle credibilidad, porque yo digo que el kirchnerismo de su país y de golpe, porque me ofrecieron un puesto, digo, bueno, me corrijo de lo que dije y ya no te puedo creer, disculpame que con todo el afecto que tengo no me parece parecido, porque se actuó con el kirchnerismo, recorremos con la uña.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lázaro Báez y su grupo compraron el equivalente a 20 veces el territorio de la ciudad de Buenos Aires, mientras en Argentina muchos ciudadanos, por los altos niveles de pobreza y su ocupación, no logran cubrir necesidades básicas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3917
+}

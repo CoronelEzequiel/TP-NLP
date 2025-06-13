@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Millones de argentinos estaban absolutamente hartos de estos grupos de ultraizquierda.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se acabó el \"vale todo\" piquetero de los ultras que no tienen votos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las fuerzas de ultraizquierda deberían hacer un profundo debate interno, yo diría una gran autocrítica.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Deberían revisar sus ideas y comportamientos; años y años repitiendo las mismas recetas apolilladas y nunca logran un apoyo masivo de los ciudadanos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se creen que todos los que no los votan, los que los rechazan, son gorilas, oligarcas, proimperialistas, viven en un frasco rojo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que corta no cobra, esa es la imagen de la ley y el orden.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2063
+}

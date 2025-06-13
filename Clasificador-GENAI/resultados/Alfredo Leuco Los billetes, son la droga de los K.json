@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La idolatría de los kirchneristas por los billetes parece empujarlos a cantar siempre la misma melodía, money, money, money, aquel viejo tema que escuchamos del grupo ABBA, ¿se acuerdan?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la corrupción en estado puro, por supuesto, pero también hay algo de fetichismo en todo eso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se trata de una codicia sin límites de sentido común.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Néstor y Cristina y su familia, sus testaferros y sus exfuncionarios, e incluso los secretarios privados, robaron mucho más de lo que podrían gastar en varias vidas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Rosario Lufrano todavía tiene que explicar cómo es que retiraron más de 11 millones de pesos en efectivo del banco y los tenían guardados en bolsos en el corazón de la mal llamada televisión pública.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El flamante comandante del asalto final a la justicia, Martín Soria, hacía más o menos lo mismo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El grave problema es que, además, se trata de dinero robado al Estado y el Estado somos todos y que, como si esto fuera poco, los montos de dinero fueron colosales, alcanzan para hacer política toda la vida y en varios países.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina acaba de ganar la batalla para cobrar las dos jubilaciones de privilegio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor llegó a tener más de mil millones de dólares en el exterior y nunca se vio una boleta de depósito o un resumen de cuenta, todo oscuro, todo oculto, no se sienten obligados a rendir cuentas, se sienten dueños de todo, también de la Casa Rosada y del país, son los patrones del mal, actúan con una codicia sin igual, magnates, usureros, corruptos, el vínculo con los billetes es enfermizo, es una de las características de los especuladores, no hay poesía ni épica revolucionaria en esa actitud, ya lo decía Francisco de Quevedo: \"Poderoso caballero es Don Dinero\".",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2427
+}

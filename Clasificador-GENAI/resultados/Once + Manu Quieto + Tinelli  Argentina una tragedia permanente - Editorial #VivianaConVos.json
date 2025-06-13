@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Lo loco es que, al poco tiempo de esta tragedia, Cristina Fernández de Kirchner, con cero empatía, subía a un tren.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora estamos viviendo otra tragedia: se quemó el 12% de una provincia y el presidente Alberto Fernández, en vez de estar ahí, se fue ayer a inaugurar un polideportivo en Santa Clara.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Justo lo dice él, que es como un profesional de la mentira. Miente tanto el presidente que ya no sabés cuándo dice la verdad o, de verdad, cuándo está mintiendo, porque hizo de la mentira una forma de vida, un estilo de gobierno.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recaudó Maratea más de 100 millones de pesos en apenas 24 horas. La misma guita la destinó Alberto Fernández a su comitiva, que incluía a Juan Cabandié, para ir a Barbados, mientras Corrientes se prendía fuego.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo Baradel, 'el libro de Cristina Fernández de Kirchner debe ser de lectura obligatoria en todas las escuelas'. Mamita.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al Kun Agüero, como a Tevez, nadie le regaló nada. Y tiene todo el derecho del mundo, porque vive en democracia, a decir lo que se le canta el trasero.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy en día una Hebe de Bonafini está incitando a la violencia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6305
+}

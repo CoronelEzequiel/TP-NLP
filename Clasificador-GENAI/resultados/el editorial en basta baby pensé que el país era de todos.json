@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.787,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Da vergüenza que apelen a las cosas más bajas en política.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Alfonsín supiera, en otra vida, en la cuarta dimensión, que hoy Leopoldo Moreau está aplaudiendo a usted… ¡peor aún!",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Aplaudió a Cristina, se baboseó con Cristina, algo que ningún radical hubiera hecho.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usted, Alberto, es usado por Cristina como símbolo de honestidad, y usted usó a Alfonsín de la misma manera.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Deberíamos salir a la calle pacíficamente, un millón de personas en el Obelisco, cada 15 o 20 días, para mostrar que hay un 41%, 42% o 45% de la gente que no los quiere.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Preparemonos, porque tiembla la libertad de expresión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso defiendo a Silvina Martínez, a Stolbiser y a todas estas mujeres que han puesto el pecho a las balas para denunciar a las mujeres corruptas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, los boludos que lo aplauden no son radicales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2371
+}

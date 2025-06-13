@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay que tener una intervención del Estado, darle a todas las chicas, porque lo que nunca pensamos es que a las chicas humildes les cuesta mucho llegar a una toalla íntima y ni hablar de una copa menstrual.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero acá hay impuesto rosa, hay impuesto rosa.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y hoy te voy escuchando a los políticos de guerra, son todos corresponsales de guerra, hablando de cosas que no tienen ni idea.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, yo creo que viene una época de una televisión como esta. Natural, entre amigos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que decirlo ahora.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3055
+}

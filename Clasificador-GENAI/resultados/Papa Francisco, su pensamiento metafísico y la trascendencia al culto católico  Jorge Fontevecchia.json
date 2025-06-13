@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_papa_francisco",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Normalmente se le pregunta sobre la actualidad, sobre los problemas cotidianos, sobre cuestiones de género, sobre su relación con el peronismo, con la política, con tal o cual presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando se quisieron hacer procesos en los espacios, ahí se fijó la historia y se llegó al fracaso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El infierno no es un lugar, el infierno es un estado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un ateo que busca sinceramente no está fuera, está caminando, está buscando sinceramente el sentido de la vida por no decir Dios, está buscando... El asunto es la búsqueda y un cristiano que no busca es un estancado y no te olvides que el agua estancada es la primera que se corrompe, y cuando un cristiano se estanca, ¡qué pobre hombre!, ahí volvemos al infierno y al paraíso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Te queda poco, aprovechá a lo que tenés que hacer ahora, porque llegar a mi edad y estar bien es una gracia, pero no sé hasta cuándo durará.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4427
+}

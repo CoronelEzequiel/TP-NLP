@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El valor de la moneda se destruye ante nuestros ojos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para una fuerza política que considera que gobernar es gastar sin importar cómo —y lo han demostrado acelerando la emisión monetaria con total irresponsabilidad durante la campaña electoral, sin importar las consecuencias que ahora vivimos—, esto los coloca en un territorio de inconsistencias.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La moderación nunca estuvo en el diccionario de Cristina Fernández de Kirchner, todos lo sabíamos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hay que traicionar o romper, se hace.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente ya sabe que los acuerdos de precios son como contener un tsunami con tres bolsas de arena.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En economía, esto implica un ordenamiento que requiere ejemplaridad, sensatez y un menor gasto.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2307
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.275,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner tendrá esta segunda instancia de condena, y quienes trabajan en la Corte Suprema dicen que sí, que están de acuerdo en que es culpable.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se argumenta que la expresidenta \"no pudo no saber\", pero yo diría que es al revés: \"no pudo saber\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos, o casi todos, saben que todo esto es mentira: empresarios, clase política, periodistas… solo la mitad de la población cree que Cristina Fernández de Kirchner es corrupta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde 2008, con el conflicto del campo y la pelea con el Grupo Clarín, eso se fue rompiendo. Hoy, la situación es mucho peor.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, [Medio de comunicación] afirma que Cristina Fernández de Kirchner está en su peor momento, mientras Javier Milei vive sus mejores días.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei se beneficia de confrontar con Cristina Fernández de Kirchner y de afirmar que ella está mal y él bien: es un discurso armado en la Casa Rosada que se replica en los canales de televisión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inteligencia artificial genera un nuevo problema para la información.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Llegamos a un nivel de desinformación tan grande que me pregunto si se puede decidir en estas condiciones.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2085
+}

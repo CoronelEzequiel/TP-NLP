@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Como veedor internacional, normalmente invitado por el Consejo Nacional Electoral u organismo similar, la tarea consiste en controlar que el proceso se desarrolle de manera transparente, verificando que la gente vote libremente y sin inconvenientes, que el proceso se lleve a cabo en todo el país y que se cumplan los requisitos fundamentales de participación y libertad de expresión del voto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, el acto se desarrolló en absoluta libertad; incluso, después, las columnas de los diferentes candidatos se cruzaron sin incidentes en una noche con más de un millón de personas movilizadas por el centro de Caracas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recuerdo las elecciones de 2018, donde se alegó fraude y se declaró ganador a Maduro.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entiendo que el gobierno de Maduro lo desinvitó por alguna declaración de Fernández sobre reunirse con la oposición para conocer su opinión sobre el proceso electoral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Coincido. Eso ayudó a que el proceso se desarrolle con normalidad y participación de todos los sectores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El trabajo de Alberto Fernández en el Grupo de Puebla también contribuyó.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1787
+}

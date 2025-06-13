@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a24",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.856,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Investigan a Nicolás Ducoté por lavado de dinero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los dueños de la moral, ahí los tienen, a él y a su mujer.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Van a correr los reyes de la moral. Van a correr los corruptos. Van a correr los delincuentes. Van a correr los que nos encerraron en la cuarentena. Van a correr los del vacunatorio VIP. Van a correr en Argentina, dentro de muy poco tiempo, los que tienen doble vara. Van a correr los del Olivos Gate. Van a correr los que tienen muchas cajas de seguridad con mucha plata y no pueden justificarla.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos tienen el matrimonio perfecto. Él roba y ella lo esconde.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chequeado oculta a su verdadero propietario y compra seguidores truchos en Twitter.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La capacidad de Sommer de ser imparcial en el tratamiento de las noticias políticas, teniendo en cuenta el prontuario de su marido, su paso por la función pública de la mano de Néstor Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes carecen de moral, chequeado.com.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente está drogadicto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que hizo Alberto Fernández como presidente es traición a la patria.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8800
+}

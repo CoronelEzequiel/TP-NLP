@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pocas veces vi un gobierno con una combustión espontánea tan rápida, pero también pocas veces vi a políticos, dirigentes y simpatizantes de una fuerza política que construyeron su ideología, su carrera y llegaron al poder con varias premisas que, obviamente, al principio te seducían.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, la casta (la clase media y la clase baja) está siendo pulverizada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos los días encontramos un dirigente, un político o un seguidor de Javier Milei que se acomoda en el Estado, el Estado que odian, el Estado que es, como lo definió Milei… lo definió antes de…  \"Unidos… unidos de ratas con gremios\", pero era un… como dijo un delincuente: \"una organización delictiva\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado es una organización delictiva.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le cuestionamos lo que representa en medio de esta crisis: hacer ostentación de un viaje de placer a un lugar que tiene un costo que la mayor parte de la ciudadanía ni siquiera puede imaginar, en un momento donde la ciudadanía está haciendo unos esfuerzos terribles.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2095
+}

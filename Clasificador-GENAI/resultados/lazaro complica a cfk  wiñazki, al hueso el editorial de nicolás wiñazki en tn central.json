@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.808,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esto ya fue confirmado por el Tribunal Oral Federal N° 4, que condenó a Lázaro Báez a 12 años de cárcel.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según los jueces, el dinero lavado por Báez, parte de su familia y numerosas personas de su entorno, provenía de la corrupción estatal durante el gobierno de la familia Kirchner, específicamente de la obra pública.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En este juicio, la principal acusada, Cristina Fernández de Kirchner, vicepresidenta de la Nación,  es acusada de ser la jefa de una asociación ilícita que se habría beneficiado con el desvío ilegal de fondos del Estado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner esperaba que los jueces determinaran que el dinero de Báez provenía de evasión fiscal, es decir, que tenía dinero no declarado al fisco que luego blanqueó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El juicio de la ruta del dinero K ha finalizado su etapa de juicio oral.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se confirmó la existencia de la ruta del dinero K gracias al trabajo de las querellas, la Oficina Anticorrupción, la Unidad de Información Financiera (UIF), la AFIP, numerosos denunciantes, el fiscal Abel Córdoba y los jueces, quienes determinaron que el dinero de Báez provenía de fondos públicos del gobierno de Cristina Fernández de Kirchner, hecho que se investiga además en el juicio de \"Vialidad\", donde ella es acusada, aunque no asiste a las audiencias.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1640
+}

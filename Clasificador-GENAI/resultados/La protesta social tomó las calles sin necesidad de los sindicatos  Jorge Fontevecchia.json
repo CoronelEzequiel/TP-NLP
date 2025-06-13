@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La verdadera oposición que puede generar identificación en una mayoría de los argentinos es la que se moviliza en las calles por planteos puntuales contra un gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los paros generales no parecen ser la herramienta para lograr las modificaciones sociales; por el contrario, lo único que parece ser clave es que luego eso se convierta las manifestaciones populares en votos, son solo los votos los que logran producir modificaciones.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta mayoría se ha expresado en marchas multitudinarias, al revés de lo que sucede en la fragmentación de los políticos: la mayoría social en contra del gobierno, que no se expresa en partidos políticos, sí lo hace en marchas multitudinarias como las movilizaciones universitarias el año pasado, o la marcha antifascista convocada por el colectivo LGTB, o las concentraciones más pequeñas pero permanentes, como las de jubilados, que tienen una fuerte adhesión social.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde otro arco ideológico también podríamos decir en Argentina quienes lograron capitalizar políticamente un proceso de movilización fue Juntos por el Cambio, que se volvió representante político de los intereses del campo movilizado en el año 2008, y de la marcha por la muerte del fiscal Alberto Nisman en el año 2015.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En relación a la actualidad, probablemente la sociedad, que viene de la experiencia de dos gobiernos que no respondieron a las promesas electorales que generaron, no quiere repetir experiencias políticas que ya resultaron frustrantes en el pasado, y en el caso de que la dirigencia de la oposición sea Cristina Fernández de Kirchner, tiene por sí un carácter en sí mismo contradictorio.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3712
+}

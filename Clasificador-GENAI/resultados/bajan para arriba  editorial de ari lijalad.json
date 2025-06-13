@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.171,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer se supo que las jubilaciones que no recibieron el bono experimentaron una caída real del 43%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación contrasta con las declaraciones del ministro de Economía, Sergio Massa, quien publicó un tuit —que considero violento—  afirmando: \"Excelente reunión ayer con productores de consumo masivo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas empresas se mostraron satisfechas con las medidas de desburocratización y normalización del comercio interior y exterior implementadas por el Gobierno, como la no renovación de los \"Precios Justos\", la derogación de la Ley de Abastecimiento, la eliminación del Observatorio de Precios, la finalización de fideicomisos y la derogación de regímenes informativos que incrementaban los costos en las cadenas productivas.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En resumen, el ministro se reunió con empresas de alimentos y productos de higiene, permitiéndoles operar con menos control.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Comparando los precios de enero de 2023 con los de enero de 2024, se observa un incremento significativo en el costo de productos como pan, harina, arroz, fideos, leche, azúcar, sal, yerba mate, jabón y pañales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La desaceleración inflacionaria mencionada por el Gobierno podría deberse a la caída de las ventas minoristas de alimentos (más del 30% según CAME) y medicamentos (más del 45%), resultado de la situación económica.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En conclusión, mientras el ministro Massa asegura que la inflación baja, los datos muestran una realidad muy diferente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1709
+}

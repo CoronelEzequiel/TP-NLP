@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Veo con preocupación que, al cumplirse 40 años de democracia, la sociedad se encuentra profundamente fragmentada.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si se excluyen los planes sociales, el 60% de la población vive bajo la línea de pobreza.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde 2007, y luego en 2019 y 2021, hemos trabajado desde el partido para que la política y la sociedad comprendan la necesidad de superar la grieta, abandonar la política del enfrentamiento y la destrucción del otro, y avanzar hacia un esquema de diálogo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No compartimos la decisión de Macri de apoyar la candidatura de Milei, lo que generará, sin duda, una reconfiguración de las fuerzas políticas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos intentar preservar el espacio, y quienes quieran apoyar a Milei pueden formar su propia fuerza política.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo firmemente en el sistema de partidos y la alternancia en el poder.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La democracia es un valor que debemos reivindicar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1756
+}

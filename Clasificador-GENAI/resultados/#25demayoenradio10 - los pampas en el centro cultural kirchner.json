@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Viene el Día de la Patria, estamos en el CSK y qué mejor que buena música.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recorriendo el país, haciendo folclore… somos un poco la excepción en los festivales, pero es un placer.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trabajamos por tradición familiar; nuestros padres son amantes del género y nos nutrimos desde chicos escuchando a Los Chalchaleros, Los Fronterizos, Yma Sumac, Horacio Salgán, etc.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el Día de la Patria, y si algo lindo tiene el folclore es el canto compartido.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos fechas propias: el 19 de junio, víspera del Día de la Bandera, en el Centro Cultural de San Isidro (Zona Norte, Av. Libertador, 16:00 hs).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1247
+}

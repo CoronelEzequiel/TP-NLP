@@ -1,0 +1,46 @@
+{
+  "texto_id": "10 y 35",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.186,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cuando la política te cierra los caminos, estos se buscan vía los tribunales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero nunca hablamos concretamente de que hay que hacer cambios profundos en la justicia, sobre todo cuando la justicia es lenta y busca atajos para no asumir la responsabilidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que cuando se llega a esos cargos, se tiene que tener cierto temperamento y coraje para tomar decisiones, sobre todo eso, un tiro para el lado de la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque se habla mucho de la justicia, de la Corte, quién va, quién no va, y cuando hay algún problema puntual que verdaderamente le interesa a los ciudadanos, le interesa a los jubilados, le interesa a los trabajadores, no hay una resolución rápida por parte de la justicia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rebajar en la plata que cobran los jubilados no es una actitud noble, querer destrozar la universidad pública no es una actitud noble, querer privatizar el Banco Nación o Aerolíneas Argentinas y no decir nada de las barbaridades que hace Flaibondi no es una actitud noble.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo soy un hombre del peronismo de toda la vida, y a veces entiendo y trato de entender, de ser tolerante con quienes tienen responsabilidad de gobernar y a veces tienen que ceder o acordar o convivir con el gobierno nacional, porque al no haber una ley de coparticipación clara, insisto, Mauro, uno se ve sometido a presiones donde, a veces, cuando no hay independencia económica, condiciona mucho la independencia política.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En política no siempre se pone la otra mejilla, esto de que nos desprecien pero le queremos dar una oportunidad, estamos en contra pero vamos a votar por la gobernabilidad.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4093
+}

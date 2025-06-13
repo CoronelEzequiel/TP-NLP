@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.758,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Así que hay que tratar todos los días de esforzarse y levantar el ánimo de esta gente que está tan desanimada por las mentiras del presidente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero es una estupidez que, si uno lo piensa bien, debería avergonzar a este gobierno de mentirosos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso estamos cansados, señor presidente.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos cansados de Cristina, estamos cansados de usted, estamos cansados de toda esa comitiva de inútiles, estamos cansados de las mentiras que no se cumplen, estamos cansados de las idas y vueltas, estamos cansados de que todos se estén juntando para cambiar tribunales completamente para ver si algún juez puede perdonar a Cristina, que hasta ahora parece más sucia que una papa.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Deje de meternos adentro, porque eso no sirve para nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No somos esclavos del kirchnerismo, somos ciudadanos honestos que pagamos los impuestos y, si quiere hacer algo ya que no tiene nada que hacer porque no hay vacuna, apure a los jueces para que juzguen a Cristina y sepamos si es culpable o inocente.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2586
+}

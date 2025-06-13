@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.267,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Gracias a la pluralidad del arco político, con representantes de todos los bloques, incluyendo a senadores de todas las provincias argentinas, la sesión fue muy valiosa e importante.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En San Luis hemos mantenido durante casi 40 años una política de equilibrio fiscal.",
+      "score": 0.2,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre me entusiasmaron las propuestas de Javier Milei y Victoria Villarroel sobre equilibrio fiscal para enderezar el país, ya que en San Luis tenemos un programa que divide el gasto entre corriente y capital.",
+      "score": 0.1,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina necesita equilibrio fiscal, ahorro e inversión para crecer.",
+      "score": 0.2,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Emitir moneda sin respaldo es algo que ya hemos vivido en Argentina y no fue positivo.  En este contexto, con un alto nivel de endeudamiento e inflación, pido responsabilidad a los gobernadores.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quizás el gobierno anterior no dejó ahorros, impidiendo la inversión en bienes de capital.  Pero no poder pagar los sueldos me sorprende mucho.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2073
+}

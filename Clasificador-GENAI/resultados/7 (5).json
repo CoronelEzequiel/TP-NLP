@@ -1,0 +1,91 @@
+{
+  "texto_id": "entrevista_pablo_moyano",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.034,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Por eso, en este momento nos interesa mucho la opinión de Pablo Moyano, secretario general del Sindicato de Camioneros, uno de los que convocó fuertemente a la Plaza de Mayo, frente al Ministerio de Economía, donde finalmente Sergio Massa hizo el anuncio a los trabajadores.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre ponía el ejemplo de un chofer de camión que viaja a Brasil o a cualquier lugar fuera de Argentina; por los kilómetros recorridos, lejos de su hogar, pagaba Ganancias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y por qué los jueces no pagan Ganancias? ¿Por qué las mineras no tienen retenciones? ¿Por qué la derecha quiere constantemente eliminar las retenciones en el campo y no priorizar a los trabajadores?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después, como le dije ayer, en 2015 llegó el \"anticristo\", prometiendo que los trabajadores no pagarían Ganancias, ¡y se duplicó la cantidad de compañeros afectados!",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que ayer fue un día histórico donde cerca de un millón de trabajadores dejaremos de tributar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto generará que el dinero que antes se llevaba el Estado se destine al consumo interno, impulsando la compra de productos nacionales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen que quieren eliminar las indemnizaciones, quitar derechos laborales… ¡Una reforma laboral salvaje!",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué al campo le quieren sacar las retenciones y a los trabajadores no?",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso hay que concientizar a los trabajadores. El gobierno dio las indemnizaciones parciales, la eliminación de Ganancias… Creo que está definido el modelo de país: quién defiende los derechos de los trabajadores y quién quiere quitárselos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que sí, con estas medidas puede ser. Acá no hay espejitos de colores como promete la oposición. Acá son los hechos, la realidad, y la eliminación de Ganancias es un gran avance.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá la gente que votó a Javier Milei, viendo la forma en que habla, se dé cuenta de que va a explotar al país.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, la derecha, o la derrotamos a través de los votos o cuando quieran sacar derechos a los trabajadores, saldremos a la calle.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por supuesto que va a haber una reacción inmediata, por lo menos de los que siempre hemos estado en la calle.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero uno está trabajando, militando, y estoy convencido de que en noviembre el próximo gobierno va a ser de Sergio Massa.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo fui claro, yo ni loco me juntaría con un tipo que anuncia medidas en contra de los trabajadores.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que ya se sabe que la derecha no va a acompañar, pero es normal, ellos priorizan a otros sectores de la sociedad.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3517
+}

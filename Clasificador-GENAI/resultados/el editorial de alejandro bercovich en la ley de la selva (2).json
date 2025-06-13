@@ -1,0 +1,56 @@
+{
+  "texto_id": "el_nuevo_orden_mundial",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.222,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En medio de esta convulsión mundial, Argentina inicia su calendario electoral en Santa Fe este fin de semana.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo único que sabemos que hizo hoy el presidente Milei fue grabar un spot de campaña para Manuela Dorni en la ciudad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo de Milei es una apertura ideológica a puro prejuicio, incondicional, a contramano del mundo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei comete un doble error: elige a la potencia equivocada (Estados Unidos) y abre el mercado mientras todos se cierran.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos aranceles no se veían desde antes de la Segunda Guerra Mundial, época en la que se produjo esta caída.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "China demostró que su modelo (socialismo con características chinas o capitalismo de Estado) se adaptó mejor a las reglas del libre comercio que Estados Unidos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei regresó con las manos vacías, y el préstamo del FMI está más en duda que nunca.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas medidas se toman con una agenda explícita de reducción de aranceles que alienta la importación, sin brindar estímulos similares a la producción nacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya hay más de 200.000 puestos de trabajo perdidos en el sector formal y muchas empresas pensando en cerrar en medio de esta nueva crisis internacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5432
+}

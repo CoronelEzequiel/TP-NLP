@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.243,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El decreto de necesidad y urgencia fue contundentemente rechazado en el Senado la tarde del jueves.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta es la segunda derrota política de envergadura que sufre el gobierno de Javier Milei a manos del Congreso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta derrota ofrece una visión más equilibrada del escenario político, donde todo está abierto y estamos lejos de un Milei imbatible.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con el gobierno de Milei se escuchan interpretaciones similares.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei, por lo tanto, se beneficia de un \"partidismo negativo\", el rechazo a lo anterior.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por ello, se equivocan las lecturas que ven a Milei instalando una nueva hegemonía, sobreestimando la capacidad de independizarse de los resultados económicos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación actual podría cambiar si las grandes mayorías toman consciencia de la fragilidad del gobierno y exigen un cambio, rechazando el DNU también en Diputados, lo que llevaría a la caída del decreto y al fin del ajuste.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1947
+}

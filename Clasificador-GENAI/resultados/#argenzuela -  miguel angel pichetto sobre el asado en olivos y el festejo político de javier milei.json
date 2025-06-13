@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_pichetto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que no había nada que celebrar.  Este tema nos convoca a reflexionar sobre el futuro, porque tarde o temprano habrá que resolverlo en el Congreso.  Esto implica la creación de una fórmula polinómica para actualizar las jubilaciones, considerando el costo de vida, la inflación y el salario.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos ser responsables para que el gobierno tenga las herramientas necesarias.  Esto es lo que hicimos al votar la ley base (inicialmente como ley ómnibus), que luego el Congreso ajustó.  Mantenemos el Decreto 70 como instrumento de gobernabilidad. Hemos aportado a la sostenibilidad institucional y a la gobernabilidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien todos coincidimos en la necesidad de ordenar las finanzas públicas y evitar el endeudamiento permanente, la política gubernamental debe considerar la sostenibilidad social.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre lo he sido. Creo en un país productivo y capitalista. El legado de Perón era el trabajo, la clase media con aspiraciones.  Esto se perdió con la globalización, la sustitución de importaciones, la entrada de productos chinos y las dictaduras.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se le pusieron límites al gasto público, que se resolvía con endeudamiento o emisión monetaria.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2681
+}

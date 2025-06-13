@@ -1,0 +1,41 @@
+{
+  "texto_id": "Dia254_la_radicalizacion_del_peronismo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.483,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El peronismo ha tenido diferentes crisis y desengaños en su historia, y aunque siempre ha logrado reinventarse y ofrecer una alternativa de poder, ¿habrá esto cambiado?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las denuncias y acusaciones contra Alberto Fernández terminaron o se dan acusaciones de otros dirigentes y de otros delitos que se puedan investigar a partir del teléfono del expresidente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo es una fuerza que históricamente ha tenido capacidad de adaptación, de recomposición.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras que, por el otro lado, Alfonsín denunciaba el pacto sindical militar para señalar la responsabilidad de las cúpulas sindicales y peronistas de pactar con la dictadura.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menem ya había sido reelecto con el 50% de los votos. Se había ganado en 1989 y en 1995 con el 50% de los votos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que si el radicalismo persevera en su alianza con la derecha, bueno, con todo el dolor del mundo, probablemente con más dolor que muchos de los que están hoy apareciendo defendiendo la Unión Cívica Radical, con mucho más dolor que ellos, tal vez, voy a tener que tomar la decisión de defender en otro espacio las ideas de la Unión Cívica Radical, porque la Unión Cívica Radical, si se alía de nuevo con la derecha, estará de vuelta desvirtuando su identidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6188
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "A los presidentes se los respeta. A los presidentes se los ayuda, no a la \"rufla\" que está con ellos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que no quiere tomar conciencia es un \"boludo\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo único que le pido a Alberto es que mantenga la democracia y la república.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y no es casual que Bolsonaro esté tan duro en Brasil resistiendo, que lo esté bancando Estados Unidos porque hay un levantamiento porque el dictador tío Bigote, que va a terminar igual que Mussolini colgado de las patas en la plaza, acuérdense lo que les digo a corto plazo porque fíjense que sin tanto misil, sin tanto gasto, sin tanta bomba es muy parecido a lo que pasó con Saddam Hussein.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente quiere vivir y que no le rompan las pelotas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tengan mucho cuidado, este país puede andar muy bien si todos ayudamos a Alberto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2611
+}

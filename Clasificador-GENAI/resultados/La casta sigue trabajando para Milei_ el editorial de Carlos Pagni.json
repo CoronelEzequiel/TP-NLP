@@ -1,0 +1,36 @@
+{
+  "texto_id": "Audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mañana se cumple un año de la llegada de Javier Milei al poder, un evento que ha sido un fenómeno extrañísimo por parte de una sociedad, una parte mayoritaria, que decidió, repudiando lo conocido, caminar hacia lo desconocido, hacia un experimento sin precedentes, liderado por una persona con muy poca experiencia política, con pocos antecedentes en el manejo del Estado, sin equipo, probablemente sin programa al inicio.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta respuesta, \"la política es un circo vacío\", está en el fondo, en la base del fenómeno Milei, es una crisis del oficio, es una crisis de la actividad, no solamente de los políticos como dirigentes, como dirigentes partidarios, como diputados, senadores, gobernadores, intendentes, no, va mucho más allá, también afecta a otras instituciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que llama más la atención es que este video lo editó, lo hizo hacer el propio fiscal, es decir, como si hubiera casi un problema de salud mental de alguien que no registra muy bien su lugar en el mundo, el lugar de la política, el lugar que ocupa hoy la justicia en el debate público.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es interesante cómo se ha naturalizado el delito en el corazón de la dirigencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno diría: \"Se merecen la derrota que tuvieron, se merecen a Milei\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8926
+}

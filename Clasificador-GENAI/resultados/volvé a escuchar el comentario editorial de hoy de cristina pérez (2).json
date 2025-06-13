@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, la semana comenzó no con \"Primero la Gente\", sino con cientos de niños y niñas que no pudieron asistir a clases en la provincia de Buenos Aires debido a la falta de calefacción en las escuelas por escasez de gas y electricidad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Dónde quedó \"Primero la Gente\" si dos años de pandemia no fueron suficientes para garantizar las condiciones mínimas en los establecimientos educativos?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Volver a la situación anterior, con los niños y niñas confinados en sus casas por la imposibilidad de asistir a la escuela, es terrible.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El mismo gobierno que acudió a la Corte Suprema de Justicia para impedir el regreso a clases presenciales en la Ciudad de Buenos Aires argumentando que la circulación del virus incrementaría la velocidad de contagio y pondría en riesgo la salud de la población, no considera el riesgo para la salud que implica estudiar en escuelas convertidas en heladeras, cuando además, por prevención del COVID-19, es necesario mantener las ventanas abiertas para la ventilación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, los gremios docentes bonaerenses solicitaron una reunión con las autoridades provinciales para acceder a información sobre los planes y programas destinados a obras de gas, encendido y mantenimiento de sistemas de calefacción, y plantearon que en algunos distritos no se garantizan las condiciones para el dictado seguro de clases.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La provincia de Buenos Aires no puede alegar falta de fondos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Ah, pero \"Primero la Gente\"!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A fines del año pasado se calculaba que 500.000 niños y niñas no habían regresado a la escuela en el país tras la pandemia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, es el propio Estado el que los expulsa de las aulas al no ofrecerles condiciones mínimas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solo el 16% de los niños y niñas del país termina la escuela secundaria en tiempo y forma con los conocimientos necesarios, y a esto se suma el insólito impedimento climático.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2421
+}

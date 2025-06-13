@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.761,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En mi presidencia, el delincuente irá preso, como corresponde.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La policía, en cambio, merece nuestro respaldo, siempre y cuando actúe dentro del marco legal.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi prioridad sería cuidar a quienes nos cuidan: policías bien entrenados, con armas en buen estado, chalecos antibalas, y un sistema de comunicación eficiente para solicitar apoyo rápido.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 10 de diciembre, desplegaría al ejército en las fronteras para liberar gendarmes, que serían enviados a zonas críticas como Rosario y el sur de Córdoba, donde el narcotráfico impera.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se necesita bloquear las señales y aislar a esos criminales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi prioridad sería cuidar a quienes nos cuidan: policías bien entrenados, con armas en buen estado, chalecos antibalas, y un sistema de comunicación eficiente para solicitar apoyo rápido.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como presidente, me enfrentaré al desafío de Cristina Fernández de Kirchner y sus posibles acciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No permitiré que se amenace la paz social con violencia o chantaje político.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para reducir la cantidad de manifestaciones en Buenos Aires, se necesita desarticular las organizaciones sociales que manipulan los planes sociales para presionar a la gente y movilizar multitudes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2016
+}

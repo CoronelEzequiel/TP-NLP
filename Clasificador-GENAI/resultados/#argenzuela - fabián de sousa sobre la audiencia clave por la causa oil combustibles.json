@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se trata de una audiencia importante, la última, previa a que la Cámara de Casación deba resolver en base a la apelación que interpuso el Ministerio Público Fiscal contra la absolución dictada por el Tribunal Federal en diciembre de 2021.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Ministerio Público Fiscal apeló utilizando los mismos argumentos que nos vienen imputando desde marzo de 2016, a raíz de aquella famosa nota del diario La Nación.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y para que quede claro, lo que se buscó fue el desguace del grupo, ofreciéndolo a los amigos de Macri a precios vil y a quienes quisieran, incluyendo algunos dueños de canales (lo digo hoy porque lo vi).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claramente, un sector importante de quienes formaban parte del gobierno de 2015-2019 se ha dado cuenta de que la construcción en Argentina se basa en el respeto a las diferencias, el consenso y el trabajo dentro del marco de la ley.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fíjate que hoy mismo, personas en altísimas funciones políticas, como la Dra. Carrió, hablan de los procesos de persecución de la [Nombre de la entidad], la [Nombre de la entidad] y la [Nombre de la entidad] que ocurrieron durante su propio gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer mismo, un candidato a presidente, el jefe de gobierno de la Ciudad de Buenos Aires, decía que no se puede repetir la experiencia de 2015-2019, donde se empoderaba a los amigos con el patrimonio de los argentinos y a los considerados enemigos, se les aplicaba cualquier medida, incluso fuera de la ley.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se les dio la grabación detallada. No fue así, esto no era como... Admitió haber cometido un error, gravísimo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2521
+}

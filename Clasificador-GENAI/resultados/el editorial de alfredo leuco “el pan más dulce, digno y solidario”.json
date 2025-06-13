@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este grupo heroico de compatriotas se cayó cuando la Argentina se derrumbó, pero decidió levantarse con su propio esfuerzo, militando en la cultura del trabajo cooperativo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En La Juanita nada se pierde, todo se transforma y se multiplica como los panes y los peces.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decidieron actuar en defensa propia, ayudándose, ayudando a los demás, crecer como seres humanos y dejar de depender de los humores, los caprichos y la arbitrariedad de los punteros políticos de los Kirchner.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, que la economía solo trae malas noticias, hoy, que la desocupación y la pobreza están creciendo, hoy, que estamos transitando un túnel muy complicado, hasta ver la luz de un país mejor, vale la pena multiplicar el ejemplo de La Juanita.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los argentinos estamos hartos del robo a \"Peroase\", eso tiene patas cortas como la mentira, igual que el clientelismo que te deja cautivo, del que te da un plan cuando quiere.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay otra Argentina posible, por eso es tiempo de levantar la bandera de La Juanita.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2152
+}

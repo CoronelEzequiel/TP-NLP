@@ -1,0 +1,31 @@
+{
+  "texto_id": "dialogo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.188,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Como nunca, esta campaña es de abajo para arriba, como nunca esta campaña es de conversación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi ley es peligrosa, pero peligrosa no para la Argentina en abstracto, para la vida tuya; para la vida tuya que te juntás los domingos a comer un asado con los pibes del barrio; para la vida tuya con la patrona que están saliendo adelante; para la cosa de todos los días…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué es mi ley? El que propone pasar del boleto de 50 pesos a 700 pesos. ¿Qué es mi ley? El que propone que se pare toda la obra pública.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más importante que tener toda la razón es, a partir de mañana, traer un voto nuevo que apoye a Sergio Massa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3653
+}

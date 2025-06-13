@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hasta este momento, ni Victoria Donda ni Alberto Fernández han salido a repudiar, a amonestar o, aunque sea, a tomar distancia de la salvajada discriminatoria de Alberto Samid.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La reiteración y la magnitud de sus insultos cargados de odio racial deben tener su castigo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Samid es un delincuente que está preso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Semejante malandra, cuatrero y xenófobo, se dio el lujo por enésima vez de escupir su antisemitismo sobre los judíos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto José Samid, peronista hasta la médula, desde el 26 de mayo ya tiene colocadas las dos dosis de la vacuna Sputnik. Pertenecer tiene sus privilegios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insisto, estoy atento. Espero escuchar la voz del presidente del país y del justicialismo con algún tipo de condena o inhabilitación partidaria hacia Samid.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Samid, con su voz de pito y su prominente abdomen, hizo absolutamente de todo para quedar en la historia bizarra y despreciable de la política argentina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Samid se cree ridículo, pero no come vidrio. Siempre se pegó como estampilla al poder peronista: a Carlos Menem, a Eduardo Duhalde, a Néstor Kirchner, a Daniel Scioli, con quien solía compartir largas partidas de ajedrez en las tardes aburridas de la quinta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está claro que, en algún momento, Alberto Fernández, Victoria Donda y la justicia van a tener que condenarlo sin privilegios, porque Samid no es el rey de la carne, es el rey del odio racial.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2495
+}

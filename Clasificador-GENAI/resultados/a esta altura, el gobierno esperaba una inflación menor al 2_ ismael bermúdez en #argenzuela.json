@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En primer lugar, el gobierno recibirá un préstamo extraordinario del FMI, único en la historia, según el propio informe del Fondo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si la inflación aumenta rápidamente, se comerá la devaluación, y tendrán que ajustar nuevamente la banda cambiaria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entiendo que la reforma previsional será muy dura, posiblemente con aumentos en la edad jubilatoria, eliminación de regímenes especiales (docentes universitarios y nacionales), lo que significaría una reducción del 30% para futuros jubilados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ellos ven algo que nosotros no vemos: están financiando las reformas, apostando a Vaca Muerta, la energía, el litio… Quieren corregir la balanza de pagos, que es muy deficitaria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El FMI modificó el tiempo de la política económica, reconociendo un atraso cambiario que el gobierno negaba.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2229
+}

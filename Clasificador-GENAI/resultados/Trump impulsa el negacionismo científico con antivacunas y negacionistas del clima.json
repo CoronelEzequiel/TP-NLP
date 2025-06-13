@@ -1,0 +1,91 @@
+{
+  "texto_id": "de_neoconservadores_a_neorreaccionarios",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.806,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El flamante presidente de los Estados Unidos, Donald Trump, nombró a una antivacunas al frente del Ministerio de Salud norteamericano, y a un negacionista del cambio climático y del ambiente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los seguidores de Trump sostienen todo tipo de teorías conspirativas contra el progresismo, y parece estar surgiendo una nueva era de oscurantismo mundial, que enfrenta al progresismo, que muta cada vez más en su paranoia a la palabra \"comunista\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos viendo una suerte de contramarcha, un movimiento de iluminación oscura, o sea, lo opuesto al iluminismo de la extrema derecha mundial. Hoy, fieles adherentes de Trump, que se plantean como ideólogos de valores anteriores a la Ilustración, o sea, regresar al Medioevo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece como si la evidencia científica y la democracia fueran los blancos a destruir de este tipo de derechas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entre quienes tomaron el Capitolio el 6 de enero de 2021 contra la asunción de Joe Biden y negando la derrota de Donald Trump, estaban los integrantes de QAnon. Esta es una de las principales teorías de la conspiración de extrema derecha norteamericana.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Trump los está investigando, persiguiendo para prevenir un supuesto golpe de estado orquestado por Barack Obama, Hillary Clinton y George Soros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además de QAnon, Trump también es apoyado por movimientos antivacunas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, hoy, el ministro de salud, el secretario de salud, como se dice en Estados Unidos, de Trump, es un antivacunas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nombra secretario de salud al activista antivacunas Robert F. Kennedy Jr.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por otro lado, el cambio climático, uno de los fenómenos más importantes de la humanidad desde hace décadas, también tiene una suerte de teoría conspirativa que intenta refutarlo según los personajes de la extrema derecha que habitan en el universo de Trump.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno de estos negacionistas del cambio climático es justo quien estará al frente de la cartera de energía.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por otro lado, Trump va a sacar a Estados Unidos de los países que integran y componen la Organización Mundial de la Salud.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, nuestro presidente, Javier Milei, también dijo que la Argentina saldrá de la Organización Mundial de la Salud.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, tanto Trump como Milei dijeron que van a salir del acuerdo de París contra el cambio climático.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En relación a esto, Donald Trump dijo en su discurso lo siguiente.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son tiempos extraños los que corren. La evidencia científica, durante gran parte de la historia de la humanidad, era el discurso que más prestigio tenía, y eso parece estar empezando a cambiar, a gritarse.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6269
+}

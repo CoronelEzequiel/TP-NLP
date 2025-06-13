@@ -1,0 +1,36 @@
+{
+  "texto_id": "union_por_la_patria",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cada vez que aparece Cristina, es una revulsiva. Digo, mueve las cosas, genera polémica entre propios y extraños.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que ella tiene que presidir el PJ, en ese momento les dije a las chicas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que todas las fuerzas políticas que entienden el rol del Estado en materia de educación, en materia de salud, en materia de desarrollo económico social, en materia de igualdad de oportunidades… entonces esta gente que salió en la marcha que ustedes estuvieron acompañando mucho, ¿verdad?, es una expresión de deseo muy fuerte.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tema es cómo destinás la plata, ¿qué hacés con la plata? Si tomás como preferencia el sistema financiero, obviamente no hay plata que te aguante.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hace falta, la herramienta del PJ, fue a partir de ahí, otras fuerzas políticas que piensen como nosotros, porque así lo hicimos ya en el Senado, por ejemplo, con el tema de inteligencia, que más de dos tercios le dijimos que no al presidente, ¿verdad?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3925
+}

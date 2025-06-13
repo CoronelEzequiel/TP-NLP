@@ -1,0 +1,51 @@
+{
+  "texto_id": "nombre_del_texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.762,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Recuerden que el juez que lo condenó es el mismo juez que le quiere perdonar la vida al presidente Alberto Fernández y a la primera dama, Fabiola Yáñez.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández usó dinero público para comprarle mamaderas a Francisco, su hijo, todo con la nuestra, todo con la nuestra, hasta las mamaderas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 0,12% de los censados no se reconoce hombre ni mujer, pero el gobierno zurdo que tenemos destina miles de millones a imponer la ideología de género, rotundo fracaso de su estrategia",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, Alberto Fernández habló de un país que no existe, habló de educación, de salud, de prioridades para los trabajadores, 'Mamadera', ese país, Alberto Fernández, no existe.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Beatriz Sarlo calificó de peligroso a Miley y el economista le respondió, despotrica contra la libertad, ¿sabes qué es peligroso, Sarlo? Abortaste tres veces y lo contás por televisión como si te comieras un paquete de galletitas, y eso te parece genial, te parece genial matar bebés, vos tenés humanidad cero, mírate.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un gobierno que gobierna para el 0,12 de la población, que se caga en nosotros y en nuestros muertos, es un gobierno que hace todo mal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alguien más valiente, generoso, bondadoso, amoroso, empático, todo lo opuesto al presidente Alberto Fernández.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La nueva iglesia, como digo, que son los periodistas y toda la mafia que les pagan por hacer lo que hacen.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8900
+}

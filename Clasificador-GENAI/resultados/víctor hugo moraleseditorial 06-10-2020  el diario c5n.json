@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.29,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si no fuera por la inmensa pena que provoca el voto argentino contra Venezuela, combinándose con indeseables seguidores de Trump en nuestra América Latina, el día hubiera sido completo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Telefé, el canal de la empresa norteamericana Viacom, siempre tiene algo muy malo, muy negativo, cada día contra el gobierno de la Argentina y de los grandes operadores. Pasa un poco inadvertido en la observación general porque todos vemos mucho más la maldad intrínseca de TN, de Canal 13 y de todos los medios del grupo Clarín, pero Telefé tampoco es amigo del pueblo, en la medida en que ir contra la democracia de la forma abierta que lo hacen habitualmente es algo muy pesado de sobrellevar.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una gran mentira es que Macri gobernaba para los ricos. Aumentó el gasto de seguridad social de manera exponencial con muchos más planes e hicimos política social.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El pensamiento cristiano no es contrario, por principio, a la perspectiva del profito. Piuttosto, es contrario al profito a cualunque costo, al profito que dimentica al uomo, lo rende esclavo, lo reduce a cosa, a cosas, a variabilidad de un proceso que no puede en algún modo controlar o al cual no puede en algún modo oporse.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estar alineado con un país que mintió para asesinar a 700.000 personas en Irak, como los Estados Unidos, a mí me da mucha pena, por más vueltas que se le dé, el voto de la Argentina es una pena.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6519
+}

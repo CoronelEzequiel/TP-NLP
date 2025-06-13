@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Por fin sonó un tiro a favor de la justicia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La búsqueda de la verdad es el motor que mueve a los medios de comunicación y para que eso pueda realizarse, los cronistas no estamos obligados a revelar quiénes son nuestras fuentes.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta causa, además, era un verdadero despropósito, donde los delincuentes acusaron al periodista honrado y valiente que reveló el sistema de corrupción más grande de la historia democrática argentina, conocido como los cuadernos de las Coimas K.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay antecedentes en la historia democrática donde una asociación ilícita, liderada primero por Néstor y luego por Cristina, haya saqueado el estado con tanta impunidad para enriquecerse en forma ilegal y colosal.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son los cuadernos que deberían hacer confesar y pedir perdón a los kirchneristas que pagaron y cobraron coimas monumentales con dinero que le robaron al pueblo pobre de la patria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La causa de los cuadernos de la corrupción de Cristina actualmente está absolutamente probada por las confesiones ante los expedientes, no en una charla de café, sino ante los expedientes y la justicia, de 31 imputados colaboradores, con testimonios y pruebas documentales que fueron ratificados por la Cámara Federal, que confirmó su validez jurídica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, ¿qué más hace falta para que nadie dude de que Cristina no es inocente ni decente?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todos los caminos de la corrupción conducen a Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, la libertad de prensa es el principal insumo de la democracia y por eso, jamás, jamás hay que bajar la guardia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2375
+}

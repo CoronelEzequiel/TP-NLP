@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.029,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este hecho representa la creencia de algunos sectores acomodados en que existen lugares para ellos y lugares para los más pobres.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos episodios no son ataques personales; revelan un problema de discriminación hacia las personas de bajos recursos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno, formado por y para los ricos —su plan de gobierno se gestó en un hotel durante meses, con la participación diaria de empresarios que asesoraban a [Nombre del político, si se sabe]— implementó decretos de necesidad y urgencia y leyes redactadas por grandes empresarios, generando una significativa transferencia de recursos públicos hacia la élite, empobreciendo a la población.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Abandonó a los jubilados, reduciendo sus medicamentos e ingresos, y reprimiéndole durante sus protestas.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un gobierno que beneficia, empodera y legitima la violencia de los ricos, ya sea verbal, simbólica o física, a través de fuerzas de seguridad como la policía, la prefectura y la gendarmería [de Vidal, si se mantiene la referencia], que agreden a los pobres en las calles.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, los ricos gozan de impunidad, amparados por el gobierno, grandes empresarios y sectores de la CGT (actualmente dividida, con una mayoría que defiende los intereses de los ricos).",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los pobres carecen de una representación política sólida, con solo algunos sindicalistas y un movimiento nacional y popular fragmentado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los ricos se apoderan del país, humillando y agrediendo a los trabajadores, demostrando que la lucha de clases persiste, pese a los intentos de negarla.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La violencia y la desigualdad son las armas que usan para imponer su dominio.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1782
+}

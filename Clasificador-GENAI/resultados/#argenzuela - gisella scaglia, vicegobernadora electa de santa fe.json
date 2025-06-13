@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_gisela_scaglia",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que la mirada nacional de algunas discusiones sobre lo ocurrido ayer nos aleja de lo que queremos construir desde las provincias, de lo que imaginamos como un gran espacio de diálogo para la Argentina, sea quien sea el presidente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que Juntos por el Cambio tendrá nuevos liderazgos, más vinculados a las provincias, con nuevas perspectivas y un trabajo más consolidado desde el interior, basado en el diálogo.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Trabajaré para reconstruirlo en mi provincia y honrar lo que hemos logrado.",
+      "score": 0.2,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Defenderemos los intereses de la provincia, sea quien sea el presidente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cualquier recorte a la coparticipación tendrá nuestra oposición.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos que el próximo presidente nos escuche.  Por lo tanto, desde mi lugar, buscaré el diálogo con quien sea presidente, y Maxi hará lo propio.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2241
+}

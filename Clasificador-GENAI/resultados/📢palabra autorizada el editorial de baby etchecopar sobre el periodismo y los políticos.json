@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pero creo que hay un armado general para denostar al periodismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy hablamos con mi amigo Nelson Castro en \"El Pase\" sobre que, cuando desaparezca el periodismo, empieza el autoritarismo directamente; aparece el fascismo directamente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, entonces digo seriamente esto: no puede existir una democracia sin el periodismo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta el periodismo más falaz es necesario, hasta el periodismo más mentiroso es necesario, hasta el más \"ensobrado\" es necesario, porque siempre van a decir algo que provoque el disenso y la crítica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque creo que en esta pulsada con la política que nos odia (porque no hay nada que odie más a los políticos que a los periodistas), preferirían que cuidáramos más de ellos que de la oposición.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es más, de hecho, si Milei gobierna hoy es porque nosotros estuvimos ayer, porque si no seguiría Cristina \"forever\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso quería hablar de esto hoy. No nos escucha nadie, pero cuiden al periodismo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el político habla solo, ejerce algo como lo que se está viviendo ahora, que es un encantamiento, es una hipnosis.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces no, no, no, no... ¿Cuánto pagaste el churrasco? Dos millones de pesos, pero \"pelabanco\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3114
+}

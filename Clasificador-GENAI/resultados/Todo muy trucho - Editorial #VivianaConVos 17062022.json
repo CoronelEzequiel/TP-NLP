@@ -1,0 +1,111 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.695,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos un gobierno berreta. De mala calidad, mal terminado, una copia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos tipos no tienen ningún tipo de problema con la suba del dólar. Ser la casta tiene sus privilegios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras, siete de cada diez niños son pobres. Más de 50% de pobreza. Pero Mario Ishi se relaja en una cadena de hoteles en La Florida.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ishi confesó en ese video que vimos todos durante la cuarentena pandemia que permitía a la gente repartir falopa en las ambulancias.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En un país normal, un intendente, un político que dice eso, que está registrado y grabado, se va a la justicia o tuvo que renunciar a su cargo. Pero en Argentina, es un país normal. Acá no pasó nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez en Argentina hay más lugares con venta de falopa y todos lo saben, pero nadie dice nada. La policía lo sabe, la justicia lo sabe, la política lo sabe.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente los políticos tampoco quieren terminar con la falopa porque ahí también hay un gran negocio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ishi que llamó a la gente, al pueblo, a levantarse contra los medios.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los pueden ver de distintas formas, como se lo plantea en algunos medios. Y de aquí sí, pidan por favor a los medios, tengan piedad del pueblo.",
+      "score": 0.5,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El juez federal Daniel Rafecas archivó la causa relacionada con la construcción del gasoducto Néstor Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La impunidad del palo. Porque el poder, señores, acá lo tiene Cristina y está quedando muy claro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una vez más, el gobierno nos mintió.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros los argentinos nos estamos transformando en una mala copia, en una copia trucha de Venezuela, de Cuba, de Nicaragua.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Agustín Rossi nominado al rubro excusa más estúpida en televisión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al final, Nisman tenía razón.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina nunca se resuelven los problemas. Todo queda en el olvido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un avión terrorista. Esperando a ver qué dice la justicia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos desabastecimiento de combustible en 21 provincias. El gasoil hoy aumentó 12%.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desarmaron a Baradel, pasan los presidentes, sigue Baradel ya en su cuarto mandato, impresentable, todo muy trucho.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que sea la educación, porque la mayoría de los gobernantes, o por lo menos este gobierno, no va a hacer nada para que eso cambie, todo muy trucho.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8548
+}

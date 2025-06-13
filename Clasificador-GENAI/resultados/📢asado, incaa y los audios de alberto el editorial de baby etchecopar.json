@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.827,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Precisamente lo que el kirchnerismo nunca tuvo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mucha culpa tiene el kirchnerismo, [inserte nombre], pero mucha culpa también tienen el celular, la computadora, el no ir a la biblioteca a buscar un libro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, los incultos del kirchnerismo creen que ser actor es ser culto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando escuché cantar aquello que... no sos culto, sos un grasa, bandido.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, el kirchnerismo puede hablar de cualquier cosa, menos de honestidad y de cultura, hasta ahora.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, no rompan los huevos más con que este gobierno odia la cultura.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso no es cultura. Eso es una mierda.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, si están fuera del sistema, igual que [inserte nombre], que vengan a decir mañana [nombre del artista], que no puede trabajar con este gobierno, como cuando todo lo que cantó era una mierda.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vayan a hacer shows, pero no subvencionados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por otro lado tenemos a [nombre del artista] y [nombre del artista] que se quejan porque no hacen una novela.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Con esta gente podemos armar un país?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3047
+}

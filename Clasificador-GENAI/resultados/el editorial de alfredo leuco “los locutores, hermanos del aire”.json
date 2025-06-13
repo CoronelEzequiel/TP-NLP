@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.614,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy es el Día del Locutor, por supuesto, y quiero repetir mi homenaje de todos los años, ¿no?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La voz de un locutor debe ser clara, precisa y segura; con eso alcanza, según el manual, para ser lo que se dice un buen locutor, un buen profesional.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son voces amigas que se alegran y entristecen junto a todos nosotros.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy trato de imitarlos cuando les digo que estoy seguro, seguro, de que todos los días hay una buena noticia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Conviví y aprendí durante 15 años con el más grande, un tal Fernando Bravo, que siempre está llegando de San Pedro y que hace 45 años que juega en primera creando los climas más emotivos que conozco.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por un lado, a ese Negro inmenso llamado Hugo Guerrero Marthineitz, al que acabamos de escuchar, que está en el cielo y al que le voy a agradecer toda la vida que me haya arrancado del periodismo gráfico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me enteré que un día le hice una entrevista a Martín Etchevers en su querida provincia de Santa Fe, y después el Negro le dijo que se subiera a su Ford Falcon y lo llevó directito a la victoria de vivir haciendo radio, lo que más amaba y lo que más ama.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2862
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Defendía el veto en el sentido de justificar el aumento que ya han obtenido los jubilados, según la apreciación del presidente. Y también advirtió que en este momento, las jubilaciones \"vuelan\", es el verbo que utilizó el presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una vieja campaña electoral de la década del 90, estamos hablando de Carlos Menem, aparecía el expresidente diciendo: \"Para los pobres que tienen hambre, para los ricos que tienen tristeza\". A esta frase parece haberse subido el diputado Bertie Benegas Lynch, el hijo de lo que es uno de los próceres para el presidente Javier Milei, porque dijo que el gobierno a los ricos los está masacrando.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué va a hacer la CGT? ¿Cómo se para frente al gobierno? Bueno, por lo pronto se paró en contra del veto del presidente, mientras define y sigue negociando con el gobierno todo lo que tiene que ver con los artículos de la reforma laboral.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre estuve a favor del Estado. Ya cuando el Estado se transforma en una fotocopiadora, una casa Xerox de hacer billetes, bueno, algo tiene que cambiar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5394
+}

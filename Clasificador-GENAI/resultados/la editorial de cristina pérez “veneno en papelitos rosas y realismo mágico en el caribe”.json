@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La grave situación de inseguridad en Argentina se agrava con la irresponsabilidad de las autoridades.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La masacre provocada por la cocaína adulterada evidencia la impunidad de los narcotraficantes.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La falta de respuestas genera frustración e impotencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras tanto, el presidente argentino, Alberto Fernández,  realizaba una gira por China y Barbados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su visita a China, un país donde se violan los derechos humanos, generó cuestionamientos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El congresista estadounidense Matt Gaetz advirtió sobre la creciente influencia china en Argentina, especialmente en áreas como la tecnología espacial y la energía nuclear,  considerándolo una amenaza a la seguridad de Estados Unidos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1364
+}

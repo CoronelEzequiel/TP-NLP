@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.673,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Quiero analizar con ustedes por qué suceden estas muertes, hostigamientos policiales, persecuciones y violencia institucional sin precedentes desde la dictadura.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay muertes a manos de la policía por violar la cuarentena, detenciones arbitrarias y hostigamientos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un nuevo informe de Rubén Manzi, diputado nacional de Catamarca, titulado \"Violencia Institucional en el Noroeste Argentino durante la cuarentena\", detalla nueve casos de hostigamiento y persecución policial, 18 de represión, 12 de lesiones por tortura y tres muertes, sumando 42 casos solo en el NOA.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La policía la detuvo, la esposó; una actitud desproporcionada.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es inaceptable que el secretario de Derechos Humanos, [inserta nombre y apellido], se ocupe de la liberación de Jaime Boudou y se ignore esta situación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La policía se ha convertido en una policía de la salud, algo inédito a nivel mundial.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto es consecuencia de las medidas gubernamentales, aunque no con esa intención.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La marcha del 17 de agosto fue masiva por esta opresión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta frustración se agrava por la doble vara y la falta de alzamiento de voces contra los abusos, incluso por parte de funcionarios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Dónde está la inclusión si se atacan a las minorías y a los más vulnerables?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un joven preso por correr solo... ¡Esto tiene que parar!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2291
+}

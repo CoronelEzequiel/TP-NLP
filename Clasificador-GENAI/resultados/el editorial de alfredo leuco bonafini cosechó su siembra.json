@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.839,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La profanación de la lucha por los derechos humanos y su utilización oportunista por parte de Néstor y Cristina le puso la camiseta del fanatismo a quien había empezado con una valiente lucha por la aparición con vida de los desaparecidos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una propuesta violenta y autoritaria que atenta contra el Estado de Derecho y la democracia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ni Bonafini, ni Cristina, ni sus referentes chavistas y castristas respetan la división de poderes.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En Cuba y en Venezuela los tiranos son los dueños de la libertad y de la justicia, pero Bonafini y Cristina deberían saber que en la Argentina, por lo menos por ahora, vivimos en una república donde la justicia es un pilar independiente que hay que respetar religiosamente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Bonafini propuso esto, a su lado aplaudía, como una foca, Tristán Bauer, el ministro de propaganda y venganza.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su propuesta completa fue que no podían permitir que Cristina vaya presa o que sea condenada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El enemigo viene con todo y viene de la mano de los yanquis y por eso es peligroso porque los yanquis roban y matan en todos lados y los jueces son una manga de ladrones. La Corte Suprema es una basura, un tarro de mierda.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Comparó en su momento a Mauricio Macri con Adolf Hitler.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Bonafini cosechó su siembra. El amor del cristianismo chavista y el desprecio de los que defienden la democracia y la república.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2508
+}

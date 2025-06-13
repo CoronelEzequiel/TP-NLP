@@ -1,0 +1,31 @@
+{
+  "texto_id": "El_Destape_Radio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En Clarín y La Nación lo presentaban como especialista en narcotráfico; él mismo se vendía como asesor de la DEA y vinculado a la embajada de Estados Unidos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué había en la causa y qué pirueta hicieron los jueces Leopoldo Bruglia (puesto a dedo por Macri), Pablo Bertuzzi (puesto a dedo por Macri) y Mariano Llorens (designado por Macri por concurso, pero con vínculos con Macri en la Quinta de Olivos y arquero del equipo de fútbol del club Olivos)?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Stornelli, nuevamente protegido por los tres camaristas que Macri puso en Comodoro Py.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos documentos tenían que ver con la causa GNL, iniciada en 2014 por el entonces senador Federico Pinedo, quien denunciaba sobreprecios en los barcos de GNL que abastecían a Argentina.",
+      "score": 0.25,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2281
+}

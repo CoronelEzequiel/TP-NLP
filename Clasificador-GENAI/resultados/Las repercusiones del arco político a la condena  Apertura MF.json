@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Escuchamos \"Justicia\" de Ataque 77, un tema de 1992 que pone en duda la veracidad de la justicia y, sobre todo, la independencia del poder frente al resto de los poderes, en particular, el poder económico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si querés tener un buen ejemplo de la grieta, tenés que poner el fallo en el medio de la mesa y vas a ver cómo se dividen las aguas. Los que están de un lado de la grieta te dirán \"fallo ejemplar\" y del otro lado, \"es un mamarracho jurídico\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"No está de ninguna manera proscripta, dejen de mentir. Están tratando de generar una épica a un hecho que tiene que ver con delincuencia, no con proscripción. Entonces, están tratando de cambiar las cosas. Acá hay un delito que la justicia ha dicho que hay una organización que ha sido juzgada por robar y lo que quieren decir es que hay proscripciones. Nada que ver.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"alrededor de la figura de estos delitos, para nosotros es jefa de una asociación ilícita, y esperemos que Casación pueda revertir esto y que el fiscal en la apelación, en estos días hábiles, pueda dar fundamentos suficientes. Acá se comprobó que el plan criminal fue permanente, sistemático y sistémico, que hubo una organización criminal que fue llevada adelante por el expresidente Néstor Kirchner y la vicepresidenta actual, Cristina Fernández de Kirchner, que se exportó esa estructura desde la provincia de Santa Cruz, que se crea el Ministerio de Planificación Federal en manos de Julio De Vido y luego de **Roberto Baratta**, a quien se le designa la cartera de su secretario de Obras Públicas para ser él el responsable directo de la obra pública.\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente ya ha dicho en más de una oportunidad que entiende que esta causa no tiene ni pies ni cabeza, creo que ha dicho textualmente, o que la vicepresidenta ha sido traída de alguna manera para ser metida en esta causa en la cual no tiene ningún tipo de relación, y eso está claramente expuesto hoy en los fundamentos de la causa, donde en varias oportunidades queda claro que no hay ninguna prueba para que esté allí la vicepresidenta, sino que, ante la duda, dice el tribunal en algún momento, o se supone que no hay ninguna prueba concreta de nada de lo que allí se sostiene.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3530
+}

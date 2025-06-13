@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_sajem",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.157,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy se debate mucho sobre el precio de los medicamentos, que se está volviendo prohibitivo para gran parte de los argentinos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En todos los países del mundo, incluso los más liberales, los que tienen políticas económicas más liberales, se regula el precio de los medicamentos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que se vio es que, desde noviembre del año pasado hasta ahora, los medicamentos han aumentado entre un 60% y un 100% por encima de la inflación, que ya de por sí fue alta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No puede ser que la gente no esté comprando medicamentos porque no puede pagarlos, que el PAMI no pueda pagarlos porque primero permitió que aumentaran los precios y ahora se da cuenta de que no puede pagarlos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Regular el precio de los medicamentos por distintos mecanismos, no hace falta que sea un congelamiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno liberó los precios de los medicamentos y, ¡sorpresa!, aumentaron.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, pero siempre está de alguna manera metido el Estado, cosa que evidentemente aquí el gobierno no quiere hacer.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2544
+}

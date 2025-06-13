@@ -1,0 +1,56 @@
+{
+  "texto_id": "Braden_y_Peron",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.344,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En 1946, el entonces candidato presidencial Juan Domingo Perón encontró lo que podría ser el eslogan triunfador de su campaña. Dirigiendo un discurso el 24 de febrero, dijo: \"Sepan quienes votan por la fórmula del contubernio oligárquico-comunista, que con este acto entregan sencillamente su voto al señor Braden. La disyuntiva en esta trascendental situación es esta: o se vota por Braden o se vota por Perón\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"América para los americanos\", oponiéndose a cualquier intervención de los estados europeos en territorio americano en la época del colonialismo.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sugerencia: y no puedo decir que Argentina debe hacer lo que yo digo, pero lo que me encantaría ver, como individuos, como alguien que ama la Argentina, que ve un potencial aquí, es que deben unirse y no esperar los 16 meses hasta las elecciones\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la única manera de poder avanzar en serio con la inserción internacional sostenida en el tiempo como política de Estado, es construyendo un consenso más amplio que nos permita, que nos apoye para avanzar en las transformaciones profundas que la Argentina necesita y que, además, las apoye sostenido en el tiempo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Te llamo para preguntarte si vas a contar quién es de la oposición te llamó, porque de cara a la interna, me conviene seguir parado en el lugar de los duros y que no se sepa la verdad.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No tenemos que tener ni miedo ni vergüenza de sentarnos a una mesa a buscar acuerdos, por más que seamos parte de fuerzas políticas distintas, por más que aparezcan aquellos que viven de la Argentina dividida, señalando con el dedo, porque, en definitiva, lo que está en juego es el futuro de la Argentina.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "ALCA, ALCA al carajo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que convencer a los gobernantes de Canadá y de Estados Unidos, debe de cambiar la política, se ha impuesto de predominio, de hegemonía, de querer intervenir en los asuntos internos de otras naciones. Debe de cambiar ya esa política obsoleta, los intervencionismos, los golpes de Estado, el que se respete la soberanía de los países.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos dos países bloqueados y eso es imperdonable",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4024
+}

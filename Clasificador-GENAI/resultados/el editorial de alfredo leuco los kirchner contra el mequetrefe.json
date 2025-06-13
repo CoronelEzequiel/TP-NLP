@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.794,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Fue brutal porque le dijo \"mequetrefe\" a su presidente, al que él ya votó y al que Cristina Fernández de Kirchner bendijo por Twitter.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie le hizo tanto daño a Alberto como los Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le hicieron de todo a Alberto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El infantilismo revolucionario de Máximo dejó a Alberto con los pantalones bajos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sintetizando el drama de Alberto, el inútil e irresponsable se rindió ante la coalición opositora.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese esmerilado permanente al que someten a Alberto es como serruchar el piso sobre el que está parado el gobierno.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández está en su momento de mayor debilidad y la coalición está tan quebrada como su relación con Cristina, aunque tal vez por ahora nada sea definitivo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los cristinistas de paladar negro tienen una fórmula: Felleti al gobierno y Amado Boudou al poder.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Faltan dos años de un gobierno que carece de fortaleza y que está asediado hasta el suicidio por los propios líderes del oficialismo cristinista.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2351
+}

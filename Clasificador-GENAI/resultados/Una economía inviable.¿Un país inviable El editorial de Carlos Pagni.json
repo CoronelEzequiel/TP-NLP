@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay un problema de fondo en el corazón del peronismo, en el corazón del gobierno, respecto a cuál es la raíz del problema.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno, para taponar la salida de dólares con más cepo, impidiendo importaciones, impidiendo darle dólares a los que importan bienes, lo que hace es dejar más pesos disponibles. Eso va a ir al dólar, es más inflación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si esto lo hubiera hecho Macri, estaríamos haciendo manifestaciones frente al Banco Central. Es decir, hay un salvataje a las instituciones financieras.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este contexto, hay una palabra que se repite hasta el infinito en este informe, es la palabra \"esfuerzo\". Es decir, con todo cariño, la gente del fondo dice: \"No es que el programa está fracasando, pero van a tener que hacer un esfuerzo, un esfuerzo\", en cada rubro la palabra que aparece es \"esfuerzo\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si la política no le da solución a este problema, en un plazo relativamente breve, lo que va a ser inviable no es la economía, sino el país.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8314
+}

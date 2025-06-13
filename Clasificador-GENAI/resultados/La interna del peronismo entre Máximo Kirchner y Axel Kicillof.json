@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.514,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Siempre tironear la herencia del peronismo atraviesa otra vez su momento culmine, disputado por su heredero natural y su descendiente político, de Cristina Fernández de Kirchner.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según el escritor y periodista Jorge Asís, más conocido como \"El Turco\", la edad del poder son alrededor de los 50 años; en esa etapa de la vida es donde hay una combinación de vitalidad y experiencia que resulta necesaria para el ejercicio del poder ejecutivo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Axel Kicillof diciendo: “Va a haber que componer una nueva y no una que sepamos todos. Tampoco vamos a entusiasmar demasiado solo con un discurso y con una propuesta nostálgica.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Frente a este veto le contestó de la siguiente manera, casi podríamos decir apoyando el veto del presidente Milei. El 20 de septiembre, Máximo Kirchner dice: “El veto es una facultad constitucional, hay que dejarse de patalear.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El dirigente del Frente Patria Grande estuvo en el encuentro de Roma en el que el sumo pontífice convocó a diferentes movimientos populares de todo el mundo, no solo de la Argentina y no solo de Juan Grabois, y en ese encuentro el papa criticó al gobierno libertario, al que acusó de gastar dinero en gas pimienta y no en justicia social y respaldó el programa de Juan Grabois de tierra, techo y trabajo, que, en definitiva, son sus propias consignas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quien salió a responderle agresivamente contra el papa Francisco y su encuentro fue el diputado liberal José Luis Espert, quien dijo: “El papa es un ignorante supino, escúchamelo. Yo creo que el papa es un ignorante en materia de lo que pasa en Argentina, y creo que es un ignorante supino, porque podría informarse y estudiar un poco, porque ha dicho una cantidad de estupideces inimaginables en los últimos días.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei y Grabois debaten sobre el tema del hambre: “Muchas cosas que llevan al ser humano a hacer cosas contra su libre voluntad. Entonces, ¿por qué las está diciendo? Porque va a ir en contra de sus propias preferencias. ¿Quién soy yo para determinar que no es lo suficientemente capaz para saber qué es lo que quiere? Que no es un problema de capacidad. Si vos tenés que elegir entre no comer y ser explotado durante 18 horas o 14 horas o 10 horas, yo elegiría ser explotado, pero esa no es mi voluntad”.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5986
+}

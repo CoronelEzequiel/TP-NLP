@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.114,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Decía que uno podría creer que ya hemos llegado al máximo de… de… de [nombre de partido político 1], al máximo de [nombre de partido político 2], al máximo de [nombre de partido político 3], al máximo de manipulación mediática por parte del Presidente de la Nación, pero no, no deja de sorprender.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros no olvidamos el apoyo de Estados Unidos al Reino Unido durante la Guerra de Malvinas, pero a él parece importarle poco la soberanía y nuestra historia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se suma al lavadísimo discurso del 2 de abril, que intenta reivindicar la dictadura militar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que debemos esperar esto y mucho más de [nombre del presidente].",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soy de los que creen que la gente no se equivoca, sino los dirigentes, y seguramente, producto de nuestros errores, hemos generado este personaje que le está haciendo un enorme daño al país y que costará mucho recomponer.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante esta situación, lo que cabe es prepararnos, generar condiciones para volver a enamorar a la sociedad con nuestras propuestas desde los movimientos nacionales y populares para que vuelvan a confiar en nosotros.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De lo contrario, cada día que pasa nos hundimos más en la miseria, con despidos como moneda corriente, una terrible persecución a quienes no piensan como el gobierno y medios de comunicación concentrados que lo van a apoyar hasta que les sea útil, al igual que el poder económico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1936
+}

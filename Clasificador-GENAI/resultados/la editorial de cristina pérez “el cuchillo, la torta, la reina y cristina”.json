@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.681,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando no se tiene un objetivo claro, se está en todas partes y a la vez en ninguna.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La inflación es la principal preocupación de los argentinos, seguida por la corrupción y la inseguridad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El imperialismo de esas autocracias no se cuestiona; al contrario, se le rinde pleitesía.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner actúa como convencido portador de un mandato dinástico y, a veces, solo es un actor estrafalario de movimientos ruidosos que confunde la confrontación con la política.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En los últimos coletazos de la crisis por la cocaína envenenada, de la que aún no sabemos prácticamente nada más que su letalidad, Sergio Berni acusó a Aníbal Fernández de inacción en la lucha contra el narcotráfico.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los problemas judiciales, que son su principal preocupación, no le permiten disfrutar de la rebeldía geopolítica para consumo del núcleo duro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una síntesis perfecta del poder, el cuchillo y la torta.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esas dos cosas que también le gusta manejar a Cristina Fernández de Kirchner, quien, sin embargo, suele olvidar que no estamos, aunque ella quisiera, en una monarquía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1769
+}

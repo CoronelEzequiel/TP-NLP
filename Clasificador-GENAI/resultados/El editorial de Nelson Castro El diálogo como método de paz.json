@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.471,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina necesita imperiosamente comenzar un período de pacificación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El diálogo político significa dialogar con los que piensan diferente, con los que se oponen, claramente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Perón pasó de \"un peronista no hay nada mejor que otro peronista\", a \"de un argentino no hay nada mejor que otro argentino\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina es la historia de un fracaso; nació dividida.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente debe relanzar un proceso de pacificación que significa dialogar con todos, menos con los violentos, claro, pero después con todos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y, por supuesto, también el kirchnerismo debe dejar de apoyar expresiones de violencia que conducen a la destrucción de la República.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una de ellas decía: \"La democracia es darle, cuando menos por una vez, la razón al otro\".",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1614
+}

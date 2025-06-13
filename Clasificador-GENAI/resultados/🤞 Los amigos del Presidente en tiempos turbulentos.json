@@ -1,0 +1,36 @@
+{
+  "texto_id": "dia_del_amigo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos canciones del Día del Amigo, pero fundamentalmente elegimos a un súper amigo, el amigo de todos, el presidente Alberto Fernández, y seleccionamos una serie de audios en los que él va diciendo \"amigo\" a distintas personas, en los que, por momentos, queda como algo excesivo.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "el que van a escuchar claramente no puede ser su amigo, porque podría ser el mayor adversario que tiene el kirchnerismo: el gobernador de Córdoba, Juan Schiaretti, que es el hueso duro de roer.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "en este caso, la palabra \"amigo\" para Schiaretti, por parte del presidente Fernández, resulta realmente paradójica, y no sé pensar qué quiere decir \"amigo\", ¿no?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nada va a quebrar mi amistad con ella.* (Diciembre de 2020)",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "si hablo con Cristina, los diarios dicen: \"Es un títere de Cristina, le obedece a Cristina, hace lo que Cristina manda\", y si no hablo con Cristina, hay una crisis institucional, están peleados, esto, así no funciona, yo no sé qué quieren,",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2848
+}

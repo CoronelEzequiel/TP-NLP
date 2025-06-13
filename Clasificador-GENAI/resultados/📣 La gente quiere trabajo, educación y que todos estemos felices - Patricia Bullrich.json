@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_de_analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Se analizan las declaraciones de Patricia Bullrich y Ricardo López Murphy, a quienes se califica como \"halcones\" del PRO, con posturas firmes sobre el orden y la represión del delito.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego, se incluyen declaraciones de Cristina Fernández de Kirchner, con una perspectiva opuesta, criticando a sus opositores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se presentan fragmentos de audio de figuras políticas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se mencionan dos perspectivas filosóficas clave: la de Thomas Hobbes, quien creía en la naturaleza egoísta del ser humano y la necesidad de un poder soberano para mantener el orden, y la de Immanuel Kant, que enfatizaba la importancia de la moral y la educación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se analizan las posturas de Horacio Rodríguez Larreta, quien aboga por la paz social y la no violencia.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    }
+  ],
+  "tokens_procesados": 969
+}

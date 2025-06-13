@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El problema es que el gobierno reconoce la imposibilidad de contrarrestar la difusión del mensaje: \"Mi ley, criptoestafa\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, dicen que no les importan los medios ni la política; creen que cuanto más hable la política, más se beneficia el mensaje, alimentando debates sobre un posible juicio político y permitiendo al gobierno victimizarse.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, la estrategia es intentar instalar la imagen de honestidad del presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ambos escenarios son negativos para el gobierno, y hoy se ha elegido uno de ellos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Existe una coordinación entre Sony y el gobierno, similar a la que existe entre Karina Milei y el gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1406
+}

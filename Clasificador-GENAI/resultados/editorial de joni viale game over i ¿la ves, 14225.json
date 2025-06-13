@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.678,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que resulta asombroso para mí es esto, la falta de reacción del kirchnerismo en lo que fue la peor semana para ellos post ficha limpia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, lo que no se dieron cuenta es que el presidente de bloque kirchnerista antiputados, Germán Martínez, el otro día hizo una tremenda confesión de corrupción en vivo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Justamente, la ficha limpia es para que los lavadores de dinero, como Máximo Kirchner, compañía de suyo; los contrabandistas como Ricardo Echegaray; los ladrones como Milagro Sala y los que tienen offshore como Lázaro Báez, no puedan ser candidatos nunca más.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina es Perón.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina no es Perón. Cristina no está proscripta. Cristina está condenada en primera y segunda instancia por haberse robado 2.000 millones de dólares de la obra pública, muchachos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No es proscripción, muchachos. No lo comparen con Perón a Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El dólar se va a la mierda, el dólar está barato. Van por eso.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No quieren entender que la sociedad explicó el boleto fuerte, en serio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una clara maniobra de persecución política.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4415
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_telerman",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay una tradición que me sigue emocionando y de la que me siento cerca: esa tradición del peronismo en su opción por políticas que garanticen una sociedad equitativa, por estar presente frente a quienes lo necesitan, por una idea muy productiva.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De esa idea me siento cerca, por eso estoy contento cuando veo a quien me parece la persona indicada, ideal para este momento, para conducir el país próximamente: Horacio Rodríguez Larreta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esas reformas necesitan una base electoral importante, un consenso y un gran acompañamiento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No estoy de acuerdo con lo que dice Patricia, pero esa es su estrategia. Lo que digo es que tenemos que ser capaces de ir más allá de una estrategia electoral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "esas irrupciones de \"la Libertad Avanza\" que en realidad, los acompañamientos me dan la sensación —no sé qué opinan ustedes— de que es más bien un \"rompamos todo\", más allá de un acuerdo filosófico e ideológico con lo que se dice, que nadie sabe bien más allá de los disparates que se han dicho, ya sea acerca de la venta de órganos…",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3176
+}

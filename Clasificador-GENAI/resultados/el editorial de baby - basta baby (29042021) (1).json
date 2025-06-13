@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.88,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Pobres los que viajan en tranvía.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Policía Federal cumple 200 años; les mandamos un beso grande.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno está tan desorganizado que no se puede tomar en serio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de que murieron muchísimas personas por falta de vacunas, y encima… ¡se las robaron!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hace 20 años que vivimos los caprichos de Cristina Fernández de Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que no es gracioso es que nos llevaron al país a este derrumbe del que nadie nos va a poder sacar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¡Ya basta de Alberto!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos da repugnancia ver la parodia y odio la demagogia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¡Nos mentiste tanto que nos agotaste vos y Cristina!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando llegaron las vacunas, se las repartieron entre los \"culitos lindos\" y los \"pies flaquitos\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos robaron las vacunas, y ustedes son responsables de por vida de las muertes por falta de vacunas.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Argentina se parece cada vez más a la Guerra de Malvinas: se robaron el fondo patriótico, no había trajes, ni misiles… mandaron a la masacre a nuestros soldados.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se robaron la vacuna.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero de arranque se las afanaron.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Vinieron vacunas mejores… pero como chorros.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2483
+}

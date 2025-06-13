@@ -1,0 +1,61 @@
+{
+  "texto_id": "no_se_puede_ser_liberal_en_cuotas",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se puede estar a favor de la política económica del gobierno y en contra de una agenda de odio tan lejana al liberalismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El liberalismo es un conjunto de ideas políticas y económicas que parten del principio de que las personas deben estar lo más libres de restricciones que sea posible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta exposición casi infantil sirve para apreciar que el gobierno está bastante lejos de estas políticas liberales desde su inicio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay periodistas que no solamente fueron insultados por sus opiniones, sino que hay periodistas como Marcelo Longobardi que perdieron su trabajo por presiones del gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"La ideología de género al extremo conduce al abuso y son pedófilos. La ideología de género llevada al extremo conduce, o sea, digamos, conduce al abuso. Por ende son pedófilos. Por ende son pedófilos. O sea, lo de la ideología de género son pedófilos\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuánta ignorancia y, probablemente, a propósito, qué máquina de fabricar *fake news*. ",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En su batalla cultural, el presidente miente directamente, da por ciertas versiones de *fake news* como si fueran versiones autorizadas y, sin ningún tipo de pudor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se decía que se podía apoyar al autodenominado \"Proceso de Reorganización Nacional\" porque era liberal en lo económico, aunque era una dictadura en lo político.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"O sea que el ajuste no es algo disociado de ese discurso de odio. Si vos considerás que está mal que la ultraderecha diga que los gays son violadores, no podés bancar que el gobierno, a la vez, esté pensando en cerrar, en cuestión de días o semanas, el hospital donde se atienden los gays que no tienen plata o los trans que no tienen plata\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay muchas personas que, de buena fe, creen que hace falta un poco de autoridad y un poco de autoritarismo en el gobierno, porque, si no, \"los peronistas se lo llevan puesto\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6228
+}

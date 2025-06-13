@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.471,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La indignación ciudadana se ha desatado contra los políticos corruptos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gente, cansada de las mentiras y el abuso de poder, expresa su repudio a través de llamadas telefónicas a este programa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se les acusa de enriquecerse ilícitamente, de manipular información y de utilizar su posición para beneficio personal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las redes sociales amplifican este descontento, mostrando la pérdida de credibilidad de los políticos ante la opinión pública.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La transparencia y la rendición de cuentas se exigen como pilares de una nueva era política.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El descontento ciudadano es palpable y se manifiesta con contundencia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente reclama justicia y un cambio profundo en la forma en que se ejerce el poder.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 951
+}

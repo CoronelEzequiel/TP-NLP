@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.217,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El dólar blue, el dólar paralelo, superó la barrera psicológica de los mil pesos esta semana y la consecuencia será una nueva disparada de los precios que se sumará ya al escalofriante número que informó hoy el INDEC: una inflación del 12,7% en septiembre respecto de agosto y del 138,3% interanual.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por otro lado, Javier Milei está mostrando su verdadero plan y así lo ha abierto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese es el plan inmediato de Milei, cuya consecuencia, obviamente, será una violenta transferencia de ingresos de la mayoría de los trabajadores hacia el capital, una transferencia que ya tiene lugar, pero que él quiere acelerar lo más posible.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La apuesta de todo este panorama, en algunos casos más velada, en otros más abierta, es que la crisis en general y la inflación, o la hiperinflación si llegase a desatarse, actúe como un factor disciplinador de la sociedad en general y de las clases trabajadoras en particular, para ir hacia una reorganización económica que viene reclamando el gran capital desde hace tiempo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, frente a este caos generalizado, incluso fogoneado por quienes dicen ofrecer gobernabilidad y orden, medidas como las que propone el Frente de Izquierda –el desconocimiento de la deuda con el Fondo Monetario Internacional, que es una de las vías por las que se van los dólares que están en la base del problema económico de la Argentina; la nacionalización del sistema bancario, regido por una ley de la dictadura que habilita la fuga de capitales y las corridas; el monopolio del comercio exterior; la nacionalización con control de los trabajadores y los recursos estratégicos– aparecen como propuestas totalmente racionales frente a la irracionalidad y el caos que impera hoy.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este marco, las elecciones van a ser un escenario más, no van a resolver lo esencial, aunque sí van a servir como un recuento para saber el respaldo que obtienen las distintas sensibilidades –para llamarlo de alguna manera– del Partido Nacional del Ajuste, para imponer justamente un orden reaccionario, y cuánto cosecharán los que quieren enfrentar esa perspectiva para, parafraseando al intelectual y gran comunista italiano Antonio Gramsci, luchar por imponer un nuevo orden.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3074
+}

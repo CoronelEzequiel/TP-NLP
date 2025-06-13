@@ -1,0 +1,36 @@
+{
+  "texto_id": "defensa_civil",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La situación que tenemos es una ciudad impactada por esta tormenta que no tiene precedentes en la historia de la ciudad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, lo que estamos trabajando ahora desde Defensa Civil, desde el Ministerio de Seguridad, nosotros estamos abocados, el ministro acá desde el minuto cero, Javier Alonso, abocado al tema de la estrategia específica de la fuerza de seguridad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que hay, todavía, cosas que nosotros solicitamos a la población es que no asuma tareas riesgosas como querer restablecer el servicio eléctrico en lugares que por ahí fue dañado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora empieza toda una etapa donde es muy importante articular todo, de las fuerzas voluntarias, las fuerzas policiales, las fuerzas de la comunidad, las organizaciones sociales, porque esto no lo reconstruye una sola persona. Hay que acompañar mucho al gobierno municipal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina y Buenos Aires, cuando nos pasan estas cosas, surge lo mejor de nosotros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2950
+}

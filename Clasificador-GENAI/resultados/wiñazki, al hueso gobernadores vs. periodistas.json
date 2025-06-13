@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En estos tiempos, observamos cómo senadores afines al kirchnerismo intentan judicializar el trabajo periodístico.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El control político, lamentablemente, ha aumentado con el paso de los años y las décadas, dificultando enormemente el periodismo independiente, especialmente en provincias como San Luis, Formosa y Santa Cruz.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los medios que critican al gobierno provincial sufren presiones para retirar su publicidad, lo cual es crucial para su subsistencia, ya que la prensa libre es fundamental en una democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos casos muestran la creciente vulnerabilidad del periodismo en las provincias.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se intenta silenciar las voces críticas, pero esta situación no nos callará.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1400
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.829,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy vieron al presidente de España dando una clase de derecho a nuestro presidente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El papelón de Alberto Fernández, quien miraba al presidente de España mientras este hablaba de democracia y justicia… lo resume todo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un presidente que hace una semana dijo: “Los fallos judiciales no me van a asustar”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el otro le respondió: “No es así, hermano. Estás en España, necesitas bajar cambios si quieres que te prestemos dinero para llegar a fin de mes. Baja la soberbia. Estamos en una situación difícil”.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El pueblo argentino es como esa mujer que sale con un hombre; ella es bellísima, como nuestra patria –hoy es el Día del Himno–.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este es el \"machirulo\", el famoso amigo de Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nuestra patria, que pasó de ser la mejor del mundo en el Mundial 78 a lo que somos hoy con Alberto… qué vergüenza.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos han hecho poner zapatos cerrados, nos dicen: \"No salgan, yo los cuido\", \"quédense en casa\", \"no se quejen\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández dio la vuelta al mundo en 80 horas, recorrió 100 barrios porteños… pero no llevó nada de ofrenda a sus encuentros con otros presidentes, como los Reyes Magos o los antiguos reyes que llevaban regalos a otros monarcas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto fue a mostrar la miseria de la Argentina. Pero la miseria no es del país, sino de quienes nos gobiernan.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Humillados, denigrados, destratados... eso es lo que lograron Cristina Kirchner y Alberto Fernández.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero todo se hace y todo se paga. El papelón del presidente argentino en el mundo quizás demostró que no tienen un complejo de inferioridad, sino que son simplemente inferiores.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2490
+}

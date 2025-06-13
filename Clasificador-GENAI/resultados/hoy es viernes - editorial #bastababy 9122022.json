@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta mujer tan simpática y buena... recuerdo la última vez que pasamos mucho tiempo juntos: fue en el velorio de Roberto Galán.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con la muerte de Pinky se va una de las grandes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Uno vive rememorando, como ocurre con los peronistas y Perón: muchos intentan emularlo, creyendo que volverá, pero él está muerto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ella le está pasando algo similar, porque no pudo ni siquiera superar la muerte de su marido, porque ese duelo coincidió con el beneficio de sucederlo en la presidencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La muerte de su marido le permitió ocultar dos años de corrupción y usar su nombre para lograr la reelección.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy empieza a darse cuenta de que, más allá de los aduladores, la gente que la rodea, que usa la pobreza y el hambre para manipularla, que utiliza a la gente sin recursos como el sinvergüenza que llevó gente pobre a Comodoro Py (ancianas de ochenta años con musculosas, que gritaban \"¡Cristina te quiero!\")... eso es una mierda.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Antes de ayer, hubo un asado para celebrar la condena.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, lejos de repartir el botín, presentó quiebra: \"Muchachos, no hay plata\", dijo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En el entorno de Cristina, se llevaban a trescientos hambrientos a cada acto, para que bailaran y aplaudieran a su \"graciosa majestad\", como un rey desnudo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se le miente a la gente, diciendo que es fenómeno, que la quieren todos, pero la realidad es que la mayoría la desprecia por corrupta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que ir por más.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los fiscales, verdaderos héroes, van por más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, Cristina está en caída libre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este es el fin de la Cámpora, una banda sin vergüenza que intentó quedarse con el país, capitaneada por Néstor Kirchner.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2590
+}

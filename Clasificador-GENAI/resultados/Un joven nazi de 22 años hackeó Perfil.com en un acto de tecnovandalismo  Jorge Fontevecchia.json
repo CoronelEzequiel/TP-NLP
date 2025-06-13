@@ -1,0 +1,41 @@
+{
+  "texto_id": "perfil_hackeo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este chico que se autodefine como \"gov\" dijo: \"Preferiría estar trabajando en un organismo público, en una empresa privada, antes que estar preso como mi amigo que hizo lo mismo que yo\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Hacker, soy nazi. Vos pusiste una foto de Milei, ¿por qué? Y pusiste la puteaste a Milei? Porque estoy en contra de su gobierno, estoy en contra de él por muchos motivos. Tampoco me gusta hablar mucha política en estos sentidos. No creo en contra de Milei. No soy periodista, tampoco soy izquierda, no soy derecha, no soy anarquista, soy nacionalsocialista y lo digo abiertamente, nacionalsocialista, o sea, nazi, sí.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Hitler hizo cosas muy lindas en el mundo. Los judíos controlan todo.\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los avances de la tecnología producen sujetos hiper-especializados en un área, que, en un contexto de crisis económica y crisis de valores que representa a la sociedad, se pueden volcar a todo tipo de teorías peligrosas que dan respuestas a las frustraciones sociales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por otro lado, junto con los mensajes antisemitas, publicó una foto de Javier Milei que le robó de la página de ReNaPer. Con un programa, o sea, la foto creo que es de Milei, del documento de Milei. En parte de la entrevista, dice que odia a Javier Milei y a Donald Trump por ser pro-judíos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Voy a seguir haciendo esto hasta que me metan preso o me maten. Quiero dejar claro que no es un grupo de personas, soy un individuo, soy la persona que está hablando con él y nada, que voy a seguir hackeando páginas, voy a seguir hackeando sistemas y haciendo de todo hasta que me dé la sangre, no, hasta que me muera, hasta que me maten o hasta que termine preso\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4073
+}

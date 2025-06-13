@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.829,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Su prédica para intentar cerrar la grieta tiene las mejores intenciones, no hay ninguna duda de eso, pero quiero ejercer la mayor honestidad posible para decir que, hasta ahora, los resultados producen confusión sobre con quiénes hay que cerrar la grieta y con quiénes hay que profundizarla.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para decirlo más gráficamente, no creo que la inmensa mayoría de los argentinos quiera cerrar ninguna grieta con Hugo Moyano, Juan Grabois o Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Debemos fomentar que este país se parezca más al Uruguay, dialoguista, y menos a la Venezuela chavista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La condición previa es que queden afuera los corruptos y los golpistas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cerrar la grieta con los ladrones de Estado es igual a impunidad y a libertad para robar y enriquecerse ilícitamente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que cerrar alguna grieta con delincuentes condenados de esa magnitud.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una grieta política y social que debemos cerrar en forma urgente, pero hay una grieta moral que debemos profundizar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2163
+}

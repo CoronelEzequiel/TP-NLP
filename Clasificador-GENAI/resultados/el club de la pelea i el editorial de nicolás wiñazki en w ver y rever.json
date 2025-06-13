@@ -1,0 +1,61 @@
+{
+  "texto_id": "W Ver y Rever",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.63,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero antes quería mostrar y contar cómo existe un plan desde que asumieron el poder por tercera vez, desde diciembre de 2019, para quedarse con la ciudad y después van a ver cómo explícitamente Cristina Fernández de Kirchner y Máximo Kirchner hablan de material de espionaje antes de que se arme todo este gran lío complejo y de gravedad institucional, que tiene que ver con teléfonos hackeados de la política.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina estaba avisando en diciembre de 2019 que la Ciudad era opulenta, que los helechos tienen luz y que los agapantos de la 9 de Julio eran más lindos que muchos distritos del Conurbano bonaerense, en lo que podría sintetizarse en una crítica a la gestión de algunos intendentes de la provincia que recibe mucha plata en coparticipación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no digo que no se tenga que investigar el contenido de esos teléfonos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero si hay alguien hackeando teléfonos, es muy grave.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los sótanos de la democracia, llamó Alberto Fernández al servicio secreto argentino, finalmente terminan jugando el mismo juego que se jugó durante la democracia: la política usando el espionaje para manchar o para ensuciar al adversario.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así como Cristina había avisado sobre la plata de los porteños, avisó en su momento sobre el espionaje.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner directamente dice que Macri espiaba a Horacio Rodríguez Larreta, cosa que no está probada, que eso le detonó la vida y que él se compromete a no usar políticamente ese material contra Horacio Rodríguez Larreta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalmente, el kirchnerismo es kirchnerismo, no cambia nunca.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay políticos que se ríen.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El diálogo político así de la Argentina está completamente roto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4407
+}

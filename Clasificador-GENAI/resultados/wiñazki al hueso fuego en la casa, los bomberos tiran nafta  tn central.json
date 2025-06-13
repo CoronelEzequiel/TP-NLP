@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La situación se agrava por la falta de coordinación y las disputas políticas.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta situación se ve exacerbada por la resistencia de algunos intendentes afines a Cristina Kirchner, quienes cuestionan la flexibilización de la cuarentena en la Ciudad de Buenos Aires.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, las autoridades bonaerenses culpan al Jefe de Gobierno porteño, Horacio Rodríguez Larreta, incluso algunos intendentes amenazaron con cortar accesos a la Ciudad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estas disputas políticas, que incluyen críticas de Mauricio Macri a Rodríguez Larreta por su acercamiento al presidente Alberto Fernández, y declaraciones de Mayra Mendoza, intendenta de Quilmes, sobre la necesidad de consensos en la flexibilización de las medidas, oscurecen el verdadero problema.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La actitud del Ministro de Salud, en lugar de enfocarse en testear a la población en los barrios más afectados de la provincia, se centra en culpar a la Ciudad de Buenos Aires.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En resumen, las peleas políticas eclipsan la lucha contra el COVID-19, una situación lamentable, que contrasta con la dedicación y profesionalismo de los bomberos voluntarios de todo el país, quienes nunca actuarían con la irresponsabilidad aquí descrita.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1409
+}

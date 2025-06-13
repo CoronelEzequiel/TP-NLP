@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_zannini",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.158,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Quiero arrancar por la liberación de los jóvenes de Revolución Federal, ese violento grupo antikirchnerista que amenazó con matar a Cristina Fernández de Kirchner y a Máximo Kirchner.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablo del Poder Judicial, no de todos sus miembros, pero algunos están estratégicamente ubicados para consolidar un esquema de impunidad para unos y de persecución para otros.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El PRO es lo más parecido al fascismo que hay en Argentina hoy. Dan señales muy potentes en contra de la vida, en contra de todo. Actúan enamorados de la muerte.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como pueblo, deberíamos tener una gran defraudación con lo que hizo Mauricio Macri. Apostó a endeudarse. Cuando quienes le prestaron el dinero le pidieron la plata, dijo que no iba más y acudió al FMI para pagarles a los bancos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández podría haber sacado a esos dos jueces por decreto, porque fueron nombrados por decreto. Lo peor es declararse vencido antes de dar la lucha. Néstor Kirchner jugó a fondo contra la Corte.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema en la Argentina no es la justicia ni los medios; son los propios políticos argentinos que no encuentran un punto de acuerdo. No judicializar la política, ni politizar la justicia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6621
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "discurso_economico_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.087,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El discurso económico del gobierno de Javier Milei se centra en la desaceleración de la inflación, presentándola como un logro significativo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, este enfoque ignora las consecuencias negativas en otros ámbitos de la economía argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los datos diarios sobre salarios industriales, capacidad instalada y consumo de energía muestran que la reducción de la inflación se debe más a una contracción económica generalizada –una especie de inanición– que a un plan económico sólido.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, la reducción del déficit fiscal, destacada por Milei, se basa en gran medida en la congelación y licuación de jubilaciones y pensiones (aproximadamente el 35%), además de una drástica disminución de la inversión pública.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La recesión económica es otro punto crucial que Milei omite.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los datos de la Confederación de Trabajadores de la Economía Popular (CTEP) reflejan la dramática caída de los salarios reales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La promesa de inflación cero, similar a la experiencia de la convertibilidad durante el gobierno de Carlos Menem, conlleva un riesgo significativo:  la inflación cero puede conseguirse a costa de una destrucción generalizada de la industria, los salarios y las economías provinciales.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, el modelo económico de Milei, basado en la reducción de la inflación, presenta un costo social y económico considerable, poniendo en riesgo el poder adquisitivo de la población y el desarrollo del sector industrial.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La aparente  “inflación cero” podría convertirse en un \"cepo al salario\", perpetuando la pobreza y la desigualdad.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1828
+}

@@ -1,0 +1,26 @@
+{
+  "texto_id": "reflexion_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Argentina necesita construir consensos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para debatir los temas profundos que hay que abordar en pos de las reestructuraciones que necesita el país, hacen falta consensos, discusiones, opiniones diferentes y acuerdos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La democracia argentina, la dirigencia política le debe esto a Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 748
+}

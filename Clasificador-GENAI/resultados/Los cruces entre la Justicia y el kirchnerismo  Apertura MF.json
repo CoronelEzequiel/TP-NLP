@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto por un lado, la palabra \"proscripción\" que va a volver a aparecer, sobre todo, por parte de los ultra kirchneristas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, desde el Ministerio de Economía se empezó a decir que va a haber una aceptación del 50% y que con eso el gobierno se da por satisfecho, es decir, hay 7 billones de bonos, billones con \"V\" larga, no con \"M\", billones de bonos que pueden ser canjeables, es decir, que organismos públicos y bancos tienen para canjear por bonos más largos y de esa forma darle más aire al gobierno para pagar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Se comprueba que Mauricio Macri siguió y su inteligencia a los familiares de los de Lara San Juan, la tragedia más grande que tuvo la Armada Argentina en tiempos de democracia, está demostrado con videos, con fotografías, con todo. Y sin embargo, ¿en quién lo sobresee? El arquero del Liverpool, el arquero del mismo equipo que juega en los abrojos con el presidente de este tribunal, que es Jiménez Uriburo, con Luciani, que es el fiscal.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"A mí me va a absolver la historia, a ustedes se los va a condenar\", lo decía así. Esto es lo que ha pasado en la República Argentina, había que condenar a un gobierno, el de Néstor Kirchner, que desendeudó al país, que le pagó al Fondo Monetario Internacional, había que traer de vuelta al Fondo Monetario Internacional y, para traer al Fondo Monetario Internacional, había que convencer que el que le pagó, que el que nos desendeudó, era un chorro y que vino solamente a la Presidencia de la República a robar y saquear el país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al asumir Néstor Kirchner la presidencia de la nación y luego su esposa Cristina Elisa Fernández instalaron y mantuvieron en el seno de la administración nacional y provincial de Santa Cruz una de las matrices de corrupción más extraordinarias que, lamentablemente y tristemente, se hacen desarrollar en el país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4854
+}

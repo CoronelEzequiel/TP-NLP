@@ -1,0 +1,36 @@
+{
+  "texto_id": "discusion_medida_jubilados",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La medida establece que para acceder al 100% de la medicación gratuita, los beneficiarios deben percibir menos de 388.500 pesos (un haber mínimo y medio).",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno presenta esta medida como un \"reacomodamiento\" para optimizar la ayuda social.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Dra. Laura argumenta que esta medida excluye a una gran mayoría de jubilados, incluyendo a aquellos que cobran alrededor de 400.000 pesos, quienes también necesitan ayuda con la medicación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Dra. Laura critica la medida por considerarla una forma de recortar el gasto público en jubilaciones y pensiones, que representan el segundo presupuesto más grande del país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, la Dra. Laura enfatiza que los fondos del sistema previsional pertenecen a los aportantes y no al Estado, cuestionando el uso del Fondo de Garantía de Sustentabilidad de la Seguridad Social.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1315
+}

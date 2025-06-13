@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_laje",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este curso busca dar argumentos a los seguidores de \"Mi Ley\" para que puedan convencer a sus familiares, amigos y compañeros de trabajo de todo tipo de ideas reaccionarias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las ideas de Laje, el armador del arsenal ideológico del presidente, en muchos puntos, están basadas en el odio al adversario político o al que piensa diferente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este tema, llamado \"Facultad con K, zurda\", que contiene el insulto \"fac\" (acortamiento de \"fachos\") en inglés dentro del título para desprestigiar a la universidad pública y gratuita, que, recordamos, nuestra audiencia ya sabe, es un baluarte de la Argentina reconocido mundialmente, institución de la que salieron, vale repetirlo, cuatro premios Nobel y dieron clases genios como Borges, por ejemplo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En diciembre pasado, en la conferencia de la Acción Política Conservadora en el Hotel Hilton de Buenos Aires, donde Milei instó a la CEPAC a dar una batalla cultural para aprovechar una oportunidad histórica.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Agustín Laje, ideólogo del movimiento libertario, autor del libro \"Batalla Cultural\" que había lanzado este curso que mencionamos recién, dice: \"Uno necesita prepararse, formarse, saber cuál es la lógica de la batalla cultural.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Naciones Unidas ha venido atentando contra la familia, la verdadera familia, la familia compuesta por padre, madre e hijos. Es la única configuración familiar capaz de resultar sostenible para una nación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5193
+}

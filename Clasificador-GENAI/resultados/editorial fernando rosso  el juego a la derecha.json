@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.108,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Desde las PASO hasta hoy, asistimos a una serie de medidas y declaraciones que parecen orientadas a fortalecer la candidatura de Javier Milei o, eventualmente, la de Patricia Bullrich.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La primera fue la devaluación de más del 20% del dólar oficial, decidida el lunes posterior a las PASO, junto con un aumento de la tasa de referencia del Banco Central al 118% (más del 200% si se anualiza).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por otro lado, la suba de tasas presiona hacia una mayor recesión o estancamiento económico, al encarecer el crédito, beneficiar los depósitos y enfriar la economía.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, Milei se confabuló con la \"casta\" contra los millones de personas que alquilan.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, tenemos una política económica que fortalece la crisis que llevó al triunfo de Milei, declaraciones políticas que suponen una capitulación conceptual a la ideología de Milei y Bullrich, y una práctica parlamentaria que facilita la aplicación de la ideología de libre mercado de Milei en un área tan sensible como la vivienda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los que votaron la ley o la facilitaron le dan la razón a Milei: donde hay una necesidad (y la vivienda lo es), no hay un derecho, sino un negocio.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2043
+}

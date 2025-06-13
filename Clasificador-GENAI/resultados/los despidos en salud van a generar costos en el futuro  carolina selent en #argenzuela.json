@@ -1,0 +1,56 @@
+{
+  "texto_id": "renuncia_masiva_area_vacunacion",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.122,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos contratos muy precarios, antes eran anuales, las renovaciones. Durante el 2024 empezaron a ser trimestrales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Despidieron gente en el área de despacho, que respondían a los asesores de la información pública, en compras y, específicamente, en el área médica, despidieron cuatro personas realmente muy formadas, con más de 10 años de experiencia, algunas en el tema.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creen que todo el mundo es reemplazable, que la verdad es que somos casi descartables, no sé, pero bueno, eso es lo que nos llevó a tomar hoy esta decisión, porque además tampoco se nos viene escuchando a los equipos técnicos, así que tampoco queremos ser partícipes de este desmantelamiento que está sufriendo nuestra dirección, una dirección que la verdad tiene años y que realmente generó uno de los calendarios de vacunación más importantes en Latinoamérica.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mira, la verdad, con respecto a la renuncia, nosotros presentamos la renuncia el viernes y ya nos han dicho, bueno, a algunos, no a mí personalmente, pero a algunas personas, bueno, no quedan centros y le explicamos la verdad.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por el momento no, pero bueno, está el grupo de Frente en Defensa de la Salud Pública, que próximamente se van a tomar nuevas medidas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay campaña, digo, vamos a algo más cotidiano, que es el dengue, estamos todos preocupados, no hay campañas, salvo muy puntuales, no hay una campaña nacional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos claros de lo que está pasando, la reemergencia de enfermedades que estaban en la casa había sarampión, y ahora no hay, entre parte los despidos, no hay seguimiento, no hay campaña, y se suma también un desgaste de la gente que está cansada de lo que se pasó, que es lógico, pero si vos a esa gente que está cansada no la incentivas, no te va...",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero mientras pasa esto que rajan a tipo, escuchaste, ¿cuánto ganaba? 800 mil pesos, y después vemos los ministerios llenos de gnocchis, amigos, amantes, hermanos, novios, tenemos todos los menes del mundo, están todo metido en el estado, uno más inútil que el otro, están todos los menes metidos en el estado, todos, no hay un solo menen que labure honestamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora tenemos que ver esto, todo está nuestra salud en juego acá, pero a pensar que en este país para todo el mundo, pero salíamos a las ocho de la noche a aplaudir a los médicos, y ahora los puteamos, los despreciamos a los médicos, se llevan el trabajo más.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4172
+}

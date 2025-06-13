@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_morales",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "A los mexicanos les gusta perder contra nosotros",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero me parece que, por nosotros, muchachos, vino… como dicen ustedes… ¡por la guita!",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo hablo de fútbol, no hablo del pueblo argentino, ¿entiendes? Y no es nada contra los argentinos, porque yo admiro… yo admiro a muchos argentinos; yo he tenido grandes amigos y tengo grandes amigos y maestros argentinos. Pero yo… al barro… pero confunden… confunden y envuelven todo en una cuestión patriótica… ¡al barro!",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando a Messi se le complican las cosas en la cabeza, en la cabeza… en la… aparece cuando ya no tiene al hermano mayor; sabe que ya no tiene el hermano mayor, y ni está… Messi desaparece.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No solamente el que la haya desplazado con el pie… en primer lugar, es porque está en el suelo; porque la playera mexicana está en el suelo. ¡Ahí hay una falta de respeto!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3762
+}

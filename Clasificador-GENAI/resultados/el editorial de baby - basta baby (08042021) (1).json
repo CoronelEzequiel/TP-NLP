@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los Montoneros tomaron la avenida del Libertador y, a gritos de “¡Perón, Perón, viva Perón!”, rompieron todo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que no es momento para decir que hoy Alberto estaba nervioso, que fue un grosero, un maltratador, porque, en realidad, creo que hay una parte de Alberto que es grosera y maltratadora y se manifiesta cada tanto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No nos trajeron las vacunas, no estamos vacunados, no hay camas, no hay respiradores, hay que cumplir la cuarentena.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Y saben quién lo llevó? Porque hasta en eso son boludos y lo manejan mal: Alberto y compañía.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usted, señor, que es el padre de la familia loca que hay, olvídese de Cristina.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque cuando a un presidente le falta el respeto y lo encara Grabois y lo encaro yo, lo encara cualquiera, y ponen mano dura, no quiere decir andar insultando gente como en ese bar donde pateó al jubilado en el piso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero vos se nota que dormís con la coraza puesta, vos estás muy contracturado, y así se te está yendo el país de las manos, y así van a perder las elecciones, y así van a terminar yendo presos que es lo que no querían los secuaces que están con vos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2704
+}

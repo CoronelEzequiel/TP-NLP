@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El narrador critica duramente la situación económica del país, la falta de honestidad de los líderes políticos y la manipulación de la información, manifestando su decepción y preocupación por el futuro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recuerda con nostalgia la época de Alfonsín, donde la unidad tras la recuperación democrática era palpable, contrastándola con la actual polarización.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Concluye reflexionando sobre la pérdida de la confianza ciudadana y la necesidad de seguir luchando por un mejor país.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La conmemoración del Día de la Democracia en la plaza, con la presencia de figuras internacionales como Pepe Mujica, Lula y la propia Cristina Fernández de Kirchner, se convirtió en un escenario de fuertes tensiones políticas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 891
+}

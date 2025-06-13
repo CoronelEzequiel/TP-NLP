@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.43,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Creo que mi gran desafío es ser lo más objetivo posible y tratar de caminar por la mitad de la grieta, que es lo más difícil, porque siempre que uno tiene una opinión, será subjetiva.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No puede ser que la gente ataque porque donaste algo, o por el canal que lo hiciste… Me di cuenta que la grieta no resiste análisis, no hay sentido común.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que Argentina tiene mucha esperanza, una resiliencia envidiable.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando las cosas se ponen difíciles, la gente se acerca a su parte espiritual.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer estábamos a un paso del abismo, hoy dimos un paso adelante. Siempre hacia adelante.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2297
+}

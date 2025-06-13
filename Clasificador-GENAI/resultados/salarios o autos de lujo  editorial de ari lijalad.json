@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.142,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esto representa un claro llamado de atención al gobierno, que decidió actuar con demasiada rapidez e improvisación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el gobierno de Javier Milei pretende, en tan solo 45 días, revertir las políticas de un país que ha construido consensos económicos, políticos, culturales y sociales, mediante un decreto de necesidad y urgencia (DNU) claramente anulado y una ley cuyo tratamiento también presenta vicios de nulidad, y cuyo contenido solo busca generar miseria, entonces la responsabilidad de esta situación recae en Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, la propiedad privada, como nuestro salario, es un derecho para todos. Si las medidas económicas de Milei reducen nuestro salario, está atentando contra nuestra propiedad privada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuevamente, el gobierno (votado por Milei y la Vicepresidenta) perjudica a los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, en una aparente provocación, el gobierno, a través del Decreto 84 firmado por Milei, Nicolás Posse (Jefe de Gabinete) y Luis Caputo (ministro de Economía), duplica el mínimo no imponible para los impuestos a autos y motos de lujo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei prioriza los autos de lujo sobre los salarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1854
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.05,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se trata de describir un momento de gran vulnerabilidad, quizás un accidente que te asustó o uno que efectivamente sucedió.",
+      "score": 0.05,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese fue un momento muy difícil en mi vida, pero afortunadamente todo salió bien.",
+      "score": 0.05,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En ese momento me cuestioné muchas cosas: \"¿Qué va a pasar conmigo ahora?\", \"¿Para qué empecé?\", \"¿Por qué me enfrenté a ese competidor de judo, siendo la primera vez?\", \"¿Por qué me descuidé en ese movimiento?\".",
+      "score": 0.05,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son reflexiones que uno hace a posteriori, pero, afortunadamente, estoy bien.",
+      "score": 0.05,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Veo perfectamente con ambos ojos, estoy muy bien iluminado y con una sonrisa espléndida.",
+      "score": 0.05,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1069
+}

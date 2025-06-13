@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, el paro se mantuvo debido a la falta de acuerdo entre el gobierno y las empresas, que se culparon mutuamente por un aumento salarial ya pactado e incluso homologado en el Ministerio de Trabajo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era predecible que esta situación evidenciara las contradicciones del gobierno: si cede en los subsidios, agrava el déficit fiscal; si cede en las demandas salariales, impulsa la inflación y sienta un mal precedente para otros trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este paro probablemente contribuyó a la decisión de la CGT (Confederación General del Trabajo) de convocar a un segundo paro general contra el gobierno de Mauricio Macri para el 9 de mayo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se debe advertir el peligro de una estrategia corporativa, similar a la época menemista, donde cada gremio negocia individualmente, debilitando la acción colectiva.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La opinión pública, reflejada en encuestas y declaraciones de personas en la calle, muestra apoyo al paro y cuestiona la inacción previa de la CGT.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1883
+}

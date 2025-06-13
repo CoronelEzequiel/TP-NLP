@@ -1,0 +1,51 @@
+{
+  "texto_id": "criptomonedas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La principal ventaja de las criptomonedas es su seguridad.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siempre les aconsejo a mis clientes (hago criptominería) que, en lugar de mirar Instagram o WhatsApp a la mañana, busquen noticias sobre criptomonedas en Google.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fue increíble, pensamos que no pasaría, pero es muy positivo que se adopten estos sistemas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las finanzas descentralizadas te permiten manejar tu propia plata.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desconfía de quien te ofrezca rentabilidades garantizadas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que tener una visión a largo plazo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay criptomonedas estables, atadas al dólar (USDT), que ofrecen rentabilidad sin necesidad de entender mucho del mercado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gente debe asesorarse bien y buscar lugares seguros.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2110
+}

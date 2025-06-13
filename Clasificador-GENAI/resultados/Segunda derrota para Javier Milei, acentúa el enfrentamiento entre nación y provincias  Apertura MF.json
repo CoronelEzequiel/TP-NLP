@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que pasó ayer, finalmente, se trató, se debatió en el Congreso, exactamente en el Senado, el DNU de Milei, y fue rechazado por una mayoría holgada, por una mayoría importante.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero, una derrota política para el gobierno importante, en un gobierno que bueno, va a tener que empezar a hacer goles, van a tener que empezar a tener, más allá del relato que viene construyendo, ese relato que le da buenos dividendos, el relato binario, buenos y malos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el Congreso le empiezan a poner límites, primero la ley ómnibus, ahora en el Senado el decreto de necesidad y urgencia. Decíamos, va a tener que empezar a mostrar resultados y esto va a tener que ver, especialmente, con la economía y así se va a jugar gran parte de lo que pueda pasar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que anunció fue Juntos por el Cambio que no tiene claro todavía bien dónde pararse, cómo pararse y el caso claro es lo que vamos a escuchar a Luis Juez, el senador cordobés, que fue bastante interesante, ahora vamos a escuchar analizar lo que dice Juez porque dice algo así como, \"la verdad, que está todo mal lo que presentaron, no está mal. Está mal hecho, tiene... son un rosario de buenas intenciones\", dice, o algo similar. \"Está muy mal hecho, tiene fisuras desde lo legal, pero lo vamos a apoyar\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Mi compromiso con Argentina y con Javier Milei es implacable. Desde el momento en que Javier Milei me pidió que lo acompañara como diputada y luego en la fórmula presidencial, nosotros sabíamos a lo que nos enfrentábamos y hemos trabajado espalda con espalda a pesar de los incansables intentos por dividirnos. El Senado es la casa de las provincias y es un poder independiente de la República Argentina. Yo no me voy a convertir en Cristina Fernández de Kirchner, no me voy a convertir en aquello que vinimos a cambiar. No hay gobierno sin institucionalidad, por eso la política tiene que trabajar para la gente. No hay progreso sin libertad, todo por Argentina. La política tiene que trabajar para la gente\", dice Victoria Villarruel.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este pacto constituye un acuerdo fundacional destinado a establecer 10 políticas de Estados que permitan edificar un nuevo orden económico, rescatando a la Argentina de la hacienda del fracaso y reinsertándola en el camino necesario para volver a ser una potencia mundial.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4651
+}

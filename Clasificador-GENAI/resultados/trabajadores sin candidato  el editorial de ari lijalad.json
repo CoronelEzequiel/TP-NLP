@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Primero, hay más trabajo; segundo, hay más pobreza; y tercero, hay más trabajadores pobres.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ATP mantuvo millones de empleos (y no exagero al decir millones).",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los salarios perdieron siete puntos de participación en el PBI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro dato preocupante es la transferencia de recursos de los salarios al sector empresarial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En conclusión, hay poco para celebrar en este Día del Trabajador y de la Trabajadora, y la situación podría empeorar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así, la campaña electoral podría ser financiada por el sector que se benefició del crecimiento de la productividad, de la participación en el PBI y de la transferencia de recursos de más de 40.000 millones de dólares, mientras que los sindicatos, que representan a los trabajadores, no pueden hacerlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2032
+}

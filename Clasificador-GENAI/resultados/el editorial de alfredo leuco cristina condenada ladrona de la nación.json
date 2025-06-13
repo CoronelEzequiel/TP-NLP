@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.811,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La democracia no terminó. Las instituciones republicanas salieron fortalecidas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La condena por corrupción a Cristina Fernández de Kirchner implicó derrotar dos de los principales venenos del Estado de Derecho: la impunidad y el miedo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, los únicos que le temen a Cristina son sus propios seguidores y simpatizantes.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Condenó a seis años de prisión con inhabilitación perpetua para ejercer cargos públicos a la mujer más poderosa y a la que más daño le hizo a la República Argentina, y lo hizo con ella en funciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca antes había ocurrido eso en la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con todas las garantías constitucionales, la dos veces presidenta de la nación fue condenada por ladrona, la ladrona de la nación.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca nadie en la Argentina de los civiles robó tanto durante tanto tiempo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina se está quedando cada vez más sola, con su núcleo duro que cada vez es más duro y más chico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá este 2022 quede grabado a fuego como el \"Nunca Más\" a los ladrones de estado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2053
+}

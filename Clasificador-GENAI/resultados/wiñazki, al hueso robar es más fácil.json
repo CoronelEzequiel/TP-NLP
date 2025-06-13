@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.81,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Argentina ha descendido doce puestos en el ranking de transparencia de Transparencia Internacional, específicamente en los actos de gobierno.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Unidad de Información Financiera, crucial para combatir el lavado de dinero, ha sido desmantelada, al igual que los equipos que investigaban la evasión fiscal en la AFIP.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde que Félix Crous, de Justicia Legítima, la dirige —y depende de la Presidencia—, se ha retirado de las querellas en juicios por corrupción y parece inactiva.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Similarmente, Horacio Pietragalla Corti, secretario de Derechos Humanos, fue denunciado por negociaciones incompatibles con la función pública por Félix Díaz y la Coalición Cívica.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su declaración jurada muestra un aumento patrimonial del 2300%, sin que la Oficina Anticorrupción haya intervenido.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todo esto ocurre en un contexto de ataques permanentes de un sector político contra la justicia, la Corte Suprema y los jueces.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La impunidad ha aumentado tanto que condenados como Milagro Sala, Julio De Vido y Amado Boudou hablan de indultos y amnistías.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Para concluir, Hernán Cappiello publicó en La Nación una nota sobre cambios en el Código Penal que permiten anular condenas firmes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto implica que senadores kirchneristas pueden revisar condenas de la Corte Suprema, abriendo la puerta a la impunidad en casos de corrupción.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En definitiva, robar en Argentina es extremadamente fácil.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1827
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Obviamente, esto tiene que ver con la interna que viven los partidos políticos, por lo pronto, los más representativos, que vemos en oficialismo y oposición, los frentes que están dentro de una interna feroz, y \"Circo Beat\" justamente por todo el circo que se arma alrededor de las instituciones políticas habitualmente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mucho ruido dentro de la Casa Rosada con algunas declaraciones de Victoria Tolosa Paz, que, emulando lo que en algún momento quiso decir Cristina, dijo: \"O estás adentro o estás afuera\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero, ¿qué pasa dentro de la oposición? Bueno, Mauricio Macri, que con Boca, tiene que salir a calmar las aguas, entre Horacio Rodríguez Larreta, por un lado, y Patricia Bullrich, por el otro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es que Milei está juntándose con parte del peronismo bonaerense y con gobernadores también que están esperando ver qué se decide el Frente de Todos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Uno tiende a pensar que no es lo mismo, por lo menos por lo que estamos visualizando en este momento, si llegan dirigentes como Mauricio Macri, si llegan dirigentes como Horacio Rodríguez Larreta o algunos dirigentes del radicalismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No somos muchos, no somos pocos, pero estamos todos locos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4659
+}

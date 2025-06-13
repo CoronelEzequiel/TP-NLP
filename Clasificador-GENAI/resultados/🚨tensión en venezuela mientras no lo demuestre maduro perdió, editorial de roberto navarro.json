@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.231,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Venezuela, uno de los últimos países en instaurar un sistema socialista, estatizó más de 1100 de sus empresas más grandes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 2006, con el golpe de Estado contra Manuel Zelaya en Honduras, comenzaron las acciones de las élites nacionales, en conjunto con el gobierno de Estados Unidos, para derrocar gobiernos progresistas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante estos años, Venezuela sufrió un bloqueo económico, la violencia por parte de la oposición y, lamentablemente, también violencia por parte del Estado, con violaciones a los derechos humanos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si bien medios como *Clarín* y *La Nación* denunciaban fraude electoral, este no se comprobó.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las recientes elecciones, con la ausencia de estos emigrantes (quienes probablemente habrían votado en contra del gobierno), el chavismo aparentemente perdió.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Maduro ha intentado vincularse con el peronismo argentino, pero su negativa a mostrar las pruebas electorales contradice la tradición peronista de reconocer las derrotas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se vislumbra un escenario de violencia en Venezuela, convirtiéndose en un nuevo campo de batalla entre Estados Unidos, China y Rusia.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es comprensible la postura de Lula da Silva, López Obrador y Petro. Respeto profundamente a Lula y a López Obrador, ambos líderes populares que gobernaron con Estados Unidos cerca, y su postura de exigir pruebas de la victoria de Maduro.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1967
+}

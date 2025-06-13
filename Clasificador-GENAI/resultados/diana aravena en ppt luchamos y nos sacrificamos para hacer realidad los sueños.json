@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.081,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, que, básicamente, como decía Cristina también, no es magia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fundamentalmente, porque hemos conquistado nuevos derechos, reconocimientos, pero todos en el marco de lo que se llama el gobierno popular, el gobierno de Cristina, sobre todo, como el peronismo siempre es el que nace de la justicia social, en este caso también se ha hecho lo mismo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué significa ser puto peronista? Para mí, y te lo dije una vez que estuvimos reunidos, para mí eso es un grito de guerra.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, significa eso, tener una conciencia de clase también, que identifica a los homosexuales más pobres de la sociedad, quienes hemos sido históricamente excluidos, pero a su vez también nos reconoce una pertenencia popular y barrial, y zonal, digamos, de nuestra identidad, no solamente una identidad de género, sino una identidad política.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, tener esta expectativa y llevarla a cabo y hacerla concreta.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Diana, mandale saludos a las chicas, ¿cuántas chicas son en el Lapaquito?",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aguanten los putos peronistas, aguanten el Lapaquito, y aguanten todas esas cosas que nos empezaron a dar orgullo desde hace mucho tiempo, gracias a las políticas públicas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, bueno, eso, nada más que esperamos que Cristina sea nuestra conducción, nuestra... nuestro programa.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2154
+}

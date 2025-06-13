@@ -1,0 +1,41 @@
+{
+  "texto_id": "radiomitre.com.ar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina y Alberto siempre fueron enemigos íntimos, ¿no?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, en su locura autoritaria y resentimiento, optó por tirar del mantel de la democracia e intentar un golpe palaciego contra su títere, Alberto Fernández, que es el presidente de la Nación.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso siempre dije que Cristina es la persona que más daño le produjo a la democracia y que más daño le puede seguir haciendo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su última operación conspirativa contra su propio gobierno es bien clara: se opuso al acuerdo con el Fondo Monetario y mandó a su tropa a actuar en consecuencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina está atrapada sin salida, aislada, en el momento de menos poder y de mayor desprestigio desde que Néstor asumió como presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso creo que hay que tener dos cuidados: primero, tomar distancia de ella, porque \"el que se ahoga no repara en lo que se agarra\", como decía San Martín, puede hundir a cualquiera; y segundo, la oposición no debería dejarse involucrar por este divorcio violento, huir del abrazo del oso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2135
+}

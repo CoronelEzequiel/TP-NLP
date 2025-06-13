@@ -1,0 +1,31 @@
+{
+  "texto_id": "dialogo_pablo_moyano",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que el único camino que queda es la confrontación con este gobierno, con este modelo económico que está destruyendo a las pymes, está destruyendo el poder adquisitivo de los jubilados, de los trabajadores y sus familias, y que nuevamente cerca de un millón de trabajadores vuelvan a pagar ganancias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si lo dice Clarín y La Nación, seguramente… Adorni, no es el vocero del gobierno, Clarín, La Nación y los medios hegemónicos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lamentablemente el gobierno te llama para la foto y después te ignora. Por eso yo no participé y los míos vamos a pasar a asistir al consejo de mayo y todo lo que llega al gobierno tiene una política de desprecio sobre el trabajador, porque las medidas que toma son todas represivas y si no te gustan represivas…",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después tuviste los tres \"traidores\", como el gobernador de Tucumán, de Salta y de Catamarca que posibilitaron que salieran las leyes y que los trabajadores paguen ganancias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3326
+}

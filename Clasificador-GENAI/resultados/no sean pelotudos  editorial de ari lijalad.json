@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.11,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Fuera del Congreso, se manifiestan personas que consideran que este proyecto de ley, impulsado por el gobierno, cede el país y generará una miseria planificada.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como consecuencia de las protestas, hubo represión: manifestantes, mujeres, militantes políticos y periodistas fueron reprimidos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una ingenuidad votar esta ley, desde la primera hasta la última letra, y colaborar con el gobierno en su aprobación, bajo el pretexto de que se puede mejorar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una ingenuidad privatizar empresas públicas como la Administración General de Puertos, Aerolíneas Argentinas, Correo Argentino, Aguas Argentinas, Intercargo, empresas del Banco Nación, playas ferroviarias y el Polo Tecnológico de Constituyentes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una ingenuidad votar el capítulo de Seguridad, que aumenta las penas por resistencia a la autoridad, habilita la doctrina Chocobar (que permite matar ante la sospecha de robo) y prohíbe los bloqueos a las empresas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2218
+}

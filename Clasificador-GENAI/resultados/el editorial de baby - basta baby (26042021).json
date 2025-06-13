@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente es como Maduro o Fidel Castro: un país no necesita un padre, sino un administrador.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, sin embargo, parece estar colaborando con el maoísmo de Zannini y Cristina Kirchner.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pretenden destruir el país para construir uno nuevo sobre las cenizas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un administrador se encarga de los recursos, de facilitar el trabajo a la gente, de ayudar al campo, de bajar las retenciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando denuncié los 80.000 vacunados VIP, me criticaron.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En realidad son casi 600.000.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Necesito un presidente que me dé la vacuna, que me dé una lista de los vacunados VIP, que no me encierre cuando le conviene.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un presidente con gente idónea, no con personas que solo buscan decir algo para llamar la atención y mantenernos gobernados por el miedo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted, señor Presidente, puede ser cualquier cosa menos vidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya sabemos que no hay vacunas, que hay negociados, que hay distritos que no cumplen las normas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1779
+}

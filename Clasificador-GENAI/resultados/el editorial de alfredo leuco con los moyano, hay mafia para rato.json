@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.79,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si ese próximo gobierno no es peronista o kirchnerista, deberá prepararse para la resistencia dañina y efectiva de los camioneros en la calle.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tienen y tendrán un gran poder para bloquear empresas, cortar calles y rutas y para \"apretar\" a empresarios con sus exigencias de coimas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la hora de defender sus negocios, sus intereses y su enriquecimiento, se mantienen unidos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Así son más fuertes para sabotear al próximo gobierno, si llega a ser de Juntos por el Cambio, y para mantener la impunidad frente a los delitos que han cometido.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie descarta vaciamiento y corrupción, aunque Hugo mire para otro lado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pablo es el \"patrón del mal\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su metodología es la \"patota\" y la extorsión de los bloqueos, que han fundido cientos de pymes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca hicieron una licitación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Moyano fueron independientes y los quebraron económica, futbolística y culturalmente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fueron cómplices de las barras bravas en negociados corruptos que todavía tienen que explicar ante la justicia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2430
+}

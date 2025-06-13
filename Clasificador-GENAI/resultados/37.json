@@ -1,0 +1,46 @@
+{
+  "texto_id": "Pesaje",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.089,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lealtad a las ideas del peronismo, a lo que el peronismo vino a hacer en esta patria.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos hacernos cargo, como dice Cristina en su documento: el peronismo se desordenó y se desvió; debemos reencauzarlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi conducción es Cristina. Creo que será la mejor presidenta del PJ, no por capricho, sino porque es la única que puede enfrentarse a la brutalidad del Gobierno Nacional.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una interpretación, por parte de algunos que acompañan a Axel, que tiene más que ver con desplazar a Cristina de la escena política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que hay que preservar a Cristina, creo que ella puede conducir este proceso del peronismo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo debe discutir a fondo temas como el endeudamiento, la reforma laboral, el desempleo, la política social y los precios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí, la única que puede representar a los peronistas es Cristina.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2314
+}

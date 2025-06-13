@@ -1,0 +1,56 @@
+{
+  "texto_id": "La fila de nuestros nietos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.101,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Siempre digo, cuando me preguntan qué pienso de ambos, el Presidente y la Vicepresidenta, que la tengo al lado y veo la fuerza de esa mujer, el gobierno que ha hecho, su calidad, no solo humana, sino también política.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa gente es mala, destructiva; muchos deberían estar en la cárcel.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos poca prensa libre, por la Ley de Medios, que debería regular cuántos medios puede tener cada persona.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los dos enemigos de Cristina y su gobierno fueron el Grupo Clarín y el campo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se equivocan, ya no es una pavada. Hay que marcarles.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto fue funcionario de Néstor Kirchner, siempre nos atendió.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Cristina hay que quererla, ayudarla y alentarla, porque tiene mucho para dar.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha existe en todos los países. Acá existe la barbarie, con quienes se dicen de derecha, los que van contra todos los derechos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me equivoqué tremendamente al aceptar que esté el ejército.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2813
+}

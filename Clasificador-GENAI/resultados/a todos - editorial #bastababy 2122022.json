@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.681,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Un martes que, con una irresponsabilidad suprema, algunos alcahuetes de Cristina, chupamedias, esos... Esa gente rastrera que, como siempre lo digo en este programa, lo decía Wimpy, todo aquel hombre que sea conocido por pedante, por adulón, por farsante, a todos lados irá, de todos lados saldrá como rata por tirante.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces yo creo que el martes se pueden jugar dos Argentinas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Cuál es la que yo sugiero y sugerimos todos? La coherencia, la democracia, el seguir confiando en las instituciones, el que si no te gusta el veredicto, apelalo, el que tenés muchas instancias todavía para poder saber si tu jefa no es ladrona, que no es corrupta.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no vamos a prender fuego al tipo que nos hace la demanda, o a un canal de televisión, o explotar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que los kirchneristas dicen que nosotros, cuando llamamos a la reflexión, el martes, hoy me enteré, están todos cagados y están pidiendo que no hagamos quilombo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto, en vez de pensar que está agarrado con dos alfileres y que lo estamos sosteniendo la oposición, y que no deja de hacer cagadas, compró al final ese avión pedorro con una cama de dos plazas que tiene internet para poder chatear de noche.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que parece que hay un retorno de 500.000 dólares en el apuro de la compra del avión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a recuperar el humor.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2474
+}

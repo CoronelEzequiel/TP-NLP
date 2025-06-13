@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_pobreza",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este índice revela un aumento de la pobreza en comparación con la medición anterior y, por supuesto, un incremento durante la actual administración.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, durante todo el gobierno de Cristina Fernández de Kirchner y lo que va del gobierno de Macri, la pobreza ha crecido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como mencionó Alfredo Leuco, existen seis mil villas de emergencia en Argentina, donde residen 12 millones de personas en condiciones vulnerables.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ni este gobierno podrá resolverlo, aunque se propusiera hacerlo y aplicara las mejores medidas, ni tampoco lo pudo solucionar Cristina Fernández de Kirchner, ni lo podrá solucionar ningún político individualmente, si no se aborda en conjunto y con la dimensión que exige.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin ello, el futuro prometedor, el futuro de \"pobreza cero\" que se proclama en cada campaña, será una cruel mentira, como la realidad lo demuestra.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1203
+}

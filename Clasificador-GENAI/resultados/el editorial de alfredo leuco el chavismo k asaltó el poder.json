@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.846,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Estamos ante un nuevo gobierno en el que la única que decide es Cristina Fernández y el que acata es Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto fue vaciado completamente de poder y Cristina simbólicamente ya está sentada en el sillón de Rivadavia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Malversación del resultado electoral, asalto o copamiento del gobierno por parte del cristinismo más extremo, que podemos definir ideológicamente como chavismo K.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se acabó la fase de la moderación y, por lo tanto, empieza la fase de la radicalización.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más temprano que tarde van a intentar estatizar muchas empresas y colonizar la Corte Suprema de Justicia con militantes que le den la impunidad que Cristina tanto espera y que tanto la desespera.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es la presidenta en ejercicio, como cantaron el sábado en Ensenada y Alberto por ahora sigue atormentado porque tiene ganas de renunciar, pero no se atreve.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El horizonte es tormentoso e inquietante.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nos gobierna una enagenocracia, la insensatez, la locura en el poder.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como dijo Martín Tetaz, la única renuncia que podría llevar cierta tranquilidad al país sería la de Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina orquestó un golpe de estado en cuotas y Luis D'Elía, un kirchnerista piquetero de la primera hora, fue en el mismo camino.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un nuevo gobierno en la Argentina; sin timidez van a fortalecer las relaciones carnales con las dictaduras de la región; van a intentar llevarse por delante las instituciones republicanas y la división de poderes; ya lo hicieron en Santa Cruz y lo van a hacer ahora.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta vez es cierto que la patria está en peligro y que la democracia entró en un pantano.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2266
+}

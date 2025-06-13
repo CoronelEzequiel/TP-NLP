@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.853,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este delincuente, además, fue castigado con una multa por el 60% de su enriquecimiento ilícito y con inhabilitación perpetua y absoluta.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "López, un oscuro ladrón al servicio de Néstor y Cristina, se hizo famoso con un video que parecía una película policial clase B, una \"averretada\" de un malandra que no supo hacer el bien ni el mal.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Para repugnancia de todos, todo ocurrió de madrugada en un falso monasterio donde vivían unas falsas monjas que recibían con los brazos abiertos a Julio De Vido, el gerente general de coimas y retornos del cártel de los pingüinos millonarios.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tal vez por eso Cristina protagonizó otra actuación histórica en una entrevista, reconociendo que a José López lo odió como pocas cosas odió en su vida.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A López, como le decían, la justicia le decomisó –escuché bien– la justicia le decomisó 8.9 millones de dólares, 153 mil 610 euros, algunos yuanes y dinero de Catar –un visionario el hombre– yuanes y Catar, fíjese– y relojes de oro, relojes de oro de alta gama de la marca que Cristina ostenta en su muñeca, y además una mansión en Tigre.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El dinero de la corrupción que le robaron al pueblo volvió al pueblo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo cierto es que José López pertenece a la lista de los condenados que encabeza Cristina, la jefa de la banda, cuyos integrantes más notorios son Amado Boudou, Julio De Vido, Lázaro Báez, Ricardo Jaime, Milagro Sala y Sergio Urribarri, entre otros kirchneristas de pura cepa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Aquellas imágenes de López desesperado en la puerta del presunto convento de Nuestra Señora del Rosario de Fátima son un emblema de lo que fue el robo del siglo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "López, en la causa de los Cuadernos de las Coimas K, como arrepentido también confirmó las coimas y dijo que todo se hacía con las órdenes de Cristina y de Julio De Vido.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "José López no fue el más corrupto de todos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sus jefes fueron mucho más corruptos que él.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tanto Julio De Vido como Cristina y Néstor robaron fortunas incalculables que convirtieron los 9 millones de dólares en un vuelto.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lópezito robó para la corona de la dinastía Kirchner, que quedará en la memoria colectiva de los argentinos como un repugnante ladrón de ladrones.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Da vergüenza ajena lo que hizo y lo que hizo su espacio político.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se llenaron la boca hablando de los pobres y se llenaron los bolsillos con el dinero de los pobres.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2981
+}

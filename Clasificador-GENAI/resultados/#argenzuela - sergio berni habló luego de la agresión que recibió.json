@@ -1,0 +1,81 @@
+{
+  "texto_id": "entrevista_a_jorge_riaz",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.364,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando decimos que no tenemos la justicia alineada, estas cosas parecen increíbles.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se mezclan las miserias con el dolor y la preocupación de quienes perdieron a un compañero de trabajo y saben que pueden correr la misma suerte.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A esto se suman activistas políticos que conocemos y que están constantemente agitando, una importante disputa interna en la UTA (entre dos facciones y otros independientes que buscan visibilidad en la conducción), y, como sabemos, la conducción implica dinero.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno de Axel Kicillof, en diciembre de 2021, les entregó subsidios (entre 5.000 y 16.000 millones de pesos, en valores actuales) para que instalaran las cámaras, como se había comprometido Ritondo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí estaban los choferes, acongojados por la pérdida de un compañero y con miedo; los que se disputan la conducción de la UTA y que saben que las empresas no cumplieron, pero les conviene mirar para otro lado; y vi una o dos caras de barrabrava y activistas políticos conocidos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero nosotros, los que estamos todos los días en la calle, sabemos cuando la tensión crece y cuándo se llega a una buena resolución.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La violencia no se combate con violencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno de los problemas que tenemos hoy es que en este país es mucho menos riesgoso salir a robar que trabajar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el peronismo, dicen que los únicos privilegiados son los niños, y se equivocan al no querer debatir la ley de imputabilidad de los menores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos discutir estas cosas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando seamos gobierno, la vamos a hacer.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos debatir con evidencia científica, conocimiento y experiencia.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La única verdad que escuché decir a Bullrich fue que los dos tenían razón (Ibarra acusaba a Macri de ladrón y Macri acusaba a Ibarra de inútil).",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Uno de los grandes logros que hicimos es que el 24% de los delitos se resuelven en las primeras 24 horas.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6238
+}

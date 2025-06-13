@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.769,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sería una catástrofe para los ciudadanos republicanos que ansían cerrar para siempre el ciclo del nacionalpopulismo corrupto y chavista del kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si esto ocurriera, el riesgo de una nueva desilusión sería muy grave.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La principal tarea, en consecuencia, es derrotar en las urnas a quienes enterraron a la Argentina en este barril sin fondo del atraso.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En definitiva, prepararse para ganar, pero sobre todo para gobernar y terminar con la decadencia de un peronismo que solo busca impunidad para Cristina y eternizarse en el poder con un \"pobrismo\" chavista.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Juntos por el Cambio debe fortalecerse para dejar de ser un rejunte por el cargo, o peor aún, divididos por el cargo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hacer política, entre otras cosas, es generar organización y tener capacidad de movilización ante situaciones graves.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Juntos por el Cambio es el artefacto político masivo más novedoso, que hace tres elecciones supera el 40% de los votos y que tuvo el primer presidente no peronista en 90 años en entregar el poder en tiempo y forma, y que le produjo, además, la peor derrota electoral de la historia al peronismo unido.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo eso suma y lo consolida como el mejor instrumento para la clase media y los sectores productivos no kirchneristas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2179
+}

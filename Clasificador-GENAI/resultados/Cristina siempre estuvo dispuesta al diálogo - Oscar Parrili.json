@@ -1,0 +1,36 @@
+{
+  "texto_id": "dialogo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy comienzan los alegatos de la vicepresidenta. Y como hubo en los alegatos de los fiscales. Esa es una forma de diálogo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gracia no es juntarse con los que piensan igual, la gracia está en juntarse con los que piensan distinto y ver si, al menos, en economía podemos tener un acuerdo mínimo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Con la Constitución sobre la Mesa\". Con la Constitución sobre la Mesa. Con la Constitución sobre la Mesa, siempre prolífico en sus dichos, *Mauricio Macri*.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un acuerdo con el Partido de la Unión Cívica Radical, con el doctor Balbín, en préstamo. Si nosotros triunfamos, lo llamaremos a ellos a compartir el gobierno con nosotros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que las soluciones las dan los grandes oponentes. En general, son los grandes oponentes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2982
+}

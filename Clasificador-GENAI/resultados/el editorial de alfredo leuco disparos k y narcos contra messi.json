@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.706,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los talibanes del kirchnerismo explícito y mediático dispararon contra Messi con insultos y estigmatizaciones.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De ninguna manera estoy diciendo que una cosa fue consecuencia de la otra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El primer responsable de combatir este crimen organizado, claramente, es Aníbal Fernández.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otro Fernández, Alberto, el presidente decorativo, es el responsable político de extirpar a los narcos de nuestro país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de la confirmación de que estábamos ante el peor gobierno de la democracia recuperada, lo cierto es que ningún peronista frenó aquel incomprensible ataque a Messi, uno de los argentinos más queridos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se volvieron locos de bronca porque Messi y sus compañeros gambetearon a Cristina, Alberto y Agustín Rossi y no fueron a la Casa Rosada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo comenzó con este ganador del premio de \"Vest\" a los papelones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No hay nada que vincule el ataque mediático a Messi con los 14 balazos de Rosario.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1983
+}

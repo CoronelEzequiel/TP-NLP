@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.678,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se refiere a la persona que, sabiendo que debe cumplir las normas sanitarias, no lo hace.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Antes se hablaba de negacionistas, terraplanistas y antivacunas para atacar a un enemigo que, en Argentina, casi no existe.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi intención es destacar lo siguiente: cuidado con esta nueva estrategia que suma un nuevo enemigo al relato: los covidiotas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Existe realmente la persona que lamentablemente ahora está internada en Córdoba?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el gobierno tampoco dio una respuesta contundente o terminó de aclarar todas las dudas que hay por los ingresos a la Quinta de Olivos, de gente que entró a la residencia presidencial en medio del aislamiento obligatorio.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, cuidado cuando se señale a \"covidiotas\", porque pueden ser los nuevos runners, los nuevos surfers, pero son personas que se contagiaron, no porque querían.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ya verán cómo entró el rey Lakota.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras tanto, siguen estando los varados y no están las vacunas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La segunda dosis de la Sputnik V no está en Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1605
+}

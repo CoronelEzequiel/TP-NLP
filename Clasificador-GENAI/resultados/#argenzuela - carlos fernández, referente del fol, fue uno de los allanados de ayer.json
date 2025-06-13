@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Para mí, lo más importante es que este gobierno solo puede mostrar represión, odio y ensañamiento contra los sectores populares.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El objetivo es destruir a las organizaciones sociales, que son la única ayuda en lugares donde el Estado no llega.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema es que quieren mostrar que somos organizaciones delictivas, no organizaciones en la primera línea contra la miseria, el hambre y los narcos.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso es lo que está pasando. Es el modelo de Colombia, Ecuador y otros lugares de América Latina donde las organizaciones sociales casi no existen.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchas compañeras pusieron el cuerpo en la pandemia —fueron las heroínas de la pandemia, sin las cuales el Estado no hubiera llegado— y este gobierno lo está tratando de destruir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer… en tu casa te levantaste a las dos de la mañana, y en mi casa entraron a las 5 y se fueron a las 8. Tengo dos hijos pequeños, me rompieron la puerta, un desastre… ¿Sabes cuántas veces hemos denunciado a narcos que apretaban a vecinos desde la cárcel, a chicas?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3024
+}

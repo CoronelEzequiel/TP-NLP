@@ -1,0 +1,26 @@
+{
+  "texto_id": "turismo_vacaciones_invierno",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Analizando los datos de nuestro informe, observamos una performance mejor a la esperada, considerando la baja temperatura en las vacaciones de invierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es importante considerar el contexto económico actual.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El descenso del turismo externo se debe principalmente al tipo de cambio y a los altos precios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1199
+}

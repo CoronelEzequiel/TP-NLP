@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_gasoducto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Y eso es lo que está pasando ahora con el proyecto del gobierno para construir un gasoducto que lleva irónicamente el nombre de Néstor Kirchner.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este contexto es que el gobierno, igual que el gobierno de Macri, —aquí hay una continuidad— dicen sería estratégico construir un nuevo gasoducto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que estamos viendo en los últimos tres días, desde el discurso de Cristina del viernes hasta ahora, es qué capacidades tiene, ya no el gobierno, la clase política en su conjunto, para hacer esta obra, y nos vamos a encontrar con una decepción extraordinaria, nos vamos a encontrar con una especie de radiografía de la decadencia política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gran beneficiario, obviamente, de todo esto, es Cristóbal López, el gran beneficiario de toda esta polémica es Cristóbal López, porque en este río revuelto es posible que logre algún objetivo de meterse o meter a algún amigo en la construcción del gasoducto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recuerde que uno de los grandes escándalos del kirchnerismo en materia de obra pública fue la ampliación de gasoductos conocida como caso Skanska, curiosamente denunciada por Techint, o denunciada con información de Techint, es decir, que de estos problemas de obra pública terminamos en los problemas de corrupción, con Cristóbal López queriendo meterse en el negocio, y estos problemas de corrupción nos llevan a los problemas de la justicia y la necesidad de impunidad.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8304
+}

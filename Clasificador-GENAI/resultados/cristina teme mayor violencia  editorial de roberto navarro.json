@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La Constitución, sabiamente, impide que triunfos circunstanciales permitan cambios radicales en el país.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sus expresiones de enojo se extienden a los legisladores y gobernadores, llegando a presentar, casi como una medida de confrontación, un proyecto para derogar la ley de aborto legal, seguro y gratuito.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Paralelamente, se observan consecuencias negativas en la gestión: falta de entrega de medicamentos oncológicos y alimentos, así como la suspensión de fondos a las provincias, lo que agrava la situación en materia de salud y provisión de bienes básicos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri anticipa un colapso económico del gobierno en marzo o abril.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina valora la determinación política del presidente [Nombre del presidente], considerándolo el político con mayor coraje, un líder kirchnerista en su manera de actuar, y constata una falta de liderazgo con la misma decisión en el resto de la dirigencia política, incluso dentro del peronismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri prevé el fracaso del gobierno del presidente [Nombre del presidente], mientras que Cristina Fernández de Kirchner se muestra más optimista, reconociendo su astucia política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1738
+}

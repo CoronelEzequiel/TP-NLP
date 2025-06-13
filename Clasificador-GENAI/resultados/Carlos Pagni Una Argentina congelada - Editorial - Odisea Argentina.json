@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Algunos se quejan por la cuarentena, otros se quejan por cuestiones de carácter político y, centralmente, la franja más extensa de los que reclaman, reclamaron por un tema de calidad institucional y, sobre todo, por un problema de justicia frente a lo que es una percepción de gran corrupción.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este juego entre representados y representantes tiene, evidentemente, enormes insuficiencias, enormes fallas entre nosotros, y esto hace que veamos un país que está reclamando lo mismo hace ya demasiado tiempo, sin una clase política que pueda absorber ese reclamo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la Argentina es un tema central, en el centro de esta discusión, Cristina Fernández de Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No pudo explicar el pacto con Irán, por qué fue y volvió de ese tema. No pudo explicar los bolsos de López, no puede explicar el funcionamiento de sus hoteles, vacíos pero cobrando de empresarios ligados a los negocios públicos, a negocios regulados por el Estado, no pudo explicar un tema importantísimo, las extraordinarias revelaciones precisas documentadas de los cuadernos de Centeno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una concepción profundamente antiliberal en el corazón del oficialismo actual que es la que ha ido implantando Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo aísla en el sistema político; él, por ejemplo, no puede ir a un acuerdo político para tratar esta agenda de reforma judicial. No puede nombrar al procurador general de la nación porque necesita dos tercios del Senado y no los tiene, justamente porque nadie quiere convalidar toda esta política judicial.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En medio de esta crisis, que es una crisis que probablemente lleve la pobreza a niveles del 50% y haga crecer muchísimo la desocupación, una contracción de la economía sin antecedentes históricos, sobre ese telón de fondo, contrasta este debate de la clase política o esta falta de respuesta ético-institucional de la política, con lo cual se agrava el problema.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5961
+}

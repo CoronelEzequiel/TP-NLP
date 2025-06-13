@@ -1,0 +1,76 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.608,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y lo que viene con ese triunfo, las características, las peculiaridades de este nuevo gobierno de Trump, que son para muchos desconcertantes, daría la impresión de que es una ratificación más de una crisis, la crisis general que vive el liberalismo; otros podrían decir la socialdemocracia a escala occidental.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la Argentina, este triunfo tiene, como todos sabemos, modulaciones especiales por cómo se refleja, por cómo se ve el gobierno de Javier Milei en el espejo de Trump, a tal punto que muchos voceros del gobierno argentino, de los que se expresan en canales de streaming, en las redes sociales, festejaron ese triunfo como propio y dijeron, \"lo hicimos\", es decir, como si fuera una victoria a la que contribuyeron directamente, personalmente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un índice de inflación que promete seguir mostrando que la inflación va cediendo, se va a conocer mañana ese índice, pero viene anticipado, como siempre, el índice de inflación de la ciudad de Buenos Aires, que fue de 3,2%.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos hablando del total de los grandes aglomerados urbanos de la Argentina; son dos mediciones, la que está en bordo es la pobreza, la que está en un colorado más suave es la indigencia. Pasa de 54,8% a 51%.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, esto de ocupados pobres tiene que ver con un tema que está íntimamente relacionado a la política, es un determinante de la política, es un determinante del nivel de consenso que tienen los gobiernos, que es el comportamiento del salario, y acá vamos a mirar unos números que fueron elaborados por Alfonso Prat-Gay, estamos hablando del salario real, es decir, el salario, el poder adquisitivo del salario, el salario descontado de la inflación, en pesos de septiembre de este año, y es una curva que nos trae desde el 95, es decir, de la reelección de Menem hasta ahora, es una historia argentina este gráfico, es la historia contemporánea de la Argentina; miren lo que es la caída del salario, por ejemplo, después de la crisis de la convertibilidad, con la gran devaluación de comienzos del 2002, esto es la historia del kirchnerismo, se explica mucho el éxito político del kirchnerismo en esta pendiente, en estas estribaciones ascendentes, el estancamiento arriba pero estancado, la caída durante el gobierno de Macri, que es el tramo amarillo, y esto que es el drama del peronismo, esta caída, y después el derrumbe a partir de diciembre con la devaluación, el derrumbe del salario y esta recuperación, esta recuperación que tiene que ver con el gobierno de Milei, los primeros meses del gobierno de Milei, estamos hablando de que el final de la curva es de septiembre del 24, y acá hay un punto, es este el tema, cierto estancamiento en la recuperación del salario, entonces, pareciera que este último tramo de la curva nos está diciendo, o nos está emitiendo, nos está mandando dos mensajes, primero, hay una recuperación, cayó, fíjense hasta dónde cayó, el salario real tenemos que ir a la devaluación de Dualde, para encontrar un piso similar, una recuperación interesante, que nos hablaría de que la percepción es de alivio, no sigue cayendo, se frena, está íntimamente ligada a la caída de la inflación, obviamente, esta recuperación, es una mezcla de caída de la inflación más inercia de las paritarias, pero después, una especie de estancamiento, cuyo significado político no conocemos, pero habrá que ir viendo con los meses, porque en esto se juega mucho de la peripecia política de lo que está por venir, un estancamiento que podría agregar a la idea de, estoy aliviado porque dejé de perder poder adquisitivo, con no llego, deja de caer el salario, deja de caer el salario real, deja de caer la capacidad de compra, pero deja de caer en un punto, donde no alcanzo a recuperar mi nivel de vida anterior, esto es interesante, lo explicó una vez acá el año pasado Juan Carlos Torre, sociólogo, historiador, planteando algo que él registra en su libro sobre la gestión de Juan Sourrouille, *Una temporada en el quinto piso*, que es que los programas de estabilización tienen un poco este efecto en general, es decir, la inflación se frena, pero al frenarse la inflación es como una especie de shock de realismo, donde cada uno sabe en qué lugar de la pirámide social quedó, y eso puede ser frustrante, es una especie de objetivación frustrante, que produce desencanto, bueno, acá hay un alivio, y un estancamiento, que a mucha gente le dice, bueno, quedé muy atrasado respecto del poder de compra, y mi nivel de vida estable es inferior al que tenía, habrá que ver cómo esto se traduce en la política, ¿por qué? Porque no hay ninguna variable en la vida pública, que impacte tanto sobre la política como el comportamiento del salario real, casi que determina el voto, el voto que está determinado por tantas variables, esta es una muy importante, por lo tanto hay que seguir esta historia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La primera es el triunfo de un método; lo que ve Milei y su equipo, igual que otros actores políticos en Occidente, en el triunfo de Trump es la convalidación de un modo de hacer política basado en la radicalización, basado en la confrontación como método, en el traslado de esa, o en la tramitación de esa confrontación y de esa agresividad a través de las redes sociales, la idea de un liderazgo que se propone como liderazgo contra el establishment, contra la casta, eso es Trump, y para los que están en esa lógica, que son muchos en Occidente y eminentemente Milei y su gobierno, es la convalidación de que ese método funciona, con consecuencias que después vamos a analizar en el orden práctico, ahora vamos a ver cuando llegue Trump al poder después del 20 de enero, cuando asuma la presidencia, muy probablemente se van a consolidar algunas promesas que él hizo, entonces vamos a ver si además del triunfo de una forma de hacer política y de acceder al poder, esta nueva experiencia de Trump no es una nueva forma ya de gobernar, basada en qué? en la concentración de poder, por eso hay una enorme perplejidad respecto de qué significa este triunfo, la misma perplejidad que hay en la Argentina respecto del comportamiento de Milei, ¿esto es el liberalismo clásico?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Trump promete ir en contra del Pentágono, por viejas cuentas que tiene con los militares americanos, sobre todo en relación con algunas filtraciones de información en relación con los chinos, promete ir contra la CIA, frente a la cual también se siente traicionado, porque filtraron mucha información de sus relaciones con Rusia, Ucrania, etcétera, las negociaciones con Zelensky para hundir al hijo de Biden, promete ir contra, obviamente, contra el FBI, al que le atribuye él ser el instrumento del *lawfare*, es decir, de la persecución penal del enemigo por parte de los demócratas, ahora vamos a hablar después de esto, que es un tema muy interesante, promete radicalizar algo que ya sabemos que va a radicalizar, porque es parte de su marca, la política migratoria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Concentración de poder que implica también conflicto con los congresos, Trump, Bolsonaro, Milei, hay un problema con los congresos, es el lugar de la deliberación el congreso, es el intercambio racional de proyectos, es algo medio incompatible con una política que pretende rodear a líderes que se basan en la movilización de sentimientos, de emociones.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Argentina está dándose esa discusión, que es una discusión operativa, práctica, que obviamente tiene que ver con la indigencia que tiene el gobierno de Milei a nivel institucional, no tiene senadores, no tiene diputados, no tiene gobernadores, no tiene intendentes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso casi desean desde el poder ejecutivo que el congreso no les apruebe el presupuesto. No solo para poder seguir con el presupuesto anterior que les da mucha más libertad de maniobra, sino para poder decir, ven ahí está el congreso, es el lugar de las ratas, que es como le gusta llamarlos a Milei.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo esto está muy alineado con este clima internacional que se refuerza, que se vuelve más denso con el triunfo de Trump y que le hizo decir a Patricia Bullrich que era la encarnación del republicanismo, como candidata del PRO, acá hay que apostar a liderazgos fuertes y al nacionalismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Santiago Caputo, el \"Marlowe\" de Kremlin, que es el principal asesor de Javier Milei, el hombre en el que Milei delega prácticamente toda la política, práctica, tiene una fantasía, si uno mira las cuentas que se le atribuyen en X y que él jamás desmiente, pero además los que lo conocen afirman esto, tiene toda una fantasía como una especie de admiración de fetichismo con el Imperio Romano.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para simplificar mucho, salvajemente, podríamos decir que el triunfo de Trump en Estados Unidos lo convence a Milei y a su grupo de que hay que no pactar con Macri, hay que avasallar a Macri, hay que avasallar al PRO porque ya tenemos el voto de Macri, el voto del PRO.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8415
+}

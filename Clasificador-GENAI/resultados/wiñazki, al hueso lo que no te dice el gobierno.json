@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, un año después, la situación es mucho peor, y el gobierno enfrenta una situación extremadamente compleja.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El panorama no es alarmante, pero sí potencialmente muy complicado, y el gobierno se encuentra en un laberinto del que parece no poder salir, producto de numerosos errores.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un año después, el gobierno incumplió su promesa de vacunas, desatándose el escándalo del \"Vacunagate\", que derivó en el cambio de ministro de Salud.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A esto se suman violaciones a los derechos humanos en diversas provincias (Formosa, Santiago del Estero, entre otras), casos como el de Solange, Avi Gail y otros, que parecen haberse olvidado.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La campaña de vacunación, prometida como épica, fracasó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno ha cambiado su discurso, enfocándose en la salud y la economía, dejando de lado la justicia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1730
+}

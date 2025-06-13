@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.571,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno se quedó sin dólares, el Banco Central se quedó sin dólares.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "las demás metas, y en especial las que tienen que ver con el déficit fiscal, también están totalmente desmadradas, tampoco se cumplen.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto pone a Massa y a la política del gobierno en una situación muy inconveniente desde el punto de vista electoral, no solamente porque la mala economía deteriora el caudal electoral del gobierno, sino porque lo obliga a tomar decisiones que son las peores en una campaña electoral para cualquier gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un premio a las grandes empresas y un castigo a los ahorristas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "se estimula a aquel que consume más dólares para pagar deuda fuera, [...] se estimula también a los importadores y se castiga a los exportadores.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el superávit comercial, [...] fue de 45.500 millones de dólares. ¿Dónde están?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recibí prohibiciones explícitas de invitar a toda persona vinculada a Mauricio Macri, Patricia Bullrich, y esto es lo curioso, y economistas kirchneristas, pero no alineados con cierta ala de la política del Frente de Todos, como Julia Strada o Sergio Chousa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8028
+}

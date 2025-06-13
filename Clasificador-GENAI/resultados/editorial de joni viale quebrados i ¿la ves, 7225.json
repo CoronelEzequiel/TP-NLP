@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Yo te diría que el kirchnerismo puede ser lo que dice Menem: \"Hacerse\" declaró oficialmente en bancarrota, mirá.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como buena líder populista autoritaria, ella entiende el liderazgo como único e irrepetible.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es la versión mejorada, suave, edulcorada, perfumada, jornada actualizada, templada, mesurada y prudente de Cristina.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque cuando uno dice... cualquier persona que diga que es apolítico es macrista o es anti-kirchnerista.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que Messi es un mensaje de vida en sí mismo. Es familia, es orden, es progreso, es mérito, es respeto por el otro.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Maradona es un estilo de vida en sí mismo, que también fue el mejor en la cancha, un crack, una bestia.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y nos vamos a ir a conversar sobre cómo se reorganiza este peronismo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque a los votos peronistas, con peronistas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que, compichitos, vamos a conversar cómo recuperamos todos los votos peronistas de la capital peronista y quizá de provincia también.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5237
+}

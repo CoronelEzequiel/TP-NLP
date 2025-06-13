@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_a_sebastian_canero",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.457,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Uno sospecha que gran parte de ese dinero era de origen ilícito.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto también refleja la realidad del país: las cajas de seguridad de los bancos están repletas de dinero no declarado, los inmuebles tienen un valor fiscal y otro real, la venta de autos no está muy regulada, ni siquiera la publicidad en los medios.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si le debes dinero y lo ves conduciendo un Lamborghini en Miami, imagínate la bronca y el repudio.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era habitual en él. Una persona que vende coches de ese nivel… No lo seguía en redes, lo vi en los medios.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La plata llama a la plata.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Encontró su nicho en un cierto perfil de cliente: gente rica, emprendedores adinerados, y le fue muy bien.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las burbujas bursátiles y criptomonetarias… no entiendo mucho, pero se hizo rico.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2025
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me puse a mirar y evidentemente a los jubilados les fallaron los sindicalistas, los barrabravas, les fallaron, porque chicos, si el tema no es desestabilizar al gobierno y es defender a los jubilados, hoy tenían que haber atado todo y fue la marcha más pobre que vi en los últimos años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy me sacó Canosa al aire para ver qué opinaba y le digo, mirá Canosa, te voy a decir la verdad, si querés que hable de mi ley, hay un montón de cosas que con mi ley no comparto, que no me gustan, pero los re banco, los banco porque soy el presidente y que van a ganar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A lo mejor se pretendía que yo diga, en este gobierno de hijos de puta, la gente se está quejando porque ya no aguantaba y es mentira, en esta es mentira, en esta es mentira, la gente no se está quejando porque no aguanta más, los jubilados no aguantan más, el resto van a desestabilizar, pero algún pacto hay adentro, para mí, entre el gobierno y los sindicatos y otras fuerzas para que no vayan.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que es un poco cruel la extorsión porque creo que es hora de que el Presidente muestre las cartas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no lo está escuchando Milei y no lo escuchan los diputados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora nos despertamos. Y hoy estábamos todos mirando la tele despiertos. Y nos dio vergüenza todo despierto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8120
+}

@@ -1,0 +1,106 @@
+{
+  "texto_id": "analisis_massa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Tratar de calibrar en la medida de lo posible, en medio de un mar de incógnitas, cuáles son las realidades y los mitos de esto que podríamos llamar \"operación Massa\": la llegada de Sergio Massa al Ministerio de Economía, las expectativas que generó, las que tiene, y una enorme operación de comunicación basada sobre todo en tres ejes que buscan diseñar la imagen de gestión que quiere proyectar Sergio Massa sobre la opinión pública, los operadores económicos, etc.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este es uno de los ejes que hemos conocido de la proyección que Massa le quiere dar a su gestión y a su llegada al gabinete, al poder ejecutivo en estos días.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El segundo tiene que ver con la idea de que es un \"superministro\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El tercer mensaje de Massa: su sola nominación, la sola perspectiva de que él esté a cargo del destino material de la Argentina, ha producido un vuelco en las expectativas y ha mejorado, antes de que él llegue, los indicadores económicos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cardoso fue presidente de Brasil en el 94, ahí le ganó la elección a Lula, pero llegó al Ministerio de Hacienda en el año 92.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, Massa no es un intelectual.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, sí hay una diferencia llamativa entre lo que estamos viendo ahora en la llegada de Massa y el experimento de Cardoso y su Plan Real.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Claro, es lógico. Está rodeado de incógnitas el proyecto Massa, porque está rodeado de las mismas incógnitas que no se pudieron resolver en las experiencias anteriores, Guzmán y Batakis, que son incógnitas políticas e incógnitas específicamente económicas de gran magnitud.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa dice: \"Eso fue por mí\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiere decir que estamos mucho mejor que con la corrida de Batakis, pero bastante peor que con la situación que dejó Guzmán.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa está pensando, por lo que trasciende de su entorno, en mejorar las reservas del Banco Central, inyectando reservas en el Banco Central, buscando préstamos en dólares para poder tener más espalda en una evaluación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo mismo tiene que ver con el campo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La otra pata de un plan de estabilización: uno, devaluación; dos, la subida de la tasa de interés.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y acá viene el gran problema. ¿Qué solvencia fiscal tiene el que me promete esa tasa?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hay un pragmático, es decir, es alguien que ve la realidad, entiende lo que la realidad exige y está dispuesto a flexibilizar sus ideas, sus prejuicios, sus preferencias, en función de lo que la realidad demanda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Va a ver que, si uno revisa bien, mira con lupa, lo que vamos a ver, no la semana que viene, pero dentro de quince días, es que Massa, disimuladamente, empieza a armar en el conurbano.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy se sacó una foto con Massa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora lo tiene que hacer Massa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay mensajes de texto, de WhatsApp, del aparato de prensa de Massa pidiendo a canales de televisión: \"Queremos que digan que está bajando el dólar por Sergio y que Sergio es superministro\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9617
+}

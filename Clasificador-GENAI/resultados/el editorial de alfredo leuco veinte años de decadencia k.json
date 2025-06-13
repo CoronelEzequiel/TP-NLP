@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.906,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Así comenzó el ciclo más autoritario y corrupto desde 1983.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor y Cristina siempre fueron malas personas, con voracidad por el poder y el dinero, pero encontraron en las teorías del neopopulismo marxista de Ernesto Laclau la justificación ideológica para su mezquindad, maltrato, codicia y la estigmatización de sus enemigos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Han logrado convertir a nuestro sufrido país en tierra arrasada.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Siempre digo que Cristina Fernández de Kirchner es la persona que más daño le hizo a la Argentina y a la que más daño le puede seguir haciendo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nadie puede planificar nada en esta tierra arrasada por Cristina Fernández de Kirchner y su banda delictiva.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero lo más grave es que el kirchnerismo se ha transformado en el aguantadero de todo tipo de delincuentes: de los corruptos ladrones de estado como ella misma, Cristina Fernández de Kirchner, Amado Boudou, Lázaro Báez, Julio De Vido y cientos más, y del lado de los dictadores criminales que gobiernan Cuba, Venezuela, Rusia e Irán.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Siempre están del lado del eje del mal, a favor de los victimarios y en contra de las víctimas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es la confrontación en las urnas entre un modelo chavista que genera más pobreza y menos libertades, y otro modelo republicano popular que quiere volver a la producción, al mérito y a reinsertarse entre los países que progresan y no entre los países que regresan como Venezuela, Cuba y Nicaragua.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2293
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_castagneto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.16,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La verdad que es vergonzoso lo del presidente en todos los sentidos, y creo que esto es la gota que colmó el vaso, porque realmente pedirle la renuncia al gobernador por un hecho de inseguridad y, sobre todo, jugando con el dolor de la familia…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y en el caso de los libertarios, bala o muerte, viste como dice Espert, o mismo el presidente, me parece que generan un microclima que no es bueno para la Argentina y están destrozando, primero, invisibilizando a los más vulnerables.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La clase media se está reajustando para seguir siendo clase media y un gobierno que sigue insistiendo con lo mismo y lo único que le gusta es besar la mano a Trump y al Fondo Monetario, y a todo esto, Elon Musk, que se llevó a empezar a usar una motosierra en lugar de estar acá en el país viendo los problemas del país, que no le interesan, porque es un topo, y realmente es un topo porque viene a destruir todo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que no tiene nada para mostrar y realmente nosotros para restarnos a un show de un presidente que no tiene la categoría y tampoco creo que tiene la dignidad para semejante investidura, ir a acompañar a eso no.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que tendría que hablar mañana él ante la sociedad que le va a querer escuchar, explicar qué hizo con el tema de las criptomonedas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2628
+}

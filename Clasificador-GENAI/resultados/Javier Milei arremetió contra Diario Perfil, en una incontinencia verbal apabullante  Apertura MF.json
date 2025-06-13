@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "De esta manera, cualquier persona que critique cualquier aspecto de la gestión del gobierno, en este caso, pasa a ser un enemigo o es insultada por el presidente con todo tipo de impropiedades.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy se reveló un dato: soy el segundo presidente con mejor imagen del mundo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los liberales no somos manada y cada cual tiene su opinión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estados Unidos, sean demócratas o republicanos, el aliado es Estados Unidos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y sin embargo, la gente de Tinturelli me sigue mandando esto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5918
+}

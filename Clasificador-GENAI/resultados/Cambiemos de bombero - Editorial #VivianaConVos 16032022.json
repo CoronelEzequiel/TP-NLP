@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.83,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este presidente no puede apagar un incendio, no puede apagar un pucho. Esta es la gente que en la cuarentena se dejaba pasear a tus perros, pero no a tus hijos, mientras la primera dama hacía el \"Olivos Gate\" y se iba de viaje a Misiones a ver a toda su familia en vuelos privados que pagábamos nosotros.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Crearon el ministerio de la mujer, se comieron todas las picadas con la nuestra, ahora están en Dubái gastando la nuestra. Con un 50% de pobreza, con 7 de cada 10 pibes pobres.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta le chupamos las medias a Putin dos segundos antes de comenzar la invasión. Las hicieron todas y más. Por favor, cambiemos al bombero. Está claro que este bombero no funciona.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá a esta madre durmiendo a su hija en medio de un acampe. Ahí pasaron la noche, la madre la caricia. Durísimo ver esto, durísimo ver esto. Pero es mucho más duro si lo ves en la \"cámpara\". Durísimo ver esto, pero es mucho más duro si lo ves al presidente dando clases de aquagym.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no ocupas el espacio vos, te están tirando de los pelos para ocuparlo. Hablando de expresidentes, la que no puede evitar su pasión por viajar con la nuestra es Cristina. Gastó 16 millones de pesos en ir al sur con aviones de la presidencia y sin agenda oficial. Lo que pasa que, claro, Cristina es una pobre pensionada. Ah, no. Siempre con la nuestra.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8813
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.217,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Considerando que hay más de 300.000 habitantes de villas, es paradójico que nunca hayamos tenido un diputado o legislador que represente a este sector, que constituye el 15% de la población de la ciudad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como decía Perón, nadie puede representar mejor al pueblo que alguien que provenga del propio pueblo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El éxito de Néstor Kirchner se debió a la valiente decisión de sacarse de encima al FMI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De Marra puedo decir que no es sincero, que es un cobarde.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sergio Massa tiene una actitud conciliadora, y creo que podemos encontrar un camino común.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Venimos a poner al porteño en el centro de la escena, a construir una ciudad con igualdad de oportunidades para todos, sin importar dónde nazcan.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2584
+}

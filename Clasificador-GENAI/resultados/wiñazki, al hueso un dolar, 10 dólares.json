@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El dólar blue, supuestamente usado por narcotraficantes y vendedores de armas (según una declaración oficial que genera preocupación por la falta de transparencia en su control), lo simulo a $140.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, esta simulación ilustra la complejidad del mercado cambiario argentino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La falta de transparencia y la multiplicidad de tipos de cambio afectan la economía, generando incertidumbre y dificultando la planificación económica, además de perjudicar al consumidor.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La proliferación de estos tipos de cambio, con nombres tan creativos (dólar soja, dólar vaca, etc.) refleja una situación económica compleja que necesita ser abordada de manera integral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En definitiva, la situación es caótica y todos estamos cansados de esta inestabilidad.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1294
+}

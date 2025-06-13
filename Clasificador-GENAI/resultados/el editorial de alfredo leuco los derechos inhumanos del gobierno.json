@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.888,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La banda de delincuentes liderada por **Cristina Fernández de Kirchner** perpetró la estafa más grande de la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue un plan sistemático para saquear al Estado y enriquecer en forma colosal a la familia Kirchner, a sus amigos, cómplices, funcionarios y testaferros.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Alberto Fernández**, Cristina, **Sergio Massa** y todo el cuarto gobierno kirchnerista repiten como autómatas la falsedad de que la vicepresidenta es una santa inmaculada que nunca robó ni un chicle.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me pregunto, ¿a la mayoría del pueblo argentino le gustaría convertirse en países sin justicia social ni libertad, como esos donde mandan el castrismo, el chavismo o el orteguismo?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La hipocresía y las mentiras sobre el tema de los derechos humanos fueron utilizadas para cooptar a los organismos tradicionales.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, en aquella época, era un joven nacionalista, derechista, peinado a la gomina, que luego compartió listas electorales con Elena Cruz, una actriz defensora ideológica de los genocidas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2282
+}

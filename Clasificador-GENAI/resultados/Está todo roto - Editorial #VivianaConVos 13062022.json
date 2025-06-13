@@ -1,0 +1,46 @@
+{
+  "texto_id": "ConcLC",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Rompieron todo, ahí lo ves, ellos terminaron de romperlo todo. Todo lo que tocaron lo rompieron. No quedó un solo espacio sin romperse.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Éramos pocos y vinieron de visita los venezolanos y los iraníes. ¡Pedro! ¡Mira quién vino! ¡Mira quiénes vinieron! ¡Qué quilombo, qué gran quilombo es la Argentina! Los dueños del avión iraní están en una lista de terroristas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuáles son los negocios secretos que tiene este gobierno con Irán y con Venezuela?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos son los negocios del gobierno de Alberto y Cristina Fernández de Kirchner. Nos avisó la inteligencia uruguaya. Está todo roto.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un gobierno lleno de corruptos y lleno de ineptos. Está todo roto.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando el presidente está en Argentina, se hace el zurdo. Cuando se va a Estados Unidos, se mea por Biden. La verdad, son una vergüenza. Está todo roto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Agitan fantasmas para generar miedo e incertidumbre. ¡Qué imbécil! Agitan fantasmas para generar miedo e incertidumbre. ¿Lo dice por los aviones o lo dice porque se va todo a la mierda de verdad?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8083
+}

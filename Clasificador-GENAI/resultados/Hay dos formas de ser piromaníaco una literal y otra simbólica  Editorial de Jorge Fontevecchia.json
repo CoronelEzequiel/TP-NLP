@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_ley_bases",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.586,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Luego de seis meses de gestión, logró la aprobación, con muchísimos cambios, de la llamada Ley Bases.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue un debate literalmente encendido, que sucedió en el contexto de una represión intensa a los manifestantes y declaraciones incendiarias por parte, inclusive, del propio presidente.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer hubo una imagen que sintetizó la jornada mejor que la foto del tablero de los senadores votando la Ley Bases: el auto incendiado por manifestantes, un hecho protagonizado por un pequeño sector de la movilización, completamente violento, pero que tiene un contexto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La ministra, una vez más, ha puesto a las fuerzas de seguridad federales a actuar teniendo que cumplir órdenes de muy difícil cumplimiento.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿De qué lado están? ¿Del lado de Petri, que se pelea con los chorros, o de los chorros?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego, el presidente ataca muy duramente a Axel Kicillof. Fíjense, nuevamente, con esta idea pirómana, cómo llama Javier Milei al gobernador de la principal provincia de Buenos Aires: 'enano comunista'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy vimos dos argentinas, una argentina violenta que incendia un auto, que arroja piedras y que debate el ejercicio de la democracia. Y otra argentina, la de los trabajadores, que están esperando con profundo dolor y sacrificio que se respete la votación que, en noviembre del año pasado, eligió un cambio, eligió que en Argentina realmente se barajara, se riera de nuevo y se cambiara una situación que se perpetuó en el dolor por muchos años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6745
+}

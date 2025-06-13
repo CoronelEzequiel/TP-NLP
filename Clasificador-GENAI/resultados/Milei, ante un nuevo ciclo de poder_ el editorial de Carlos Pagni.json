@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que estamos viviendo hoy tiene algún parecido con aquello.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero es probable, o por lo menos tenemos que plantearnos la pregunta, de si el liderazgo de Milei no está insinuando, y esta es la pregunta de ahora hasta el año que viene con las elecciones, la aparición de un nuevo ciclo político, si no se está constituyendo alrededor de Javier Milei un nuevo centro de poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el fondo, la lucha contra la inflación es el mejor programa social que puede tener un gobierno frente a los más pobres, es la mejor política social.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Espert es el presidente de la Comisión de Presupuesto y Hacienda de la Cámara de Diputados, es decir, es la voz económica del Poder Ejecutivo, es la voz económica de Javier Milei en el Congreso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner produjo un gesto este fin de semana, la semana pasada, alguien que le responde mucho a ella, que es la senadora por Catamarca, Lucía Corpacci, firmó a favor el pliego, el dictamen que avala el pliego de Ariel Lijo para la corte.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8796
+}

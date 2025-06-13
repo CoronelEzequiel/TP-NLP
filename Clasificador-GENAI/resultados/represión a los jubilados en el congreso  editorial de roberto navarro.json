@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.03,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, Patricia Bullrich mandó reprimir a los jubilados que fueron a protestar contra el veto del presidente, que impide una mínima recuperación para la gente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El saqueo a los jubilados de estos nueve meses de gobierno se dio al tiempo que le bajaron impuestos a los que más tienen.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es claramente cuando vos ves que lo sacan de un bolsillo y lo ponen en el otro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pauperización del salario y las jubilaciones, el empobrecimiento generalizado, la quita de los remedios a la gente que está enferma, la quita de los alimentos para los comedores, para los colegios, el desprecio al medio ambiente, el ataque a la diversidad, la reivindicación de los genocidas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay políticas que humanizan y políticas que deshumanizan. La Asignación Universal por Hijo humaniza. Bajarle la jubilación a los mayores y cagarlos a palos en la calle deshumaniza.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1855
+}

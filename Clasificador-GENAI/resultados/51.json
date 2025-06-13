@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.069,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esto es la africanización del transporte, con el perdón de los africanos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este frenesí de Sturzenegger, al decir que esto es \"cool\" o que se terminan los \"curros\", en realidad es la ley de la selva: cualquiera competirá con cualquiera y terminará muy mal.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una precarización absoluta y un peligro extremo para el pasajero, ya sea en un auto particular o un autobús.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Van en contra del mundo; mientras países remotos de Asia trabajan en crear estándares de calidad y regulaciones, acá es una licencia para matar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es pura demagogia, decir que las cosas van a bajar de precio.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si quieres ir a las Cataratas del Iguazú por tierra, necesitas servicios con un estándar mínimo de seguridad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuidar a la gente no puede ser nunca un curro.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado debería verificar si eres epiléptico o tienes adicciones a las drogas antes de permitirte conducir con 65 pasajeros.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2357
+}

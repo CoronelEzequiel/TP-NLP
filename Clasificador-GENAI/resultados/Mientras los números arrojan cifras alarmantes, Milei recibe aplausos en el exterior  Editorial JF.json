@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_viajes_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Mientras en Argentina los números del derrumbe de la actividad económica y la pobreza arrojan cifras alarmantes, Milei recibe premios y aplausos y la confirmación de que es una celebridad en el exterior.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso de Milei, más que grandes epopeyas, parece buscar refugio y halagos en sus viajes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"La forma que usa el político más desalmado, salvaje y mentiroso es el endeudamiento. El endeudamiento es una forma absolutamente inmoral de enfrentar la situación, porque la deuda no son ni más ni menos que impuestos futuros.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Estamos aspirando a ser el país más libre del planeta. Y que eso sea una fuente de prosperidad para todos los argentinos y un excelente ejemplo para el mundo, para saber que las ideas de la libertad funcionan. Así que muchísimas gracias y ¡viva la libertad, carajo!\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei se puso a llorar de emoción al ver un cuadro de sí mismo que le hizo la secta libertaria, Instituto Juan de Mariana. Esto ya no es de narcisista, sino directamente de narcisopsicópata; la egotia avanza, así terminó, en lugar de la libertad avanza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue Milton Friedman, uno de los héroes del presidente Milei, quien asesoró a Augusto Pinochet en Chile.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5616
+}

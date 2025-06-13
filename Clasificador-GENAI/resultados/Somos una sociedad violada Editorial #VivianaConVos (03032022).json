@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.644,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Decidí ponerlo allá a **Ginés González García** porque recién estaba en mi camarilla y lo escuchaba el presidente **Alberto Fernández**.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos una sociedad violada porque somos víctimas de nuestros gobernantes. Violaron nuestra libertad, violaron nuestra salud, violaron nuestra economía, violaron nuestra dignidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a mí que no me diga **Alcorta** que estos son mis hermanos, mis padres, mis amigos, mis vecinos, mis compañeros de trabajo. No, no, señora Alcorta, yo no tengo amigos violadores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los jubilados son los grandes violados de la historia de la República Argentina.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alcorta justifica al que viola, **Kicillof** justifica al que vende falopa, **Donda** justifica al que chorea, **Aníbal** justifica la inseguridad y bla, bla, bla.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Frente de Todos Contra Todos está full con el golpe blando.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos mareados por ajidos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno confirmó que las tarifas estarán ajustadas a la evolución de los salarios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Uno nos tira el COVID y el otro nos tira la guerra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7962
+}

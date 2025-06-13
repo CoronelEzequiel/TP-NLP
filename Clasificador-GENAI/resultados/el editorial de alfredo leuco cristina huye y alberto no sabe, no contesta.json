@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.764,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Están todos borrados, nadie quiere poner la cara ni por el desastre actual de este gobierno ni por la hecatombe que se avecina.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina está agazapada en su cueva, no emite ni un tuit.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina lo quebró psicológica y anímicamente, le respiró en la nuca y le comió el cerebro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto ya es un ex político.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina se achica cada vez más en su influencia y va derechito a convertirse en la líder de una fuerza testimonial y minoritaria con ideas radicalizadas y jurásicas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Massa es la última bala de lata que les queda.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Multiplicó la pobreza, la desocupación, la inflación, la inseguridad y la falta absoluta de confianza en su palabra.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2170
+}

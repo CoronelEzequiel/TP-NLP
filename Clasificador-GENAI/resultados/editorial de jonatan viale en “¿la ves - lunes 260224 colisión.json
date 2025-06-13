@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.618,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno está haciendo, y no es la última consecuencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobernador de Chubut no está amenazando a Milei.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto, en mi barrio, se llama chantaje.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto, en mi barrio, se llama extorsión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El único que para el país es la CGT.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobernador Torres se comió un terrible anuncio penal por chantaje en grado de tentativa, chantaje, abuso de autoridad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei está convencido de que Massa y la Reta trabajan en conjunto, lo voy a decir, para rocarlo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobernador de Chubut, Ignacio Torres, amenazó a los argentinos con cortar la provisión de combustible si el gobierno nacional no enviaba la totalidad de los fondos por coparticipación, y aclaro que amenazaba al total de los argentinos porque, efectivamente, independientemente de su practicabilidad, el cortar el combustible o tener esa intención no es un ataque al gobierno nacional, sino que es un ataque a todos los argentinos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo, yo, en serio, me niego a creer que casi dejan a un país sin petróleo por no chequear su email.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, la extorsión, el chantaje como mecanismo de acción política está mal, es siniestro, no va.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como tampoco va, con todo respeto, que el presidente Milei ningunee públicamente a un gobernador.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5300
+}

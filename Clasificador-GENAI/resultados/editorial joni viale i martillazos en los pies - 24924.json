@@ -1,0 +1,41 @@
+{
+  "texto_id": "Del fracaso",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.617,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La verdad es que es insólito que el gobierno se esté pegando estos martillazos en los dedos, autoinfligidos totalmente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso se vivía en Argentina, ocho horas sin luz por día, no había tele, al fin y al cabo no había ventilador, no había heladera, no había agua, no había nada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Te diste cuenta del lío que armó Milei? En estos 20 años, destrozó, nos dejó sin luz.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se llama populismo tarifario, o sea, congelar las tarifas de luz y gas mientras todo lo demás sube.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un gobierno, reitero, que no escucha, que está encerrado en su soberbia, en su relato mentiroso cotidiano, y que empieza, por parte de la gente, ya no a que solo se escuche el rugido del león, sino que también se empieza, y con fuerza, a escuchar el rugir de la gente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La triste, la sistemática extorsión peronista... a mí me duele en el alma.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3512
+}

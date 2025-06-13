@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El acto de Milei sonó más a un acto desesperado que a una presentación de un partido nacional, como él quiso presentarlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, hubo más micros que nunca, un gasto desmedido en transporte.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei quiere armar un partido popular, pero busca a la gente humilde solo con palabras, sin acciones concretas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se contradice al afirmar que los planes sociales nunca existieron, mientras que Macri implementó muchos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra muestra de debilidad fue insultar a los periodistas, llamándolos \"corruptos\" y \"sobrados\", incitando a la violencia contra ellos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está demostrando ser un presidente peligroso que alienta la violencia y la desinformación, con una hermana que, por su falta de preparación, representa una amenaza para la gobernabilidad del país.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2110
+}

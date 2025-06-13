@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"Un campeonato de 28 equipos perjudica al fútbol argentino.  Las mejores ligas del mundo tienen 20 equipos como máximo.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Estoy absolutamente en contra.  En River, la asamblea decidió por unanimidad mantenernos como sociedad civil.  Nunca aceptaré que seamos una sociedad anónima.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"La política me mide.  Si hay un proyecto sólido y un equipo de gente con el que pueda colaborar y ayudar a sacar al país adelante, estoy dispuesto a contribuir.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Todos los clubes están afectados, los grandes aún más. River perdió millones de dólares por la pandemia. Tenemos que mantener un equilibrio entre crecimiento e inversión responsable.  El fútbol argentino también está afectado por la crisis económica y la pandemia.\"",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Sí, tenemos opiniones diferentes en ese aspecto.\" (refiriéndose a la privatización de clubes y su diferencia con Mauricio Macri)",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2180
+}

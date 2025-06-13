@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.243,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sí, hoy di una conferencia de prensa junto a mi despacho a las 10:00 de la mañana para respaldar el trabajo del Poder Judicial de Corrientes, incluyendo al Ministerio Público, responsable de la investigación, y a la defensa pública.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soy una persona abierta a ellas y, habiendo ejercido funciones en el Poder Judicial durante 40 años, puedo afirmar que sí hubo falencias, sobre todo en las críticas superficiales de algunos periodistas de Buenos Aires.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo importante, Jorge, es que te daré un dato relevante: Corrientes no suele registrar este tipo de delitos, secuestros o trata de niños.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Permítame aclarar algo. Según la ley de prevención y sanción de la trata de personas y asistencia a las víctimas, que define la explotación sexual y laboral, Corrientes es la segunda provincia con más denuncias por trata de personas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No. La Alerta Sofía se activó poco después de la desaparición de Lohan, por orden del fiscal Castillo. Me comuniqué personalmente con el doctor Olima, segundo del procurador general de la nación, doctor Casal, para que la Policía Federal comience a trabajar inmediatamente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tengo mi opinión, pero estoy trabajando concretamente con mi equipo, colaborando con la jueza federal que lleva el caso. Respeto las opiniones de funcionarios provinciales, nacionales, periodistas, etc., con independencia de si estoy de acuerdo o no.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No. Tengo 68 años y 40 de experiencia en la justicia. Esto no es un feudo, Jorge.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2458
+}

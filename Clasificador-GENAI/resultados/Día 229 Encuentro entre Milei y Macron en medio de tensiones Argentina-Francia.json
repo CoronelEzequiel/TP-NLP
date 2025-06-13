@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_modo_fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Terminó hace minutitos nada más la reunión bilateral que tuvo el presidente Javier Milei con su par, Emmanuel Macron.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fue esta decisión de un grupo de diputados de La Libertad Avanza de ir a ver a represores genocidas condenados por delitos de lesa humanidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En medio de esto le costó el puesto a un secretario de Estado, además de todo este lío, voló Garro en medio de toda esta discusión y el propio Javier Milei en entrevista con Alejandro Fantino habló sobre este tuit famoso de Villarruel y marcó claramente las diferencias.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Victoria Villarruel planteó... Claro, porque está haciendo un juego que es sacar, reducir ese nacionalismo. Ella habla de Argentina, todo el tiempo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5054
+}

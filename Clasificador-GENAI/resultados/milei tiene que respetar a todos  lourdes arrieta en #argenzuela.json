@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es un personaje siniestro, nefasto, oscuro, horrendo; no hay otro calificativo, aunque podríamos encontrar muchos más.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se puede estar en contra o disentir, pero nunca agredir ni descalificar como hacen actualmente las hordas de trolls que buscan descalificar e incluso lograr que renuncies a tu banca.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, creo que hay una cabeza pensante que promueve la idea de que o bien te alineas al pensamiento del presidente o eres un enemigo, una cucaracha.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que sí, que entendió que el cargo presidencial implica representar a todos, incluso a los de izquierda.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sigo apoyando a Javier, creo que él es mi norte, pero sí he tenido acercamientos con la presidencia de la Cámara y con el oficialismo, lo que ha abierto la posibilidad de trabajar en conjunto con el bloque de la Libertad Avanza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2291
+}

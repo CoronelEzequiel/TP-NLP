@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_jorge_macri",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.543,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Jorge Macri es un dirigente político que nadie vio venir.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si logra separar al PRO de La Libertad Avanza, lo que parece ser a todas luces su objetivo, podría contribuir a propiciar una dura derrota al gobierno libertario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Viene construyendo una suerte de \"arretismo sin la Reta\", es decir, una imagen de política de gestión económicamente derecha pero culturalmente progresista.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Algunos se divierten diciendo que soy el 'black Macri' porque soy el primo más oscurito. Yo estoy orgulloso del apellido que llevo, la gente sabe quién soy, algunos se divierten diciendo que soy 'black' o que soy el primo negro, el primo más oscurito y está todo bien, me divierto un rato.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En materia de educación, realizó un cambio bastante trascendental en los colegios porteños. En primer lugar, volvió a las fuentes en materia de cómo se aprende a leer y escribir, es decir, muchas de las personas que miran este programa y yo mismo aprendimos con las técnicas de la memoria fonológica",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy los cajeros automáticos se han transformado en el monoambiente de algunos, se apropian de algunos sectores de la ciudad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me gustaría ver un presidente que abogue más por la unidad de los argentinos que por perseguir e instalar nuevas divisiones.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3557
+}

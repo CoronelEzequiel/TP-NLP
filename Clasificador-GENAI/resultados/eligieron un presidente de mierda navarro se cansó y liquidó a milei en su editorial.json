@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.383,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El dólar paralelo se cotiza actualmente en 1425 pesos y continúa subiendo con fuerza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se observa una clara depreciación del peso argentino.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente, al defender una política económica fallida, genera un desgaste de su imagen.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La devaluación, lejos de generar competitividad, solo incrementa la inflación, la pobreza y la incertidumbre.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una solución más adecuada sería la reducción de impuestos, dado que Argentina sufre una alta carga impositiva.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La población votó a Milei confiando en su promesa de no intervención en la economía, promesa incumplida.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su gestión ha gastado aproximadamente nueve mil millones de dólares, favoreciendo a quienes buscan sacar capitales del país (a través del contado con liquidación).",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente, con una actitud arrogante, parece ajeno a la crisis.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación es producto de una combinación de factores, entre ellos, la elección de un presidente y un ministro de economía cuestionados, y el apoyo de sectores empresariales, mediáticos y políticos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1650
+}

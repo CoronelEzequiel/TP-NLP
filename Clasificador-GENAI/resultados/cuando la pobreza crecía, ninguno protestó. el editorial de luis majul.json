@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.812,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno de inútiles se fue con la jubilación mínima en dólares más baja de la historia, sin llegar a los $300.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este tipo de dirigentes deberían sentir vergüenza, pero no la sienten, aunque deberían, porque integran uno de los sectores más desprestigiados y con menos credibilidad de la Argentina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son millonarios y se fueron enriqueciendo durante varias décadas, mientras los verdaderos trabajadores se empobrecían cada día más.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mismo Baradel que jamás tuvo el coraje de hacerle un paro a Kicillof, pero que a María Eugenia Vidal prácticamente no la dejó gobernar, haciéndole paros todos los días.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos sindicalistas que dicen defender a su gremio no andan a pie ni usan las \"chatas\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le pregunté a una fuente del gobierno por qué no se decidían y les quitaban el enorme poder de facto que tienen los sindicatos de una buena vez.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para decirlo sin disimulo, estos millonarios que hablan en nombre del pueblo, los pobres y los trabajadores, no tienen autoridad moral ni para decir \"buen día\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Martín Menem está haciendo uso de la palabra, un diputado de la nación. Estamos dando un espectáculo lamentable.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3061
+}

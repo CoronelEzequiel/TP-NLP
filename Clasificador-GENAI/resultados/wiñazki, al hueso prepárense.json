@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Fernando Iglesias acaba de informar que TAM se retiró de Argentina, dejando a 1700 personas sin trabajo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es probable que el proyecto de expropiación de Vicentín ingrese al Senado el viernes.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, el proyecto probablemente se trate en un clima tenso, con la presión de empresarios y ruralistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Saavedra explica que, dada la situación actual del COVID-19 y la progresión de casos positivos en el AMBA, que muestran un significativo aumento de la circulación viral, es su responsabilidad recomendar a Alberto Fernández que permanezca en la Residencia de Olivos, realizando sus tareas habituales y restringiendo al máximo sus contactos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos en un país confinado, con un presidente confinado por primera vez.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No quiero alarmar ni generar psicosis, pero algo está pasando.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1409
+}

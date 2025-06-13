@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Milei hizo campaña prometiendo acabar con la \"casta política\", asegurando que no se tocarían los derechos de los jubilados, trabajadores, ni los fondos del PAMI ni de la ANSES.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Actualmente, el Banco Central está bajo el control de un socio cercano al Ministerio de Economía. Nunca hubo una mayor connivencia entre el Banco Central y el Ministerio de Economía. Es decir, el Banco Central no es independiente ni autónomo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo que liberaría la economía, pero liberó todo menos los salarios, a los que impuso un tope del 2% mensual.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La familia Dorrego vive del Estado, mientras solicita el voto para ocupar cargos de gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dorrego es una fábrica de \"ñoquis\" (empleados fantasmas).",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1308
+}

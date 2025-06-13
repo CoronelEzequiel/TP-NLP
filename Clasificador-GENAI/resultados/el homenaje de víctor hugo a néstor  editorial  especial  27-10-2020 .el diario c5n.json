@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.07,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estos acontecimientos muestran la grandeza de este personaje clave en la historia política de la República Argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y por qué todo esto? Hay muchas razones, pero una de ellas es que este hombre siempre se preocupó por el pueblo, por los sectores medios, por los más desfavorecidos, por los más vulnerables, por la igualdad y la justicia, incluso antes de ser presidente.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les digo de corazón: si las únicas políticas posibles en Argentina son las que condenan a la gente al hambre y al desempleo, nosotros habremos fracasado, habremos bajado los brazos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor Kirchner también puso en evidencia la pugna de poderes. Siempre hemos creído que el poder es solo el político, el presidente, el gobierno.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él, en cambio, dijo: \"La presidencia es una cuestión política. La economía debe estar al servicio de la política\".",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cada trabajador argentino, el nombre de Kirchner se vuelve sagrado, porque el trabajador no solo recibe un salario, sino dignidad.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero una Argentina unida, normal, seria y justa.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4587
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "¿Podría decretarse el estado de sitio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.121,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Mañana la marcha va a ser multitudinaria, porque no solo se trata de respaldar las demandas de los jubilados que piden un aumento de emergencia porque se están muriendo de hambre, y también se están muriendo de enfermedad porque le quitaron todos los medicamentos, sino que es una marcha en defensa de la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la democracia la que está en riesgo con este gobierno.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El giro represivo que están mostrando, el creciente autoritarismo, está extinguiendo el estado de derecho y le tenemos que poner límites nosotros, el pueblo en la calle, porque no se lo va a poner el Congreso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque lo único que hace es afectar la paz social, como lo hace, porque quienes afectan la paz social en este momento en la Argentina, están vestidos de azul, con uniformes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y de manera silenciosa crece un rechazo a semejante autoritarismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo quiero llamar la atención sobre que no solo la están pasando mal jubiladas, jubilados y nosotros los estatales.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros estamos manteniendo reuniones en el marco de nuestras organizaciones para articular de la mejor manera y cuidar a los jubilados, cuidarnos nosotros durante la jornada de mañana, sobre todo porque estamos hoy, yo estoy viendo el vaso medio lleno, estoy contento, estoy viendo que hay una conflictividad en ascenso y que la gente empieza a perder el miedo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2601
+}

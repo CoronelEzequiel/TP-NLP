@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Son unos kirchneristas sueltos en Estados Unidos...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente dan vergüenza ajena...",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fue a hablar para que a Maduro no lo castiguen... Y no castiguen a Fidel...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está empezando la cacería de brujas contra los periodistas...",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Vuelven de nuevo las tropas que quedan aisladas... La represión de la agrupación... Evita... De la agrupación Evita... Manejada por el \"chino\" Navarro...",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1892
+}

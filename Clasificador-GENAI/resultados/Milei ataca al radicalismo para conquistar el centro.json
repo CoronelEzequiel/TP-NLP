@@ -1,0 +1,41 @@
+{
+  "texto_id": "avance_del_gobierno_sobre_el_partido",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.667,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Por qué Milei quiere destruir a la UCR?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La estrategia fue disfrazarse de centrista, de socialdemócrata, de ser una persona republicana, características todas que son del Partido Radical, sumando seis ministros del radicalismo a su gobierno y con la ayuda de Jaime Durán Barba y Marcos Peña, correrse hacia el centro.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Lo que está haciendo el presidente Milei es fagocitarse al Partido Radical con distintas formas, destruir una parte, cooptar otra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei acorrala al radicalismo en cada votación en el Congreso que lo apoyan, los llama héroes y los invita a comer asado a aquellos que logró cooptarlos, y los llama ratas a todos los demás, a los que votaron en contra y se obtienen los tildes de traidores de la patria.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei no ataca a los periodistas de medios cercanos al kirchnerismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy hay un reportaje en La Nación Argentina donde dice que la cultura kirchnerista sigue viva y con mucho vigor a través de La Libertad Avanza y de Milei. Y que Milei encarna exactamente los mismos defectos en la forma de actuar que son del kirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4093
+}

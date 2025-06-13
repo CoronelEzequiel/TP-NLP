@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei_china",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Queremos que el presidente Javier Milei tenga éxito, que su gestión sea exitosa. Entendemos el enorme sacrificio que lleva a cabo, junto con las reformas fiscales que ha implementado, lo cual considero admirable; es admirable en el mundo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, nos gustaría que, eventualmente, termine la famosa línea de crédito que Argentina tiene con China. Queremos asegurarnos de que ningún acuerdo con el FMI prolongue esa línea de crédito, o ese *swap line*. Al final, las medidas que pueda tomar Argentina y el programa que implemente, esperamos que lleven a un fin definitivo, porque esa línea de crédito es extorsiva. Mientras se mantenga esa línea de crédito, China siempre podrá extorsionar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También vale preguntarnos si hay algo de razón en las críticas norteamericanas sobre los acuerdos considerados 'rapaces' que China impuso a África y busca imponer en Estados Unidos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto nos lleva a adherir, críticamente, a la estrategia de una política que sea la de un extranjero o de una potencia extranjera. Algo que, humildemente, creemos que hace el presidente Javier Milei con los Estados Unidos y que no es lo correcto.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Embajada de China en Argentina manifiesta su profundo descontento y categórico rechazo a las maliciosas difamaciones y calumnias realizadas por el Secretario del Tesoro de Estados Unidos, Scott Beeson, durante su visita a la República Argentina el 14 de abril, y realiza la siguiente declaración: 'Es falsa la afirmación sobre los acuerdos calificados de ‘rapaces’ y las supuestas grandes cantidades de deuda en las que ha incurrido la República Popular China. Lo que sí es verdad es que algunas personas, con motivos encubiertos, están intentando sembrar discordias en las relaciones chino-argentinas y chino-africanas.'",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4034
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.139,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estoy feliz y agradecido por este momento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero agradecer a todos los que me han enviado mensajes de felicitación, especialmente a quienes lo hicieron el día de mi cumpleaños.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A Cristina, por su apoyo público, y a todos aquellos que comparten mi alegría.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Respecto al nombre, Francisco… sí, hay un homenaje, un gesto de cariño y admiración al Papa Francisco.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aunque no soy un católico practicante, reconozco en él un líder moral de enorme estatura.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los desafíos políticos siguen presentes, sobre todo la necesidad de reparar el daño causado por gobiernos anteriores.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trabajo incansablemente por el pueblo argentino.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy al tanto de la situación en Francia y sigo de cerca la gestión de Emmanuel Macron, con quien comparto algunas visiones políticas, aunque no necesariamente la perspectiva económica.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cuanto a los rumores de cambios en el gabinete… ahora mismo estoy cambiando pañales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1467
+}

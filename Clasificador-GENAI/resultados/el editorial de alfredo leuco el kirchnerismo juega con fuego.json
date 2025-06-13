@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.87,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de **Cristina Fernández de Kirchner, Alberto Fernández y Sergio Massa** está jugando con fuego.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se trata de terroristas de distinto origen, es cierto, pero que utilizan la violencia extrema para apropiarse de amplias zonas de nuestro territorio.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El presidente sometió a la patria a una humillación que no tiene antecedentes.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Anoche recién la escuchábamos, **Patricia Bullrich** propuso cambiar las leyes para permitir que las fuerzas armadas acompañen y apoyen a las fuerzas federales para combatir a los terroristas que están ganando la guerra contra el Estado de derecho.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero primero está la patria, defender con la ley en la mano y con toda firmeza la tierra en la que vivimos, en la que vivieron nuestros padres y en la que vivirán nuestros hijos y nietos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1941
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Miren, se trata de una celebración de los 40 años de la democracia, cuyo padre y refundador fue el presidente Raúl Alfonsín.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que no me equivoco demasiado en calificarlo como el periodista de la dignidad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sospecha de la ultraderecha que publicaba un semanario llamado \"El Caudillo\", que lo había incluido en una lista donde lo acusaban de ser un marxista infiltrado en la Iglesia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue cuando, con una valentía que no abundaba, se atrevió a preguntarle al dictador Jorge Rafael Videla sobre los desaparecidos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A 40 años, sigue siendo muy necesaria la verdad y la justicia para que nunca más repitamos el horror de un genocidio o del asesinato como herramienta política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2124
+}

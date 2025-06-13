@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esta reforma, propuesta sorpresivamente por Morales, busca transformar el régimen político provincial en uno aún más antidemocrático.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una de las propuestas conocidas es la mayor criminalización de la protesta social, limitando un derecho constitucional.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta decisión, nunca planteada ni debatida durante la campaña electoral, constituye una estafa a la población, privándola de su derecho a expresarse a través del voto cada dos años, especialmente en momentos de descontento con la política tradicional y las políticas de ajuste económico.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta manipulación electoral perjudicaría la representatividad y la expresión de la voluntad popular.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta reforma permitiría al gobierno de Juntos por el Cambio, que ya controla una mayoría en el Poder Judicial, dominar también el Poder Legislativo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La actitud de Gerardo Morales es reveladora: tras tomar juramento a los convencionales, se tomó una licencia y se lo vio en la Sociedad Rural de Buenos Aires, participando en la feria AR-Minera.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta reforma antidemocrática ocurre en una provincia donde Milagro Sala se encuentra presa, y cuenta con el apoyo de Horacio Rodríguez Larreta y Martín Lousteau, aliados íntimos de Morales, así como con buenas relaciones con Sergio Massa y Eduardo “Wado” de Pedro.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1665
+}

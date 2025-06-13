@@ -1,0 +1,46 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.486,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Se conocieron hoy dos datos estadísticos que explican por qué estamos frente a un gobierno fortalecido desde el punto de vista político, teniendo en cuenta que esa fortaleza, por razones muy obvias, hunde sus raíces en la escena económica.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si queremos comparar -y el índice compara, los expertos que elaboran este índice comparan-, cuando Macri estaba en octubre de su primer año de gobierno, estaba un 7,9% mejor de lo que está Milei ahora, como referencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Curiosamente, una opinión, por ejemplo, del peronismo, que mira esta escena con otros ojos, es la de alguien como Martín Rodríguez, que es un militante, un dirigente ascendente dentro de La Cámpora, que dice: \"No, no, no, el cepo no lo van a sacar nunca. Este gobierno se sostiene y su bastón de mando es el cepo cambiario, que impide una corrida hacia el dólar por desconfianza en el peso\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Milei está dando pruebas -lo comentábamos la semana pasada, insisto, esta semana con lo mismo ahora- de que en la panza visceralmente sabe manejarse con el poder. Podrá no entender los códigos de los partidos, la institucionalidad del parlamento, los movimientos cifrados de la política o de la burocracia política, pero entiende el poder. Entiende el poder hasta ponerse al borde o hasta emitir señales autoritarias.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En ninguno de los dos casos -muchísimo menos en el caso de MBS- estamos hablando de gente que se esté caracterizando especialmente por su pluralismo, por su aprecio por la división de poderes, por la limitación en el poder, como después vamos a ver todos los rasgos que van apareciendo de concentración de poder en el liderazgo de Milei.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei se ve fortalecido por el clima financiero, mucho más que por el clima económico general. Confía en que, como dice todo el tiempo y le dijo hace tiempo ya a sus ministros, de ahora en adelante lo único que viene en materia económica son buenas noticias, un gran optimismo, probablemente muy audaz, y desde esa plataforma que le da la economía y el éxito administrativo, se propone ser el líder monopolio de todo lo que vaya del centro a la derecha.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el fondo, Milei lo que está haciendo es seguir el manual de Maquiavelo, que decía: \"Lo primero que tenés que hacer cuando llegás al poder es cortar la cabeza a los que te ayudaron a llegar\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9221
+}

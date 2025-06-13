@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me comentó que esta situación es diferente: no se presenta un proyecto de ley al Congreso; se impone un hecho consumado que ya entró en vigor.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Considero que debimos tener una actitud diferente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos queremos el bienestar del país, evitar la pérdida de dólares y fortalecer el Banco Central.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Personalmente, creo en el Presidente. Estoy seguro de que hizo todo lo que dijo y que fue engañado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos, incluido el Presidente, somos susceptibles de ser investigados y debemos rendir cuentas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La solidaridad del pueblo argentino es admirable. Incluso provincias con dificultades económicas están colaborando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos estar unidos, más allá de las diferencias políticas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2022
+}

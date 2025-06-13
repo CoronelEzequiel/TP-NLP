@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La crisis generada por las medidas económicas implementadas en diciembre, que incluyeron un aumento del precio del dólar del 120% sin una regulación de precios completa y la apertura de la economía, está teniendo consecuencias devastadoras.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La apertura de inversiones, aunque positiva a largo plazo, se ha realizado sin los estudios previos necesarios.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Abrir la producción en un sector que ya se encuentra en crisis, en lugar de generar un aumento moderado de la oferta (por ejemplo, del 10%), podría provocar una sobreoferta que reduzca drásticamente los márgenes de ganancia, llegando incluso a la quiebra de empresas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miles de argentinos se están quedando sin trabajo sin una indemnización adecuada que los proteja, agravado por las dificultades para el cobro de la misma y por la precaria situación social.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1274
+}

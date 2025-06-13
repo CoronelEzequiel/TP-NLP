@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.758,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No nos gusta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero me gustaría empoderar a los ciudadanos.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y además, esta historia de basurearnos permanentemente… ustedes tienen la culpa… al joven infractor lo vamos a castigar… al otro individuo lo vamos a castigar… le firmo ya la orden para procesarlo al vecino… ¡Qué razón mía!",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y hace 20 años que vivimos acostumbrándonos a la humillación… y al miedo, al miedo a perder el trabajo, al miedo a que te despidan… el miedo a que si contestas quedas en evidencia y tienes tres hijos… y no es así un país…",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No nacimos para tener miedo… No nacimos para tener miedo a que Parini te escuche… que te escuche Cristina… que te escuche Alberto… que nos humille Alberto…",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el poder es nuestro y se lo prestamos para que… administren, no para que nos agredan…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad que… ojalá que el pueblo se dé cuenta y se canse de ese maltrato… porque lo que tiene que hacer un presidente, una vicepresidenta… es decir: \"Perdón y gracias\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la verdad que yo hubiese parado el auto… y le hubiese dado dos bofetadas… pero uno no puede bajar al nivel de los… porque… te repito… están nerviosos porque saben que van a perder… y están nerviosos porque toda esta gente de Cristina… los repartidores, todos los…",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No hay que faltarle el respeto a los que tienen… un poco más de poder que ustedes… Cristina… el pueblo tiene más poder que usted… y el pueblo se cansó de que le falte el respeto…",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y sabe una cosa… otro discurso berreta es la derecha y la izquierda… \"¡Eh, ustedes que son de derecha, viste, en la oligarquía!\"",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quería hablar de eso… que cuando se pregunta por qué van a perder… creo que es porque nos cansamos de la insolencia… de la violencia… del dedo acusador del tío Alberto… nos cansamos de las tonterías y de las payasadas del kirchnerismo… nos cansamos de las patoteadas… de los engaños…",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "precisamente porque… fueron muy insolentes… y que les dieron a entender que el poder era para toda la vida… el gran error de todo lo absurdo… que les dieron a entender que el poder era para siempre… y el poder cambia de mano… y ahora les toca perder…",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "y saben qué… siendo rudos… ladrones… y sin poder… van a sufrir como perros… salvo… que hagan lo que hacen siempre… dispararse como lo hicieron hoy en un sindicato… empezar de nuevo… con los heridos de bala… arrancar de nuevo con el miedo en la calle que ponen… cuando no pudieron poner miedo desde el estado porque nos botaron en contra… pero esta vez no va a ser como en los 70… esta vez no vamos a manejar con la justicia… pero que lo van a pagar, lo van a pagar…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3456
+}

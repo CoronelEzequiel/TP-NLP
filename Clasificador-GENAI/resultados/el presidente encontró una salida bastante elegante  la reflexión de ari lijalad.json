@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta fuerte avanzada contra la democracia no se limita a este gobierno; hay un sector de la política argentina que rechaza que un gobierno electo gobierne y tome decisiones, intentando frenar las operaciones económicas en un país que crece sin que sus ciudadanos reciban los frutos de ese crecimiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argumenta que un sector de la Argentina, representado en el Congreso, solicita fondos al resto del país, mientras que cuatro personas (sin mandato popular) exigen el pago, lo cual violaría leyes como la de Presupuesto, incurriendo en malversación de fondos (delito por el cual se destituyó a Dilma Rousseff en Brasil).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdadera división no es entre poderes del Estado, sino entre el poder económico y el poder judicial.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Idealmente, solo los diputados del PRO de CABA votarían a favor de un privilegio para CABA.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Ciudad busca pagos inmediatos, no bonos a largo plazo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1933
+}

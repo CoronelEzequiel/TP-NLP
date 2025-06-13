@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dijiste que lo argentino no se fue en 2018, fue con él mismo, con el mismo que estaba él, con Navarreccio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se sientan como chaqueños para vecinos en el Lollapalooza, como la libertad de la marque en el Tomorrowland, o como los Manseros Santiagueños en una rave.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y ya está todo, ya está pinchado el barriguil, ya están los sanguchitos todos, el lechón. ¡Che, lechón! ¿Alguien está haciendo lechón?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este es el programa donde vamos a hablar... A propósito, se cumplió un año del intento de asesinato, yo lo digo así porque hay palabras para definirlo, pero a mí me gusta definirlo así como yo, de que la quisieron matar a Cristina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no voy a ser como Perotti que dijo mi ley entre mi ley... Sí, no, lo vamos a ver después cuando lo charlemos con Rincón. Yo no voy a decir... Yo digo como le dije a Marra recién, entre mi ley y Bullrich, un tiro en los huevos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se llama peronismo para todos, esto es una peña, acá es una peña donde estamos. Los que no son peronistas vayan a jugar a otro lado, este patio no es para ustedes, esto es para nosotros.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si perdemos yo creo que va a andar bien. ¿Ah, sí? El camino sería este, no lo que proponen los otros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3554
+}

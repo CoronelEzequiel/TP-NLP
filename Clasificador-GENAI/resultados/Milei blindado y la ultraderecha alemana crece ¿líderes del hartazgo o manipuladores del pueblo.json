@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Chorros de Afanaro son todos amigos tuyos. Los llevaste a la rosada, a dormir, los atendió. Vos sabías de la estafa, son tolundos, hablableros.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Javier Milei fue protegido en primer grado de importancia por el apoyo de Donald Trump y de Elon Musk, sus implicancias en la justicia norteamericana y luego con el voto negativo del Senado para la conformación de una comisión investigadora.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alternativa por Alemania, la organización de extrema derecha de ese país con vínculos con el nazismo, salió segunda y duplicó los votos de la anterior elección, además dejando tercera a lo que sería la fuente de centro-izquierda como es la socialdemocracia heredada de Angela Merkel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En otras palabras, ¿el humano es agente de la historia o es un paciente, una víctima de fuerzas que le crean las condiciones para actuar y le son totalmente ajenas?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es decir, Milei es presidente de un país totalmente alineado con Estados Unidos y tiene una relación muy directa con Trump y con Elon Musk. Cuánto podrán investigar quienes realmente quieran hacerlo dentro de la SEC, veremos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los senadores Vischi, Olalla, Hury y Valenzuela, me hacés acordar al protagonista de Game of Thrones, viste que iba nombrando a cada uno de los que... Es que hay que acordarse, hay que acordarse porque sabes que pasa si no, es todo gratis.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es interesante la disyuntiva que deben enfrentar los gobernadores con respecto a Milei. Se confrontan políticamente e intentan que Milei sea derrotado, pero no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se ha hecho y no se hazed de la historia, incluso como si fueran un Dios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si el cripto-gay será el fin de Milei o pasará sin pena ni gloria, ya no está en nuestras manos. Eso será en el fondo un veredicto de la justicia y, fundamentalmente, de la sociedad argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5023
+}

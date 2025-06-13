@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_karina_milei",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.617,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No quiero hablar de “doble comando”, ya lo hemos debatido mucho. Habría que eliminar esas frases del lenguaje político, pero existe un co-protagonismo, aunque sutil.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para Javier Milei, Karina es su punto débil y su fortaleza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei (digo \"Javier\" y \"Karina\" para distinguirlos) tiene poco interés en algunas cosas. Su proyección internacional, su lugar en la historia como el primer presidente liberal-libertario del mundo, no le interesa en el ámbito público.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella estableció un sistema, un régimen de obediencia dentro de La Libertad Avanza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las mujeres, para Karina, tienen un carácter utilitario; las usa para que su hermano no se distraiga.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La detesta; es una visión general de La Libertad Avanza. Es una sospecha que los periodistas arrastramos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2347
+}

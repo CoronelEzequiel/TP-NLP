@@ -1,0 +1,31 @@
+{
+  "texto_id": "gerardo_morales_balance_año",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.525,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Yo creo que el kirchnerismo tiene que comprender que ha cumplido un ciclo, en mi opinión. Y yo creo que, como argentinos, el conjunto de la sociedad está esperando que también ya está. Cumplimos un ciclo. Hicimos cosas bien, mal. En mi opinión, le han hecho daño culturalmente a la sociedad argentina. Han puesto en marcha una matriz de corrupción y, en algunos casos, con matices violentos, como fue el caso de la Tupac en la provincia de Cucuy (Jujuy).",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En general, yo lo que escucho de la mayoría de los dirigentes radicales es como que hay más racionalidad para dialogar con Horacio. Yo creo que hay más posibilidad de entendimiento en situaciones.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero finalmente eso quedó en la nada. Es muy probable que haya radicales integrando la fórmula de Patricia Bullrich, que haya radicales integrando la fórmula de Horacio Rodríguez Larreta y probablemente haya una fórmula radical que, hoy por hoy, quien mejor mide de los radicales para encabezar una fórmula radical es casualmente Facundo Manes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y el radicalismo dentro de Juntos por el Cambio, me parece que es el principal árbitro. Y hacia dónde vaya el radicalismo, va a terminar yendo Juntos por el Cambio. Y probablemente alguien puede decir que por donde vaya yendo Juntos por el Cambio, podrá ir la Argentina del futuro.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3312
+}

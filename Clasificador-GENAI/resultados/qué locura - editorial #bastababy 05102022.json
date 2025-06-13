@@ -1,0 +1,96 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.718,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por un lado, tenemos a la comunidad mapuche enfrentada a las fuerzas de seguridad (Ejército, Gendarmería, Prefectura), con Aníbal Fernández al frente, sin buscar a Jonas Guala ni a Santana.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo defiendo a cualquiera que se oponga a Cristina Kirchner, Máximo Kirchner y Cristóbal López.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Debería mencionar los casos de nepotismo en PAMI, en la Intendencia de Moreno, en la de Quilmes (donde desaparecieron 500.000 pesos)?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Despidan a la hermana de Losada, pero también a todas las hermanas, amantes, primas y cuñadas.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Basta de hipocresía y deshonestidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Apoyo a Luis Esper, un político que me gusta por su arrojo, pero ni la oposición ni el gobierno tienen moral.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si todos los responsables de la situación actual pudieran hacer lo mismo que yo, llenar teatros, tener a sus hijos a su lado, entonces…",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los criticamos no porque sean oposición, sino porque son un canal de desinformación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este presentador nunca habló de cómo se perdonaron los fondos de la FIP. Tampoco del canal de los porteros, ni de los 12 millones que faltaban. Ni de la novela de Andrea del Boca, ni de los 40 millones para la arquitecta de La Plata.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras perseguimos a John Aguala y otros personajes insignificantes, y perdonamos los 18.000 millones de la FIP, viajan a Nueva York a comprar iPhones.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Por qué a Cristóbal López? Porque 18.000 millones de pesos desaparecieron de la FIP. Si yo debo 10 pesos, la policía viene a buscarme; ¿y qué pasa con quien debe 18.000 millones?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hagamos una auditoría en PAMI y en otros organismos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, la gente lucha para llegar a fin de mes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cada asesor inútil cuesta 8.000 millones de pesos por año.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se escandalizan por la hermana de Caro Losada, pero quizás el que habla tiene a varias personas en la planilla del Estado.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Al mismo tiempo, hay gente luchando para evitar que Cristina Fernández de Kirchner vaya a prisión, y programas como TBR se asombran de las críticas hacia figuras políticas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hagamos una encuesta: salgamos a la calle, a ver quién vuelve con hielo y quién con un whisky.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2601
+}

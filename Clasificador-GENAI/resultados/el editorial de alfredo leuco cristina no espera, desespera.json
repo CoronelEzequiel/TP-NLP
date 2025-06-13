@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.855,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner no come vidrio y sabe que falta muy poco para que la justicia la condene como jefa de una asociación ilícita destinada a saquear al Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire, le teme más a Wikipedia que a la cárcel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La historia en las redes va a decir que sí fue dos veces presidenta de la Nación, pero que fue condenada por haber liderado un plan sistemático de hipercorrupción, el más grande de la historia democrática argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa mancha en su legajo es la que la altera, la llena de furia y la empuja a ordenar a su tropa que dispare misiles contra la justicia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su desesperación recurre a los fanáticos para intimidar a fiscales y jueces, pero los resultados que logra son muy modestos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y de paso, le dará un par de cachetazos teóricos al títere que ungió como presidente decorativo de la Nación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Amenaza uno: \"Los empresarios amigos de Macri financian grupos terroristas, los jueces amigos de Macri los protegen y los medios amigos de Macri les dan micrófono\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Amenaza dos: \"Frenar el abuso de las empresas es cuidar la mesa de los argentinos\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las ideas que pregonan son vetustas, jurásicas y cayeron en desuso porque se comprobó su fracaso, desde la hecatombe económica en Cuba y en el chavismo venezolano.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El Cuervo\" en su tuit fijo aclara: \"Con Cristina no se jode\", y esa es la razón de ser del camporismo y sus compañeros de ruta: garantizar la impunidad de la reina de la Recoleta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina necesita una justicia arrodillada a sus pies y cumpliendo sus órdenes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2366
+}

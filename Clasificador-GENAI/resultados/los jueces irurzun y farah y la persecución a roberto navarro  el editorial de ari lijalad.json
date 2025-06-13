@@ -1,0 +1,36 @@
+{
+  "texto_id": "Hoy publicamos en El Destape",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.16,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Me dirijo a ustedes porque los jueces Martín Irurzun y Eduardo Farah de la Cámara Federal habilitaron la continuación de la persecución judicial contra Roberto Navarro, director de El Destape, por sus opiniones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Feinmann y Majul recortaron una parte de las declaraciones de Navarro, donde advertía sobre la peligrosidad de dichos discursos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Destape tiene una línea editorial a favor de los trabajadores, abogando por la suma fija, transparencia en los balances empresariales y mejores salarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta persecución busca silenciar a quienes defienden los derechos de los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es un problema personal, sino una amenaza a la libertad de expresión.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1694
+}

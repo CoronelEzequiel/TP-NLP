@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.772,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bergoglio recibió con alegría a un verdadero ícono de la \"patota\" sindical, que vive como millonario y utiliza metodologías extorsivas, como el bloqueo a empresas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se puede conjeturar que el Papa, por su formación juvenil en el peronismo derechista y setentista de Guardia de Hierro, mantiene su \"corazoncito\" en el populismo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Resulta insólito que el máximo pontífice haya bendecido con pasión a personajes nefastos como Milagro Sala, Juan Grabois, Hebe de Bonafini y varios sindicalistas mafiosos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Es necesario que el Papa mantenga una relación afectiva con Hebe de Bonafini?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aclaro que cuando hablo de la Iglesia es para simplificar periodísticamente el concepto.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La patria está llena de sacerdotes y laicos que, como buenos cristianos, orientan sus rezos y también sus acciones concretas para ayudar a resolver los más graves problemas nacionales, como lo son la indigencia y el hambre, que fueron multiplicados por la falta de gestión, la mala gestión y la corrupción de Estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Designó a muchos de sus compañeros de ideas justicialistas, como Monseñor Oscar Ojea, por ejemplo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más o menos como hablar de la virginidad de un prostíbulo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, ¿se acuerda?, puso como ejemplo a Hugo Moyano, su padre, como el sindicalista que este país necesita.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2140
+}

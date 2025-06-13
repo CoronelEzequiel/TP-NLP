@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.771,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Primero, un cumpleaños en la Quinta de Olivos en julio de 2020, en plena cuarentena.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Luego, el 30 de diciembre, setenta diputados kirchneristas, entre ellos Máximo Kirchner, celebraron un brindis incumpliendo las restricciones que ellos mismos habían impuesto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta situación generó indignación en la sociedad, que sí cumplió con la cuarentena y fue considerada solidaria por las autoridades sanitarias hasta entonces.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La sociedad observó la hipocresía: se les exigía a los ciudadanos lo que los funcionarios no cumplían.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, desde el oficialismo se realizaron ataques y persecuciones judiciales contra quienes protestaban, como runners, surfers y otras 30.000 personas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La reacción kirchnerista minimizó el duelo colectivo y responsabilizó al odio, argumentando que era una campaña en contra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno no está respondiendo a la población ante las consecuencias de la pandemia, la cepa Delta y la falta de información oficial.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1734
+}

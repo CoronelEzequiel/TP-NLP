@@ -1,0 +1,31 @@
+{
+  "texto_id": "martin_lousteau",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mira, me parece muy bien, me parece una decisión que garantiza una elección transparente, como siempre pedimos, que va en la línea de lo que siempre desde Juntos por el Cambio pedimos y lo que acabamos de votar en el Congreso el año pasado para las elecciones nacionales, que tiene que ver con la boleta única por un lado, y al mismo tiempo garantiza otros dos efectos más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El perdedor número uno es Milei, porque la boleta sábana lo iba a favorecer en el arrastre de la ciudad de Buenos Aires, que es lo mismo que está pasando en la provincia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juntos por el Cambio de esta manera logra separar la cuestión de la ciudad de la cuestión nacional y en la cuestión local de la ciudad, obviamente el efecto de Milei se diluye, porque no es lo mismo que vos vayas a votar a un cuarto oscuro donde está la boleta de Milei que vayas a votar a un cuarto oscuro donde está la boleta de Jorge Macri.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando vos terminaste la secundaria del 2012 para acá, no te fue bien nunca. Digamos que intentaste laburar y no conseguiste el trabajo o no te fue bien o te mató la inflación. Primero en los últimos años de gobierno de Cristina Fernández de Kirchner que fueron malos, después al gobierno de Macri tampoco le fue bien en la economía, ni hablar el gobierno de Alberto Fernández ahora.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3209
+}

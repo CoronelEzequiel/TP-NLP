@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El tema central es la necesidad que tiene Argentina hoy de que quienes detentan el poder y aquellos que aspiran a tenerlo mañana, alcancen un acuerdo fundamental.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos problemas persisten a través de los diferentes gobiernos y no se resuelven.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Quienes aspiran a ser elegidos son conscientes de esta necesidad, o nos encontraremos en una campaña electoral donde el triunfo se basará en la profundización de la grieta?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De la respuesta a esta pregunta dependerá si el deseo de trabajo conjunto de quienes tienen poder se concreta en una realidad o sigue siendo una utopía.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 937
+}

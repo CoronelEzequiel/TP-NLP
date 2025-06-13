@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El alineamiento de Sergio Massa con prácticamente toda su coalición, y a su vez, con las exigencias del FMI, resulta llamativo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Existe una virtual unanimidad en la política tradicional respecto al FMI.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ante propuestas como la de Bregman —un desconocimiento soberano de la deuda— se argumenta que, en las condiciones actuales, es imposible.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La movilización popular es la forma más eficaz.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al FMI, en última instancia, no le importa solo el dinero prestado (aunque son 44 mil millones de dólares). La deuda es un mecanismo político: un medio para subordinar al país y exigir planes económicos favorables a sus intereses, la entrega de bienes comunes o estratégicos (como el litio o el petróleo), y el alineamiento geopolítico.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1668
+}

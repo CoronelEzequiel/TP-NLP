@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos una vicepresidenta multiprocesada, que se mantiene recluida en su domicilio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces pensé: Menem fue un desastre, pero Macri fue peor.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este candidato representa un cambio después de tantos años de corrupción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner goza de mucha impunidad y, aun así, se lanzaron a esta aventura arriesgada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un gobierno débil, con muchos corruptos, presos que buscan liberarse... un gobierno bochornoso que llegó al poder por la mala gestión de Macri, quien llegó por la mala gestión de Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La herencia que recibió Alberto Fernández no es de tres años y medio, sino de doce años de corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El principal problema de Argentina no es el hambre o la falta de recursos, sino la lucha interna por el poder.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1646
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Paz, diputado del oficialismo, presentó un proyecto de ley para tipificar el vandalismo rural como nuevo delito en Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Confederación de Rurales Argentinas (CRA) y la Sociedad Rural Argentina emitieron comunicados denunciando estos ataques y sugiriendo una motivación política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta situación genera especulación, ya que el gobierno presiona por la venta inmediata de los granos, mientras que los productores prefieren esperar un mejor precio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Ministro de Seguridad de Santa Fe, Marcelo Zain, atribuyó los ataques a periodistas de Clarín, una acusación que carece de fundamento y genera una polémica innecesaria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La situación requiere una investigación exhaustiva y una respuesta eficaz por parte de las autoridades, no la atribución de culpa a un medio de comunicación sin ninguna prueba.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1447
+}

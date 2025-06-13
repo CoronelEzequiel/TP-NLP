@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.173,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Un número que el gobierno celebra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta desaceleración no implica que los precios hayan dejado de subir, sino que lo hacen a un ritmo más lento.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es esperable un aumento en marzo, ya que los datos, especialmente los del rubro alimentos (que tiene un peso significativo en el índice general), anticipan un repunte.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En febrero, los mayores aumentos se registraron en: comunicación (24,7%), transporte (21,6%), servicios (agua, luz y gas: 20,2% - sin incluir los aumentos previstos), bienes y servicios (16,6%), salud (con las prepagas superando la inflación general: 13,6%), y alimentos (11,9%, ligeramente por debajo de la inflación general).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta medida, más que una solución, resulta problemática.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El verdadero riesgo está en la pérdida de empleos en el sector productivo argentino.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos datos reflejan un aumento significativo, aunque pueden variar según la zona.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se trata, en gran medida, de especulación empresarial.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La disparada de precios desde la eliminación de los controles de precios es monumental.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La liberación de importaciones de alimentos, presentada como una solución para el consumidor, sólo es efectiva si este tiene poder adquisitivo, lo cual depende del empleo y los salarios reales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, los precios siguen subiendo y el gobierno no toma medidas efectivas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2154
+}

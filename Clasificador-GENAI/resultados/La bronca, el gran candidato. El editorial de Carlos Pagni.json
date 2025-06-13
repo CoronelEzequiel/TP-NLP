@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los líderes de esas provincias tratan de despegarse del calendario nacional porque consideran que la situación nacional, sobre todo en el caso del peronismo, el gobierno los contamina y les hace perder votos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las categorías con las que nos manejamos en los últimos 15-20 años, para ponerlo de manera muy brutal y simplificada, kirchnerismo y anti-kirchnerismo, empiezan a ser cada vez más obsoletas para interpretar lo que está pasando en la vida política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este es el terreno sobre el cual tendrán que implementarse los planes de estabilización que estudian los equipos técnicos, a veces muy ajenos a este estado de ánimo que se manifiesta en esta onda de negatividad electoral, que incluye abstención y voto en blanco.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Tucumán hay una metodología establecida como natural, que es que el peronismo propone candidatos a gobernador de los que cuelgan 80 listas de diputados, obviamente ninguno entra, legisladores locales, se les paga después con cargos, a veces con plata, que se presenten para mover la lista del candidato a gobernador.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos en presencia de muchísimos candidatos, todos con poco nivel de votos y eso tiene un efecto que incrementa el fenómeno, ¿por qué? Porque si yo veo que el mejor candidato de mi fuerza política tiene 17% de los votos y me presento con 10, también, ¿por qué no me voy a presentar?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto que había prometido tantas cosas, no cumplió, tampoco está no pelearse nunca más con Cristina, cuánto pueden sumar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo voy a poner con una comparación, ¿qué me conviene más? ¿Ser Macri del 2019 o Vidal del 2019?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una discusión que reanima la discusión que tuvo el radicalismo en el 2015 en Gualeguaychú, ¿qué hacemos con el peronismo?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9104
+}

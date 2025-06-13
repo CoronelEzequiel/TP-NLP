@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.61,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto generó un cambio profundo en la subjetividad del tiempo libre entre los argentinos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Probablemente sean estas cosas las que están empezando ahora a dar gradualmente la popularidad de Javier Milei.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con este contexto, se entiende mejor el asado de ayer en la quinta de Olivos y la celebración de los 87 héroes, nada menos, de esa palabra utilizó el presidente, que apoyaron el veto del presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras afuera, como veíamos, los jubilados representaban apenas una parte, un significante de mucha gente que tiene restringida la comida.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo pronto, 87 diputados que votaron con el presidente, pero fundamentalmente, los cinco diputados radicales son los más preocupados por estas preguntas que acabamos de hacer, porque ellos pueden seguir siendo invitados por el presidente a disfrutar de otros asados para celebrar nuevos, entre comillas, triunfos políticos, pero pueden terminar quemados, literalmente, con el mismo fuego del asado de ayer en la quinta de Olivos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3473
+}

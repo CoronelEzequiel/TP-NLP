@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.101,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Partamos de un hecho: el gobierno sufrió una derrota política en el Senado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La fragilidad del oficialismo quedó patente al final de la sesión.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el último minuto, el gobierno intentó evitar quedar vinculado a Cúeger, un aliado importante hasta ese momento, a pesar de haber maniobrado durante todo el día para evitar su expulsión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este episodio revela una disputa entre Milei y Macri.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las denuncias de corrupción, que empiezan a afectar a Milei y sus aliados (incluyendo a Carina Milei), demuestran su vulnerabilidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno no es infalible, y su método se basa en la corrupción y el fraude.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los sindicatos y movimientos sociales deben involucrarse para evitar que esta derrota se limite al terreno táctico y para frenar el plan económico y social de Milei, considerado por algunos como criminal.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1733
+}

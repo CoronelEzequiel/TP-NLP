@@ -1,0 +1,121 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy habló Alberto Fernández en la asamblea con Cristina al lado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gente fue a quejarse con la bandera y un montón de sinvergüenzas y patoteros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los patoteros de la CGT, del sindicato hacia el queso, no sé. Pero esas son las huestes de Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente, la realidad que Alberto no entendió todavía que las vacunas no las afanaron.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque del discurso no entendí absolutamente nada.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Igualmente, Alberto puede hacer Alberto porque la oposición es tan pedorra y tan cobarde, tan por el medio, tan cagona.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo defiendo a Alberto porque es el presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estoy en el medio y cuando firmé el contrato dije, voy a ir por el medio porque lo único que me importa y nadie lo puede entender es la gente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero estaban todos tomando el aperitivo, paseando el garle, rajándose la bola, todo el mundo a la pileta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y creo que este gobierno está cebado de tanta cobardía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy había un cacerolazo, dos viejas, clac, clac, con pancitas, la de siempre, la que sabe que se van a morir porque robaron la vacuna.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este programa va, todo el año va a pegar fuerte a la línea de flotación, pero no para voltear a Alberto ni para que vaya en cana Cristina sino para que haya justicia, muchachos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos gobernados por gente muy corrupta, por muchos sinvergüenzas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero nunca podés levantar un arma contra tus hijas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Cristina tiene que dar muchas explicaciones y tu gobierno también para empezar a hablar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oposición, sacando a Patricia Bullrich, son una manga de cagones que no van a hablar, que somos palomas, somos halcones, pelotudos de colegio que no tienen los huevos suficientes para salir a enfrentar un gobierno que todos nosotros que somos oposición lo apoyamos, pero no tienen las bolas suficientes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cada vez estamos peor, la gente cagada, me he oído un informe de policías en acción que hablaba de una villa que Caro después va a hablar donde los chiquitos recién nacidos estaban dentro de los charcos con agua podrida y después iban a la quema a comer basura, a comer basura.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un presidente va a ir a hablar con promesas de un país que sale y generoso cuando todavía tiene nueve millones o diez millones de personas sindicadas a la pobreza porque encima no son ni los atorrantes flaneros que van a aplaudir a Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y para demostrarle también que la gente necesita un guía.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo soy Sherry. Yo estoy para controlar lo ilícito de todo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso les digo, pasan cosas asquerosas alrededor nuestro. El país está en un momento asqueroso, está en un momento de no retorno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese gesto solo de pegarle a un jubilado que tiene 90 años tendría que ser el motivo para que se revuelquen en el barrio y pierdan las próximas elecciones, pierdan el poder y podamos sacar al final la Argentina a flote, y vos decís en mano de quién.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4605
+}

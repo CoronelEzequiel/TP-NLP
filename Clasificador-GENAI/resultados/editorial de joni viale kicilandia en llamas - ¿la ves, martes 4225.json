@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En enero tuvimos... Dame, por favor, el jueves. Asesinato de Lucas Aguilar en Moreno, 20 años, siete puñaladas. Tremendo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Axel, te cagaste!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La prioridad número uno en un país roto por ustedes, que lo rompieron los populistas, no puede ser el cambio de género.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El chorro no tiene miedo. La gente que quiere laburar está cagada de miedo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El mal manda en la provincia de Buenos Aires.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero en la provincia de Buenos Aires tenés dos homicidios por día.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La vida en Kicillandia no está garantizada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4002
+}

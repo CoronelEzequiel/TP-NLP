@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.689,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si vamos a intercambiar zapatos... No lo jodas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Igual le digo una cosa al muchacho de la cámara: vos con nosotros, lo tuyo está.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy ya lo procesó a Macri, ahora tiene que contestar el abogado de Macri el procesamiento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y si no compras jueces, te procesan acá, si no es un amigo tuyo, te procesan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que Cristina se equivocó, creyó que era reina y creyó que era para siempre y creyó que cada vez la gente iba a creer más una mentira y creyó que cada vez íbamos a estar más sometidos y creyó que cada vez íbamos a estar más de rodillas y pensó que era la líder de izquierda de Latinoamérica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente se dio cuenta de que estaba mintiendo y que esto era una gavilla de delincuentes que venían a robarnos, de hecho, nos robaron el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y creo que Cristina se creyó su propio verso y una vez me dijo Sandro, el cantante, un filósofo de la vida: \"No compres lo que vendés, pibe\", y Cristina compró lo que vendía y se creyó que era reina y todavía no le cayó la ficha, que la Argentina la ve como corrupta, hasta los mismos que son peronistas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo, cuando voy para la radio a la mañana, me encuentro con cartoneros, ¿viste?, gente que está pobre pidiendo en la calle y me dicen: \"Ángel\", gente que me podría cagar a trompadas por facho, por gorila.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si usted vuelve, mano dura, todos en cana\", y se reía, y si no es Macri, es Larreta o es otro, mano dura y en cana a toda esta gente, porque el daño que nos han hecho es infinito, la guita que se han llevado es infinita, cómo nos han dejado el país ante el mundo, es terrible, somos el peor país del mundo, qué vergüenza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3425
+}

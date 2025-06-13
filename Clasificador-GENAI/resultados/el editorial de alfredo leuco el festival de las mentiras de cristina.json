@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.856,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Fue un show de falsedades, donde, movilizada a cargo de la Presidencia de la Nación, llegó a un acto partidario en el helicóptero oficial que pagamos todos y todo el tiempo dijo que van a volver al poder a solucionar todos los problemas, cuando en realidad hace tres años que están en el poder y son los responsables de agravarlos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina tiene sus bolsillos llenos de dinero sucio que le robó al pueblo argentino y por eso será condenada, antes de fin de año, a prisión, a inhabilitación perpetua y a que devuelva los millones de dólares que no son de ella.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El peronismo ha sido violento desde su nacimiento.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina, altanera, descalificó las privatizaciones de los 90 y a Domingo Cavallo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre estuvieron del lado de los delincuentes, y, con Zaffaroni como bandera, se cansaron de liberar criminales y barras bravas, y al que manifestaba lo que ella está diciendo ahora, lo acusaba de \"facho\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nadie hizo más en la Argentina democrática por fabricar la grieta y el odio que Kirchnerismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina llegó a decir que la inflación era culpa de los jueces, que no habían permitido que las telecomunicaciones fueran declaradas \"a servicio público\" para poder regular los precios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca se robó tanto en tan poco tiempo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2383
+}

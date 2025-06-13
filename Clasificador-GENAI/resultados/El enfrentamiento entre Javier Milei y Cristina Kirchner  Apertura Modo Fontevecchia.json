@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Se acabó la joda de la política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente, y la ex vicepresidenta, le contestaron con un tuit muy interesante, porque además termina siendo una referencia a Alberto Fernández.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuesta ver a los dirigentes de primera línea política intercambiar chicanas en un contexto tan crítico.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es un gobierno muy dogmático que tiene algunas lógicas económicas muy difíciles de implementar y de entender en Argentina y que, bueno, tiene un enorme desafío, porque en eso es bastante novedoso.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según Macri, él ve la economía óptimamente y Milei llegó justamente por la antipolítica.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay tácitamente una competencia entre Milei y Macri, donde Milei, por ahora, tiene las de ganar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Admita que firmó, cobró y lo pescaron.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El especialista ecuatoriano y columnista de Perfil dijo textualmente: \"Es bueno que paguen bien a las autoridades. Está de moda perseguir a los políticos\".",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei pareciera esta vez un laclausiano, pero de derecha.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4683
+}

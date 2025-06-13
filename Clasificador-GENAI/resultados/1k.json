@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La combinación de resistencia y confrontación al gobierno actual, responsable de la tasa de empobrecimiento más acelerada de la historia argentina, es crucial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta crisis es un plan político deliberado, una \"miseria planificada\", cuyo objetivo es la licuación de los salarios y la aceleración de la dolarización.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi propuesta política se asemeja, paradójicamente, a las políticas económicas de Maduro, principalmente por la rápida devaluación de la moneda nacional.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Independientemente de las razones del voto, la idea de que \"la sociedad que lo votó se joda\" es inaceptable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación política actual deja en evidencia la falta de liderazgo efectivo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1915
+}

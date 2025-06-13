@@ -1,0 +1,31 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pero bueno, el fenómeno no se circunscribe simplemente a un gremio pequeño de solamente 5000 empleados que hoy están en una posición de fuerza, porque sin neumáticos se separan muchas actividades.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Néstor Kirchner decidió inclinar el peso de la puja distributiva desde el Ministerio de Trabajo a favor de los sindicatos, promoviendo paritarias por arriba de la inflación. Eso funcionó.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que estamos diciendo es que probablemente se llegó a un punto en el que los sindicatos comprendan que la única alternativa para que el salario real no siga perdiendo frente a la inflación, sin importar cuánto consiga la paritaria (consigue 80, la inflación va a ser 100; consigue 100, la inflación va a ser 120), es que se acabe con la inflación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si son peronistas, que hagan peronismo. O sea, el peronismo del chamuyo ya estamos cansados. Nosotros defendemos a los laburantes. ¿Y sabés dónde veo el peronismo cuando miro para el costado? Cuando están los laburantes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3918
+}

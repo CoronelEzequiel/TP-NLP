@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es un gobierno que correctamente llegó al diagnóstico de que el gobierno anterior dejó una crisis severa, muy severa, y obviamente salir de una crisis muy severa nunca es fácil, pero fue muy correcta la presentación que se hizo en Sociedad de la Crisis Severa y que anima a seguir.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La manera de terminar con esto es terminar con la coparticipación. Cada provincia recaude sus propios impuestos. Muchos impuestos patrimoniales podrían recaudarlos los municipios, como por ejemplo el inmobiliario urbano y rural, eliminando todas las tasas que dejan de cobrar tasas y cobran impuestos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está a punto de empezar a comer mierda literal. Está totalmente equivocada en casi todo lo que hace, por ejemplo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son los corruptos los que hacen cagar de hambre a la gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "todo lo que podamos hacer en el sector privado, ahora mismo, y lo que no podamos hacer, que venga el Estado a hacerlo, por ejemplo, ferrocarriles, por ejemplo, que haya buena seguridad, buena defensa, buena justicia, buena diplomacia, muy buena educación básica para los pibes, muy buena salud básica, que haya un mínimo de seguridad social, esas cosas si no las hace el Estado, no hay nadie que las haga.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5525
+}

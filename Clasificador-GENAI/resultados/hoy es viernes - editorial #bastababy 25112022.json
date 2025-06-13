@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lamento que no le suban el sueldo y se quede con nosotros, porque no puede ser que se rompa tanto el pie para pagarle al amante de su mujer y solventar sus estudios.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, se debe sospechar que en la compra del Boeing alguien se llevará una importante suma de dinero; esos Boeing no valen nada, están fuera de circulación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire lo seguro que estoy de que se le terminará la “joda”.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si gana Argentina, seguirán engañados un mes más, irán por la calle con la panza al aire.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y todos esos eslóganes de mierda van a dar vueltas alrededor del Obelisco, van a romper algunos vidrios y se irán contentos a sus casas, aunque hayan destruido todo porque ganó Argentina.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero parece que cuando van a protestar están tan ansiosos con la bandera que no ven los carteles y siguen de largo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El lunes nos vamos a despertar en un país terrible, tenebroso y tétrico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y sigamos apostando al abuelo que nunca nos engañó, ¿no? A Washington.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1846
+}

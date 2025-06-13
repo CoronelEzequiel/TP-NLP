@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Estamos hablando del concejal reelecto Facundo Albini y de su padre, Claudio Albini, ex subdirector de personal de la Legislatura bonaerense.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos los argentinos, Massa, lo venimos manteniendo hace años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su gestión fue demolida por el gobernador peronista Juan Schiaretti, recién lo escuchamos, que en una entrega de créditos dijo que esta inflación desbocada del gobierno kirchnerista del ministro Massa hace que cada vez la plata alcance menos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Es cierto que el delirante gasto público se come el 45% del producto bruto, con los impuestos más altos del mundo, y que el 40% de los bienes son impuestos?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por sí o por no, Sergio Massa, ¿es cierto que Cristina lo calificó de \"fujimorista\", como acabamos de escuchar, y que los sinónimos de \"fujimorista\" son bribón, granuja, sinvergüenza, estafador y tramposo?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es que usted elevó sus mentiras a la enésima potencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los que nos dedicamos a la política y al periodismo sabemos que no hay mayor facilitador de negocios con los empresarios prebendarios que usted.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2411
+}

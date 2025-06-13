@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.073,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy estamos defendiendo la soberanía del transporte nacional en todas sus modalidades.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante este paro nacional y la presión sobre el gobierno para que vea que hay un sector muy importante de la población que lo está pasando mal y que pide un cambio de modelo económico.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El secretario general ha sido convocado a distintas reuniones con [nombre del funcionario], con [nombre del funcionario] y con el secretario de Trabajo. Es un obsecuente de los empresarios porque lleva adelante políticas contra los trabajadores.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La base apoya. Se ha paralizado todo: no hay aviones, no hay trenes... Y seguramente muchos de los que están parando lo han votado así.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El enemigo no es [nombre del político], lo he dicho varias veces, el enemigo es la pobreza, el hambre.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchacho, la gente se está muriendo de hambre. La verdad, la interna del peronismo no le importa a nadie. Ni a ellos ni a nosotros.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2546
+}

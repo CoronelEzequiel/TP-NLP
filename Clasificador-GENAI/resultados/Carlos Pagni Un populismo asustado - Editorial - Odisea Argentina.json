@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Gardel era el símbolo de la alegría, de la limpieza criolla, adecuado para oponerlo a la hora de descrédito y decepción que sacudía la República.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maradona fue sometido a un intento de *kirchnerización*.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos frente a un populismo ajustador, es una especie de oxímoron, de contradicción en los términos, y es un populismo asustado; se convirtió en ajustador después de un susto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hubiera honestidad intelectual, tendrían que converger y decir: 'Sí, la verdad que estamos todos ante el mismo problema y todos más o menos tenemos las mismas herramientas'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7310
+}

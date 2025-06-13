@@ -1,0 +1,41 @@
+{
+  "texto_id": "El último boletín informativo que envié el miércoles pasado, titulado \"La derecha y la hegemonía imposible\"",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estudios de opinión indican que entre sus votantes hay muchos que defienden la educación pública y se oponen a la privatización de empresas como Aerolíneas Argentinas o el Correo Argentino (en lugar de IPF).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei podría ser el producto de la ausencia de rebeldía o de la contención de posibles manifestaciones rebeldes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los oradores destacaron que, frente a la corrida cambiaria de la semana pasada, la CGT respaldó las medidas del gobierno para contenerla, es decir, la intervención del Banco Central en el mercado cambiario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto me llevó a una reflexión central en mi libro \"La hegemonía imposible\" (publicado el año pasado): la fuerza real de los trabajadores argentinos y su subrepresentación en la vida social y política del país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No comprendo cómo se puede analizar el fenómeno Milei sin considerar la ausencia de una voz propia y activa de los trabajadores en la política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esta lógica, el fenómeno Milei también sería producto de la subrepresentación de esa mayoría social a la que Milei pretende quitar derechos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1904
+}

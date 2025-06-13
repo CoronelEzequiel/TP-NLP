@@ -1,0 +1,46 @@
+{
+  "texto_id": "Estela_Carlotto_en_Cordoba",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.107,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vinimos a visitar al gobernador. Estamos saliendo de una hermosa charla de una hora y media.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablamos de todo lo que quisimos. Nos abrazamos con fuerza, porque él va a seguir auxiliando y atendiendo a la filial de acá y, por supuesto, todo lo que es derechos humanos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nada, simplemente expresé mi opinión, para decirle a él —que es un amigo y comparte nuestras ideas— que ojalá tengamos la suerte de tener un presidente como la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, sí, sí. Lo remarco para que… Es muy cálido, una persona que todo lo que dice se entiende, ¿no? No como [se omite el nombre para evitar sesgos políticos], ¿no? Que no se le entiende mucho.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que nos reciba un gobernador tiene un significado muy grande. Para buen entendedor, pocas palabras.  Y además, él sufrió la dictadura, estuvo perseguido, estuvo refugiado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, y así, hablando en mi tono particular, soy Estela Carlotto, y espero que triunfe el bien para nuestro país.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, querido, hay que seguir luchando y trabajando. No hay que interrumpir la tarea de la búsqueda de los nietos que faltan, que son 300.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2335
+}

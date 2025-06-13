@@ -1,0 +1,61 @@
+{
+  "texto_id": "19_de_febrero_día_439",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La intención, por ejemplo, de interrumpir la entrevista del presidente Javier Milei con Jonathan Viale, el descargo del periodista y la acusación de otros colegas de cobrar dinero a cambio de apoyar a un candidato presidencial, todo esto, que resulta muy grave para la producción periodística, es un síntoma de la relación que ciertos sectores de los colegas tienen con los gobiernos de turno y con su propia audiencia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Yo creo que mi error es que me faltó firmeza para mandarlo a la mierda, Santiago Caputo. Tuve miedo de que la nota se suspenda, no sé, cosas que te pueden pasar en ese momento. Sólo pensé: 'Yo quiero que la nota esté, que no corra riesgo la nota, quiero asegurarme que quede el material bueno'.\"",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Vos decís, ¡qué vergüenza! Te llenaste la guita con sobres de la política\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso no es periodismo, es una amenaza o una extorsión.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hay un pacto de lectura tácito, es decir, queda claro que esos periodistas le van a preguntar al presidente lo que el presidente quiere responder de la forma que quiere que sea preguntado, y eso espera la audiencia que sigue a esos periodistas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es necesario institucionalizar las conferencias de prensa de los presidentes, de la misma forma que es necesario institucionalizar la distribución de la publicidad pública de una manera no discriminatoria, que vaya un periodista de cada medio en esas conferencias de prensa y que se puedan hacer preguntas libremente. Es lo mejor institucionalmente para la calidad democrática de un país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Muchas capitales del mundo siguen este fenómeno llamado argentino peleando con estupor. Propuesto el primer parte de guerra. Habrá más, seguramente, todos los necesarios hasta que la guerra termine, como va a terminar, triunfando la Argentina, va a terminar triunfando\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Y no llega a haber elección, yo le cedo mi puesto. Placer de, bien, el programa, no hay ningún problema, va a tener más reyes, así que ahí tiene el programa. Vamos a probar quién gana\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"La confianza en el gobierno se ha perdido por la sobre magnitud que se le ha dado a la tragedia de Once que dejó 51 muertos\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras Longobardi era blanco de todo tipo de acusaciones infundadas e insultos, por parte del gobierno, un pase justamente con Jonathan Viale, en el que resultó bastante anticipatorio de lo que terminó sucediendo, en el que Longobardi hacía algunos reclamos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6045
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mario Secco gobierna Ensenada desde 2003 de forma ininterrumpida.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero las casas, el día que sacaron la foto, buena parte de ellas no tenían techo ni ventanas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mario Secco, de una forma completamente autoritaria, porque haber un rival había vencido a su jefa política Cristina Kirchner, declaró o hizo que sus concejales declararan a Sergio Massa como persona no grata en Ensenada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Secco es noticia por un blooper que parece divertido, pero que en realidad es muy, muy triste.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Secco es uno de los últimos grandes varones del conurbano con actitudes, además, que están siendo juzgadas en la justicia y que son completamente chocantes con la democracia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1966
+}

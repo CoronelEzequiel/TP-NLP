@@ -1,0 +1,36 @@
+{
+  "texto_id": "la_tregua",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández dice que todos los mercados entiendan que vamos a reducir el déficit fiscal.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Pareció una cosa muy decepcionante, ¿no? O sea, no hubo ningún anuncio para los trabajadores, ni las trabajadoras, ni los jubilados, ni las jubiladas, y sobre todo los sectores informalizados, que son los que más han sufrido, han perdido un tercio de su poder adquisitivo desde el 2015 para acá, que siguen perdiendo, que habían repuntado un poquito, y ahora, este último semestre, han perdido de nuevo lo poco que habían repuntado.\" (Juan Grabois)",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Las medidas que anunció Mataquis están en la dirección correcta, en el sentido de que Argentina atraviesa una crisis fiscal de magnitud...\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Las reformas fiscales para bajar el gasto requieren decisiones, que requieren reformas, y pagar costos políticos en muchos casos...\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Esta idea que tratan de imponer algunos de que la Argentina está en una crisis irreversible, que se necesita de evaluaciones fuertes, ajustes dolorosos, cosa que no es cierto.\" (Miguel Pesce)",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3873
+}

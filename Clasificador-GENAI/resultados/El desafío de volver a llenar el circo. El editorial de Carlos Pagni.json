@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que está pasando hoy, lo que está pasando en este proceso que estamos viviendo, es que daría la impresión de que ambos sujetos, kirchnerismo detrás de Unión por la Patria, y Juntos por el Cambio, están agotados en realizar esa tarea de componer la relación, de restaurar la representación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay todo un problema hoy en Occidente para desentrañar qué hay en el cerebro de alguien que se abstiene. Y, sobre todo, cómo hacer que deje de abstenerse. ¿Cuál es la lombriz que hay que ponerle para volverlo a pescar?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el intento de los caudillos peronistas, 14 del interior, de salvar su ropa, de poner a resguardo su casa y abandonar al PJ nacional y a Massa como cara de ese PJ su suerte, beneficiaron a Milei porque le dieron una ventaja competitiva.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri está pasando horas de alegría, seguramente. Primero, porque se le cumplió su pronóstico. Desde muy temprano, él decía que había dos protagonistas: Milei y Juntos por el Cambio.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y otra corriente que probablemente predomine ahora, después del fracaso de Massa, que le decía: \"No, tenés que iniciar una gran polarización con lo otro\". Y lo otro que es el fascismo. El otro caracterizado como la derecha fascista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8490
+}

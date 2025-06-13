@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.04,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "\"Es una locura\", afirma, al describir la situación de su hermano, quien fue arrestado mientras ejercía su derecho a manifestarse.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Mi hermano fue a manifestarse pacíficamente, autoconvocado. Salió hacia el Congreso a las 5:30 de la tarde y la detención ocurrió alrededor de las 7:30.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las circunstancias de la detención son confusas, pues acusan a mi hermano de estar en un lugar que no debía estar, cuando en realidad estaba sentado hablando por teléfono",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Micaela anuncia una concentración en Plaza de Mayo a las 4:30 pm y una conferencia de prensa de diputados de la Unión por la Patria, para repudiar las detenciones y denunciar las agresiones sufridas por algunos diputados el mismo día.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Esto es una barbaridad. Una absoluta violación de los derechos humanos\", concluye Jorge.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1437
+}

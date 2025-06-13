@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.085,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de Javier Milei ha decidido priorizar a las mujeres y los niños en último lugar, en franca contradicción con la frase proverbial \"mujeres y niños primero\" utilizada en situaciones de emergencia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace quince días, denunciamos que este gobierno tenía más de cinco millones de kilos de alimentos sin distribuir, destinados a niños y niñas, administrados principalmente por mujeres que trabajan diariamente en miles de comedores de todo el país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno decidió que estos niños no coman, no solo los que asisten a los comedores comunitarios, sino también los de las escuelas, ya que se recortaron los fondos para los comedores escolares y los programas de leche escolar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, se conoció la noticia de la eliminación de los pocos programas estatales restantes dedicados a la protección de los derechos de la mayoría de la población: las mujeres.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei está eliminando los derechos de las grandes mayorías.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La eliminación de políticas públicas genera muertes: por femicidios, por falta de medicamentos, por desnutrición y por accidentes de tránsito debido al mal estado de las rutas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei ha decidido cortar todo esto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debe ser un tema prioritario que movilice a la sociedad, pues las mujeres y los niños no pueden ser los últimos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La dirigencia política, sindical, cultural y social que dice representar a las mayorías (la mayoría son mujeres) debe movilizarse.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso de los alimentos, Monseñor Ojea y Mirta Legrand reaccionaron con más rapidez que la dirigencia peronista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando llegue la hora de las elecciones, la gente recordará su inacción: su falta de presencia en los depósitos de alimentos, en la DADSE (Dirección de Administración de Drogas, Medicamentos y Estupefacientes, asumiendo que esta es la sigla) pidiendo la distribución de medicamentos, y en Landis (asumiendo que es un organismo de asistencia a personas con discapacidad) para evitar los recortes en los derechos de las personas con discapacidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Millones de mujeres recordarán quienes las pusieron en riesgo y quienes no defendieron sus derechos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este espacio, \"Habrá Consecuencias\", las mujeres y los niños van primero.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1994
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En primer lugar, nuestro país posee una riqueza inigualable.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En segundo lugar, a pesar de contar con una riqueza comparable a la de Argentina y Latinoamérica en su conjunto —poseemos petróleo, litio, oro, minerales y recursos marítimos en abundancia—, nuestra población vive en la pobreza.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Por qué? Porque somos gobernados por líderes autoritarios que se enriquecen a costa del pueblo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La corrupción es evidente cuando un funcionario llega al gobierno con pocos recursos y se marcha millonario, abusando de su poder para enriquecerse y silenciar a la población.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Recientemente, me enteré de la existencia de una campaña de desprestigio en mi contra por parte del gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien esto no me preocupa personalmente, me inquieta el temor que genera en otros a tener que complacer al poder, convirtiéndose en aduladores del gobierno y renunciando a la libertad de expresión, como ocurría en la época del peronismo.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1011
+}

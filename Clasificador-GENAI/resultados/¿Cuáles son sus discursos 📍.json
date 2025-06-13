@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.753,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La escena, en la que el joven, puro y casto, se convierte en alguien agresivo y violento, es de alguna manera el reverso de la canción de Nacha Guevara contra el odio, donde una empieza de una manera y termina de otra.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando estamos viendo un momento de crecimiento del extremo nacionalismo en todas partes del mundo, y no es un fenómeno solamente argentino, de hecho, vamos a escuchar algunos audios de personas relacionadas con quien intentó asesinar a la vicepresidenta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esos momentos de crisis, donde la economía mundial se detiene, aparece lo que llamó claramente Sigmund Freud, en el momento del interregno entre la Primera y la Segunda Guerra Mundial, como el malestar en la cultura. Y en esos momentos surgen manifestaciones de ese malestar en grupos extremos, como los grupos de extrema derecha.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y casualmente, este hombre se convirtió luego, en un proceso que dividió las aguas en Estados Unidos, en un símbolo de la más extrema derecha.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Maldigo que no salió el tiro\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Cerebro, el julepe que se pegó la peor basura de toda la historia política argentina, basura política y basura humana. Lo único que maldigo es que no salió el tiro, la puta madre, se ve que el arma estaba fallada, no sé, no se disparó la munición\"",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, aparentemente, el que intentó pegarle un tiro en la cabeza a Cristina Kirchner es un brasileño, un ciudadano brasileño que está viviendo en Argentina. Bueno, no me vengan con el principio de una agresión, le digo obviamente a los enemigos, a los marxistas, sus dos hijos de re mil putas y progre peronistas que apoyaron toda esta cuarentena de mierda que nos dejó sin trabajo a millones, que apoyaron el autog*ecologismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Hago un llamamiento a que la Argentina despierte y a que tomemos las armas para arrancar de raíz el marxismo. Es ahora o nunca. Viva la patria, y a vuelta a los perros, zurdos hijos de puta. Zurdos hijos de puta\"",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obviamente, la historia nunca se repite de la misma manera, hasta aquello del 18 Brumario de que lo que comienza como drama termina como farsa, pero se vuelven a crear condiciones de malestar que fueron las que crearon, en su momento, la situación de la emergencia del nazismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Esto no puede seguir por el ámbito de la democracia. Venimos los civiles, que somos totalmente enviolantados constantemente. Primero fue con una cuarentena absurda, matando gente de forma totalmente arbitraria en terapias, y ahora nos están matando de hambre, nos están sacando los pocos recursos que ya nos quedan y, a su vez, nos están enviolantando de los medios de comunicación, tratándonos a todos de negacionistas, fascistas, neonazis y un largo etc.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"La gente piensa que es una pared nada más y que no tiene ningún tipo de relevancia, bueno, si fuera una pared y no tuviera ningún tipo de relevancia, no se hubieran enfadado como se enfadaron, no hubieran venido a tirarme piedras o un sujeto. Pero ustedes taparon un mural, o escribieron sobre la fachada de la casa esta de la cultura\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Se empiezan horas muy críticas en Argentina, no es que venimos del paraíso, están las cosas muy mal, pero lo que viene es terrible, especialmente para la gente del campo, especialmente para los trabajadores, ni hablar para los familiares de las Fuerzas Armadas. Les pido que revisen quién va a ser el ministro de Agricultura, Ganadería, quién va a ser la ministra de Seguridad y quién es el ministro de Defensa, es una provocación. Ya de por sí, en cualquier país normal, este gobierno jamás hubiese asumido, ni siquiera, no asumido, jamás podría haberse presentado a elecciones la banda mafiosa, marxista, comunista, populista, más grande y más delincuente que tuvo la Argentina. Sí, señores, me hago cargo, a ustedes, a los jueces también, espero que otra vez no vuelvan a perseguirme y si me quieren callar, ya una vez lo hicieron, se metieron con mi familia, ahora vienen tiempos peores, pero les pido a la gente del campo que se una, a las Fuerzas Armadas que estén alertas, a los familiares de las Fuerzas Armadas, a la gente de bien, tenemos que estar listos. Tenemos que estar listos\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Estuve muy de acuerdo con Milei. No me hace reconciliación con los corruptos, no lo haga, chicos, basta de corrupción, sea de quien sea, de cualquier bando político, basta de la corrupción, de cualquier país, de donde sea, basta de corrupción\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en el conjunto una tendencia que tiene una explicación de lo que planteábamos, el malestar de la cultura.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5385
+}

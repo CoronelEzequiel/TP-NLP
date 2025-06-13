@@ -1,0 +1,41 @@
+{
+  "texto_id": "Nómina en la provincia de Buenos Aires",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.158,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno nacional, con la intención de perjudicar a la provincia, ha recortado fondos que legalmente le correspondían, afirmando que iba a \"fundir\" a los gobernadores que no lo votaran.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros defendemos nuestras convicciones, pero ¿cómo vamos a reasignar recursos para la provincia ante los enormes daños que se están causando en toda la Argentina?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno nacional paralizó todas las obras.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El esquema cambiario no daba más, tenían reservas negativas y perdían reservas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Han puesto en venta a toda la Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En defensa de nuestras políticas en la provincia, estamos terminando 21 obras en universidades que el gobierno nacional paralizó.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2026
+}

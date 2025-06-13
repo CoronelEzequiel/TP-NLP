@@ -1,0 +1,26 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Empecé, hace mucho tiempo, a advertir que el producto que esta persona usaba sería muy perjudicial en el futuro. Creo que eso me permitió divulgar mi opinión, y la de otros médicos que ya sabíamos que se trataba de un producto totalmente prohibido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando dicen que la paciente tenía una enfermedad preexistente, hay que considerar que si se detectan valores elevados de calcio o potasio, se trata de un problema grave. Si se hacen solo estudios de sangre sin una historia clínica completa, no se puede diagnosticar correctamente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si se busca el hilo conductor de todas las víctimas, es Otoki. Cada uno tuvo distintas consecuencias, pero el origen es Otoki.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1621
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.489,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En los últimos días, quienes siguieron los medios de comunicación se enteraron de que la actual conducción de la Agencia Federal de Inteligencia (AFI), el organismo que centraliza las tareas de espionaje —el uso de técnicas para conocer secretos de otros—, está bajo la lupa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, un hecho institucionalmente grave ha ocurrido: la vicepresidenta de la República, Cristina Fernández de Kirchner, fue citada a declarar como testigo en una causa que investiga presunto espionaje ilegal.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, lamentablemente, nos hemos acostumbrado a este tipo de situaciones.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri, al asumir su presidencia, lo hizo procesado por presunto espionaje ilegal, aunque luego fue sobreseído.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se debate ahora el uso de los fondos reservados, que por su naturaleza, son confidenciales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Villena cree tener pruebas de una amplia red de espionaje ilegal, que afectó no sólo a opositores al gobierno de Mauricio Macri, sino también a aliados, incluyendo a figuras como Horacio Rodríguez Larreta, Diego Santilli, José Luis Espert, Graciela Camaño y Emilio Monzó.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se descubrió que había 401 fichas de periodistas, posiblemente utilizadas para la acreditación en el G20, con posibles motivaciones políticas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En resumen, hay varias causas relacionadas con espionaje: la causa que involucró al narcotraficante \"Verdura\" y al abogado Melo; la causa iniciada por Camaño contra Macri; la causa sobre la bomba en casa de Vila, y otras como la del ex agente D'Alessio, que presuntamente se hacía pasar por jefe de la DEA.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La magnitud de estas causas plantea interrogantes sobre la capacidad operativa para realizar tanto espionaje, la motivación detrás de él, y la existencia de agencias privadas como \"Darkestark\" implicadas en estas actividades.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2249
+}

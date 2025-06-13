@@ -1,0 +1,36 @@
+{
+  "texto_id": "8 de marzo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vivimos un retroceso en cuanto a derechos civiles e individuales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las mujeres ganan un 25% menos que los hombres haciendo, obviamente, la misma tarea.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Negacionismo en relación a lo sucedido en la última dictadura militar. Negacionismo también respecto a la situación del cambio climático a nivel mundial, y negacionismo en cuanto a la violencia machista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El estilo de Milei es el de la confrontación, en general, buscando humillar a su adversario. Es especialmente claro con las mujeres.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos a un presidente enfrentado en general con las mujeres, podríamos decir por cuestiones de género.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1730
+}

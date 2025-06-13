@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En un país que alguna vez se llamó República Argentina, cuya Constitución Nacional establece la preexistencia de las provincias a la nación y un pacto para conformar el país bajo ciertas reglas, la Corte Suprema ha vuelto a intervenir de manera significativa.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Corte Suprema ha actuado con habilidad, aunque su proceder pueda ser considerado autoritario.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Corte se arroga facultades legislativas y ejecutivas.  No hay un poder más antirrepublicano en Argentina que la Corte Suprema, que sistemáticamente viola la división de poderes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se puede estar a favor o en contra de las reelecciones, pero esto no contradice el derecho provincial.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tres personas no electas están tomando decisiones que afectan a todos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1689
+}

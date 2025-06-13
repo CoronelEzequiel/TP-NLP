@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.075,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que hoy tenemos algo peor: los dueños del mostrador.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero mostrarles que nada de esto sería posible, y los que realmente gobiernan la Argentina no podrían legislar y dictar Decretos de Necesidad y Urgencia (DNU) sin un sistema mediático que los legitime, los apoye y silencie estas irregularidades.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, vi cómo Alejandro Fantino analiza la comunicación, y él mismo decía cosas como… (y aquí, el autor describe las afirmaciones de Fantino).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué quieren que se vaya rápido? Porque una vez que se desmantelan las prácticas de la vieja política, es difícil reconstruirlas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí está el poder.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya no están de los dos lados del mostrador; son los dueños del mostrador.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un país gobernado y legislado por el estudio Funes de Rioja.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, ajustes en jubilaciones, obra pública, subsidios y trabajadores estatales, y despidos.  Pero los dueños de todo son los que escriben las leyes y los DNU.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2000
+}

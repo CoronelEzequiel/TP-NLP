@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El argumento es que el costo fiscal es de 370.000 millones de dólares.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo vetó el 82% móvil.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta reforma jubilatoria que genera rojo fiscal. El rojo fiscal siempre se resuelve con emisión sin respaldo. La emisión sin respaldo provoca inflación alta. La inflación alta siempre licúa a las jubilaciones. Y las jubilaciones licuadas generan jubilados pobres.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El juicio político se aprueba con dos tercios, ¿ok?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Realmente alentar la idea de que le puede pasar al fiscal Luciani lo que le pasó a Nisman.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El enemigo es la mafia, si no lo entienden, tan inútiles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llamado a la responsabilidad urgente al presidente, al presidente del PRO, a la señora vicepresidenta, a la ministra de seguridad, el país republicano está haciendo un esfuerzo descomunal, como para tirar toda la basura en ocho meses",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3408
+}

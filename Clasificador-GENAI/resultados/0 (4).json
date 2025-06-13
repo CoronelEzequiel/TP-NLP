@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_ghi",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.086,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El decreto, que tiene alcances específicos, pretende modificar un conjunto de normas, en su enorme mayoría fruto de la deliberación de distintas fuerzas políticas a lo largo de muchos años.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de la forma, nos interpela y nos preocupa algunos de los puntos del decreto porque entendemos que son lesivos para los intereses de un sector importante de la población, sobre todo de los trabajadores y de aquellos con ingresos fijos, porque le quita al Estado uno de sus roles más importantes: mediar, regular, proteger y contener al ciudadano como trabajador, consumidor, afiliado a una obra social o prepaga, o alumno de un colegio privado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esta fase del capitalismo, que tiende a la concentración y a la predación, necesitamos más y mejores estados, eficientes e inteligentes.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay mucha preocupación y desconcierto, y a medida que pasan los días, este desconcierto y confusión se traducen en más preocupación y angustia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si nosotros hubiéramos hecho esto, promoviendo transformaciones estructurales mediante un decreto de necesidad y urgencia, la reacción hubiese sido mucho más abierta y enérgica, señalando la vocación casi monárquica del Presidente o quien esté en el cargo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La prepotencia, ignorando las instituciones y la Constitución, no es el camino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, incrementamos la asistencia con recursos municipales y provinciales. Tuvimos una reunión con el Ministro Andrés Larroque, y estamos trabajando con organizaciones sociales y religiosas. La idea es acompañar y que nadie carezca de lo indispensable para estas fechas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2110
+}

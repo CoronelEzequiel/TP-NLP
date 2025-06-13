@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_congreso",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Dentro de ese período de estancamiento, con una economía que no solo no crea trabajo, sino que lo destruye, se suman más de tres años de crisis grave, la cual se inició en abril de 2018 con la corrida cambiaria durante el gobierno de Mauricio Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pandemia que no solo significa una contracción de la economía sin precedentes, con más pérdida de puestos de trabajo y más creación de pobreza, sino que, además, representa a una sociedad que durante mucho tiempo estuvo encerrada, hablando de vacunas, enfermedad, muerte y miedo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiere decir que a los chicos que están esperando la vacuna Pfizer, la única pediátrica porque tienen comorbilidades, hay que decirles: \"Mira, la seguirás esperando porque tenés la desgracia de depender de una vacuna que no se fabrica en la Argentina\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el capitalismo que se va formando en la Argentina en este contexto de inflación y de problemas cambiarios. Un capitalismo donde los negocios provienen de la plata, habría que decir, negra, del sindicalismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A tal punto que Alberto Fernández, en el acto de Escobar, dijo que él conoce de casos de empresarios que quisieron invertir durante el gobierno de Macri, que pedían de rodillas inversiones, y que el gobierno mismo les dijo: \"No, no inviertan, no hay que invertir, hay que importar. Si ustedes quieren crear fuentes de trabajo, nosotros no nos negamos a eso\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8942
+}

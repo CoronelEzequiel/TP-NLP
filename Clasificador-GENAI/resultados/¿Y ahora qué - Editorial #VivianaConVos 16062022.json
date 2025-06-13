@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos un presidente que no hace nada, que no dice nada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina es un \"sálvese quien pueda\". A nadie le importa la gente y hoy lo volví a comprobar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos 21 provincias con desabastecimiento de combustible y nadie habla, nadie dice nada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argentinos de bien somos un rebaño de \"pelotudos\". Mientras tanto, los funcionarios se dan la gran vida con la nuestra.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado está todo el tiempo ausente, entonces son pobres versus pobres.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero ir a laburar, quiero ir al médico, vengo al Hospital Italiano. No hay vida, queremos vivir normal.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este feminismo, donde se defiende o se ataca según la conveniencia, a mí no me representa. Seguramente, a vos tampoco.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los precios de los alimentos están por las nubes. Y la inflación cada día nos va comiendo un poco más la esperanza, la paciencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Cámara de Diputados, tirás una pala y salen cagando todos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7276
+}

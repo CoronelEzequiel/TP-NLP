@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_jose_riales",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La política está metida, la justicia… está todo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ellos están tirando para otro lado, no están a favor nuestro.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer escuchaba a mucha gente en las marchas contando casos parecidos al de Logan y otros tipos de corrupción dentro de la provincia. Usted está preocupado por Logan, pero se nota que la política está metida detrás de esto. Ahora se está notando más.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si lo levantó en el camino, no lo sé, pero si lo atropelló, lo atropelló.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sí, mucha gente pidió por él, así que estamos contentos de que esté con nosotros y nos esté ayudando. Antes estábamos quietos, ahora está más movido.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1886
+}

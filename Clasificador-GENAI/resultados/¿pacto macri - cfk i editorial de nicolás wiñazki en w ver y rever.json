@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Hay un pacto entre Cristina Kirchner y Mauricio Macri? Les estoy preguntando.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri quiere polarizar con Cristina Kirchner.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después del atentado fallido Torello le mandó un mensaje a Cristina Kirchner que ella leyó.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Mauricio Macri repudió inmediatamente lo que había pasado con Sabag Montiel en la esquina de Juncal y Uruguay.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, habla.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que veo posible es que el gobierno, después del atentado, ya les vamos a contar nuevas revelaciones del caso de Juncal y Uruguay, escaló, por lo menos con palabras y con hechos, a una defensa de Cristina que se vio en la calle, pero que ahora, hasta dirigentes como Andrés \"El Cuervo\" Larroque, de La Cámpora, están minimizando o tratando de suavizar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2550
+}

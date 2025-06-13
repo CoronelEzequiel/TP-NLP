@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los ejes de la narrativa oficial en esta campaña son los clásicos: profundizar la grieta y construir fantasmas para una campaña del miedo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En paralelo, se construyen \"almas bellas\" entre los dueños del capital, con empresarios presentados como rehenes del derecho laboral, como Marcos Galperín (Mercado Libre), cuyo paraíso terrenal es el libre desarrollo de la esclavitud asalariada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Banqueros, al borde de un ataque de pánico por los altos costos laborales, acompañan estas declaraciones con furiosos editoriales en *La Nación*, exigiendo una \"modernización\" de las relaciones laborales (es decir, mayor flexibilización y precarización).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No somos comunistas.  También queremos modernizar. No queremos controlar el dólar. No somos estatistas. Queremos pagar la deuda\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Romper esta polarización, que se inclina hacia la derecha, no es un simple planteamiento de campaña electoral, sino una respuesta a las exigencias de los empresarios y su gobierno, envalentonados en la etapa final de la campaña.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1663
+}

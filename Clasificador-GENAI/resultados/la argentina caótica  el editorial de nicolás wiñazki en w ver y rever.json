@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.588,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Nuevamente medidas restrictivas, nuevamente peleas entre la dirigencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A pesar de las disputas entre Horacio Rodríguez Larreta y sus funcionarios, y entre Axel Kicillof y Rodríguez Larreta, finalmente, los tres jefes de Gabinete de los tres distritos llegaron a un acuerdo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizás Kicillof ceda y las clases, actualmente suspendidas, puedan reanudarse para los alumnos de primaria.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es insólito que diariamente se celebren reuniones de urgencia en la Casa Rosada y en la Gobernación de La Plata, con expertos y funcionarios debatiendo sobre la saturación del sistema de salud, la falta de oxígeno y la necesidad de mayores controles.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hasta ayer, el discurso oficialista, liderado por Cristina Kirchner y Axel Kicillof, hablaba de un desastre inminente y del colapso total de las camas de terapia intensiva.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entiendo que es difícil gestionar una sociedad como la Argentina, sin culpar a la sociedad por nada; ella fue la que más esfuerzo hizo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vuelvo a lo anterior: los ministros, funcionarios y especialistas nos hablan sobre las medidas del COVID-19 como si viviéramos en Dinamarca, cuando en realidad vivimos en Argentina, donde coexisten el palacio y la calle.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cerramos con un tema de corrupción: esta semana, en el marco del caso \"Ruta del dinero K\", se conocieron los argumentos de la sentencia que condenó a Lázaro Báez a ocho años de prisión por lavado de dinero.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2248
+}

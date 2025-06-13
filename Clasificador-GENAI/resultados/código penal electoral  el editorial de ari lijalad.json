@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.046,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es decir, fueron el sostén psicológico, publicitario y normalizador de un genocidio.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, el Poder Judicial Argentino vuelve a sobreseer a un empresario que mandó a secuestrar a dos de sus delegados sindicales porque le molestaban.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cosa rara, no? Es una fiesta con la gente sobre la cual luego deben escribir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchamos a un juez de la Corte que deberá resolver sobre el caso de Cristina Fernández de Kirchner opinar sobre el caso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que recordar que en la causa donde Cristina Fernández de Kirchner está condenada, la Corte fue la que le pidió la causa al tribunal, la revisó y, en lugar de decir que no había delito y que estaba viciada de irregularidades, le dio impulso.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La misma Corte Suprema que mantuvo en sus cargos a jueces que jugaban al fútbol en la quinta de Mauricio Macri, principal interesado en la causa.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una vez más, Lorenzetti, que fue la cabeza del lawfare y que hoy sigue formando parte de una Corte Suprema que sostiene todo esto.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1993
+}

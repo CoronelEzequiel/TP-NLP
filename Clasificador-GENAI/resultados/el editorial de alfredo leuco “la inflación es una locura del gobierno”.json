@@ -1,0 +1,111 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.89,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hacer siempre lo mismo y esperar resultados distintos… Mire, sí es cierto que encaja como anillo al dedo con lo que está haciendo este nefasto gobierno kirchnerista.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Van tozudamente, con una ceguera ideológica brutal, hacia el mismo lado.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siguen nombrando empleados públicos y no se dan cuenta de que se siguen pegando tiros en los pies.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero ellos no creen en estas medidas que repudian, las llaman neoliberales.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están asustados, lo único que les falta es repartir dinero en las esquinas o creer que la pobreza y la inflación se pueden bajar por decreto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ignoran las leyes básicas de la economía y hasta de la aritmética.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Cristina Fernández de Kirchner y Máximo Kirchner no se los permiten.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos creen en el pasado, en Cuba, en Venezuela.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esos países tienen condenada a la pobreza eterna a su pueblo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son fanáticos delirantes que se creen que imprimir una catarata de dinero y repartirlo les va a hacer ganar las elecciones y no va a tener consecuencias nefastas para la economía.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 8,4% de aumento del índice de precios al consumidor es escandaloso y desgarrador.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación anualizada de más del 108% es récord en los últimos 30 años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero insisten en hacer lo mismo y esperar resultados distintos que no llegan.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No tienen vergüenza ni pudor.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son burros. Burros jurásicos con ideas vencidas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Apuntan a Macri, a la pandemia, a la invasión de Rusia a Ucrania, a los comerciantes chinos, a los supermercados especuladores y a la sequía.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejen de joder, dejen de joder con tanta mentira y con relatos insólitos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En lugar de combatir la inflación, el gobierno de los Kirchner se convierte en una fábrica de inflación y, por lo tanto, en una terrible, triste y dolorosa fábrica de pobres e indigentes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El fracaso económico es absoluto y demuestra que no saben hacer bien ni siquiera el mal.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya fracasaron mil veces en este país y en otros países, pero los muy obtusos insisten con estos mamarrachos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3126
+}

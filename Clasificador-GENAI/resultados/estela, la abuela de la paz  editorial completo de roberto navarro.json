@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hay un gobierno violento que genera violencia, hay hambre que genera violencia, y claramente existe un clima de violencia generalizado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece muy relevante, porque más allá de mis opiniones sobre [Nombre del político 1] o [Nombre del político 2], o de las opiniones que ellos tengan sobre Cristina Fernández de Kirchner o Axel Kicillof, el resto debemos convivir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy importante para el sector del peronismo kirchnerista que Cristina Fernández de Kirchner y Axel Kicillof estén unidos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha avanza y se queda con los trenes, los aviones y los negocios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hacen falta más Riquelmes y más Estelas que representen el clamor popular por la unidad.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2172
+}

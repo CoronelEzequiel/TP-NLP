@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.108,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En Jujuy persisten las represiones, aunque con menor intensidad que días atrás.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobernador, quien será candidato a vicepresidente, está involucrado en esta problemática.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi hijo Marcelo tiene 16 puntos de sutura en un brazo, 35 balines incrustados en el cuerpo y ambos brazos inmovilizados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los pueblos originarios cortan la ruta porque en la zona de Purmamarca y Salinas Grandes se extrae litio, y el gobernador Morales los está desalojando para favorecer la minería, engañándolos con promesas de escuelas que nunca se construyen.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A los manifestantes se los criminaliza, pero ellos solo reclaman por sus derechos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La cobertura mediática del evento ha sido deficiente, ocultando la verdadera dimensión de la represión y criminalizando a los manifestantes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1463
+}

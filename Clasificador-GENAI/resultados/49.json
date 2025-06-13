@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que se va a aprobar el plan. ¡Una locura!",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A quienes creen que portar un arma para defensa personal es un beneficio, les digo que es contraproducente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como defensor de los derechos humanos, digo que sí. Como militar, digo que sí. Como político, digo que sí. Como experto en seguridad, digo que depende del propósito.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero quienes creen que estarán más seguros portando un arma, cometen un grave error; las estadísticas lo demuestran.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la gente se arma para defenderse, el impacto es contraproducente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me preocupa más la situación de los jubilados que se prenden fuego en las oficinas del PAMI, la gente que no llega a fin de mes,  y el hackeo de los archivos de la Comisión Nacional de Energía Atómica, algo que pasó desapercibido pero que tiene implicancias estratégicas para Argentina, especialmente en el proyecto nuclear Karen, que está ralentizado por presiones externas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Estados Unidos, el uso de armas civiles ha provocado más muertes que las víctimas en conflictos bélicos desde Vietnam.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2247
+}

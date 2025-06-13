@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El partido gobernante, el Partido Justicialista, y varios funcionarios, afirmaron que, en lugar de un plan de vacunación, existe una \"vacunación política\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, resulta llamativo que el discurso oficial se centre en atacar a los \"odiadores\" en lugar de celebrar el avance científico.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Funcionarios como Daniel Gollán y Nicolás Kicillof no deberían ser considerados héroes por haber negociado la compra de la vacuna a Rusia por 200 millones de dólares; es su obligación como funcionarios públicos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, hay una evidente desigualdad en el acceso a la vacuna.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En lugar de atacar a un sector indefinido de la población, el gobierno debería centrarse en apoyar a quienes han sufrido la pandemia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las promesas de millones de dosis antes de fin de año no se han cumplido, y la Sputnik V es la única vacuna con un abastecimiento garantizado, al menos hasta la llegada de la vacuna Oxford-AstraZeneca en abril.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En resumen, el gobierno celebra un logro científico con un discurso que genera divisiones, mientras que la población espera ansiosa la llegada de las vacunas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1785
+}

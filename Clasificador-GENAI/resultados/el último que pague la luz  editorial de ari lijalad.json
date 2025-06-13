@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.075,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El sector empresario ofreció un aumento salarial del cero por ciento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación impacta significativamente en la dinámica salarial del país, ya que si en el Consejo del Salario el aumento es cero, muchos empresarios utilizarán esa pauta como referencia para las negociaciones salariales en sus empresas o sectores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto está relacionado con la reforma laboral que el gobierno intentó implementar por Decreto de Necesidad y Urgencia (DNU), actualmente frenada.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestros ingresos han caído un 30% desde el inicio de la gestión actual.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, mientras los empresarios ofrecen un aumento salarial del cero por ciento, las empresas de servicios públicos con altos márgenes de ganancia aumentan sus tarifas considerablemente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, se está reduciendo el poder adquisitivo de los trabajadores, mientras las empresas con monopolios obtienen ganancias exorbitantes.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1708
+}

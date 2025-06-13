@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.031,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hay, sin duda, una entente entre el poder político, un sector del poder judicial y los grandes medios de comunicación concentrados que buscan deslegitimar y construir un enemigo a partir de las organizaciones comunitarias, buscando desvalorizar la acción social, la tarea realizada comunitariamente, buscando desprestigiar y aislar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son políticas que generarán muchísimas dificultades sociales, que ya se están viendo pero que empeorarán.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una búsqueda por instalar una sociedad donde la crueldad y el individualismo dominen, donde se ignoren las dificultades del prójimo y haya una competencia exacerbada por sobrevivir.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo, lo que se busca es que no haya redes solidarias que sostengan a las comunidades y que señalen al verdadero criminal: la política económica y social de este gobierno.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se construyen espacios comunitarios —lo que el Papa Francisco llamaba \"espacios de salvación en comunidad\"—, en un barrio con enormes dificultades, la gente se junta, se desarrolla un proceso de conciencia colectiva; muchos vecinos ni se conocían, vivían en su burbuja.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que tender la mano a quien la pasa mal, hay que seguir estando junto a quien tiene dificultades.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más temprano que tarde, podremos construir una mayoría que presente valores a la sociedad, que recupere una mirada basada en la vida en comunidad, la solidaridad, la familia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A veces uno piensa que es un gobierno, pero detrás hay sectores muy poderosos, grandes herramientas de comunicación y una justicia cómplice.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2286
+}

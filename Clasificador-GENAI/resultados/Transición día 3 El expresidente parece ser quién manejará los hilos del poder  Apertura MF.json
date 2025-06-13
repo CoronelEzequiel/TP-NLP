@@ -1,0 +1,36 @@
+{
+  "texto_id": "ModoFontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que se sabe hasta ahora es que es muy complicado el armado del gabinete para Javier Milei, presidente electo, quien comienza a sentir el desgaste del poder antes de asumir, lo cual ciertamente no es bueno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque todo indica que cada vez más funcionarios cercanos a Mauricio Macri, incluso aquellos que ya fueron funcionarios nacionales entre 2015 y 2019, se van a sumar al equipo de Javier Milei, al equipo del presidente electo. Por eso parece que la jugada de Mauricio Macri ha sido brillante.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mauricio Macri, con poder, con algunos nombres fuertes que ya están sonando. Uno, la propia excandidata a presidenta, estamos hablando de Patricia Bullrich. Bullrich, que fue ministra de Seguridad con Mauricio Macri, vuelve al mismo cargo, Patricia Bullrich, ministra de Seguridad de Javier Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei, que llegó a la presidencia hablando de la casta, hablando de que no se puede solucionar el país con los mismos de siempre. Hablando de terminar con la casta y empezar una nueva etapa, pocos días después cambia su gabinete antes de asumir y empieza a sumar funcionarios que estuvieron en el gobierno de Mauricio Macri.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalmente, es Milei al gobierno y Macri al poder. Finalmente, es el gran ganador de todo esto, Mauricio Macri.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5950
+}

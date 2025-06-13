@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde entonces, el gobierno argentino, aunque no tengo constancia de que Alberto Fernández haya invitado explícitamente a la familia a usar la Casa Rosada para el velorio, sí aprovechó la situación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los disturbios ocurridos durante el velatorio, que acapararon la atención mediática, permitieron al gobierno, en un sentido metafórico, \"gambetear\" otros temas importantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La primera reacción gubernamental a los disturbios fue denunciar a la jefatura de policía por represión, en lugar de abordar la gravedad del delito cometido dentro de la Casa Rosada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese mismo viernes, el Senado, bajo la orden de Cristina Fernández de Kirchner y su mayoría automática, aprobó una reforma integral a las leyes que rigen el funcionamiento del Ministerio Público Fiscal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se evidencia un aprovechamiento político de la situación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, se usan los disturbios y las disputas por la coparticipación federal para justificar la quita de fondos a la Ciudad de Buenos Aires, estrategia que Máximo Kirchner justificó explícitamente, en relación a la posible candidatura presidencial de Rodríguez Larreta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, se suman la situación económica crítica –el hambre, el desempleo, el anuncio fallido de un aumento del 5% a los jubilados que luego resultó falso— la inflación y las alarmantes cifras de pobreza:  el 70% de los jubilados y el 70% de los niños viven en la pobreza.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1728
+}

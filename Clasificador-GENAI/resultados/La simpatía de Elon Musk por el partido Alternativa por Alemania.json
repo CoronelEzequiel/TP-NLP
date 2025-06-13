@@ -1,0 +1,71 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.508,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "A 80 años del fin de este verdadero infierno en la tierra, se puede ver con preocupación que estas ideas vuelven a estar en boga y que personajes terriblemente peligrosos empiezan a conmover nuevamente a la población.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alternativa para Alemania: ¿Son los integrantes del partido Alternativa para Alemania los nuevos nazis?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Si gobernamos este país, le prometo a todo este clan que está ahí conchavado que las cosas van a cambiar mucho para ustedes\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Höcke es profesor de historia, por tanto, conoce muy bien el pasado nazi de Alemania, del que además habla con frecuencia. Pero, sin embargo, él lo hace para rechazar la política de la memoria y la condena de los crímenes de los nazis o el holocausto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos la revisión de lo que fue el nazismo que pretende Höcke con la revisión respecto de lo que fueron los años 70 que pretende Victoria Villarruel.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Somos más fuertes que nunca y no vamos a parar hasta lograr el poder. Porque somos el único partido que sigue representando los intereses alemanes\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Desprecio mucho a mi padre y sé que todo lo que representó sigue vivo. Todo lo que dijo públicamente quedó escrito y la AfD lo puede volver a difundir. Comparten totalmente la misma forma de pensar\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Creo que las elecciones que se avecinan en Alemania son increíblemente importantes. Creo que podrían decidir el futuro de Europa y tal vez del mundo. Esa es la importancia de estas elecciones. Por eso es muy importante hablar con sus amigos y familiares y convencerlos. Ellos deben considerar votar por AfD y eso tiene que generar una reacción en cadena\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestro presidente Javier Milei salió a defender también a Musk con quien tiene una relación, parece, bastante estrecha, hizo una encendida defensa del empresario en un tuit que tituló, sin las sutilezas características del presidente: \"Nazi las pelotas\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El texto terminó con una amenaza que dice textualmente lo siguiente: \"Los vamos a ir a buscar hasta el último rincón del planeta en defensa de la libertad, zurdos hijos de puta tiemblen, la libertad avanza\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Alternativa para Alemania relativiza los crímenes de Hitler, en La Libertad Avanza relativizan los crímenes, las torturas y las desapariciones de la última dictadura militar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez el nazismo avance en momentos de crisis porque trabaja con las emociones más bajas, las pasiones tristes como decía Spinoza, del ser humano que siempre van a estar presentes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6880
+}

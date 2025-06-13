@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.667,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y la verdad es que la turbulencia no ayuda en un país quebrado por el populismo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué tiene que hacer el gobierno de Milei para ordenar este desorden, este torbellino? Que lo existe.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo creo que la respuesta es aprobar la ley de bases y dejarse de hinchar las pelotas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gobernar no es solamente bajar la inflación, que está bien hacerlo, que es el mandato.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo tanto, ley de bases es una necesidad política, económica y financiera.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un horror, definitivamente.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, ley de bases.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Salir de la turbulencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestro dictamen no es una batalla parlamentaria. Es una respuesta técnica y racional a un proyecto de ley que beneficia mucho a unos pocos, pero puede traer dolor a millones de argentinos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4962
+}

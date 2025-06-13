@@ -1,0 +1,26 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Viene con la motosierra realmente o va a aplicar, porque hay otra alternativa, la clásica argentina: el plan freezer? ¿Qué es el plan freezer? Congelar absolutamente todo el gasto y que la inflación haga su trabajo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese es, en la Argentina, ese problema endémico que tiene 70 años, por lo menos, que se llama déficit fiscal. Gastar más de lo que entra.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina pone la fe en el Messi de las finanzas. El presidente electo designó a un ex operador de Wall Street para tomar el comando de una economía enferma, descompuesta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2339
+}

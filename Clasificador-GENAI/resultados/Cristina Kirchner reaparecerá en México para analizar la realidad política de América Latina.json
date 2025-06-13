@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_cfk",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.425,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "A pesar de estar fuera de toda esfera institucional del poder, la ex vicepresidenta y ex presidenta ocupa un lugar en la agenda pública, que vamos a analizar en esta editorial, en esta columna.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si antes las amistades, enemistades, alianzas y oposiciones se ordenaban alrededor del sol de Cristina Fernández de Kirchner y el de Mauricio Macri, ahora lo hacen alrededor del de Javier Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En su estilo, Cristina Fernández de Kirchner aparece como una hábil manejadora de las situaciones sociales y las interacciones humanas, y Javier Milei como un genial comunicador del mundo digital. Sin embargo, en la estructura de su discurso subyace una estrategia populista.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner asegura que a ella la absorberá la historia y Milei se hace la idea de estar haciendo el ajuste más importante de la historia, ambos con la palabra 'historia' en su boca continuamente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Sería injusto solo criticar a este modelo; deberíamos también reconocerle sus logros, los logros de Menem. Hablar únicamente desde la consigna o desde la mera crítica a este modelo... Creo que deberíamos también reconocer sus logros.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo siempre tengo una máxima: no le pidas a los demás lo que vos no harías en el lugar de esa misma persona, no falla nunca eso, permite identificar correctamente qué comportamiento adoptar.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Estoy viva por Dios y por la Virgen. Yo quiero agradecerles, en primer lugar, que hayan venido todos y todas. Yo quería que mi primera actividad pública, por así decirlo, fuera de un despacho, fuera con ustedes. Yo siento que estoy viva por Dios y por la Virgen, realmente, así que me pareció que si tenía que agradecer a la Virgen, tenía que hacerlo rodeado de curas por los pobres, de curas villeros y de hermanas laicas, de hermanas religiosas.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez este período de Cristina Fernández de Kirchner, que comenzó luego del intento del asesinato, no sea el más célebre en cuanto a adhesión política e intención de voto, pero sea el más profundo en cuanto a su propio análisis de este complejo momento, otra de las múltiples razones de por qué seguir escuchándola y estar atentos este sábado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7542
+}

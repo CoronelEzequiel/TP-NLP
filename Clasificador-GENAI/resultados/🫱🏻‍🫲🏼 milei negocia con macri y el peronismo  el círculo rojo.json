@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El juego de negociaciones cruzadas que lleva adelante el gobierno de Javier Milei por estos días habla de la fragilidad política que lo atraviesa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri se considera un accionista mayoritario en esta empresa y quiere sus dividendos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos un poder judicial que avale nuestras transformaciones en sus propios términos y que pueda contrapesar la debilidad que tiene en otros poderes, como el legislativo, y que le sirva como herramienta para convalidar sus medidas ante posibles vetos políticos, como los que empezamos a ver en el Congreso, o sociales, como los que pueden venir de la calle.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, el rechazo a la visita de los legisladores y legisladoras de La Libertad Avanza a los militares genocidas presos en Ezeiza concita un repudio mayoritario, más del 50%.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un 33% cree que el capitalismo puede ser bueno, pero solo si es controlado o regulado por el Estado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes quieren enfrentar en serio este proyecto reaccionario tienen fundamentos materiales, políticos y hasta ideológicos para dar esa batalla.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2981
+}

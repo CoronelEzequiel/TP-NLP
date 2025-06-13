@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo conozco muy bien, estamos hablando de Daniel Vila.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "el valor de sus medios es la libertad de expresión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si ataca a un periodista de otro canal, ¿cómo será para adentro?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero a mí me preocupa la violencia verbal, porque la violencia verbal después deriva en cuestiones concretas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y sí, y sí, lo dije ayer: \"Mire muchachos, a veces cosas de pasión…\" Tiene que venir por ese lado…",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3464
+}

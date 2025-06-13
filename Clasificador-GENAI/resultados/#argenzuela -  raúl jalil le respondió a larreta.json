@@ -1,0 +1,31 @@
+{
+  "texto_id": "dialogo_jalil",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Catamarca es la provincia que más empleo privado ha generado en los últimos 30 meses, gracias al turismo, al programa PreViaje y a la minería, que opera a un 90% de su capacidad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se habla mucho de la necesidad de equilibrar las ganancias de los inversores con los ingresos del Estado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Estado debe intervenir donde la rentabilidad privada no es suficiente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Queremos priorizar la industrialización en las provincias productoras de litio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1657
+}

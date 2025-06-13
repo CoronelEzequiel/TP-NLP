@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.835,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Alberto Fernández perdió el juicio, más allá de su desastrosa gestión en la economía y la pandemia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablo de las mentiras dichas con cara de piedra, de la cobardía para empujar al abismo a su pareja y la degradación personal, que fue acompañada por Aníbal Fernández y los para-periodistas Horacio Verbitsky y Antonio Fernández Llorente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todos se hundieron en el pantano de la violencia de género, lapidaron y humillaron de diversas maneras tanto a Fabiola Yáñez como a la periodista Guadalupe Vázquez, ante el silencio del colectivo feminista de artistas y militantes que, a esta altura, perdió todo tipo de credibilidad por mirar la realidad solamente con un ojo.",
+      "score": 0.82,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto juró por su hijo, no hay antecedente en la historia política de semejante planteo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto quiso engañar a todos los argentinos cuando, frente a las cámaras, dijo que solo hubo reuniones de trabajo en Olivos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En esos momentos da la sensación de que Alberto se siente tan impune, tan por arriba de los mortales que no sabe ni mentir, no sabe ni hacer bien ni el mal.",
+      "score": 0.92,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto entregó a su compañera a la primera de cambio, con el solo objetivo de salvar el pellejo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Víctor Hugo Morales, el relator del relato, dijo que esta vez la oposición tenía razón.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aníbal Fernández salió a defender a Alberto y lo \"tiró debajo de un camión\".",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Horacio Verbitsky y Antonio Fernández Llorente, empleados mediáticos del cristinismo extremo, pusieron su \"lupa examinadora\" en la mensajera y no en el mensaje, y encima se metieron en su vida privada.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Está claro que Alberto Fernández perdió el juicio, la credibilidad y será la justicia la que le aplique la condena correspondiente por violar el decreto que él mismo había firmado.",
+      "score": 0.88,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "\"Si lo entienden por las buenas, me encanta, y si no, me han dado el poder para que lo entiendan por las malas\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Basta de impunidad para las mentiras, para la cobardía y la degradación de Alberto.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2753
+}

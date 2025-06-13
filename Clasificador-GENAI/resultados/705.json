@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es una nueva manifestación del desgobierno que vivimos los argentinos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No podíamos permitir que se estableciera un precedente donde el Presidente pueda suspender una comisión que trata temas que no le agradan al oficialismo mediante un simple correo electrónico.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación es otra manifestación de un gobierno que se define como anarcocapitalista y que, paradójicamente, está destruyendo el capitalismo productivo, el trabajo y la producción.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la diputada Pagano renuncia, habrá que volver a elegir.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no vi el chat, pero si existe una situación donde nadie sabe quién gobierna –el Presidente, su hermana, un jefe de Gabinete que vive en la clandestinidad–, esto forma parte de la anarquía del gobierno de Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1742
+}

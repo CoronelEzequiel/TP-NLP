@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.257,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Perdimos… o mejor dicho, *no* perdimos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juntos por el Cambio, juntos para… ¿matarse?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ellos no están acostumbrados a perder.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy dispuesto a hacer \"tabula rasa\", a empezar de nuevo con el objetivo de terminar con… (se omite el nombre).",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que contarte que… (se omite el nombre de la persona) está desesperadamente abrazado a la casta, sí, y al borde del colapso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un \"salame\" o tres \"salames\" opinando desde una computadora, ¿sabes?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y bueno, digamos que en la comunidad artística, durante la semana, tuvimos varios comunicados, no de repudio, sino de acompañamiento de… (se omite el nombre de la persona).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1828
+}

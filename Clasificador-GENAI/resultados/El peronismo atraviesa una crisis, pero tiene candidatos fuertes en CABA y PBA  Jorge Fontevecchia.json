@@ -1,0 +1,61 @@
+{
+  "texto_id": "Comenzamos entonces aquí en modo fondeo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.535,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Porque el peronismo, luego de protagonizar un gobierno que dejó un saldo de 40,42% de pobres y una inflación interanual de 142% en 2023, está sufriendo obviamente una crisis muy profunda, con divisiones en los bloques parlamentarios, diputados y gobernadores que apoyan leyes impulsadas por el gobierno de Javier Milei.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como si esto fuera poco, la expresidenta jugó su última carta judicial ante la Corte Suprema de Justicia, un pedido para que la Corte revea en queja su condena en la causa de la vialidad, y el máximo tribunal desestimó este pedido.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Paralelamente, la implosión total de Juntos por el Cambio, las divisiones entre el PRO y La Libertad Avanza, pueden provocar, paradójicamente, que los candidatos del PJ ganen las elecciones en los principales distritos del país, los más cercanos a la zona de influencia, que serían la ciudad de Buenos Aires, por un lado, y la provincia de Buenos Aires, por el otro.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las próximas elecciones, al menos en la Capital Federal y la provincia de Buenos Aires, parecen ser un juego como ese de Nash, un juego de suma negativa, donde gana el que menos pierde.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La principal interna, probablemente, se genera con la mayor división que se produce entre Cristina Kirchner y Axel Kicillof, quien, a su vez, tiene el respaldo de internas bonaerenses de peso, como Ferráresi, en Avellaneda, Mario Secco, en Ensenada, además de gobernadores como el riojano Ricardo Quintela, que lo acompañan, y varios más que estaban junto con Quintela en las agrupaciones de militantes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vamos a escuchar brevemente ayer mismo al exjuez federal Carlos Rozanski, explicando en este mismo programa por qué Cristina Kirchner va a ser condenada y va a tener prisión domiciliaria en breve.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que queda claro es que Cristina Kirchner puede ser la presidenta del PJ, pero ya no es más la líder del PJ, está claro que es la *primus inter pares*, o sea, aquella que tiene más intención de voto, pero no alcanza a ser lo suficientemente contundente esa diferencia como para que sea la líder.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las internas del peronismo nunca fueron desideologizadas, ahora, sí, es el pasado, los debates que se planteaban eran ideológicos, eran de sectores, como decían recién, en lo que vamos de pasar de Panamá, en las que personas confrontaban dentro del mismo partido, pero uno representando a la izquierda y otro a la derecha, si se quiere, por ejemplo, en el caso de Alberto Fernández, que se asumía el socialdemócrata directamente, Moreno lo llamaba neoliberal, para, para ser correcto, y él de Cristina Kirchner o Máximo Kirchner, que representaba la izquierda.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Podríamos decir que el pobre Herminio Iglesias nació antes de tiempo, porque si naciera hoy, hiciera esto hoy, se parecería de alguna manera a la actitud agresiva que tiene el presidente Milei, que tanta gente festeja.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Luego de la derrota del peronismo, este hecho no solamente fue visto como violento, en un momento en que la sociedad argentina quería dejar la violencia atrás, y, además, el peronismo tenía una agenda de olvido respecto de los crímenes de la dictadura, que no representaban la sanción de justicia de buena parte de los argentinos, y en ese momento, dirigentes como Antonio Cafiero, Carlos Menem, Eduardo Duhalde presentaron una línea interna que desafiaba a los viejos dirigentes peronistas que venían de los tiempos de la dictadura, con una agenda más moderna, podríamos decir, en el caso de Cafiero, más socialdemócrata en algún sentido, más cercana al alfonsinismo.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5643
+}

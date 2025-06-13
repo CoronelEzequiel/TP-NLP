@@ -1,0 +1,41 @@
+{
+  "texto_id": "Germán Martínez, diputado, intentó ayer hablar sobre los audios en una sesión que pasará a la historia",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Fue una sesión, cuanto menos, extraña, ¿no?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estoy convencido de que Javier Milei incrementará el carácter autoritario de su gobierno, como lo demuestra semana tras semana.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su intención es clara: garantizar la estabilidad económica, sin importar la estabilidad política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta escalada autoritaria de Milei se manifiesta en diferentes ámbitos: la Corte Suprema, la Jefatura de Gabinete, los medios de comunicación, los nombramientos judiciales por decreto, la intervención en la provincia de Buenos Aires, el endeudamiento con el FMI y la autodelegación de facultades avalada por el Congreso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, solo nosotros y la izquierda mencionamos en el recinto los escándalos de la semana pasada, protagonizados por diputados y exdiputados libertarios y el presidente de la Cámara.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Basta ya de este apoyo crítico; está destruyendo al país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2220
+}

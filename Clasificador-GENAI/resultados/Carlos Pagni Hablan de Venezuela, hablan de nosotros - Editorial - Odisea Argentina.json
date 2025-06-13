@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No, lo que hay es una ruptura respecto de la definición de democracia, y eso se ha acelerado en los últimos días con el ataque de **Cristina Fernández de Kirchner** a la Corte Suprema de Justicia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y aquí es donde Venezuela, el concepto de poder que viene dominando a Venezuela desde hace ya muchos años, juega como una especie de espejo respecto del concepto de poder y del concepto de democracia que existe en un sector del oficialismo, sobre todo el que rodea a **Cristina Fernández de Kirchner**.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos viendo a este oficialismo hacer cosas que no pensábamos que iba a hacer. Un ajuste en las jubilaciones, un ajuste en el déficit fiscal por la vía de la obra pública, una suspensión muy controvertida dentro del mismo oficialismo del IFE, del ATP, del auxilio a las empresas durante la pandemia y un aumento de tarifas que todavía se está discutiendo porque tiene enormes resistencias por parte, sobre todo de **Cristina Fernández de Kirchner**.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo esto que está haciendo el Ministerio de Economía va a servir de muy poco si no se recupera la confianza, que es un activo político, no técnico económico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tiene una idea tal que supone que la democracia no es la consagración de los derechos de las minorías, sino el imperio del derecho prepotente de las mayorías. Y tiene una concepción del Estado y de la vida pública por la cual todo lo que no está regulado debe estar regulado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6834
+}

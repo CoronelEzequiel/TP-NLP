@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Se avecina un tsunami sobre la vida política de Cristina Fernández de Kirchner.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy está condenada a seis años de prisión por corrupción, es la jefa del \"cartel de los pingüinos millonarios\" y, como si esto fuera poco, todavía no consigue en la justicia la impunidad que tanto busca.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La inmensa mayoría del pueblo sabe que Cristina es la persona más corrupta de la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ella es la persona que más daño le hizo a la democracia argentina y la que más daño le puede seguir haciendo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero su adicción por el dinero ajeno es su principal característica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Cristina tiene la primera condena firme, será un día que recordaremos como el \"nunca más\" de la corrupción, como el momento en que la Argentina honesta y de manos limpias empezó a sepultar para siempre a los ladrones de Estado.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2170
+}

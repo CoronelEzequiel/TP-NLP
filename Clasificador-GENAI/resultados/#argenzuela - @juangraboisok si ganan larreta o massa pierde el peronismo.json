@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.214,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Siento un tufillo, un pacto de derecha conservadora entre Juntos por el Cambio (JxC) y La Libertad Avanza (LLA) para quedarse con el 80% del electorado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay sectores que ya tienen una práctica y un discurso deshumanizados. Han perdido la humanidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si obtiene la hegemonía dentro del peronismo, dentro del movimiento nacional y popular, un representante de la UCR, un representante del neoliberalismo, un representante del viaje con Macri a Davos, un representante de la Embajada Norteamericana, del FMI… bueno, el Frente de Todos se desnaturaliza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gane JxC o gane LLA, estamos en una situación de dominación colonial abierta.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Agua, litio, combustibles, alimentos son patrimonio de nuestra patria, de nuestro pueblo y de nuestros hijos y nietos. No tenemos derecho a entregarlo a nadie sin tener una estrategia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hicieron Perón y el vicepresidente Néstor Kirchner, que es sacar, en este caso, a esos cuatro sinvergüenzas de la Corte Suprema. Son cuatro sinvergüenzas que tienen más poder que el presidente y no los votó nadie.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay casta. ¿Casta qué es? Es un sector de la… El otro día el Papa, en la misa crismal (la misa crismal es la del Jueves Santo), dijo algo que me encantó. Hablaba de… de los curas, ¿no? Pero dijo algo de la “segunda llamada”. La primera llamada es cuando un chico o una chica de 19 o 20 años siente la llamada de Dios y bueno, y se juega la vida y se hace cura, que es difícil en esta época ser cura.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9112
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "modo_fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.292,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La necesidad es que este presidente o cualquier presidente entienda que cuando habla, ya no habla la persona, llámelo Javier Milei, llámelo como quiera, ya no habla un panelista de televisión. Cuando habla no se puede desprender de su cargo, es el presidente de la nación.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y esto es lo que ha venido sucediendo en los últimos tiempos, claramente, y muy claramente con los reiterados ataques del presidente a distintos periodistas, a distintas empresas periodísticas incluso, y lo que pone el foco de atención.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin conferencias de prensa, es difícil el acceso a la información, no sólo con el presidente, sino también con el jefe de gabinete.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pasaron de ser ratas los diputados a ser patriotas simplemente porque votaron como él quería.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, en el Día Mundial de la Libertad de Prensa, consideramos oportuno reflexionar sobre el papel de la prensa en un país donde periodistas y medios periodísticos están siendo acosados, insultados y difamados desde la cima del poder.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El jefe de estado no tiene derecho a lanzar manifestaciones degradantes, descalificatorias e intimidantes cuando se refiere al periodismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese fenómeno, de por sí grave, amplía y profundiza sus consecuencias negativas cuando es el gobierno el que recurre a personas rentadas para agraviar y calumniar a sus críticos en las redes sociales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno argentino debe cumplir, por lo tanto, con el mandato de la Constitución y los principios que sirven de base a una república democrática.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri, que planteó a los periodistas, un 7 de junio, un día del periodista que se debe recuperar el valor de la palabra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"El objetivo no es informar sino generar indignación\", las quejas en este caso de Alberto Fernández con respecto a lo que hacía el periodismo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"La pregunta es ¿por qué entonces le temen al modelo de la libertad? y le temen al modelo de la libertad porque es el modelo que termina con el robo de los políticos, que termina con el robo de la casta política, termina con el robo de los políticos ladrones, con el robo de los empresarios prebendarios, con el robo de los sindicalistas que entregan a los trabajadores porque se termina el curro de los micrófonos ensobrados, hijos de la pauta y se termina también con los profesionales truchos que venden sus servicios a los sicarios de la política\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no es casual que quien se asume a sí mismo como un fanático o un fundamentalista avance sobre las libertades y derechos elementales en una república.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5486
+}

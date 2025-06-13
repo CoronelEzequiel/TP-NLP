@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.778,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este año, lo mejor para mí fue la condena de Cristina Fernández de Kirchner, algo que creía improbable.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi crítica se dirige al gobierno, repleto de corruptos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Me gustaría verlos a todos comiendo de la basura!",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner todavía no asimila que está condenada por robo y que el mundo la ve como una ladrona.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La corrupción tiene consecuencias, de eso no hay vuelta atrás.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde este programa intentaremos apoyar a Alberto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que empezar a trabajar. Esa palabra que Cristina Fernández de Kirchner borró del diccionario hace 20 años con el populismo y nuestro dinero.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Doce millones de pesos en bocinas para [Nombre], una sinvergüenza que no renunció a su cargo; quinientos millones para Mayra Mendoza en Quilmes (y estos son números pequeños); ocho millones para uno, seis para otro…",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy harto de que los jefes de prensa me digan que los políticos están \"en reunión\" y luego no me llamen.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2286
+}

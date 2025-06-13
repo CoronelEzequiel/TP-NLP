@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Podría haber llevado una alfinecita, de paso lo conmemoraba.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La verdad es que da vergüenza que apelen a las cosas más bajas para hacer política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El dedo de Alfonsín le pegaba a la corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes son unos inútiles, ustedes son…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Para salir a la calle pacíficamente, un millón de personas en el Obelisco, una vez cada 15 o 20 días, para marcar que hay un 41%, 42% o 45% de la gente que no los quiere y que no quiere eso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo digo que nos preparemos porque tiembla la libertad de expresión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a pelear por mi libertad de expresión y la de todos ustedes, y por eso hago estos programas, porque a mí económicamente no me importa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo sé que la gente no está bien. Y sé que la gente está triste, como cuando se mandó una travesura.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2814
+}

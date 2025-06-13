@@ -1,0 +1,51 @@
+{
+  "texto_id": "El Comité Nacional de la Unión Cívica Radical tomó distancia de las críticas de Facundo Manes contra Mauricio Macri",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El Comité Nacional de la Unión Cívica Radical tomó distancia de las críticas de Facundo Manes contra Mauricio Macri.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En otro párrafo, las máximas autoridades del radicalismo plantearon que la coalición opositora es la única herramienta para terminar este ciclo de **equisrealismo** que llevó a más inflación, más pobreza y más degradación institucional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestra prioridad es frenar la agenda del atraso y estancamiento que nos proponen **los K**.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Manes dijo que Macri tuvo operadores que manejaban la justicia y presentó datos y evidencias que dejan en claro que espió a gente de su propio gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Macri, por el contrario, se fortalecieron los vínculos con los países más democráticos y desarrollados, los que con sus inversiones podrían ayudar a dar vuelta la ecuación de la pobreza y la desocupación en la Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri respetó la división de poderes y siempre se sometió a la justicia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Juntos por el Cambio no hay posiciones extremas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri armó un partido de la nada y en 15 años ganó la ciudad, la nación, fue el único capaz de frenar el kirchnerismo y cambió la Argentina para siempre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2264
+}

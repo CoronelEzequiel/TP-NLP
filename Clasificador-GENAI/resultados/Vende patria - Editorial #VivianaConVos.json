@@ -1,0 +1,61 @@
+{
+  "texto_id": "vivianagomez",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.855,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno avergüenza a todos los argentinos. Míralos, les importa más la guita que la bandera.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno se convirtió en un defensor de dictaduras. Son unos desalmados. Nicaragua, Cuba, Venezuela, China, Rusia. Ustedes son lo peor de lo peor. Países gobernados por presidentes de mierda, hijos de puta, son nuestros amigos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son unos vende patria, así se llama mi editorial de hoy, son unos vende patria.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se habla de comunismo, pero solo les interesa los dólares.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Detectaron, hablando de quitar nuevas propiedades del exsecretario de los Kirchner. Ya suman un centenar y esto pasa solo en Argentina. Como el propolio, cada día tiene más propiedades. ¡Qué manga de delincuentes!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras ustedes se quedan con todo, el pueblo se está cagando de hambre.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El oficialismo es como un pato criollo, cada paso una cagada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina estamos en guerra con los narcos y vamos perdiendo. Estamos perdiendo. Los laburantes nos peleamos con los chorros y vamos perdiendo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Donda, usaste la desgracia personal para crecer en la política. Estabas al lado de Néstor y de Cristina, pero cuando te dejaron afuera de los cargos... cambiaste de vereda y te fuiste con Margarita.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No te importa ni tu propia historia, sin vergüenza.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6386
+}

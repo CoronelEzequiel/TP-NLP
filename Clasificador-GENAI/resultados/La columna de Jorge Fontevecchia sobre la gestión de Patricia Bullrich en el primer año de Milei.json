@@ -1,0 +1,36 @@
+{
+  "texto_id": "PatriciaBullrichLaAsesinaDelPRO",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Patricia Bullrich, la asesina del PRO",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "logró pacificar la calle, aplacar la protesta social a fuerza de protocolos antipiquete y gas pimienta",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el informe expresa que el \"disenso en riesgo\" expuso el balance de la gestión, y dice que hubo 1155 personas heridas, 35 con impactos de balas de goma en la cabeza o el rostro, 50 periodistas y trabajadores de prensa heridos mientras cubrían las manifestaciones, y 73 personas criminalizadas por participar de la protesta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "la sociedad reclamaba retomar el orden y mejoras en el tema de seguridad",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bullrich salió fortalecida de esta situación",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1687
+}

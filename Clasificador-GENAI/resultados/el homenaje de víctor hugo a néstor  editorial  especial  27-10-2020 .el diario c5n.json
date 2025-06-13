@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.023,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estos acontecimientos reflejan la grandeza de este personaje clave en la historia política de la República Argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este hombre siempre se preocupó por el pueblo, por los sectores medios y los más desfavorecidos y vulnerables, luchando por la igualdad y la justicia, incluso antes de ser presidente.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo sinceramente que las únicas políticas que condenan a la Argentina al hambre y al desempleo son aquellas que no defienden al pueblo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor Kirchner también puso de manifiesto la lucha entre el poder real y el poder político.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando un político es muy amigo de esos sectores, algo no anda bien, pues esos sectores solo buscan su propia rentabilidad, no la del conjunto de la sociedad.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos invertir más en educación, por ejemplo, el 6,5% del presupuesto.  Aunque los empresarios se enojen, debemos hacerlo por la dignidad de las personas.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero agradecerle a Néstor por algo que es lo más importante:  mi compañera, la presidenta, una mujer valiente, que llora no solo por amor, sino por admiración.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cada trabajador argentino, el nombre de Kirchner es sagrado.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández ha llegado a Plaza de Mayo desde la Casa Rosada.  Es un día muy emotivo para él.  Él es el mensajero del sueño que Néstor Kirchner propuso.  Un sueño de una Argentina unida y justa.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3199
+}

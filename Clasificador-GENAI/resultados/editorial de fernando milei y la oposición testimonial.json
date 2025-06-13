@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.16,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estamos frente a una administración que, contrariamente a lo prometido durante la campaña electoral, pretende que los costos de sus medidas recaigan sobre los trabajadores, las trabajadoras, los jubilados, las jubiladas y las personas mayores precarizadas que necesitan asistencia estatal ante un sistema social que, desde hace décadas, los condena a la miseria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Licuadora\" y \"motosierra\" son las poco metafóricas figuras que el presidente utiliza para graficar sus métodos: licuadora de ingresos, salarios, haberes jubilatorios y ahorros (producida, obviamente, a través de la inflación); y motosierra para los ajustes estructurales en áreas o estructuras del Estado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casi la mitad del ajuste provino de la reducción de las jubilaciones. El grueso del ajuste lo están pagando los jubilados y las jubiladas. Los adultos mayores fueron la verdadera \"casta\" en estos dos meses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Conclusión: Milei no quiere un Estado más pequeño, sino un Estado que favorezca a una clase determinada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En síntesis, el proyecto de Milei es claro; lo que no lo es tanto es la actitud de quienes dicen oponerse a él sin actuar en consecuencia: la CGT y la dirigencia peronista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1929
+}

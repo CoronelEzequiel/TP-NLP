@@ -1,0 +1,36 @@
+{
+  "texto_id": "de Rom clock",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En Argentina estamos viviendo, sintiendo día a día una crisis escandalosa para que un funcionario, un ministro diga que Alberto Fernández ha hecho magia en la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aníbal Fernández, ¿qué te pasó que respaldás la reelección de Alberto Fernández? Y Alberto Fernández, sos su fan. Pero por favor, les pregunto, ¿en qué país viven? Salgan a la calle porque están viviendo en otro país que no es Argentina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual todos sabemos que tanto a Grabois como a todos, solo les importa la plata, la guita. No les importa nada más que eso y si no me creés, recordalo viendo este tape.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al presidente Alberto Fernández solo le interesa la ideología de género, el 0,12 del censo ese al que no le pagaron todavía a muchos de los docentes que fueron a hacerlo, donde no sabemos cuánta gente discapacitada, pero a ellos les importa la ideología de género.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No da más el TikTok. Basta. Basta. Basta. O sea, si vos estás soltero o soltera, ponelo y sos grande, como yo, ¿vas a buscar un boludo que tenga TikTok? No. Si tiene TikTok es un boludo, me voy.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8807
+}

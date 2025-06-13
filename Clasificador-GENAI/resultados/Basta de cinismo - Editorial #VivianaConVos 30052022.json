@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Basta de escuchar a personas que defienden lo indefendible, que defienden cosas deshonestas. Basta de escuchar a personas que mienten descaradamente. Basta de escuchar a personas que subestiman al otro.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina se convirtió en un país tan extraño, con el nivel de cinismo que manejan los políticos que nos gobiernan, que Argentina no parece Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina hace mucho tiempo que se premia la inmoralidad, la ilegalidad, la corrupción, pero nosotros, el rebaño de pelotudos, no pertenecemos a esa Argentina impune.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina de los vivos que se zarpan y pasan por sobre los **gobos** se terminó.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que votan a Perón mismo son todos imbéciles que les compran el voto. Los que votan a la oposición son un poco lúcidos, independientes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8052
+}

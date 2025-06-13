@@ -1,0 +1,36 @@
+{
+  "texto_id": "Argentina está experimentando, como siempre, una circunstancia particular dentro de otro gran escenario único: la pandemia.",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández no solo desconoce cómo se contagió de COVID-19, sino que está analizando los diez días previos, desde el viernes pasado, cuando experimentó los primeros síntomas y el test inicial dio positivo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él afirma sentirse bien y resalta que, al contagiarse estando vacunado con la Sputnik V, lo cual lo sorprendió, se convierte en un ejemplo de lo que podría empezar a suceder en Argentina a pesar de la vacunación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto podría dañar la imagen de la vacunación o de la estrategia de diferir la primera dosis de la segunda, pero el Presidente considera que, por ahora, eso no sucederá.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué cree él? Que no se pueden implementar medidas de confinamiento o aislamiento muy estrictas, ya que es consciente de que la gente podría no acatar las medidas oficiales.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras tanto, el Presidente se recupera en la Quinta de Olivos, siendo el primer presidente del mundo que, vacunado, se contagia de COVID-19.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1383
+}

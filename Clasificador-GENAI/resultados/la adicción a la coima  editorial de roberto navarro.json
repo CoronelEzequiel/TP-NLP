@@ -1,0 +1,31 @@
+{
+  "texto_id": "ludopatia",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estos legisladores, a quienes mostraremos en breve y que yo diría que recibieron coimas hasta que se demuestre lo contrario, demuestran un grave atraso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El juego en Argentina es una consecuencia nefasta de la pobreza y la crisis, y debemos intentar frenarlo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otros argumentan en nombre de la libertad individual, la posibilidad de comprar y vender lo que se quiera.  ¿Entonces deberíamos vender droga en la esquina? Está prohibido por algo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jugar es un acto irracional: ir a un casino y apostar 1 contra 36 en la ruleta… ¿por qué cree que existe un casino? Para ganar dinero, y quien pierde es el jugador.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1514
+}

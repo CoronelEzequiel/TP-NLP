@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.072,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En contrapartida, el gobernador Axel Kicillof siguió ampliando derechos e incorporó el boleto educativo a todos los alumnos de primaria, secundaria, adultos, las escuelas EVA (bachilleratos con orientación a la salud) y todos los institutos de formación profesional, incluyendo el Plan FINES.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, ofende escuchar a Victoria Villarroel.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se habla de apología de la violación de los derechos humanos y de la violencia, y se les pone cara de cumpleaños, hasta festejando las barbaridades que dicen...",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero todas las propuestas de ese espacio político no se ajustan a nuestra Constitución, nuestro sistema legal ni nuestro sistema legislativo, por lo que está claro que la única forma de llevar esos planes adelante es con represión.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que queda claro es que la salida es con más democracia, diálogo y consensos.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de este intento de instalar el tema del fraude, que no es más que la falta de militancia y compromiso del propio espacio para llevar adelante el proceso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1881
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El éxito al que me refiero está vinculado a la imposición de los términos del debate y básicamente de dos operaciones.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, lo peor no es la artimaña que construye el oficialismo para intentar mostrar lo malo como bueno y los fracasos de la política económica como si fueran éxitos, sino que algunos referentes políticos o comunicacionales lo crean.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La orientación económico-política se tiene que tomar como un conjunto, como un todo, y la hoja de ruta de Milei para el reseteo general del país, tomada como un todo, es esencialmente reaccionaria de punta a punta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque no estás reconociendo verdades, sino que estás entrando en la trampa de esconder los medios a través de los cuales se alcanzó ese presunto buen resultado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2280
+}

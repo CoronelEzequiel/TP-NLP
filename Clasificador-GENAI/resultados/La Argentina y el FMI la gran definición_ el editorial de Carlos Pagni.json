@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei capturó esta idea, planteando la necesidad de un cambio radical, que se metaforizó con la 'motosierra'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los ricos parecen estar entusiasmados con esta receta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto explica que, aún con el ajuste, los niveles de aprobación y desaprobación del gobierno de Milei estén parejos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei dice que tuiteaba desde su cuenta privada, ¿por qué lo juzgan como presidente?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner mantiene la misma posición que en 2016 con Macri. Se opondrá a los nombramientos de Lijo y García-Mansilla.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si los Macri logran una buena elección, Milei estará obligado a pactar para la elección de senador en la capital, lo que cambiaría el panorama parlamentario del gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3909
+}

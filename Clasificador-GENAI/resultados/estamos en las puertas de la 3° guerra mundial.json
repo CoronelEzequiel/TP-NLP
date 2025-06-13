@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El ataque de las tropas rusas al complejo nuclear de Zaporiyia anoche, la central nuclear más grande de Europa, que generó un incendio, abrió el camino para que tropas rusas tomaran su control.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claramente, la escalada que ha requerido el escenario desmiente a Putin y su afirmación de que todo avanzaba como había sido planeado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desde Hitler, ningún país había desplegado una maquinaria destructiva y amenazante de forma abierta para invadir otras naciones como la que hoy atestiguamos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estas horas, para que vean el contraste, el expresidente de Estados Unidos, Donald Trump, quien hasta hace poco ostentaba vínculos amistosos con Putin, calificó de holocausto la invasión de Rusia a Ucrania.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como dice la revista *The Economist* en su última edición, debe ser incomprensible para un cínico dictador que el pueblo de Ucrania esté dispuesto a morir por su derecho a elegir su propio destino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si la historia, amigos, es la historia de la lucha del hombre por su libertad, ellos, los ucranianos, están librando la última gran batalla.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2424
+}

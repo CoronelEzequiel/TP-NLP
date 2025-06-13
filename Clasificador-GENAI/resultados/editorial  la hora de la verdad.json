@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La profunda crisis política, económica y social que atraviesa nuestro país, y gran parte del mundo, es el fundamento esencial para la llegada al poder de este grupo, a la vez siniestro y extravagante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Curiosamente, con distintas orientaciones, los \"outsiders\" terminan conteniendo y reintegrando al sistema lo que amenaza con profundizar la crisis y desatar fuerzas que lo pongan en riesgo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sabemos también que, aunque Milei aplique un programa mínimo, recortando los planteamientos maximalistas, propone un ataque frontal a las condiciones de vida de la población (\"el salario como un objetivo\", como decían Martin y John). Un ajuste extremo sobre una sociedad ya muy ajustada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ultraderecha ganó la elección y asumió el gobierno, pero enfrenta estos problemas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2141
+}

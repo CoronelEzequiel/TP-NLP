@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.871,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Eso es lo que le falta a usted y lo que, por suerte, varias gestiones aquí en la ciudad de Buenos Aires han hecho como corresponde.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue Cristina Fernández de Kirchner y sus seguidores fanáticos quienes desataron una vieja y nefasta grieta entre porteños privilegiados y provincianos perjudicados.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El modelo que ellos pregonan es de mafias, marginalidad y clientelismo feroz.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No están en contra de la pobreza, están en contra de los pobres, que es otra cosa.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Eso solo ya es un desafío a la República y empuja a las instituciones al borde del abismo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Semejante actitud antidemocrática habla de ellos y de su desesperación por el inexorable camino hacia el ocaso que han emprendido.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No pasarán los corruptos y patoteros de Estado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2094
+}

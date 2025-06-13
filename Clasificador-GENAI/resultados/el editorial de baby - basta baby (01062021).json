@@ -1,0 +1,41 @@
+{
+  "texto_id": "Alfredo Casero",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.883,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Yo creo que estamos desgobernados, realmente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero creo, honestamente, que estamos participando del derrumbe del kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que se está cayendo a pedazos el verso \"cristianista\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y ahora déjenme pensar que a lo mejor por ahí hubo algún negociado en el medio, como dijo Patricia Bullrich, que no permitió que Pfizer nos dé gratuitamente las vacunas para salvar vidas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero esto no va a seguir mucho tiempo, esto va a ir diluyéndose como la arena entre las manos, porque el mundo no es boludo, porque la gente no es boluda, y porque ya todos los argentinos que se les murieron familiares, que agonizan familiares, que los tienen en un espiedo, en una cama dándolos vueltas para ver si respiran, se dieron cuenta de que se podían haber salvado 40.000 argentinos, pero no haber puesto un inquilino loco, porque el inquilino con contrato por cuatro años de inquilino se venció en un año y medio.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En esta porquería que se llama, para el lunes que viene, 80.000 argentinos muertos y dentro de un mes y medio, 100.000, y mientras Carla Vizzotti visita Cuba a la hermana de un mafioso, a la prima, a la sobrina, visita Cuba, a las playas paradisíacas, a ver cuándo los cubanos hacen una vacuna para mandarnos, que puede ser nunca, en esos dos días, 700 argentinos más murieron.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3009
+}

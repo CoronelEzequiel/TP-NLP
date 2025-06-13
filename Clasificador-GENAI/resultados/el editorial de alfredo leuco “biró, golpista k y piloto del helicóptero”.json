@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.878,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Están desesperados, son tan antidemocráticos y golpistas que no respetan los 14.476.462 votos que sacó Milei.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Biró se puso al frente con una salvajada que acabamos de escuchar, absolutamente repudiable, más allá de que hace un rato pidió disculpas, dijo que era una frase poco feliz, pero dijo con toda contundencia lo que ustedes escucharon.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Biró le hizo la vida imposible al gobierno de Mauricio Macri, al ministro de entonces Guillermo Dietrich y a los pasajeros en general con paros en serie, con huelgas disimuladas con asambleas y no es la primera vez que vomita declaraciones desestabilizadoras.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei jamás dijo que iba a abolir el derecho constitucional a la huelga e incluso elogió la capacidad técnica y la excelencia de la mayoría de los empleados de Aerolíneas.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son ellos los que estaban cerca de perderlo todo porque no los va a contratar nadie, no van a ganar las fortunas que ganaban en radios y canales de izquierda.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Olveira solo quiere ayudar a los que votaron a Massa, un estalinista predicador de odio que se esconde detrás de una sotana.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El apoyo del kirchnerismo produce rechazo porque en la realidad se nota el fracaso de ese pensamiento, que solo parió tiranías que \"ambrientan\" al pueblo, como las de Venezuela y Cuba.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maduro es un verdadero delincuente que no entiende nada y que banaliza el Holocausto y las dictaduras latinoamericanas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta el mismísimo Víctor Hugo Morales, relator del relato que perdió las elecciones por paliza, se miente a sí mismo y dice que la fortuna que robaron los Kirchner, su familia, sus amigos y sus funcionarios son mentiras de los medios.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2620
+}

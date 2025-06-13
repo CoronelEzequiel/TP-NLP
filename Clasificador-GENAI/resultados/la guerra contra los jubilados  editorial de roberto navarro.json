@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_jubilados",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El ajuste económico constante ha dejado a una parte significativa de la población en una situación desesperante, y lamentablemente, el panorama futuro no es alentador.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Han experimentado una fuerte pérdida del poder adquisitivo, erosionado por la inflación, alcanzando niveles históricamente bajos, similares a los de la década de 1990.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Asimismo, se les suprimió la tarifa social que les permitía afrontar el pago de servicios básicos como la luz, el gas y el agua.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto refleja un preocupante abandono del Estado que perjudica a toda la población, pero de manera especialmente dramática a los jubilados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1145
+}

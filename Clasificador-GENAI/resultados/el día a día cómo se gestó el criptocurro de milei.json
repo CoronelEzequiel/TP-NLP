@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "A principios de 2024, con el inicio del gobierno de Javier Millai, Icarina Millai, secretaria general de la Presidencia, recibió a un individuo prácticamente desconocido: Mauricio Novelli.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero ahora que empiezan a intensificarse los rumores de que Novelli recaudaba fondos de empresarios a cambio de influir sobre el presidente, numerosas compañías tendrán que empezar a dar explicaciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina ya no era tan barata como a principios de año, y la inversión de Davis parecía no recuperarse.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hayden Davis hizo preparar un contrato y una carta de intención a una abogada argentina para protegerse de una posible estafa por parte de Novelli, Morales y Terrones Godoy.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El 86% de las personas que invirtieron en Libra perdieron su dinero.  75.000 personas resultaron afectadas, según The Solana Post.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay nuevos chats donde Hayden Davis alardea de su influencia sobre Javier Millai.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2346
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.133,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Primero, el acuerdo con el Fondo Monetario Internacional fue, entre las malas decisiones del gobierno de Mauricio Macri, la peor, la más dañina y la que más condiciona la situación actual.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI es un mal necesario al que hay que recurrir.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Argentina, sabemos que nunca funciona.  Acudir al FMI es meterse en la boca del león.  Macri nos dejó enormemente endeudados y con condiciones dañinas que no solucionan el problema.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sergio Massa logró un gran avance al conseguir pagar un vencimiento con yuanes, gracias a la colaboración del gobierno chino y el Banco de China.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición pregonaba un colapso económico, pero se equivocó.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La sociedad argentina no es privatista; entiende la importancia de las empresas estatales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inversión en educación pública es clave.  La universidad pública y gratuita es fundamental para la movilidad social.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha dice abiertamente lo que quiere hacer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3160
+}

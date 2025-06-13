@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que las PASO deberían mantenerse. Obviamente, se pueden mejorar y discutir. Pero las PASO brindan mayor participación, definen conflictos internos en los partidos y ayudan a conformar frentes electorales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se simplifica el mensaje a la gente, se dice que esto cuesta 200 millones de dólares. Es como ponerle precio a la democracia, ¿no?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estoy de acuerdo con los DNU, salvo en casos excepcionales como un cambio de moneda o un plan económico que genere un desastre si se discute una ley.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pienso que el gobierno debe elevar la propuesta al Congreso para discutirla, redefinirla, reencauzarla y actualizarla.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál es su posición personal con respecto a las PASO?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2003
+}

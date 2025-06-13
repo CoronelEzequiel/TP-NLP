@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.039,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Debe ser difícil de lograr, ¿no? Bueno, es el resultado de votar a un gobierno de extrema derecha, que, por serlo, no necesitó cuatro años como el gobierno de Mauricio Macri para ponernos en esta situación, sino siete u ocho meses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei gobierna solo para los ricos y ejerce una especie de saqueo, robando a los pobres para darle a los ricos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, se les quita a los jubilados para darle a los laboratorios farmacéuticos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde que Adil Jalil denunció que el gobierno tenía toda la comida guardada sin entregar, que no había comprado más y que parte se estaba pudriendo, el gobierno está en conflicto con la justicia para no entregarla.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los jubilados no podrán recuperarse de esto, ya que el bono de 70.000 pesos es fijo.  A estos jubilados, a los que se les quitan los medicamentos y se les sube el transporte, no podrán ganar más.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se les está dando a los ricos y quitándoles a los pobres.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando votas a la derecha, te quitan para darle a los ricos; cuando votas a la extrema derecha, te quitan más y más rápido.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuché a una jubilada que dice: \"Lo que me queda tengo que pagar luz, gas y agua, y no me quedará para comer una semana.  Vivo pidiendo comida en verdulerías y panaderías.  Antes no tenía que pedir\".",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la Argentina de Milei: los empresarios ricos aplaudiendo mientras los jubilados lloran sin poder comer ni pagar sus medicamentos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2524
+}

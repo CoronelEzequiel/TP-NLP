@@ -1,0 +1,36 @@
+{
+  "texto_id": "entre_procrastinacion_y_decisionismo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "asumiendo que la procrastinación sería el atributo negativo que se le caracteriza a Alberto Fernández y que el decisionismo sería el atributo positivo que se le asigna a Sergio Massa, generando expectativas positivas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lozano no renunció. Él decía que era parte de un partido, un pequeño partido que él conduce, que era integrante del Frente de Todos. Por lo tanto, él estaba por encima del presidente del Banco Nación, incluso por encima del propio presidente, porque era parte, era un accionista de lo que resultaba ser el Frente de Todos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el entorno de la vicepresidenta están enojados con Guzmán, pero más miran al jefe de gabinete diciéndole, \"pero el que tiene que tener la muñeca política para tomar este tipo de decisión no es el ministro, es el jefe de gabinete\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El decisionismo de Schmitt no es, como se ha afirmado, simplemente un voluntarismo ético asociado a las filosofías morales existencialistas y positivistas. El decisionismo, en cambio, es una particular doctrina política, que sostiene que el Estado es la parte y la fuente absoluta de toda adhesión legal y moral en la vida política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde una perspectiva ético-política, la esencia del decisionismo no implica ausencia de valores o normas en la vida política, sino la convicción de que estas no pueden ser seleccionadas por medio de un proceso de deliberación racional entre visiones alternativas del mundo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4255
+}

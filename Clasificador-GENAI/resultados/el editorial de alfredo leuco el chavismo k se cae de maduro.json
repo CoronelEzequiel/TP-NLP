@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.243,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Y por qué no me cuentan en dos líneas sobre esta entrevista que hicieron a la diputada, que quería, que lleva adelante el proyecto sobre el tema del metegol, digamos?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, nos llamó la atención el tema del molinete, porque uno puede, sin lugar a dudas, jugar de la manera que quiera cuando juega de manera así amigable, pero nos llamó mucho la atención ese término.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después ella explicó que, en realidad, cuando la sacamos recién hace un ratito, explicó que lo importante del tema es llevar adelante el proyecto porque es un tema de inclusión para aquellas personas que, por ahí, están en silla de ruedas, incluso, y no pueden jugar deportes más convencionales o de impacto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y aparte, Alfredo, desconfiábamos también de estos proyectos con las cosas importantes que pasan.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, pero te parece\", pero cuando desgranó en la conversación que tiene que ver para incluir a la gente que por ahí no puede hacer otro tipo de deportes, ahí ya nos parece que tiene otro sentido.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le decía a los muchachos que jugaban como el antiguo metegol.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, pero Alfredo, tú sabes que hoy sos un número uno ya está en el periodismo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2210
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.107,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Su propuesta anti-kirchnerista carece de originalidad; el macrismo se define precisamente por su oposición al kirchnerismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Curiosamente, la Cámara de Casación rechazó el pedido de Cristina Fernández de Kirchner para la revisión de su condena.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este episodio evidencia la naturaleza persecutoria del antikirchnerismo: un conjunto de ideas destinadas a perseguir, demonizar y estigmatizar a Cristina Fernández de Kirchner como líder de un movimiento político, incluyendo a su dirigencia y militantes.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante los doce años de gobiernos kirchneristas, el PBI creció más del 70%, la industria un 72%, la producción agropecuaria se duplicó (de 60 a 120 millones de toneladas),  la generación eléctrica aumentó un 50%, se completó el interconectado nacional de energía e internet, se triplicó la red de autopistas, se invirtió fuertemente en educación y ciencia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, desesperado, recurre a la estrategia anti-kirchnerista de Macri, que resultó infructuosa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inminente devaluación dificulta las posibilidades del gobierno de llegar a octubre sin devaluar, lo que cambiará el escenario político.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay lugar para el revisionismo histórico en Argentina: muchos vivimos la dictadura y sus consecuencias, incluyendo la entrega de trabajadores a la dictadura por parte de empresas como Ford.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2072
+}

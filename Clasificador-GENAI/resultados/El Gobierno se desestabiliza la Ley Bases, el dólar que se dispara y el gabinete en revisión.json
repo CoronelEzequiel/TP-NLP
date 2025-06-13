@@ -1,0 +1,76 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.485,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Despertar, eso escuchábamos recién. ¿Por qué? Bueno, porque se despertó, lo que se despertó es el dólar, que subió y mucho.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Veníamos escuchando al presidente, diciendo: \"En mi gabinete son todos Messi, tengo el mejor equipo del mundo. Ah, está todo mi equipo en revisión\".",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer, cambió a \"mi equipo está en revisión y voy a ver qué hago una vez que se apruebe la ley de bases\".",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente le echó la culpa también de eso al tema del dólar, dijo: \"Bueno, el dólar estaba quieto porque parecía que salía la ley de bases, hay ruido con la ley de bases y esto también hizo que se despierte el dólar en los últimos días\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esperan que se levante el cepo y, sobre todo, el viejo pedido de las retenciones.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Misiones es un punto donde tenemos que mirar.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora está del otro lado del mostrador, está en el gobierno, es el vocero y dice lo contrario: \"No hay razón alguna para que el dólar tenga efectos en los precios\", se lo decía Manuel Adorni hace un par de días nada más.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La ley de bases puede salir bien o puede, digamos, salir, que no sale, por decirlo de alguna manera.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y por eso Milei dice, puede haber ley o no puede haber ley.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y allí donde pasa de \"se lo dejé decir a Mahul\", están todos firmes como rulo de estatua, todo el gabinete está en análisis.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y si no hizo un nombre propio, hizo un solo nombre propio el presidente en la entrevista de ayer, quién tiene todas las fichas para finalmente ingresar o ingresar de manera formal, porque ya ciertamente es parte del gabinete, o por lo menos de las decisiones que toma en materia económica Javier Milei. ¿De quién hablamos? De Federico Sturzenegger.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entra Federico Sturzenegger como ministro.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El resto de los gobernadores no va a estar allí.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5862
+}

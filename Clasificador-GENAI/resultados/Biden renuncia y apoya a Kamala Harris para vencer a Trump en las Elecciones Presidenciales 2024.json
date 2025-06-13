@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Mientras esto sucedía, Donald Trump, que no es mucho más joven (tiene tres años menos, solo 78 años), se lo percibe cada vez más a la ofensiva y acumulando posibilidades de llegar nuevamente a la Casa Blanca.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Harris es la primera vicepresidenta afrodescendiente y, además, asiática de la historia de los Estados Unidos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Juntos lanzaremos una nueva era de seguridad, prosperidad y libertad para ciudadanos de toda raza, religión, color y credo.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El nivel más bajo que hemos registrado de inmigrantes ilegales llegando aquí. Esto fue mi última semana en la presidencia. Vean lo que sucedió después de que me fui, vean ustedes, vean ustedes más adelante. Incluso ya estas cifras no están muy actualizadas, pero subamos un poco más en estas cifras. Miren ustedes lo que sucedió inmediatamente, empezó la invasión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En 2003 fue elegida como fiscal del distrito de San Francisco, donde oficializó algunos de los primeros matrimonios igualitarios en el país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, dijeron que nada les preocupa más que la amenaza que supone un segundo mandato de Trump, quien ha prometido ser un dictador desde el primer día, añadieron.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3199
+}

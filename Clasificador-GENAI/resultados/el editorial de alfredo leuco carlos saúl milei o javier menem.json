@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta es una noticia en desarrollo, pero está claro que los parecidos de forma y de fondo entre Javier Milei y Carlos Saúl Menem son cada vez más evidentes.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Menem prometió \"salariazo\" y Milei dolarización, que es la fantasía de un \"salariazo\" por otro medio.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei creció prometiendo luchar contra la \"casta\", y Barrionuevo es lo más rancio de la \"casta\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este acercamiento de \"Mi Ley\" a las ideas, metodologías y dirigentes del menemismo se apoya en que fue votado por muchos sectores populares que tradicionalmente eran cautivos del peronismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei es un producto de la factoría Eurnekian, de la cual fue empleado durante mucho tiempo. Y el empresario fue un gran amigo de Menem e hizo fortunas durante su gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2210
+}

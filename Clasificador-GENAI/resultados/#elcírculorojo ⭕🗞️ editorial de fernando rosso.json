@@ -1,0 +1,36 @@
+{
+  "texto_id": "El Círculo Rojo con Fernando Rosso",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.13,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En el peor momento de su gestión, Javier Milei está cumpliendo un sueño: el de la casta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La crisis se solucionó precariamente, mostrando una administración no solo ajustadora, sino también ineficaz.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos movimientos en el mercado cambiario mostraron el agotamiento de la política de licuación de ahorros e ingresos mediante la baja de la tasa de interés, en un contexto económico complicado, con una tendencia a la recesión, incluso a la depresión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El proyecto busca avanzar con nuevos despojos de derechos del pueblo trabajador, por lo que debe evitarse su aprobación.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está perdiendo su transversalidad electoral, sobre todo entre los jóvenes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1799
+}

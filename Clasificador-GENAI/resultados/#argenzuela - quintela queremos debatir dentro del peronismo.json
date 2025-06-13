@@ -1,0 +1,41 @@
+{
+  "texto_id": "Buenos días, Ricardo Quintero",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No se puede seguir actuando como si todos fuéramos vasallos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Queremos debatir y discutir para qué queremos ser presidentes o autoridades del Consejo Nacional del Partido Judicialista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos un partido fuerte que proteja y guíe a sus miembros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que la etapa de Cristina como presidenta del partido ha concluido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Seguiré trabajando por la unidad del peronismo, pero se necesitan ciertas condiciones para hacerlo con entusiasmo y motivación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Cámpora es una parte del peronismo, pero el peronismo no es La Cámpora.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1590
+}

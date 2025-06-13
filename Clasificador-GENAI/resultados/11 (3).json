@@ -1,0 +1,26 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuando pasamos por la mitad de la cancha, digamos a las 12 del mediodía, uno siente que, al cruzar esa línea, empieza a rugir el estómago.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo prefiero las pastas, unas buenas pastas rellenas de calabaza, si es posible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si preferimos carne, mi otra opción es Maure Parrilla, en Chacarita (Córdoba y Maure).",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1458
+}

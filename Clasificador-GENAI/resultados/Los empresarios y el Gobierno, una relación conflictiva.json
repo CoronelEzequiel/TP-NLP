@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_empresarios",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En resumen, los empresarios son centrales para el funcionamiento de la economía de un país.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el peronismo ganas más plata, pero tenés que laburar más.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Somos los que cuidamos los derechos de los que trabajan en esas empresas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La industria es una de las grandes perdedoras de este modelo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ojalá que en la Argentina pueda haber una unión, una comprensión entre los empresarios y la sociedad, que es la única herramienta para poder sacar a la Argentina de la pobreza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3310
+}

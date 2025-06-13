@@ -1,0 +1,41 @@
+{
+  "texto_id": "Elle Show",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Como decía Alan Ruquier, la perdurabilidad del peronismo tenía que ver con la fuente aglutinante que generaba el antiperonismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peronismo, en consecuencia, en cuanto a religión, genera un tipo antropológico que se prolonga hasta nuestros días y que está plasmado en el ser argentino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peronismo, fiel al actualismo de Giovanni Gentile, alma del fascismo italiano, asume una mística de la acción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta mirada cáustica, esta mirada negativa respecto de lo que representa el peronismo, es la que tiene el antiperonismo, que me parece muy aguda la visión de Alan Ruquier, de que es lo que le ha dado perennidad al peronismo iconoclasta, heterogéneo, que permite todas las alternativas, casualmente porque lo que lo unifica es el antiperonismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El dueño del 17 de Octubre es el pueblo argentino.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Peronismo, kirchnerismo argentino, el peronismo como una cuestión existencial de la Argentina, el peronismo como algo antropológico, el peronismo que nos atraviesa desde hace más de 70 años.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3615
+}

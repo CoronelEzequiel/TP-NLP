@@ -1,0 +1,26 @@
+{
+  "texto_id": "bahia_blanca",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Estamos tranquilos, tratando de pensar principalmente que estamos sanos, vivos, con salud y de buen ánimo, sin mirar al costado, sabiendo que hay gente fallecida y que hay gente que sigue buscando gente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esa unión está mancomunada, pero ahora también necesitamos, como vecinos, como seres humanos, un trabajo mancomunado de los distintos estamentos gubernamentales. El municipio sigue trabajando, sé que trabaja coordinadamente con provincia, y bueno, esperemos la mano de nación, porque solos no salimos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así como hay solidaridad, también hubo gente que saqueó en la estación de servicio del pueblo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2651
+}

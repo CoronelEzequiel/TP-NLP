@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.807,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La ineptitud de la gobernación le está costando mucha sangre inocente a la provincia de Buenos Aires.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, la provincia está cada vez más llena de droga, de narcos, de chorros, de paco, de villas, de pobres.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El presidente se mete en una estafa y se defiende así. El pibe que sale a robar, \"yo robo como yo sé robar, él robará como...\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La angustia es real. La ola de violencia, la ola de sangre, no sé. Es real, Frederic.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Barra protegida y vos encerrado con rejas, con alarmas, qué sé yo, con gas pimienta para defenderse.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Déjese de gastar 30.000 millones de pesos en la pauta para sus amigos, en la pauta publicitaria para los medios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hágase cargo de gobernar la provincia más insegura y más destrozada de Argentina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4087
+}

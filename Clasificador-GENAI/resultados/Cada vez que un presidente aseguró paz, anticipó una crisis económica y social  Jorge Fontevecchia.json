@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei dijo que había \"cero pánico\" en relación con los problemas económicos que se generaron por los aumentos de los dólares paralelos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cualquiera que haya vivido la historia económica argentina sabe que este tipo de reacción suele generar más angustia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de la lógica de esas medidas, que generaron ayer polémicas muy duras entre distintos economistas, lo cierto es que fueron anunciadas en una conferencia de prensa improvisada un sábado por la tarde, al final de una semana muy mala en los mercados financieros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo mi apoyo y solidaridad al presidente y candidato Donald Trump, víctima de un cobarde intento de asesinato que puso en riesgo su vida y la de cientos de personas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sorprende la desesperación de la izquierda internacional que hoy ve como su ideología nefasta expira y está dispuesta a desestabilizar las democracias y promover la violencia para atornillarse al poder.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4686
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_economico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Se apunta a que en el año 2022 el financiamiento monetario sea del 1% del producto, en el año 2023 que esté en alrededor del 0,6% del producto y que en el año 2024 sea cercano a 0. Y poder converger a una situación en la cual no haya más financiamiento monetario sistemático del Banco Central al Tesoro, sino que, en una economía más normalizada, la oferta monetaria se pueda mover de una forma consistente con la evolución de la demanda por nuestra moneda, sin que ello conlleve presiones adicionales en los tipos de cambio y, por lo tanto, en la inflación.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Creo que han hecho un muy buen trabajo en circunstancias extraordinariamente difíciles. Cualquiera que heredara ese nivel de deuda y ese nivel de inflación habría tenido muy difícil. Cualquiera que se enfrentara al COVID-19, cualquier país del mundo lo encontraría muy difícil. Tener a los tres en un país con un nivel de pobreza tan alto no es un trabajo que hubiera querido.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Tenemos que enfrentar la inflación con determinación, porque es la mayor fábrica de pobreza que puede tener cualquier país. Lo sufrimos en la Argentina y lo está sufriendo el mundo. El conjunto de políticas y medidas con las que vamos a trabajar en esta etapa tiene como objetivo combatir ese flagelo.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"En cuanto a los principios: orden fiscal, superávit comercial, fortalecimiento de reservas y desarrollo con inclusión. En cuanto a los motores: inversión, producción, exportaciones y defensa del mercado interno.\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Los dos objetivos centrales, tal como charlábamos con Gerardo cuando veníamos para acá, junto con la inversión pública, junto con la planificación y el orden en las cuentas, junto con una idea de desarrollo del país productivo, esto de que los parques del trabajo formal tiene que ser el de recuperar el ingreso de nuestros trabajadores y ganar la batalla contra la inflación.\"",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5196
+}

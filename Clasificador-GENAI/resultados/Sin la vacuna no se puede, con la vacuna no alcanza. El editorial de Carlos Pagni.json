@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En medio de una polémica acerca de por qué la Argentina renuncia a las vacunas de Pfizer, no solamente porque la rechazó en su momento por cuestiones legales, sino porque la sigue rechazando en la oferta que hacen desde el mecanismo COVAX de la Organización Mundial de la Salud y también por parte de Estados Unidos, como le volvieron a explicar a **Sergio Massa** en la reunión que está realizando en Washington, nos ofrecen vacunas que son de Pfizer o de Moderna y nosotros las seguimos rechazando.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno sigue confiando en la vacuna, pero con la misma lógica con la que **Alberto Fernández** habla de **Cristina Fernández de Kirchner**. Irónicamente, sin la vacuna no se puede, con la vacuna sola no alcanza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una vacunación que sigue estando politizada desde muchos puntos de vista, y uno de ellos es que las provincias que quieren comprar vacunas no solamente tienen un calvario burocrático para atravesar, sino que, de las vacunas que compran, les restan las vacunas que reparte el Estado nacional, es decir, adquirir nuevas vacunas por parte de una provincia con sus propios recursos significa renunciar a las que debe repartir el Estado nacional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que vemos, sí, en estos días son medidas sueltas, casi todas pensadas para el conurbano bonaerense. Este es un gobierno que, en su raíz, es del conurbano; los votos de la jefa de este gobierno, **Cristina Fernández de Kirchner**, están en el conurbano; **Máximo Kirchner** y La Cámpora aspiran a convertirse en los jefes de la provincia de Buenos Aires y del conurbano, ahí están los votos, ahí reina **Cristina Fernández de Kirchner**, ahí mira **Axel Kicillof** desde la provincia de Buenos Aires; por lo tanto, las medidas que van saliendo, sobre todo en el Congreso, con independencia de los intereses de **Martín Guzmán**, algunas elaboradas por La Cámpora, otras elaboradas por **Sergio Massa**, todas van dirigidas al conurbano bonaerense, son medidas sueltas, no forman parte de un programa, es difícil integrarlas en un mensaje.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "hay que mirar la provincia de Buenos Aires, ese es el distrito, hay que mirar un sector social, clase media y media baja y hay que mirar un número, el número es qué diferencia hay –suponiendo que gana el Frente de Todos– entre el Frente de Todos y Juntos por el Cambio en la provincia de Buenos Aires, más específicamente hay que mirar cuál es el piso en el que quede instalado Juntos por el Cambio en la provincia de Buenos Aires, porque porque de ese piso depende si va a haber del 2021 al 2023 un proyecto competitivo que le plantea a la Argentina una alternativa frente a la experiencia populista, que recrudecida está yendo hoy a la elección con estas medidas inconexas, incapaces de constituir un discurso, pero distribucionista de un distribucionismo difícil porque es un distribucionismo sin plata que encarna como figura principal **Cristina Fernández de Kirchner**.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6771
+}

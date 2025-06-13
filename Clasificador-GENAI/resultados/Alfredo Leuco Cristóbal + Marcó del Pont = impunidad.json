@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.831,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La jefa de la AFIP ordenó que el organismo se retire de la acusación contra el empresario Ultra Kirschnerista.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso dejará a Marcó del Pont registrada en la historia política como la que firmó la impunidad del dueño de C5N, el canal más cristinista que existe.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tal vez, a esta altura, Marcó del Pont esté tan comprometida y al servicio de Cristina, que no le importe la posibilidad de que esto tenga consecuencias legales para ella y alguna denuncia, además, por beneficiar a alguien que se quedó con el dinero del impuesto a los combustibles y por no defender los intereses de los argentinos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Marcó del Pont es una funcionaria con fama de no ser una persona corrupta ni de someterse a los caprichos de Cristina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En lo concreto, Cristóbal descubrió la impunidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde que asumió el gobierno de los Fernández, todos los caminos apuntaron a que, en lugar de recibir un castigo legal, recibiera un premio por su patriotismo y le devolvieran sus empresas de inmediato.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La educación no se burlaban en las redes y, como si esto fuera poco, el presidente todavía no explicó con claridad su inexplicable factura por 436 mil pesos, a hoy, el combustible, la nave insignia de Cristóbal, que Alberto no supo, no quiso o no pudo aclarar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mayoría de los comentarios en el supermercado, en la cola del cine o en las redes sociales, eran los siguientes: \"Yo no pago más los impuestos y si me intiman les mando una foto de Cristóbal\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pensar que Néstor Kirchner, el mejor amigo político de Cristóbal López, su socio, allá lejos y hace tiempo, había dicho para los evasores \"traje a rayas\", y eso que Cristóbal es mucho peor que un evasor.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se robaron millones que no eran de ellos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Cristina y Cristóbal los une el espanto a ser condenados y además los une que uno enriqueció al otro.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina enriqueció a Cristóbal y Cristóbal enriqueció a Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy Mercedes Marcó del Pont manchó sus manos y ayudó a darle la impunidad a Cristóbal, y así nos va.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2526
+}

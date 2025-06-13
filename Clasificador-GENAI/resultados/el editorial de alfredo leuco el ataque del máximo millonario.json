@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Máximo, que ya tiene 45 años, ya no es un \"pibe\", es un magnate que sigue utilizando ese look setentista, de pelo largo, barba desprolija y campera.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo es un millonario que combate a millonarios; posee 26 propiedades y casi 3 millones de dólares de ahorro, pese a que dice despreciar al imperialismo norteamericano.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo siguió el camino irracional de su madre y comparó lo que pasó el sábado con las muertes en las calles de 2001, ocultando la responsabilidad de varios intendentes peronistas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En realidad, el delito de megacorrupción de Estado no tiene género.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Máximo también, al igual que Andrés \"Cuervo\" Larroque, su lugarteniente, la Guardia de Hierro de Cristina, castigaron duro al exministro Martín Guzmán, como si no fueran parte del gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hubo entre los Kirchner y Lázaro Báez negocios sucios de todo tipo: de coimas, retornos sobre precios del 65% de promedio, lavado de dinero, alquileres inflados, licitaciones ficticias, amañadas y a medida y, por supuesto, sociedades comerciales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo vivió todos estos años firmando balances y poniendo su apellido en las estafas que hicieron sus padres.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2366
+}

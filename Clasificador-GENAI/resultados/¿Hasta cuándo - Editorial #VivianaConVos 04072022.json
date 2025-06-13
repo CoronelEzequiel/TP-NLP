@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.885,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hasta cuándo vamos a soportar la impunidad de Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta cuándo les vamos a permitir que sigan robándonos la Argentina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto fracasó, Guzmán fracasó, fracasaron todos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son impresentables, son dos sicóticos. Están totalmente locos. Ya nos pusieron en riesgo a todos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno del títere ya fracasó. Ya fue.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina se burla del títere que ella puso, hace chistecitos. Le parece gracioso mientras el país está explotado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández está solo, está aislado. Y no se estaría dando cuenta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina quiere asumir como presidente la acusación de Luis delía tras la renuncia de Guzmán.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Hasta cuándo tenemos que soportar tanta impunidad y tanta corrupción?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras Alberto y Cristina se pelean por la caja, por el poder, por la famosa lapicera, en Argentina, en todo el país, la gente, los niños, se mueren de hambre.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8079
+}

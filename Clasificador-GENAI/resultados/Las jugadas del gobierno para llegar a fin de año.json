@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.443,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay una especie de consenso entre los sectores políticos y los actores políticos de que el año termina con el comienzo del Mundial y que el comienzo del Mundial empalma con las fiestas de fin de año, luego con el verano, y que en marzo comienza el año verdaderamente electoral, porque hay que presentar las candidaturas para lo que van a ser las PASO de agosto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos hablando de aquel ministro que inmortalizó la frase 'hay que pasar el invierno'.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Estamos dispuestos a dejar nuestra sangre en la calle para que nos siga viendo este amén Argentina\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Prefiero decirlo ahora, y no lamentarme cuando empiecen los saqueos\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo creo que hay que empezar a controlar los movimientos de los grupos especulativos que están jugando con el dólar\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El dólar blue no impacta en la economía real\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Mi sueño no es ser el mejor presidente de la Argentina, sino ser el presidente del mejor país del mundo\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3476
+}

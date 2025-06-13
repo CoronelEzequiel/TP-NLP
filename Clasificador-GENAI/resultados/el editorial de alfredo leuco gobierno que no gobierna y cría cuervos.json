@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hay un gobierno que no gobierna, no soluciona ninguno de los problemas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina solo se preocupa por salvar el pellejo de la cárcel, buscar impunidad y voltear a la Corte Suprema y a las elecciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La vicepresidenta decidió tumbar el Estado de Derecho.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estos bloqueos mafiosos son una metodología constante que, según el presidente, son sus dirigentes sindicales preferidos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es un acto terrorista que tiene el apoyo implícito y explícito de las autoridades nacionales y provinciales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nadie se siente obligado a respetar la ley.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1826
+}

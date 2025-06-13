@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_ariel_suarez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.243,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sí, he sido crítico con el gobierno anterior y también lo soy con el actual.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo único que pido es que mi propio gobierno trabaje y nombre a la gente adecuada para empezar a trabajar en serio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Apoyo al gobierno, no me arrepiento, el arrepentimiento es un invento de los medios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, me preocupa. Sobre todo, que estén más interesados en la AFA que en todo el deporte nacional.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Conozco el ENARD y apoyo su vuelta. El gobierno de Cristina Kirchner lo creó en el 2010.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soy de la villa, y el deporte me cambió la vida. Me dio trabajo y la posibilidad de ayudar a otros.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El deporte es una herramienta fundamental para sacar a los chicos de la calle.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2501
+}

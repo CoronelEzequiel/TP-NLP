@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_edesur",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.213,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En estos días, vi un video de Darío Nieto, el secretario privado de Macri, que prendió una vela durante el día, algo curioso, y comentaba que ahora tenemos cortes de luz todo el tiempo, mientras que durante el gobierno de Macri no los había.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante el gobierno de Mauricio Macri, la tarifa de luz aumentó entre un 3400 y un 5500 por ciento, según la categoría. Durante este gobierno, la tarifa estuvo congelada durante la pandemia en 2020. En 2021 aumentó cerca del 10% contra un 50% de inflación, y ahora están sucediendo aumentos segmentados de acuerdo a la categoría, con un máximo de alrededor del 40%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Para quién es el negocio de la energía en Argentina? ¿Es un negocio para unos pocos o volvemos a considerar la energía un derecho humano básico que debe quedar en manos del Estado?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es falso que no había cortes de luz.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2215
+}

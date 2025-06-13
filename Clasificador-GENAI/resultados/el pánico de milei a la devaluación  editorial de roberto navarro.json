@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Donald Trump revirtió parte de su estrategia, lo cual nos dio un respiro; ayer fue un buen día para Argentina.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos multimillonarios ganaron mucho dinero con esta situación. ¿Quién les avisó del cambio de estrategia? Trump, uno de ellos. Se dice que cada empresa recompró sus acciones a un precio mucho menor a su valor real.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde la Segunda Guerra Mundial, durante las crisis mundiales, se produce un \"vuelo hacia la calidad\": los inversores compran títulos públicos de Estados Unidos por considerarlo el activo más seguro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno de Javier Milei es descrito como débil.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se critica la situación actual del gobierno y se alerta sobre el riesgo de una crisis similar a la de 2001.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente está desesperada, trabaja jornadas extenuantes y con salarios insuficientes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2270
+}

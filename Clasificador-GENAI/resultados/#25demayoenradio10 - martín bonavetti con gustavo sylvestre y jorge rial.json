@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.214,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se necesita recuperar los símbolos patrios, el Himno Nacional, nuestras marchas; esto también forma parte de nuestra patria, ¿no?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos avergonzaba escucharlo interpretado por una banda militar porque la dictadura se había apropiado de él.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, lo de recuperar el sentimiento patriótico, que no tiene nada que ver con ideología.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después del 2006, creo que volvimos a recuperar esto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando nos conocíamos, Jorge, en la postdictadura era casi vergonzoso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo un proceso de volver a la centralidad del Estado, a las fechas patrias, a un sentido de pertenencia...",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y cuando uno vuelve a escuchar el Himno, siente algo que nos une en un sentimiento común.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1526
+}

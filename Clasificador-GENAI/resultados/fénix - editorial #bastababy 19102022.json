@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.79,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No puedo culpar solo a los sindicatos, pero sí a ciertos líderes sindicales.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este problema no se limita a los sindicatos; también está el sistema judicial laboral, que es absolutamente ineficiente y perjudicial para los empleadores.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La falta de seguridad jurídica ahuyenta a los inversores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema no son los gobiernos, el problema son los sindicatos, con su poder corrupto que impacta en las diferentes gestiones, independientemente del partido político al poder.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos una reforma laboral que proteja tanto a los empleados como a los empleadores, una reforma que imponga justicia, que asegure la seguridad jurídica y que elimine la corrupción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1595
+}

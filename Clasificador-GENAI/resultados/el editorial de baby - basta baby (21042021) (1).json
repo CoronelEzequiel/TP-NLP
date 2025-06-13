@@ -1,0 +1,46 @@
+{
+  "texto_id": "¡Dacazzi! ¡Dacazzi viejo y peluquín!",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Se quedaron con la educación, se quedaron con la vacuna, se quedaron con el dinero, se quedaron con la libertad.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en Venezuela, en un país con el nivel de pobreza que tenemos nosotros, en un país que da lástima al mundo, pero fundamentalmente en un país donde el mundo nos compara con Venezuela.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un país donde ahora quieren vacunar a los presos, o sea, miren, yo les cuento: el chorro que entró a mi casa se va a vacunar antes que yo, porque lo van a ir a vacunar al presidio, y a mí todavía no me dan fecha.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Digo, realmente es un país en franca decadencia, al estilo venezolano, pero ya no somos “Argenzuela”.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un país donde tenés tres gobiernos, ¿viste?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Argentina está revolcada en la mierda, está inmoralizada, con un gobierno de amorales, inútiles e ineficientes.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hicieron mierda la Argentina, muchachos, y es irrecuperable.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2686
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Las palabras son hechos, las palabras producen situaciones. Y hoy estamos metidos en una situación conflictiva con España en la relación bilateral entre los dos estados por palabras.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En lo que hace Milei en España, en el uso que Milei hace de las palabras, puede haber rasgos temperamentales, puede haber o existir una expresión de la forma de ser, de la subjetividad, del estilo de Milei, pero montado sobre eso que es la materia prima de una estrategia, hay una estrategia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la clave de esas emociones para manejar la política, para la lucha política, es la ira, la bronca, el enojo. Si uno quiere llevarlo un poquito más allá, el odio; el odio, sostienen estos autores y sostienen estos estrategas políticos, es mucho más eficaz que los programas, que los planes, que los sueños para agrupar gente, para movilizarla detrás de un proyecto de poder, para conseguir la adhesión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei se refiere a eso. Este tipo de agresiones a los familiares siempre dejan una marca especial.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“No venía a limpiar la política y cómo postula a un juez corrupto para la Corte”.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8682
+}

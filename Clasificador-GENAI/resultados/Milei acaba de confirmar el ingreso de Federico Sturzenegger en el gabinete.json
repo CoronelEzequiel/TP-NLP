@@ -1,0 +1,41 @@
+{
+  "texto_id": "chanchito_de_yeso",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.667,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sturzenegger es el segundo economista más citado de la Argentina, después de Levi Yatt y con quien escribió varios libros, y es un hombre con misión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un cruzado de la desregulación económica. Alguien convencido de que esa es la receta para que nuestro país salga adelante.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Federico Sturzenegger, la reforma laboral da libertad a la gente sobre su sueldo...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El proceso de desinflación va a ser muy pronunciado a partir de mayo...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Yo creo que Sturzenegger le va a dar velocidad turbo a la construcción de las utopías de las teorías de Milei, y como pasó en el pasado, la gestión de Sturzenegger no va a tener buenos resultados, sino que va a acelerar la destrucción de la economía real\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"A todo lo voy a llamar chanchito de yeso. Para sacarle un mango hay que romperlo todo, lo cual lo avalo\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5691
+}

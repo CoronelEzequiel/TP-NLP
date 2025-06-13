@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno, con Javier Milei a la cabeza, ha decidido que toda su organización política y económica, todo su programa, se base casi exclusivamente en una promesa: reducir el déficit fiscal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si quiero reducir la dimensión del Estado de 45 a 25% del producto, voy a tener que tener un plan político, no solo un plan fiscal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos comparando el mes de enero de 2023 con el mes de enero de este año, es decir, una comparación interanual para tomar estaciones similares, momentos similares del año. Y nos encontramos con que ha caído el gasto social en la Argentina entre enero y enero, 29,5%.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la carrera entre cuánto cae el gasto y cuánto cae la recaudación. Es un viejo problema de todo programa de estabilidad que se piensa solamente en lo fiscal. Lo fiscal produce un ajuste en la economía que hace que caiga la recaudación y, por lo tanto, la meta se va corriendo y se puede ir volviendo inalcanzable.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Caputo empezó a hacer algo a lo Moreno, en el gobierno ultraliberal, donde todo lo regula el mercado, lo debería regular el mercado, ponemos en suspenso por un rato a la escuela austríaca, llamamos a los funcionarios del gobierno, le decimos, no me convaliden ningún salario que vaya por encima del 16%, llamamos al comercio, llamamos a la producción, le decimos, bajen los precios.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8081
+}

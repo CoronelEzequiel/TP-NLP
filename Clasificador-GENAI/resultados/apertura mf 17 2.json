@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Otra idea opuesta, así como tras la diáspora de la derrota de Cristina Fernández de Kirchner en 2017 frente al ignoto, en aquel momento Esteban Bullrich en la provincia de Buenos Aires, y eso había generado la sensación de un macrismo eterno, de que habría ocho años de Mauricio Macri, ocho años de Horacio Rodríguez Larreta, ocho años de María Eugenia Vidal.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que Cristina, Alberto y yo mismo, lo que tenemos es la responsabilidad de construir una propuesta ganadora en el 23, que no tiene o no depende de deseos personales, que depende de que tengamos la inteligencia de estabilizar la economía, mejorando la situación de la gente, que tengamos la inteligencia de construir una propuesta ganadora como Frente de Todos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Apaguemos la discusión interna por un rato y volvamos a poner nuestro corazón al lado de las necesidades de nuestro pueblo, que es el único compromiso que tomamos en el 2019. Gobernar, gestionar para los que menos tienen, gobernar, gestionar para que haya empleo, trabajo, educación, salud, felicidad y libertad para todos los argentinos.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo sigo insistiendo que se tiene que universalizar las asignaciones familiares por hijo o hija, que lo cobren todos los trabajadores y que de una vez por todas se elimine el maldito impuesto al trabajo, que es el impuesto a las ganancias.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El planteo fue que, primero, no podemos aceptar la proscripción política cristinista, esta locura de querer inhabilitar la perspectividad para hacerse cargo público, que no es otra cosa que proscribir la perspectividad. Lo vamos a plantear en una reunión que esperamos tener pronto con Cristina, lo voy a plantear hoy también en la reunión de la mesa política, es decir, nosotros no podemos empezar esa reunión sin que claramente se exprese en esa mesa política y espero que después lo haga el Partido Justicialista y todos los partidos socios del Frente de Todos, el rechazo a este intento de proscribir a Cristina. Es el punto a partir del cual discutimos todo lo demás.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Planteamos aquí varias veces que hay tres ciclos en la selección: las paso, la primera vuelta y la segunda vuelta. El candidato que puede servir para ganar en las paso puede ser malo para la primera vuelta; el candidato que puede ser bueno para la primera vuelta puede ser malo para la segunda vuelta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3348
+}

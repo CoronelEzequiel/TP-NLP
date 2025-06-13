@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_walter_correa",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.14,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En esta coyuntura, sin duda es sumamente importante y relevante, considerando que durante los doce años de gobierno de Néstor y Cristina Kirchner (2003-2015), en 2006, Néstor Kirchner liberó al pueblo argentino del yugo del Fondo Monetario Internacional (FMI) y en 2008, Cristina Kirchner gestionó con mucha habilidad la crisis financiera internacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El acuerdo con el FMI es insostenible, como demuestra el propio Ministro de Economía, Sergio Massa, quien ya está renegociándolo. El gobierno finalmente intervino, priorizando la tranquilidad social por encima del cumplimiento de las metas. Obviamente, acompañamos esa decisión y la consideramos positiva, pero también necesitamos una respuesta de la Vicepresidenta.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La decisión política del gobernador Axel Kicillof de convocar a las organizaciones sindicales para dialogar sobre los salarios de los trabajadores bonaerenses es algo que celebro y comparto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También debemos profundizar la histórica cuestión peronista del 50-50. Actualmente estamos en un 60-40, a favor de los poderes concentrados de la economía. Tenemos la posibilidad, con la riqueza soberana de nuestra patria, de generar trabajo genuino.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo de Milei es una fantochada, un invento de la derecha para justificar sus propuestas. Milei propone incendiarlo todo y parece que la reforma laboral que quiere hacer Patricia Bullrich es una cuestión menor.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1973
+}

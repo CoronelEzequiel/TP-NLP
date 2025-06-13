@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este escandaloso, podríamos decir, cambio de posición de nuestro presidente, que pasó de considerar un héroe al mandatario ucraniano a darle la espalda, responde al alineamiento de nuestro país con los intereses de Estados Unidos, y en particular con los cambios geopolíticos impulsados por el expresidente Donald Trump.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se habla en contra de los derechos de las minorías sexuales, del supremacismo, a favor del supremacismo blanco, y contra el acceso a la salud y la educación de los pueblos, basados en criterios científicos y laicos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Estamos dispuestos a que valores como los de Agustín Laje, uno de los máximos ideólogos del gobierno, que plantea que los homosexuales son enfermos, ganen cada vez más espacio en la sociedad?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una cosa es votar contra la dictadura de Cuba y otra es abstenerse en una votación criticando la autocracia de Putin.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy las ideas que se exponen en la CPAC, en esta cumbre de la acción conservadora, son las de hegemonizar el país más poderoso del mundo con ideas homofóbicas, reaccionarias, antidemocráticas.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay cambios profundos que están sucediendo. En primer lugar, hay que entenderlos para saber que cuando vayamos a votar, no solamente estamos eligiendo un presidente de la Argentina, sino que también estamos eligiendo un alineamiento internacional y, eligiendo esto, estamos eligiendo una manera de ver el mundo y de cómo se organiza la sociedad.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4521
+}

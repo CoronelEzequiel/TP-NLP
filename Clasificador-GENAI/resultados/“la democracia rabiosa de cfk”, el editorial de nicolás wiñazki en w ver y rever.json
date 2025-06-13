@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner desconfía de Guzmán porque cree que es un delegado del FMI y no un delegado de Argentina ante el FMI.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto es mucho más profundo, y Cristina está muy enojada con Alberto Fernández.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina dijo que hay un golpe de Estado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Volviendo a la crisis del gobierno, es Cristina la que le está marcando la línea de gestión al presidente, y también Máximo Kirchner.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sobre los golpes, es peligroso que una vicepresidenta hable de golpe de Estado, porque el Poder Ejecutivo no es lo mismo que el Poder Judicial, y viceversa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De acuerdo a Cristina, a Martín Soria, y a diferentes funcionarios, el virus lo transmiten... atención.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2958
+}

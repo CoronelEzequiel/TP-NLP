@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.88,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¿Se puede cerrar la grieta con quienes se hicieron multimillonarios en la función pública, como los Kirchner y Lázaro Báez?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los corruptos y golpistas no pueden tener un lugar en la mesa junto a los dirigentes honrados y los que proponen fortalecer una democracia republicana e inclusiva.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con los fanáticos autoritarios e integrantes del Ministerio de la Venganza, no quiero cerrar ninguna grieta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina se debe reconstruir sobre la base del respeto a la Constitución, la división de poderes y la ética republicana.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay lugar para todos en el diálogo institucional, menos para los corruptos y los golpistas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1955
+}

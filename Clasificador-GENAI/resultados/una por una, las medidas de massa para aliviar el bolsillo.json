@@ -1,0 +1,51 @@
+{
+  "texto_id": "medidas_economicas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se otorgarán tres bonos de $37.000, elevando la jubilación mínima a $124.000.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La devaluación, según Massa, respondió a las presiones del Fondo Monetario Internacional (FMI).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este contexto económico está fuertemente condicionado por la deuda contraída con el FMI durante el gobierno de Mauricio Macri.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, tras los anuncios de Massa en Twitter, criticó la inyección de dinero en los sectores más vulnerables, tildándola de \"Keynesianismo modelo fuerte\" que, según él, siempre falla.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las medidas anunciadas incluyen una suma fija de $60.000 (en dos cuotas de $30.000 en septiembre y octubre) para trabajadores con salarios netos de hasta $400.000.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas medidas económicas parecen estar dirigidas a mejorar la imagen del candidato Sergio Massa, especialmente después de sus viajes a Estados Unidos y las negociaciones con el FMI.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se ofrecerán créditos a trabajadores endeudados a través de ANSES con tasas reducidas (la mitad de las tasas de mercado).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, se anunció la suspensión del aumento de las prepagas médicas por 90 días para hogares con ingresos inferiores a $2.000.000.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1822
+}

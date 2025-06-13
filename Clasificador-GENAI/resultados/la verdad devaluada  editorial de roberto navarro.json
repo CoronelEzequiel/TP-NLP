@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En Argentina, el caso de Mauricio Macri es ilustrativo. Su victoria electoral en 2015 se construyó, en parte, sobre promesas que resultaron difíciles de cumplir, considerando el buen estado económico del país en ese momento (récord de industria, cosecha y consumo).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo tampoco ha estado exento de recurrir a la mentira. La asunción de Sergio Massa como ministro de Economía, en medio de la gestión de Alberto Fernández, se justificó con argumentos que resultaron falsos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todas estas situaciones demuestran que la mentira en política, lejos de ser una estrategia efectiva, tiene efectos contraproducentes a largo plazo. Las ventajas son efímeras y el daño a la confianza pública es irreversible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalmente, la constante proliferación de falsedades en la esfera política lleva a un alejamiento de la sociedad respecto del sistema, favoreciendo el auge de figuras anti-sistema que, paradójicamente, siguen reproduciendo las mismas prácticas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1313
+}

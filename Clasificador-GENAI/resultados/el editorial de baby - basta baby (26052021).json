@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy el gobierno argentino demostró estar a favor del dictador Maduro, un sinvergüenza.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, la única forma de zafar que tiene el gobierno es llevarnos a una Venezuela donde salgan los matones de remera roja a agredir a la gente, a marcar a los vecinos que piensan diferente, a encarcelar a quienes disienten, a reprimir las manifestaciones, a procesar a quienes no tienen el permiso de circulación al día.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo pregunto: si se me está muriendo un ser querido en la Capital Federal y veo que en la provincia, cuando paso por un control, me piden el permiso y digo: \"Se me está muriendo mi madre\", ¿me van a detener? ¡Que se vayan a la mierda!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La infección se debe a que se robaron las vacunas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que hay que ser “fascista”, y yo defiendo a la policía y la admiro.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso es normal que Alberto haya renunciado a la Asamblea de los Derechos Humanos y a defender a Venezuela, porque están a favor de los delincuentes, porque un delincuente está a favor de otro delincuente.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy a favor de los derechos humanos de todos, estoy en contra del hijo de puta de Maduro, estoy a favor del hombre que lo juzgará mañana a Chocobar, estoy en contra de los delincuentes, a favor de las víctimas, y a favor de la democracia y la libertad, como en Uruguay.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un hombre honesto no está a favor de Chávez, un hombre honesto está a favor de Correa, pero entre ellos hay negociados que todavía no comprendemos, y por eso se defienden como cuando fue Neil de Grasse Tyson… ¡No!, quien fue fue Galin Berti a buscar el dinero de los Montoneros, el dinero de los secuestros que guardaba Fidel Castro, y que devolvió solo 60 millones de dólares de todo lo que llevaban para asegurar su vejez.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando paro en un semáforo, me dicen: \"Tenés razón lo de Chocobar\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3352
+}

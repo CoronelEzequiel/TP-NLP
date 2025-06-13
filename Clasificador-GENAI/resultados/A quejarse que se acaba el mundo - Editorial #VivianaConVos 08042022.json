@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "A Máximo Kirchner, el niño rico que tiene tristeza, no le gusta que nos quejemos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes son como unos rufianes con la gente, la prostituyen. La prostituyen por un voto, la prostituyen por un plan.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo es una monarquía y Máximo Kirchner se cree el rey.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para mí, que el derecho de admisión del kirchnerismo es dos puntos: ser corrupto.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A estos zurdos con OSDE y a los de la Cámpora que van a cobrar 95, Lucas. Por rascarse en ego.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8694
+}

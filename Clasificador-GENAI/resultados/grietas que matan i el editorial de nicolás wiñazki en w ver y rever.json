@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.589,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Se debate la posibilidad de que el ejército intervenga para evitar la muerte de miles de cabezas de ganado, pero las discrepancias impiden una respuesta coordinada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Observemos estas imágenes: miles de vacas mueren de sed y hambre, lo que seguramente provocará un aumento en el precio de la carne el próximo año.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las imágenes que observan muestran la brutal golpiza que terminó con la vida de Fernando Báez Sosa.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un desafío clave es erradicar la inflación argentina, en parte autoconstruida, es decir, alimentada por la expectativa inflacionaria de la población.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno afirma que el “Plan de Precios Justos” tiene un 90% de éxito, a pesar de los conflictos con camioneros y piqueteros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se trata de países donde la democracia y los derechos humanos están seriamente comprometidos, según organismos internacionales.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Paralelamente, Cristina Kirchner buscaba una reunión con Lula da Silva para hablar sobre Milagro Sala, considerada una perseguida política.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se busca fortalecer el tejido productivo y social, dejando atrás las políticas que, según el gobierno, “hundieron el país”.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, la sequía que afecta al campo, el principal generador de divisas, pone en riesgo esta visión optimista.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1942
+}

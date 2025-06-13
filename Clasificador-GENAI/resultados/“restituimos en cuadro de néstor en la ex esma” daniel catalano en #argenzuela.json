@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.05,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Acabamos de restituir dentro de la ex ESMA el cuadro de Néstor que fue sacado por el secretario de (derechos), de Supanobaño, secretario que además despidió al 70% de los trabajadores de la Secretaría.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta movilización que es por la memoria, la verdad y la justicia, también es para resistir una vergüenza, lo que el gobierno está tratando de trasladar a la comunidad a través de un video explicando lo inexplicable.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vos fijate que hoy, salvando las diferencias porque Milei fue electo por el voto popular, tiene la misma actitud.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eh, despidió a cerca de 250.000 trabajadores del sector privado, 50.000 laburantes del sector público.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están desapareciendo las pymes, endeudando al país de una manera irracional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que hay que pensar en similitudes que se dan en la utilización del aparato represivo en gobiernos democráticos y en gobiernos que no lo son.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora el viernes salió una resolución donde le van a dar un premio a cada funcionario que echa empleado público, le van a pagar con unidad retributiva.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo sé que está mal decirlo, pero es un sorete este presidente, porque la verdad que lo que hizo fue hostigarnos, perseguirnos, despedirnos, golpearnos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están cerrando todos los sitios de memoria, devastaron los espacios donde nosotros podíamos tener participación en los juicios contra la genocida.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Despidieron a la totalidad de los trabajadores de vivienda, 15.000 viviendas que están hechas que no se pueden entregar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cerraron el ENIA, que era un programa para el embarazo adolescente, donde no están dando los medicamentos a los adultos mayores.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cerraron el instituto del cáncer.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que es una familia que hoy es víctima del terrorismo de Javier Milei.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2585
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.81,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Dos conocidos cristinistas insultaron, amenazaron e intentaron golpear al fiscal Diego Luciani",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Abelenda, sentada junto a Artemio López, denostó al fiscal, diciendo que le daba ganas de vomitar al verlo, que le daba asco.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los talibanes de Cristina vienen creando un clima de hostigamiento muy propicio para que ocurran este tipo de cosas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un juez que no merece llamarse ni ser juez, como Juan Ramos Padilla, comparó con fotos al tribunal que condenó a la delincuente Cristina con la Junta Militar Terrorista de Estado encabezada por Jorge Videla.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si algo malo le sucede a los jueces o a los fiscales, los responsables serán los Fernández, Cristina, Alberto y Aníbal.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dan ganas de vomitar por el colosal enriquecimiento ilícito y legal de Cristina, de su familia, de sus amigos y testaferros, los funcionarios y hasta los secretarios privados de Néstor y Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, hoy todos somos Luciani, porque encarna los valores de independencia de los poderes que no tienen camiseta partidaria.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy todos somos Luciani, no a la violencia callejera y musoliniana.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por el contrario, el fiscal Diego Luciani entró en la historia grande de este país, ingresó por la vereda del sol, porque dignificó su trabajo y nos hizo recuperar la esperanza en una justicia digna e independiente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el fiscal Luciani, con su \"nunca más\" a la mega corrupción de Estado y al enriquecimiento ilícito mafioso, despejó el camino para que los funcionarios de ahora gobiernen con la ética de la honestidad.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2500
+}

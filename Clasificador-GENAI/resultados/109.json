@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico_sola",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Uno se pregunta, como siempre solemos formularla, la pregunta: ¿dónde se está parando hoy el peronismo para construir esa resistencia a lo que pareciera ser una ola conservadora de derecha que amenaza con llevarnos puesto y llevar puesto buena parte de los derechos conquistados?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, hay dos cosas que me parece que hay que tener en cuenta, Mauro. Una es que en el peronismo ha habido y sigue habiendo una cuota de responsabilidad por la situación en la que se llegó a la elección del año 2023, ¿no?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, yo creo que esa sensación de debilidad frente al pasado, ante una situación tan nueva como es el gobierno de Javier Milei, generó dos actitudes: una fue la resistencia, en la que yo destaco el grupo del bloque de diputados nacionales peronistas, que, si bien no llegan a tener quórum y por eso no pueden lograr lo que quieren en la Cámara, se mantuvieron bastante unidos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me refiero a los gobernadores de Catamarca y Tucumán especialmente, y a veces algunos otros; es decir, que hicieron del Congreso un mercado persa y permitieron que eso ocurriera.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es que esos no son quilombos, esos son \"quilombitos\" con \"q\" minúscula.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya tenemos que importar energía. Hay un fracaso absoluto de la política energética de Javier Milei.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora pretenden una legislación laboral, la vieja legislación laboral, que va a crear más empleos. Y no se va a crear más empleo, ni más inversión, ni rentabilidad sustentable para el que lo haga.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, no se habla de eso, pero tampoco se habla de que este es un país sin inversión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación es grave. Primero, si no tenemos una fuerte lluvia ahora, en enero, en la zona núcleo, está muy en riesgo el rendimiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Milei ha dicho que va a bajar las retenciones, no va a bajar las retenciones. Bueno, que piense que invente algo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5052
+}

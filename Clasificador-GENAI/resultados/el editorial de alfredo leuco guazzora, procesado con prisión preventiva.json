@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La justicia procesó con prisión preventiva al periodista kirchnerista Ezequiel Guazzora.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está acusado con pruebas contundentes de abuso sexual con acceso carnal y corrupción de menores.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como en todos los temas, el aparato cristinista solo defiende determinados valores, y quien los viola es opositor.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Siempre hay que denunciar la violencia contra las mujeres, sin importar qué camiseta política tenga el victimario.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Guazzora es tan descontrolado y, por lo tanto, tan peligroso, que hizo editoriales donde insultó duramente al propio Alberto Fernández porque no le contestaba los mensajes o porque no le ponía pauta publicitaria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Casi todos los periodistas independientes, la mayoría de Radio Mitre y La Nación Más, hemos padecido los escraches agresivos y feroces de este salvaje irracional.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son todos marginales que el kirchnerismo suele usar para meter miedo a sus enemigos y que luego les suelta la mano y los abandona a su suerte.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por suerte fue un fracaso electoral.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ezequiel Guazzora está preso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un ejemplo de todo lo que le hace mal a la juventud y a la Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2789
+}

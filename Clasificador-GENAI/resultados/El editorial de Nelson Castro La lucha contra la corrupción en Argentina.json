@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.59,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La Cámara de Diputados acaba de aprobar una ley relacionada con la responsabilidad empresarial en casos de corrupción.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Argentina no tiene hoy ese perfil de jueces que tiene Brasil.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una vergüenza que Menem vaya a ser candidato en La Rioja, lo cual demuestra la Argentina del \"vale todo\".",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema del dólar hoy es producto de la incertidumbre política que produce la candidatura de Cristina Fernández de Kirchner y el resultado de no saber qué va a pasar.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, la Argentina, con la candidatura de Cristina Fernández de Kirchner, ha entrado en un cono de incertidumbre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1532
+}

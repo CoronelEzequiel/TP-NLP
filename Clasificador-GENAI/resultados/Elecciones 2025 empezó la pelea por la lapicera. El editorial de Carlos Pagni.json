@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En un campo, si hubiera que sintetizar mucho, **Javier Milei** y **Mauricio Macri**.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el otro campo, una disputa novedosa que hay que saber interpretar, que hay que mirar en su evolución: **Cristina Fernández de Kirchner** y **Axel Kicillof**.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está demostrando que puede no tener conocimiento del Estado, puede no tener conocimiento de las leyes partidarias, puede no conocer el oficio de la estructura de la burocracia política, pero entiende el poder.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri parece tener una línea trazada en ese campo, en ese sentido. ¿Cuál es? Voy a adherir al gobierno de Milei de manera irrestricta en lo económico.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, en su momento cuando era oposición, era una gran defensora del arbitrio del Congreso.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8798
+}

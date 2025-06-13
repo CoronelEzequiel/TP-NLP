@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_dnu",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ese DNU es un Frankenstein de negocios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo que dice el DNU básicamente es que te quedaste sin derechos laborales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este decreto básicamente es un plan de negocios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nadie votó entregarle el país a los 15 o 20 empresarios vivos que escribieron un DNU, cada uno una partecita para hacer un negocio.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2359
+}

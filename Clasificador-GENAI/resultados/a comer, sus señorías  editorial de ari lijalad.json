@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.19,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Las organizaciones sociales denunciaron la falta de reparto de alimentos, a lo que se sumó la información que revelamos: la existencia de más de cinco millones de kilos de comida guardada, próxima a vencerse, un hecho desconocido para la justicia y las organizaciones sociales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes plantean un nuevo paradigma sin intermediarios, se convierten en intermediarios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Dra. Ciani habla de “militantes del hambre”. ¿Se refiere a los militantes durante sus períodos como funcionaria de los gobiernos de Alberto Fernández, Macri o ahora de la Libertad Avanza? Yo he combatido el hambre toda mi vida.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se distribuyó solo el 10% de la comida a una fundación financiada por las mismas empresas que producen los alimentos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno le entrega el 10% de la comida a punto de vencerse a un amigo financiado por las empresas que producen esos alimentos, a un precio que millones de familias no pueden pagar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1975
+}

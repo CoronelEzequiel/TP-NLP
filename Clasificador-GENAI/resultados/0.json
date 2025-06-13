@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.864,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Consideramos que, al igual que a Jesucristo se le colocó un cartel sobre la cruz (INRI), burlándose de él como el \"rey de los judíos\", al liberalismo, y en este caso a un prócer liberal, se le impuso el cartel de la hiperinflación con un billete de 20.000 pesos, que obviamente no vale nada.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, el hijo de conocidos lo mandó a fabricar directamente a China, ¿no? Pareciera que para eso sí son \"comunistas\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno lo piensa bien, para los requerimientos nacionales este billete no sirve.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como usted sabe, en uno de los medios de comunicación más importantes de Argentina, [Nombre del medio], se presenta al liberalismo como un fantoche, un conservador de la década infame de 1930, con un modelo extractivista que está perjudicando a Argentina, enviando nuestros recursos naturales a Estados Unidos, Gran Bretaña e Israel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vemos que los jubilados son reprimidos en su lucha por una jubilación digna, los estudiantes no reciben un presupuesto educativo adecuado en las universidades, los gremios son reprimidos…",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una persona con 42 años de militancia en el liberalismo y, bueno, nos dimos cuenta a tiempo y nos separamos de este personaje nefasto, que realmente usurpa y es un farsante, que nada tiene que ver con las ideas de Juan Bautista Alberti.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Conozco bien a Donald Trump; es un patriota, un nacionalista con políticas proteccionistas para sus recursos, y no tiene nada que ver con [Nombre de la persona].",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1707
+}

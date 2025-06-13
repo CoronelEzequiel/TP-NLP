@@ -1,0 +1,81 @@
+{
+  "texto_id": "¿Que hace Kicillof aqui?",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.086,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Yo a veces me pregunto si estas teorías económicas, estas ideologías, no parten también del absoluto desconocimiento, de la genialidad, de la falta de empatía, porque si vos vas ahí no podés sostener \"voy a cortar las obras, no va a haber una escuela más\", porque está dejando a muchísima gente, realmente a muchísimas familias que no tienen otra alternativa, porque no es que agarren la pala, la agarran mil veces más que los Milei, los Marra y todos esos juntos, pero lo que pasa es que no tienen ingresos, porque venimos a hacer, como en todo el planeta, digamos con la particularidad de cada lugar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre decimos iniciar las clases, para nosotros respetar todo el calendario, que no haya problemas que lleven a que las clases se suspendan en general.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decía, bueno, \"a vos no te cortan las clases porque tenés vínculo con tal dirigente sindical\", o no, y yo digo, \"prueben con no bajarle el sueldo a los docentes si quieren que haya clases\", no digo subirlo ni siquiera, pero por lo menos no bajarlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de eso, trascendió que en una reunión de gabinete Milei dijo \"a los gobernadores no les voy a dar un peso, los voy a fundir\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo le pediría que explique lo siguiente, corta el fondo de incentivo docente, después de que se le cae la ley ómnibus.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y vos fijate que hay un factor común entre Vidal, Macri y Milei.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como resultado de esto, al poquito tiempo interrumpe un fondo, que es este fondo de incentivo docente y el fondo de transporte, el compensador del transporte para el interior, que es el interior y nosotros somos parte del interior también, la provincia de Buenos Aires no es la capital, o sea que es el interior, así que también para la provincia de Buenos Aires, corta esos fondos para el boleto colectivo diciendo \"voy a fundir a los gobernadores en venganza\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo decía \"boleto mil\", sale mil. ¿Y cómo hacen, cómo es para afrontar esto? Porque el panorama y lo que viene no es mejor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no privatizando todo, porque ese es el otro problema.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La otra día estábamos en San Martín, arreglando una escuela.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no privatizando todo, porque ese es el otro problema.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La otra día estábamos en San Martín, arreglando una escuela.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros tenemos inauguradas, con la de hoy, 211 nuevas escuelas, nunca tampoco.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y yo digo, ¿cuál es el efecto real del monopolio y de la concentración acá en la Argentina?, que para productos muy importantes para la vida de todos nosotros, productos de limpieza, productos de aseo personal, alimentos, en casi todos los rubros de alimentos, panificados, este, galletitas, pero leche, lácteos, hay muy pocos productores, entonces todo el mundo sabe que cuando alguien tiene un poder monopólico, lo que puede hacer es cobrar más caro, porque como regula cantidad y precio, no es que hay competencia, entonces, aunque venda menos, compensa, o intenta compensar subiendo el precio, lo menos que vende, en el medio se queda un montón de gente afuera y sin consumir cosas básicas, eso es lo que está pasando, él dice, bueno, y tiene, generan adelantos tecnológicos, no, Milei, acá son empresas transnacionales que para la Argentina, bueno, tienen los productos, la materia prima muy abundante y después, por manejar el mercado, pueden fijar precios, no es una guerra contra eso, en todos los lugares del mundo hay regulación, hasta en Europa para las ganancias que tienen los canales de comercialización, podemos decir un montón de ejemplos, o sea, todos han vivido equivocados, el mundo está todo equivocado, incluso los ejemplos que señala, porque no aplica la teoría de Milei, que no se aplicó nunca en ningún lado y que no sostiene prácticamente nadie, entonces, puede ser que haya tenido una epifanía o un contacto, y no lo burlo, porque él dice, él habla, él habla, hoy salió otro, me dice, sí, sí, que tiene contacto con un perro muerto, sin burlarme de esto, porque si no parece que uno quiere chicanear, no es chicanear, es grave, es serio, es complejo, que esto esté pasando, porque si no, no podemos tener discusiones normales, de puntos de vista, todos los que no piensan exactamente como él, están terriblemente equivocados y a veces pasa la agresión.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 9809
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "JuegoTres",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.272,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me parece que la unidad era imprescindible. Sin la unidad, que históricamente ha sido un problema, ¿no? Cada vez que el peronismo se dividió, sobrevino la tragedia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las fuerzas liberales o conservadoras, como queramos denominarlas, en general siempre tienen un techo muy concreto y pueden obtener triunfos si hay una división de esa fuerza política que en Argentina es mayoritaria, como lo ha sido históricamente el peronismo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que, bueno, Sergio Massa… desde hace meses se hablaba de la posibilidad de la candidatura de Sergio Massa, obviamente atravesado por una coyuntura muy compleja, un momento en el que le tocó asumir el Ministerio de Economía y, bueno, todas las dificultades que ha tenido que enfrentar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí, lo que hizo es completamente reivindicable porque, en un momento, como decíamos antes, quizás de confusión o de contradicción dentro de un frente que ha tenido claramente dificultades para funcionar, él dio un paso al frente y dijo: \"Acá estoy\".",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, a ver, formamos parte de un frente y la necesidad era consolidarlo, garantizar la unidad y también reconocer en qué etapa estamos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin duda, si hay una razón por la cual nosotros tenemos que votar la fórmula de Sergio Massa, Agustín Rossi, Aníbal Fernández y obviamente de Axel Kicillof y Verónica Magario acá en la Provincia, es porque hay una decisión de que el Estado esté presente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las otras alternativas lo que nos dicen es que el problema es el Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay ninguna campaña del miedo. Acá hay una cuestión muy concreta que ha ocurrido en la Argentina entre 2015 y 2019, que nos retrotrajo también a situaciones muy penosas que había padecido o que había tenido que soportar nuestro pueblo en el pasado más lejano y que creo que tiene que ser el eje de la discusión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y cuando yo veo que agitan el inicio de la campaña del miedo… no hay ninguna campaña del miedo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3816
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_ley_laboral",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer se aprobó una ley que, en mi opinión, beneficia a los empresarios que realizan trabajo en negro en detrimento de los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación es aún peor para los empleados de estos empresarios. Si sus aportes previsionales no se han realizado correctamente debido a la informalidad, perderán años de aportes y tendrán dificultades para jubilarse.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este tipo de medidas, aprobadas por una coalición de la derecha argentina (Libertad Avanza, PRO y radicalismo), promueven la evasión y perjudican a los trabajadores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considero que esta ley va camino al fracaso y demuestra que estas fuerzas políticas priorizan el beneficio empresarial por sobre el bienestar de la población.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La legalización, o mejor dicho, la despenalización de la evasión, es inaceptable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1147
+}

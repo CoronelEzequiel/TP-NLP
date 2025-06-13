@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_gas",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.443,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La falta de gas en las estaciones de servicio y en las fábricas constituye un caso de mala praxis, esa es la pregunta.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los problemas de gas que se estuvieron viendo estos días tienen que ver con una mala gestión del gobierno, que se basó básicamente en dos cuestiones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Toda obra que carezca de urgencia será, en tal caso, suspendida su ejecución o su proceso de licitación, o se va a rever el estado en el que esté.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con el actual gobierno, al problema de funcionarios que tampoco funcionan porque no saben o no entienden, se le ha sumado uno infinitamente más grave, el de las ideas que no funcionan, con boletal en materia de gestión estatal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez no es tan evidente como una invasión de osos, pero, si se lo analiza un poco, tiene cierta fuerza el argumento de que para que las inversiones que no representan una ganancia inmediata, y que hacen al mejoramiento de la infraestructura de todo el país, el rol del Estado es clave.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bien por Francos, su buena práctica política, veremos si la ley de bases en sí misma, con todas las aclaraciones y correcciones, traerá más problemas de los que resolverá.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cabe preguntarse cuánto hay de ideología narcocapitalista y cuánto de mala práctica en temas como las prepagas, el accidente del tren de San Martín, o la falta de gas el día de ayer.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4953
+}

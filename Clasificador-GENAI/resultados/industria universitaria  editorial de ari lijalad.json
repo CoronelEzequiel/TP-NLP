@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.108,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Voy a hablar sobre la movilización de mañana, 23 de abril, en defensa de la universidad pública, gratuita y de calidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El desfinanciamiento universitario, que mostraré con datos, está vaciando una industria crucial para Argentina: la industria universitaria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto refleja una decisión política de desfinanciar una industria tan importante.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El desfinanciamiento universitario es paralelo al desfinanciamiento de otras industrias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, mañana, 23 de abril, debemos movilizarnos, cada uno con un libro, en cada ciudad, en defensa de la universidad pública, gratuita y de calidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Sociedad Rural Argentina, las prepagas y las grandes empresas también deberían participar, ya que dependen de los profesionales formados en la universidad pública.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1776
+}

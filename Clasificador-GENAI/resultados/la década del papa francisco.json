@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me preocupa que el Papa Francisco, a diez años de su consagración como sumo pontífice, haya tardíamente criticado al gobierno de Nicaragua, calificándolo de dictadura.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Resulta insólito que algunos de sus allegados en Argentina sean personas impresentables, corruptas y mafiosas.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se podría conjeturar que la formación juvenil del Papa en el peronismo de izquierda de los años setenta influye en su inclinación por el populismo, explicando su apoyo al clientelismo y su simpatía por dictaduras como la de Venezuela.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Resulta inaceptable que el máximo pontífice haya bendecido a personajes nefastos como Milagros Sala, Hebe de Bonafini y varios sindicalistas mafiosos, incluyendo a un ex convicto, cuyo despacho estaba decorado con fotos, bendiciones y rosarios del Papa Francisco.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández presentó a Hugo Moyano, su padre, como ejemplo de sindicalista, colocándolo entre lo peor de la Argentina: lo corrupto, autoritario y antidemocrático.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La insistencia del Papa en bendecir a Pablo Moyano es motivo de profunda preocupación.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1956
+}

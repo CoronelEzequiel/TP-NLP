@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno se tiene que ir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sacar a este presidente como corresponde, legalmente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha argentina está derrotada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dura derrota para la oposición golpista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta gente eternamente subestimada sigue ganando batallas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno básicamente, los hermanos Milei, Franco rosqueando, Adorni hablando, Bullrich domando y Caputo bajando la inflación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y aún así les ganan a los K.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No será el momento de que la oposición, esta violenta, bruta, tosca, inculta, ignorante, torpe y ordinaria que tenemos, deje de subestimar un poquito a este grupito de locos que se hizo igual de poder hace un año y tres meses?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia social es que la comunidad es aquello que ordena las aspiraciones de un hombre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Camino por el conurbano y es Vietnam.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3567
+}

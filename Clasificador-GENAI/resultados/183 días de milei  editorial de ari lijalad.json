@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Han transcurrido 183 días, y cada uno de ellos ha estado marcado por recortes de derechos y decisiones crueles por parte de este gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque se repiten las mismas políticas que aplicaron otros gobiernos de derecha en Argentina, pero a una velocidad inusitada, llevando al país hacia una situación muy grave si esta tendencia persiste.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto que está haciendo Milei no es por impericia, sino intencional. Es una transferencia brutal de recursos de los trabajadores hacia el capital, planificada en estudios jurídicos y contables de grandes empresas, y que Milei firma.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, 183 días de un gobierno donde nada es un error. Todo está planificado y diseñado, con la asesoría de personas como Federico Sturzenegger, que no siendo funcionarios, toman decisiones de Estado.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1963
+}

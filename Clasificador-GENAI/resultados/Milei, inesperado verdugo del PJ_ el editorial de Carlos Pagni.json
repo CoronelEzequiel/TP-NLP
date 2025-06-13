@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Una de las funciones de la política, sobre todo cuando la política está en campaña, cuando hablamos de candidatos, de equipos de campaña, de estrategias para alcanzar el poder, es definir correctamente al rival y, en todo caso, ejercer algún tipo de operación de manipulación sobre el escenario para que quede destacado aquel que a cada uno le conviene que quede destacado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este gobierno, pero dentro de este gobierno una figura principal, Sergio Massa, se encargó de potenciar, de proveerle recursos de todo tipo y también candidatos...Massa se encargó de potenciar a Milei. ¿Con qué idea, con qué hipótesis? Con la idea, aparentemente razonable, de que Milei, un candidato que defiende el mercado, un candidato que defiende la competencia, un candidato ultracapitalista, le iba a restar votos a Juntos por el Cambio.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa, a quien el macrismo con todo acierto llamaba \"ventajita\", escucha ese mensaje y trata de capturarlo para él.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los políticos dejaron el terreno libre en los barrios populares, en las villas. Los políticos de partidos tradicionales se olvidaron de nosotros, se olvidaron de la agenda de los pobres y ahí creció Milei.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso, es un trabajo que realizó con otro experto del instituto de ese centro, que es Gonzalo Elizalde. ¿Y qué estudian? Estudian el comportamiento del voto en el Conurbano Bonaerense en las últimas primarias. ¿Cómo lo estudian? Correlacionando cantidad de votos en este eje, 10%, 20%, 30% hasta 60% de la elección y niveles de pobreza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8948
+}

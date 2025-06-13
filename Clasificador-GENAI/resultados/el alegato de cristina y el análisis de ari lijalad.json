@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.114,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "No quieren cambiar la Corte porque no les gusta; quieren cambiarla porque esta Corte representa intereses económicos que no coinciden con los del pueblo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si lo ponemos en contexto, lo que hoy se califica como lawfare y persecución judicial contra Cristina, y que tiene su punto máximo en el pedido de condena a 12 años (el primer pedido de condena en un juicio oral contra ella), comenzó justo cuando, durante su gobierno, los trabajadores alcanzaron el 51% de participación en el ingreso nacional.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner dirigió un mensaje a la fiscalía y a los jueces, no permitiendo que sean los árboles que ocultan el bosque, es decir, el sistema judicial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina hizo una fuerte comparación entre el trato a un presidente peronista y uno no peronista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Argentina no puede avanzar con esta justicia, con este poder judicial, con esta impunidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina denunció las mentiras de los fiscales Luciani y Mola, y las arbitrariedades cometidas en el juicio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este juicio es la \"frutilla del postre\" de 10 años de ataques judiciales contra ella.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2505
+}

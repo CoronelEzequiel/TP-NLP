@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El Congreso debate sobre Vicentin, entre otras cosas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Podríamos declarar de interés público la pandemia de COVID-19 en Argentina y reunirnos —en la cancha de River o Boca, en el campo, virtualmente— para pensar cómo \"expropiar\" a esta peste y recuperar la soberanía sanitaria?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que juntos (incluyendo a los enfermeros, a quienes tuvieron COVID-19 y a los familiares de quienes murieron por COVID-19) podemos vencer a este virus.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como dicen los Vines, ¡todos juntos!",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1644
+}

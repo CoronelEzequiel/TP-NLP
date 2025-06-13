@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_aerolineas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En los últimos días, medios de comunicación ejercen un fuerte lobby para la privatización de Aerolíneas Argentinas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se argumenta que no existen privatizaciones buenas o malas; al priorizar la rentabilidad, las empresas privadas pueden descuidar el servicio público.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se cuestiona el supuesto privilegio salarial de los empleados de Aerolíneas Argentinas, citando los salarios de los pilotos (con un promedio de 5.200.000 pesos y algunos casos de 10.000.000 pesos mensuales).",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se analiza el impacto económico de Aerolíneas Argentinas, destacando su rol en el transporte de carga industrial, el turismo, los negocios y la conectividad en un país extenso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se advierte sobre la manipulación mediática y se llama a la memoria colectiva para evitar la repetición de errores del pasado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1694
+}

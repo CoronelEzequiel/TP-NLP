@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Elisa Carrió es un emblema de la honradez, la transparencia y la valentía para luchar contra la corrupción.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sala, en cambio, es una piquetera autoritaria, violenta y corrupta que está condenada por la justicia, incluso con sentencia firme de la Corte Suprema de Justicia.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La intervención en Jujuy es un delirio que solo podrá concretarse si el gobierno decide avanzar hacia un chavismo que se lleve por delante las instituciones republicanas y la Constitución Nacional.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Grabois apela a cualquier trampa para liberar a su compañera Milagro Sala.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los expedientes judiciales muestran otra cosa, muestran a las claras los niveles asombrosos de abusos de poder, corrupción de Estado y maltrato a mujeres, chicos y jubilados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue todo lo contrario.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2165
+}

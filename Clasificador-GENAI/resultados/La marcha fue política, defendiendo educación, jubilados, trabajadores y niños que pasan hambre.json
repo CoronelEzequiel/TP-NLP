@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Tenía razón Javier Milei, la marcha de ayer fue política; expresó no solo la preocupación de más de un millón de argentinos por la situación educativa, sino también sumó el descontento de muchos sectores de la sociedad con la gestión del gobierno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La presencia de la CGT, de políticos de centro progresista como Horacio Rodríguez Larreta o de Lilita Carrió, junto con los partidos de izquierda, con el kirchnerismo, revela una suerte de dos tercios simbólicos de la representatividad política en las calles.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para nuestro país, la movilidad social ascendente que se genera gracias al acceso a la educación superior gratuita es parte del ADN como sociedad; es un valor de los que están a favor todos los argentinos, o la gran mayoría enorme mayoría de ellos, representados por la centro-derecha e inclusive la derecha y pasando por los peronistas hasta la extrema izquierda.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4637
+}

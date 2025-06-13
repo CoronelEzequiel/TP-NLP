@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.737,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me gustó el abrazo con Mauricio Macri, pero, la verdad, tengo un problema.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto que yo estoy en la vereda de enfrente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto que soy un gorila, un fascista, una porquería de ser humano que en este momento no cotiza en bolsa, pero al menos me queda la dignidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y si están en un sindicato es porque tienen trabajo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros no queremos un buen actor, queremos un buen político.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repito, yo a Alberto Fernández lo apoyo tres meses, cuatro; si veo que empiezan a pasar cosas malas en cuatro años, tampoco me voy a hacer el loco como hacían ellos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O sea, que si esa es la cultura que nos traen… después tenemos unas imágenes más de la plaza, pero sinceramente, yo creo que es una fiesta popular cuando vamos todos, no cuando va esa gente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que seguimos siendo una republiqueta bananera.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3015
+}

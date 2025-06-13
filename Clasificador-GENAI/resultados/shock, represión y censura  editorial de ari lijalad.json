@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_balotaje",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.27,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El mensaje fue: \"Se necesita un shock\". Esa frase, pronunciada ante quienes manejan gran parte de la economía del país, anticipa lo que Milei viene anunciando: hiperinflación y dolarización a cualquier costo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin ajuste, no podemos ni empezar.  Este país gasta más de lo que ingresa y estamos rozando el default. No hay otra alternativa.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado maneja las fuerzas de seguridad.  Tendrá que usar esas herramientas para imponer el orden si es necesario.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quieren volver a usar las fuerzas armadas contra la población. Villarruel basa gran parte de su discurso público en la necesidad de militares no condenados para que obedezcan sin temor a represalias.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La violencia no es un fin en sí mismo; es un medio para obtener ganancias, como en la última dictadura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1688
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Sociedad_Rural",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La Sociedad Rural, fundada en 1866, siempre tuvo mucha influencia en todos los gobiernos del siglo XX, excepto en algunos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Rural sacaba una solicitada diciendo que era parte del golpe, que lo apoyaba y que además había que achicar al Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri le entregó el Ministerio de Agricultura al presidente de la Rural, Etchevehere, ¿de acuerdo?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich dice directamente retenciones cero desde el primer día y una ley anti retenciones, etc.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, este gobierno solamente desde el Banco Nación le ha prestado al campo para su desarrollo 895.000 millones de pesos en tres años.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2425
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Macri mejoró, para muchos, notoriamente respecto de sí mismo en el debate anterior. Se lo vio más contundente, más seguro de sí mismo, más convencido y hasta desafiante",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández, en esta ocasión, cometió algunos errores importantes, que fueron menos errores porque sus rivales no lo supieron aprovechar del todo. Probablemente el más inquietante, el más llamativo, fue que reconociera la corrupción del gobierno de quien es su candidata a vicepresidenta.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es evidente que la cuestión económico-social va a ser, y es, la cuestión central de un eventual gobierno de Fernández.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si uno indaga cuál es el principal reproche que se le realiza al ajuste de Macri, ese reproche empieza por el manejo de las tarifas energéticas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizá no es la grieta que divide a la sociedad argentina por lo político, ético, institucional, sino una grieta que tiene que ver con, si lo vemos, leo, un poco dramáticamente, o con un término un poco anticuado, lucha de clases, antipobrismo, conflicto social, intolerancia al que reclama porque la está pasando pésimo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5672
+}

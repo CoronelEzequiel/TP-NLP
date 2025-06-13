@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_24_marzo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.267,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Simultáneamente, el gobierno de Javier Milei publicó un video en el que, a diferencia de los gobiernos de Néstor Kirchner y Cristina Fernández de Kirchner, que asumieron la defensa de los derechos humanos y la memoria, verdad y justicia frente al terrorismo de Estado, se propone una \"historia completa\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No creo que el 56% de la población argentina apruebe los secuestros, las torturas, el robo de bebés o las violaciones en centros clandestinos de detención.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sé que esto puede resultar provocador, pero considero que debemos darle la bienvenida a esta discusión por la \"historia completa\", por varias razones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero una historia completa que rompa los pactos de silencio, que entregue las listas de los desaparecidos y de los bebés robados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este hecho, ocurrido en 1979 y juzgado en ese entonces, fue condenado por el PRT, que asumió su responsabilidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yofre, hermano de un genocida, autor de libros basados en archivos robados de la CIDE y del Batallón 601,  ¿no tiene las listas que Videla menciona?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1939
+}

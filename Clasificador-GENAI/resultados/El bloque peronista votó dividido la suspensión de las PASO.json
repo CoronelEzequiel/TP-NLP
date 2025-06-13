@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Porque el bloque peronista votó dividido la suspensión de las PASO y la conducción de Cristina Fernández de Kirchner como presidenta del PJ, que brilló por su ausencia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, no hay contenido en el planteo, no hay un programa; es un peronismo sin agenda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Significa que los zorros no estén más en la política, básicamente es eso.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La crisis actual no tiene programas contrapuestos, tiene nociones, estilos, matices. Parece, por momentos, una batalla estética más que política, y por otros momentos solo se puede ver una aburrida e interminable pelea por cargos, la llamada \"pelea por la lapicera\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y aquí es interesante la jugada de Cristina, y muy probablemente, como nos tiene acostumbrados, es inteligente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"El 45% solo vota al peronismo porque los otros son peores.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tal vez esta impronta menemista de Milei y su carácter decisionista como presidente lo hagan ver también como un líder fuerte, algo clásico del votante peronista anclado en los sectores populares, lo que siempre buscaron.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5406
+}

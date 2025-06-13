@@ -1,0 +1,36 @@
+{
+  "texto_id": "Leopoldo_Morong_y_Fernando_Carbajal",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, la verdad que fue una gran sorpresa porque el nivel de impudicia con que el gobierno exhibió sus problemas internos realmente es preocupante, ¿no?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo que hay que poner blanco sobre negro es la inaceptable actitud del presidente de la Cámara, que al igual que el presidente de la Nación, permanentemente está abusando del cargo y perforando los límites, o tratando de perforar los límites que impone la Constitución y el Reglamento y atribuirse facultades que no le corresponden",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo en lo personal, y siento en esto inclusive, y siento con el bloque de Unión por la Patria y con mi propio bloque, yo creo que la Comisión de Juicio Político debería estar en manos de la oposición porque es fundamentalmente un organismo de control constitucional y me parece razonable que sea la oposición quien lo tenga.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que sin duda, y bueno, en el caso del presidente esto es directamente un discurso explícito, a él no le gusta la democracia, no le gusta el sistema de derecho y le molesta el Congreso de la Nación y nos odia a los radicales y nos desprecia porque nosotros somos la expresión de la democracia y la república porque es lo que, el gran mérito que hemos tenido allá en principio del siglo fue justamente incorporar estos valores como un valor no discutido y la figura de Raúl Alfonsín que tanto le molesta no es por la hiperinflación que él parece que le gusta la hiperinflación pues la vive invocando, le molesta porque Alfonsín es la expresión de la democracia, la república y el Estado de Derecho y él es un autoritario que tiene una concepción que está en las antípodas de nuestro pensamiento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Preocupa mucho, nosotros ya estábamos a punto de presentar la denuncia penal porque el presidente de la cámara, y yo lo dije en sesión, incumplió el delito de incumplimiento de los deberes de funcionario público y luego negó durante más de dos meses constituir la comisión bicameral de DNU.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3222
+}

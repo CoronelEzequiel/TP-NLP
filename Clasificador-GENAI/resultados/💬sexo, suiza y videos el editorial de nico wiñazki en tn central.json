@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El video que confirmó que en la Quinta de Olivos se celebró al menos un cumpleaños generó consecuencias judiciales para el Presidente de la República.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No debería Argentina aspirar a ser Suiza, trabajando para lograrlo?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo esto se completa con la frase de la pre candidata a Diputada Nacional por la Provincia de Buenos Aires, Victoria Tolosa Paz, casada con Enrique Albistur. ",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nosotros, desde el Frente de Todos, vinimos para hacer posible la felicidad de un pueblo y la grandeza de una patria, y no hay felicidad de un pueblo sin garchar",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un problema con el oficialismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero más allá de la singularidad y el delirio, una pre candidata nos dice que se va a meter con nuestros coitos, o nos los está prometiendo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto demuestra que hay tensiones dentro de la coalición de gobierno que generan una campaña penosa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1724
+}

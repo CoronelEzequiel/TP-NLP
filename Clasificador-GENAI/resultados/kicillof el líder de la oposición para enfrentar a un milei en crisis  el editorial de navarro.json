@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei_kicillof",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.21,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Milei se fue en un viaje personal, pagado con fondos del Estado, y envolvió al país en un nuevo escándalo internacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, a su llegada, ya se vio una caída en la venta de leche del 20% y una caída en la venta de pan del 45%. Una situación dramática, absolutamente innecesaria, generada, es miseria planificada.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En parte, porque no hay, o no había hasta ahora, un claro líder opositor que se muestre como alternativa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, en eso se convirtió, o si quieren, empieza a convertirse Axel Kicillof, con lo que hizo esta semana.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante que entiendan que la sociedad necesita de un tipo como Axel Kicillof.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2269
+}

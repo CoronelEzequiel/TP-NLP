@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_nisman",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este es el primer dato: la oficina del presidente conmemora el legado del fiscal Nisman, un incansable defensor de la justicia cuyo compromiso por esclarecer la causa AMIA e impartir justicia a las víctimas y familiares del atentado de la AMIA sigue siendo un ejemplo para los argentinos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, es importante destacar que Nisman estuvo diez años al frente de una unidad con presupuesto y personal sin precedentes, sin aportar un solo dato relevante para esclarecer el atentado a la AMIA.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo se explica que, descontentos con esta pericia que descartaba el homicidio, se realizara otra con la Gendarmería, liderada por Patricia Bullrich, tal como anticipó Clarín?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recuerden que son imputados, no culpables probados, y los únicos imputados, ya que el Poder Judicial Argentino no investigó otras pistas, como la pista siria.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Les interesaba a los fondos buitre la verdad sobre la AMIA? No. Su interés era perjudicar al gobierno de Cristina, demonizándola y financiando campañas para que perdiera las elecciones y el nuevo gobierno les pagara lo que exigían.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La operación Nisman fue parte de una estrategia para imponer políticas económicas de austeridad, y lo lograron.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2016
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuando Hugo Moyano piensa en un futuro gobierno que él desea sea del kirchnerismo, es decir, que ganen Alberto Fernández y Cristina Fernández de Kirchner, dice que él va a pedir una sola repartición: el ministerio de la venganza.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, desde sectores que no pueden sino ser oficialistas, aparecen escuchas que tienen que ver con presos del kirchnerismo, que están con prisiones preventivas en la cárcel de Ezeiza, y son escuchas clandestinas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una correlación directa en todas las encuestas entre tipo de cambio, estabilidad del peso y estabilidad de Macri.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si yo fuera Cristina Fernández de Kirchner, alentaría la candidatura de Lavagna, no llego a la idiotez de decir que la financiaría, porque seguramente él no se dejaría financiar por el kirchnerismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5564
+}

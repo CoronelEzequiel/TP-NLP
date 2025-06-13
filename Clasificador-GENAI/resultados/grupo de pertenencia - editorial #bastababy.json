@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.829,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Ahora Firmenich viaja a… ¿Nicaragua? A asesorar al asesino Ortega.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Deberían haber fusilado a Firmenich en el acto, por andar con un FAL al hombro, secuestrando y matando gente.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿De dónde salió tanta gente que se droga, y si se cruzan tres mujeres desnudas mostrando todo sin depilar, dicen “queremos la droga, sexo gratis, entre nosotras somos compañeras”?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son estúpidos que creen que un presidente les da la libertad de ser lesbianas, cuando en realidad las lesbianas no necesitan que ningún presidente las autorice.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo es ese club del barrio donde entra cualquiera, con hemorroides, no les preocupa, el tema es llenar el club.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dentro del kirchnerismo que rodea a Cristina están los que la siguen, pero creen que con eso ya ganaron el cielo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Te miran por encima del hombro, y si pensás diferente, sos un fascista, gorila, hijo de puta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2392
+}

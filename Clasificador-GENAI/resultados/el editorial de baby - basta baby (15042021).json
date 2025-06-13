@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.787,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Usted marcó otro hito en su carrera: empezó a ser antipático, porque hasta ahora era el pobre Alberto, manejado por Cristina.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto, usted es presidente, pero lo peor que hizo ayer, y creo que lo que más indignó al pueblo, además de encerrarnos en un campo de concentración –esta noche, gracias a usted, había 200 personas por boliche en Palermo tomando cerveza y emborrachándose porque era la última noche que los dejaban salir; o sea, que esta noche se contagian todos masivamente–, fue decir que los chicos con capacidades diferentes no entienden.",
+      "score": 0.88,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los chicos con capacidades diferentes son seres que jamás se robarían seis millones de dólares y los guardarían en una caja fuerte de un banco, y mucho menos un PBI completo; y mucho menos saldrían a mentir diciendo que los encierran para hacerles bien, porque no tienen la maldad que usted tiene, Alberto; la que tiene su jefa; la que ahora estamos descubriendo en Kicillof.",
+      "score": 0.92,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Decirles a los médicos… Mire, le va a pasar lo que le pasó hoy a una doctora que, con un cólico, con el brazo conectado a un suero, una enfermera atendía con el doctor Pereira en el hospital de San Isidro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Raro que no los mandó a reprimir con la Gendarmería!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como ciudadano, considero que usted es el peor presidente de la historia argentina; y como ciudadano, considero que los que están a su alrededor, en muchos casos, son corruptos y nos robaron el país; y que no son ni los chicos de los colegios, ni los chicos con capacidades diferentes, ni los médicos los que se relajaron.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso le digo, mi querido Alberto: no somos tontos, no estamos gobernados por idiotas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se le acabaron los tiempos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gobierne los dos años y medio que le faltan, pero no hable más, no ofenda más a los médicos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aplaudo de pie a los médicos, porque un médico gana mucho menos que una de esas personas con conchavos o esos inútiles que hay dentro del Congreso como asesores, y a los que están sentados allí, y a los que están en los observatorios, y que no pararon de trabajar un año y medio, y muchos se han muerto trabajando: enfermeras, médicos, mucamas, por dos pesos con cincuenta.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso le digo, Alberto: me parece que usted se confunde.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A nosotros no nos dé órdenes, a nosotros dénos soluciones, que no las tiene.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3043
+}

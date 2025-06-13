@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.142,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El momento de mayor tensión se produjo cuando el presidente denunció una conspiración entre medios de comunicación, espías y opositores, que culminó con la condena de Cristina Fernández de Kirchner en una causa considerada armada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación provocó una fuerte reacción de la oposición, que acusó a sus miembros de ser \"títeres\" de intereses ocultos, los \"verdaderos dueños\" de Argentina.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como señaló Mariano Beldi, el Poder Legislativo, con casi 30 proyectos de ley en sesiones extraordinarias, solo aprobó dos; entre ellos, una importante moratoria previsional, virtualmente bloqueada por la oposición, que rechaza las iniciativas del Ejecutivo, especialmente las relacionadas con el Poder Judicial.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Alberto Fernández fue contundente en su apoyo a Cristina Fernández de Kirchner, denunciando una \"triple entente\" entre jueces, empresarios y opositores para condenarla en un juicio \"trucho\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A pesar del tiempo transcurrido, la investigación permanece estancada; el Poder Judicial no ha investigado a fondo la línea política, el financiamiento, ni las conexiones con otros casos como la causa de los miembros de Revolución Federal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, parece existir una desigualdad entre instituciones, como plantea George Orwell: algunas son \"más iguales que otras\".",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1603
+}

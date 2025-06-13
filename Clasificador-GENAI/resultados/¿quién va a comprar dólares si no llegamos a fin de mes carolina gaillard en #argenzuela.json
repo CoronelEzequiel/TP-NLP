@@ -1,0 +1,31 @@
+{
+  "texto_id": "mas_funcionarios_de_javier_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "estamos en un país donde cortan los medicamentos cuidados, se cortan las prestaciones de los discapacitados, desmantelan los programas de prevención de VIH y de vacunas y todo es igual, recortan los fondos a las universidades, recortan los fondos de ciencias técnicas, mantienen el sistema científico tecnológico.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "un gobierno que se desliga de todo tipo de responsabilidad y que no se hace cargo de nada. Y encima, un jefe de gabinete que dice que baja la inflación cuando cada día es más difícil vivir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "hay una oposición amigable que le ha convalidado muchas de las leyes que ha promovido el gobierno, como el DNU 70 que no ha promovido el rechazo, la ley de Bases que permite mantener un montón de organismos públicos, la ley de Bases que permite, que debería hacer prácticamente todo por decreto entre el fin de la ley.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei ha venido a hacer un delito de tres gentes arreglando tres y tal de ello, modificando otra y está todo bien y no pasó nada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2580
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Está en medio de la discusión, de nuevo y ahora con más fuerza, la posible estatización o algún plan que tenga que ver con estatizar el sistema de salud en Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández el martes pasado dijo que si alguien compraba un terreno, y se lo veía de forma solidaria, estaba mal que comprase esa tierra solamente para esperar a morirse y entregársela a su hijo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se está hablando de estatizaciones, de cuestiones que tienen que ver con la propiedad privada de la tierra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestros aliados son Putin, Venezuela, estamos absteniéndonos de condenar los derechos humanos en Nicaragua y también avanzaron en el Congreso leyes que tienen que ver con contenidos de los medios que, si se hace lo que la ley determina, van a ser premiados con publicidad estatal.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1701
+}

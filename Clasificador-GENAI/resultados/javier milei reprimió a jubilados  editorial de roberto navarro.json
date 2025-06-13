@@ -1,0 +1,61 @@
+{
+  "texto_id": "La ley es imponente",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.065,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Débiles con los fuertes y fuertes con los débiles, no es correcto.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el gobierno se va convirtiendo en un régimen, en un régimen fascista.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que dice directamente que va a quitar el Estado, es decir, a los jubilados, porque el 60% del gasto del Estado es para los jubilados, para darle a los empresarios.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que dice en su vocero, en el vocero presidencial, que no hay que tener miedo a la represión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por segunda vez en una semana golpearon brutalmente a los mayores de este país, a los jubilados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hacen falta muchas cosas para que se instale un régimen autoritario, fascista.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos preguntábamos en los últimos tiempos cuánto iba a aguantar la sociedad, pasando hambre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora la pregunta es cuánto va a aguantar la sociedad mirando por televisión cómo golpean a nuestros mayores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dice mucho de un país cómo se trata a los mayores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se dejan pasar estas cosas, pronto vamos a estar ante un régimen autoritario que no permita ningún tipo de libertad, que nos reprima brutalmente y nos deje sin esa libertad que ellos promueven.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1377
+}

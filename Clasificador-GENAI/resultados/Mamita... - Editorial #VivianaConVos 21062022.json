@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer Cristina Fernández de Kirchner dijo 'mamita' muchas veces y me quedó. Y pensaba que ayer dejó claro Cristina que no quiere a la clase media. Dejó claro Cristina ayer que tampoco quiere a los movimientos sociales, por ende no quiere a los piqueteros, por ende no quiere a los pobres, por ende Cristina no quiere a nadie.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este proceso ultrainflacionario que estamos viviendo hoy en la Argentina es el producto del endeudamiento criminal de los cuatro años del macrismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este hombre agota cualquiera, mamita, mirá. No es un problema de idioma. Es un problema de que todos se sientan interpelados. Todos se sientan interpelades. ¿Te habían dicho? Por favor, ¿cómo les gusta la estupidez, el lenguaje inclusivo?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La buena noticia del día es que faltan exactamente 540 días para que se vayan.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8162
+}

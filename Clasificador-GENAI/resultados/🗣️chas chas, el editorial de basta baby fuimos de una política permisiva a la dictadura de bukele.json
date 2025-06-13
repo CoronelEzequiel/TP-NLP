@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.629,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que pasamos de una política permisiva con jueces garantistas, como los que mencionaba el juez Zaffaroni, al otro extremo: la dictadura de Bukele.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren que si hay alguien que detesta a los delincuentes, soy yo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que habría que hacer es ponerle un \"Bukele\" a los jueces, a los diputados y a los senadores para que promulguen leyes efectivas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero ni tanto ni tan poco.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La foto de Rosario ya costó cuatro o cinco vidas de inocentes, producto de la venganza por la mala gestión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Queremos un país más justo, más tranquilo, más organizado, con más recursos y menos problemas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que es hora de actuar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Hay algo más ruin que usar a la Iglesia para desestabilizar?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta es una Iglesia ultra K, no \"progresista K\", es la Iglesia a la que el Papa le sonreía, que se deshacía en sonrisas con Cristina y le ponía cara de pocos amigos a Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso no entiendo cómo la multinacional Iglesia, cuya identidad permanece anónima, se mete a querer voltear un gobierno que, de repente, le parece autoritario, anárquico o fascista.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre que la Iglesia se involucra, algo raro pasa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dedíquense a hablar de Dios y del Evangelio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2829
+}

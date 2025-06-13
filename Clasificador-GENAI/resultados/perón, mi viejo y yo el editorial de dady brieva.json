@@ -1,0 +1,41 @@
+{
+  "texto_id": "monologo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Con esto de las elecciones, hay como una necesidad fisiológica de peronismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué se preguntan dónde está cuando aparece Cristina Kirchner?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esa época, hoy Cristina Kirchner es garantía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fui a la línea de bandera nuestra, línea de bandera que yo milité.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿No les llama la atención que este canal hace dos o tres días empezó a cubrir lo que pasa en Jujuy? Que pasa hace siete días y ningún canal lo cubre como debería cubrirlo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estás desorientado y no sabes qué camino tomar…",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3167
+}

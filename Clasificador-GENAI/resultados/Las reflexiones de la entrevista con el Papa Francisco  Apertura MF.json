@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El papa Francisco es conocido por su humildad, por su adhesión a la opción preferencial por los pobres, y su compromiso de diálogo con personas de diferentes orígenes y credos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"La ideología de género es, entre las todas coloraciones ideológicas que están pasando hoy día, a mi juicio es la peor. Porque te des-potencializa las diferencias. Y te va llevando a que no haya diferencias. Cuando lo más rico es la contraposición de las diferencias que te hacen progresar. La ideología de género es nefasta.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El populismo es un líder religioso, un movimiento religioso o político que toma una verdad o algo que es verdad y lo lleva hasta las últimas consecuencias políticas o religiosas. El nazismo fue eso.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Yo creo que la unión civil tiene que existir. En Francia hacía años que estaba ahí, y por eso es una manera de darle una cierta cabida social a las uniones del mismo sexo. Matrimonio es otra cosa que tiene otra configuración, pero esa me costó.\"",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"¿Quién soy yo para juzgarla?'. Como diciendo, basta, no nos tomemos de bicho.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3493
+}

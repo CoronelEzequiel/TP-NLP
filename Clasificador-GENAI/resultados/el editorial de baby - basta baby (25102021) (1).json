@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Nadie sabe de qué va a hablar, nadie censura a nadie.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nos dejan trabajar libremente en el canal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora me dicen que soy un showman. Está bien, me pagan, pero realmente…",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Somos la voz del pueblo, peleamos por la gente. Escuchamos a la gente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando empezamos a planear este monólogo (que ya no estoy grabando en este momento), pensé en hacer un monólogo sobre Cristina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero bueno, cuando me den mi mesa, ¡lo romperemos todo!",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1940
+}

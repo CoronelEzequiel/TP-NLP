@@ -1,0 +1,31 @@
+{
+  "texto_id": "Wver y Rever",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Carrió responderá sobre la interna de Juntos por el Cambio y sobre las declaraciones de Cristina Fernández de Kirchner, la vicepresidenta de la República.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner miente o, como mínimo, incurre en una falacia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es falso que exista una proscripción en su contra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no perdona a Messi y a la Selección por no ceder a las presiones del gobierno para una fotografía con los funcionarios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1291
+}

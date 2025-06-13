@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_maturano",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Será un paro de 24 horas en reclamo de una revisión salarial.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Queremos que se tenga en cuenta ese aumento de inflación, ni más ni menos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estamos dispuestos a trabajar por un cuarto de alfajor diario, arreglando los problemas, no solo para nosotros, sino también para los pasajeros y con una herramienta de trabajo deficiente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se habla mucho de república en vez de patria. Nosotros somos patriotas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La democracia en Argentina la trajeron los trabajadores y los estudiantes, no los políticos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se procesó ni embargó a ningún funcionario, ni siquiera al Ministro de Economía, que debería proveer los fondos para el mantenimiento ferroviario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1686
+}

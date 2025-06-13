@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.14,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer se conocieron datos económicos que reflejan los resultados de las políticas implementadas durante el primer semestre por el presidente Javier Milei, resultados que son aberrantes e inexplicables.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que me preocupa no es Milei en sí, sino una clase dirigente que lo aplaude y lo congracia, como lo hacen algunos empresarios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los empresarios más grandes del país se ríen, festejan y aplauden mientras Milei, con sus políticas, está destruyendo las bases de la economía y las consecuencias las pagaremos por mucho tiempo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación económica es pésima, pero hay un sistema que la sustenta, y ese es el problema.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una clase dirigente, empresaria, en parte sindical y política, que apoya un plan desquiciado de un líder desquiciado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2290
+}

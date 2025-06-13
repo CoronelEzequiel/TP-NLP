@@ -1,0 +1,41 @@
+{
+  "texto_id": "La verdad del poder o el poder de la verdad, con Fernando Rosso",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.208,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei es marxista.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En medio de los recortes, despidos y vaciamientos que se llevan adelante en distintas áreas del Estado, la secretaria general de la Presidencia, Karina Milei, se aumentó un 120% el presupuesto para gastos discrecionales y adicionales en el área a su cargo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dijo mil veces en la campaña electoral que se cortaba un brazo antes de aplicar o aumentar un impuesto.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con respecto a los precios de la economía en general, Milei siempre repitió el dogma, el credo ultraliberal que asegura que el mercado se encarga de regular la producción, la distribución, la oferta y la demanda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, el ultraliberal Milei está aplicando culposamente una forma de dirigismo estatal, el modelo que fracasó en la etapa anterior, solamente que lo está haciendo mal y con culpa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Empieza a dejar al descubierto para el gran público que no es lo que decía ser.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2732
+}

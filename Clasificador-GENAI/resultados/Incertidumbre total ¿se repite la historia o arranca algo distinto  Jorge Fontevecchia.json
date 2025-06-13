@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los más prestigiosos economistas y analistas económicos del país se dividen entre los optimistas y quienes creen que la liberación del cepo y el desembolso del Fondo Monetario Internacional generarán un clima de estabilidad y confianza en nuestro país por parte de los inversores, y los pesimistas, quienes creen que este es el principio del fin del gobierno, que nunca un acuerdo con el Fondo Monetario saldrá bien y que esto no será una excepción.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Según el ministro, lo que cambia la ecuación es el orden macroeconómico.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La coyuntura actual se parece a lo sucedido en 2018 cuando el macrismo...",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la confianza es la clave, que transforma un plan económico en exitoso o fracasado, y la relación de la economía con la política, hay quienes creen que este Milei se parece al Macri de 2018, cuando fue al Fondo Monetario, y quienes creen que se parece más al Macri del otoño del 2017, que pudo mantener el dólar atrasado hasta las elecciones, pero tras ella comenzó a desbarrancarse para hacerlo definitivamente en 2018, y también y quienes, los más optimistas, que creen que el Milei es el Menem de 1991, cuando, agotado sus primeros planes económicos, parecía hundirse irremediablemente, pero Cavallo lanzó la convertibilidad casualmente en el otoño previo a las elecciones de la primavera, o sea, tenemos otoño, planes económicos, primavera, elecciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4474
+}

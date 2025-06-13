@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿Qué urgencia hay, qué apuro hay para pedir este préstamo al Fondo Monetario Internacional?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdadera razón por la que hay un DNU la explicó el ministro de Economía, Nicolás Dujovne (o el ministro al que se refiera, dado que no es claro en el texto original). Dijo que no tenían los votos en el Senado, donde la oposición tiene mayoría.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El acuerdo de 2022 no tomaba deuda nueva; era para refinanciar la deuda que tomó el gobierno de Macri. Ahora, se están endeudando más con el FMI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta es: ¿a quién están rescatando? En el préstamo récord a Macri en 2018, el FMI entregó dólares que fueron vendidos a quienes estaban en pesos haciendo bicicleta financiera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy hay mucho nerviosismo en el mundo inversor, no en el que invierte en una fábrica, sino en el que especula con la diferencia entre la tasa de interés de un activo en pesos y la tasa de devaluación del dólar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el FMI presta eludiendo una ley, la deuda se verá como ilegítima.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2975
+}

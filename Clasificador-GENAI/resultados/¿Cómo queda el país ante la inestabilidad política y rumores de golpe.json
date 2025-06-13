@@ -1,0 +1,26 @@
+{
+  "texto_id": "rumores_destructivos",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hablar de golpes en un país que ha recobrado su estabilidad, y que el pueblo goza de la tranquilidad que da la estabilidad, es atentar contra el país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los rumores los hacen, los difunden y los circulan quienes tienen tiempo de sentarse a conspirar, en lugar de estar trabajando y gobernando, pero también, seguramente, quienes son los especuladores de siempre, que no les parece bien que el presidente esté trabajando, que el presidente converse con la vicepresidenta, que el dólar blue haya dejado de subir y haya empezado a descender.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy parecido a la devaluación del dólar al final de Macri, ¿no? O sea, la devaluación se le produce a Macri, pero, en realidad, es por el miedo a la llegada del kirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4015
+}

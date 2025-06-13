@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"Y sin fiscales esto es imposible. Mi consejo para Milena es que no se desarme lo que fue una opción, que se va a debatir en las escuelas, en la historia de la economía.  Le aconsejaría que no se presente al balotaje.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Ahora votaré a Massa porque dijo que va a reindustrializar la Argentina. Yo quiero creer que lo hará.\"",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Como dijo Pichetto, es preferible que pase rápido si es malo. Otro mes así, no se puede. Hay que ordenar esto, y Massa dijo que va a reindustrializar la Argentina.\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El objetivo de la 'década ganada' era reindustrializar. Tenés que poner toda la economía en función de eso. Necesitas una relación lógica entre el precio de la comida y los ingresos populares. Tenés que tener energía abundante y barata.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Cuando Kirchner hizo esa declaración, quería mantener tranquilos a los bancos. La economía se hacía en el Ministerio de Economía. El Banco Central no se debe involucrar en política. Massa tiene que hacer un gobierno amplio, pero yo me centro en la reindustrialización.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2489
+}

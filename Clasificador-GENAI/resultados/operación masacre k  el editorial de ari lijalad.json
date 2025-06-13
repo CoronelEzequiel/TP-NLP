@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.329,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy se celebró una conferencia de prensa en la que varios dirigentes de la oposición dieron la bienvenida a José Luis Espert a su espacio político.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que la vida misma es un tema crucial, en el que se debe coincidir si se defiende la vida, la democracia y los derechos políticos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la conferencia de prensa de esta mañana, en la que Juntos por el Cambio recibió a José Luis Espert, éste declaró que Juntos por el Cambio, fortalecido y amparado por la teoría de la libertad, tiene como misión fundamental erradicar al kirchnerismo de la Argentina de manera democrática.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vuelvo al 9 de junio de 1956, porque en esa época también se hablaba de erradicar, en ese caso al peronismo, tildado de autoritario, antidemocrático y violento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es grave que fuerzas políticas, justo el día que comenzó lo que Walsh llamó *Operación Masacre*, repitan lo mismo que decían los asesinos de José León Suárez.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos preguntarle a los integrantes de Juntos por el Cambio si están de acuerdo con erradicar democráticamente a quienes piensan diferente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El radicalismo, una vez más, se une a quienes buscan erradicar una fuerza política en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2107
+}

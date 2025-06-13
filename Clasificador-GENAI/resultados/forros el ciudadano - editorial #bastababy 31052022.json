@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo hablé de las \"preferidas\" de los políticos, de cómo esas mujeres colocadas en ciertos puestos nos cuestan 500 millones de dólares, 60 vacunas, 20 colegios, o fortunas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me importa poco que sean mujeres, las que mueren por falta de vacunas son mujeres, las jubiladas son mujeres, y los niños que mueren también.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Defender a Cristina Fernández de Kirchner es defender a los corruptos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este país ya no soporta más corrupción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y les digo a los políticos: No nos mientan más. Y pregúntenle a su socia, Cristina Kirchner, dónde está el dinero robado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando están en caída libre, empiezan a callar periodistas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2322
+}

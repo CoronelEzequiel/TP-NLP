@@ -1,0 +1,61 @@
+{
+  "texto_id": "Horacio_Rodriguez_Larreta",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay que terminar con la pelea, Jorge. Basta de pelearnos y plantear que quien piensa diferente es un enemigo a exterminar.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con esta pelea, llevamos 80 años divididos, Jorge.  La famosa grieta nos ha llevado a la situación actual: 100% de inflación, 40% de pobreza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no voy a entrar en polémicas. La verdadera firmeza no es gritar desde la tribuna ni cuestionar a otros del mismo espacio político.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi firmeza la demuestro todos los días en la calle, luchando contra la inseguridad en la Ciudad de Buenos Aires.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La policía de la ciudad es un orgullo. Tenemos la tasa de delito más baja de la historia, el nivel de crimen más bajo de Latinoamérica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, no. La definición exacta es que no me pondría de acuerdo.  Una cosa es dialogar y otra muy diferente es acordar. No todo diálogo termina en acuerdo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No me pondría de acuerdo con el kirchnerismo que cerró las escuelas mientras yo las mantenía abiertas, ni con el kirchnerismo que cree que puede bajar los precios mandando a los militantes de La Cámpora a controlar los supermercados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que hacer un replanteo.  Tenemos un equipo trabajando en eso, estudiando modelos de otros países.  Se necesita inteligencia para evitar el terrorismo y la inseguridad internacional, para apoyar investigaciones policiales. En Estados Unidos, tienes la CIA para el exterior y el FBI para el interior.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no hablé de las Fuerzas Armadas combatiendo el delito en las calles.  No están entrenadas para eso. Planteo que se ocupen del cuidado de las fronteras.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con todo respeto a todos los candidatos, valoro la experiencia. En el caso de Milei, me cuesta evaluarlo porque no ha tenido experiencia pública.  Yo creo en la experiencia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4069
+}

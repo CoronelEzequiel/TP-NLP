@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei decidió borrar los tuits promocionales y afirmar que no conocía los detalles del proyecto.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La justicia deberá investigar las razones de esta decisión.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La CNV debería velar por los intereses de los inversores, especialmente en un mercado como el de las criptomonedas, actualmente desregulado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Creía Milei que podía recaudar fondos de la comunidad cripto sin que los inversores se sintieran estafados?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Diógenes Casares, hijo de Wenceslao Casares (fundador de Patagon y figura influyente en Silicon Valley), publicó en X información sobre el desplome del 90% de Libra, mencionando \"coimas, insiders y un presidente manipulado\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1873
+}

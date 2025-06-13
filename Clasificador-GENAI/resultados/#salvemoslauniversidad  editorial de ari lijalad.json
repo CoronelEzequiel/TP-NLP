@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.081,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, desde el inicio de la movilización \"Salvemos la Universidad\", queremos expresar nuestro apoyo a esta convocatoria.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En definitiva, sin universidades, no tendríamos país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los graduados universitarios son quienes realizan trabajos de todo tipo, permitiendo el funcionamiento de la sociedad y nuestra calidad de vida.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien es cierto que no todos hemos estudiado en una universidad, los beneficios de la educación superior se extienden a toda la población.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Irónicamente, muchos miembros del actual gobierno son egresados de universidades públicas: el exministro de Economía, Luis Caputo, y la exministra de Seguridad, Patricia Bullrich, son egresados de la UBA y la UNSAM respectivamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, el gobierno persiste en un recorte presupuestario que amenaza la viabilidad del sistema universitario argentino.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay empresarios que defienden la eliminación de la intervención estatal, deberían ser consecuentes y rechazar los servicios de profesionales formados en universidades públicas como la UBA.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El actual presupuesto universitario es el peor desde 1997, incluso peor que en los años críticos de 2001-2003.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, la riqueza se concentra en manos de unos pocos (como Mark Zuckerberg, Elon Musk y otras grandes fortunas), mientras que la población lucha contra la desigualdad.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por todo lo expuesto, nos sumamos al hashtag #SalvemosLaUniversidad, para exigir la restitución de un presupuesto universitario justo, del que depende el futuro de nuestro país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1721
+}

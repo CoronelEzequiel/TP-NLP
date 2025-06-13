@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.871,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Los kirchneristas, liderados por Cristina Fernández de Kirchner, que perpetraron el \"robo del siglo\", el más grande de la historia democrática, o esos productores agropecuarios, autoconvocados para mañana en San Nicolás, que apuestan todos los días a la cultura del trabajo, el esfuerzo, la innovación tecnológica y el mérito.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que, como Alberto Fernández, homenajean al Partido Comunista Chino, al autócrata de Vladimir Putin, a quien llama amigo, o a los dictadores de Venezuela, Cuba y Nicaragua, o lo que es peor, encubren a organizaciones terroristas como Hamas, o los que se movilizan en forma pacífica y masiva, con consignas republicanas en defensa de la democracia, la justicia independiente, la libertad, y reivindican a los gloriosos gauchos de Güemes que participarán del acto como una forma de reparar la humillación a la que fueron sometidos en Salta por el Gobierno Nacional.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que toda su vida vivieron de la teta del Estado y de nuestros impuestos, los que nunca tuvieron que pagar un sueldo, o cubrir un cheque, o rezar para que llueva o para que deje de llover, son los que todos los días toman medidas irracionales contra la exportación de carnes, o se quedan con la parte del león de las cosechas de granos, o han fundido cientos de miles de comerciantes, hoteles y empresas de todo tipo, o los que eligieron una tierra emblemática como San Nicolás, donde en 1852 las provincias se comprometieron a organizarse como nación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que multiplicaron la pobreza, la desocupación, la indigencia, la inflación y la asfixia impositiva a pesar de que gobernaron durante muchísimos años, los que acusaron a los runners, a los chetos, a los turistas, a los padres que querían abrir las aulas, a personas que exigieron la vacunación completa, o los que todos los días ponen el hombro para edificar una patria para todos, con la espalda quebrada y de sol a sol, son los que aportan soluciones en lugar de buscar culpables y dan seguridad jurídica y tranquilidad con mano de obra calificada y neuronas desarrolladas para seducir a los capitales de todo el mundo y que vengan a invertir en el crecimiento de nuestro bendito país.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que adoctrinan a los chicos y le ponen la camiseta partidaria a la formación de nuestros hijos, los que ponen como ejemplo a los peores gobernadores, los más feudales y autoritarios como Gildo Insfrán, o a los mafiosos sindicales más patoteros y extorsionadores como los Moyano, o los que miran para otro lado cuando los talibanes despreciables rompen los hilos o bolsas en el campo solo por el hecho de hacer el daño y hacer maldades, o los chacareros que exportan y aportan miles y miles de dólares, los que trabajan en las agencias de turismo o en la cocina de los hoteles, o son empleados de comercio o enfermeros mal pagados y médicos y policías que no son reconocidos ni en lo económico ni en lo profesional.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En marzo del año pasado todavía no había explotado la maldita pandemia, pero el presidente Fernández dijo que los autoconvocados son opositores y disfrazados de chacareros, pese a que son el motor de la producción agropecuaria que es la actividad económica más competitiva del país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana, en el día de la independencia, los que construyen el país del futuro en la tierra del federalismo y los acuerdos demostrarán que aman profundamente a la Argentina y que son otros, otros los que fomentan el odio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2716
+}

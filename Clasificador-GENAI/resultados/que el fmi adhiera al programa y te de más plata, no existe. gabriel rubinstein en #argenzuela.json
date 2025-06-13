@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.422,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pero ¿cómo estás viendo esto, Gabriel?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, ante esa incertidumbre generada por el gobierno en el marco de las negociaciones con el Fondo, bueno, el mercado empezó a tomar *recaudos*.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, no le cree más o menos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces no te creo, ¿qué te pasa, qué me estás diciendo?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el Fondo te puede dar plata, en un sentido puede ser más duro, menos duro, el Fondo puede estar satisfecho de la performance fiscal, todo lo que vos quieras, puede haber apoyo de Trump, todo lo que vos quieras, pero hay una negociación y en esa negociación siempre se fijan metas y el Fondo, una de las metas importantes que se fija es la acumulación de reservas porque el Fondo cree que acumular reservas es una manera de que a la larga le vas a poder pagar a ellos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces la negociación implica metas, implica metas de reservas y el Fondo cree, es importante lo que pienses vos y lo que piense yo, el Fondo cree que Argentina tiene un problema de apreciación cambiaria que le dificulta la acumulación de reservas, eso todo el mundo lo sabe.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gabriel, lo último, lo imagino en términos de boxeo: uno siempre se queda con los golpes que van a la cabeza, los que llaman la atención, y el del hígado siempre es el que duele, el que no se nota y es el que duele.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El caso *Lebac* fue ese golpe al hígado a este gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El rey está desnudo, muchacho fue el error más grande de este gobierno, fue autoinfligido que la oposición no se ponga en una cocarda, no hizo absolutamente nada, fue el presidente que decidió tuitear el 14 de febrero una invitación a la estafa, participar de una estafa y ese fue el principio, no digo del fin, no me atrevo a decirlo, pero fue el principio de la debacle hay que ponerlo, ese hay que ponerlo como el día histórico, 14 de febrero.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3729
+}

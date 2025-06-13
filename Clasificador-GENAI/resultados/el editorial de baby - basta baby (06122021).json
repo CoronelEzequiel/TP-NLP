@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Muchachos, primero, para ser presidente, ¿qué tenés? República, no hay república.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gracias, y hay que decirlo, a Mauricio Macri, que un día se le ocurre crear Cambiemos, y que fue bastante vapuleado, que hizo una excelente intendencia de la ciudad de Buenos Aires.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Durante dos años el único líder que va a traer Cambiemos es Mauricio Macri.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo quiero saber, ¿dónde va ese presidente, vos? ¿De dónde? La verdad, Lousteau.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Anda a compartir gofio que venden en el quiosco.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2521
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "audio_perfil",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "nos encontramos en un proceso de crisis del gobierno, que a mí me hace recordar a otra crisis similar cuando estábamos también comenzando el tercer año del gobierno anterior",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "el miedo a la derrota y al propio futuro personal, y qué va a hacer cada uno de los funcionarios si finalmente hay derrota el año próximo, recuerdan que creo que lo había dicho el ex intendente, el *ex* intendente en licencia de Avellaneda, Jorge Ferraresi, cuando decía si hay un cambio de gobierno algunos van a dar conferencias, otros vamos a estar presos",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "hay antropofagia en la vicepresidenta, perplejidad en el presidente y abstinencia en el jefe, en Sergio Massa que no acepta ser jefe de gabinete en el contexto que le impone Alberto Fernández.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un escenario así, ¿a quién beneficiaría? Beneficiaría a la candidatura paradójicamente de Mauricio Macri, porque si se fuera a una polarización cada uno, Macri y Cristina Kirchner, serían beneficiados porque el otro sería la alta negativa propia",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "yo creo que está en marcha un golpe de estado, esto no ha sido contra un ministro, fue contra el presidente. Cristina no quiere que Alberto sobreviva",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "tenemos que llegar a un país donde nosotros tengamos superávits gemelos, él viene a Batakis. A nivel nacional nosotros necesitamos un gobierno que por supuesto es el ministro de comercio internacional en el mundo, cuando uno mira ciclos largos de la economía, lo que uno ve es que la globalización fueron muy poquitos años",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4806
+}

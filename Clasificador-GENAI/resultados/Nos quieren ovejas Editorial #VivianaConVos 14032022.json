@@ -1,0 +1,46 @@
+{
+  "texto_id": "VivianaConVos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.843,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Nos quieren ovejas, ovejas, te quieren, nos quieren como las ovejas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto del cambio climático es otro curro de la Agenda 2030.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seamos libres sin machismo, sin feminismo, los *ismos* atrasan, el *ismo* atrasa un montón, son peligrosos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no estoy de acuerdo con que exista un ministerio de la mujer cuando en Argentina seis de cada diez pibes no *morfan*.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los fachos de izquierda ganaron la guerra ideológica.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aborto y maternidad. Se incentiva a que mates a tus hijos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para que no se me enojen todas las *verdes*, pero se darán cuenta que hay algunas *verdes* que son impresentables.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8223
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Acá los tenés: \"Ladrones de pobres\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ejemplo bien concreto: poneme la página 6 de la denuncia, por favor.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Había que mandar una foto con la boleta de la candidata del Frente de Izquierda, Vanina Aviasi.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chantas. No les importan los pobres. Usaron a los pobres para forrarse, para forrarse.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual que Cristina, que dijo, la condenada, este fin de semana: \"Hacen falta pastores con olor a ovejas\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5433
+}

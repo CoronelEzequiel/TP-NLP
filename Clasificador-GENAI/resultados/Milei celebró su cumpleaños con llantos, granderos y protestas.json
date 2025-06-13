@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Porque ayer, Javier Milei cumplió 54 años, y luego de lo que podría definirse como un fin de semana de furia, el festejo incluyó un homenaje de los granaderos, en el que el presidente irrumpió en llanto, lo que habla de su relación con la infancia, con la familia, con quien parece ser clave en su equilibrio emocional: su hermana, Karina Milei.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En ese lapso, Milei hizo sus conocidas y polémicas declaraciones de muy mal gusto sobre el fallecido ex ministro Ginés González García, el morbo que le produce poner el último clavo en el cajón del kirchnerismo con Cristina Kirchner dentro, y las falsas acusaciones sobre la hija del periodista Marcelo Bonelli.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El off de la Casa Rosada explica mucho de la situación del presidente y su personalidad en el rol de su hermana. Muchos sugirieron que su manifestación del fin de semana no hubiera sido la misma si Karina estuviera aquí, aún en la habitual furia presidencial. Su hermana ejerce un rol equilibrador.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aún así acepta el código de su hermano, o sea, aún con esa falta de don de la oratoria, acepta, decíamos, el código de su hermano, machismo que rodea generalmente a la ultraderecha. Y es curioso cómo se muestra comprensiva hasta incluso los chistes machistas de los hijos del ex presidente Jair Bolsonaro, por ejemplo, los hijos del ex presidente Jair Bolsonaro en un acto de ensoberbecimiento.",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Javier Milei, tan alejado de las ideas igualitarias de la Revolución Francesa, encuentra en la fraternidad con su hermana lo que lo protege y lo equilibra, pero que tienen, como él, la misma ambición de poder y una concepción de su propia fragilidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5048
+}

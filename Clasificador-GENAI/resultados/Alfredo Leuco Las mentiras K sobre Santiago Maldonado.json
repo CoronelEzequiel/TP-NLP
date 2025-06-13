@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.869,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El jefe del operativo fue, como siempre, el agente de inteligencia informal Horacio Verbitsky, vacunado VIP, que tituló en Página/12: \"Macri ya tiene su primer desaparecido\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Querían que Cristina Fernández de Kirchner y sus seguidores tuvieran argumentos para decir: \"Macri, basura, vos sos la dictadura\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese montaje fue muy grave porque violaron algo sagrado, como es la figura de los verdaderos detenidos desaparecidos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Santana tiene varias causas abiertas por invasión a la propiedad privada, agresión a la Fuerza de Seguridad, cortes de ruta, un verdadero caradura que debería estar preso.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Horacio González, como director del CELS, al que redujo a la servidumbre ideológica con Estela de Carlotto y otros organismos menores, cometió el peor de los delitos de esa indignidad: intentaron endilgarle un desaparecido al presidente Macri.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Oficialmente, el gobierno argentino, a través del secretario de Derechos Humanos Horacio Pietragalla, insistió con sus falacias y aseguró que se cumplen cuatro años de la desaparición de Maldonado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, el presidente, el 5 de agosto de 2017 escribió en Twitter lo siguiente: \"Dejen de mentir y crear una incertidumbre inexistente. Santiago Maldonado se ahogó en democracia, no podemos jugar con la desaparición forzada de personas, hijos de puta\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy Maldonado quiere ser elevado a la categoría de \"mártir kirchnerista\", cuando se trataba, en realidad, de un artesano tatuador anarquista que murió ahogado en un río e, insisto, fue abandonado en forma oportunista por los que usurpan también la cultura mapuche.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2302
+}

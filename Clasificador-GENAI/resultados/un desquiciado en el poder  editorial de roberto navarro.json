@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cuando llegó el frío, un ministro exclamó: \"¡Qué frío que hace! Deberíamos revisar la falta de gas\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto empieza a desmoronar uno de los mitos creados en Argentina: la necesidad de un Estado pequeño.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí tenemos otro mito: no solo el mito del Estado, sino también el mito de que los políticos son todos malos, como una raza inherentemente enferma.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los medios nunca critican a los empresarios, que para ellos son todos buenos. No investigan cuántos impuestos evaden. El problema es si una señora se quedó con dos kilos de arroz.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todas las cosas que te enseñó la televisión eran mentiras. Hace falta Estado. Hace falta que nos gobiernen los políticos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Querían tener un Estado chico? ¿Querían poner a cualquier desquiciado con tal de que no haya un peronista? Bueno, hoy no hay gas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2028
+}

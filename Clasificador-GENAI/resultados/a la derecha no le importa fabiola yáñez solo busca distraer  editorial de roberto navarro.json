@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Durante el gobierno de Mauricio Macri, mientras se transferían miles de millones de dólares de los trabajadores a la élite, jueces y periodistas se encargaron de perseguir a dirigentes peronistas con dos propósitos: distraer la atención pública, cambiar el foco de la conversación y atribuirles la responsabilidad de las penurias generadas por el propio macrismo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con la llegada del gobierno de Milei, se intentó una estrategia similar. Se buscó encubrir la nueva entrega de alimentos persiguiendo a Sergio Massa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por otro lado, el gobierno de Milei aprovecha para atacar al feminismo, a la diversidad de género y a cualquier iniciativa considerada progresista.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ataca al peronismo en su conjunto porque ya no es suficiente centrarse solo en el kirchnerismo, considerando que podrían no ser los candidatos en la próxima elección.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no cambiará el resultado de las elecciones de 2027, ni probablemente el de 2025, pero mantendrá a la gente hablando de otras cosas.  Lo más importante, sostendrá al gobierno en un momento crítico, en medio de una inminente crisis financiera.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1796
+}

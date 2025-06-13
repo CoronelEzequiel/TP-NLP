@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.189,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hay, obviamente, enojo, pero es más una resignación, ¿no? Como que es un aumento más al que ya estamos acostumbrados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así es, parecería que la épica del sacrificio aún persiste en algunos, pero me da la impresión de que cada vez está más lejos ese bienestar prometido, esa luz al final del túnel.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy estamos por encima del 20%. Y me parece que eso no funciona ni aquí ni en ninguna parte del mundo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero lo grave para nosotros es la intención de eliminar el programa de boleto integrado, que consiste en el descuento que reciben los pasajeros que, en un lapso de dos horas, utilizan una segunda o tercera unidad de transporte, con un descuento del 50% en la segunda y del 75% en la tercera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el 20% de un salario promedio se destina a ir y volver del trabajo; es decir, a invertir una hora y media o dos horas en ese proceso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto impacta con números totalmente alejados de la realidad de la provincia de Buenos Aires.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y otra cuestión es que nos quieren colocar en un plano de enfrentamiento entre el AMBA y el interior, argumentando que el boleto del interior es más caro.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, no, no. La realidad es que no tenemos las mismas frecuencias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se viaja peor y más caro, las dos cosas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2341
+}

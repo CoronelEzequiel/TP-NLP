@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.143,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Asistimos a un gobierno que intenta desmantelar lo construido y a un parlamento con una resistencia apenas esbozada, principalmente por el bloque de Unión por la Patria, con algunas acciones aisladas de la izquierda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este 24 de marzo, en particular, me preocupa un intento de construir un relato autoritario y violento a cualquier costo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema son las complicidades de quienes se dicen oposición y resultan cómplices de esta locura económica, política, social y humana.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno es una sucesión interminable de medidas que atentan contra la mayoría de la ciudadanía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un nivel de violencia y descontrol que refleja lo que pasa afuera, pero que demuestra quiénes nos gobiernan.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay diputados del propio bloque oficialista que insisten en que no solo la impulsaron, sino que se vieron beneficiados, y reclaman un juicio político contra la presidenta de la Cámara, que pertenece a su partido.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tienen un gran prejuicio antiperonista; son gorilas y brutos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2479
+}

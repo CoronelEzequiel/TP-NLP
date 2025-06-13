@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hay un hilo de tuits de Daniel Stengl que les quiero compartir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero quiero ir rápido mostrándolo, porque lo que muestra es que el país que recibió Milei no tiene nada que ver con el 2001.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo Milei que quiere privatizar las elecciones, lo que dijo que va a eliminar el financiamiento público de los partidos políticos, lo que va a hacer que solo lo puedan financiar las empresas y los narcos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no hay ningún dato que muestre que es necesario hacer lo que está haciendo Milei de la forma en la que lo está haciendo, en función de los datos, de la realidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como hemos visto, Milei y su ministra Sandra Pettovello niegan que estén \"rateando\" medicamentos oncológicos para personas que se están muriendo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2924
+}

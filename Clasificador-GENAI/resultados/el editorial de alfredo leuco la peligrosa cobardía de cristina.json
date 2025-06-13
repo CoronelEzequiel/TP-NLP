@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Tiene pánico de presentarse como candidata a presidenta y obtener muy pocos votos e incluso terminar en el tercer lugar.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La carroza se convertiría en calabaza y la reina Cristina quedaría desnuda en sus mentiras, estafas y autoritarismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sabe que el cristinismo chavista va a recibir una paliza electoral y no quiere poner la cara ni el cuerpo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto debería probar alguna vez con gobernar, con generar las condiciones para que haya más inversión productiva, más trabajo privado e inclusivo y menos planes en las provincias más necesitadas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Grabois es un símbolo de la cultura chavista que pretende instalar Cristina y su banda.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son cobardes peligrosos que están dispuestos a todo para salvar sus privilegios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2007
+}

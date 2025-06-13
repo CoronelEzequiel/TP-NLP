@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Realmente da vergüenza y es bochornoso ver los partidos políticos mintiendo y mintiendo sin ningún descaro, haciendo propuestas que no proponen nada, absolutamente nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando arrancó Alberto, que ahora pasó a ser un prócer, en la campaña lo nombran todos, Alberto fue el gobierno más desastroso y berreta de la historia argentina.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La única palabra que habría que haber usado en la campaña, no la usaron. Dos palabras. Una es libertad, y la otra es trabajo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy hablé con Milei, realmente me impactó, porque a Milei cuando le hablás tranquilo y te habla tranquilo, tiene fundamento, pero tampoco me imagino un país sin Banco Nacional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la madre, mientras lo peinaba con gomina delante del espejo con un peine pantera de esos de marmolado, ¿te acordás lo que tenés que decir? Sí, mamá, sí, tengo que hablar de la crisis.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2898
+}

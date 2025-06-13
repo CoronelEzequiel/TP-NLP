@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.225,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El triunfo de Javier Milei con La Libertad Avanza en las elecciones primarias del domingo pasado fue, sin duda, el dato político más relevante.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es innegable que su triunfo se basa más en un voto de impugnación negativa que en una adhesión positiva a su propuesta ideológica o programática.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La propuesta de Milei, en última instancia, es una guerra de competencia entre trabajadores, mientras los más poderosos se benefician.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su fortalecimiento es fundamental, tanto en las urnas como en la calle,  para defender los derechos laborales, sociales y públicos amenazados.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1748
+}

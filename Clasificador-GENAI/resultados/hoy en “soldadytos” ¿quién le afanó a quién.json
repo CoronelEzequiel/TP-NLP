@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "“Me robaron el nombre del programa, PPT,” exclamó.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La conversación se tornó acalorada, con insultos como \"kirchnerista\", \"corrupto\" e \"imbécil\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“Vamos, vamos. Peronismo para todos,” alguien exclamó, finalizando con un tono de optimismo y reconciliación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se discutió la posibilidad de que tanto Diego como otros pudieran ayudar a resolver la disputa.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 911
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.417,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno intenta pactar con medios y periodistas afines debido a los problemas con la prensa, buscando una estrategia defensiva.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le sugieren al presidente Javier Milei convocar una consulta popular para ratificar su poder, ya que percibe una creciente desconfianza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los mercados, ya presionados (Luis Caputo gastaba muchos dólares para sostener el precio del dólar), han colapsado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei busca fortalecerse con la consulta popular para tranquilizar a los mercados y a los sectores de poder que lo presionan.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La estrategia de caos de Caputo implica que se le ataque a él para distraer la atención del presidente, y lo ejecuta a través de periodistas aliados como Franco Macri, quien lo critica públicamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se utilizan comunicados coordinados para enfatizar el peligro del regreso del kirchnerismo, lo que refuerza el discurso contra la oposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1658
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.486,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La tensión entre Estados Unidos y China va mucho más allá de una simple disputa comercial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es muy lógico suponer que si Trump aspira a una tercera presidencia que limita la Carta Magna, necesite un hecho de tal magnitud como para que el país decida no cambiar a su presidente, como podría ser una guerra.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En medio de la escalada de las tensiones comerciales con China, Estados Unidos viene endureciendo su postura.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La aplicación errática y cambiante de estos aranceles, como en el caso de la Unión Europea, viene generando gran incertidumbre global.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La prensa estos días ridiculiza a los países que, tras recibir los aranceles de Trump, han pedido negociaciones para rebajarlos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pareciera actuar en la mediación entre Ucrania y Rusia continuamente a favor de Rusia y parece desarrollar una relación absolutamente primordial y afectiva con Putin.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hubiera una guerra militar, ya no comercial, entre China y EE. UU., ¿quién tendría la posibilidad de cambiar el fiel de la balanza? Rusia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5765
+}

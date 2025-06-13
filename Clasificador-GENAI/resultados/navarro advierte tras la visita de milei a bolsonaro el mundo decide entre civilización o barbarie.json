@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.344,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En Brasil, Karina Milei recibió una medalla de Bolsonaro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se afirmó que la medalla simboliza la invencibilidad del presidente, haciendo alusión a su virilidad y heterosexualidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La trivialidad del diálogo, centrado en la virilidad y el uso de viagra, es lo que se difunde como parte de la visita de Milei a Brasil.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Comparemos esto con las palabras del líder de izquierda francés, Jean-Luc Mélenchon.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su discurso se centra en la historia migratoria de Francia (\"uno de cada cuatro de nosotros tiene antecesores migrantes y su sangre recorre todavía nuestras venas\"), critica el capitalismo extremo que transforma el sufrimiento en riqueza, y promueve el \"buen vivir\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este concepto implica tener tiempo para disfrutar de la familia, amigos, las artes y el amor, en contraposición a una vida centrada solo en el trabajo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El extremo ajuste económico, la escasez de alimentos y medicamentos, y la transferencia de recursos de los más pobres a los más ricos, apuntan a un estado de barbarie, un país sin derechos ni Estado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos llegado a un punto donde la discusión principal es la supervivencia básica: ¿civilización (el buen vivir del siglo XXI) o barbarie?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1380
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_alimentos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estamos a 28 de mayo y millones de argentinos y argentinas siguen sin comida. El Estado está obligado a garantizarla.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, porque este gobierno, el gobierno de Javier Milei, decidió no solo no entregar los alimentos que tiene, sino no comprar nuevos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente que vamos a apelar la resolución porque consideramos que esto no es una cuestión de índole judicial, sino una definición de política pública, y la justicia no se puede intrometer en la política pública.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos alimentos son reservados de forma preventiva para emergencias o catástrofes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces el gobierno decide dejar sin comida a su población. El sistema de medios alineado con el gobierno decide apoyar esta situación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2324
+}

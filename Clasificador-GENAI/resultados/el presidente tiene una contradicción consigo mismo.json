@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.718,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En el texto de mi renuncia, le dije a Cristina Fernández de Kirchner que debía oxigenar su gobierno debido a los problemas en la obra pública.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo sufrí las consecuencias durante ocho años.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Antes había advertido sobre la obra pública, lo acabamos de escuchar en sus propias palabras.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora se trata de decisiones políticas no judiciables.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente declaró como si fuera otro abogado defensor de Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También corresponde marcar la gravedad de la afrenta del titular del Poder Ejecutivo a un fiscal federal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno no está preparado para que un presidente tenga un exabrupto con un fiscal, con otro poder del Estado, pero no vamos a dejar pisar las instituciones, respondió el fiscal Luciani al ser consultado por este episodio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este proceso, la estrategia de evitar el juicio ya no es posible para la defensa de la vicepresidenta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la nación, que podría haber declarado por escrito, eligió presentarse ayer en los tribunales como testigo para cumplir un rol que parece tener menos que ver con su paso por la jefatura de Gabinete de entonces que con su necesidad de recomponer relaciones con Cristina Kirchner y demostrar fidelidad en lo que a ella más la preocupa: su situación judicial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quién es el presidente? ¿El crítico acérrimo o el delegado de Cristina en la presidencia, incapaz de contradecirla?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿El que la acusaba con vehemencia o el que la defiende a costa de su propia coherencia?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2620
+}

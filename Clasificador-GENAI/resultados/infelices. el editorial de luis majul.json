@@ -1,0 +1,36 @@
+{
+  "texto_id": "Infelices_El_estado_de_la_Nacion",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¿Quién puede creerle a Cristina Fernández de Kirchner cuando afirma que, a partir del año próximo, ella y su equipo nos devolverán la felicidad?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, antes de asumir, percibía solo su dieta como senadora nacional o vicepresidenta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno es el peor desde la restauración democrática de 1983.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El precio del asado para cuatro personas aumentó casi un 1000% entre el mundial de Rusia 2018 y el de Qatar 2022 (979%).",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La necesidad de reconstruir los sueños perdidos y recuperar la alegría y el futuro de los argentinos.",
+      "score": 0.72,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2049
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno mantiene el cepo para poder controlar el precio del dólar, pero el FMI plantea que esto se debe terminar porque se acumula un conjunto de inercias que, tarde o temprano, estallará.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Toda vez que el tipo de cambio real empieza a caer, igual que un disco rayado, los economistas comienzan a dar alarmas de atraso cambiario sin siquiera considerar el caso de una apreciación del peso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Basta con ir a cualquier frontera argentina para observar que todos los productos son sustancialmente más baratos en el extranjero que en nuestro país.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evidentemente, por más libertario y por más que el presidente considere el Estado una organización criminal, como ha dicho numerosas veces, hace intervención estatal por el precio del dólar, por algo, para intentar que no suba por encima del valor actual, lo que implicaría que salte por los aires una narrativa de ser un gobierno que domó la inflación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno podría decir que, siguiendo la perspectiva de Milei, los economistas del FMI son *econochantas*, como los llama Emilio Mandriles, que creen que tienen esa soberbia de creer que pueden considerar que el dólar está atrasado un 20 o un 40%.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5681
+}

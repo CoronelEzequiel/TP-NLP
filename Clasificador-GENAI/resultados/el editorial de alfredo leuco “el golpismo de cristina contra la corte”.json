@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.879,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández acusó a los miembros de la Corte de ser un puñado de jueces antidemocráticos, todopoderosos al servicio de Mauricio Macri y de la oposición política, económica y mediática.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo el mundo sabe que a Cristina la persigue el código penal y las leyes que violó y que fue condenada por corrupta con todas las garantías y toneladas de pruebas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una delincuente de Estado y la grieta es una creación absoluta del matrimonio Kirchner, que inoculó odio político en una sociedad donde el odio no existía.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el ataque permanente de Cristina y sus talibanes contra la Corte Suprema de Justicia sí tiene una extrema gravedad institucional y debe encender todas las alarmas porque van a fondo con sus embates golpistas y todavía tienen un gran poder de daño.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, cada vez más descaradamente, desnuda su admiración por las autocracias y dictaduras como la China o Cubana.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese intento de tirar abajo el sistema democrático tiene que ver con dos cuestiones: con la desesperada búsqueda de impunidad de Cristina y con algún atajo autoritario para evitar la peor derrota electoral de la historia del peronismo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina está desesperada porque es consciente de que el tiempo político se le está terminando.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2220
+}

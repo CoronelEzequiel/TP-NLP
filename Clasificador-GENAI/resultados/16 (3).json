@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_a_felipe_zlotogwiazda",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La máquina… fue la de todas. No, la máquina de la izquierda, la que tiene cañería nueva.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después, al ir pasando por peores momentos, sí que estaba claramente de un lado, del mismo lado, sí, del peronismo, y por lo tanto era mejor callar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros hemos tenido dos grandes logros. Uno que siempre te preguntaba a vos: yo no voté al Fondo, pero ganamos en una relación fortísima con el Fondo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A mí me parece que el gran cambio se produce, primero, el 3 de agosto, cuando asume Sergio Massa; y segundo, el más importante de todos, cuando Sergio Massa queda como el principal y seguro candidato a presidente de la República por Unión por la Patria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no tienes reservas, ¿qué puedes hacer? Bajar mucho más las importaciones.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El verdadero antagonista del peronismo, es decir, de todo Unión por la Patria, no es Bullrich, es Milei.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei representa a muchísimos jóvenes, a esos jóvenes que se abren paso con una motocicleta chiquita, pasando ante los autos de manera muy riesgosa, y que sienten que las regulaciones del Estado, etcétera, son un enemigo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5160
+}

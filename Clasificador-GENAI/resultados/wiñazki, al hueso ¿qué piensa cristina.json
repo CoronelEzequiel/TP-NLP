@@ -1,0 +1,51 @@
+{
+  "texto_id": "Cristina_Fernandez_de_Kirchner_un_silencio_que_habla",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Su silencio genera especulación, especialmente considerando su influencia en el gobierno y la percepción de la confianza de los inversores en Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su opinión sobre la CGT también es negativa;  históricamente se ha mostrado distante de los sindicatos, incluso negándose a aportar fondos para el monumento a Perón, según registros de conversaciones con Antonio Cafiero.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Muchos creen que busca impulsar a La Cámpora al poder.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Máximo Kirchner, considerado por ella como su principal referente político, percibe a Horacio Rodríguez Larreta como el principal opositor, justificando así las acciones del oficialismo contra la gestión del jefe de gobierno porteño, incluyendo la quita de fondos de coparticipación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su objetivo es reformar la justicia, apartando a quienes considera responsables de su persecución, particularmente en la causa de los cuadernos de la obra pública.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su opinión sobre el empresariado es ambivalente; si bien ha criticado a algunos sectores, comprende la necesidad de que Alberto Fernández se acerque a ellos, así como al FMI.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su rechazo al voto en contra de Nicolás Maduro en la ONU, y su desaprobación a la medida de bajar las retenciones para la liquidación de granos, ilustran su postura frente a las políticas internacionales y la economía agropecuaria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien mantiene comunicación con Alberto Fernández, sus diferencias ideológicas son significativas, lo que explica su silencio, ya que su expresión pública podría generar una crisis aún mayor.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1799
+}

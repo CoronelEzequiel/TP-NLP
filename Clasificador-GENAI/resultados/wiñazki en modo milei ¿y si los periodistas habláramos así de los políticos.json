@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La indignación ciudadana es palpable.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sus actos de corrupción y mentiras han generado un profundo rechazo social.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Han abusado de su poder, creyendo pertenecer a una clase superior, sin considerar el daño causado a la población.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, enfrentan las consecuencias de sus acciones, el fin de sus privilegios económicos y la pérdida de su influencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se les acusa de manipular la información, difundiendo noticias falsas para favorecer a determinados candidatos o intereses.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las redes sociales han facilitado la difusión de la verdad, exponiendo sus acciones corruptas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Han perdido el monopolio de la información y el control del discurso público.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su tiempo de impunidad ha concluido.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente exige transparencia y rendición de cuentas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El pueblo ha recuperado su voz.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se ha terminado el tiempo en que los políticos actuaban con impunidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1204
+}

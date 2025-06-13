@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La descomposición de la discusión es sintomática de la descomposición del gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, sin embargo, desde el cristinismo, afirman, omitiendo que ese gabinete fue pergeñado por Cristina, que es un gabinete del odio contra Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando el kirchnerismo duro apela al odio, está señalando a un enemigo, está demarcando una línea.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Frente de Todos se reconfigura así como el frente del odio a instancias de su propia autora.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina, que fue la madre de la quimera, ahora desmonta lo que ya se sabía que era una unión imposible.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que tenemos ante nuestros ojos es la degradación de las instituciones cuando son envilecidas en pos de una guerra facciosa.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Atacar su figura es también atacar el sistema.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo funciona en la órbita de una autocracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De alguna manera, ya admitieron que hay un golpe en ciernes, aunque sea insólita la explicación de Berni, diciendo que el presidente se hace un golpe a sí mismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para ellos, hacerse un golpe es no obedecer, no alinearse absolutamente a la jefa absoluta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2415
+}

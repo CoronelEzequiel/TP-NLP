@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_politico_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.657,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La Libertad Avanza y el PRO están a pocos capítulos, dicen, de concretar su romance con una nueva alianza política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El PRO es un proyecto de centro derecha institucional y La Libertad Avanza es un espacio de extrema derecha con visos de tener derivas por fuera del sistema democrático.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Es decir, que necesita la fusión con el PRO para seguir gobernando? ¿Que sin ella no tiene futuro?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Estarán dispuestos los dirigentes del PRO a acompañar o a la fusión de lo que realmente significa un giro del centro de la institucionalidad del país a uno totalmente diferente?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este mismo programa lo dijo el 10 de enero de 2024, vamos a escucharlo. Pero lo cierto es que todo nos une a una idea federal y con esta idea de centro, de tratar de dar gobernabilidad pero no botar todo al libro cerrado",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Milei está loco y, por tanto, cree que le han elegido presidente a él y no a Macri. No es posible una bicefalía.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Milei fracasa, el PRO va a caer en una catástrofe también.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3660
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "scioli",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Argentina necesita exportar cada vez más, atraer inversiones y haber reencauzado la relación con Brasil, que atravesó un muy mal momento cuando llegué en agosto de 2020.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gestión con el Fondo Monetario Internacional, con un acuerdo que fue respaldado por el gobierno brasileño, permitió obtener los fondos necesarios.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos un problema de inflación, la gente tiene dificultades para llegar a fin de mes, se ha generado un nuevo costo de trabajo, de hecho la tasa de desocupación ha bajado al 7%, la economía se ha recuperado más del 10%, sabemos que la pobreza ha disminuido, pero creo que aún queda mucho por hacer para revertir esta situación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre soy el goleador. El pichichi. El pichichi, y estoy trabajando intensamente, pues siento que puedo ayudar mucho al país en este momento.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Obviamente, claro, pero bueno, la gente… hay que entenderla. Te confiamos que dijiste 'bueno, mamá, es una oportunidad' y después pasó todo lo que pasó, pero yo estaba absolutamente convencido de que había dos caminos hacia el futuro del país: el camino del ajuste, la decisión que después fue tomando, la vuelta al Fondo Monetario Internacional —en eso puse mucho énfasis, lamentablemente, acerté, se dio y vemos el problema que estamos ahora—.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3176
+}

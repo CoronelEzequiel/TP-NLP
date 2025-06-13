@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Si, por supuesto.  Viendo que la gente votó mi ley en el campo no por una baja de retenciones, sino por un cambio de modelo que implica una macroeconomía estabilizada, una microeconomía menos regulada, con mayor facilidad para exportar e importar, se supone que después de la ley base, Sturzenegger debería desregular y trabajar sobre la microeconomía, que es lo que falta.  El problema de Argentina se resuelve sustentablemente con mayor crecimiento, más empleo, más trabajo y más exportaciones. La desregulación es clave para ello. Argentina tiene un futuro importante en la agricultura y la producción de alimentos para los próximos 20-30 años.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina venimos cometiendo errores desde hace 20-30 años; algunos dicen incluso más. Debemos mirar las cosas sistémicamente y dar vuelta la página. Para ello necesitamos estabilidad macroeconómica, desregulación, mayor integración al mundo y facilitar las inversiones; todo esto está contenido en las leyes e ideas de este gobierno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 2025, año electoral atípico, augura un año de desigualdad y ajustes, y nuevos conflictos.  ¿Por qué? Porque el ajuste fue severo.  Estos rubros lo soportaron:  las transferencias a provincias para obra pública se redujeron casi a cero, las becas Progresar tienen un tercio de lo que tenían antes, el programa \"Potenciar Trabajo\" tiene menos de la mitad de los recursos, y jubilados y PAMI, soportaron la mayor carga.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei tiene como activo la falta de una oposición fuerte que ofrezca un futuro alternativo.  ¿Dónde ven los poderosos de Argentina que Milei cumplió su misión? En la reducción del Estado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El discurso de la reducción del Estado oculta la verdadera disputa por la apropiación del excedente. Si hay excedente el año que viene, será disputado, y pocos en la pirámide social podrán apropiarse de una mayor porción.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2958
+}

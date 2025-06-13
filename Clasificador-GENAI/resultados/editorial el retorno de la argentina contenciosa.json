@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Quienes argumentaron que el gobierno está llevando adelante un intento de reforma constitucional encubierta —es decir, sin convocar a una Asamblea Constituyente— tienen un núcleo de razón.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "el sentido general de todas las resoluciones y propuestas es el mismo: despojar de derechos a las clases trabajadoras y populares y colmar de privilegios al poder económico.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Gatito mimoso del poder económico\", dijo William Brackman en el debate presidencial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La realidad dictamina que el triunfo electoral no fue sinónimo de adhesión a todos sus postulados ideológicos reaccionarios, sino una mayoría circunstancial, más frágil de lo que ellos creían, producto de una crisis de representación política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero Gerchunoff agregaba que \"ese boxeador se va a recuperar\", que la sociedad argentina es rebelde, plebeya, molesta e igualitaria, y que no perderá esos rasgos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2009
+}

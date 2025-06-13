@@ -1,0 +1,36 @@
+{
+  "texto_id": "OVC-A",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si fuéramos historiadores del año 2080-2090, mirando hacia atrás, a la Argentina del último mandato de Cristina Kirchner, de Macri, de Alberto Fernández, quisiéramos identificar el problema central, probablemente sería la inflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aquí, Milei actúa con sabiduría política al priorizar el ataque a la inflación, porque el capital político actual reside en vencer a ese 'dragón'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una tendencia en el gobierno de Milei de desdén por los problemas de calidad institucional, que se empieza a ver en el exterior.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Valdés admitió y avaló una perversidad del gobierno de Massa: aumentar la deuda del Banco Central de manera delirante, permitiendo que el Banco Central garantice el precio de determinados bonos del Tesoro.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei prometió destruir a la élite política corrupta, pero ahora enfrenta acusaciones de hipocresía por la nominación de Ariel Lijo para la Corte.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5502
+}

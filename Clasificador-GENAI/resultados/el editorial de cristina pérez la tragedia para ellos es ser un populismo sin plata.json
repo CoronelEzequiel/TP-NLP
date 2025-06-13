@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.783,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El terror al *default* parece haber tenido un efecto balsámico y ordenador, empezando por el propio presidente, quien viene sosteniendo la voluntad de acordar con el Fondo Monetario Internacional por quinto día, a pesar de la renuncia de Máximo Kirchner",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El diseño del poder de Cristina Kirchner para controlar la consola del gobierno, contradiciendo la jerarquía constitucional para que la vicepresidenta mande al presidente, tiene sus bemoles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La tragedia real para ellos es ser un populismo sin plata, y la crisis les llegó como un bumerán después de aplicar obstrucciones durante el gobierno de Mauricio Macri.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La divinidad tronó con la pandemia, y ahora no hay escapatoria al FMI, al que el kirchnerismo odia tanto que le paga en efectivo, otros tiempos, sin duda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Frente de Todos está acabado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa impotencia la hace castigar a la sociedad que no la votó y, como muestra su total radicalización, también la hace confundir.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1840
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "entrevista_Rial_Viale",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.312,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sí, parto de la base – y esto lo dejé claro a Jey Mammón desde un principio- que repudio absolutamente el abuso de menores.  Moral y éticamente, no lo puedo comprender.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá esta entrevista no se hubiera hecho y la justicia hubiera actuado a tiempo.  Lucas Benvenuto y Jey Mammón, el acusado, y los testigos, debieron ser escuchados por la justicia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que es una entrevista importante porque Jey Mammón sigue confundido sobre la edad de Lucas. A mí no me quedó claro, lo único que tengo claro es que Lucas era menor de edad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí, todo será polémico, pero creo que abrirá una puerta importante. Él habla de una historia de amor, de una pareja, de momentos íntimos… eso digo, él lo presenta de una manera que intenta romantizar algo que, para mí, es una aberración.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jey Mammón también tomó la decisión de dar la nota.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Él abre el debate sobre la edad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero volviendo al debate, él dice que hay que sacar la careta, dejando entrever que no sería el único que mantiene este tipo de relaciones.  Es su salida, ¿no?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La víctima es Lucas Benvenuto. No hay otra víctima.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3571
+}

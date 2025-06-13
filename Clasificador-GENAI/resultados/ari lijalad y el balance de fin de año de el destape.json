@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.117,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Llegué al Destape a finales de 2017.",
+      "score": 0.05,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el Destape, revelamos, por ejemplo, las reuniones de los jueces Borinsky y Yorno con Macri en la Quinta de Olivos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos colegas se hicieron los distraídos. Deberían revisar por qué estas cuestiones solo se publicaron en el Destape.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si revisan el trabajo de la sección Economía del Destape –de Cristian Cardillo, Javier Flucchi, Rodrigo Núñez (me olvidaré de algunos, seguro)–, verán notas críticas de la política económica del gobierno.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fuimos el único medio denunciado penalmente dos veces este año, con pedidos de hasta seis años de cárcel.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Seremos explícitos en lo que pensamos y a quién apoyamos, y lo haremos con periodismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1791
+}

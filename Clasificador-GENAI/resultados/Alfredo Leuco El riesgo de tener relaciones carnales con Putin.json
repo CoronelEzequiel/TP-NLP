@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Las relaciones con un zar como Vladímir Putin, que viola los derechos humanos esenciales, son extremadamente peligrosas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese texto, conseguido por Carlos Pagni, es un gran hallazgo periodístico que nos permite confirmar muchas de las certezas que teníamos sobre el nivel de desidia, improvisación, mala praxis y capricho ideológico jurásico del presidente Fernández y, también y sobre todo, de Cristina Fernández de Kirchner, la jefa del jefe del Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie olvida cuando Alberto le \"chupó las medias\" a Putin y le dijo: \"Los amigos se conocen en los momentos difíciles\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y Axel fueron los abanderados de la voz y del martillo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Veo la fotografía de Cristina con Putin o de Nicolini y Bissotti en la Plaza Roja allí frente al Kremlin y creo que estamos en el horno, coincido con el tuit de Paula Oliveto.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La diputada de la Coalición Cívica dice al final: \"Hay que ser delincuentes para jugar a la geopolítica con la vida de los argentinos\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2207
+}

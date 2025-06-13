@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hermanos, compatriotas, tenemos que refundar la patria. Refundar la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La grieta tendría que ser patriotismo versus globalismo. Me sigo diciendo, ¡viva la patria, carajo! Somos Malvinas, no somos Ucrania.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya tenemos tres generaciones de argentinos viviendo de planes sociales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestros políticos también nos fallaron. Es el momento de hacernos cargo. La solución ya no está afuera.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mataron a un fiscal de la Nación Argentina. Y Cristina nos dice que pensó que era un chiste a la madrugada. Y nos quieren hacer creer que Nisman se mató.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La guita que le falta a los jubilados se la llevan los pendejos de La Cámpora. Estas son las prioridades.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente se convirtió en una caricatura de sí mismo. De verdad, mírenlo un poquito más, da vergüenza ajena.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con nuestros hijos no, basta. ¡Detesto a la Organización Mundial de la Salud! Los detesto, hijos de puta. Es un curro, es un negocio. No les importa nuestra salud. Les importa hacerse millonarios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6715
+}

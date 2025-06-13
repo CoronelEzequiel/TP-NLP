@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.217,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de Javier Milei sufrió su primera derrota política de magnitud con la caída del megaproyecto de ley OVNI-Bus, que naufragó escandalosamente en el Congreso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta derrota, como suele decirse respecto de la inflación, es multicausal. Se debe a la impericia y a la improvisación de un gobierno que parece creer tener asegurado el favor popular para siempre y ser el elegido por una fuerza superior.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El revés también se debió a los límites que encontró el gobierno por arriba, con los llamados bloques dialoguistas, que representan distintos intereses locales y empresariales afectados por el reseteo general propuesto por el gobierno.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La derrota también respondió a la presión desde abajo, manifestada en el masivo paro y las movilizaciones del 24 de enero, y en las combativas acciones de las asambleas barriales y la izquierda frente al Congreso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizá lo más relevante de la derrota del gobierno es que puso en evidencia la fragilidad del gobierno, la ausencia de una base social que lo defienda incondicionalmente, la impericia política del personal gubernamental, sus delirios místicos y la falta de recursos políticos para imponer su plan.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si con un paro parcial y movilizaciones se logró una derrota resonante, ¿qué pasaría con un plan de lucha serio y ampliamente consensuado?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2033
+}

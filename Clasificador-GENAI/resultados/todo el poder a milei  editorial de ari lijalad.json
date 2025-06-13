@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.057,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "De un grupo de empresarios que ha puesto un títere de presidente, pero que quieren que ese títere concentre todos los poderes del Estado para habilitarles todos los negocios que quieran.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa manifestación fue reprimida, hay detenidos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quieren que gobierne Milei solo, sin el Congreso, todo el poder a Milei, eso es lo que dice acá.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ponen en venta todo, otra vez.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En dictaduras todo el poder lo tenían las cúpulas militares, que también eran el brazo ejecutor de las cúpulas empresariales.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy Milei es el brazo ejecutor de unas cúpulas empresariales que sí son sádicas, que sí son morbosas, que sí son cínicas, que sí son violentas, que sí son antidemocráticas, y hoy lo volvieron a ratificar con este proyecto de ley.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2260
+}

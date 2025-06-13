@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.662,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, yo creo que en eso anda la nueva Argentina, ¿no?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, si el presidente quiere destruir el estado, que tiene que controlar que estas empresas no me contaminen los ríos, que no me dañen la tierra, ¿quién carajo va a cuidar a los argentinos y a las argentinas?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El populismo sabe cómo tentarte.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que impedir que salga la ley, sea como sea. Incluso, creo yo, apelando a la violencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El único objetivo hoy es destruir al gobierno, nada más.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La tarea primordial del jefe de Gabinete, Guillermo Francos, es sacar la ley como sea, para generar tranquilidad, orden, certidumbre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si comienza la recuperación, el populismo entra en fase terminal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que el gobierno sabe que el kirchnerismo va a intentar algo, recrear el show de las piedras.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4851
+}

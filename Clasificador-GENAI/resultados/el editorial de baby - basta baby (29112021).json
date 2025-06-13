@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.822,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Ahora piensen que menos mal que el kirchnerismo perdió las elecciones, porque si no, si les decían algo a estas dos asesinas, te mandaban los pañuelos verdes a la puerta o saltaba alguna diciendo que la habíamos acosado.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto de dejar hacer cualquier cosa a cualquiera, darles libertad absoluta a estos individuos es como darle un arma a alguien que no sabe disparar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y les digo, y aunque mañana se hagan el festín del bavi, me gustaría que a estas asesinas les hubiese pasado lo mismo en un país con pena de muerte, y que las frieran en una silla eléctrica.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque yo creo que del otro lado de los pañuelos verdes, de las feministas, están las mujeres de verdad, las que toman cinco bondis, las que trabajan, las que mantienen a los hijos, las que quedaron solas con los hijos y los llevan adelante…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ya que estamos, barra la cárcel para cuando entre Cristina Kirchner, porque a la corta o a la larga va a tener que caer, y se van acabando las coartadas.",
+      "score": 0.88,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por supuesto, a estos tipos hay que sacarlos de la justicia, es urgente; y si es posible, metérselos presos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2732
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.842,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En la Argentina, ustedes ya lo saben, son tan indeseables estos políticos que se jactan de que nadie los puede comprar. Por ejemplo, políticos como Victoria Donda se jactan de que nadie los puede comprar. Hasta que al final los compran.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo me quiere comprar y yo no me quiero vender.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Donda votó a favor de los violadores. Es parte de un gobierno que liberó violadores, los presos de la pandemia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo les digo, tenemos un feminismo del orto. Son unas sinvergüenzas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solo debe cerrar ya el Ministerio de la Mujer, también tiene que cerrar el INADI y destinar los fondos, producto del esfuerzo de todas las argentinas, a la gente. Con educación, con educación no se necesitan estas instituciones inventadas para mantener la militancia acá.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Faltan 648 días para que estos impresentables se vayan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8140
+}

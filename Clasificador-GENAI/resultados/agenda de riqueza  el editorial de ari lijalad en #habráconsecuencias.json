@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"La lucha de clases se siguió peleando, y no solo se siguió peleando, sino que nosotros los ricos vamos ganando. Y le agrego yo: van ganando por goleada.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno de los grandes logros de los ricos es que no se hable de ellos. Si hay algo que vale mucho dinero en los medios de comunicación es el silencio, es que las cosas no se digan. Es mucho más caro el silencio en los medios que las promociones, y sobre todo que no se hable de su riqueza.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las 500 empresas más grandes de la Argentina, según la encuesta de grandes empresas del INDEC, solo generan el 12% del empleo registrado. Todo el resto del empleo lo generan medianas, pequeñas, microempresas, comercios, etc. O sea, el 88%.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde 2020, los cinco hombres más ricos del mundo han duplicado sus fortunas. En el mismo período, casi 5.000 millones de personas se volvieron más pobres.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El capítulo Milei Argentina está admirado en este momento en el mundo.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3362
+}

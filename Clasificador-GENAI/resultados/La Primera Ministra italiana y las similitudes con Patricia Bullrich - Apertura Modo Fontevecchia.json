@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Como se preveía, ayer triunfó en Italia la derecha, más a la derecha de todas: \"Fratelli d'Italia\" (Hermanos de Italia).",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ambas representan a sectores conservadores de la sociedad, que piden reducción fiscal y un endurecimiento migratorio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única forma de revelarse es ser conservadores. La única forma de ser rebeldes es preservar lo que somos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo mañana puedo no tomar vino, usted mañana va a seguir siendo corrupta. Parafraseando a Churchill. Le dije: Conmigo, que Cristina no se me meta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2444
+}

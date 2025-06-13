@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.81,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El temor al *default* parece haber tenido un efecto balsámico y ordenador, para empezar, en el propio presidente, quien viene sosteniendo la voluntad de acordar con el Fondo Monetario Internacional por quinto día consecutivo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El diseño del poder de Cristina Fernández de Kirchner para controlar la consola del gobierno, contradiciendo la jerarquía constitucional para que la vicepresidenta mande al presidente, tiene sus bemoles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La tragedia real para ellos es ser un populismo sin plata, y se les vino como un búmeran la crisis después de aplicar obstrucciones a todo durante el gobierno de Macri.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Frente de Todos está acabado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no se puede ir como Chacho Álvarez. Necesita los fueros como Menem, pero está mucho más complicada.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1786
+}

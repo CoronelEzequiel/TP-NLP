@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Independencia, al igual que libertad, son palabras benditas para quienes creemos en la democracia republicana.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana, en todas las plazas y en todas las calles, una parte de los argentinos honestos y democráticos, en multitud, cantarán por una Argentina sin Cristina y mostrarán carteles contra las mafias kirchneristas que dirán \"basta de casta\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un país mejor, digo, más justo, más igualitario, con mucha menos pobreza, con menos desocupación, con más honradez y diálogo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy más que nunca tenemos que construir esa patria que soñamos, sin déspotas ni cadenas, es decir, sin corruptos ni autoritarios ni golpistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Libertad, libertad, libertad y viva la patria!",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que superar los miedos, hay que ejercer nuestra condición de ciudadano sin que Alberto, Cristina o Santiago Cafiero te retén o te acusen de formar parte de una asociación ilícita, o te digan miserable y canalla, periodista, o que odias a la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1834
+}

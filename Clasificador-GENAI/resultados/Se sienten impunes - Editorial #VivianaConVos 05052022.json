@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.792,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La impunidad es la marca de agua del kirchnerismo. No se puede hacer kirchnerismo sin impunidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué si yo trabajo y vos no, tengo que garparte, tengo que ayudarte? ¿Por qué yo laburo y vos no, y tengo que bancarte?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un país que hace una marcha contra la Corte Suprema de Justicia es un país que no tiene destino, se sienten impunes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el país de la carne, la gente más pobre come polenta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos no creen en el mérito. Para ellos, por ejemplo, el que gana más tiene que hacerse siempre cargo del que gana menos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos tipos estaban hoy en tribunales por la democratización del poder judicial. Hace cinco minutos, por corrupto, **Boudou** estaba preso, y **Baradel** debería estarlo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8704
+}

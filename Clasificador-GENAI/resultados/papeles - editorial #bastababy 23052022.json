@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.763,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy escuché a algunos políticos en campaña. Todos prometieron cosas imposibles.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos como estamos por culpa de todos ustedes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la mierda la plata!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero me indigna ese homenaje, porque les mostraré lo que es un billete de verdad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si yo pongo mi foto en este papel que corté, y digo que vale mil pesos, teniendo un respaldo económico, la gente lo aceptará.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto, deja de pensar en qué caritas poner en los billetes y piensa en qué mierda estás haciendo con el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Aguantamos para no cambiar el sistema democrático, pero no te queremos nada, menos en un día como hoy, en que la justicia está de luto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a ir personalmente a buscarte, chorro.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2332
+}

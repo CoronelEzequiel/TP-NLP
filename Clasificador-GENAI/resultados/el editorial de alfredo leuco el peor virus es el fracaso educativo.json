@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El boletín de calificaciones de este gobierno en particular y del kirchnerismo en general es de terror.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obligaron a los sectores más humildes a llevar a sus hijos a escuelas parroquiales donde se paga una cuota moderada para que no perdieran tantos días de clase.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En lugar de mirar los mejores modelos como el de Finlandia, utilizaron el espejo del atraso y el falso progresismo, en realidad el regresismo de los tiranos que gobiernan Cuba y Venezuela.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hablo de la apuesta al mérito, al esfuerzo que busca la excelencia y a que nada es fácil en la vida y que por eso debemos sacrificarnos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Transformaron las escuelas y, en muchos casos, las universidades en unidades básicas al servicio de su proyecto autoritario, autocrático y nacional populista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es una batalla cultural que el kirchnerismo tiene casi ganada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2138
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Sus acciones se contraponen a las recomendaciones de organismos internacionales como *The Economist*, que en su última edición, utilizando el índice Big Mac, evidenció una sobrevaluación del peso argentino, reflejada en un dólar barato y precios altos en dólares.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El FMI busca evitar un nuevo préstamo riesgoso que exponga al organismo a críticas, especialmente considerando la posibilidad de fuga de capitales por parte de la población adinerada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto contrasta con la estrategia del ministro, quien prefiere utilizar las reservas para controlar la cotización del dólar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La caída de los precios de la soja, sumada a la sobrevaluación, redujo los ingresos de las exportaciones agrícolas en un 15% respecto a noviembre de 2023 y un 40% respecto al promedio del gobierno anterior.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si bien la baja de retenciones implica una menor recaudación fiscal (equivalente al costo de una ley de financiamiento universitario vetada), el principal problema radica en la falta de acumulación de reservas por parte del Banco Central.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1990
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei_religion",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La tesis de esta apertura de hoy es que Javier Milei descubre que necesita algo que le falta, que tiene que ver con lo inmaterial, no lo material, no la teoría económica, sino un apoyo moral religioso que no lo encuentra claramente en la religión mayoritaria de la Argentina, porque tenemos un Papa al que él critica, y que observa en el caso de Brasil la importancia que tuvieron para el presidente Bolsonaro los religiosos brasileños, lo mismo que en el caso de Trump, y que él puede encontrar un punto de contacto entre su teoría económica y el conservadurismo judío, el jasidismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En cada campaña presidencial, un candidato se presenta como guardián de los valores cristianos, promoviendo las ideas evangélicas para obtener su voto. Ronald Reagan lo hizo. También lo hicieron los Bush y, más sorprendentemente, Donald Trump. \"Soy el elegido. Siempre apoyaré a la comunidad evangélica. En Estados Unidos no alabamos al gobierno, alabamos a Dios\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, la tesis es que hay un punto de contacto, podríamos decir, entre el judaísmo ortodoxo y el liberalismo, o el libertarismo, perdón; una lectura que se podría realizar específicamente de la Torá que permitiría conectar, podríamos decir, el judaísmo jasídico con el libertarismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La periodista judeo-mexicana Jessica Kremerman comentó que el judaísmo cree en el individuo y en su capacidad e iniciativa. Eso se desprende del mandato de Dios a Adán y a Eva de que se reprodujeran y llenaran la tierra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer me tocó entrevistar al Premio Nobel de Economía, Robert Aumann, es el Premio Nobel de Economía 2005, junto con Nash es el mayor aportante a la idea de la teoría de los juegos. Y él me decía ayer, es además muy religioso, un judío muy religioso, él me decía ayer, hacía muchas referencias sobre el Talmud y la economía, la teoría de los juegos es fundamental en la explicación de la teoría económica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4030
+}

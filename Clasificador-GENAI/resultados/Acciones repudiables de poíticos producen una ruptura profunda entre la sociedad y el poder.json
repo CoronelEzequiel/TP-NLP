@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.489,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Un político, a diferencia de un artista, trabaja con su propia credibilidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Más allá de las fotos, de los chats, de los videos que involucran al ex presidente Alberto Fernández, lo más relevante políticamente es el espejo de violencia de género y de abuso de poder que se pretende realizar entre Alberto Fernández y Cristina Fernández de Kirchner, con el que se pareciera esculpir a la ex vicepresidenta de los errores de gobierno de quien con ella compartió la fórmula presidencial.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las filas del peronismo hay discusiones, excepción, acusaciones del gobierno de estar utilizando esto políticamente; me refiero al gobierno actual de Javier Milei, un pase de facturas internas entre los propios peronistas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, y esto ya lo que sale en estos últimos días, es el colmo de todos los colmos, realmente más abajo no hay nada, traicionó a Cristina Fernández de Kirchner, traicionó a la militancia como lo expresó Ofelia, que lo militamos, que hablamos de él, que confiamos, que teníamos esperanzas para que pueda hacer de la Argentina lo que habíamos propuesto.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Javier Milei en múltiples apariciones televisivas ha hablado de la falacia *ad hominem*, en este tipo de recurso falaz e incorrecto, en el que se confronta un argumento descalificando a quien lo emite.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La política es un hecho colectivo, un hombre solo puede hacer poco, un político que tenga una credibilidad destruida como la que hoy tiene el presidente Alberto Fernández probablemente no pueda hacer nunca nada más.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La intendenta de Quilmes, Mayra Mendoza, dijo que Alberto Fernández fue violento políticamente con Cristina Kirchner, que me parece que es el tema central en esto, si finalmente dentro del peronismo se utiliza las acusaciones de violencia de género de Alberto Fernández para con la ex primera dama como un espejo para con la ex vicepresidenta.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cualquiera puede leer mi celular, no sé si todos pueden decir lo mismo",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Kirchner finalmente está pagando con su prestigio y, por lo tanto, con su carrera, por haber cometido lo que a todas luces fue un error político y aún no sabemos si será totalmente arrasada por esto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5346
+}

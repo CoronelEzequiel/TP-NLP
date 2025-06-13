@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El presidente de la Nación perdió definitivamente el don de la oportunidad y confirmó que posiblemente tampoco tenga retorno del ridículo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que parece haberse perdido por completo es la conciencia del presidente sobre sí mismo, de cara a los argentinos y de cara al drama que atraviesan.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Verlo da vergüenza ajena.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya la saga de reverencias y agachadas en Rusia y China eran instantáneas poco felices, pero la escalada del divorcio con la realidad que expresa la serie de fútbol playa del presidente abrevian lo payasesco.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Qué hace el presidente en la playa cuando debería estar en Corrientes?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gravedad de la hora hace más pesada la mano y la cachetada.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1749
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La inflación genera angustia y miedo; es la principal preocupación en los hogares argentinos, desestabilizando la vida diaria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A pesar del acuerdo con el Fondo Monetario Internacional y la promesa de detener la emisión monetaria en dos años, la desconfianza en el peso argentino es enorme, según concluye el analista.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La devaluación del peso es una bomba para las familias, agravando minuto a minuto los índices de pobreza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente realiza una serie de discursos en los que parece enojado, incluso en actos inaugurales, desconectado de la realidad y pareciendo, en el mejor de los casos, burlarse de la situación.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner permanece en silencio, como si eso la eximiera de responsabilidades, a pesar de que este también es su gobierno.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es evidente el malestar del kirchnerismo por el acuerdo con el FMI, y el aumento de las tarifas se encuentra en el centro de sus críticas.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En menos de un mes, el país enfrenta un vencimiento que no podrá pagar al FMI.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno afectado por fuertes internas socava su propia gobernabilidad.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1796
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "Argenzuela",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.114,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Queremos una remera de esas.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pedimos provoleta bohemia (con morrón y panceta), de las mejores que he comido.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo pedí ravioles de osobuco con salsa de cuatro quesos, ¡espectaculares!",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este lugar es un poco más barato que Los Bohemios: entre 7000 y 8000 pesos por persona.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Otra cosa muy buena es la atención: los dueños y los mozos son muy amables.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si quieren, la semana que viene hablamos de bodegones de la provincia de Buenos Aires (del Norte y del Sur).",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Exactamente, @ArroaBodegonero, ¡hasta el viernes que viene!",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1960
+}

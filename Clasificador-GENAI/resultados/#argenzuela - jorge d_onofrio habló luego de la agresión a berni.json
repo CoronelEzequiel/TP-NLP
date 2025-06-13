@@ -1,0 +1,56 @@
+{
+  "texto_id": "Jorge Rial",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.256,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lamentablemente, fuimos a dialogar y, bueno, se desbordó la situación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente estaba muy afectada por la muerte del compañero, pero no vamos a aflojar y trataremos de seguir construyendo puentes para solucionar esto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evidentemente, un pequeño grupo, los más cercanos a la víctima, se excedió.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La verdad es que no quiero juzgar a nadie; fue una situación que se salió de control.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los que roban colectivos son lo peor de lo peor, porque no roban recaudación, sino a pasajeros y choferes indefensos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero esta vez la justicia actuó con mayor celeridad, porque los choferes mismos denunciaban que en otras ocasiones los delincuentes habían quedado libres, incluso con armas homicidas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo cierto es que hoy hay un trabajador muerto, una familia destrozada, y esto obviamente nos afecta a todos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi intención era venir a ver qué podíamos mejorar, qué se podía hacer, y dar un abrazo a los compañeros del trabajador fallecido y a su familia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sergio es quien se llevó la peor parte, pero hay que seguir trabajando y solucionando este tema.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1570
+}

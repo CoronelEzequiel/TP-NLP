@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Embriagados por el triunfo en las PASO, se sobregiraron él y sus referentes, y comenzaron a desplegar un programa de ajuste salvaje: privatizaciones, aplicación de la lógica mercantil a todos los ámbitos, copia del discurso de los genocidas de la última dictadura militar, etc.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Solo un candidato de extrema derecha con propuestas delirantes, en combinación con la debacle de Juntos por el Cambio, pudo lograr la hazaña —y pongo comillas— de que un candidato oficialista, responsable de una economía con una inflación altísima, saliera primero en la elección, recuperando casi 3 millones de votos entre las PASO y las generales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para despejar dudas, Massa formuló su llamado a un gobierno de unidad nacional, incluyendo al gobernador Gerardo Morales, a peronistas del PRO y a Horacio Rodríguez Larreta (al margen de que este último diga que no acepta), postulando su propósito de terminar con la grieta (es decir, con el kirchnerismo o condenarlo a una oposición testimonial).",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este caso, la estupidez de Mauricio Macri, destruyendo uno a uno a los referentes de su coalición por no aceptar el declive de su liderazgo: primero a María Eugenia Vidal, después a Horacio Rodríguez Larreta y finalmente a Patricia Bullrich. Y ahora va por Milei. Hizo detonar a Juntos por el Cambio, lo que habilitó a Milei a fagocitar parte de su electorado.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2539
+}

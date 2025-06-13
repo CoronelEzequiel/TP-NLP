@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.673,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se está produciendo un enfrentamiento, por decirlo metafóricamente, entre ciertos sectores del cristianismo y el gobierno de Alberto Fernández.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Boudou propone anular todas las causas relacionadas con lo que él denomina \"lawfare\", es decir, las investigaciones sobre corrupción kirchnerista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ante la pasividad del gobierno, continúa el ataque frontal contra Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner exige a Alberto Fernández que frene la persecución judicial en su contra, y él no lo hace.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina no hay presos políticos, hay políticos presos.",
+      "score": 0.6666666666666666,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1497
+}

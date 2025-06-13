@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.889,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Es inadmisible la complicidad de algunos líderes políticos con regímenes autoritarios como el de Vladimir Putin, Nicolás Maduro y Fidel Castro.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus dichos, con todo respeto señor presidente, han sido muy criticables.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dylan tuiteó algo así como: \"Le dije a Alberto que no hiciera la fiesta porque nos íbamos a contagiar\", lo cual demuestra la falta de responsabilidad del gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras el mundo se enfrenta a la posibilidad de una tercera guerra mundial, en Argentina el gobierno se centra en temas triviales para intentar conseguir apoyo político, como el debate sobre la orientación sexual.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me indigna la corrupción, la ineficacia del Instituto Nacional de la Mujer, que percibe un alto presupuesto sin resultados visibles.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno está llevando al país a la ruina y no hay una solución a la vista.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una actitud irresponsable apoyar a Vladimir Putin.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con todo respeto, considero que el gobierno actual es corrupto e inepto.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos están llevando a la ruina, y esto no se debe a que el país no tenga valor, sino a la incapacidad de quienes nos gobiernan.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2055
+}

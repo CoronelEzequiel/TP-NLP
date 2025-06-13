@@ -1,0 +1,91 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.097,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno nacional, al ajustar los números, reduce los impuestos a los sectores más privilegiados, una práctica recurrente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las provincias recibieron un 75% menos de los fondos que les corresponden.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación se considera una estafa, y aunque se atribuye a conflictos entre [Nombre funcionario 1] y [Nombre funcionario 2], el problema es la falta de recursos, no la responsabilidad individual de ambos funcionarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se paga IVA en La Matanza, esos fondos deberían regresar a sus ciudadanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La provincia de Buenos Aires recibió 780 mil millones de pesos menos en seguridad el año pasado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de recursos para la seguridad pública lleva a un aumento de la delincuencia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo mismo sucede en otros sectores: la falta de fondos para escuelas y hospitales genera un deterioro en la educación y la salud.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mal estado de las rutas incrementa el riesgo de accidentes.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Córdoba reportó un exceso de mortalidad del 14% en 2024 respecto al promedio de los cinco años anteriores, una cifra superior al incremento experimentado durante la pandemia de COVID-19.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de acceso a tratamientos médicos básicos incrementa la mortalidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En simultáneo, el sur del país enfrenta incendios y abandono por parte del gobierno y la sociedad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La precaria política económica genera inestabilidad y miedo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno gasta miles de dólares en viajes mientras ignora las necesidades de las provincias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La población sufre consecuencias devastadoras, como la muerte de un ciudadano que utilizaba la bicicleta por falta de recursos para transporte público.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de inversión en ciencia es una amenaza para el futuro del país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación actual podría calificarse como un genocidio por abandono de la población.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2046
+}

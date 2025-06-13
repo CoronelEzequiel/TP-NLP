@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.537,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La realidad es que siguen muriendo personas por COVID-19, y la vacuna no llega a todos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es increíble que tengamos que estar diciendo que un niño con asma… ¡Un niño con pie plano, uno con asma! ¡Vacunémoslos a todos! Son niños, ¡no sean inhumanos!",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy recordé una anécdota de Alfonso.  Nosotros, de Franja Morada, custodiamos al Dr. Armendariz, entonces gobernador, junto a Alfonso, quien no esperaba ganar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No es moderno pedir legalización de drogas o aborto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el sufrimiento de enterrar a un hijo… lo sufren los padres.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Estado legaliza la droga y el aborto por votos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es mejor poner a Cescord.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero el policía está procesado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2401
+}

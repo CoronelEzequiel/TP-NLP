@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.333,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Para mí, inicialmente, de forma primaria y brutal, lo del viernes fue censura.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero decir que hay responsables de todos lados. Incluso los que hoy se victimizan también son responsables.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque se dieron cuenta que era una salida extraordinaria.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Daniel Vila es uno de los dueños de Edenor. Una de las empresas que más se están beneficiendo con este tarifazo brutal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y fue censura, chicos. Fue censura.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A Sergio Massa lo dejó… Massa estaba renegociando bonos y de golpe tiene que desviar su atención en tapar las cagadas de un empresario que está desquiciado y que está tratando de ascender sus intereses y comete el error gravísimo de censurar.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2200
+}

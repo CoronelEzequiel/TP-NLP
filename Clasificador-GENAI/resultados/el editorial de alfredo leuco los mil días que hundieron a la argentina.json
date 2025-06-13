@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.83,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Parece una provocación de Alberto Fernández, un vídeo -recién escuchábamos el audio- es un vídeo autocelebratorio para mojarle la oreja y humillar a millones de argentinos que sufren este gobierno, que es claramente el peor de la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto es un presidente que no preside y que fue vaciado de contenido por Cristina Fernández de Kirchner y por su propia inutilidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un compendio de falsedades.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se creen que la gente es tonta?",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy conocimos la terrible inflación de agosto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Basta de esa retórica, por favor.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un gobierno autoritario que apunta sus cañones contra la justicia, la oposición y los periodistas con el fin de lograr la impunidad que tanto espera y desespera Cristina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estos mil días, además del 100% de inflación anual que se viene, hay que registrar los 20 millones de pobres, las 20.000 pymes fundidas, los dos años sin clase, los casi 5 millones de pesos por mes que cobra la jubilación de privilegio Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese es el ritmo de endeudamiento de un gobierno que dice repudiar a los que tomaron deuda.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En pocas palabras, son mil días que hundieron a la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2280
+}

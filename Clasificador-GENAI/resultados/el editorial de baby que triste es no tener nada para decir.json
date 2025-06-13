@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Parecen peronistas: cuando están llenos, se desmandan.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son presos políticos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay dinastías de ladrones y corruptos en Argentina: abuelos, padres e hijos corruptos que siguen en la política.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si yo me junto con Zlatan Ibrahimović, formamos un equipo de básquet y yo soy el recogedor de pelotas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En otros países, aunque también hay corrupción, la justicia es independiente, sagrada e independiente, pero aquí no.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los únicos contentos son los chorros y delincuentes que se quedaron con el país en la época de Cristina, y que saben que ahora los van a liberar como pajaritos, como palomas.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2316
+}

@@ -1,0 +1,26 @@
+{
+  "texto_id": "discurso_congreso",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Se presentó un proyecto, y hubo un acuerdo unánime para modificar la ley del 2x1, un tema que requería ser enmendado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Se imagina lo que sería nuestro país si la dirigencia política actuara como lo hizo el martes y el miércoles?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No 80.000, sino 10 temas que Argentina necesita: educación, salud y seguridad social.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 727
+}

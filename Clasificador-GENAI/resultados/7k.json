@@ -1,0 +1,46 @@
+{
+  "texto_id": "riquelme_radio10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, la verdad, a ver Jorge, nosotros tenemos el deseo de que el país mejore, eso es lo más importante, porque es algo grande, porque se está hablando en todo el país, de toda la gente, de que podamos mejorar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno nota desde afuera, Román, y acá estamos hablando un poco de ello, que la oposición se ha unificado con la finalidad de ganar estas elecciones y uno siente que se ensució un poco la elección.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo tengo derecho a hablar con vos, Jorge, de lo que sea. Decirte que te quiero, decirte que no te quiero, decirte lo que sea. O contarte cosas privadas, porque sos mi amigo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, para mí es simple, pero eso no pasa a lo bruto. ¿Por qué la gente tiene que elegir entre Riquelme y Macri? Perdón, que seas bestia y te titules. Pero es así.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Román, del otro lado tenés una especialista en espiar gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros no vamos a meter en ningún juego. Nosotros amamos a nuestro club. Estamos orgullosos de estar en este club.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juegan sucio. Juegan fuerte… pero eso hace que uno tenga más ganas de levantarse cada día.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8473
+}

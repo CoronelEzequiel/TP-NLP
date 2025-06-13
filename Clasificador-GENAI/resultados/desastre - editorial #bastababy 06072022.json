@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Yo no soy una estrella a la que traen en un coche lujoso ni me tienen un asistente, soy un laburante, estoy igual que todos mis compañeros.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no me puedo dar el gusto de no venir, aunque sea con una cámara, aunque sea con una linterna, porque la gente nos necesita, necesita que les hablemos, que no los dejemos, que no los durmamos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso les quería contar que este gobierno generó lo que estamos pasando, que es cuando terminé de discutir con un compañero hoy, decía: \"Esta es la pelea de pobre contra pobre en la discusión de pobres contra pobres, en la lucha de pobres contra pobres\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero necesito salir todos los días al aire para no entregar el país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que la patria se hace trabajando y que la solidaridad de los compañeros se hace elaborando y se hace enseñando que con lo mínimo indispensable se puede llegar a ganar el rey.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si alguno de los compañeros se sintió ofendido, no era mi intención, pero los vi trabajando a todos, pibes al día, temblando porque no tenían idea de cómo era el programa y lo sacamos igual al aire.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2042
+}

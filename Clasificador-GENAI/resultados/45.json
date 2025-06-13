@@ -1,0 +1,71 @@
+{
+  "texto_id": "Juliana_Jorge_Rial",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.058,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Realmente es aberrante que no podamos saber qué pasó, ¿no? Con la expresidenta… ni vayamos a saber qué pasó, porque con la instrucción de la causa… la prueba central se perdió.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos viendo el juicio, que es como… bueno, una parrafada de perogrulladas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero bueno, estamos hablando de autores materiales y lo que nosotros queremos saber, y entiendo que la Argentina toda necesita saber por su generalidad, por su historia, por la sociedad, por el futuro, por nuestros pibes y pibas, es quién está detrás.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es imposible sostener que hay… que son tres lumpenes que quisieron matar a Cristina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que nos toman por idiotas a todos los argentinos, ¿no? A una expresidenta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cualquier país más o menos razonable (no te estoy diciendo países serios, así), bueno, todos los ciudadanos exigen el esclarecimiento del hecho, ¿no?",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y además hay un comportamiento del Poder Judicial acorde a lo que exige la ciudadanía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, yo creo que la ciudadanía en su gran mayoría quiere saber qué pasó, necesita saber qué pasó, porque si no, si Cristina no tiene justicia, ¿qué queda para los demás?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy refiriéndome al diputado Milman, estoy refiriéndome a la familia Caputo, y por supuesto que Patricia Bullrich para mí y para la querella también tiene… bueno, ha sido la facilitadora, obviamente, de borrar las pruebas en los teléfonos de Milman y sus dos secretarias.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, tienen conexiones con los grupos más violentos y más antidemocráticos que tiene la Argentina.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una mujer a la que quisieron matar delante de todos. Es una mujer a la que quisieron matar delante de toda la Argentina.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No quiero que hoy sea el día que yo hable sobre este tema porque va a tapar la violencia que se está investigando acerca de Cristina.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4102
+}

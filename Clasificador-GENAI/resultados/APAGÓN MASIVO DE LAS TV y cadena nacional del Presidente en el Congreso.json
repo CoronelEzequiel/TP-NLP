@@ -1,0 +1,31 @@
+{
+  "texto_id": "septiembre",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei presentó, él mismo, el presupuesto, es una forma de decir que lo presentó, en el Congreso ante un auditorio semivacío con niveles muy bajos de audiencia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de años donde la clase política vivió poniendo cepos a las libertades individuales, hoy venimos aquí a ponerle un cepo al estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algunos que dicen ser economistas, que viven de olvidarse cosas a propósito, salen todos los días en televisión haciendo la cuenta que vivíamos en Suiza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para finalizar, quiero citar nuevamente a Marco Tulio Cicerón, el gran legislador romano que decía: 'El presupuesto debe equilibrarse, el tesoro debe ser reaprovisionable, la deuda pública debe ser disminuida, la arrogancia de los funcionarios públicos debe ser moderada y controlada, y la ayuda a otros países debe eliminarse para que Roma no vaya a la bancarrota, la gente debe aprender nuevamente a trabajar en lugar de vivir a costa del estado'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3517
+}

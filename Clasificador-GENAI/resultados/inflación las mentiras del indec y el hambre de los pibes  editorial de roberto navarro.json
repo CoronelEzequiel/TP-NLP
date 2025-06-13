@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.13,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lo increíble es que el gobierno insista con que la inflación cae, que los salarios suben y que la pobreza baja.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, la suma de lo que ganan todos los trabajadores y todos los jubilados cada mes es un poco menor, sigue disminuyendo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema aquí no es solo que la inflación es más alta, ni solo que la pobreza es mucho más alta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con este desastre que hizo, que planchó los dólares, entonces no hay inversiones, que planchó los dólares, entonces importamos en vez de producir y cada vez hay menos empleo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, lo que hay que frenar, y para eso hace falta un fuerte poder político para enfrentar al presidente, es decir: \"Basta, flaco, basta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1991
+}

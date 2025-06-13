@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.857,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El resultado es un desastre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El populismo siempre fue hecho un gran negador de la realidad, no hay inflación, no hay inseguridad, no hay pobreza, no hay inundaciones, no hay nada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dicen que aman a los pobres, dicen que odian a los ricos, dicen que combaten al capitalismo, dicen que el Estado te... Dicen, dicen, dicen que hacen obra pública, dicen que el que no herimos un gran, dicen que, pero al final te dejan inundarte en la miseria, en la mierda, todos revuelcados.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El pueblo mojado, cagado de hambre, la jefa tiene techito, el pueblo al Hospital Néstor Kirchner, y la jefa a Lota Mendi.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En este contexto, los políticos se tienen que dejar de joder, porque si no, la gente se va a hinchar en serio las pelotas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una inflación absolutamente inhumana que dejó Massa.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "De hecho, hoy Argentina es el segundo país del mundo con más inflación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5184
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "musica",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.71,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dios salve a la reina Cristina. ¡Hay, lo que fue a escucharla hoy, por favor! Hacía cuánto que no la escuchábamos de corrida. Me acordaba de las cadenas nacionales, oh my god. El discurso de la reina. Siempre estamos pendientes del discurso de la reina. Siempre, toda la Argentina, aunque no quiera, está pendiente del discurso de la reina. Todos los días en Argentina esperamos a ver qué dice hoy la reina. Si la reina te baja un gabinete por cartas, si la reina te putea toda la corte. Estamos esperando siempre que el discurso de la reina nos marque la actualidad, hartos del discurso de la reina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dan vergüenza. Hoy tuve toda la sensación de que ya no tenemos que tenerle más miedo a la reina. El discurso de la reina nos hartó. Esta conferencia de la reina tenía un título preocupante: Cristina Fernández de Kirchner, Estado, Poder y Sociedad, la insatisfacción democrática. La reina está muy golpista últimamente. Todos saben que quiere arrojar al presidente por el balcón.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que queremos a este país no queremos que Argentina sea ni un país marginal, ni una anomalía irremediable. Yo no quiero que Argentina sea una anomalía irremediable, ni que siga en una decadencia crónica. Y el problema es que mucha gente empieza a dar a Argentina por perdida, desde hace tiempo, como una anomalía irremediable. Y no lo es, aquí este país puede ser extraordinario. Y el problema es que tiene, se empeñan los mismos errores, es decir, estos mismos gobiernos. Entonces, más allá de analizar el kirchnerismo por enésima vez, o el peronismo, lo que hay que hacer es construir una alternativa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para las Susanas de la vida nada, para las Cristinas de la vida, todo. Qué injusto, ¿no?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos políticas de salud de exportación. La ex de Johnny Depp decide hacerle caso a la municipalidad de Morón y consume de a poquito.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8958
+}

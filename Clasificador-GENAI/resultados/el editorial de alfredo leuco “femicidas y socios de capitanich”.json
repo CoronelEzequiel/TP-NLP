@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.796,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cecilia Strzyzowski fue asesinada por César Sena y su familia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Emerenciano Sena y Marcela Acuña son los líderes de un grupo piquetero mafioso y extorsionador que funcionó hasta ahora como grupo de choque de Jorge Milton Capitanich.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El gobernador del Chaco, conocido como \"Coqui\", les entregó fortunas a esta familia, a la que ya se le pidió el procesamiento con prisión preventiva por el crimen escalofriante de la joven de 28 años, expareja de César.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Capitanich y Emerenciano Sena tienen una sociedad y una connivencia estrecha.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con una disciplina castrista y castrense, exhibieron la bandera de Cuba en una escuela cuyos uniformes tienen la estrella roja y la imagen del Che Guevara.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se apropiaron de miles de hectáreas de tierra y se movilizan en autos de alta gama a los que los más pobres no pueden acceder.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está claro que estos criminales se sentían impunes y parte del poder violento y autoritario que ejerce Capitanich.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En las últimas elecciones, el oficialismo sufrió una fuerte derrota y una de las boletas llevaba las candidaturas de Emerenciano Sena y Marcela Acuña.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los caminos llevan a Capitanich.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son metodologías que se consolidaron con la complicidad del kirchnerismo y de algunos señores feudales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La brigada de Emerenciano Sena es una extraña mezcla de kirchnerismo guevarista y chavista que milita con un justicialista derechoso como el gobernador.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Capitanich está tambaleando en su poder y está haciendo lo imposible para conservar su puesto y ganar las elecciones generales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2419
+}

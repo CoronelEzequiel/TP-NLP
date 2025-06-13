@@ -1,0 +1,46 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.607,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La experiencia del último gobierno, el **kirchnerismo**, ha agudizado muchísimo la preocupación de todos por esa agenda.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De hecho, hay una candidata o precandidata muy relevante en el país, **Cristina Fernández de Kirchner**, que no puede hacer campaña inhibida por su imagen pública, es decir, advierte que lo mejor que puede hacer, o la estrategia más inteligente, es no aparecer, justamente por la impugnación moral que se cierne sobre ella.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene suerte Macri, y tiene suerte Cambiemos, porque en estas relaciones entre justicia, poder político e inteligencia, hay un contraste, y ese contraste que nos ofrece hoy la Argentina, esos dos modelos no tienen nada que ver con la denominada grieta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno hubiera esperado que hubiera un contraste entre el kirchnerismo y Macri, no hay ese contraste, hay más bien continuidad, pero sí hay un contraste dentro de Cambiemos, y ese contraste lo ofrece **María Eugenia Vidal** y pareciera haber dos modelos o dos estilos en relación con la institucionalidad dentro de Cambiemos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando el propio juez **Oyarbide** vive, si bien no contó que Néstor Kirchner lo llamó un día a Olivos para pedirle el sobreseimiento en su propia causa de enriquecimiento ilícito con Cristina Kirchner que la quería antes de Nochebuena, esto fue más o menos en el mes de agosto, se mantenía la conversación y quería rápido la resolución porque quería pasar Néstor Kirchner tranquilo la Navidad.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una curiosidad en todo esto: el juez Carzoglio, que usa este caso ahora para defenderse diciendo: a mí me acosaban, está a punto de ser juzgado en la provincia de Buenos Aires por cantidad de irregularidades que se cometían en su juzgado y, curiosamente, tiene un defensor. ¿Saben quién es el defensor del juez Carzoglio que se resistió tanto a investigar a los Moyano? **Eduardo Duhalde**",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo cierto es que ahora el juez Carzoglio deja trascender que a él lo fueron a ver para presionarlo porque quería que el gobierno, por orden de Macri, metiera preso a Hugo Moyano.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6062
+}

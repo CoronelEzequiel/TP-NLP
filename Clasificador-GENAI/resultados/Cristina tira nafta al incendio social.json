@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.845,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina comprendió que está atrapada y sin salida, va derechito a una condena de prisión por ser la jefa de una asociación ilícita que se dedicó a saquear al Estado.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso descalificó a los hombres de la justicia al decir que la sentencia ya está redactada y firmada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su hijo Máximo Kirchner, el \"príncipe heredero\", el comandante de La Cámpora que es su guardia de hierro, lanzó un video intimidatorio que es casi una incitación a la violencia colectiva.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para el kirchnerismo, la división de poderes nunca existió, por eso prometen un \"quilombo\" si la tocan, es decir, si la condenan, como realmente la van a condenar, no tenga duda.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Sileoni, ministro de Educación bonaerense, nada menos, vomitó un tuit que dice: \"Macri impune. Cristina Kirchner perseguida. Cuidado, hay límites\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otra vez la amenaza, dijo Alejandro Finocchiaro, el diputado y exministro de Educación de Macri, que no puede incitar a la violencia, que no puede amenazar, que no puede desconocer los poderes de la república, y además demuestra que no está en condiciones de educar, y después definió el tuit de Sileoni como una apología de la barbarie, la violencia y la sinrazón.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gioja dice que a su \"jefa espiritual\" la persiguen \"en Pocripucio a los ovarios\" para defender al pueblo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay forma de que Cristina \"safe\" sin patotear o atentar contra el sistema democrático y la independencia de los poderes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Soria, en el colmo de su falangismo chavista, expresó su deseo: \"¡Qué lindo sería tener mayoría en el Congreso para echar a todos los jueces de la Corte Suprema!\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El diputado Ricardo López Murphy le contestó fuerte: \"Lo que sería lindo es que nunca más gobierne una asociación ilícita\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2658
+}

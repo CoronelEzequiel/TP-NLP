@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, todas las miradas del mundo están puestas en esta lamentable celebración, un sepelio que nadie querría presenciar, pero que lamentablemente estamos cubriendo como corresponde.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Curiosamente, Mauro, algunos de ellos llegan practicando todo lo contrario a lo que el Papa predicaba.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se espera la llegada de Donald Trump en las próximas horas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recuerdo que en su última visita a Roma, hubo un problema con el estado del edificio de la embajada de Argentina.  No fue por un problema estructural, sino que la hermana del presidente dijo que había \"mala energía\", por lo que se alojaron en un hotel de lujo en Via Veneto, la calle de la Dolce Vita.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estoy muy triste por la pérdida del Papa Francisco, a quien cubrí durante su pontificado para Radio 10.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se trata de los funerales de uno de los Papas más importantes de la historia de la Iglesia contemporánea.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1606
+}

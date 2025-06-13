@@ -1,0 +1,96 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.109,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este grupo heroico de compatriotas se cayó cuando la Argentina se derrumbó, pero decidió levantarse con su propio esfuerzo, militando la cultura del trabajo cooperativo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy La Juanita es un faro de luz.",
+      "score": 0.05,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Muchos creen eso y, en parte, tienen razón, solo en parte, porque es cierto que todas las manos generan esos productos, pero la edificación más grande que han levantado es la capacidad de juntarse y avanzar colectivamente con un objetivo de libertad absoluta, que solo se consigue cuando todos se convierten en uno y uno se transforma en todos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En La Juanita nada se pierde, todo se transforma y se multiplica como los panes y los peces.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos juntos al corazón pobre de La Matanza, a Gregorio de Laferrere, allí donde se fabrica la dignidad, donde no hay resentimientos y se combaten los prejuicios, donde un grupo de argentinos patriotas levantaron, con sus propias manos y con el sudor de su frente, la cooperativa La Juanita.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dijeron no a los planes asistenciales y al clientelismo que los encarcelaba.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decidieron no rendirse jamás, no bajar los brazos, pero no cambiar la dignidad por votos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decidieron actuar en defensa propia, ayudándose y ayudando a los demás.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Saltaron el abismo y se pusieron a reconstruir lazos solidarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, Martín Churba se empeñó en capacitarlos en el arte del diseño.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los cimientos son los valores, nada se regala, todo se logra por esfuerzo propio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vale la pena emocionarse con ese jardín de infantes donde nacen los arcoíris, que no cobran un centavo a nadie, pero que obliga a que los padres y las madres participen del proceso pedagógico de sus hijos, potenciando el aprendizaje y dándole solidez a la familia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, la más grande de las utopías que tenían se hizo realidad y nosotros pudimos acompañarlos en esa marcha contra la dependencia y la sumisión.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy que la economía solo trae malas noticias, hoy que la desocupación y la pobreza están creciendo, hoy que estamos transitando un túnel muy complicado hasta ver la luz de un país mejor, vale la pena multiplicar el ejemplo de La Juanita.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los argentinos estamos hartos del \"roban pero hacen\", eso tiene patas cortas como la mentira, igual que el clientelismo que te deja cautivo del que te da un plan cuando quiere.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay otra Argentina posible, esa es la esperanza, por eso es tiempo de levantar la bandera de La Juanita.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son hombres y mujeres que luchan toda la vida y por eso son imprescindibles; ellos no roban pero hacen, son lo mejor de la patria que viene.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2809
+}

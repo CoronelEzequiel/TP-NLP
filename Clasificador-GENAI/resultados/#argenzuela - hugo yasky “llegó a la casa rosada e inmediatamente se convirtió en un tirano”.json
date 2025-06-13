@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.069,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, la verdad es que creo que es indignante que alguien que llegó al cargo que tiene de presidente gracias a la democracia, gracias a la división de poderes, gracias a que funcionan instituciones que le permiten a un personaje como este llegar a la Casa Rosada, llega y patea la escalera, es decir, la democracia sirve para que él se encarame en la Casa Rosada pero no sirve para que en la Cámara de Diputados, en la Cámara de Senadores, funcionemos con la independencia y con la normalidad que pide que funcione el Congreso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Manda un decreto de necesidad y urgencia que ni siquiera se escribió adentro de ninguna oficina de la Casa de Gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si lo que estamos pidiendo es exactamente lo contrario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Queremos que el DNU se discuta en el Congreso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es el proceder propio de alguien que llegó a la Casa de Gobierno e inmediatamente se convierte en un tirano.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos contaron que detuvieron a un micro de municipales juninenses rumbo a la marcha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y vos fijate que eso es una violación flagrante de la Constitución nacional.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que es gravísimo lo que está haciendo el gobierno y está jugando con fuego porque yo creo que cuando este tipo de acciones autoritarias, arbitrarias, empiezan a convertirse en algo absolutamente cotidiano.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2005
+}

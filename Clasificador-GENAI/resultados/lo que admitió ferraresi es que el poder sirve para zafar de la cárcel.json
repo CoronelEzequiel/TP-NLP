@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.769,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si perdemos, algunos vamos a terminar presos",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La obsesión de Cristina Fernández de Kirchner por debilitar las causas judiciales en su contra es evidente, desde el inicio de su gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ferraresi, con su declaración, dejó claro que el poder se utiliza como herramienta para la impunidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El alegato en la causa Vialidad, considerada central en las investigaciones de corrupción que involucran a Cristina Fernández de Kirchner (acusada de liderar una asociación ilícita por 51 contratos viales con Lázaro Báez entre 2003 y 2015 por un total de 46.000 millones de pesos de la época), se aproxima.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Centeno confirmó los viajes con bolsos de dinero, detallando lugares como el domicilio de Cristina Fernández de Kirchner (Uruguay 1306), Casa de Gobierno y Quinta Dorigo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El objetivo de acceder al poder para evitar la justicia es palpable.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La coalición de gobierno parece fracturada, con cada sector buscando distanciarse de la situación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El discurso de unidad frente a la \"derecha maldita\", como lo llama el presidente, se entiende mejor a la luz de este contexto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1680
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno le hace decir a sus voceros que esta va a ser su mejor semana, que van a sacar la ley bases, que van a recibir dinero del FMI y que van a dar a conocer una inflación muy baja.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el gobierno tiene un problema de falta de dólares. Ese viejo problema que tiene Argentina hace muchos años y que ellos dicen que el problema es el exceso de emisión.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo, esta gente es la que está a cargo del estado. La verdad es que yo no sé si van a llegar a caerse por falta de dólares y si no se van a caer antes, un día, todos agarrados de los perros en el balcón.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No pueden manejar el estado porque son torpes, porque son... porque se espían, porque son mala gente, porque se pelean entre ellos, porque se envidian, porque tienen egoísmos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es el gobierno el que gobierna. De hecho, muchos dicen que ya gobierna Santiago Caputo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2033
+}

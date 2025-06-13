@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En este contexto de crisis, se sumó la estafa cripto de Javier Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Milei no puede eludir la responsabilidad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La maniobra de atacar a Axel Kicillof el día de la publicación de la nota en el *New York Times* fue para desviar la atención, según admiten periodistas cercanos a Milei, como Winiarski.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación económica lo afecta: la caída de reservas, el aumento del riesgo país, las noticias internacionales negativas, sus conflictos con Clarín, La Nación, Macri y la Cámara de Comercio Estadounidense, el Coloquio de Ideas, etc.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, al levantar el cepo, arriesga un aumento de la inflación, lo que podría afectar sus posibilidades en las próximas elecciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2135
+}

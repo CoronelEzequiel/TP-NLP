@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.793,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hablé con varios políticos de Juntos por el Cambio, con Carlos Lozada y Patricia Bullrich.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La política no se hace con gente inteligente, sino con aduladores improvisados.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, nuestro querido Presidente Alberto Fernández dijo que \"el mérito no existe\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La política es para los idiotas.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mira lo que pasa en Bariloche con esos usurpadores mapuches y los idiotas del gobierno, que se hacen los idiotas para no mandar a la Gendarmería y sacarlos a patadas de las tierras que tienen dueño.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este gobierno de idiotas nos aburrió y nos convirtió en idiotas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me encontré con Facundo Manes… y repito: analicen a los idiotas del Congreso.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2393
+}

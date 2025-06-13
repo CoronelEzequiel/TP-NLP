@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.808,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Es una vergüenza que el presidente de la Nación haya ido a quedarse en un cuartito guardado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández está perdido en la neblina de sus papelones seriales.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente de la Nación no sabe ni lo que quiere.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es inexplicable que el jefe de Estado haya elegido a Dalbón, un abogado patotero y chicanero de escaso nivel profesional.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el peor gobierno desde la recuperación democrática de 1983.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo mucha inmoralidad convertida en delito.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2096
+}

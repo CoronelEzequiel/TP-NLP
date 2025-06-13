@@ -1,0 +1,61 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.101,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El peronismo es un movimiento entroncado a la necesidad de la gente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta actuación la podemos poner en forma relevante porque estuvimos en un campo de concentración, cosa novedosa en Argentina.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo, con su lucha y con la imposición, en primera etapa, de los derechos humanos.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las Madres y las Abuelas de Plaza de Mayo son nuestras.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros somos el dolor y somos una propuesta superadora en eso.",
+      "score": 0.07,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rosario no sale que no, Rosario mano a mano con un candidato.",
+      "score": 0.25,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nosotros tenemos una fórmula que es Massa y es Rossi, estamos claros.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos personajes, obviando como han traído de todo, hablan de situación política sin saber.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros podemos hablar con el radicalismo democrático que reconoce los derechos humanos como un valor, podemos hablar de sectores políticos que enfocan lo social como nosotros, como una solución para los más necesitados.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta no es una elección donde no está en el juego los derechos por eso yo a veces digo tenemos que ser conscientes la situación optimista los peronistas somos subtópicos somos épicos tenemos que salir con esta tenemos que salir que está haciendo ahora que pero bien vamos ahí está.",
+      "score": 0.09,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3435
+}

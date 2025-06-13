@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_giuliano",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Algunas empresas han efectuado el pago, mientras que otras han realizado una retención indebida de fondos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros cuidamos los fondos públicos, porque no podemos permitir una proliferación de subsidios.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se debe a algunos empresarios, no a todos, que en esta coyuntura buscan mayores márgenes de ganancia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No podemos permitir una proliferación de subsidios, ya que los fondos provienen de los impuestos de la gente, la misma gente que utiliza el colectivo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos en un proceso político y esto es evidente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ampliaremos este programa para evitar la dependencia de algunos grupos empresariales del subsidio estatal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1638
+}

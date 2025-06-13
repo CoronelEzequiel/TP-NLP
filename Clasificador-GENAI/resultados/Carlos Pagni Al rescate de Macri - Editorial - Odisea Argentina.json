@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pareciera que en la Argentina hay una minoría muy homogénea, llamada kirchnerismo, monolítica, y una variedad de representaciones para lo que sería la oposición o la otra versión del país no kirchnerista.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuál es el problema que aparece hoy en la política argentina para toda esta expresión anti-kirchnerista? Por lo menos dentro de Cambiemos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para el gobierno, la crisis venezolana, los exiliados venezolanos en la Argentina, expulsados de una situación lamentable en su país, cumplen un papel estratégico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde un escritor como Mempo Giardinelli hablando de que habría que suprimir el poder judicial, una ocurrencia literaria que, por el anti-kirchnerismo, fue tomada como si fuera el ministro de justicia de Cristina Kirchner, digamos, se aprovecharon de ese lapsus para poner las tintas ahí o cargar las tintas ahí, o el paro de Moyano y todo lo que representa Moyano hasta el día de hoy, resistiendo un allanamiento en el gremio de camioneros, donde habría que esperar que se encuentre algo en el gremio de camioneros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una propuesta de acuerdo de adhesión a ideas muy economicistas, muy pro-mercado, muy ligadas a, ver, alguien podría decir, muy parecido a lo que sería el consenso de Washington.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4895
+}

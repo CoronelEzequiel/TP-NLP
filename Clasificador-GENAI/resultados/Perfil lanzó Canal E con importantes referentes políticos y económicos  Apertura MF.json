@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Es la economía, estúpido\". Es decir, que lo que generaba malestar en la sociedad norteamericana tenía que ver con la falla de la economía.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Parece tan natural tomar la competencia, la libertad de los mercados, que también me parece algo natural, respecto a la inversión privada, que también me parece algo natural, a que de la inversión se genere crecimiento y del crecimiento, empleo. Ese es el credo, y es muy importante que se pueda transmitir a partir de aquí.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Y cuando las finanzas inundan la economía, uno no termina de tener una visión acabada de lo que pasa en el mundo y de lo que puede pasar en el país.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Pero hay un comentario que no quiero dejar pasar, porque quiero, sin profundizar la grieta, porque no es mi espíritu, pero sí dejar clara mi preocupación o, de alguna manera, mi diferente visión de lo que ocurre en la Argentina como jefe de gobierno. Porque, en realidad, lo que se está creando en la Argentina es empleo público. Si miramos los datos en una serie de 12 años, no se crea empleo privado en la Argentina. Se crea empleo público y empleo informal. Entonces, a mí hoy la situación me preocupa mucho.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la matemática, en sí misma, como la economía, en sí misma, no es ni de derecha ni de izquierda; es una herramienta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2774
+}

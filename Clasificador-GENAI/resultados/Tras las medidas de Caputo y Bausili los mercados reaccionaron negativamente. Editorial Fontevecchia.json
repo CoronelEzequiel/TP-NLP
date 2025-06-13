@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.557,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En varios momentos de la campaña, Javier Milei dijo que \"no se puede esperar algo distinto con los mismos de siempre\", refiriéndose continuamente al tema de \"la casta\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se pretende \"hacer lo mismo con el mismo\", en este caso Caputo, y esperar un resultado distinto, que sería, desde la perspectiva de aquel Milei que repetía la frase de Einstein.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei profundiza el conflicto con el principal socio comercial argentino, Brasil, en un cruce con el presidente Lula da Silva, a quien le dijo que el mandatario argentino tiene que pedirle disculpas por haberlo tratado de \"comunista\" y otros improperios.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este momento tan crítico, aparece una dura crítica a la gestión del presidente de un aliado de la Fundación Pensar, el CELSAN del PRO, que produjo un informe que lleva la firma de Mauricio Macri, en el que se afirma que el gobierno de Milei tuvo el peor arranque legislativo de la historia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como le dice Javier, una cantidad de cosas que vos decís, las veo como extremas y no estoy de acuerdo, y no las vamos a aceptar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A la reforma económica que el liberalismo liderado por el presidente Milei está haciendo hay que verlo como infinidad de ladrillitos construyendo un camino, un edificio completamente diferente de la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos sabemos que estamos mal. Lo que no hay certeza es si el rumbo que nos lleva la economía es que estamos mal, pero vamos peor. En principio, dado el precio del dólar, la brecha, el riesgo país, podemos decir que los mercados no la están viendo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5582
+}

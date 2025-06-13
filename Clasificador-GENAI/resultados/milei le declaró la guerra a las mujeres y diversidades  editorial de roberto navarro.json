@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.117,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Después de un tuit aberrante como el de ayer del presidente Javier Milei, pronunció esta mañana un discurso aún más aberrante en Davos ante los grandes millonarios del mundo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina se ha convertido en un laboratorio; si el experimento tiene éxito, lo replicarán en otros países.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo segundo que Milei ofrece a estos multimillonarios es el gas, el petróleo y los minerales que necesitan, y se los está dando a precio de regalo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos pasado artificialmente de una cantidad infinita de derechos positivos: primero la educación, luego la vivienda, y después cosas irrisorias como el acceso a internet, la televisación del fútbol, el teatro, los tratamientos estéticos, y un sinfín de deseos que se transformaron en derechos humanos fundamentales.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si se está logrando un aumento de la desigualdad sin precedentes, si se les paga a las personas sueldos que no les alcanzan para comer, claro que no quieren que haya gente que tomó conciencia y lucha contra la desigualdad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La lucha contra la injusticia siempre ha existido; ha habido intentos fallidos en muchas circunstancias.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto ha generado una enorme insatisfacción democrática, haciendo que la gente pierda el valor de la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está violando leyes; todo lo que dijo en los últimos días es motivo de juicio político.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente está generando un clima de violencia que no sabemos a dónde llegará.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2524
+}

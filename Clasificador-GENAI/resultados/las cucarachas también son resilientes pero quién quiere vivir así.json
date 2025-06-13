@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.882,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Bastaría con resolver los problemas que nos aquejan para que la necesidad de resiliencia de los argentinos se redujera notablemente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, se les ocurre en medio de una enorme crisis económica en la que, a pesar de la gravedad de la situación, no dejan de engrandecer el Estado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Gracias, pero no, gracias.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Prefiero que quienes deberían evitar desarrollar nuestra resiliencia no sean los que, con cinismo, ofrecen recetas para resolverla.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Algunas medidas preventivas podrían haber sido, por ejemplo: no decretar una cuarentena eterna que arruinó a miles de personas, no robar vacunas y no hacer fiestas en Olivos cuando la gente no podía despedir a sus muertos y estaba encerrada y aislada.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un Estado elefantiásico que no hace lo más básico y que confunde tamaño con calidad obstruye, sofoca y exprime a los argentinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Qué tal si probaran con bajar la inflación, achicar el gasto estatal superfluo, mejorar la seguridad y la educación?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Bastaría con que dejaran de producir la crisis, cultivar la decadencia, proteger a los delincuentes y multiplicar a los pobres para que la resiliencia no fuera necesaria.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El vampiro te ofrece transfusiones de sangre para volver por tu yugular a la noche y con el fresco.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Total, para justificar a los violadores, ya está el Ministerio de las Mujeres.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El gran hermano te cuida, te controla y te ayuda a soportar su asedio.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2437
+}

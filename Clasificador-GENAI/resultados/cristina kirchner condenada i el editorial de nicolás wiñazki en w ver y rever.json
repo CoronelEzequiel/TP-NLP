@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.771,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Condenan a Cristina Elisabet Fernández de Kirchner a la pena de seis años de prisión e inhabilitación especial perpetua para ejercer cargos públicos, accesorias legales y las costas del proceso, por considerarla autora penalmente responsable del delito de administración fraudulenta en perjuicio de la administración pública.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una noticia buena porque demuestra que las instituciones funcionan en la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner termina con esta condena y otros imputados, como José López, Lázaro Báez, que está preso por otra causa, la de la \"ruta del dinero K\" agravada, pueden ser juzgados mientras están en el poder, no solo mientras están en el poder.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo decía hace un rato, nunca, jamás ningún ciudadano de la República Argentina va a gozar de los privilegios que tuvo la vicepresidenta en este juicio oral y público.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina hoy hizo una alocución, lo dijo con todo respeto, bastante desvariada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Está condenada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es corrupta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2303
+}

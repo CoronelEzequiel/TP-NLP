@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Más allá de que Cristina Fernández de Kirchner, en su carta publicada en su cuenta de Twitter, afirmó que no estaba trabajando para generar impunidad en sus causas por corrupción, los hechos indican lo contrario.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Senado de la Nación y la Comisión Bicameral de Seguimiento de la Actividad de los Fiscales pretenden declarar inconstitucional la ley del arrepentimiento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Adivinen quiénes impulsan este cambio: el kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sin embargo, abogados vinculados a Cristina Fernández de Kirchner, llegando hasta la Cámara de Casación Penal, intentan anular la causa de los cuadernos alegando que las declaraciones de los arrepentidos fueron tomadas ilegalmente, basándose en un tecnicismo del artículo de la nueva ley.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Por qué, de repente, el kirchnerismo y algunos senadores quieren declarar inconstitucional la ley de arrepentidos?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ella y sus legisladores, junto a sus abogados, están impulsando esto.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tenemos, entonces, a empresarios que admitieron pagar coimas y funcionarios que confesaron haberlas recibido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Treinta y una personas involucradas en confesiones extraordinarias, y de repente, la política, desde el Senado, y abogados vinculados a Cristina Fernández de Kirchner, intentan anular constitucionalmente esas declaraciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La causa de los cuadernos no se basa solo en testimonios; se recogieron documentos y se verificó la ubicación de los celulares de los arrepentidos en los momentos en que declararon haber cometido los delitos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la Cámara de Casación Penal esperan que los jueces Barotaveña, Petrone y Figueroa declaren inconstitucional la ley de arrepentidos, que ha servido en numerosos casos de corrupción.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hasta ahora, se sabe que la Casación, salvo quizás por el voto de la doctora Figueroa, ratificará la validez de las declaraciones de los arrepentidos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero hay una persona muy interesada en que la ley sea declarada inconstitucional: Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2314
+}

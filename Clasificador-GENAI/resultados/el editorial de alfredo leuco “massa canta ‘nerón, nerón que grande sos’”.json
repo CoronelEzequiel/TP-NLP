@@ -1,0 +1,51 @@
+{
+  "texto_id": "Nerón no es Juan Domingo",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.838,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Massa está jugando con el fuego de la hiperinflación y no siente culpa por incendiar la economía argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ningún argentino sensato debería coquetear con esta tragedia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De todos modos, la palabra hiperinflación fue de las más utilizadas en la sesión de diputados donde se le dio media sanción a un proyecto que es un caramelo envenenado, típico de los populismos, porque le pone dinero en el bolsillo a 800 mil personas para tratar de comprar sus votos, pero en el corto plazo esa plata se reduce a cenizas por la inflación multiplicada, producto de la escandalosa emisión.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sergio Massa, el peor ministro del peor gobierno de la historia, celebró como si hubiera ganado el mundial de fútbol, se abrazó con los jerarcas sindicales millonarios, extorsionadores y mafiosos que conducen la CGT.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Relaciones carnales cada vez más explícitas entre Massa y Milei, y con un sector de la casta sindical bendiciendo ese peligroso concubinato.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Apoyar a Massa, ya se lo dije, es masoquismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se puede ser pirómano y bombero al mismo tiempo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa les vende humo y les dice a todos lo que quieren escuchar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2346
+}

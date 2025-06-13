@@ -1,0 +1,41 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando ves que un tipo que mató a la madre, al padre y a los hermanos sale sobreseído, hay negocio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que los políticos son una gran mentira gatopardista, que hacen que todo cambie para que todo siga igual.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Realmente no veo, con mi avanzada edad, que me muera habiendo visto una Argentina diferente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, este pedido, vio que toda la noche vengo a pedirle al gobierno, este pedido mío, señor presidente, con todo respeto, es que si la tiene que meter en cana, métala en cana.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No le haga creer a esta mujer todavía que tiene el poder de engañar a la gente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta sinvergüenza que cobra treinta millones de pesos, mientras los pobres que ella dejó pobres cobran trescientos mil.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2579
+}

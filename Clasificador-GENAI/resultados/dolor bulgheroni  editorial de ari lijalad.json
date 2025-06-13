@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.31,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bulgheroni afirmó que la veía bien, que el gobierno estaba haciendo lo correcto, aunque reconoció que la situación era difícil y que la salida implicaría dolor.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los balances muestran un margen de rentabilidad del 9.6% en 2022. Sin embargo, en 2023, año en el que Bulgheroni declaró que la salida de la crisis implicaba dolor, la rentabilidad ascendió al 22%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También expresó su apoyo al presidente y criticó al Congreso por no colaborar suficientemente con leyes que, según él, serían necesarias.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un análisis de la ley \"OVIBUS\" revela que varios artículos parecen estar diseñados para beneficiar a Pan American Energy.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La aparente contradicción entre su discurso sobre el \"dolor\" y las elevadas ganancias de su empresa sugiere un claro conflicto de intereses.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1432
+}

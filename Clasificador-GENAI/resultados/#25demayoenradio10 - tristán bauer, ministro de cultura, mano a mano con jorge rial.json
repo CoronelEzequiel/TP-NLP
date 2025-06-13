@@ -1,0 +1,116 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.019,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es una alegría conmemorar un nuevo 25 de mayo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gracias a ustedes, esta casa, sede del Ministerio de Cultura de la Nación Argentina, y esta maravillosa cúpula del Centro Cultural Kirchner (CCK), le pertenece a todos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El CCK ha contribuido enormemente a nuestro país, aunque hubo intentos políticos de cambiarle el nombre.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A menudo se considera la cultura un gasto, pero es una inversión.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, el Estado mantuvo la llama de la cultura encendida, con más de 50.000 becas e inversiones históricas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se triplicó el presupuesto del Ministerio de Cultura.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es fundamental prorrogar estos fondos, ya que la inversión en cultura es imprescindible, no solo por su significado simbólico, sino también por su valor como industria cultural, generadora de empleos y divisas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El INCAA es fundamental.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se necesitaba más celeridad en la ejecución de presupuestos y proyectos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Buenos Aires y Argentina son lugares muy codiciados para grabar, por nuestra tradición, talento y paisajes.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pacapaca es un gran logro.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con el apoyo de la entonces presidenta Cristina Fernández de Kirchner, en tan solo un año y medio, Canal Encuentro se convirtió en el canal infantil más visto.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ministro, gracias por recibirnos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 25 de mayo y el 9 de julio son fechas importantes, pero nuestra historia es mucho más extensa.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuestra historia abarca miles de años.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Feliz 25 de mayo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay plena ocupación en el sector audiovisual argentino.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se viene una nueva temporada de Zamba viajando por la plataforma continental, incluyendo Malvinas y la Antártida.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay tantos rodajes que es difícil encontrar camarógrafos o foquistas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La calidad es superior a la de trabajos anteriores.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es fundamental prorrogar estos fondos, ya que la inversión en cultura es imprescindible, no solo por su significado simbólico, sino también por su valor como industria cultural, generadora de empleos y divisas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2519
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "habana_con_vos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.811,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Por eso viene de visita a la Argentina un avión terrorista, y ningún funcionario dice absolutamente nada. Solo falta que mandemos a Taty a recibirlos, increíble, pero real, míralo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos amigos de las dictaduras, somos amigos de los terroristas. Ahí lo ves, Alberto Fernández, el presidente está muy callado, el presidente no dice nada.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que hizo Agustín Rossi es una vergüenza, increíble, pero real. ¿Quién va a creer que los iraníes y los venezolanos vinieron a la Argentina a aprender a pilotear? Un avión marcado como terrorista, increíble, pero real, no los puede defender nadie, ni entre ellos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vuelven a gobernarnos los K, y vuelve a pasar exactamente todo lo que ya pasó. Increíble, pero real. Otra vez Venezuela, otra vez Irán. No es casualidad, Nisman tenía razón.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el presidente que tenemos, inútil y mentiroso, una combinación explosiva, increíble, pero real.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada día tenemos más pobres, cada día tenemos más planes, más planeros. Y todos los días el negocio del pobrismo crece, increíble, pero real.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos son los movimientos sociales. Lo único que hacen es amasar para ellos. Son un mal, un cáncer de la sociedad.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina no tiene docentes preparados para la Argentina del futuro. Pero es que, ¿cómo van a tener futuro las escuelas con muchos docentes buenísimos y otros que no están preparados si la cara de la educación en la Argentina se llama Baradel?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno sin corrupción no sirve para nada.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8522
+}

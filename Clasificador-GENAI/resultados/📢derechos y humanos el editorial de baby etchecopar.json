@@ -1,0 +1,66 @@
+{
+  "texto_id": "Texto_Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.855,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Empieza la balanza a equilibrarse.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única forma de tener paz en un país es con justicia.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguramente Carlotto cuenta una parte de la historia, que es el final de la película, el epílogo, pero no cuenta el comienzo de estos grandes hijos de puta, que fueron los que armaron el gran quilombo nacional.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy estamos ante un país que por lo menos manda a indagatoria a Firmenich.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, la gran estafa de los derechos humanos, el gran curro de los derechos humanos, y los derechos humanos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos boludearon y perdimos 40 años de nuestra vida con los derechos humanos, sin saber lo que eran los derechos humanos, más que un título.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Que una mujer que robó al país tiene que estar presa, con doble condena, más presa y con cuatro juicios, mucho más presa, en cambio de estar candidateándose, moviendo la cintura y bailando y moviendo el culito.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo peleo para que vayan en cana Cristina, Máximo y los secuaces.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo decía siempre en el teatro que no vengo a pelear, soy demasiado pequeño para pelear por la justicia y el orden.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que paguen su culpa los traidores a la patria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y que Milagro Sala se tiene que pudrir en una cárcel común, por la buena o por la mala.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3304
+}

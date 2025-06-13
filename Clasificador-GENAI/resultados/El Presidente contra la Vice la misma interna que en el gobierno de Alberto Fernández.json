@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.47,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En este momento, Victoria Villarruel está en el centro de la escena política y la rodean todo tipo de sospechas de conspiración contra el presidente",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego agregó, nuevamente entre comillas: \"Esperamos que el poder legislativo no se deje cautivar por el canto de sirena de quienes pretenden anotarse 'victorias de corto plazo' en detrimento del futuro de los 45 millones de argentinos\".",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quien quiere voltear a Milei es Macri-Villarruel, que quiere decir que la vamos a combatir, que queremos voltear a Milei y esto lo digo especialmente para los votantes de Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La sociedad votó a alguien ajeno del sistema político, porque este es un verdadero... no es por su lado de dejarse ser su hermana y las redes sociales.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es importante que siempre hay que estar del lado de la democracia y de las instituciones de la República, que tanto nos costó y nos cuesta costo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4680
+}

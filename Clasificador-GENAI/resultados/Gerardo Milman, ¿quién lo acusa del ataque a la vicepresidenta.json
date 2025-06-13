@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.486,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, el título de todos los diarios tiene que ver con la situación judicial de Cristina, por un lado, causas que se reabren contra la exvicepresidenta de la Nación, pero, obviamente, el tema excluyente es el video que a esa hora la vicepresidenta colgaba de las redes para tener repercusión durante todo el día y una fuerte respuesta de Juntos por el Cambio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milman todavía no fue citado a declarar en la causa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Jorge Avello, que es el testigo al que se refiere, en ese caso Mena y también Cristina, cuando hace su acusación, trabaja hoy con el diputado Marcos Cleri, hombre de La Cámpora, en la provincia de Santa Fe, diputado del Frente de Todos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que con nosotros, Cristina no, decía Patricia Bullrich y el vicepresidente del Pro y, además, protagonista de toda esta historia, el diputado Milman, que dijo ayer, a esta hora, uno de los primeros, que obviamente salió en defensa propia, dijo que sentía estar viendo una película.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablabas de la polarización y de la fragmentación. Tenemos, ahora él lo va a definir obviamente mejor, por un lado, la sociedad polarizada respecto a lo que puede llegar a ser su decisión para el año próximo, al momento de votar. Y, por otra parte, en la vereda de enfrente, una oposición absolutamente atomizada y fragmentada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La vocera presidencial Gabriela Cerruti, vía tuit, pidió disculpas. Cerruti por lo que dijo, que causó mucho revuelo y hasta estaba viendo la renuncia de la portavoz oficial, dice Gabriela Cerruti en un tuit, \"Cometí un error al querer señalar el uso de la política del dolor y la muerte que hicieron y siguen haciendo algunos sectores. Lamento profundamente si algún familiar de víctimas del COVID que ha homenajeado a sus seres queridos dejando simbólicamente piedras se sienta ofendido por mis palabras. Les pido sinceras disculpas y reitero mi respeto y acompañamiento al dolor y al duelo\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que el problema de la oposición queda por descontado que ya ganó la elección. Entonces, si yo creo que ya ganó la elección, que con esta economía el Gobierno no puede ganar, entonces lo que me queda es discutir quién va a ser y qué va a ejercer el poder. Que es lo que está pasando en este momento.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7177
+}

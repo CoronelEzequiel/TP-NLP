@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.211,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Patricia Bullrich nunca lo implementó con grandes multitudes; sencillamente, cientos de miles de personas no caben en las veredas, es una cuestión fáctica.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y este gobierno es peligroso cuando apuesta a todo o nada, especialmente cuando se instrumentaliza un discurso que me parece terrible: la amenaza de un golpe de Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei siempre me pareció un personaje peligroso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bullrich sigue negando la cantidad de videos y fotos del disparo a Pablo Grillo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner emitió un comunicado diciendo que la acusan para encubrir la represión del gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una nueva fórmula para voltear al gobierno.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos tienen el mismo jefe. Los radicales, el PRO, Milei. Esos 10 empresarios que manejan el país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si tienen problemas, es porque les están regalando los dólares a sus amigos. Si no tendríamos 20 mil millones de dólares más.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer hubo una foto con Ritondo y Santilli con Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3354
+}

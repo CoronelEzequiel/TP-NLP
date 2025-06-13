@@ -1,0 +1,46 @@
+{
+  "texto_id": "marcha_clubes_futbol",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.093,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Convocamos a todos los espacios, agrupaciones, peñas, filiales que puedan venir con su bandera, con su camiseta, y va a ser un punto de encuentro con otras hinchadas también, con las cuales nos estamos organizando para caminar juntos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Diego nos une, Diego trasciende. La verdad es que recordamos con referentes de otros espacios de distintos clubes, la última vez, el último episodio social donde las hinchadas estuvimos juntas y abrazándonos fue en la muerte de Diego, y cómo nuevamente ahora la figura de Diego nos vuelve a reunir en el sentido de ser una voz dentro del fútbol y de la sociedad en general, que siempre estuvo del lado de los jubilados, ¿no?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros no somos organizaciones criminales, somos hinchas de nuestro club, algunos socios, otros simplemente hinchas que no tienen la posibilidad de abonar hoy una cuota social, pero que sentimos nuestros colores y que desde nuestros colores queremos hermanarnos en esta causa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creemos que la herramienta de protección es ser miles. Esa va a ser nuestra bandera, ser muchos, espalda con espalda, y como ayer decía Víctor Hugo, ¿no? Que sea realmente costoso para ellos pegarnos a todos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo, acá, como para que quede clara esta idea, lo que está por suceder el 23 de marzo, cuando se caiga la moratoria y cuando un gran porcentaje de jubilados ya no puedan acceder a lo que hoy está vigente, que realmente me parece el hecho de mayor violencia es ese.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros convocamos a venir en paz, a venir a caminar juntos, y sí vamos con las camisetas, en esto de demostrar que podemos ir todos con la camiseta mezclados.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá quiero retomar rápidamente lo que dijo Adorni de que es el kirchnerismo de los clubes, lejos de eso. Vas a encontrar gente que tiene una participación política en la izquierda, en el kirchnerismo, y gente que no y que realmente es su camiseta la que los llama a marchar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3069
+}

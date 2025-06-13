@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.286,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El crédito del Fondo Monetario Internacional le dio más \"vidas\" al gobierno, como en esos juegos electrónicos donde vas perdiendo vidas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si Javier Milei llegaba a las elecciones sin devaluar, podría tener una inflación del 2%, incluso del 1 y pico por ciento, a fuerza de ese dólar \"pisado\" que tenía y de salarios \"pisados\", y hubiera tenido una buena elección.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos hablando de que, cuando sumas las reservas en gas y en petróleo, te da tres billones de dólares. Son seis PBI de Argentina más o menos. Más la minería, el litio. Estamos hablando de una cantidad de dinero fenomenal que es nuestro y es para las próximas generaciones, y que un presidente débil, un hombre débil en esta situación, está entregando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debo decir algo, no en defensa de Milei, pero para darle contexto, porque corresponde. La verdad es que hay un problema en Argentina muy fuerte.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando llegan estos dólares, o sea, el viernes, las reservas del Banco Central contando todos los bonos, Bopreales, era menos 12 mil millones de dólares.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y encima, yo no entiendo cuáles son las alianzas políticas de este gobierno, porque el campo está a la \"esputeada\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es la situación que se le ha generado a Milei. Milei quería llegar sin devaluar porque sabía que este era el problema.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5638
+}

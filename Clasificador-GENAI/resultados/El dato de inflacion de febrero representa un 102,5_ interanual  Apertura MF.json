@@ -1,0 +1,36 @@
+{
+  "texto_id": "inflacion",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"No teníamos este número de más de tres cifras desde la época de la salida de la hiperinflación.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Hace exactamente un año, el 15 de marzo, pero del año pasado, del 2022, el presidente de la nación, por suerte, le declaraba la guerra a la inflación. Teníamos algo así como un 55% interanual de inflación. Por suerte, la duplicó.\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Los últimos gobiernos, estamos hablando que esta es la inflación más alta en los últimos 32 años. Con lo cual, retrocedimos 32 años en la forma de llevar adelante una política económica\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Fijate, si no, el gobierno de Cristina Fernández de Kirchner se fue con un 25% y un 30% de inflación. No estaban claros los números en ese momento en el INDEC. El doble: Macri se va con el 54%, el doble de lo que se fue Cristina, y Alberto duplica ahora la inflación de Mauricio Macri.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Alberto Fernández lo decía así. Nosotros, por suerte, somos peronistas. ¿Y qué hacemos los peronistas cuando aparecen los problemas? Les ponemos el pecho y buscamos la solución.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2722
+}

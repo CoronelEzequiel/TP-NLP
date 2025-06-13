@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "López Obrador pretende ser hoy en América Latina una referencia para todos aquellos políticos o movimientos políticos que sienten la necesidad de sacarse de encima la mochila más pesada que tiene el centro izquierda, la izquierda en la región, que es la experiencia chavista, que degenera la experiencia madurista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, México, que es un país con una gran tradición de izquierda, que es un país de gran volumen por su economía, por su historia, por su dimensión, pretende en alguna medida generar un nuevo juego alrededor del liderazgo de López Obrador que ancla en lo que se denomina el grupo de Puebla, un grupo de movimientos de izquierda, progresistas, de populismo nacional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dio consejos de marketing, de gestualidad, de cómo hacer para aterrizar en la Casa Rosada. Bueno, le dijo primero, austeridad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mucha importancia entonces de Alberto Fernández a la política internacional. Claro, con un signo de interrogación que se exagera más o se vuelve más inquietante en la medida en que aparece tanto énfasis en la política exterior.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy desde México dijo algo crucial. Dijo la sociedad argentina no puede pagar las tarifas que tendría que pagar en materia energética.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál va a ser el plan fiscal? ¿Cuál va a ser el presupuesto con el cual Fernández y sus economistas van a ir a enfrentar a los bonistas y al fondo?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5117
+}

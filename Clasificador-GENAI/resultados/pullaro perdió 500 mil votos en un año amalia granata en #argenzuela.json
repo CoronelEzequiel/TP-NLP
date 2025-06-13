@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.206,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Fue una pésima elección para el gobernador.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobernador perdió en un año 500.000 votos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ganaron allí porque pusieron un candidato que es un periodista de Canal 3 de Rosario, y bueno, lo empujó el periodista, pero después, en general, en la provincia les fue muy mal, salieron terceros o cuartos en todos los departamentos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobernador, a un año de gestión, perdió 500.000 votos. De un millón pasó a 500.000 votos. O sea, que su gestión es pésima.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con estos números, yo no sé hasta qué punto va a ser lento. Imagínate que en un año de gestión perdió 500.000 votos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo, la verdad, desconozco. Yo con Javier Milei tuve buena relación, y te digo, podríamos haber hecho una excelente elección, yo, sin nada.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no me meto con el poder acá, yo no me callo la boca y ustedes me conocen; si no me meto no solo con el poder sino con la justicia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá hay mucha corrupción y yo la denuncio constantemente, como denuncio los miles de ñoquis que tiene Puyol, vivo metiendo pedido de informes y denunciando la corrupción y eso no es gratis, eso no te sale gratis porque te metes con el poder y con los privilegios, entonces más que nunca necesitaba a mi marido al lado mío todo el tiempo porque yo soy una mujer… más allá de que soy frontal, de que tengo carácter y de que voy al frente, soy una mujer y no puedo andar sola por todos lados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Duro, así que un diputado vale 12 millones y lo puede pagar en 6 cuotas de 2 millones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4462
+}

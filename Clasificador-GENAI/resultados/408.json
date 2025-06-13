@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "A la mañana, hablemos de la primera derrota ideológica y cultural de Javier Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se trabaja de manera coordinada para perpetrar un delito, tres o más personas…",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei perdió ante Alberto Fernández. Y con la verdad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evidentemente, alguien le sugirió una información incorrecta, y terminó pidiendo disculpas en un tuit, diciendo que la información sobre el consumo de champagne en Olivos durante la anterior administración era incorrecta.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que empezar a desinstalar los 'hara-saicles', hay que pelear contra eso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1698
+}

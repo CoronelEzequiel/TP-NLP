@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La vida se convierte en un armado y desarmado de arbolitos si no eres protagonista, si estás como ellos, como nosotros en la tribuna; uno tiene que ser protagonista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, para el trabajador, la única posibilidad de pasar de la pobreza a la riqueza era ganarse el Gordo de Navidad. No había otra opción.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Papá decía: \"Si no se ve, no existe\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Papá salía a un balcón de tela metálica que teníamos en la cocina… con una expresión de decepción… Dios se había ensañado de nuevo con nosotros. Y Perón no estaba.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Viva Perón!.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2336
+}

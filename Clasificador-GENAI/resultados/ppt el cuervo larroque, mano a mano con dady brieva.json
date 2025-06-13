@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y ahora que mencionas proscripción, hay un debate sumamente interesante entre el INDE y el PJN, y la gente se sienta bien, y la gente se sienta bien, y la gente se sienta bien.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que el éxodo de la pandemia, lo digo con toda claridad, yo creo que el ex ministro Guzmán fue un agente, un agente del sistema financiero internacional puesto en nuestro gobierno que nos generó muchos problemas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya no hay más daño para el peronismo y justamente mayor ayuda para el enemigo, la oposición, como le queramos llamar, que no recuperar el salario, no recuperar el ingreso, el poder adquisitivo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos critican, dicen que es raro que un Presidente vaya a unas PASO en caso de que desee presentarse en unas PASO. Sí. No es raro, todo es raro hasta que ocurre una vez. Yo no creo que sea raro, a mí me parece un gesto absolutamente republicano que el que quiera ser candidato se someta al escrutinio público para ver si es el mejor candidato o no.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8775
+}

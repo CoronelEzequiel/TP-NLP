@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.777,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La cantidad de inseguridad en la provincia es terrible.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que la culpa no es ni de la sociedad media-alta ni del chico que usa la gorra; la culpa es del gobierno, que los estigmatiza y lo muestra todos los días por televisión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con esto no quiero ser demagogo, pero quiero decir que mueren más personas en Argentina por inseguridad que por gripe asiática o apendicitis.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos el único país del mundo que no tiene suficientes vacunas contra el COVID.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Parece que Alberto Fernández está peleando contra el COVID como un estratega.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Están más preocupados por la campaña electoral y por evitar perder las elecciones del año que viene que por la gente que muere todos los días.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mueren cientos de personas en Argentina, pero ellos están preocupados con armar la lista de candidatos y culpar a Macri.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos más preocupados por lo que pasa en un boliche que por la cantidad de asesinatos que quedan impunes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente come polenta, harina y agua. Es repugnante.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La realidad es que el gobierno de Kicillof es desastroso, el de Alberto Fernández también.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos tan mal porque están gobernando muy mal, para Cristina Fernández, para la mentira, para el engaño, y no para la gente.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2511
+}

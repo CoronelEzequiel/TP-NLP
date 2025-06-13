@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esto no es un canal de televisión; aquí no se firman contratos, se da la palabra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aquí no hay dueños, hay amigos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era un tipo que estaba más allá de todo, incluso más allá de nosotros, porque a veces no te daba pelota.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy las balas pican muy cerca, y no por la edad, sino por la inoperancia de quienes deberían salvarnos la vida.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por ejemplo, voy a nombrar a alguien de este canal que no siempre se le da el valor que merece, pero que es una estrella: Luis Ventura, un amigo con códigos, buena gente, siempre dispuesto a ayudar a todos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1823
+}

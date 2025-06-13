@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Menem actuó como un padre político para los Kirchner y muchos funcionarios del gobierno actual fueron menemistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández ocupó su primer cargo público importante en el gobierno de Menem como superintendente del Servicio de Salud.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Menem abrió las puertas de la política a numerosos funcionarios e intendentes que actualmente ocupan cargos de poder, algunos de los cuales podrían considerarse ingratos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien critica la Corte de Menem, su gestión también se caracteriza por el control de la justicia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Menem, quizás el último gran jefe del peronismo junto a Néstor Kirchner, dejó un legado duradero.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2217
+}

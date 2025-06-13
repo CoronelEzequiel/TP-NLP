@@ -1,0 +1,56 @@
+{
+  "texto_id": "Cristina_Fernandez_de_Kirchner_esta_terminando_el_peor_ano_de_su_vida_politica",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.856,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner está terminando el peor año de su vida política.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No logró, siquiera, que la justicia detuviera a tres integrantes del repudiable y nefasto grupo denominado Revolución Federal, ni siquiera que se allanara la casa de su íntima enemiga y vecina del departamento de Recoleta.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este fue el hecho político más importante del año: Cristina condenada por corrupción.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, se muestra más autoritaria, mentirosa e irracional que nunca.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La prensa profesional trata de denunciar los avances autoritarios de un kirchnerismo que cada día se parece más a un nacional populismo chavista.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El robo del siglo de los Kirchner será material de estudio en las universidades.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene pánico de presentarse como candidata a presidenta y sacar muy pocos votos, e incluso terminar en el tercer lugar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso miente en forma descarada y nos dice falsedades a la cara, como si fuéramos tontos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una fiera herida y acorralada, por lo tanto, sus zarpazos autoritarios pueden provocar un golpe institucional que ya está en marcha.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2253
+}

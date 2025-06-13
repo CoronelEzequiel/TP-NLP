@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este es un país que protege a los corruptos y castiga a los honestos, a los denunciantes, a quienes se atreven a enfrentarlos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sigo apoyando a Mauricio Macri porque, a pesar de sus defectos, creo que es más honesto que otras opciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando hablamos de violadores, abusadores y sinvergüenzas, también tenemos que pensar en el Senado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sería más barato mantenerlos en sus casas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo vengo a empoderar al pueblo, a que no se deje engañar, manipular ni mentir.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¡Son ladrones! No son presos políticos, no son Che Guevaras, son chorros comunes y corrientes, que robaron a los pobres inundados de La Matanza, a los chicos de Boca, a esa gente que me besó la mano.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mientras esperan la ley del aborto, niños de ocho, diez y doce años mueren de hambre.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esos son los verdaderos abortos, los chicos que nacieron sin futuro, que están destrozados por el paco.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los narcotraficantes financian campañas políticas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La droga entra a Argentina como Pedro por su casa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2591
+}

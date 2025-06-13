@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.643,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El viceministro de Justicia de la Nación, Juan Martín Mena, militante de La Cámpora, visitó a Cristina Fernández de Kirchner el jueves en su residencia de Juncal, en la Recoleta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Mena volviera a cursar la carrera de Derecho en la UBA y argumentara que los jueces, por un fallo, quieren gobernar y que, por lo tanto, deben formar un partido y presentarse a elecciones, reprobaría el primer año entero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora bien, ¿cuál es la estrategia? Politizar cualquier fallo que tenga que ver con la justicia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que es grave es que funcionarios de la relevancia y del cargo que tiene Mena puedan decir cualquier disparate.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En mi opinión personal, no.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Poder Judicial es el Poder Judicial y la política es la política.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Solamente hubo un fallo de la Corte en contra del gobierno y no por eso los jueces quieren gobernar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1707
+}

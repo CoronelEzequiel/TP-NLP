@@ -1,0 +1,41 @@
+{
+  "texto_id": "La_Nacion",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.217,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sus restos están enterrados en el Cementerio de la Chacarita.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es uno de los íconos de la nostalgia.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Goyeneche fue taxista y mecánico de barrio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Goyeneche y su personalidad para decir los tangos siempre me puso la piel de gallina.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siento una emoción canyengue, de \"chata cadenera\" del barrio de La Boca; pocas cosas tan urbanas como su voz y sus murmullos.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso fue el más \"roquero\" de los tangueros, el más \"zarpado\", el menos dogmático, el que tenía los poros más abiertos para enriquecerse con otros vientos.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2581
+}

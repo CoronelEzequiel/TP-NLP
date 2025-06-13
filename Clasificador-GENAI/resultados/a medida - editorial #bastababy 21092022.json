@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.764,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me parece que Cristina está desesperada porque realmente los alegatos de su abogado no ejercieron ningún efecto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiere cambiar la Corte de 5-9 y realmente el voto que falta es el de **Rodríguez Saá**, que es un \"dólar colorado\", porque **Rodríguez Saá** no puede confiar en nada.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto vive en una nube de pedo, vive en una Argentina...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy escuché decir que se quería postular de nuevo, pero te das cuenta de lo que perdemos tiempo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Cristina lo único que le importa en la vida, no le crean nada, es no ir en \"Cana\", no ir en \"Canaíla\" y los hijos, todo lo demás le chupa un huevo, que no tengan agua, que tengan frío, que los jubilados se mueran, le chupan un huevo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es más, su historia queda como lo peor de la historia argentina. Nos hizo mucho daño, señora.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "así que me encanta que sufran, no por odio ni por venganza, para que sepan lo que le padecimos nosotros con el gobierno de ustedes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2799
+}

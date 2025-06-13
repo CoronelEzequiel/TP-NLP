@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.843,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La verdad de la milanesa es que a **Víctor Hugo Morales** lo echaron del canal de **Cristina Fernández de Kirchner** y **Cristóbal López**.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se confirma de esta manera que los medios que tienen su interés en la búsqueda o en la conservación del poder y en la impunidad de una condenada a seis años de cárcel por ladrona como **Cristina Fernández de Kirchner** se agotan cuando los ciudadanos le bajan el pulgar.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A **Víctor Hugo**, que se autopercibe como un revolucionario del micrófono, le costaba digerir los sapos de bancar al títere de **Alberto Fernández** y al ajustador de **Sergio Massa**.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Defender a mafiosos ya se había transformado en una costumbre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su chofer era el que le facturaba.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre dijo una cosa e hizo otra.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "**Víctor Hugo** fue el relator, el defensor mediático de todos los corruptos, empezando por **Amado Boudou** y **Ricardo Jaime** y terminando por **Lázaro Báez** y su amada **Cristina**.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2202
+}

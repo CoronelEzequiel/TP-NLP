@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Al presidente no le gusta la palabra ajuste, la quiere evitar como cualquier dirigente político, sobre todo por provenir de una fuerza con un componente demagógico y distribucionista muy importante, pero si es que van, como promete Alberto Fernández, hacia un acuerdo con el Fondo, a ese acuerdo solamente se puede llegar por medio de un ajuste, con medidas impopulares.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay otra alternativa que no es no ir a votar, es irse por los bordes del sistema. Aparecieron en la elección de ayer dos fenómenos que los venimos viendo evolucionar desde las primarias. Uno es la expansión, en términos relativos, muy importante de algo que no se suele denominar así en la Argentina. Hay como una visión culposa de esa palabra, a diferencia de otras sociedades, pero que ahora se empieza a denominar de esta manera: la derecha, no el centro-derecha, que es la manifestación culposa de esa misma denominación. No, la derecha. Javier Milei es parte de esto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gana una oposición que tiene el discurso de la racionalidad fiscal, avanza una derecha que pide menos emisión, que pide menos gasto, que pide menos presión tributaria, y empieza a haber una mayor gravitación de intendentes y gobernadores fóbicos al caos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8564
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.871,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La libertad de prensa es lo primero que atacan los autoritarios y las dictaduras.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Denunciar cualquier intento de atentar contra la posibilidad de informar y opinar con total independencia es una obligación de los periodistas y un derecho de los ciudadanos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tiene una obsesión contra el periodismo profesional; no quiere que nadie lo controle.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobernador, al que sorprendieron regalando dinero, billetes, antes de las elecciones, dijo que debemos defender el respeto y la verdad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El único límite para la libertad de prensa debe ser el código penal.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vale la pena encender una luz de alerta, porque Quintela reporta a Alberto Fernández, a Cristina Fernández y a Sergio Massa, es decir, al \"Triángulo de las Bermudas\", donde se hundieron los mejores sueños de los argentinos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Escuchó bien? Bloquear canales, es decir, que está incitando a cometer un delito.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese es el periodismo que le gusta a Quintela, una especie de Telesur chavista vernácula.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Rossi también dijo que, si fuera presidente, indultaría a Cristina el primer día.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La sociedad democrática y republicana debe permanecer en estado de alerta frente a este tipo de atropellos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero Néstor Kirchner y ahora Cristina tienen una obsesión infatigable contra los medios de comunicación.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo lo hizo, lo hace y hará todo lo posible por censurar y controlar el periodismo, pero debe saber que la libertad de prensa no se toca y que las noticias no se manchan.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2468
+}

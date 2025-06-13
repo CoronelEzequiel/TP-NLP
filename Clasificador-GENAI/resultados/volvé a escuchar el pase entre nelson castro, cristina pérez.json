@@ -1,0 +1,36 @@
+{
+  "texto_id": "Copiosa lluvia y un clima político tormentoso",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.69,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No hay precedentes de tantas bancas vacías en una apertura de sesiones, pero es crucial entender que la ausencia del kirchnerismo anticipa nuevos conflictos, y que esa ausencia no se habría producido sin la probable orden de Cristina Fernández de Kirchner.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No obstante, no debemos olvidar el interés principal de la señora Fernández de Kirchner, el cual no menciona en su tuit: controlar el Poder Judicial y, principalmente, ejercer influencia en la Corte Suprema, donde se dirimen sus causas judiciales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi objetivo es terminar con el kirchnerismo, y pondré todos mis esfuerzos para que quienes comparten mis ideas de libertad y república estemos juntos y le pongamos el último clavo al ataúd del kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El presidente Milei manifestó su deseo de cerrar filas con sus aliados naturales de Juntos por el Cambio u otros partidos, contra las estrategias de su principal asesor, Santiago Caputo, a quien se le atribuye la oposición a un acuerdo con Juntos por el Cambio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Macri o una figura fuerte del gobierno compiten, la ecuación cambia, pero no tanto. Estos números serán ineludibles para La Libertad Avanza y Juntos por el Cambio, y dan chances al kirchnerismo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3299
+}

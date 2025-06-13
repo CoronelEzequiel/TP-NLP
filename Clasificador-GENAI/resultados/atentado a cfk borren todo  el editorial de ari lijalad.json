@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.275,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La nota revela que Ivana Bottegal, exasesora de Gerardo Milman, modificó su declaración.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un testigo escuchó a Milman decir, 48 horas antes del atentado contra Cristina Fernández de Kirchner del 1° de septiembre de 2022: \"Cuando la maten, yo estaré camino a la costa\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bullrich negó las acusaciones, calificándolas de \"verso total\", tanto en declaraciones públicas como en un tuit.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La jueza María Eugenia Capuchetti, a cargo del caso, lleva ocho meses investigando el atentado como un simple hecho de inseguridad, minimizando su gravedad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Previamente, publicamos en \"El Destape\" que durante el concurso para su cargo en el gobierno de Mauricio Macri, Capuchetti visitó frecuentemente la Agencia Federal de Inteligencia (AFI), las oficinas de Gustavo Arribas y Silvia Majdalani.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso, medios como Clarín y La Nación han minimizado la información, posiblemente para proteger sus intereses comerciales con candidatos presidenciales, como Patricia Bullrich.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1672
+}

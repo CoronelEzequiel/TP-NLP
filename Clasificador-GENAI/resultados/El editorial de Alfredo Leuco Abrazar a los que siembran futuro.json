@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.671,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Son nuestros hermanos del campo que están trabajando para dejarles a nuestros hijos mejores tierras que las que nos dejaron nuestros padres.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ingeniería genética y la biotecnología son las locomotoras del futuro de la patria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Kirchner fueron los autores intelectuales y materiales del asesinato del federalismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los agricultores no reclaman nada raro. Los chacareros no quieren ni prebendas ni subsidios, solo diálogo franco, soluciones racionales y buen trato para producir la mayor cantidad de alimentos posibles, para atender la mesa de los argentinos primero y para exportar lo más que se pueda después.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso las viejas sabias dicen que cuando uno vuelve a su casa, le vuelve el alma al cuerpo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es que la patria se construye de muchas maneras, en las fábricas, en las universidades, apostando a la solidaridad y a la igualdad de oportunidades.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el Día del Agricultor pedimos tres deseos: que de la tierra arrasada que dejaron los ladrones y autoritarios pasemos a la tierra prometida; que de la Argentina que tenemos pasemos a la Argentina que queremos y necesitamos; y, si nos han prestado la vida y tenemos que devolverla, cuando el Creador nos llame para la entrega, que nuestros huesos, piel y sal abonen nuestro sueño natal para sembrar esperanza y cosechar futuro.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2415
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Algo de eso está pasando en la Argentina o pasó con la promoción que hizo Cristina Fernández de Kirchner de dos figuras: Alberto Fernández y Axel Kicillof.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy tenemos la rareza de dos poderes ejecutivos: el de la nación y el de la provincia, intervenidos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los movimientos sociales fueron adquiriendo a lo largo de 20 años una dimensión, una gravitación en la política que ya alarma, no a la derecha, sino a sectores progresistas que veían en esa organización social un mérito de la democracia argentina y que ahora están temerosos de que los movimientos sociales se coman a la política, se coman a los intendentes, se coman a la Cámpora, se coman al gobierno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, por encima de todo este problema que se pone de manifiesto con la derrota, pero son problemas anteriores a la derrota y son los problemas de un experimento \"populista\" que ya estaba en manos de Cafiero.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos frente a un gobierno en campaña que no puede decirnos claramente hacia dónde vamos. Estamos ante una flecha sin blanco.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8137
+}

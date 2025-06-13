@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.096,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sabemos que tu fórmula es competitiva y hemos visto tu gran esfuerzo en la cobertura del 5N.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me emociona contar con este equipo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sentí que el gobierno se debilitaba: la renuncia de Martín [Apellido], las dificultades económicas, la inestabilidad política coincidió con la acusación a Cristina [Apellido] y las movilizaciones en contra del gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación era difícil: pandemia, cambio de precios por la guerra, y la deuda con el FMI, un gran \"cepo\" para la economía argentina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gasoducto representa un cambio en la matriz energética argentina, reduciendo el costo de la luz y el gas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que cuando uno actúa pensando en el poder del pueblo, el poder de los demás importa menos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos seguir nuestro programa con convicción y alegría, sin importar las críticas de quienes defienden otros intereses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que plantear un proyecto de país: valor agregado a los recursos naturales, desarrollo tecnológico, generación de empleo, infraestructura turística.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay dos modelos de país: uno primarizador y especulativo; otro, con desarrollo federal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No puede haber consenso en la corrupción o en políticas que afecten la justicia social, como la universidad paga.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Queremos una universidad pública y gratuita, con tecnología.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos repensar el programa con el FMI, planteando variables distintas y buscando la estabilidad macroeconómica, el orden fiscal, y la acumulación de reservas.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Malena [Apellido] es una gran trabajadora.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2635
+}

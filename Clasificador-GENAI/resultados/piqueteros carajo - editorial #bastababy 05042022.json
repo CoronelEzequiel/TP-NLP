@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.858,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Después de 20 años de kirchnerismo y 40 de democracia, seguimos debatiendo sobre el aumento de la pobreza.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hacen una apología de la pobreza \"digna\", pero la pobreza no es digna, es una mierda.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos gobiernan reverendos hijos de puta (lo digo todas las noches) que creen que la pobreza se soluciona gobernando mal y regalando libros, en vez de generar empleo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los ricos de Argentina (Cristina, Alberto… todos los oligarcas, los que tienen la plata que se robaron) le hacen creer a los pobres que piquetar es digno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que auditar a los líderes piqueteros para ver cómo viven ellos, sus hijos y nietos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, ¿a qué te mandaste con la guita que te llevaste? ¡Ladrones, sinvergüenzas!",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2154
+}

@@ -1,0 +1,26 @@
+{
+  "texto_id": "6 de la tarde",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.267,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y lo que aparecía en esta filtración de chats entre D'Alessandro y Robles era que estaban hablando de causas judiciales que estaban en trámite, que estaban en manos de la Corte y que involucraban a la Ciudad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Stornelli agarró el voto de Figueroa y dijo: \"Los chats supuestamente obtenidos del teléfono de D'Alessandro fueron obtenidos de manera ilegal, por lo tanto acá no hay nada que investigar, hay que cerrar todo\".",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces les fue mostrando cómo en Comodoro Py hay una cadena de favores donde se van encubriendo unos a otros para que las causas que los involucran no se investiguen.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3256
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y a mí me gustaría que volvamos a ser felices, que la gente, toda la gente pueda llevar su alimento a su casa, que existan las risas, que exista la noche, que exista la cultura, que la salud se enriquezca, que la educación se vaya haciendo libre y gratuita y que realmente, de verdad, no dependamos del Fondo Monetario Internacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el deseo, bueno, el deseo que ya se cumplió en otra época, en otro tiempo, con otras realidades, que lo cumplimos con el kirchnerismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué te pareció que Macri se bajó? No sé yo, no sé qué decirte.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos los logros que tenemos se los consiguió el peronismo. La gente se olvidó lo que pasó con el kirchnerismo. Todo lo que se logró con el kirchnerismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No te asombra a veces cuando, por ejemplo, escuchamos del otro lado de la grieta que hablan de la revolución de los mansos, de los republicanos, etcétera, y que eso va acompañado de horcas, de bolsas notorias?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4097
+}

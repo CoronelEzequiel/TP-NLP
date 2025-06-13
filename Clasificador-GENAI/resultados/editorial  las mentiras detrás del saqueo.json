@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.142,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Pasaron cuatro días desde la asunción del nuevo gobierno y ya se ha implementado un plan de ajuste drástico contra trabajadores, trabajadoras, pobres y la clase media.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El objetivo principal es una transferencia masiva de ingresos desde las capas populares hacia diferentes fracciones de las clases dominantes, principalmente el complejo agroexportador (principal beneficiario de la devaluación), y otros grandes empresarios, debido a la licuación salarial provocada por la devaluación y la inflación.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inflación no es un fenómeno natural, sino una política deliberada para licuar salarios e ingresos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otra falacia desmentida es que el ajuste no lo paga la \"casta\", sino el pueblo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay diferencias entre lo prometido en campaña y lo que se está implementando.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalmente, la ideología libertaria, basada en el principio de no agresión, respeto a la propiedad privada y mínima intervención estatal, se ve claramente violada.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1682
+}

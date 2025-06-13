@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Nos olvidamos enseguida que nos robaron las vacunas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora parece que se llevaba un paquete con 60 para familiares y amigos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, querido, vos sos el único que conozco al que los fracasos no lo marean.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No necesitamos un Estado paternalista, no necesitamos a [nombre del funcionario, no se entiende en el texto original], que nos marque el camino.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero creo que Cristina Fernández de Kirchner tiene una secta de locos delirantes que la siguen y le lavaron el cerebro, y están todos obnubilados siguiendo, primero, una revolución que no existe, segundo, un futuro que tampoco existe, y tercero, a una mujer que tampoco existe, pero creen que están viendo la bajada del Mesías.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tenemos un gobierno que es un papelón.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chicos, este gobierno es un desastre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2450
+}

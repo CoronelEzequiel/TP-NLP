@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Obviamente, Boudou criticó a la prensa, pero la verdad es que buena parte de lo que dijo, o al menos de lo que trascendió (paradójicamente, dado que el curso se llamaba \"Las mentiras del periodismo\" y esto figura entre sus contenidos), es completamente falso, es mentira.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Denunció el \"Lawfare\" y afirmó que la democracia está condicionada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Amado Boudou, en el Día de la Libertad de Prensa, dice que los medios mienten.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cierro con este dato: el juicio de la causa Ciccone tuvo decenas de testigos, decenas de pruebas documentales, una acusación del fiscal y una condena de los jueces.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Boudou se quejó del día en que fue arrestado, el 3 de noviembre de 2017, cuando se filtró una foto suya con un casco y un chaleco.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1822
+}

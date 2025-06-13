@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Que la ley de Milei proponga restituir el orden económico y social basado en la doctrina liberal de la Constitución de 1853 implica, en mi opinión, un retroceso hacia un país de trabajadores sin derechos, analfabetos y hambrientos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ministro parece expresar una preocupación por un retorno a un “siglo sin derechos”, otorgando libertad sin la protección de los derechos fundamentales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En medio de esta controversia, Milei declaró en Davos que el Estado debía reducir su intervención, disminuir la carga impositiva y que el problema radica en las fallas del Estado, no en el mercado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La economista Mariana Mazzucato criticó el discurso de Milei en Twitter, calificándolo de una “mala interpretación ideológica y peligrosa de la historia económica”, enfatizando la necesidad de gobiernos comprometidos que colaboren con el sector privado para abordar desafíos globales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la ley de Milei busca un regreso a una Constitución que carecía de los derechos conquistados en el siglo XX y XXI, promoviendo una “libertad sin derechos”, y esto se refleja también en el DNU,  invalidado por sus irregularidades procedimentales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1954
+}

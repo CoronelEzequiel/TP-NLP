@@ -1,0 +1,41 @@
+{
+  "texto_id": "premios_martin_fierro",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Telefe se llevó quince premios más el premio de oro, es decir, dieciséis en total.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Susana, como siempre, sin saber nada, se enteró que eran trabajadores de la televisión pidiendo un aumento salarial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y después, Susana, ¿se te parece? Vamos a escucharla porque se definió a sí misma como \"gorila\" en la alfombra roja de esta manera: \"No, no, no. Para mí no. Yo no soy peronista. Así que si no soy peronista, soy gorila. Soy gorila. ¿Qué voy a hacer? Como si lo tomaran como un insulto. Amo los monos. Amo los monos\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El momento divertido de la noche fue el de Benjamín Vicuña.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, Nancy Pazos lo dijo. A mí me incomoda que él esté.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue uno más oficialista, el panelista.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3009
+}

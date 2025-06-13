@@ -1,0 +1,51 @@
+{
+  "texto_id": "entrevista_a_productor_agropecuario",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.487,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo más importante es que, al menos en principio, fuimos escuchados.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para un productor, la diferencia entre liquidar un camión de soja a $280.000 y a $320.000 es significativa, representando un aumento considerable.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una realidad que cada 10 dólares que ingresan a Argentina, 7 provienen del campo.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos un diálogo para abordar la diferencia de costos entre grandes pools de siembra y pequeños productores.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tipo de cambio está atrasado. Si bien se ha hecho un acercamiento a la unificación que pedimos, idealmente debería ajustarse hacia arriba, para reflejar un valor real.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quien arrendó a 1500 kilos de soja, seguirá con ese acuerdo, independientemente de las retenciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero el productor chico que invierte y no alquila, con las deudas de la última sequía (2023-2024, la peor en casi 50 años), está en una situación muy difícil.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los sectores productivos han sido muy castigados, y acomodar la situación llevará tiempo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1959
+}

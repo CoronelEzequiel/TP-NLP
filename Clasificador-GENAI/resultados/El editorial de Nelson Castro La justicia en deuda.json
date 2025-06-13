@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.63,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta justicia, tal como está estructurada, y esto no implica que no existan jueces honestos ni fiscales honestos, no nos sirve.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tampoco nos sirve, más allá de esta reciente actividad judicial, en los casos de corrupción.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los casos de De Vido, y ¿qué pasará con Cristina? Es decir, deben estar presos, pero por supuesto deben estarlo con juicios terminados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el daño que produjeron es inconmensurable. No solamente por el dinero que robaron, sino fundamentalmente por el atraso en el que sumieron al país y por la cultura de corrupción que instalaron.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso debemos cambiar el sistema.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 998
+}

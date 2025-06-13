@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_roque_kicillof",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.183,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y también creo que a nivel nacional logramos una remontada épica, pero hay que ser mesurados, prudentes, hay que trabajar mucho aún, nos quedan días muy valiosos, tenemos que ampliar, convocar y bueno, en eso Sergio Massa tiene toda la capacidad para construir el triunfo que necesita la República Argentina, que no es el de una fuerza política, sino el de la democracia y el de un espacio que vuelva a convocar y a construir los acuerdos que necesita nuestro país para salir adelante y para poder estabilizarse en el tiempo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que quizás siempre es más fácil pelearse, pero acá el desafío pasa por aglutinar, y yo creo que Sergio Massa tiene la capacidad, el tono y el expertise para poder lograr esos marcos y avanzar definitivamente hacia lo que necesita nuestro país: certidumbre, tranquilidad, equilibrio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y además, me parece que lo importante, más allá del tema partidario e ideológico, es que en Argentina la sociedad logró parar un fenómeno a nivel mundial que en casi todos los lugares ganó; acá se lo paró.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso también tiene que ver con algo clásico del peronismo: estar alineado, saber quién manda e ir detrás.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, nosotros no hacemos promesas, me parece que en todo caso ofrecemos compromiso, y creo que Sergio Massa ya ha marcado con las medidas que viene tomando una dirección y un sentido, y en el propio discurso está marcando con toda claridad que va a ser el presidente de los trabajadores y las trabajadoras, de la producción, también de la seguridad, que me parece es un eje muy importante y que nuestra sociedad remarca permanentemente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, sí, yo creo que la ciencia política es un gran compromiso, totalmente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3649
+}

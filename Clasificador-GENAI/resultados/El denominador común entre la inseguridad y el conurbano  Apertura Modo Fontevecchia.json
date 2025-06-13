@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_lomas",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Una vez más, el municipio fue testigo de un nuevo asesinato, esta vez de una menor, una niña de nueve años, Uma, cuyo padre forma parte del equipo de custodia de Patricia Bullrich.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Javier Milei también se pronunció con un tuit al respecto. Dijo: 'Uma tenía nueve años y fue asesinada cobardemente. Envío mis más sinceras condolencias a su papá, María Eugenia y Eduardo, ambos efectivos de nuestra Policía Federal. Cuentan con mi apoyo y el de todo el gobierno nacional. Los delincuentes creen que siguen viviendo en una Argentina de la impunidad, pero se equivocan. Lo vamos a encontrar, vamos a hacer que paguen la vida que se llevaron y por la familia que destruyeron'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este partido, el 47% de los ciudadanos es pobre y el 12% es indigente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, todas estas denuncias, acusaciones, cifras de pobreza y significaciones de desigualdad con los countries y barrios privados dan un cuadro en el que la política parece impotente frente a los crecientes problemas sociales, y esto no puede limitarse a la política local.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, este tipo de crimen genera todo tipo de enojos, de emociones. Si no tocamos todos los problemas que hay alrededor de la pobreza, la exclusión, el consumo de drogas, los negociados de la política, todo esto al mismo tiempo, accionar solo cuando el hecho ya ocurrió, descalificar a los delincuentes, no, por más que los califiquemos de 'lacras humanas', de llenarlos de agujeros con gruyer, no resolverá ninguno de estos problemas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5701
+}

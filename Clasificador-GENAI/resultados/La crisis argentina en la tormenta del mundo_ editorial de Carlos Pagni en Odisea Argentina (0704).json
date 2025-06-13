@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Y podríamos decir hoy que la Argentina, que atraviesa una crisis política cuyas manifestaciones son cada vez más evidentes y más frecuentes, la crisis argentina se sacude en la tormenta del mundo, tormenta que ha desatado **Donald Trump**, suspendiendo o poniendo en crisis un fenómeno que fue un fenómeno de las últimas décadas, que es la globalización sobre todo a nivel comercial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gran desafío de **Milei** es no caer en el problema que tuvo **Menem** y, en alguna medida, en el problema que tuvo **Macri**, que es llevar adelante programas de estabilización que terminan siendo repudiados electoralmente por el impacto que tienen sobre el sistema productivo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fue clave la posición de Cristina Kirchner en el Senado, ella maneja 24 senadores; con 25 ya se evitaban los dos tercios que necesitaban Lijo y García-Mansilla para que le aprobaran los pliegos. Fue clave ponerle un límite a Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno contesta sin creerse el argumento de que lo que pasó es la casta contra Milei. Es un argumento sin faltar el respeto a nadie, ridículo. Si Lijo no es casta, o **Daniel Angelici** no es casta, que era uno de los principales promotores de Lijo, o si no es casta el tenebroso **Jaime Stiuso**, ¿dónde está la casta?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo cierto es que Kicillof decide desdoblar la elección de la provincia de Buenos Aires, hacer una elección anticipada el 7 de septiembre y con eso quitarle el aparato bonaerense a la lista nacional del kirchnerismo, donde estaba más involucrada Cristina Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8952
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El que fracasó fue el kirchnerismo, como enfermedad infantil del peronismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El único programa que saca a nuestros compatriotas de la pobreza es el trabajo genuino, privado y en blanco.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejen de asfixiar con impuestos monumentales, con los abusos extorsivos de las patotas sindicales, abran la cabeza y las fronteras al mundo, y terminen con esa maquinaria burocrática que impide todo crecimiento.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este cataclismo social no cayó del cielo como una tormenta, señores. Fue una construcción de la dirigencia política argentina y una destrucción de los mínimos lazos solidarios.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es hora de dejar de hacer diagnósticos y de extirpar para siempre el hambre y la pobreza de nuestro bendito país.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que evitar la catástrofe humanitaria y la hambruna.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2180
+}

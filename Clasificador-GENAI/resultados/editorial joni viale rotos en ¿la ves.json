@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Eso es la fuerza del cielo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo, en consecuencia, está roto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y otra argentina. Pero señora, vida herida. Que en Argentina realmente se va a bajar a seriela de nuevo. Para esos argentinos que merecen recuperar el orgullo de ser argentinos. Y pensando siempre en todo por Argentina. Mi voto es afirmativo a la orden del día 3724. Queda aprobada en general la ley bases con discurso de Victoria Villarruel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La negociación de un voto atañe a la democracia y desnuda el verdadero carácter de blaberos de la política de la derecha.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El voto Krepel está adosado al recuerdo de esta infausta ley antipatria de los argentinos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta vez el gobierno no cedió. Aprendieron de los viejos errores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso Milei y Villarruel no se pueden pelear nunca más. Porque se necesitan mutuamente, muchachos, tienen que entenderlo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hay un espacio político que dice, el DNU es el fin de la Argentina. El DNU primero. Si gana Milei es el fin de la Argentina. La ley base es el fin de la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5957
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Él quería a Nelson Castro y a Gaby Levin.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Somos los que más te aguantamos, ¿eh?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad, me di cuenta de que Javi era mi opuesto, porque donde estoy yo está Javi, y donde está Javi estoy yo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y con Guerín… Con Guerín… Con Ciga Lavaca… estuvimos haciendo un casting con Daniel Valenzuela y Lanata, buscando al \"pelotudo\" de la Argentina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, vamos a ver cómo sale este programa y espero que sea del agrado de todos ustedes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y acá traigo las empanadas y van todos como un carguero.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El día que Daniel quiere echar a 50, le tiro una caja de empanadas a la calle y ya está.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso mismo, quiero que la gente sepa que los dos puntitos que hacemos, tres puntitos, son remados en el medio de esta miserable situación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2767
+}

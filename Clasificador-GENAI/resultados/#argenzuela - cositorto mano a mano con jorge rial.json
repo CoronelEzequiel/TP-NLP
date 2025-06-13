@@ -1,0 +1,46 @@
+{
+  "texto_id": "Cositorto_Radio10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.271,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El ataque fue despiadado, llama la atención el ensañamiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayudábamos a mucha gente, abríamos locales tradicionales (quioscos, casas de empanadas, pizzerías).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora dicen que era una pantalla. Apoyamos los sueños de Damiano y Rodrigo, quienes querían tener la marca Zoey Burger; queríamos abrir 20 hamburgueserías, pero en Argentina todo se ve con el típico modelo mental argentino: todo es lavado, todo es un curro.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no soy el gerente, simplemente ayudé, y ahora los jugadores tendrán problemas para cobrar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy comprometido con que la gente vuelva a salir adelante a través de Sunrise.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina todo se considera estafa o pirámide.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Necesitamos gente honesta, con un corazón limpio, unidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4534
+}

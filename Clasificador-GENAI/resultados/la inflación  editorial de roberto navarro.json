@@ -1,0 +1,31 @@
+{
+  "texto_id": "inflacion",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es difícil pensar en otra cosa si no se cuenta con los recursos suficientes para comprar lo básico, y esa inflación, ese número, viene bajando desde hace varios meses.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 2004, el transporte, la luz, el agua y el gas eran baratos. Hoy, una persona cobra su sueldo y paga el alquiler, la despensa, la luz, el gas, el agua, el transporte… y al final no le queda nada.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se suele atribuir la inflación a la emisión monetaria, pero el gobierno controla la tasa de devaluación, ya que una mayor devaluación implica un mayor aumento de precios.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, algo a favor del gobierno: con todos sus defectos e irregularidades, ha acertado en el diagnóstico político. Priorizó la baja de la inflación, la principal preocupación de la población.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1964
+}

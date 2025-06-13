@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_anibal_fernandez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No, no, no. Rosario lleva 20 años así.  Hemos estado trabajando desde hace un año para revertir esta situación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me pedían un nexo político, y en lugar de buscar a alguien externo, he designado a mi jefe de gabinete, un hombre de la zona, que conoce bien la problemática.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich dice que no es tan difícil, con la Gendarmería en el interior y las Fuerzas Armadas en las fronteras. Eso dijo RETA. RETA y Patricia Bullrich ya tuvieron la gestión de MADC con el Gobierno Nacional. ¿Y qué hicieron?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el que manda a decir estupideces para agredir al Presidente. No te preocupes por los puntos del Presidente, preocúpate por los tuyos, por tus candidatos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablé con el Presidente de la Corte; le preocupaba la situación de los jueces amenazados. Hablamos con claridad sobre el objetivo y las soluciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2854
+}

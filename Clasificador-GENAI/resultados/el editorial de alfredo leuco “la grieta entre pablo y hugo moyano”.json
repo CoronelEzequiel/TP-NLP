@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cruje la relación entre los sindicalistas más combativos y amenazantes de la Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El padre, más cerca de Massa y de Alberto Fernández, y el hijo, más cerca de Máximo Kirchner y La Cámpora.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La obra social tiene serias dificultades económicas, la diputada Graciela Ocaña asegura que está fundida o casi, pero la empresa que la gerencia tiene ganancias millonarias, y esa empresa es dirigida por ¿quién? Por los hijos de Liliana Zulet, la actual esposa de Hugo Moyano.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pablo es el patrón del mal.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su lenguaje está cargado de pólvora y amenazas, y básicamente su metodología es la patota y la extorsión de los bloqueos, que han fundido a cientos de empresas pymes.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que recordar que el presidente decorativo de la nación, Alberto Fernández, llegó a elogiar a Hugo Moyano como un modelo de un sindicalismo ejemplar, y hasta se dirigió a sus hijos para instarlos a que siguieran el ejemplo de su padre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1964
+}

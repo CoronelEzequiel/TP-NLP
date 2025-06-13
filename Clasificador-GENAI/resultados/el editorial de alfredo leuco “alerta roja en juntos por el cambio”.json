@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Todos recitan de memoria que nadie quiere una ruptura, pero la pelea interna llegó a niveles nunca vistos y, a la luz de la unidad, esta no se ve muy clara al final del túnel.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El lado oscuro de Mauricio Macri quiere que pierda Juntos por el Cambio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No iría a Jujuy a decir que hay que sumar a Milagro Sala.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El principal error político que cometieron todos fue no haber institucionalizado el espacio.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No se puede dinamitar la convivencia pacífica dentro de la coalición al introducir una granada de fragmentación, como es la propuesta de Rodríguez Larreta de sumar a Juan Schiaretti.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Deberían reunirse sin periodistas y en forma reservada los protagonistas principales, y no levantarse de la reunión hasta que resuelvan en forma urgente las graves tensiones que han generado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El principal punto debe ser la misión histórica que les dieron los ciudadanos con los votos: desalojar al chavismo kirchnerista del poder y tratar de reconstruir un país confiable y serio que recupere sus mejores tradiciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2225
+}

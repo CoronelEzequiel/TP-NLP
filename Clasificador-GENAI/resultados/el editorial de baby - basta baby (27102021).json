@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.433,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Yo, de los políticos… a muchos los quiero.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y en este ambiente yo llegué gracias a los compañeros y toda la vida le voy a estar agradecido a los compañeros con los que siempre trabajé.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre en Argentina los ricos tuvieron privilegios, pero no importa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No había que ser kirchnerista para tomar café en el bar, y a todos nos atendían igual, porque éramos todos actores.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero hay que ser simple en la vida, porque lo único que te llevas es el amor.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no creer que sos un genio, porque alguno te dice “genio”, si frotas la lámpara, boludo, ¿sabes cuántos genios vi en el piso?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2862
+}

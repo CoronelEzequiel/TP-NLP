@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.78,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Un incendio en Corrientes, el presidente permanece en silencio; mientras tanto, Santiago Maratea, un joven influencer, evidencia la ineficiencia estatal con una simple acción.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quizás por la falta de confianza generada por la imagen del ministro plantando un jacarandá en el Caribe en medio del desastre, o por su dudosa idoneidad para el cargo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La bancarrota moral del Estado argentino, evidenciada por el caso Maratea, antecede a las excusas de Cabandié y a la ausencia presidencial.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Estado argentino se ha convertido en un territorio parcelado para el lucro de políticos ensimismados.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se priorizan los intereses particulares sobre el bien común.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1703
+}

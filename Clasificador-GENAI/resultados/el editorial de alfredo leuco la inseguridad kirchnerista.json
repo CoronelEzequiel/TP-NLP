@@ -1,0 +1,106 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.834,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Nos quitaron tanto que nos quitaron el miedo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La furia popular está amenazando con puebladas y estallidos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que el accionar de Sergio Berni no nos tape el bosque de la inseguridad del kirchnerismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La paliza feroz que los colectiveros le propinaron a Berni fue la expresión más brutal y primitiva de un hartazgo social que el gobierno kirchnerista no ve y no quiere ver.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La inmensa mayoría de los argentinos no aguanta más vivir con miedo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insultan porque ven que el gobierno nacional y el de la provincia de Buenos Aires no hacen nada para combatir el delito y el crimen organizado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La nefasta doctrina de Eugenio Zaffaroni se disfraza de progre, pero es profundamente reaccionaria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los muchachos kirchneristas y sus dirigentes han romantizado todo tipo de delitos, empezando por la lucha armada de la guerrilla de los 70 y las dictaduras rojas de sangre opositora en la región.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No creen en el sistema de premios y castigos; es nacional populismo berreta.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, en plena pandemia, liberaron a miles de presos que nunca volvieron a las cárceles, pese a que en los penales casi no hubo muertos por el virus del COVID.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En La Matanza, por ejemplo, defienden los derechos humanos de los presos, pero no de las personas honestas que van a trabajar o estudiar todos los días.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina y sus talibanes se cansaron de decir y de actuar en consecuencia que la inseguridad era un problema de los ricos y una bandera de la derecha.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La seguridad es la mínima garantía que tiene que ofrecer el Estado para que las familias que producen vayan a sus empleos sin temor y que no tengan pánico cada vez que sus hijos van a la escuela.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si fueran a escuchar, en lugar de adoctrinar a los barrios populares del conurbano, se darían cuenta de que la inseguridad, como todos los problemas graves, golpea mucho más fuerte a los más débiles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inseguridad no es una tormenta de verano ni algo que cae del cielo; es una construcción del Estado kirchnerista que todo el tiempo envía señales nefastas a la sociedad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Les guiñan el ojo a los criminales, a los usurpadores, a los que violan la ley en todas sus formas, y cierran los ojos ante las víctimas que reclaman justicia.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los ciudadanos van acumulando bronca porque ven a los funcionarios bien protegidos con guardaespaldas y viajes en helicóptero o autos blindados, mientras ellos cada vez sienten más pánico a la hora de salir a la calle.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entre todas las herencias malditas que va a dejar este cuarto gobierno kirchnerista están, por supuesto, la inflación y la pobreza multiplicada. Pero la más grave es la inseguridad galopante.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No tienen la menor intención de enfrentar a los delincuentes, y esa sí que es una cuestión de vida o muerte.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3118
+}

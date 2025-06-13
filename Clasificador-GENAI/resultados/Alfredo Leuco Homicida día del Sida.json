@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.312,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "José del Barrio tiene encima y carga sobre su espalda los dos virus más terribles del fin del siglo: el virus del VIH y el virus de la desocupación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un día lo echaron como un perro.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el trabajo dignifica, la desocupación deprime e invisibiliza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El fallo del juez Roberto Beaty fue un fallo que dignificó al ser humano.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El arma contra esa discriminación la tenemos los docentes, los curas, los periodistas, los artistas, todos los que tenemos un lugar para comunicarnos, un púlpito desde donde hablar y dar información.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La información rigurosa es el arma más poderosa que tenemos en la lucha contra el sida y se lo digo hoy que es el día mundial de la lucha contra el sida.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso creo que hay que decir con todas las letras y con el lenguaje de la calle que, a esta altura de la muerte, no se puede ser tan imbécil de no usar preservativo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La ciencia ya pudo controlar el virus y detener la expansión de la epidemia, pero todavía los genios están trabajando para concretar el sueño de la vacuna preventiva, como la que liquidó la polio o la viruela.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2853
+}

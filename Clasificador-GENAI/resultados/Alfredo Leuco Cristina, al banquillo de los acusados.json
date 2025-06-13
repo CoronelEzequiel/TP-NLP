@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Con valentía y excelencia jurídica, el fiscal Diego Velasco reclamó que Cristina y sus hijos sean sometidos a juicio oral y vayan al banquillo de los acusados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Velasco abrió una ventana con aire fresco que indica que no todo está perdido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos hablando de una asociación ilícita que involucró a 32 personas durante más de una década, que integraron dos presidentes, sus hijos y tres de los empresarios, amigos, cómplices y testaferros del poder, como Lázaro Báez y Cristóbal López.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que inventaron un traje a medida, un código especial casi monárquico, para Cristina, la reina de la impunidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca en la historia judicial hubo tantas pruebas documentales, audios, videos, cuentas bancarias, testimonios de arrepentidos y cruces de llamadas que confirmaron que Cristina es culpable de toda culpabilidad y que se convirtió en la mujer más corrupta de toda la historia democrática.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy, Cristina consiguió la más insólita de las situaciones: no tuvo juicio, ni castigo, ni condena.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Toda la actividad de Cristina conspira contra la convivencia democrática y el respeto a la ley.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2263
+}

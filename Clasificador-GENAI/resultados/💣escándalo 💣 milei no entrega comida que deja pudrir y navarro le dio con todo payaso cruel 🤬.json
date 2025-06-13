@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.113,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ayer se dio a conocer la caída de la actividad económica en marzo. El dato oficial arroja una caída del 8,4%.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se reporta que ya se han perdido 270.000 cuentas sueldo, lo que representa los empleos registrados que se perdieron en estos primeros cinco meses del gobierno de Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, Ariel *Jalal* publicó una nota que afirma que *Milei* y *Petovello* tienen más de cinco millones de kilos de alimentos sin entregar y hay riesgo de que se pudran.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un payaso cruel que hambrea al pueblo, una feroz caída del nivel de actividad a la que ahora se suma una crisis financiera, y empresarios riendo y aplaudiendo en una borrachera de avaricia vergonzosa.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1726
+}

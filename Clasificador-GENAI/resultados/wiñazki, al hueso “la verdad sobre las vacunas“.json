@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Argentina enfrenta dificultades en su plan de vacunación, posiblemente debido a la opacidad que rodea el acuerdo con Rusia, un país con un sistema científico avanzado pero poco transparente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Científicos cuestionan la falta de transparencia sobre la Sputnik V, incluyendo la reciente afirmación de que puede aplicarse a mayores de 60 años.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La dependencia de la Sputnik V se atribuye a la gestión de Cristina Fernández de Kirchner, quien, a través de Axel Kicillof, contactó al Presidente ruso, Vladimir Putin, y al canciller ruso (el nombre se transcribió de forma incorrecta en el texto original y debe ser revisado).",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La confidencialidad del acuerdo con Rusia, similar a la de otros contratos farmacéuticos, impide la divulgación de información hasta la salida al mercado, debido a la competencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un acuerdo entre Rusia y Argentina, ratificado en Rusia pero no en el Congreso argentino, permite a Rusia instalar una base de captación de datos en Argentina, similar a la de China.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1571
+}

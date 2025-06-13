@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ambrosini destacó la importancia del anuncio, explicando que el proceso había sido largo y que, finalmente, se había logrado aprobar la primera etapa para implementar el 5G en el país durante el año.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Reconoció que la oposición no los acompañó, pero que el proceso estaba en marcha.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se espera que el Estado recaude mil millones de dólares con esta licitación, un ingreso importante en la compleja situación económica del país.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ambrosini, amigo personal de Massa,  expresó su opinión sobre la  decisión de Massa de mantener ambos cargos, afirmando que la toma en soledad y que la continuidad de Massa como Ministro era importante para la economía argentina en ese momento.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mencionó la  “neutralidad tecnológica”  como un factor clave en la licitación, permitiendo que las empresas ganadoras puedan elegir entre diferentes proveedores de tecnología (Huawei, Ericsson y Nokia), evitando la dependencia de un solo proveedor.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1238
+}

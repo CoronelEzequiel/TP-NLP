@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Quien tiene esa lapicera es Cristina Fernández de Kirchner.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no puede evitar ser Cristina Fernández de Kirchner y, a pesar de ser la vicepresidenta de la República, se involucra en casi todas las cuestiones que tienen que ver con las decisiones más importantes del gobierno.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se venció la concesión, se prorrogó por un año y ganó el sector más ligado a Cristina Fernández de Kirchner que quiere estatizar ese negocio.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, va a ser ella quien decida quiénes son los candidatos en la elección en la que, según ella considera, y yo no lo sé, lo dice así, se pelea el poder de una forma crucial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si pierde el oficialismo, aunque sean elecciones provinciales, con legisladores nacionales, esto es una muy mala señal.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los agentes quieren lugares, el Frente Renovador de Massa quiere lugares, los movimientos sociales quieren lugares en las listas y todo esto lo va a definir Cristina Fernández de Kirchner, que, además, quiere que haya cambios de gabinete.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2044
+}

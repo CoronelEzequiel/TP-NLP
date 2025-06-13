@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_movilizacion_universitaria",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este segundo aspecto, no tan destacado por el ecosistema mediático, que es muy *umbicéntrico*, fue muy importante porque justamente tuvo lugar, o se produjo, en provincias en las que el gobierno, este gobierno de **Javier Milei** y **La Libertad Avanza**, obtuvo resultados electorales muy significativos para el triunfo en el balotaje del año pasado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pensar el triunfo electoral de Milei, con todos los condimentos que tuvo en términos de crisis de representación de todo el viejo sistema político, pensar que ese triunfo electoral era sinónimo de que la sociedad se volvió de derecha unilateralmente, era un error de análisis, un error conceptual, pero además un error político, porque nos desarmaba, si adoptamos esa mirada, para las perspectivas que muy probablemente se iban a venir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, tampoco es un error casual, es un error que está en su naturaleza, porque Milei cree que todo lo público es una aberración frente al mercado, que es como una especie de dios que puede resolver todos los problemas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La demostración más clara fue la posición defensiva en la que se ubicó Milei. Esa misma noche respondió como en modo automático, con un meme, la figura de un león que estaba tomando presuntamente lágrimas de zurdo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2498
+}

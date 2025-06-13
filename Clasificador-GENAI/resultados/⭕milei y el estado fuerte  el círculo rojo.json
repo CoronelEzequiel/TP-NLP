@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Contra el autorrelato libertario que asegura querer cada vez menos Estado —un Estado que se retire de las distintas esferas y se extinga para dejar que la regulación armónica del mercado ordene la vida económica y social—, que es, más o menos, el relato de su utopía, la realidad es que necesitan un Estado fuerte para garantizar ese orden.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El neoliberalismo —o libertarianismo, como lo llaman los padres fundadores de los que constantemente se habla:  Hayek, von Mises y Milton Friedman— no es un proyecto económico que busca cada vez menos Estado y menos política. Es un proyecto político que pretende un Estado fuerte para blindar el orden del mercado, porque de otro modo la sociedad estallaría.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esta área, Milei inicia una batalla para instalar una nueva relación de fuerzas, disminuyendo el poder de los medios tradicionales respecto a las redes sociales controladas por empresarios que respaldan a la ultraderecha, como Elon Musk.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si observamos estos anuncios simultáneos —medidas que pretenden unificar el aparato de inteligencia y el que maneja la información sensible de empresas y personas físicas o jurídicas (lo que estaba dentro de la AFIP, una especie de criptoestado multifunción)— y, por otro lado, pretenden limitar la voz pública de medios críticos, se entienden los objetivos del gobierno: coacción y coerción vía extorsión y chantaje sobre la oposición.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Frente a esto, la calle, con el acompañamiento de la izquierda, se erige como la verdadera oposición.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2230
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los paros nacionales han sido una de las principales formas de protesta de los trabajadores en Argentina y en todo el mundo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando el kirchnerismo cuestionaba, por ejemplo, a un 'rapipero' o a cualquier trabajador en negro por votar a Milei, habitualmente sucedía más o menos una conversación así: 'Te van a sacar los derechos, la jubilación, las vacaciones', advertía un joven. Y la respuesta del trabajador, de 'rapipero' o de algunas aplicaciones que estaba en la situación precarizada podría ser más o menos así: '¿Qué derecho me van a sacar si yo no tengo nada de eso?'.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El discurso anticasta que generó una gran parte de la ciudadanía termine simpatizando con Javier Milei, encuentra una de sus representaciones más cabales en cierta vigencia sindical que se ha alejado del modo de vida de sus afiliados, tienen negocios en el exterior, es millonaria y, por momentos, más que corrupta y piensa más en la conveniencia personal a la hora de realizar las medidas de lucha que en las verdaderas necesidades de sus representantes e inclusive en las conveniencias del sindicato como institución, más que de sus representados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La CGT ha sido siempre más dura con los gobiernos no peronistas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los sindicatos deben evolucionar y para seguir siendo una herramienta válida del reclamo en el mundo constante de transformación, tendrán que también actualizarse.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6261
+}

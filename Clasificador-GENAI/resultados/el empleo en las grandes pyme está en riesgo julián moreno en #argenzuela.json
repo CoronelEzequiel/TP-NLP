@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_pymes",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La caída del consumo interno, combinada con la apertura de las importaciones, golpea duramente a las pequeñas y medianas empresas (Pymes) argentinas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas, en lugar de afrontar sus deudas, especulan y utilizan el dinero de las Pymes, agravando la situación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este modelo económico castiga a los más vulnerables.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien la entrada de dólares, por ejemplo, a través del sector energético, podría estabilizar la situación, la pregunta es cómo se generará empleo a largo plazo, algo que el gobierno parece no estar abordando.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La experiencia con programas de inversión como el RIGI, que fracasó en gran medida, muestra que asegurar divisas a los inversores es fundamental, algo imposible en la Argentina actual.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1533
+}

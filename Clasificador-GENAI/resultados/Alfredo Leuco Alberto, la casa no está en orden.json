@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Está muy claro que la casa no está en orden, ni la Casa Rosada, ni la casa de todos, como debería ser en nuestro país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es agresiva y autoritaria, sí, pero por ahora no comete actos imprudentes ni dilapida fondos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto está sometido y nos somete a todos los argentinos a los retos despóticos de Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ese señor vacilante y vacío de contenido está piloteando el avión en el que viajamos millones de argentinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y el fracaso sanitario, por supuesto, que expresa el horror de casi 110.000 muertos y de uno de los peores países del mundo en el manejo de la pandemia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además de su búsqueda desesperada de impunidad y venganza, ahora confesó que necesitan muchos periodos más de gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2130
+}

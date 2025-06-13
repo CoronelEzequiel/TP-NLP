@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.88,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Defiende la dictadura cubana a capa y espada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su política exterior es un cambalache, igual que la mayoría de sus decisiones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya estamos acostumbrados a que en la Argentina Alberto elija los peores modelos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los organismos de derechos humanos colonizados por Cristina en nuestro país no dicen una palabra.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto está a punto de congelarse en el ridículo, bancando a los totalitarios de La Habana.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1957
+}

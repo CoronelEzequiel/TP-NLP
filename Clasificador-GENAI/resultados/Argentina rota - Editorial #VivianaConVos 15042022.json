@@ -1,0 +1,36 @@
+{
+  "texto_id": "Patriotas, felices Pascuas",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En Argentina, los pobres son cada vez más y, a la vez, cada vez más pobres.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina juega a \"House of Cards\" con Alberto Fernández, el que tiene la banda, el bastón, pero no tiene poder.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los funcionarios que no funcionan siguen robando con la nuestra. Total, el rebaño de pelotudos seguimos pagando los impuestos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ustedes solo les importa la perspectiva de género, el ministerio de la mujer y esas mierdas que hacen. No les importa nada la cantidad de millones de niños que no comen en la Argentina, cínicos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dady Brieva, lo lograste, Dady. Vos querías que los argentinos comieran de la basura y ¿sabés qué? Sentite orgulloso, Dady, porque la gente, los argentinos, están comiendo de la basura.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7620
+}

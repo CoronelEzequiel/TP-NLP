@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.621,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Miren a ese señor mayor, allá, hablando en contra de Cristina Fernández de Kirchner. Está equivocado; no hay que hablar mal de ella. Es una mujer noble, decente y honesta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Supo elegir muy bien a nuestro querido Alberto Fernández. Un fuerte aplauso para el presidente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, ¿de qué estamos discutiendo realmente? Hoy vi televisión todo el día, desde que llegué de la radio, y me pregunto: ¿cuál es el tema central de nuestras conversaciones?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras tanto, siguen saliendo expedientes como el de José López, quien se queda en su casa, impune.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández dice: \"¿Qué hay ahora? ¡COVID! ¡Volvamos a las restricciones del año pasado! Encerremos a todos, cerremos las pocas pymes que quedan, arruinemos a todos\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Nos damos cuenta de que los ancianos son una molestia, que hay que vacunar a los jóvenes para que voten a Cristina Fernández de Kirchner el año que viene?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un país completamente inmoral y loco, con las agujas del reloj al revés.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos mienten con slogans baratos y vemos cómo se nos escapa el país como agua entre los dedos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay que apoyar a nadie. Hay que barajar y dar de nuevo. Este país está corrupto y podrido.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los mismos corruptos vuelven al poder.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¡Maduren! ¡Hagan política madura!",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El país está viejo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No podemos vivir mirando para atrás.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo peor de todo somos nosotros, los periodistas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2561
+}

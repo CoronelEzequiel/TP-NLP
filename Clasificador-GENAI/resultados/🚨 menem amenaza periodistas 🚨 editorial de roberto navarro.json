@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.072,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Vimos a Massa, que conocía el Estado a la perfección, preguntándole a Milei, quien no podía contestar las preguntas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, la sociedad argentina, que realmente nos tiene a todos sorprendidos, eligió al que no sabía administrar el Estado para administrarlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, el gobierno se va volviendo un gobierno que persigue al periodismo, al que lo narra, al que lo comenta, mostrando su faceta neofascista, que sabíamos que la tenía.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta semana va a jurar Federico Sturzenegger, un hombre que diseñó el DNU que hoy está vigente, que dio vuelta como una media la economía argentina, y la ley bases.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei sobreactuó patéticamente el apoyo a Sandra Pettovello.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El estado de desesperación del gobierno tiene que ver con su incapacidad, tiene que ver con una corrupción que les puedo asegurar que cuando todo salga a la luz, van a ver que nunca hubo un gobierno tan corrupto como este.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2058
+}

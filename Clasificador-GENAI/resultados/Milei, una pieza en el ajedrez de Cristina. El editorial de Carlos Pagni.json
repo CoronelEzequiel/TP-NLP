@@ -1,0 +1,56 @@
+{
+  "texto_id": "odisea_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.444,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es una transformación en cámara lenta que se consolida y se fija con la disminución de la inflación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí hay un público muy ligado a Milei, la novedad de Milei, un discurso pro-mercado que interpela a sectores medio-bajos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En 2011, querían vivir en un país donde el Estado hiciera la mayor parte de las cosas en lugar del sector privado? En 2011, el 70% respondió que sí.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que la percepción de mejora social solo se da en los ricos, en los sectores más altos de la sociedad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto sugiere que los beneficios de la estabilización económica son más evidentes para los ricos que para los pobres.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno sigue apostando muchísimo a la baja de la inflación como tema central, incluso para ganar las elecciones del próximo año.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei vuelve a polarizar con Cristina Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner está, al igual que Milei, pensando en que la confrontación con el otro afianza el frente interno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner sale a repetir nuevamente su visión de la economía: el problema de Argentina no es el fisco; el problema de Argentina es que no genera dólares.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8901
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "audio_parrilli",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.267,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando cita la frase del presidente (de Estados Unidos), cuando dicen que dominan por la espalda o por la deuda, está clarito que la deuda es un elemento de dominación y de subordinación de las políticas de un país a otros intereses ajenos y, en definitiva, a los acreedores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros tenemos este problema de la economía bimonetaria, la deuda que contrajo Macri, porque cuando nosotros nos fuimos del gobierno en 2015, reconocido incluso por ellos mismos, recordamos lo que dijo Dujovne que la Argentina era un país sin deuda.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Cristina, con este documento, me parece que vuelve a poner en discusión los problemas estructurales de la Argentina que tiene y, hacia adentro, hacia nosotros, hacia nuestro espacio, nos plantea una serie de interrogantes que creo que son parte del debate interno que tenemos que tener.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos dejar de ser oposición para comenzar a ser alternativas. Y solamente vamos a ser alternativas si tenemos propuestas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un sector de la sociedad argentina que votó a este gobierno. Y yo creo que nosotros, en lugar de enojarnos con los que votaron a Milei y a Villarruel... Hay que analizar por qué lo votaron y qué errores cometimos nosotros para que no nos votaran.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este gobierno, cuando tenemos una ministra de seguridad, una ministra de violencia institucional, que puso preso antes a una persona, un tuitero, porque hablaba mal del presidente Macri, y cuando vemos que tienen este dinero, bueno, estamos en el inicio de lo que puede ser una etapa de estrenaje político como la que vimos durante la época de Macri, y ya no solamente contra dirigentes, ya contra ciudadanos comunes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3971
+}

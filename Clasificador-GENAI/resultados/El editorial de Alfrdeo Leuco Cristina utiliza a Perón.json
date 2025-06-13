@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.735,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Una vez más, Cristina Fernández de Kirchner utiliza la figura de Juan Domingo Perón para sus propios intereses y obsesiones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como muchos jóvenes setentistas, Cristina no votó a Perón.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella creía que ser \"evitista\" era más revolucionario, nunca habla de Perón, y cuando se refiere a aquella época, a lo sumo elogia a Eva Perón.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay sectores del peronismo tradicional que acusan a Cristina Fernández de Kirchner de oportunista porque siempre ninguneó y maltrató a Perón.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ante cuestionamientos similares, Aníbal Fernández cometió la osadía de decir que se meta la marcha peronista en, bueno, donde usted ya sabe, y hasta se peleó con el hijo de ese mito llamado Hugo del Carril.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, el peronista Miguel Ángel Toma lo dice claramente en un tweet: \"En este 17 de noviembre, renovemos nuestro compromiso militante por liberar al peronismo de quienes se lo apropiaron, sustituyendo su identidad\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando Mauricio Macri convocó a Miguel Ángel Pichetto, un peronista de todos los peronismos, el senador Federico Pinedo, en aquel momento, dio en la tecla.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La senadora Rucci además postea dos fotos y dos textos. Uno dice: \"El pueblo se moviliza por la causa\" y se lo ve a Rucci y a Perón. Y en la otra foto se ve \"el aparato por las causas, no por la causa, por las causas\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy, el peronista debería conceder que cuando murió Perón, a otra parte del pueblo argentino se le escapó un suspiro de alivio, porque ese muerto había sido responsable de muchas persecuciones y del encarcelamiento de dirigentes opositores.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Néstor y Cristina Fernández de Kirchner echaron sal sobre esas heridas y produjeron las \"estimaduras\" más profundas, y encima las inundaron de una corrupción nunca vista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2631
+}

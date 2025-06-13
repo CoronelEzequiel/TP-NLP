@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Yo en una época milité con un presidente de verdad, no con estos fantoches, que se llamó Raúl Alfonsín.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hay algo que todos nosotros, porque de alguna manera tenemos responsabilidad de gobierno, tenemos que cuidar en nuestra patria -tenemos que cuidar nuestra patria- es la honradez de nuestros procederes, la dignidad de nuestra acción, la moralidad que debe aparecer como cristalina en todo momento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora no, porque ahora no hay más Tedeum ni hay Presidente, ni hay una Iglesia preocupada por los pobres y por los muertos, porque en el Tedeum no se habló de los muertos, del COVID, de las vacunas que se robaron, los sinvergüenza que estaban sentados en esos bancos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este querido Presidente, en una nube de pedos, sigue pensando que es estupendo, y se puso el gym, y se puso un suéter, se puso el suéter, cazó la viola y a cantar como el orto...",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y hoy cantaba el simpático que liberó 8.900 presos cuando entró. Estos liberan chorros y nosotros liberamos países. Esa es la diferencia de la degradación genética que nos tocó en la Argentina de la mano de todos estos sinvergüenza.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Realmente da vergüenza, señor Presidente, da vergüenza hasta los jeans que usa, viejos, craquelados.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Señor, cante para dentro, cante cuando lleva una amiga a la quinta presidencial, cante para los amigos de su compañera, cante para Dylan, pero no nos cante más, porque las letras suyas no nos convencen.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un pueblo se lo conquista con trabajo, con pelotas, con dignidad, se lo conquista honrando a los héroes y a los próceres, no con una guitarrita que parece un ciego de subte.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted es un gran payador y un mentiroso, pero queremos nosotros, señor Presidente, alguien que nos enorgullezca, parece un padre borracho, nos da vergüenza, no es un papelón, así no se conquista un pueblo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Realmente da vergüenza, señor Presidente, da vergüenza hasta los jeans que usa, viejos, craquelados.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3940
+}

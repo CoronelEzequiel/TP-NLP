@@ -1,0 +1,36 @@
+{
+  "texto_id": "diana_con_vos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Muchos políticos están provocando la ira de Dios. Han convertido este país en una cueva de ladrones, en eso lo convirtieron, están en una cueva de ladrones, están enfureciendo a Dios, la ira de Dios, están haciendo enojar al maestro de los maestros, porque ellos viven en un mundo paralelo, donde no conocen la humildad, ellos no complacen a Dios nunca, ellos desprecian al pueblo y a su gente, ellos pisotean a la patria, ellos pisotean a la bandera argentina, la ira de Dios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora se pelean por la caja de los pobres, porque es la caja que no maneja La Cámpora. A ellos no les importa el pueblo, solo les importa quedarse con el dinero del pueblo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con los pobres no. El sobresubsidio para los amigos. Una fundación vinculada al \"Chino\" Navarro, recibió 106 millones de pesos en cuatro meses del Ministerio de Desarrollo Social. El \"Chino\" Navarro vendría a ser uno de los mercaderes del templo. La ira de Dios. Está de los dos lados del mostrador. Es funcionario del gobierno y además es el líder del movimiento Evita. Está claro que algo no está bien y están provocando la ira de Dios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá la clase política, como Alberto Fernández, como Ginés, defendieran con ese fundamentalismo que tienen con el aborto a los chicos que están muertos de hambre, a los chicos que tienen que estudiar, a los pobres jubilados que no ganan un mango. No, ellos solo defienden el aborto, que es muerte. Imagínense la ira de Dios.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para los que decían que Macri solo podía ir a la \"biela\", mira, vi varias fotos de Macri con la gente muy pobre que va a comer a la de Margarita Barrientos. Ahí se saca la foto con la gente pobre, mira. Dicen que solo puede ir a la \"biela\". Imaginate lo mal que gobierna este gobierno que la gente más pobre le pida fotos a Mauricio Macri.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8846
+}

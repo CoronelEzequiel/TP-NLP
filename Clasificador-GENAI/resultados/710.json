@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.267,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No buscamos otra cosa; no es tan difícil ayudar. Yo pienso que los que pueden dar una mano es interesante, independientemente del lugar, de la grieta, de derecha o de izquierda, es ayudar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El hambre creo que no tiene banderas, el hambre no tiene militancia, el hambre no espera y hay que ayudar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En dos semanas vamos a tener las imágenes; ya enviamos remesas financieras, inyecciones financieras a dos comedores que lo hablamos con vos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando uno da, cuando uno siembra, siempre, siempre, siempre viene la retribución, siempre, lo malo y lo bueno también.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y aplaudían; el más aplaudido fue, obviamente, Bukele; en segunda instancia, Fernández, lo aplaudieron mucho.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Uno los ve… yo decía qué increíble que cada uno tenga, de alguna forma, el “botón rojo”.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4617
+}

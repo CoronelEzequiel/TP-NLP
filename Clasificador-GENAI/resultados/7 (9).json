@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.468,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "No... Pero obviamente, con la visión de las políticas puras que nosotros creemos, vemos la independencia económica en nuestra patria, la soberanía política en nuestra patria y la justicia social en nuestra patria, que es lo que hice cuando fui presidenta, durante dos periodos, y he trabajado como diputada, como senadora, y trabajé en ese sentido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, lo que estamos de acuerdo en estos principios de independencia económica, soberanía política, justicia social, integración latinoamericana, esa es la base de nuestra lucha y las personas que abracen estas cosas, los que quieren liderar esto, en ese sentido tienen que llevar adelante el rumbo del país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, pero esto lo discutí con él ya en su momento.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero ya te dije, no alcanza ahora, ahora hay que pensar en cómo salimos de esto, ¿por qué?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces sale Milei y le echa la culpa, por ejemplo, a los programas sociales, ¿sabés cuánto es el programa social del presupuesto? ¡Un 4%!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque si la Argentina no crece, no se puede pagar ni la deuda social que tenemos con el país y mucho menos la deuda monetaria, ¿verdad?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el 66% son bonos emitidos por el Estado Nacional.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y te dice qué tenés que hacer con el Banco Central y te dice qué hacer.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Del lado liberal la receta es más endeudamiento y atacar al sistema público de educación, al sistema público de salud, al sistema laboral.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema que tenemos es la gente que importa el dólar oficial y vende al dólar blue, y que no le sube un peso a su empleado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La otra realidad es que Alberto es presidente de la nación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4474
+}

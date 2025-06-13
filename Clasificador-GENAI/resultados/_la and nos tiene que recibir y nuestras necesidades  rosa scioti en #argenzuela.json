@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La verdad es que, como dijimos, esto genera, más allá de la indignación, la confirmación de la actitud que muchos funcionarios de este gobierno tienen respecto a las temáticas de salud, y más particularmente, las de salud mental.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense, cuando se niega la pensión no contributiva, primero hay asociados varios problemas. Uno, que la posibilidad de trabajo, de oportunidades laborales, están totalmente reducidas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto se refleja en que las normativas para poder acceder a una pensión no contributiva de más de 200.000 pesos, la normativa esta nueva tiene que ver con criterios que tienen que acceder a la posibilidad para recibirlo. Bueno, tiene que tener invalidez. Entonces, si es invalidez hay distintos como niveles. Y en esos niveles ponen \"idiota\", \"imbécil\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que queremos primero es que se corrijan y que podamos tener un contacto. La Agencia Nacional de Discapacidad nos tiene que recibir, tiene que entender cuáles son las necesidades del sector.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para terminar, les digo que las cuestiones económicas no se pueden resolver vulnerando los derechos de las personas con discapacidad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2702
+}

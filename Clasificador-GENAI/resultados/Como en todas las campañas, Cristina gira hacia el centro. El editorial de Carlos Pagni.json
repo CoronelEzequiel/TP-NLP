@@ -1,0 +1,71 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.525,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner, como directora de la orquesta oficial, tomó una decisión, la que toman y corresponde a todos los oficialismos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Toda la estrategia electoral de la vicepresidenta, que es quien conduce al oficialismo, va encaminada hacia ese objetivo: conseguir orden, unidad y cohesión, dentro de un grupo que siempre es, por definición, heterogéneo, como el peronismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Agustín Rossi es una figura principal del kirchnerismo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el oficialismo hay que abroquelar fuerzas, aunque no nos gusten nuestros socios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos hablando de la provincia, probablemente, más tocada por el narcotráfico, donde el narcotráfico, tal vez -estamos hablando de Santa Fe y es parecido a Entre Ríos- está más penetrado en la política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Santa Fe es una base principal del negocio agropecuario, que es el negocio argentino.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con Rossi queda vacante el Ministerio de Defensa. Y, habitualmente, se mira el Ministerio de Defensa como el lugar donde se produce la ósmosis entre la política y los militares, entre los dirigentes políticos y las fuerzas armadas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Santa Cruz, tampoco Cristina Fernández de Kirchner logró, o tal vez no quiso, como vamos a ver ahora, la unidad del oficialismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el gobierno está buscando -por otro punto- llegar al cupo propio en la Cámara de Diputados, entre otras cosas para reformar, nada menos, que el sistema de fiscales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A nadie se le escapa que hay algo más. Si uno mira las listas, como fueron configuradas en el peronismo en esta oportunidad, el sindicalismo tradicional es el gran ausente, a pesar de la enorme disciplina que está teniendo con este oficialismo, con este gobierno, en un momento de tanta inflación",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo este panorama político, de tensiones políticas, se da en un contexto un poco psicodélico, no sé si Ricardo López Murphy es el presidente de la Cámpora, que no era un presidente de la Cámpora, elogiado por el presidente del presidente de la Cámpora, no sé si Ricardo López Murphy querrá hablar de esto después, me refiero a lo que pasa en alrededor de toda la comidilla de las visitas a Olivos en tiempos de pandemia",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este contexto, dos novedades: la primera, hoy, como anunció Cristina Kirchner, que iba a pasar, hubo un pago de -creo que- 345 millones de dólares al Fondo Monetario Internacional por intereses, después van a venir los 4.300 que se tiene que pagar por capital en septiembre y diciembre con plata que nos va a dar el propio Fondo a modo de derechos especiales de giro",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7530
+}

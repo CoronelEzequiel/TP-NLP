@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.105,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei se dirigió ayer a un grupo de importantes empresarios del país, afirmando haber evitado una hiperinflación, un hecho que considero falso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su afirmación de preocuparse por los más vulnerables resulta, simplemente, una falacia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo hemos llegado a un punto en que cualquier afirmación, por fantasiosa o contradictoria que sea, puede ser aceptada, o incluso aplaudida?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Simplemente, porque Milei hizo lo único que interesa a ciertos sectores empresariales argentinos: reducir el gasto público para pagar menos impuestos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las consecuencias sociales, como el hambre, la falta de acceso a medicamentos y educación, o el cierre de hospitales, parecen ser irrelevantes.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta élite argentina, la vieja oligarquía, la burguesía fallida, es la principal responsable de los males históricos del país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei insultó a Raúl Alfonsín, al que muchos consideran el padre de la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La defensa de Milei hacia De la Rúa y Carlos Menem, figuras con un historial nefasto, es preocupante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei es descrito por los empresarios como un presidente \"pintoresco\", pero en realidad es belicoso, brutal y cruel.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos normalizando esta situación, aceptando un panorama miserable día a día.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1999
+}

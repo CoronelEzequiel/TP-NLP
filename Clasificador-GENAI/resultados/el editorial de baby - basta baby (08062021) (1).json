@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay un montón de gente en la calle, cagada de frío.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Empecemos a hacer comunismo práctico, darle al que... Y no importa si votó a Cristina, eh.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se cite a la gente por estrago doloso, incluso a la hija de Moro, estrago doloso, porque pudiendo tener un paliativo, un remedio, no lo tuvieron por error u omisión, y lo llaman estrago doloso, y tienen que ser ya citados a la justicia a declarar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero cuando se acabe esta pelotudez, que nos pueden gobernar porque somos medios y no enteros, por eso como medios no salimos a la calle, como medios no pedimos explicaciones, pero esto dura dos años más.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y, según lo que dijo Alberto ayer del campo ocioso, el que tiene un campo no va a tener medio campo, va a tener un pedacito de campo por la reforma agraria, porque van a volver por su campo y van a volver por Vicentín.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ya estamos presos de la dictadura.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero cuando esto pase, calculo que mucho más tarde que en el mundo civilizado y capitalista, al cual estos políticos desprecian porque piensan que a Estados Unidos les fue mal, que son unos boludos barbudos por ser capitalistas, nosotros somos revividos, revividos por tener la harina a la morocha en Kirme, que reparten a cambio de asado.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2955
+}

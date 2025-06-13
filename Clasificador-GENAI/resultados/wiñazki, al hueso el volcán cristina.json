@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.67,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner es un personaje clave en la política argentina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto genera un dilema constante: ¿Cristina Fernández de Kirchner y Alberto Fernández son lo mismo?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Enfrentó a la Justicia y perdió en la Corte Suprema por 5 a 0.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández de Kirchner intenta anular la causa con un argumento que muchos en los tribunales consideran ridículo: la falta de grabaciones fílmicas de los arrepentidos,  a pesar de que la ley no exige esto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El aval de Raymundi se produce en un contexto en el que, según un informe de Michelle Bachelet —intachable en estas y otras cuestiones—,  hubo unas 2000 ejecuciones ilegales en Venezuela desde principios de año, entre otras violaciones a los derechos humanos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner cuestiona todo a Alberto Fernández.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner también está muy enojada con María Eugenia Vidal, Ministra de Vivienda y Hábitat, a quien acusa de no ejecutar el presupuesto y de la falta de viviendas y el aumento de las usurpaciones, sobre todo en la provincia de Buenos Aires.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Mauricio Macri también tiene responsabilidad en la falta de construcción de viviendas sociales, pero que Cristina Fernández de Kirchner critique a María Eugenia Vidal por esto, cuando todo su Ministerio de Planificación Federal y Obras Públicas está bajo sospecha (incluso López está preso), resulta extraño.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También está muy enojada con el jefe de Gabinete, Santiago Cafiero, y desea su salida.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Puede una coalición electoralmente exitosa ser un éxito de gestión cuando está dividida en temas tan importantes como las 2000 ejecuciones ilegales en Venezuela?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2322
+}

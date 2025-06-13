@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.172,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estamos recorriendo lugares con militancia peronista, donde hay compañeros grandes y chicos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quería preguntarle a quién uniría o bautizaría para las elecciones de este año.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es un lugar para reconquistar el barrio de Recoleta, y ahora está lleno de gente que ha venido a \"Un Café con Perón\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mostrarte la estética… no están los carteles blanquiazules, pero el 17 de octubre, toda la mitología y los códigos peronistas…",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una de las preguntas que les haré es por qué la mayoría de los lugares tan emblemáticos, como el Museo Evita o este bar, están en lugares que antes eran nuestros.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una broma, es como tener una cancha de Boca en Núñez.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, redefinamos arquitectónicamente… o, mejor dicho, catastralmente, dónde ponemos nuestros puntos referenciales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, vamos a ver qué dicen. Tiene una lógica, pero para mí es un fortín en medio de un territorio adverso.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Marcar territorio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1541
+}

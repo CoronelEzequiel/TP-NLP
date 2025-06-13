@@ -1,0 +1,61 @@
+{
+  "texto_id": "VivianaCanosa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.445,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Quiero agradecerle la gentileza a Mauricio Macri.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque realmente hoy, en el día de la Revolución, tenemos a un payaso como presidente que canta, que la gente lo putea, fue sin su esposa, eso también quiere decir algo, fue sin su mujer, de la que debe estar avergonzado, como ella y **Adel**, y ambos están avergonzados porque son una vergüenza nacional **Alberto Fernández** y **Fabiola Yáñez**, porque violaron el DNU mientras se cagaban en nuestros muertos.",
+      "score": 0.1,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poneme un poco del mamarracho que tenemos de presidente.",
+      "score": 0.05,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Cristina Fernández de Kirchner que dice: \"Con el mismo amor de siempre a nuestro país y a nuestra historia\", aún en momentos tan difíciles para nuestro pueblo, hoy más que nunca iba a la patria.",
+      "score": 0.05,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes, cantando, partime la pantalla y ponemelo a Mauricio Macri, por favor, te lo pido.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una vergüenza lo que hizo Alberto Fernández.",
+      "score": 0.1,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, mi conversación con Mauricio Macri, en la que te pones a pensar si la batalla cultural... Si están unidos, porque también tiene que estar unida la oposición.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que dar una batalla cultural.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque si no levantamos entre todos la patria. Y hacemos la gran revolución entre todos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un presidente que da lástima y que es un inmoral.",
+      "score": 0.1,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3258
+}

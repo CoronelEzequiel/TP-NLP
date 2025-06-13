@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.094,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Me preocupa mucho la situación de los detenidos. Es gravísimo lo que está sucediendo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo una importante manifestación pacífica del pueblo argentino hasta que aparecieron los infiltrados de siempre, esos pequeños grupos que causan disturbios, de quienes nadie conoce su identidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llama la atención que Stornelli siga siendo fiscal. Es gravísimo el dictamen de Stornelli, primero porque lo emite un fiscal que continúa en su cargo después de haber estado involucrado en el caso de las 'escuchas ilegales'.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se debe confundir el rechazo a una ley con un intento de golpe de Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta idea de Bullrich de un golpe de Estado moderno es un invento para justificar la represión.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Quieren que les creamos? ¡Saquen a Stornelli! ¿Quieren que sepamos la verdad? ¡Saquen a Stornelli!",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno consolidó el mileísmo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo puedo cuestionarlas. Reivindico a mi bloque porque priorizó lo nacional por sobre las necesidades de cada provincia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero priorizamos el sentido de la patria, la unidad nacional, y ejercemos nuestro rol de oposición.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2374
+}

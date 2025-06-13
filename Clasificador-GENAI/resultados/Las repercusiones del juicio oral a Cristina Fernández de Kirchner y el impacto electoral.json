@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La constancia de Ness podría ser un punto de comparación con la del fiscal Diego Luciani, quien detalló durante más de dos horas (y sigue por ocho días más) la visión de la fiscalía frente a la causa de corrupción de Vialidad, que tiene como principal acusada a Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Néstor y Cristina instalaron una de las matrices de corrupción más extraordinarias\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La idea de que en el paso del tiempo, las sociedades votan por la economía y no por la corrupción, y tenemos el mejor ejemplo en el caso de Lava Jato en Brasil, cómo finalmente todo aquel juicio, lo que hace al presidente Lula, se terminó cayendo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina yo he visto en el gobierno actual, tuve oportunidad de hablar con el doctor Garavano, con otros representantes del gobierno y algunos colegas de la justicia. Tengo la impresión de que en Argentina el nuevo curso político quiere efectivamente luchar contra la corrupción.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lula va a ser el próximo presidente de Brasil, así que sobra demostración en este caso como hay una diferencia entre lo electoral y lo histórico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3713
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.755,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy había uno que hacía masajes capilares.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero atacaron a los más pobres, que nunca iban a salir de esa pobreza.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, cuanto peores son, más guita ponen para que digan que son mejores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pensando que de eso se puede salir… Creo que es irreversible esta situación a la que nos han llevado en estos últimos veinte años, de cerrarnos todas las puertas de las posibilidades…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con un sinvergüenza como Baradel… ¿Qué futuro pueden tener los chicos que tienen diez años y no saben ni leer ni escribir?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hablan a los pobres, son millonarios… Hablan de trabajo y nunca trabajaron.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La política ladrona… La política estafadora… Mujer de un estafador sinvergüenza con la jeta dura…",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando vas a comer con un grupo de gente, siempre lo cuento, y querés saber quién es quién… Enseguida te das cuenta, porque es el que peor trata al mozo…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos grasas están masticando y se mandan el vino sin limpiarse los labios… Son brutos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este es el gran… El gran gusto que me doy… Porque ustedes saben que son lo que yo estoy diciendo…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3157
+}

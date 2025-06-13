@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_hegel_fernandez",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.529,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Para algunos, la presidencia de Macri era el eslabón final que la sociedad argentina necesitaba para descreer definitivamente de las ideas económicas ortodoxas que se pueden rastrear desde la Escuela Económica de Chicago en la primera parte de la dictadura militar, con Martínez de Hoz, la de Menem con Cavallo y la de Macri en sus últimos cuatro años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para otros, la presidencia de Macri cumple el papel de ser un elemento disruptivo, de ganarle por primera vez al peronismo con una posición de centro-derecha que crea las condiciones para que Juntos por el Cambio pueda ganar las elecciones del año próximo y haber roto la hegemonía del peronismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para otros, la presidencia de Alberto Fernández cumple un rol de transición, en la que la sociedad logre pasar a retiro tanto a Cristina Kirchner como a Mauricio Macri; y para otros, lo contrario, cumple el sentido de ser el puente para que sea la propia Cristina Kirchner la que sea presidenta el año próximo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando mi mandato concluya, la democracia argentina estará cumpliendo 40 años de licencia interrumpida. Ese día quisiera que podamos demostrar que Raúl Alfonsín tenía razón cuando decía que con la democracia se cura, se educa y se come.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un momento en que la Argentina probablemente venció la grieta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este fue un punto de inflexión, ahí comienza el proceso de deterioro de la imagen de Alberto Fernández, que había llegado al cenit en el momento de los primeros tiempos de la lucha contra la pandemia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se esperaba que a partir del acuerdo, la economía pegase un salto positivo, lo que no llegó y terminó luego el 9 de julio con la salida intempestiva del ministro estrella, Martín Guzmán.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4015
+}

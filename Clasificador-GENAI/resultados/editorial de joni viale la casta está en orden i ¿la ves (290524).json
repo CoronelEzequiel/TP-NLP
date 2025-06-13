@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La casta está en orden.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, ¿cómo vive un argentino promedio?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo lo que digo es que se dieron cuenta, bien que Villarruel lo vio: hay demasiada distancia entre la casta y la gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si vos no tenés Estado, todas las cosas que hace el Estado no las va a hacer nadie.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Harto del cinismo de esta gente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Necesitamos gente que en los sillones que ocupe de ministro, de ministra, de legisladora o legislador sea para defender, definitivamente, los intereses del pueblo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un poco exasperante que la casta esté en orden mientras el pueblo sufre.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La casta se protege entre sí.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto es casta. Esa es la definición de casta. Creerse más que un laburante.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No hay lugar para repetir las conductas de la casta.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4397
+}

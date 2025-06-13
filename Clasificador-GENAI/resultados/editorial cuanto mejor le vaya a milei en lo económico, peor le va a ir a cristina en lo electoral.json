@@ -1,0 +1,51 @@
+{
+  "texto_id": "De editorial",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.563,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Puede haber un efecto desbande en el Senado después de lo que pasó en Diputados?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuanto mejor le vaya a \"La Libertad Avanza\" en la economía, peor le irá a Cristina en lo electoral.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las expectativas positivas de la situación económica hoy llegan a nivel personal, es decir, lo que espera cada persona en su situación económica, en lo positivo al 65% y a nivel país al 57%.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hubiéramos pactado con Cristina ya tendríamos todo cerrado y no lo tenemos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me acerco, me alejo, qué hago. Y la política siempre lee, por supuesto, en clave presente, con las expectativas de hoy hacia el futuro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un despacho importante de la Casa Rosada donde aseguran que los leales a Cristina, \"paladar negro\" en el Senado, no son más de 15.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, se abre un escenario donde van a cundir las presiones de todo tipo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Saber lo que decís y cómo lo decís.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3277
+}

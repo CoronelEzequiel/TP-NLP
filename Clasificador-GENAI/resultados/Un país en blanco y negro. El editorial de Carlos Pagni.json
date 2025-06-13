@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El peronismo chicaneaba al gobierno de Alfonsín porque no se resolvía a declarar impaga la deuda externa, como había hecho Alan García en Perú.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si alguien celebró la salida de Martín Guzmán como el ministro del Fondo Monetario Internacional (FMI), como el interventor de las grandes potencias que le piden ajuste a la Argentina en nombre del equilibrio económico, si alguien celebró esa salida, ahora debe estar desencantado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque hoy Silvina Batakis no solamente ratificó el concepto, la interpretación del problema económico que defendía Guzmán, sino que además amagó con medidas de ajuste más severas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta teoría, que es la teoría en la que se basa el acuerdo de Guzmán con el Fondo, no solamente fue suscripta, sino que además, Batakis promete más ajuste para achicar el déficit y evitar esa emisión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su momento, Cristina Fernández de Kirchner quiso cobrar el impuesto a los bienes personales sobre esas valuaciones ajustadas por Macri. Y dijeron que es contra los porteños, es decir, como una especie de doble estándar para cobrarte ingresos brutos o para cobrarte el impuesto inmobiliario o para cobrar el ABL, saquemos ingresos brutos, te cobro con un precio del bien, más parecido al valor de mercado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juan Grabois acaba de decir que frente al ajuste de Batakis hay que movilizar a los sectores más vulnerables. A los que él llama \"sectores o trabajadores de la economía popular\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8627
+}

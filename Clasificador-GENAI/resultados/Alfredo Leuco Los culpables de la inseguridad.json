@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.806,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La alarmante inseguridad que estamos sufriendo los argentinos no es un fenómeno natural, eh.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por inútiles, por vagos, por cómplices o por simpatías ideológicas con los delincuentes, el Estado es culpable de estas atrocidades y es responsable de no combatirlas como corresponde.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todos estos dirigentes todavía creen en ese dogma apolillado de que el delito es producto de la explotación de la sociedad capitalista y que el ladrón o el asesino son víctimas y, por eso, los protegen.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A eso, estos caraduras, le llaman derechos humanos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No tiene nada que ver el cristianismo extremo y dogmático en que una parte de la justicia se haya convertido en liberadora serial y, a la velocidad de la luz, de todo tipo de delincuentes.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo asocia todo el tiempo a la policía o a la gendarmería con la dictadura y la represión en una inflamación ideológica de un simplismo infantil y peligroso.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por lo tanto, a 38 años de finalizada la dictadura, es hora de que las fuerzas de seguridad sean respetadas, capacitadas, pertrechadas y reconocidas económicamente como corresponde.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Proteger a los decentes y castigar a los delincuentes.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2388
+}

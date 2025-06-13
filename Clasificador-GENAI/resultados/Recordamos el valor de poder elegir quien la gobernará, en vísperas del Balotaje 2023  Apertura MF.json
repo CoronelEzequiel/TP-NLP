@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Democracia, patria y libertad. Así le pusimos a esta apertura, de modo Fontevecchia, porque estamos nuevamente ante una instancia decisiva.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Vamos a vivir en libertad\". De eso no quepa duda. Como tampoco… como tampoco, debe haber duda de que esa libertad va a servir para construir, para crear, para producir, para trabajar, para reclamar justicia, toda la justicia, la de las leyes comunes y la de las leyes sociales, para sostener ideas, para organizarse en defensa de los intereses y los derechos legítimos del pueblo todo y de cada sector en particular. En suma, para vivir mejor.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Argentina, ¡levántate y anda!\" es una de las frases, de las tantas frases que dejó la presidencia de Carlos Menem. Con lo que fue en el 89, los años convulsionados hasta el 91, con lo que fue en ese momento la gran novedad del gobierno de Carlos Menem, la convertibilidad, las privatizaciones y la convertibilidad, que lo hicieron lograr, primero una reforma constitucional que permitió que pudiera haber reelección en la Argentina y después, efectivamente, llegar a ser reelecto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Honorable Asamblea, vamos a ponernos en marcha. La Argentina productiva marcará el rumbo del crecimiento. El campo, la industria, el comercio, la minería están llamadas a movilizarse y el Estado estará junto a quienes quieran producir. Creo en una verdadera alianza entre el Estado y la producción para crear trabajo, generar riquezas y poner en acto la potencialidad de nuestra tierra",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Formo parte de una generación diezmada, castigada con dolorosas ausencias. Me sumé a las luchas políticas creyendo en valores y convicciones a las que no pienso declinar en la puerta de entrada de la Casa Rosada. No he pedido ni solicitaré cheques en blanco. Vengo, en cambio, a proponerles un sueño, reconstruir nuestra propia identidad como pueblo y como nación. Vengo a proponerles un sueño, que es la construcción de la verdad y la justicia. Vengo a proponerles un sueño que es el de volver a tener una Argentina con todos y para todos. Les vengo… Les vengo a proponer que recordemos los sueños de nuestros patriotas fundadores y de nuestros abuelos inmigrantes y de pioneros. De nuestra generación que puso todo y dejó todo pensando en un país de iguales. Pero yo sé y estoy convencido de que en esta simbiosis histórica vamos a encontrar el país que nos merecemos los argentinos. Vengo a proponerles un sueño. Quiero una Argentina unida. Quiero una Argentina normal. Quiero que seamos un país serio, pero, además, quiero un país más justo",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La mayoría de los argentinos que votaron por nuestra propuesta fue basada en tres ideas centrales. Ellas son pobreza cero, derrotar el narcotráfico y unir a los argentinos. Hablar de pobreza cero es hablar de un horizonte, de la meta que da sentido a nuestras acciones. Nuestra prioridad será lograr un país donde cada día haya más igualdad de oportunidades. En el que no haya argentinos que pasen hambre. En el que todos tengamos la libertad de elegir dónde vivir y desarrollar nuestros sueños",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5298
+}

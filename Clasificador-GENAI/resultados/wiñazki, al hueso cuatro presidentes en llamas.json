@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.483,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández, en declaraciones radiales, afirmó que al país le fue mejor con la pandemia de coronavirus que con la gestión de Mauricio Macri, una afirmación que generó una fuerte reacción de la oposición.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri, desde Zúrich, Suiza, donde reside actualmente, negó categóricamente estas afirmaciones a través de una carta.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Añadido a esto, la vicepresidenta Cristina Fernández de Kirchner, impulsa una reforma constitucional, lo que añade otra capa de complejidad a la situación.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El escenario se complica aún más con las declaraciones de Eduardo Duhalde, quien en una entrevista con Luis Novaresio, sugirió la posibilidad de un golpe de Estado y la cancelación de las elecciones de 2021, citando la inestabilidad política y social del país.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, la posibilidad de postergar las elecciones debido a la pandemia del coronavirus es un tema que ya se está debatiendo en los ámbitos políticos y judiciales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la Argentina se enfrenta a un complejo panorama político, caracterizado por fuertes controversias entre los principales líderes políticos y la incertidumbre sobre el desarrollo de las próximas elecciones en medio de la pandemia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1289
+}

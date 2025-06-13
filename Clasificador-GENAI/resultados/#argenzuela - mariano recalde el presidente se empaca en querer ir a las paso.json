@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.338,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me parece que en esta reunión no se van a definir las candidaturas, pero es un paso importante para avanzar hacia la siguiente, donde el partido definirá las alianzas y designará a los apoderados que las sustentarán.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando funciona el país, funcionan incluso las ciudades gobernadas por Macri.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me parece que el PRO y el macrismo en la ciudad están atravesando una crisis profunda, un fracaso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, porque cuando no hay una discusión colectiva y hay una decisión unilateral que no se modifica a pesar de los planteos realizados, ese término me parece que lo describe naturalmente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo el Frente de Todos con la presentación de un trabajo colectivo, un año de investigación y estudios que demuestra el fracaso de 15 años de macrismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por supuesto que estoy a disposición si hiciera falta, pero no es una ambición personal. Estoy para construir y aportar a la construcción colectiva, en el lugar que mejor pueda contribuir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las PASO son las que nadie quiere.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un saludo a Patricia Bullrich, que quiere que se sumen todos. El peronismo nazi.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2477
+}

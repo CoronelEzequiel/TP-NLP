@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.188,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cuando empezó el desarme del Estado, nosotros advertimos que no se puede vivir sin Estado, que el Estado tiene que construir, tiene que controlar, que vivir sin Estado es volver al estado de naturaleza, antes de la creación del Estado, donde cada uno se arreglaba como podía y se vivía muy mal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una metáfora de la falta de Estado. Es un presidente que no controla, que no hace obra pública.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los entes de control, de todo, hasta la AFIP, están vaciando. Entonces, es un gobierno sin Estado, sin obra pública, que vacía los hospitales, que vacía las universidades, que vacía la ciencia y va volviendo, es una involución, vas volviendo a lo que éramos antes del Estado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver, lo único que hace Milei es ocuparse de la macro.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitás dos millones de pesos. De los que me están escuchando, ¿cuántos ganan dos millones de pesos? No ganan dos millones de pesos, entonces sos pobre, no sos clase media.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado no se ocupa de nada de lo demás. Nos quedamos sin semáforos, sin trenes, sin luz, sin agua y la macro es para pocos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En medio de todo eso, en medio de todo eso, está la corrupción.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un país sin luz, sin trenes, sin semáforos, en donde la ciudad ya no es una ciudad para circular, sino que es una gigantesca playa de estacionamiento, en donde nadie se puede mover.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4040
+}

@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.812,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esa excusa les sirve para movilizar gente en estos pequeños ejercicios revolucionarios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto que a todos los argentinos nos duelen los desaparecidos y los muertos, pero también es cierto que han convertido esta fecha en algo exclusivo de un grupo, de un millón, dos, de los que están ahí.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Soy amigo a pesar de estar en las antípodas ideológicas y los quiero y los admiro porque tuvieron su lucha.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una lucha donde no tiene cabida Axel Kicillof, que ni siquiera había nacido entonces ni tiene idea de que usan a los desaparecidos no por ideales, sino para hacer política.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, esta marcha de hoy no fue una marcha para recordar a los desaparecidos y a los muertos, fue una marcha en contra de mi ley.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A nadie le importan un carajo los desaparecidos y los muertos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Van para echarle mierda a este gobierno y tratar de voltear este gobierno de derecha, como dicen ellos, el gobierno de Javier Milei.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quieren volver a robar, quieren volver a destruir el país, quieren volver a quedarse con todo por otros 22 años.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes usan a los muertos para volver al poder y quedarse con lo que queda en la Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y es la verdad, están procesados. Son delincuentes, comunes y corrientes, delincuentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, discúlpenme la demencia. Pero ya tengo los huevos muy grandes de viejo como para seguir bancándome que un Máximo Kirchner me venga a explicar cómo fue mi vida.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo no quiero Venezuela, yo no quiero Cuba, yo quiero la Argentina, yo quiero a José de San Martín, a Manuel Belgrano, yo quiero un país mejor, yo respeto a los militares y no a Mayra Mendoza, respeto a los policías y no a Axel Kicillof.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay una diferencia enorme entre los patriotas y los vividores de la patria.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 6012
+}

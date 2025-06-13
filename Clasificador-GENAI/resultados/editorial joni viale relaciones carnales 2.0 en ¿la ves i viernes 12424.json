@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.791,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se están reeditando las Relaciones Carnales con el Imperio, con la derecha, con Estados Unidos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei lo nombra en el discurso más importante del año, no solamente en el que acabamos de escuchar, y le hace guiños de todo tipo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Milei que ya ha dado muchas muestras de seguidismo geopolítico con Estados Unidos, donde reciben a las empresas de Elon Musk.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De hecho, y mirá cómo son las cosas, Musk suele mostrarse, al igual que Milei, como un paladín del liberalismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso ofrece a la Argentina como la p***a barata de Musk.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo nos echó del mundo desarrollado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que lograr que las empresas vengan y pongan plata, hay que lograr más laburo privado, menos planes.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por esta mentalidad de mierda estamos como cero iniciativa privada, cero empresa, cero capital privado, todo en manos del Estado, un Estado mega gigante que no sirve de nada.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, lo que sucede para mí de fondo es el odio al exitoso, al progreso, al mérito.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pasamos de Angola a Marte.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina tiene menos libertad económica que, dos puntos, a ver si se sigue, a ver, Liberia, Mozambique, Uganda, estos países están mejor que nosotros, Chad, Ruanda, Burkina Faso, Malawi, Nepal, Nigeria, Brasil, Nicaragua, Camerún, Kenia, mejor que nosotros, Angola, El Salvador, Mauritania, Bután, Senegal, Ghana, Uzbekistán, Marruecos, tienen más libertad económica que Namibia, Jordania, Honduras, Tanzania, Colombia, Tonga y Guatemala.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6062
+}

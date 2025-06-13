@@ -1,0 +1,66 @@
+{
+  "texto_id": "martes_3_de_enero_de_2023",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.418,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Después del alboroto de las fiestas de fin de diciembre, de la gente corriendo, se vació.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La reunión bilateral con la Argentina, el principal socio estratégico de la Argentina, Brasil.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Realmente Lula quiere eso, liderar la región con una fuerza y un empuje que empape a todos los países latinoamericanos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su presencia en Brasil es la vuelta de Brasil a todos los foros internacionales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández hizo una apuesta importante cuando Lula estaba preso, que es ir a verlo a la cárcel a Lula.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hablamos de relación comercial, Fernando, ¿puede mejorar la balanza para Argentina?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero hay también un punto clave que es la falta de integración financiera.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras haya esa diferencia enorme en el plano financiero, es muy difícil que el comercio bilateral llegue a desarrollarse mucho más.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El impacto que buscó el presidente Fernández al pedir el juicio político para el presidente de la Corte Suprema de Justicia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto la oposición entiende que el pedido del presidente de la Nación que entienden de algún modo busca congraciarse con parte del kirchnerismo más duro, con esto tiene por finalidad cargarse a la Corte.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no termino de... la verdad, que uno cada vez se asombra menos porque la barca está poniendo un poco más arriba, pero lo escuchaba Javier, incluso, el formato, una carta saludando, haciendo un balance totalmente desconectado de la realidad, porque los balances que vengo escuchando de Alberto Fernández son sugestiones, una cosa cuanto menos insólita, habla de, pero en ese balance augurando un mejor 2023, repasando el 2022 como quien no quiere la cosa, en un párrafo anticipa que se quiere encargar del máximo tribunal de justicia de la República Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5352
+}

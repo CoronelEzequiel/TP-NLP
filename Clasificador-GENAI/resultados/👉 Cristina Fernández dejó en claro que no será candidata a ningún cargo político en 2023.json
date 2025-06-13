@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, tras recibir una condena de seis años e inhabilitación para ejercer cargos públicos, la vicepresidenta, Cristina Fernández de Kirchner, dijo: \"Quiero decirlo como dice esa canción del Indio Solari, que tanto le gusta a Máximo mover la patita, hacerte la muertita; yo, mascota de ellos, no voy a ser nunca, así me den seis años o veinte años o me condenen\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La decisión de la vicepresidenta de no presentarse como candidata a ningún cargo electivo en las elecciones del año próximo, es decir, a partir del 11 de diciembre, como simple ciudadana, sin fueros y poder, genera una situación que a mi juicio es preocupante, en el sentido de que nos vamos a enfrentar a una situación compleja, inclusive, yo diría, de cierta reminiscencia, por lo menos a mí me transmite, del año 2002.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"A esta altura, creo en lo personal que ya no existe salida pacífica, ante tamañas injusticias y semejante convivencia del partido judicial con el poder económico y mediático. Sea en el corto o en el largo plazo, esta situación terminará de la peor forma.\" Esto lo dijo un general del ejército que le tocó comandar su fuerza cuando Cristina Fernández de Kirchner era la presidenta del país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se presumía, como decía al principio de esta apertura, que la resolución a la condena a Cristina Fernández de Kirchner iba a quedar simplemente en el terreno de lo histórico y de lo declamativo, porque ella nunca iba a tener que cumplirla. Teniendo fueros, se esperaba como senadora. Ahora se crea una situación en la cual es probable que pueda darse lo que dice el general Milani: que, en el corto o en el largo plazo, esta situación terminará para peor, y vale tanto para los de un lado como del otro lado de la grieta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"No voy a ser candidata\". Y la discusión, finalmente, volvemos a lo de Thomas Kuhn. Es una discusión de paradigmas. Yo tenía la esperanza, todavía la mantengo, de que a fin de 2023 se cierre la grieta iniciada de manera más profunda con la crisis del 2002, y que la sociedad cambiase de humor. Y cuando digo \"cambiase de humor\" es reemplazarse un paradigma por otro, que era el paradigma de la polarización, por el paradigma del centro, del encuentro, de la moderación, como siempre marcamos como casi eslogan de este programa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3390
+}

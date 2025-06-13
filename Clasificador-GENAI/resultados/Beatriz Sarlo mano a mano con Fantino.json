@@ -1,0 +1,36 @@
+{
+  "texto_id": "beatriz_arlo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Argentina es un país chico y poco importante en el paisaje mundial.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las personas que vivimos muchos años bajo dictadura no estamos acostumbrados a los largos periodos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los países se sostienen con el pago de impuestos, no con la evasión de la mitad de los impuestos o que no estén anotados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El 30%, el 28% de los más pobres de la Argentina tienen su última memoria feliz del gobierno de Cristina, que viene desde el gobierno de Néstor Kirchner.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos ciudadanos, necesitamos científicos, necesitamos grandes deportistas, porque ese principio de identificación me parece muy fuerte.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8632
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.658,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ahora, en este gobierno en decadencia, que cae estrepitosamente… Y cuando digo el gobierno, no digo Alberto Fernández, fíjate.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted, Cristina Fernández de Kirchner, María Julia Alsogaray, Isabelita Perón, no le podían ni limpiar la casa a Eva Perón.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos cansados de que nos toquen el culo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y hoy parece que los que estuvieron hasta de la rueda es MacArthur al lado de esto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo menos es un tipo que contemporiza.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo soy radical, alfoncinista, nunca los votaría ni en sueños, pero son menos malos que los malos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2795
+}

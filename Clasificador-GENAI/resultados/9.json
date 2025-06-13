@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La gente prefiere cortes sin hueso, porque les resulta más práctico.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, la carne, el pollo y el cerdo son más baratos que las verduras, al menos por lo que veo acá y por lo que me cuenta la gente.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sí, la demanda local está muy baja. No solo en carne, sino en casi todos los productos de la canasta familiar. La gente elige comer más barato.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros, en Carnes Mercado, al tener varios rubros, podemos ofrecer una canasta accesible, con promociones bancarias (Cuenta DNI, MN Más, bancos privados), lo que ayuda a la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Perfecto, perfecto. Tenemos ofertas para todos los presupuestos, y la gente se va conforme.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1569
+}

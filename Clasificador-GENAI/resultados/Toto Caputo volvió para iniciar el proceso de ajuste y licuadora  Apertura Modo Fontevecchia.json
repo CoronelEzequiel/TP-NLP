@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_caputo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.417,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Macrista en algún momento, y líder de la gestión de Hacienda del gobierno de Javier Milei, el economista se muestra como un superministro que no descansará hasta alcanzar su objetivo de tener déficit cero.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el principio de su mandato como ministro de Economía, inició un proceso que muchos economistas definen como \"ajuste y licuadora\", un método cuyo primer objetivo sería bajar la inflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Las prepagas le están declarando la guerra a la clase media. Nosotros, desde el gobierno, vamos a hacer todo lo que esté a nuestro alcance para defender a la clase media.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Toto Caputo es de las 10 o 15 personas más talentosas que existen en el mundo en el tema de finanzas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El ministro de Economía está llevando adelante una política de ajuste brutal que consiste en aumentar impuestos, por eso apenas asumió, aumentó brutalmente el impuesto país, congelar el gasto, por eso reprogramó el presupuesto de 2023 para 2024, lo que le asegura ahorrarse aproximadamente 35.000 millones de dólares en un año, y cortó todas las transferencias que son legales, las transferencias no automáticas a las provincias, esas no son transferencias discrecionales, son legales y el gobierno nacional, por iniciativa de Toto Caputo, las cortó.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Si el ministro de Economía lleva adelante estas medidas, los trabajadores lo van a llevar en andas para tirarle al Riachuelo.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6219
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.333,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El Estado se está retirando y que hay que empezar a ayudar a esa gente vulnerable que lo está pasando mal.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cincuenta mil dólares para ayudar a gente, no es nada, considerando la cantidad de repelentes que se podrían fabricar.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces te limitan mucho.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él hace mucha beneficencia con la comunidad latina en Estados Unidos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto también muestra cómo el Estado se está retirando de manera feroz, dejando desamparados a los ciudadanos.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos para criticar, pero también para ayudar en este momento tan difícil.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1452
+}

@@ -1,0 +1,91 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.606,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy hablamos con Nelson Castro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Maduro, uno cree que a Cristina no le entran las balas...",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si esto sale bien y Venezuela consigue la democracia volteando al dictador, Latinoamérica vuelve a una normalidad maravillosa junto a Milei y junto a un par de presidentes más votados, Chile, votados por el pueblo y respetuosos de la Constitución.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un grupo de 7 u 8 personas del municipio, silencio che, a vos te digo eh, Nicola Di Bari.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Van, te rompen la puerta, te patean la puerta, te agarran de la oreja, no que yo le voy a fre... ¡salí ya, salí ya!",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy Maduro es un Ocupa del Poder.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dios quiera y la Virgen, que este gordo quede como Mussolini y su mujer.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dios quiera que nos demos cuenta a tiempo que no hay más lugar ni para los dictadores de izquierda ni para los dictadores de derecha, que no hay más lugar para los mentirosos, para los hipócritas, para esta...",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nerón, mientras tocaba la lira como el culo, le mentía al pueblo, le hacía la cesárea a su hermana.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este es más hijo de puta todavía, porque los mata y los desaparece, igual que Videla.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Cómo es posible que el pueblo permita que estos gusanos crezcan en un territorio tan lindo y tan fértil como Venezuela y como Argentina?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que empezar a crear pibes nuevos que sirvan para que hagan el liderazgo de los futuros años.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando llega un gobierno al poder se acomodan los advenedizos y las putas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No dejemos que pierdan el miedo porque cuando un delincuente pierde el miedo se pone más peligroso que antes de empezar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso mismo Maduro tiene miedo porque cree que si deja el poder va preso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tengamos cuidado porque hoy es Venezuela, pero mañana puede volver a ser Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3416
+}

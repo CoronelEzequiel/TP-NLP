@@ -1,0 +1,51 @@
+{
+  "texto_id": "¿Te sorprendió o vos ya habías tenido algún aviso con respecto a tu corazón?",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo, la verdad, no me lo esperaba tampoco.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo sentía que me estaba ahogando, y pararon el partido y me relajé.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero bueno, es como la esperanza de decir, \"Bueno, capaz que me recupero\".",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero bueno, hoy la realidad es que estoy, por eso estoy mucho con Kunisports, el equipo de KUNISPORTS, tengo otras cosas, y entonces eso me hace distraer un poco más y la verdad que, bueno, me hace bien, entonces como me gusta, ¿no, viste?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, sí, no, bueno, habíamos, ya hace bastante, tenía una entrevista, pero bueno, nada, es como, fue medio, viste, que yo, la verdad, no sé qué medio, pero leí en internet que lo estaban matando en el medio francés y yo decía, ¿pero cómo van a matar?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aparte, nosotros somos muy calentones, ¿viste?, perdemos hasta cuando jugábamos al FIFA, ¿sabés qué?, nos quedábamos...",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo siempre vengo acá, me encanta venir acá y es bueno, porque se habla ahora, todo se tiene Argentina, Argentina, un país de mierda, yo tengo un montón de plata invertida, que me voy a ir, por eso no, pero está bueno que lo cuente, porque todo el mundo te expulsa y vos sos no, yo no, yo no, yo digo eso, pero después la gente normal, pero sí, que claramente no, no es de ahora, Argentina está bien, hace miles de años, yo cuando era chiquito también en la villa se sufría, no, pero bueno, hoy está un poquito muy, muy abierto todo, por viste, con las redes sociales, hoy hoy filmas todo, y entonces, nada, la realidad que yo voy a disfrutar, digamos, donde esté, pero siempre digo, voy a estar en el lugar que yo crea para también para estar más relajado, yo a mí me gusta estar encerrado, tranquilo y acá en Argentina tenés amigos que te invitan, entonces como querés tener un poquito de tranquilidad, entonces, si total acá voy a venir, el pasaporte es argentino, no me tienen que entrar, por dios, cómo no te vamos a dejar entrar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, sí, a ver, no está hablado, tenemos, estamos viendo para tener una reunión esta semana, pero bueno, la verdad que, nada, yo quiero estar, pero, ¿qué pasa? que la realidad es que yo, si voy al mundial, voy a estar con los chicos, voy a ir al entrenamiento, voy a estar ahí, entonces, eso no es un problema, el problema es que la realidad es que estar encerrado otra vez, tanto tiempo, eso es un poco, una cosa es si vos estás jugando, porque bueno, estás concentrado cien por ciento, pero la realidad es que yo jamás fui al mundial, pero como jugador, nunca fui a un mundial para poder ver, no sé, divertirme, ¿no? con mi pareja o con mis amigos, con quienes estén ahí, es como ir al mundial como, ¿no?, libre, también pienso eso, ¿entendés?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9331
+}

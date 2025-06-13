@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_reservas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.413,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Después del exitoso blanqueo de capitales del año pasado, impulsado por el gobierno de Javier Milei, las reservas habían superado los US$ 35.000 millones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hemos experimentado una sangría récord de reservas, con una pérdida de US$ 4.600 millones desde enero.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cavallo señala que el refuerzo de las reservas del Banco Central por parte del FMI no es suficiente y que es imprescindible que el gobierno explique cómo se transitará hacia un mercado único y libre de cambios con competencia de monedas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De forma similar, Donald Trump intenta apoyar a Milei en las elecciones de octubre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Banco Nación puede obedecer las órdenes del secretario de Finanzas, pero los inversores y ahorristas observan la caída de las reservas brutas y las reservas netas negativas desde la gestión de Sergio Massa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Resulta inaceptable que el ministro de economía de nuestro principal deudor nos indique cuándo y cómo debemos recibir los desembolsos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo y Milei omiten la existencia de estos pesos que podrían volcarse al mercado cambiario.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta es si el Banco Central permitió a Telecom comprar esos dólares en el mercado oficial para la adquisición de Telefónica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3052
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.761,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Argentina, tierra arrasada por los políticos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos pendientes de, en este caso, las maldades de Cristina todos los días cuando nos levantamos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus problemas no son los nuestros y los nuestros no son los de ella.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A nuestros gobernantes les damos un montón de autoridad y de derechos y no asumimos que ellos son nuestros empleados, todos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que pagar miles, millones de planes y no hay plata, se viene otro aumento de carne y no hay vacas, no llegan los coches, no llegás a fin de mes, no comés asado, no llenás la heladera, pareciera que no hay país, Argentina, tierra arrasada por los políticos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno nunca le tira un solo centro a la clase media, ni uno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy la Argentina es solo para los que cortan las calles y para los que roban, hoy la Argentina no es la nuestra, pero vamos a resistir, somos la resistencia y la Argentina va a ser nuestra otra vez.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Basta con el tema del género, no me rompan más las pelotas, esto es una falta de respeto a nuestros hijos, yo no lo voy a permitir, aunque esté sola peleando contra el mundo, no lo voy a permitir, sin familia no hay sociedad, por favor, a veces siento que no saben lo que es tener un hijo, por más que lo tengan, no dormís de noche cuando tenés fiebre, cuando está mal, disfrutás cuando está feliz, lo acompañás, lo educás, le das la teta cuando es bebé, lo criás, lo llevás al colegio, no dormís a la noche para qué estos hijos de puta te vengan a hacer esto con tu hijo y te digan negacionista, perversos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Faltan 625 días para que se vayan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7795
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "alfonsin_entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.117,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que el radicalismo cometió un grave error que dañó al partido y perjudicó la política argentina al asociarse con fuerzas con las que no tiene nada que ver.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debería asociarse con fuerzas afines, con las que tenga coincidencia programática, para recuperar su identidad y la representación de los sectores sociales que siempre hemos defendido: trabajadores, clase media, jubilados, pequeñas y medianas empresas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que más me preocupa es que la sociedad no se equivoque y no crea que los problemas se van a resolver por la derecha.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Respeto el pensamiento de derecha, neoliberal, promercado, ortodoxo… como quieran llamarlo. Pero ese no es el pensamiento de la Unión Cívica Radical.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que cambiar las políticas económicas que han llevado a la gente a la desesperanza.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Espero que la oposición acompañe el reclamo del gobierno para revisar los términos de la recomposición de 2022.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2278
+}

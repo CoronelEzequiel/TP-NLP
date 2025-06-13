@@ -1,0 +1,101 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.192,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Deshonestidad y decepción en la vida contemporánea. En la era de la posverdad, las fronteras entre la verdad y la mentira, la honestidad y la deshonestidad, la ficción y la no ficción, se han vuelto borrosas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se vio con absoluta claridad durante el día de ayer, en el que los funcionarios del gobierno intentaron disputar el sentido de cada hecho de lo que sucedió el día miércoles. Y los medios de comunicación oficialistas colaboraron sin ningún tipo de prejuicio.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy estamos discutiendo si hubo o no un intento de golpe de Estado y no sobre cuánto ganan los jubilados y qué se puede hacer para tratar de ayudarlos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich primero dijo que Pablo Grillo, el fotógrafo que recibió una bala en su cabeza, era un militante kirchnerista y que estaba preso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La realidad es que no estaba preso, estaba y sigue actualmente. Y también, en ese momento, estaba en la sala de operaciones y luchando por su vida.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que me parece interesante también, y lo marcamos siempre en este programa, es que todos son kirchneristas. Es decir, todo aquello que se opone al gobierno es kirchnerista, y kirchnerismo se ha convertido en una especie de adjetivo denigratorio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la entrevista, básicamente, Bullrich dice que Grillo, quien está en estado grave en este momento, lo está por culpa de los manifestantes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El efectivo que dispara es el que está al lado del camión hidrante. La hora del impacto fue exactamente a las 17 horas 18 minutos. Tanto los efectivos de Gendarmería Nacional como los agentes de la Policía Federal disparaban a quemarropa con armas lanzagases que apuntaban a la altura del cuerpo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Grillo no fue herido por una mala fortuna. Le tiraron a matar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero, Guillermo Francos dice: \"Se cayó sola\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a pasar el video que circula por todos lados, que todo el mundo lo vio, donde la policía golpea a la jubilada, y aquellos que nos están escuchando por radio, voy a ir relatando progresivamente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, según Patricia Bullrich, la señora le dio 10 palazos al policía, 10 palazos, y el policía giró en ese momento y la golpeó sin querer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si aceptamos que le dio un bastonazo, luego dirán que son 10. Si aceptamos eso, dirán que era una infiltrada kirchnerista y luego que encabezaba la barra brava de narcotraficantes de Rosario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un gobierno que viene dando señales muy claras de mejoramiento de la economía desastrosa que dejaron años de gobierno kirchnerista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En definitiva, lo que se pretende es una especie de golpe de Estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La realidad es lo que sucede. Lo que la enorme mayoría de los políticos no logra comprender es que tenemos que convivir democráticamente y permitir que exista oposición, que eso no implica ningún golpe de Estado, que tienen derecho los jubilados, y si hay barrabravas, en la medida de que no produzcan ningún destrozo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Evidentemente, lo que había por parte de la Fuerza de Seguridad y por indicación de la ministra Bullrich, era el deseo de producir un escándalo con gases lacrimógenos, a partir del cual la manifestación a favor de los jubilados se desnaturalice y se convierte en lo que se convirtió.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer y anteayer no solamente fue un día triste para la Argentina, fue un día triste para el periodismo.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6948
+}

@@ -1,0 +1,86 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.423,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es evidente que nadie previó, cuando se diseñó este sistema de primarias, que podía haber un escenario en el que un candidato quede consagrado prácticamente como en una elección general, pero sin estar oficialmente electo, y que un gobierno quede derrotado, pero siga siendo un competidor en el tramo que va hasta octubre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno y el oficialismo en general, los sectores muy importantes del oficialismo, quedaron muy sorprendidos, como quedó todo el país, por la contundencia del resultado de las primarias y la diferencia que saca Alberto Fernández respecto de Macri.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aquí hay una fisura conceptual, política, dentro de Cambiemos.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esa gente sigue pensando lo mismo, corregido y aumentado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es decir, la economía a partir del lunes pasado, de los movimientos que ha habido en el mercado, de los movimientos que ha habido con el tipo de cambio, promete un nuevo brote inflacionario, cuyas consecuencias en el humor social todavía no conocemos y es muy difícil predecir.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema central que tiene hoy la Argentina es que la política económica que venía llevando adelante Macri es inviable, no solo con Alberto Fernández, que la venía y la sigue criticando, sino ahora con Macri porque perdió consenso popular; es decir, el programa que el gobierno venía defendiendo, aún con enormes problemas para implementarlo, es un programa que está agotado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema central que tiene Macri, además de esta contradicción entre el rol de candidato y el rol de presidente, que él niega, es que no se sabe cuál es el concepto a partir del cual el gobierno va a pedir el voto de acá a las elecciones de octubre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Además, se anunciaron rebajas de impuestos, es decir, baja en el impuesto a las ganancias y una rebaja en el IVA, son dos impuestos coparticipables, con lo cual Macri abre un conflicto, que ya está declarado, con los gobernadores que dicen no queremos ceder esos ingresos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y acá hay un signo de interrogación muy importante que lo está mirando, y creo que lo va a mirar cada vez con más atención el mercado, que es hasta dónde la política que está llevando a cabo Macri en materia económica tiene hoy el aval del Fondo Monetario.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto Fernández está llevando adelante un discurso muy claro, él está diciendo: \"Esto no es más kirchnerismo, esto es otra cosa.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese esquema de poder tiene la adhesión, está suscripto por Cristina Kirchner y por el instrumento político que Cristina Kirchner eligió para intervenir en el proceso público argentino desde la muerte de su esposo, que es La Cámpora, porque la noche del triunfo lo que se vio es un gran protagonismo no de Alberto Fernández, sino de Máximo Kirchner.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los que tienen una imagen, yo diría, un poco conspirativa de lo que es el kirchnerismo dicen ahí está Zannini, Zannini va a terminar en la corte, después de un retiro de Elena Highton por el tema de la edad, para garantizar determinado desenlace de los procesos judiciales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema es más serio porque no es que Macri se resiste a esa cooperación con Fernández y a comportarse como presidente exclusivamente por un problema de que no está dispuesto a asumir medidas que le hagan perder votos a sus candidatos a diputados, a sus candidatos a senadores o a sus candidatos a intendentes, entre ellos Horacio Rodríguez Larreta, sino que lo hace porque piensa que puede ganar la elección después de las primarias, porque está convencido de que va a haber un balotaje y esta sí es una tesis difícil de argumentar o difícil de creer y va a ser más difícil de creer cuando se vean los resultados de esta turbulencia económica sobre los precios en los próximos días.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Gobernar no es construir un relato que tenga un poder narcótico y encandile e hipnotiza al electorado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gran vacío que hay hoy en la Argentina, el principal vacío es de una explicación de Macri respecto de qué pasó desde el viernes anterior a las elecciones a hoy, con el cambio de ministro, el cambio de política económica, la relación con el Fondo Monetario Internacional, que era el programa, y la continuidad de casi todo su gabinete en funciones.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7330
+}

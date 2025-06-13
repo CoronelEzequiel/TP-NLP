@@ -1,0 +1,66 @@
+{
+  "texto_id": "analisis_discurso_cristina",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.232,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Voy a hacer lo que tenga que hacer para que volvamos a ser felices, como lo fuimos hasta el 10 de diciembre de 2015.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri gobernó cuatro años y Patricia Bullrich representa a la alianza opositora.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojo, que yo no hablo por hablar, tengo doce años de gestión encima.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella da datos y dice: \"Mira, la verdad podemos discutir lo que quieran, pero hoy los trabajadores ganan mucho menos que antes y piden, directamente desde un estrado, una suma fija para los trabajadores\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si es necesario que sea candidata, aquí estoy. Voy a seguir trabajando. Y si es necesario que sea candidata, eso es lo que quería decir hoy.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede evitar una lectura política de eso.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Voy a estar donde me necesiten para que el pueblo esté mejor",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa está gestionando, está administrando.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si se puede ganar y faltan unos puntos, ella va a buscar esos puntos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No gana nadie.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La buena relación que tengo con Cristina es porque manifiesto mis diferencias cuando las tengo, que son técnicas, no son ideológicas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5476
+}

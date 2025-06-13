@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.21,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "A Milei le está costando atribuir la culpa a otros, una estrategia fundamental en la política.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este caso, la caída del índice de confianza sugiere, además de los nueve meses de recesión ya experimentados durante el gobierno de Milei, al menos seis meses más de recesión, ya que este índice predice la actividad económica con seis meses de antelación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los gobiernos de derecha, como el de Mauricio Macri, y el de Milei (y otros casos en el mundo)  enfrentan el riesgo de que, ante la posibilidad de una derrota electoral, los mercados interpreten este resultado como un triunfo del comunismo, desencadenando una reacción adversa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno, a la defensiva, se radicaliza utilizando la violencia como herramienta política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se observa la falta de objetividad de los medios de comunicación de derecha, los cuales no sólo justificaron el incidente sino que dedicaron tiempo a difamar al funcionario.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2334
+}

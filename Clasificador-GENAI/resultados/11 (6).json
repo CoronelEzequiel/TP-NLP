@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que pasa es que es muy raro que naturalicemos que el actual intendente de Vicente López, primo hermano de Mauricio Macri, que además tiene una discusión judicial sobre su posible candidatura, sea el candidato del PRO a jefe de Gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que es cuestión de días. A ver, primero lo más importante: la propuesta programática, ya la tenemos. Sí, sí. Está entrando en la imprenta. Bueno, estamos haciendo y hemos hecho un trabajo de un año con equipos técnicos, juntando cuadros del peronismo, del progresismo, para tratar de sintetizar una propuesta que sea verdaderamente alternativa, humana, sustentable y justa, porque eso es lo que se discute en una elección, no solamente candidatos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más que el Frente de Todos, la oposición a Larreta, porque la verdad es que si es una propuesta del Frente de Todos solamente, es una propuesta de minoría.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Por qué crees que le va bien al macrismo entonces en la Ciudad de Buenos Aires? ¿Porque la gente es de derecha o porque en algún punto valora la gestión que hace el gobierno de la ciudad?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Larreta vendió más terrenos públicos que Macri y construyó menos viviendas de interés social (y para eso trabajó Evolución).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces sepamos que estamos enfrentando un bloque de poder, no es un candidato, no es Jorge Macri, es un bloque de poder que tiene terminales en el poder real.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4060
+}

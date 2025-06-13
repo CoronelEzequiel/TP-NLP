@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.787,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si el costo de complacer a Cristina Kirchner implica la autodestrucción de sus propios objetivos, algo anda muy mal.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque una cosa es el equilibrio diplomático y otra muy distinta la genuflexión ante Rusia y China, y la provocación gratuita hacia Estados Unidos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema es que el ciclo \"opino esto, pero también aquello\" ha llegado demasiado lejos y, lamentablemente, ha sido la única línea coherente del presidente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si los antecedentes del presidente le restan confianza y los antecedentes de Cristina Kirchner indican que la vicepresidenta nunca se modera, nos encontramos ante una formidable aceleradora de la incertidumbre.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cabe destacar el lamentable rol de algunos opositores, como Gerardo Morales, que parece más un aliado del gobierno que un líder de la oposición.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un presidente voluble es una amenaza para cualquier negociación.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así, en este desgobierno, administrando la estabilidad al borde del abismo, con improvisaciones irresponsables, asistimos a un espectáculo irresponsable.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los delirios prescinden de la razón, y la irracionalidad es aterradora cuando el poder se vuelve delirante.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1768
+}

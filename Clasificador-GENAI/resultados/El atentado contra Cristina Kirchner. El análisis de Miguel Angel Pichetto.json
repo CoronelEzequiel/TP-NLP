@@ -1,0 +1,36 @@
+{
+  "texto_id": "schw_blob",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Quién se hubiera beneficiado si la bala hubiera salido? El arco democrático argentino, los que creen en el sistema, los que plantean que Argentina el año que viene tiene que ir a elecciones. Decididamente no. Acá hay actores que, como vos expresaste muy claramente, parecen marginales, pero lo importante creo que no son estos actores que aparecen en la superficie.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aparece primero, en un reportaje muy largo con un youtuber, Vaca Narvaja, reivindicando la contraofensiva montonera y diciendo: 'La dictadura se cayó por la contraofensiva'. Aparece Vaca Narvaja que, además, asesora a Cirio Pertossi y otros dirigentes montoneros históricos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que el esquema montonero y Firmenich está resentido con la historia y también está resentido con la aparición del kirchnerismo que siente que le sustituyó banderas, que lo que... A ver, a ver, a ver, que le ocupó el espacio del centro izquierda popular.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que sus ideas, su visión, que es más procapitalista, difícilmente pueda ponerlas en funcionamiento todas en el esquema económico. Ahí está con, con una acción, también está con el presidente, como sombra y también frenando o haciendo de contrafreno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay mucha minería de oro en el sur, plata en Chubut, plata en Chubut. ¿Cómo, cómo funciona ese negocio? ¿Cómo podría funcionar ese negocio si sigue habiendo inestabilidad en la seguridad pública por la cuestión más posible, el mapuche le agrega un nivel de conflictividad a un problema que ya estaba, que era la falta de consenso social?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5737
+}

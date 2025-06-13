@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta movilización señala a los formadores de precios, a los especuladores",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los formadores de precios están haciendo una sangría contra el pueblo argentino.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Poné lo que hay que poner, que los trabajadores te van a bancar",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que estatizar las balanzas portuarias",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si le siguen sacando el plato de comida a la gente, vamos a seguir movilizando.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos expresamos contra los formadores de precios y las corporaciones",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El pueblo argentino se sintió representado por esta convocatoria del Movimiento Obrero Organizado",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "que es necesario encontrar una salida en favor de todo el pueblo y no llevar adelante una salida como pretenden los sectores de concentración económica que presionan permanentemente en favor de un proceso de evaluatorio que lo único que haría es empobrecer a todo el pueblo argentino y definitivamente aumentar la masa de pobreza estructural que tiene nuestro país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3636
+}

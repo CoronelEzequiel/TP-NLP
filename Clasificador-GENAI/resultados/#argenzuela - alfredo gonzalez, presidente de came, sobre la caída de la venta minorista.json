@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_a_came",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.307,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La venta minorista cayó de una manera bastante fuerte, ¿no, Alfredo?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, la venta minorista viene cayendo desde julio de 2022.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea que el diciembre de 2023 es… ¿Fue comparable con el diciembre de 2001?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, pasa que en estos casos se van… lo que se hace, se van monopolizando ciertos sectores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, nosotros la semana pasada estábamos viendo que estuvo el presidente de la Nación en la Unión Industrial Argentina el día de la industria, y dijo algo así como \"vamos a achicar el Estado para agrandar los bolsillos de ustedes\", pero por ahora lo que se ve es que se achicó toda la torta, la torta de la mayoría de las empresas que producen o comercian en el país, se achicó la torta para ellos, se achicó la torta para los jubilados, para los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una sensación, o por lo menos hay algo que yo no alcanzo a comprender bien, digamos, tengo los datos, veo los números y no alcanzo a comprender bien, es como que el mismo empresario Pyme en algún punto, sin importar lo que pasó anteriormente, no importa el color político, pero nada de lo que pasó anteriormente, prefiere seguir y tener una, no sé si confianza o resiliencia con esto que va pasando actualmente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto de no adelantar ingresos en los pagos de compras de hasta menos de 11 millones, en lo que es IVA y ganancias, es realmente algo muy bueno que nosotros venimos pidiendo desde hace mucho tiempo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3541
+}

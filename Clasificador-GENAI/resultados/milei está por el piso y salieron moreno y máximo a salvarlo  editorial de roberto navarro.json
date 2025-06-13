@@ -1,0 +1,36 @@
+{
+  "texto_id": "El ministro de Economia, Luis Caputo, debio salir a calmar los mercados esta manana",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Durante ocho días, el Banco Central había estado perdiendo reservas, y ayer se registró la situación más crítica: a pesar del gasto significativo del Banco Central, el dólar siguió subiendo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se acerca el momento en que el gobierno deberá implementar nuevas medidas, demostrando la eficacia de la teoría económica aplicada (la supuesta teoría \"Miely-Caputo-Kirchner\").",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La respuesta del gobierno a esta crisis fue la reducción de las prestaciones a jubilados, lo que generó malestar y protestas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas protestas fueron reprimidas, lo que ha generado preocupación por el deterioro democrático del país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina ha sido calificada como un país en vías de autocratización.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1841
+}

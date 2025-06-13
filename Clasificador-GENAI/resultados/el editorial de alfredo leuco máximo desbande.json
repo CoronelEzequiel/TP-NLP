@@ -1,0 +1,96 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.841,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Las declaraciones de Máximo Kirchner desnudan su fragilidad intelectual y conceptual.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo reconoció que el Partido Justicialista hoy no tiene candidato y confirmó el máximo descalabro que está sufriendo la coalición oficialista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después repitió las mismas críticas de siempre a Mauricio Macri y a Patricia Bullrich.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo que el kirchnerismo invadió al peronismo, que Alberto Fernández es un radical de la UCR y que la CGT va a defender la realización de las clases.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maturano declaró que el peronismo está cerrado y roto y, escuche bien, amenazó con armar un partido laborista propio de los sindicalistas e incluso amenazó con acercarse al peronismo republicano de Miguel Ángel Pichetto.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, como si esto fuera poco, dijo que hay que defender el derecho de los trabajadores, pero no de los vagos y los ñoquis.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo que Alberto Fernández es un fraude que le está poniendo alfombra roja a la derecha para llegar a la Casa Rosada.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De Sergio Massa dijo que está haciendo un ajuste light y que le mintió dos veces, y en la cumbre de su sinceridad, el mejor amigo del Papa Francisco, dijo que este gobierno, supuestamente popular, fracasó absolutamente porque no cumplió el contrato electoral.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juan Grabois reconoció que ahora los más pobres están peor que con Macri.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández pone como ejemplo para todos los países del mundo a un gobierno no democrático como el gobierno chino, que viola todos los derechos humanos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su momento eligió como modelos a seguir al patotero de Hugo Moyano y al señor feudal de Gilles Dufranne.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La hecatombe política y económica de este gobierno es la que genera rechazo, señor presidente.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que hace y lo que no hace Alberto Fernández, Cristina Fernández de Kirchner y Sergio Massa. Así les va y así nos va.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No aporta una sola mirada original ni propone ninguna política que sirva para que su gobierno deje de ser el peor de la historia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El príncipe heredero es muy limitado y primitivo en sus análisis.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gabinete de segunda selección, como el presidente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miles y miles de personas están haciendo cola por un bono de 45 mil pesos. Es la imagen más desgarradora de la indigencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2539
+}

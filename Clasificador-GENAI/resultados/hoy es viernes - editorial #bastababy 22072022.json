@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernando dijo que no va a renunciar y le sigue echando la culpa a todo el mundo menos a él.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras tanto, Cristina está escondida debajo de una baldosa hablando con venezolanos e iraníes para ver a qué hora sale el vuelo de vuelta a Irán o Venezuela, para hacerse la presa política y tomárselas antes de que la justicia caiga sobre ella.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El país es un quilombo. El dólar sube, sube, sube, y nosotros bajamos, bajamos, bajamos. La gente está cansada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que Alberto debería quedarse un año y medio, afrontar la situación del dólar, resistir hasta que tenga que entregar la banda presidencial al sucesor. ",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nunca pediría que se vaya un presidente constitucional.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo pensé que era el gabinete, el stand de los burros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1750
+}

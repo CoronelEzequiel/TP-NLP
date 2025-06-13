@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.723,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Quiero mostrarte algo muy claro para que se entienda cómo los piqueteros, estos nefastos, sometieron a la gente a la esclavitud.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Edad Media vos tenías el rey, el clero, la nobleza, el bajo clero, los artesanos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Y los piqueteros? Exactamente lo mismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta gente son los dueños de los pobres en la Argentina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que ninguno de nosotros imaginaba lo que encontró la justicia esta semana en los hallazgos que realizaron.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La palabra es esclavitud.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A una agrupación que se llama Izquierda Latinoamericana Socialista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El intercambio es planes por votos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si faltás a la marcha, chau plan.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto es esclavitud moderna.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La libertad es el camino hacia la felicidad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6186
+}

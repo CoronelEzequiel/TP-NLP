@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Kirchner dijo hace un par de semanas: \"El objetivo es entrar al ballotage\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Juntos por el Cambio\" viene cayendo en picada.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Larreta propone incorporar a Schiaretti a \"Juntos por el Cambio\" y aparece una resistencia, sobre todo de parte de Patricia Bullrich y aliados de Patricia Bullrich en la interna del PRO.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es el corazón de la política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo esto lo mira, o lo miraba hasta anoche, Massa desde China, donde se comportó como una especie de presidente.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8180
+}

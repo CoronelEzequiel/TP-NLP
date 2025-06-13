@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.271,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dijo Dolores, y la vamos a ver más adelante, que la justicia falló para los corruptos y los poderosos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veamos a Pichetto jugando como siempre contra los pobres. Bueno, vengo a acompañar a los hermanos Etchevehere a sostener un conjunto de ideas y principios que hemos también dicho públicamente que tienen que ver con la libertad, con la defensa de la propiedad privada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En primer lugar quisiera plantear que a nosotros nos parece muy mal lo que salió ayer: que a cada familia que usurpa le van a dar 50.000 pesos durante 6 meses.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un día en el que los poderosos ganan en todos lados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahí está Dolores detenida. ¿Acaso por decir cosas como esta respecto a que la justicia falló una vez más para los corruptos y los poderosos?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio es el mayor hijo de puta que jamás haya conocido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La imagen de las topadoras hoy en Guernica se queda con esa idea y con Dolores Etchevehere detenida.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6974
+}

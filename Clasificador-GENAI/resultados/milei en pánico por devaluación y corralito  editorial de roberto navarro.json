@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.188,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En este momento estoy mirando lo que pasa en Europa, están cayendo un 5 o 6%, todo eso es destrucción de riqueza, de riqueza de las empresas, que son las que producen y dan empleo, y de riqueza de los particulares que invierten en eso; es decir, hay en efecto pobreza.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, porque Donald Trump salió y rompió todas las reglas, solo de manera unipersonal, en un momento en que tiene una pelea por la hegemonía mundial con China, y todos somos especialistas en geopolítica en estos días, y la está perdiendo esa pelea, la está perdiendo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de que cada país, en estas guerras comerciales, sube los aranceles, lo otro que sale para tener una ventaja competitiva con el resto es devaluar su moneda.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, en medio del maremoto, Milei y el ministro de Economía se toman un avión para sacarse una foto con Trump, y uno piensa dos cosas: primero, ¿qué nivel de desesperación tenés que tener para, en vez de quedarte acá armando un paquete de medidas, tomarte un avión sin ninguna promesa de sacarte la foto?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trump quiere volver el tiempo atrás y cree que si cierra la economía van a volver las industrias que se fueron y de nuevo van a tener el sueño americano.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando un gobierno grogui no tiene una alternativa, la respuesta no es democrática.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, si se va a dar esto, porque se va a dar seguramente, me parece que hay que dotarlo de contenido.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos a Milei que se está cayendo. ¿Hay una alternativa democrática o también vamos a perder la democracia?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4898
+}

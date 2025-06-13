@@ -1,0 +1,46 @@
+{
+  "texto_id": "Audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.457,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy los expertos calculan que, si tuviéramos que ir al Banco Central a ver cuánto quedó de dólares utilizables, lo que se llama reservas líquidas, quedaron 400 millones de dólares, más o menos, lo cual es poquísimo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "esta decisión de poner al Banco Central en esta situación tan delicada y, por lo tanto, poner a la macroeconomía del país en esta situación tan delicada, es el resultado de una decisión deliberada del gobierno, deliberada por el núcleo del poder que conduce el país, básicamente del diálogo entre Cristina Fernández de Kirchner y Sergio Massa como estrategia electoral.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "se decidió liquidar las reservas para mantener el nivel de importaciones. Sin importaciones es imposible producir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un gobierno que promete siempre no endeudarse, pero que vive endeudándose de manera muy poco transparente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el 80% de los consultados en este estudio de Pulsar, de la UBA, cree que el Estado gasta mucho",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "49% cree que hay que recortar los planes sociales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "estamos ante una avanzada del Movimiento Evita sobre el principal aliado de Axel Kicillof",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8435
+}

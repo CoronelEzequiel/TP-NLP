@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.075,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se avecina una ola de despidos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es descabellado pensar que ya están con la motosierra encendida.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se esperan entre mañana y el fin de semana, más de 100 despidos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un hospital de referencia que atiende a seis millones de personas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que por eso fue uno de los primeros atacados por este gobierno.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Visto en perspectiva, es evidente que hay un plan para atacar la salud pública.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "este plan, que dice buscar la eficacia en salud, en realidad busca despedir trabajadores, disminuir la oferta de salud pública y mercantilizar nuestro trabajo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De esa manera, perjudica a las personas y disminuye el acceso al sistema público de salud.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy marcharemos junto a trabajadores del Bonaparte, asambleas barriales, pacientes que nos apoyan y trabajadores del Hospital Garrahan.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El apoyo a la marcha del sábado se debe a que aquí se realizan tratamientos para personas de la diversidad de género.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1913
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.772,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay una ley nueva, que se le ocurrió a alguien del Congreso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no puedo hablar en lenguaje inclusivo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por más que hagan la ley, yo no voy a hablar jamás en lenguaje inclusivo porque yo hablo en castellano, en argentino.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, yo quiero decir que, aunque me echen de acá, de la radio y de la Argentina… jamás en la vida voy a hablar en inclusivo porque el idioma castellano es muy rico.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta ley de mierda, que es completamente autoritaria y dictatorial, nos obligaría a hablar en inclusivo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Déjenos vivir en el país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos están presionando y oprimiendo… y quieren ir a Venezuela antes que llegue fin de año porque saben que van a perder en las elecciones porque son los culpables de 85.000 muertos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quieren ver qué hacen.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, no seamos hipócritas porque todo lo de este gobierno y el anterior… ¿Querés que te la cuente?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2570
+}

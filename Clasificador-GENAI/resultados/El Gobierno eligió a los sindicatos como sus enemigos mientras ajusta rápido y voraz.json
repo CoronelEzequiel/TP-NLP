@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.375,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay un paro de 24 horas en la sanidad; los paros se van a suceder.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno dejó correr el paro ferroviario sin llamar a conciliación obligatoria, para después victimizarse: \"Miren qué malos son los sindicatos que le paran los trenes a la gente\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, la disyuntiva: por un lado, el gobierno que sale a decir: \"La gente va a aguantar, la gente, con tal de que no vuelva el gobierno anterior, que no venga el peronismo, la gente puede aguantar un ajuste como este, un ajuste duro, de los más duros que se recuerden\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí está la casta, ahí está el enemigo perfecto que está construyendo y logrando construir el gobierno nacional para, justamente, poder tener un antagonista y empezar a plantear cuál es su plan de gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, un millón de personas, repito, un millón de personas, se quedaron sin medio de transporte para llegar a su trabajo, a su hospital, a su universidad o a donde sea que se les haya ocurrido ir.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno, decíamos, parece haber encontrado el enemigo perfecto, la famosa casta, los sindicatos, entre otros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no quiero que vuelva el kirchnerismo, dicen de ninguna manera, \"pero tampoco puedo soportar un ajuste como este, entonces, ¿dónde me paro?\"",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gente, el gobierno pone la gente, exactamente la gente de bien de un lado y la casta del otro.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5921
+}

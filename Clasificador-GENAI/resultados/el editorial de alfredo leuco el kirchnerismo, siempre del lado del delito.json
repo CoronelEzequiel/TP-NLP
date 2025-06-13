@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.889,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Es que no se equivocan nunca. Siempre están del lado del eje del mal, a favor de los victimarios y en contra de las víctimas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La tristemente célebre puerta giratoria funciona como siempre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Berni no dijo que esos jueces son amigos del gobierno, que son todos hijos putativos de la escuela o de la doctrina de Eugenio Zaffaroni, que a esta altura debería reconocer que su doctrina abolicionista es un fracaso, que lo único que hizo fue empoderar a los delincuentes y aterrorizar a los ciudadanos decentes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Berni es un soldado de Cristina y Zaffaroni también.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre encuentran alguna vuelta para liberarlos y digo que tienen pánico a dos situaciones: primero, a la venganza de los cómplices y, después, que después los vienen a apretar por supuesto o amenazar a los jueces y a los fiscales y además les tiene miedo al qué dirán los muchachos falsamente progresistas que todavía ven en un ladrón, en patota o en un criminal a un subproducto de la injusticia del sistema capitalista.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Hasta cuándo van a seguir repitiendo esas boludeces de que la seguridad es una bandera de la derecha y de los ricos?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miren, necesitamos urgente que se haga justicia, no demagogia barata ni criminal. Castiguemos de verdad a los que nos matan y cuidemos a los que nos cuidan, porque si no, ¿quién nos va a cuidar?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el ADN del kirchnerismo chavista, es el delirio ese de premiar a los delincuentes y a los victimarios y de castigar a las víctimas, todo lo contrario de lo que significa defender la ley y los derechos humanos; siempre apela a ese dogma jurásico de ponerse del lado del mal con Putin, con Daniel Ortega, Maduro o Hamás más allá de nuestras fronteras, con los violadores que tienen su misma camiseta partidaria, como José Alperovich, con los jerarcas sindicales millonarios y patoteros tipo el \"Pata\" Medina o el \"Can\" Moyano, con los ladrones y criminales liberados de las cárceles.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las señales hacia las sociedades demoledoras, en lugar de celebrar a los que con mérito y esfuerzo se destacan en la ciencia, en el arte, en la innovación tecnológica o en su vocación de servicio solidario, estos muchachos siempre levantan la bandera de los bandidos y los asesinos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2566
+}

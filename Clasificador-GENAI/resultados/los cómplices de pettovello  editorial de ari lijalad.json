@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.394,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estos ministerios, encargados de garantizar derechos sociales, parecen carecer de importancia para este gobierno, que considera que esos derechos no existen y que el Estado no debe garantizarlos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En lugar de solucionar el problema de los alimentos, el gobierno ha creado un nuevo negocio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La solución real es distribuir los alimentos existentes a los más de 40.000 comedores del país, y reponer los stocks.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La máxima expresión de esta supuesta aberración, según Milei, es la justicia social, calificada como injusta por implicar un trato desigual ante la ley y por estar precedida, en su opinión, de un robo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta postura no es nueva: durante la campaña electoral y el día de su asunción, Milei ha reiterado su convicción de que \"donde hay una necesidad no hay un derecho\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1551
+}

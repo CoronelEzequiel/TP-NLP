@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.707,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y eso quiero también para el gobierno argentino, que llegó, ganó, pero se nota, a las claras, que no hay dignidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando tratamos de analizar el gobierno argentino y alguno de sus protagonistas, siempre está esa impátina de indignidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, cuando Tolosa Paz dijo que ganamos pero perdimos, perdimos pero ganamos… ustedes pueden ganar o pueden perder, La Cámpora, pero siempre van a perder porque no hay dignidad.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y Putin va a quedar como ese loco hijo de puta que mató a inocentes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y se están descascarando. Y están en una lucha desesperada por tratar de tener un curador que los arregle.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me encantaría que gane alguien que tenga el respaldo moral y digno de poder llevar el estandarte del triunfo con la dignidad que tienen los dignos de no haberle hecho daño a nadie.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y si ellos no tienen ni mérito ni dignidad, es lógico que proclamen que todo es lo mismo, que todo es igual, que los corruptos son hombres de poca inteligencia y que se gasten la plata de los pobres pagando ministerios que no administran nada, porque son indignos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2419
+}

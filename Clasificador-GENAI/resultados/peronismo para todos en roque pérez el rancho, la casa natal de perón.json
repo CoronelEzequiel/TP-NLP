@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.09,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros, los roqueperenses, somos peronistas y tenemos un doble mandato en Roque Pérez: cuidar la doctrina y ser custodios de esta memoria, de este Perón humilde que nació en este rancho y que forjó esa personalidad extraordinaria que lo convirtió en el hombre más importante del siglo XX en la política, por lo menos en Argentina y tal vez en Latinoamérica.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá, en Roque Pérez, que es una ciudad chica, estamos tratando de conformar esa comunidad organizada de la que nos hablaba el General. En este lugar hemos transformado la ciudad, ha crecido desde lo educativo, lo cultural y lo productivo. Bueno, tenemos esa sociedad igualitaria a la que aspiramos todos los peronistas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos muy próximos a las elecciones, pero lo vamos a lograr. Estamos nosotros en un lugar que es la Pampa Húmeda, donde por ahí se han instalado algunas fuerzas reaccionarias, pero nosotros tenemos conversaciones con todos, tratamos de incorporar esa fuerza nacional que integra el peronismo para seguir gobernando, para seguir gobernando no de modo autoritario, sino para seguir construyendo una patria mejor, una patria para todos, donde no sobra nadie, como no sobra nadie acá en Roque Pérez, que hay lugar para todos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De verdad nosotros nos consideramos conducidos por Cristina. Creo que es la conductora de nuestro espacio y vamos a aceptar el ordenamiento que ella disponga.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, dentro de ese marco, de esas ideas que ha tenido el peronismo a través de los años, nos vamos a ir a las elecciones sabiendo que hemos tenido dificultades, pero que solo nosotros podemos darle al pueblo argentino los derechos que se merece, porque nosotros, el peronismo, siempre amplió derechos, nunca los cercenó, y no vamos a permitir que eso vuelva a ocurrir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2454
+}

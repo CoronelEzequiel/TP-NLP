@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.934,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Creo que es un hecho histórico que el liberalismo institucional esté dentro de este gran espacio opositor.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos basarnos en el capitalismo, la competencia y la meritocracia.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo, en sus 20 años menos los cuatro de Macri, ha transformado a la Argentina en una villa miseria.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que hacer muchas reformas que requieren consenso. Argentina tiene que aceptar que competir con el mundo es bueno.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que reducir el tamaño del Estado, porque los impuestos están asfixiando a los trabajadores.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1941
+}

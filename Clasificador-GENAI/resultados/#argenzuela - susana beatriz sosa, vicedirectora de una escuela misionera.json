@@ -1,0 +1,36 @@
+{
+  "texto_id": "protesta_misiones",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.14,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno provincial nos llama al diálogo, pero necesitamos una solución urgente a la problemática salarial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos un gremio que forma parte del gobierno, que no nos representa y nos vendió.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si tuviera que establecer responsabilidades, adjudico toda la culpa al gobierno provincial. Tenemos colegas que analizan los sueldos y el dinero llega, pero no se utiliza correctamente. El gobierno provincial tiene la culpa; hay falta de voluntad política para resolver la situación de los trabajadores.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un país rico viviendo como pobres indigentes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy nos manifestamos frente a la municipalidad. Pedimos a los intendentes y consejos deliberantes de toda la provincia que intercedan ante el gobierno para lograr una recomposición salarial urgente.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2119
+}

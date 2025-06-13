@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que estamos viendo es que esa unidad nacional está en riesgo, que Milei, con sus decisiones, está poniendo en riesgo la integridad de un país único y abriendo la posibilidad de una disolución nacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está haciendo Javier Milei es no cumplir con ese rol que tiene el Estado Nacional, que es administrar y repartir. Lo que está haciendo es concentrando la riqueza del país.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, frente a esto, en vez de decir 'bueno, mandemos la plata porque si no va a haber un problema', no. Retrucó, e hizo una catarata de tuits y pasó horas en redes mientras estaba en un viaje en Estados Unidos donde se dio un abrazo de oso con Trump.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Probablemente mi mayor error fue creer que se podía negociar y hablar con los gobernadores de manera honesta\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y acá me parece que hay una clave interesante para entender todo esto. ¿Qué es? Milei dice \"esto es una discusión de cabotaje y yo vengo de un evento internacional\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3144
+}

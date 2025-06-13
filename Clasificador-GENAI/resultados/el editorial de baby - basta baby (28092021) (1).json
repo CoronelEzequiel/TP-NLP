@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El título que estoy usando es \"El populismo, la pelota filáptica\", y les explicaré por qué.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Voy a mirar el canal, ver qué me mandan, ver a Marciel.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ver la droga, la barra de droga, no por eso, pero... ver los estadios abiertos, los tiroteos, los maleantes...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un miliciano de seguridad vino a ganarme, tiroteo, herido, y a la hora de las citas... no se ve... el pendiente de IRIO, donde hay mucha gente motivada... la pedofilia, no está de todo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para ganar una puta elección y liberar a la gente que se quiere morir de COVID... una tercera ola... y ahora, cerrando... rejuntar algunos votos... de ignorantes, pobres, miserables...",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina, alguien se la presentó desde adentro de la casa... esperando qué pasa con las elecciones y la prisión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando la van a votar... 15 litros para lavarle la cara... iba a ir a la barbería... 755 andando... 100, 1000 mandos... 10 litros a mis amigos... 15 litros... dicen que compro la voluntad...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia, que un chico mató un chorro... cuando un chorro mata un chico... casualidad... cuando un chico mata un chorro... en 10 días sale... no hay que meterse entre ellos...",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No compre la víctima, la vida... esos de puta que le ponen el nombre a la zapatilla... 5 de noviembre... discriminada, marcada... esa zapatilla no tiene el nombre...",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "y se les está repartiendo mucha plata... que se acabe sintiendo mierda... porque lo mejor sería que un pobre no hubiera maestrías... están malos los mandos... mil cincuenta millones de mandos por día...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "llevar en casa al perro... la zapatilla con su nombre... discriminar a los chicos pobres... los chicos no necesitan que el indigno gobernador le regale esa zapatilla... los chicos se atorran...",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "se le va a dar a los nuevos el plata... de aguantar ese gobierno de mierda... perdido una elección... sale a comprar voto... sale con tanta plata para comprar voto...",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2718
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Dia_177_En_Latinoamerica_la_ultraderecha_no_avanza",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En un hecho histórico, desde el ciclo de renovaciones presidenciales tras la pandemia, donde todos los oficialismos perdieron, Andrés Manuel López Obrador no solo aseguró otro periodo de gestión de centroizquierda a través de su sucesora Claudia Sheinbaum, sino que, además, multiplicó la cantidad de escaños en el Congreso y se asegura una súper mayoría.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué Argentina se comporta como Europa, con una tendencia a la derecha y la extrema derecha?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Probablemente, una de las tesis a analizar en esta comparación que vamos a hacer hoy de México con Argentina es que Argentina es el único país de toda Latinoamérica que tiene un porcentaje altísimo de descendientes europeos y que se comporta como Europa. Es decir, aquí la derecha y la extrema derecha crecen, mientras que en el resto de Latinoamérica no se comportan de la misma manera.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El triunfo de Claudia Sheinbaum y Morena en México son muy buenas noticias, no solo para las fuerzas nacionales, populares, progresistas y de izquierda de América Latina, que se decía estaban en repliegue, sino para todo el continente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que este triunfo muestra es que América Latina ha sido y sigue siendo un territorio en disputa. Frente al crecimiento de partidos de ultraderecha con discursos negacionistas, racistas, xenófobos, con un odio a todo lo que tiene que ver con lo popular y con el Estado, en México gana una fuerza que, además, es conducida por una mujer que sostiene mejorar el salario de los trabajadores, reconocer a los pueblos indígenas y afrodescendientes y a las diversidades sexuales, ampliar a través de la intervención del Estado los derechos del pueblo mexicano a la salud, a la educación, a la vivienda, a la cultura, profundizar los lazos con América Latina y el Caribe, llevar adelante políticas vinculadas con el cuidado del ambiente, con la autodeterminación de los pueblos, con la cooperación internacional y la construcción de la paz; es decir, políticas que son exactamente lo opuesto a lo que viene llevando adelante el gobierno argentino.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5857
+}

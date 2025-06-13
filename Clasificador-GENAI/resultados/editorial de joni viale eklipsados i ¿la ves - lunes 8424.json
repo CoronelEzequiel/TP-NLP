@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En materia de que el populismo está absolutamente eclipsado.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primera vez que Cristina habla de que \"Mi ley\" es presente.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El eclipse trajo paz.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El alfil más cercano que tiene hoy mide 17. ¿Quién es? Es Ichazo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La que más mide es quién es. Una mujer. Acá está. Victoria Villarruel. A mí me sorprendió. 54.2.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están eclipsados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina tiene un Estado elefantiásico, hay que ponerlo a dieta como usted, hay que reducirle la grasa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 7717
+}

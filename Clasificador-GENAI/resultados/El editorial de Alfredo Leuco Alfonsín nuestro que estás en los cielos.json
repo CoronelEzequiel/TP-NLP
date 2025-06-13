@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y para todos los hombres del mundo que quieran habitar el suelo argentino, hoy se cumplen 14 años de la muerte del expresidente Raúl Alfonsín.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "San Raúl de la democracia, de aquella oración patriótica que recorrió e inundó el país para poner en un altar a la unión nacional, la justicia, la paz interior, la defensa común, el bienestar general y los beneficios de la libertad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este sistema, que es el menos malo de los conocidos, llegó para quedarse por 100 años más.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahí andaba don Raúl con las manos limpias, viviendo y muriendo en el mismo departamento de siempre, honrado como don Arturo, corajudo como Abelardo Ramos.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se jugó la vida por eso, no fue una cuestión de oportunismo ni para cazar dinosaurios en el zoológico, como lo hicieron tardíamente los Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero si tratamos de ser lo más ecuánimes y rigurosos posibles, aparecen, por supuesto, las luces y las sombras de una gestión, pero el paso del tiempo y la comparación con lo que vino después lo dejan a don Raúl Ricardo Alfonsín del lado bueno de la historia, en la vereda del sol.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie puede negar que fue un patriota.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estos tiempos de cólera, corrupción y autoritarismo, su sabiduría podría iluminar el camino.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Raúl Alfonsín fue el partero del período democrático más prolongado de toda nuestra historia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2294
+}

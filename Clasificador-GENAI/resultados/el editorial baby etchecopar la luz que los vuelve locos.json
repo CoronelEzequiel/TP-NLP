@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.586,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La libertad de expresión, cuidemos la libertad de expresión.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es muy probable que vengan por la cabeza de algunos periodistas que estamos en contra de los K y que hemos estado sistemáticamente, que seguiremos estando, no del peronismo, si es lo K.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo he elaborado en una radio K y he elaborado puteándolo cuatro años, he elaborado con Cristóbal López y Sosa con una libertad que no me la dieron ni los radicales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La libertad de expresión es un bien adquirido, y fijate vos que no me la dio ni Macri ni me la dio Cristina, me la gané rompiéndome el orto para que gane el foncín.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso creo que hay que separar muy bien lo que es la libertad de expresión a la libertad de la República.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y saben qué… Si usted que está mirando del otro lado le crecen un poquito los huevos, no le va a preocupar ni Alberto ni Macri, porque realmente cuando vos tenés autoridad, y cuando confías en vos, y tenés autosuficiencia en la vida, con tus hijos, con tu jefe, no necesitarás saber si a Alberto le va bien o a Macri le va bien, te va bien a vos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos un país de cagones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3354
+}

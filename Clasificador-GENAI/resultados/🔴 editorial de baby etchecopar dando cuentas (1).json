@@ -1,0 +1,46 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.414,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Y mientras tanto, mientras discutimos si Javier Milei se va a pasear en un auto convertible, si será un Varian o un Cadillac, se escuchan unas discusiones pelotudas en la Argentina que no puedo creer.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La pobreza no es un número.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A esa gente hay que darle una respuesta.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es horrible la indignidad de tener que correr atrás de un político por un plan.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo confío en una Argentina en paz, con armonía.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos soluciones.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hablar no de lo que pasó, tampoco de lo que está pasando, sino de lo que va a pasar, de lo que puede pasar, si no tomamos al toro por las astas, no nos acojonamos, no llamamos a una unidad nacional, no llamamos a una mesa del hambre real (no la mesa de los ricos de careta que puedan hacerse los solidarios), sino la mesa del hambre de verdad, y le damos solución.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2636
+}

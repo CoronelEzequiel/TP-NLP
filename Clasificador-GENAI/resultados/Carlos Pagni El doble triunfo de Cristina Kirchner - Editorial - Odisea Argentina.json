@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si yo me asiento sobre esa masa demográfica, todo lo demás se ordena. Es la política regida por la prepotencia demográfica de una región hiperurbanizada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Kirchner primero la aprendió defensivamente. Un gran lector de los años 90 y, sobre todo, un gran lector de la crisis del 2001, detectó que el problema viene del conurbano bonaerense, que se había tragado a cinco presidentes antes que él.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una tendencia en la política en general, en el kirchnerismo ni que hablar, en la Argentina, en la política argentina: es una propensión muy argentina —desde otros países se asombran de esa forma de pensar de nosotros— que consiste en pensar que quien se beneficia de una convulsión o de un problema político es el que lo ocasionó.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof no tiene otro vínculo político de dependencia ni con **La Cámpora** ni con Alberto Fernández; es Cristina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo, fiscalmente, lo podríamos reducir a una maquinaria política que le quita recursos a los sectores más dinámicos de la economía, le quita recursos a los sectores que crean riqueza, no necesito ir a las 125 y el año 2008 para volcarlos en forma de subsidios en la provincia de Buenos Aires",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7793
+}

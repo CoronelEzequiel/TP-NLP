@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.869,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Las cárceles federales fueron vaciadas en un par de años y ninguno de los integrantes del grupo que se enriqueció ilegalmente, al que llamo \"el cártel de los pingüinos millonarios\", permanece en prisión.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El plan sistemático para saquear al Estado, liderado por Néstor y Cristina Kirchner, llegó a tener un total de 74 detenidos.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Grandes ladrones, verdaderos magnates que robaron fortunas al pueblo argentino como Lázaro Báez, pasan la gran vida en barrios privados de lujo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo mismo ocurre con Amado Boudou, quien además tiene una condena firme de la Corte Suprema de Justicia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gran mayoría de los funcionarios, empresarios, amigos, testaferros y sindicalistas cómplices son magnates y viven como príncipes, mientras el pueblo es cada vez más pobre.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos robaron para Cristina Kirchner y para ellos mismos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los argentinos honrados sienten una profunda frustración; se aplicó como nunca el dicho de Perón: \"A los amigos todo, a los enemigos nada\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A esta altura, el peligro de mayor gravedad institucional hay que ubicarlo en las amenazas golpistas de Cristina Kirchner y de Carlos Zannini.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2274
+}

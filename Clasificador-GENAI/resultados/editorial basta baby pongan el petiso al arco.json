@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Mi problema no es que haya ganado Alberto, porque ahora Alberto es mi presidente a partir del 10 de diciembre. Y si lo tocan, voy a la plaza.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que pasa es que también no sé cómo me la voy a arreglar, porque no lo van a querer sacar afuera, porque nadie quiere agarrar el fierro caliente.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la historia es que a mí me rompen las pelotas todo este triunfo. Que nos hizo olvidar que hay una mujer que está procesada y es vicepresidenta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo decía, antes por lo menos vos confiabas y al segundo año te enterabas que habían afanado y que eran unos hijos de puta. Pero ahora ya viene un hijo de puta de fábrica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no estoy hablando de gorilismo, estoy hablando de dignidad y de honestidad, estoy hablando de quién mató a Nisman, qué pasó con Quebracho con Nisman, qué pasó con Delia con Nisman, qué pasó, qué pasó, qué pasó, con la guita que nos faltó a los argentinos",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "hay que cuidar mucho a los amarillos, que son el contra, el contra, reaseguro de estos pibes que ya nos robaron",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2947
+}

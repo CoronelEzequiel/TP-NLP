@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay algo claro: la polarización que rige en Argentina desde hace tiempo, la idea de que existen dos bloques políticos (no solo en la dirigencia política, sino en la sociedad), termina agrupando a los políticos en uno u otro polo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner se garantizó, en el armado de estas listas, ser la titular, la que conduce una minoría homogénea.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si él quiere ir a una posición más pro-mercado, mantenerse dentro del acuerdo con el Fondo Monetario Internacional y negociar con las potencias que dominan el Fondo una situación aceptable para las finanzas argentinas, va a tener que hacer un giro importante en materias que para Cristina son muy relevantes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri tiene, en este armado parlamentario que se acaba de consolidar, varios rasgos. El primero: un gran poder de Elisa Carrió.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Impresionante el poder que adquirió lo que los brasileños denominan, con una palabra muy fea, 'voto comportamental'. El voto que tiene que ver con los comportamientos, con la moral común, con la moral privada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6099
+}

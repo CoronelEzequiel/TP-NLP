@@ -1,0 +1,41 @@
+{
+  "texto_id": "Día 99 El otoño de Javier Milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Puede comenzar un otoño particular también para el gobierno de Javier Milei, porque justamente se cumplen, el día anterior, los primeros 100 días de gobierno.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto es un desafío para cualquier gobierno, pero en particular para el gobierno de Milei, porque el apoyo popular es, básicamente, la única fuente de poder que tiene un gobierno sin mayoría en ninguna de las cámaras, sin gobernadores ni intendentes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 22 de marzo será el congreso del Partido Justicialista, y se esperan todo tipo de enfrentamientos y discusiones, pero también hay posibilidades de que se articule una opción que pueda enfocarse en el recambio del gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este año se plantea una marcha multitudinaria de oposición al gobierno, a quien se lo caracteriza por una orientación ideológica de la vicepresidenta Victoria Villarruel y declaraciones del propio Javier Milei, como un gobierno reivindicador de la dictadura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por otro lado, la vicepresidenta Victoria Villarruel viene de una familia militar, y su padre fue veterano de Malvinas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei planteó que admiraba a Margaret Thatcher, quien fue la primera ministra cuando Inglaterra desembarcó en las islas Malvinas para librar la guerra contra nuestro país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3246
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Habló de la necesidad de respetar el ámbito privado, cuestionó los controles de precios (en un contexto de aceleración inflacionaria), demandó previsibilidad y, para ello, reclamó equilibrio en las cuentas públicas, la generación de un mercado de capitales y una reducción de la presión impositiva, comparativamente alta con la de países vecinos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la AEA creen que el ajuste fiscal previo necesario para la dolarización la haría innecesaria.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En resumen, se utiliza a Milei para impulsar un programa de ajuste, llevándolo a eventos como el Coloquio de Ideas o la cumbre de Bariloche.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este \"agite\", junto con las corridas cambiarias e intentos de golpe de mercado, buscan disciplinar al sistema político y a la sociedad a través del terror económico.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una vez impuesta la agenda, se simula un acercamiento al centro, postulando el diálogo y el consenso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1812
+}

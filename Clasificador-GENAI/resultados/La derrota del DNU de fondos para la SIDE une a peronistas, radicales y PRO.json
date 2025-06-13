@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El PRO, aliado al peronismo, al radicalismo y otros bloques, dejó de lado sus diferencias y aunaron fuerzas para marcarle la cancha a los deseos de **Javier Milei**.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que, evidentemente, cree Macri es que hay posibilidades de que Milei no lleve a buen puerto su gobierno. Por esa razón, el expresidente estaría preparando una alternativa de recambio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero hablemos de lo que el gobierno ha logrado, lo que el gobierno ha hecho en estos ocho meses en términos de ajuste fiscal sin rédito en el mundo entero, y a pesar de la inmoral herencia que dejó Sergio Massa y el gobierno K, que fue la peor bomba económica en la historia económica mundial, solo comparable con situaciones de posguerra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según una encuesta de la consultora de Imagen y Gestión Política, el 93,5% de los consultados opina que el ajuste no lo está pagando la casta, sino que lo está pagando la clase media y la clase baja, y dos de cada tres creen que en la actualidad la situación es mala o muy mala.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei tiene en su haber que está bajando drásticamente la inflación, sin embargo, la recesión que golpea la actividad económica y la presión por una devaluación, y de la mano de esta, un posible rebote de la inflación, son elementos que pueden hacer fracasar el plan económico de Milei y Caputo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4816
+}

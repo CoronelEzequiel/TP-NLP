@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.808,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esa agrupación… esa… ¿cómo se llama?… esa agrupación política kirchnerista que intenta blanquear la participación de Evita en el narcotráfico bajo el pretexto de la lucha por la democracia…",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero busca estigmatizar a quienes componemos el Frente de Todos, especialmente a los espacios de izquierda y a los movimientos populares.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si van a luchar por la hidrovía y homenajean a dos delincuentes como Boudou y Milagros Sala –quienes cada vez tienen más causas pendientes–… uno hace la “V” de la victoria, otro hace el gesto de la mano de Alfonsín, otro hace esto… ¿quiénes son, entonces?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si digo quién es Moyano, voy preso. Si digo quién es Baradel, voy preso. Y según Zárate, si digo quién es usted, también me denuncian.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Intentan silenciarnos con repudios como el de la hija de Moreau, quien, después de que yo le di leche a su padre porque no tenía para darle de comer, me repudia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos juntamos con lo peor del mundo, porque lo mejor del mundo nos cerró las puertas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2879
+}

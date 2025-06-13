@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El protocolo antipiquetes, considerado inconstitucional, solo funciona con poca gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un gobierno peligroso cuando apela al todo o nada, y más aún cuando agita la posibilidad de un golpe de Estado, algo que considero terrible y tomado a la ligera.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le atribuye la culpa a los tuits de Cristina Fernández de Kirchner, lo que considero peligroso.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ex candidato a vicegobernador por La Libertad Avanza, Javier Milei,  habló de avanzar hacia el estado de sitio, ¿es esto una posibilidad real?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se concluye que la oposición acusa al peronismo de golpismo debido a su mala gestión, la inminente derrota electoral y la pérdida del control de la calle.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2063
+}

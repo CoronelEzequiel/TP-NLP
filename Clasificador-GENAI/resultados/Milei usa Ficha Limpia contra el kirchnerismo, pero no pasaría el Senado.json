@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este pacto tácito entre Milei y Cristina, del que venimos hablando en estas columnas y que tiene capítulos como la designación del juez Lijo en la Corte Suprema de Justicia, se evidencia en la elección del presidente y la líder del PJ a la hora de discutir y repartirse el escenario político.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Se va a acabar esa costumbre de robar\", cantaban algunos diputados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peronismo logró bastante cohesión en la defensa de Cristina Fernández de Kirchner, que también, además, lo acompañó la izquierda.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En reiteradas ocasiones hemos hablado en esta columna de la definición de populismo de Ernesto Laclau, el politólogo argentino que fue decano de una carrera de ciencias políticas en una universidad inglesa, y la definición de populismo que el propio Laclau construía.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo y los libertarios son dos populismos complementarios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4098
+}

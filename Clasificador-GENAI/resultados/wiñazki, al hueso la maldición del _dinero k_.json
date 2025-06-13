@@ -1,0 +1,36 @@
+{
+  "texto_id": "Víctor Fabián Gutiérrez",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.734,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Víctor Fabián Gutiérrez no fue asesinado por Cristina Fernández de Kirchner.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Resulta increíble tener que afirmar esto, pero quienes involucraron a Cristina Fernández de Kirchner en este siniestro caso fueron miembros del oficialismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Víctor Fabián Gutiérrez, quien fue extorsionado y asesinado en busca de parte del supuesto \"tesoro K\" o de la \"ruta del dinero K\", se había enriquecido durante su tiempo en el poder.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El hecho de que la única fiscal en El Calafate sea sobrina de Cristina Fernández de Kirchner, prima hermana de Máximo Kirchner e hija de la gobernadora, perjudica a la familia Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Manzanares cuenta que cuando Muñoz murió, Cristina Fernández de Kirchner dijo: \"Murió Muñoz, qué bueno, uno menos\".",
+      "score": 0.87,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2994
+}

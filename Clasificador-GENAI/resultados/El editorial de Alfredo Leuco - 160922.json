@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "No hay ninguna posibilidad de que el expresidente Mauricio Macri mantenga un encuentro con la expresidenta Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina está desesperada por la condena que se avecina en la causa Vialidad y por su desplome en todas las encuestas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mauricio Macri jamás se va a sentar a dialogar con Cristina Fernández de Kirchner sobre ningún tema, ni ebrio ni dormido.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y Macri representan el día y la noche.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina sembró vientos y ahora cosecha tempestades, y que no cuente con Macri para apagar el fuego.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que Cristina quiere, lo único que quiere, es zafar de ser condenada por megacorrupta.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2066
+}

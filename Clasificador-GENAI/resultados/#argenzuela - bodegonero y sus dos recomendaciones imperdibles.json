@@ -1,0 +1,36 @@
+{
+  "texto_id": "Genizuela",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Está difícil la situación económica, ¿eh?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso les traigo propuestas de platos recontraabundantes y para compartir, ideales para ir en grupo, entre cuatro, cinco, seis o más personas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gastamos, en promedio, 7000 pesos por persona.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este lugar, en el centro porteño, es abundante y se come muy bien por un precio razonable (entre 5000 y 6000 pesos por persona).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son muy buenas opciones, sobre todo en este contexto económico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1587
+}

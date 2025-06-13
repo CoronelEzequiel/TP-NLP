@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.83,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos un gobierno progre y verde. Es verde por el trapo y es verde porque no madura.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un país montonero, un país no binario, un país zurdo, un país en el que te adoctrinan en las escuelas, un país que te agota con la ideología de género, con feministas empobrecedoras, mujeres víctimas dependientes del Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El feminismo en Argentina tiene una obediencia de vida. Es como que no razonan, se convirtió en un dogma.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con la Agenda 2030 ya introducida en las escuelas, tienen que aprenderla de memoria, están adoctrinando a los niños y a los jóvenes para que sean los soldados de su cruzada climática, para que trabajen por sus negocios, presionando a los gobernantes y empresarios díscolos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué estas minas no se dejan de joder con nuestros hijos? Dejen de adoctrinarlos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los varones somos violadores, aunque no todos violamos. Sos un salame, Maratea, un salame.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo les digo algo a estas verdes. Yo me voy a seguir bañando, me voy a seguir depilando las axilas, el cavado, la tira de cola, las piernas. Me voy a lavar el pelo, me voy a perfumar y me voy a poner cremas, chicas. No voy a andar con el talón rajado como ustedes, que es un asco. Báñense. Tenemos un feminismo sin agua y sin jabón.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí la pedofilia me vuelve loca, que lo jodan a los pibitos en el colegio, me vuelve loca. No se metan con nuestros hijos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quieren una doble vara espantosa. Hacen lo que critican. Son un \"oscar\" de manual. Yo creo que a estas feministas, el Estado les secuestró la cabeza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace 27 meses que asumieron Alberto y Cristina. El ahorro ha subido un 260%. La pobreza, al 60%. Los alimentos aumentaron un 350%. Gastaron 600 millones en vuelos privados. Crearon 7 millones de nuevos desocupados. Defienden violadores, sacan violadores de la cárcel. Los encerraron a todos en la cuarentena más larga del mundo. Se robaron las vacunas, el vacunatorio VIP, el 'olivo gay'. Nos mintieron hasta cansarnos. La inflación, por las nubes. Se matan en la calle, se te afanan. Los narcos son los dueños del territorio. Basta, por favor, hagan algo. ¿No podemos más?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6898
+}

@@ -1,0 +1,81 @@
+{
+  "texto_id": "radiomitre",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.857,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Está absolutamente confirmado: Alberto gobierna *Cristina Landia*.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su discurso estuvo plagado de falsedades, eufemismos y el señalamiento de culpables de los problemas, pero nunca de las soluciones.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández dejó en evidencia su debilidad ante la ausencia de los dos dirigentes de mayor confianza de Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue tan agresivo e insistente con su argumento que los legisladores del PRO se levantaron del recinto, empujados por la bronca y la impotencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este cuarto gobierno kirchnerista no ofrece la mano del consenso; siempre golpea con el puño la mesa de la provocación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo más grave, desde el punto de vista institucional, fue su acusación a la Corte Suprema de Justicia de ser cómplices del poder económico.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El periodismo, por supuesto, no podía faltar en los misiles que arrojó Alberto para satisfacción de Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En las definiciones económicas y vinculadas a la Carta de Intención con el Fondo Monetario Internacional, el presidente Fernández insistió en repetir las mismas medidas que han hundido a la Argentina en un pantano y que no le permiten su recuperación.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto disparó un tiro por elevación a Máximo y Wado cuando repitió: \"Es el mejor acuerdo que podíamos conseguir\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habló de terminar con los sótanos de la democracia cuando fue el kirchnerismo quien más utilizó carpetazos y mecanismos extorsivos para apretar a jueces, opositores y periodistas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Kirchner fueron expertos en el uso del espionaje político.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy la búsqueda de impunidad para Cristina los desespera, porque se les acaba el tiempo, y muchos juicios siguen avanzando con pruebas y testimonios concretos sobre la corrupción más grande perpetrada en la historia democrática.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto no dijo nada de su amigo Vladimir Putin y de las relaciones carnales que le ofreció, pero agradeció a China que siempre, dijo, nos apoyó en los momentos difíciles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es menos de lo mismo. No conformó a nadie, ni a Cristina, y eso que gobierna para ella.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2469
+}

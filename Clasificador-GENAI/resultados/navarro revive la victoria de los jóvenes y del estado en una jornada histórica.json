@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En el acto se hablaron de temas que el gobierno ni siquiera comprende, ni sabe para qué sirven: conocimiento, ciencia y desarrollo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, los jóvenes defendieron el salario mínimo, vital y móvil, las jubilaciones y las pensiones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La educación pública es un símbolo fundamental del Estado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pidieron fondos para la educación, desde la primaria hasta la universidad,  para la ciencia, paritarias libres y la recomposición de los ingresos de los jubilados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El campo popular viene de perder una batalla contra la derecha, y el Estado fue el sujeto afectado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer ganaron los jóvenes, y ganó el Estado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1003
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.611,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "De repente, ganó Milei y no se habla nada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando quieren mostrar unidad, es porque se están peleando a trompadas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Villarruel no está con Milei, es el recambio, ¿no?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso venía a hablar hoy de trivialidades.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, será divertido ver la otra parte porque no la contamos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque yo la verdad que cuando ganó Javier, esperaba un gobierno de unión",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es el único país que tiene ego sin tener nada, porque si vos sos Brad Pitt, podés ponerte anteojos negros; si vos sos Charles Chaplin, podés hablar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque lo que hizo no tiene perdón de Dios, y porque además este chacal en la calle es peligroso para cualquiera, porque anda armado y no tiene ningún problema en apretar el gatillo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La duda es lo que nos mata.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3882
+}

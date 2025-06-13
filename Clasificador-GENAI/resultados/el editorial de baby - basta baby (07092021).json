@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.69,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ahora los políticos, todos, yo los veo a todos, en campaña, todos vienen a salvarnos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ya saben, todos prometen \"gar*e\" para todos y todas.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un país tiene gente rica que hay que respetarla, tiene empresarios libres que hay que respetarlos, empresarios que apuestan a la Argentina, que no hay que combatirlos, tiene gente humilde a la que hay que sacar de la humildad, tiene gente marginal a la que inmediatamente hay que sacar de la marginalidad, marginilidad...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente la han destruido los Kirchner en la Argentina.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Voten a los candidatos más recomendables dentro de lo que hay.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2899
+}

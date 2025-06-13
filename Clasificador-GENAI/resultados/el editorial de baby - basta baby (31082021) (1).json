@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.711,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me voy a dar todo, me imponen un muñeco que no quiero, y tengo que esperar a que la víctima que trae la columna se vaya para no encontrarlo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos chicos son tan idiotas que hacen campaña política, les interesa quién gana, no quién gobierna, porque nadie gobierna.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto y su gente no se dan cuenta de que tocamos fondo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La clave es gobernar, ayudarnos a los argentinos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son unos mentirosos, unos embusteros.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nadie se pregunta por qué en Juntos por el Cambio hay muchos peronistas y en el peronismo hay muchos de Juntos por el Cambio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tocamos fondo por el mal gobierno de [Eduardo Fernández].",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No hay trabajo, hay hambre. Lo único real es el hambre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No merecemos algo mejor que estos payasos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2313
+}

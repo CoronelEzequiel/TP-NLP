@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_universidad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este ajuste no tiene precedentes en la historia democrática argentina aplicada a la universidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se analiza numéricamente, solo con lo recaudado por la baja del impuesto a los bienes personales (que pagan los más ricos) y con la eliminación de subsidios a empresas con balances millonarios se podría resolver el problema de las universidades y de los jubilados, otro sector gravemente afectado en este semestre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pareciera que existe una política particular de este gobierno hacia la educación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede decir que no hay dinero para financiar una obra con un 90% de avance y al mismo tiempo bajar el impuesto a los bienes personales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La educación y la salud no son prioridad. Lo único que importa es la economía. La gente no importa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2266
+}

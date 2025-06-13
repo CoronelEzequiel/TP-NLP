@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.087,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Estamos presenciando un duro golpe contra los programas de atención a pacientes con enfermedades que requieren asistencia y cobertura de los programas nacionales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde octubre de 2023 venimos advirtiendo sobre las posibles consecuencias de las políticas del gobierno de Bullrich en materia de salud.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya en 2024, comenzamos el año con la eliminación del acceso a medicamentos para personas oncológicas, lo que provocó muertes por falta de tratamiento.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos viendo un vaciamiento de la cobertura sanitaria.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recortar el 40% de los agentes de un programa lo condena al fracaso y a su posterior eliminación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivo en Acassuso y puedo dar fe de la situación del hospital de San Isidro.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es fundamental que se protejan estos programas, que están en riesgo de desmantelamiento.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les insto a resistir estos recortes del gobierno nacional.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1626
+}

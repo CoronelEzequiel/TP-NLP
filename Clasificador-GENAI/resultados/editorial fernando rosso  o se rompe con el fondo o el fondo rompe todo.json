@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Traduzcamos esto: el FMI elogia el ajuste económico general, y en particular, las medidas implementadas por Sergio Massa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Traducción: el FMI celebra los aumentos de tarifas y los recortes en planes sociales, entre otras medidas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En materia fiscal, el comunicado indica que las autoridades se comprometen a alcanzar un déficit fiscal primario del 1,9% del PBI en 2023.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto implica una regulación y limitación anticipada de la moratoria aprobada recientemente en el Congreso.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En síntesis, se redujo la meta de acumulación de reservas, pero se mantiene el objetivo de un déficit del 1,9% del PBI, profundizando el ajuste.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como se decía entonces: o se rompe con el FMI, o el FMI rompe todo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1675
+}

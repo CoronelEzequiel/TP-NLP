@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.16,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lamentablemente la mafia sigue al mando de este país, incluso después de haber ganado el Mundial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace unas horas, la Corte Suprema resolvió, no sobre la cuestión de fondo, pero sí impuso una medida cautelar que, en resumen, le regala a Horacio Rodríguez Larreta —es decir, al macrismo— entre 70.000 y 150.000 millones de pesos para el año que viene, año electoral.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero aún así, la Corte Suprema decidió hacer un regalo de Navidad a Horacio Rodríguez Larreta.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por un lado, proscribe a Milagro Sala (de hecho, hay un campamento instalado en la Plaza de Mayo reclamando su indulto), y por el otro, le regala a Horacio Rodríguez Larreta miles de millones de pesos para el año electoral.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Verán algunos medios y personas disfrazadas de periodistas festejando esto, y otros seguiremos insistiendo en que la Argentina no solo es injusta en términos personales, sino también en términos regionales.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1820
+}

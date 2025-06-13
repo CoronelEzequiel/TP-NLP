@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.138,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Le estoy pidiendo a los radicales que asuman responsabilidades hoy con el tema de los genocidas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, las estadísticas reflejan que hay 9 millones de argentinos que no pueden cubrir la canasta básica de alimentos (lo que elegantemente se llama “indigencia”), y un 70% de niños en situación de pobreza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo podemos hacer que el principio básico del peronismo y del movimiento nacional –la justicia social– sea una realidad efectiva en la Argentina?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no logramos coagular un proyecto donde la lucha contra la pobreza y la justicia social esté en el centro –y no sea una estrategia de campaña–, nada de lo que hacemos en política tiene sentido.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No podemos tener corruptos, ni ineptos, ni amiguismos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo en la resistencia no violenta, soy gandhiano, y para mí la PAC es un imperativo en la política, no una definición táctica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras exista el gorilismo, estará presente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no están en el tope de las prioridades de los descamisados, eso no es peronismo ni nada que se le parezca.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3084
+}

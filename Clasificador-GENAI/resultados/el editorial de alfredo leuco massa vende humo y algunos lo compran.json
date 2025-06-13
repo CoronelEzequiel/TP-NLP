@@ -1,0 +1,36 @@
+{
+  "texto_id": "Sergio_Massa_es_un_experto_vendedor_de_humo",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Massa es un experimentado vendedor de humo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa tiene un altísimo nivel de imagen negativa, superior a la de otros políticos, y eso ya es mucho decir.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando fui duramente crítico de Alberto Fernández desde el principio, muchos colegas bien intencionados me reclamaban que le diera un tiempo, que le diera un poco de tiempo antes de defenestrarlo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa, igual que Alberto Fernández, se dieron vuelta en el aire y, de ser duros críticos de Cristina y La Cámpora, se pusieron a su servicio, pero dejaron en evidencia que son menos de lo mismo que la reina de la Recoleta.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Massa no tiene autoridad moral para fingir moderación y proponer diálogo cuando es parte de un gobierno agresivo que quiere instalar un nacional populismo autoritario por 20 años.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2177
+}

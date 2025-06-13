@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "¡Muy buenas noches, queridas familias peronistas! ¡Aquí estamos!",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La radio es militante, la radio es, viste, es de la mañana, es la que te carga las pilas, la segunda mañana de la radio es la que te dice, vamos, vamos para adelante, vamos, se acaba de llevar el chico al colegio, vamos que vamos a tener otra oportunidad, otra oportunidad, es esa radio, así que un saludo para todos ellos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En un momento donde el peronismo no es para pasar el peine fino, si pasamos el peine fino no queda nada, estamos en un momento bisagra histórico, donde Norma Rroto y donde Lorenzo Miguel, donde Herminio Iglesias, de Galimberti, son todos, está Tibernés, todos, todos son peronistas y ese es el momento que tenemos que vivir nosotros hoy.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son muchachos malos los de enfrente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pepe Mujica fue a bancar a Dadiebreva.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3494
+}

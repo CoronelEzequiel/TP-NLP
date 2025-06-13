@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.794,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Porque son unos hijos de puta.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo, la verdad, como ciudadano, espero que mañana se junten y reviertan esto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo les dije acá en el canal, en la radio, lo primero que te dicen cuando renovás el contrato es: \"No hay plata\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vienen estos tarados, y perdón por decir tarados, pelotudos... no, tampoco... estos hijos de puta, y votan una ley para cobrar siete millones por mes cuando el argentino promedio gana trescientos mil.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No les cambió nada la elección, siguen gobernando para ellos, siguen siendo la casta de sinvergüenzas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si pueden voltear al gobierno, ellos van a poder volver a robar como era antes con la banda de Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana estos cobran siete millones y nosotros nos olvidamos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiénes se cagan en el hambre del pueblo, quiénes se cagan en los jubilados, quiénes se cagan en el hambre de los pobres.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3072
+}

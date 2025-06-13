@@ -1,0 +1,41 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En la Argentina hay una fractura ideológica y política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri ha sugerido en distintos pronunciamientos, pero sobre todo en aquella primera carta o nota que escribió en el diario La Nación, que al final del camino, después de impugnar todo, Cristina Fernández de Kirchner puede alterar el sistema electoral e ir por un fraude temerosa de perder el poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El clima institucional que se creó en la Argentina, según sobre todo los dirigentes de la oposición de Juntos por el Cambio, hizo que un grupo de consejeros, seis de ellos, aparentemente identificados con la oposición, dijeran: 'No vamos a concederle más a este gobierno, al kirchnerismo, al oficialismo, nuestros votos para lograr en el Consejo de la Magistratura los dos tercios necesarios para elegir a los jueces'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández tiene que elegir uno de estos tres que mencioné. ¿Habrá algún compromiso para que elija a alguien más proclive a Macri? Ahí debe estar mirando Cristina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si uno abre los ojos, o dicho de otra manera, salvo que uno tenga los ojos cerrados, solo con los ojos cerrados se puede pensar que acá no manda Cristina Fernández de Kirchner.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Volvió a demostrar Cristina que manda y volvió a demostrar otra cosa muy interesante en este discurso de la Plata. Volvió a demostrar que su principal problema, lo que ella está mirando, lo que la fastidia, cada vez más, no es la oposición, es el gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6787
+}

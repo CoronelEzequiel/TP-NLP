@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.225,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La verdad, aunque duela como una muela, ojalá que con el tiempo seamos como Venezuela: poca gente rica, mucha gente pobre, como en Chile, donde les sacan el cobre, disfrazando la expoliación como una causa noble.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Soy peronista y, por si no quedó claro, nosotros somos los buenos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo quiero la democracia, no a los señores feudales y sus cuentos de verdades de papel. Yo quiero poder escuchar la otra campana también.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Manda el poderoso, por mejor que uno obre.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 970
+}

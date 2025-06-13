@@ -1,0 +1,31 @@
+{
+  "texto_id": "Visea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En la provincia de Córdoba, hace una semana, no este domingo, el anterior, hubo una votación interna de la Unión Cívica Radical, que es un partido que hace tiempo no aspira a poner un presidente, cuyo último líder partidario nítido fue Raúl Alfonsín, que dejó el poder en el año 89.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo basa su poder político y su poder sobre el PJ en la representatividad del conurbano bonaerense, de los conurbanos en general, pero sobre todo en el arraigo que tiene Cristina Kirchner en medio de los pobres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Derrotemos al Lawfare se llama. Muy interesante, la oposición no sería un partido político, la verdadera oposición no sería, Juntos por el Cambio, es siempre inteligente por parte de una fuerza política ningunear al verdadero opositor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina tiene vacunadas tres personas cada 100 habitantes. Chile tiene vacunadas 22 personas cada 100 habitantes.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5860
+}

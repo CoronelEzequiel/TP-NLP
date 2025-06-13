@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Siempre voto a favor o en contra de los proyectos según mi criterio. Por ejemplo, voté en contra del pedido de juicio político al Presidente, porque creo que primero debe haber una investigación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los hechos no los provocó un vecino marciano, los provocó gente que se infiltró y llegó al Presidente. Esos mismos tipos reconocieron sus actos los domingos. Dijeron: 'Devolvemos el dinero, cometimos un error, un robo, una estafa'.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que hubo ingenuidad, Jorge, mucha ingenuidad. Creo que el Presidente fue ingenuo. Le creo cuando dice que se dejó llevar, que llegaron hasta él y cometió un error.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo es posible que mucha gente que hemos trabajado desde el principio, como Diana Mondino, Ramiro Marra, etc., termine siendo sospechosa, y haya gente que ha cometido horrores y que circula libremente por el Congreso? Hay algo que está mal.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no creo en la inocencia del Presidente. Si es cierto que está involucrado, eso está claro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2348
+}

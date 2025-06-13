@@ -1,0 +1,36 @@
+{
+  "texto_id": "En Defensores de Belgrano",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creemos que la CGT debe definir su metodología de funcionamiento, más allá de las tensiones internas.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La CGT, al menos esa mesa chica que toma las decisiones finales, no acompañó lo que planteamos entonces, y un año y medio después reivindica nuestra postura.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, la líder con más peso en el campo nacional y popular, está proscripta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero saber la orientación conceptual de los candidatos: ¿enfrentarán a esos poderes establecidos, a los fondos de inversión, al FMI?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no es ella, ¿hay otros que ya señalan a sus candidatos?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2080
+}

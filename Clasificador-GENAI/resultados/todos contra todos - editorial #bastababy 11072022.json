@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto es exactamente lo que va a pasar en la Argentina con el Estado elefantiático que tenemos, que consume desproporcionadamente y no da nada a cambio.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un Estado desastroso generado por el kirchnerismo y el peronismo, que mientras la Argentina \"daba\", se compraban votos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está desesperada porque, más allá de los amigos que le perdonan las causas, las investigaciones judiciales avanzan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El país está destruido.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado se agranda y la nación se achica; es al revés de lo que se suele decir (\"achicar el Estado es agrandar la nación\").",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El sábado participé en una marcha.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La marcha fue muy pacífica y con mucha gente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede permitir que los piqueteros corten calles impunemente, pero tampoco que se reprima así una marcha pacífica.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1778
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "Kicillof",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, el gobernador bonaerense, Axel Kicillof, pareció distanciarse de su mentora política, Cristina Fernández de Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después de la gestión de Alberto Fernández, no queda espacio para presidentes delegados. Primero, porque la sociedad no tolera ser gobernada por alguien sin poder, y segundo, porque tampoco lo tolera el encargado de esa tarea.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof, por ejemplo, no tiene denuncias por corrupción y, a diferencia de los dirigentes mencionados, cuenta con una sólida formación académica obtenida en la Universidad Pública.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A diferencia de Javier Milei, quien también tiene formación académica, pero en una universidad privada, las credenciales académicas de Kicillof son superiores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1518
+}

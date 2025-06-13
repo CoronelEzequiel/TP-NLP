@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.094,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Acabamos de concluir un acto importante: 500 días sin obra pública nacional, encabezado por el gobernador [Nombre del Gobernador] y el ministro de Infraestructura, Gabriel Catoppo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dos años sin inversión significan destrucción de empleo: más de 100.000 puestos de trabajo en la construcción perdidos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es fundamental entender que la paralización de la obra pública tiene un costo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina necesita aunar capacidad productiva, inversión en infraestructura y conocimiento.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta es la palanca que necesita Argentina para avanzar en un mundo complejo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos intendentes presentes hoy tienen obras inconclusas, auténticos \"elefantes blancos\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que dejar claro que la paralización de la obra pública no es gratuita. El plan de [Nombre de la Ley] y el del FMI no contemplan obra pública para Argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero dejar en claro qué está bien y qué está mal: no está bien que la obra pública esté frenada, ni que se recurra a la especulación financiera, ni que nos endeudemos en 23.000 millones de dólares.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1575
+}

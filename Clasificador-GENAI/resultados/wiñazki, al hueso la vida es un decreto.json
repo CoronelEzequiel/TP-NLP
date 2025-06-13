@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Siempre sucede que un gobierno, para ejercer su poder, se rige por el Boletín Oficial, donde se publican las resoluciones administrativas y los decretos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El decreto establece: \"Quedan prohibidas las siguientes actividades: la realización de eventos culturales, recreativos y religiosos en espacios públicos o privados con concurrencia de más de diez personas\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como señalan diversos expertos, incluyendo a [Nombre del experto], ¿por qué este decreto prohíbe algo que ocurre dentro de los hogares de todos los argentinos?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de 137 días de confinamiento, la sociedad merece explicaciones claras sobre lo que está sucediendo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las autoridades son poco claras respecto a lo que se puede hacer y se inmiscuyen en nuestras casas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La sociedad está destrozada, según los índices económicos y sociales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora se amenaza con cárcel por un evento familiar prohibido, que ni siquiera se entiende bien.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2188
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La política actual es Titanes en el Ring.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vemos lo que contesta la primera dama, vemos lo que contesta la viajante en avión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto, señoras y señores, es la política argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo es una mentira, es Titanes de Senerrid, se van prestando el poder mientras nosotros se nos va la vida, hasta que nos cagamos muriendo como nuestros jubilados que no cobran una moneda, y desde que miraba Titanes de Senerrid que está esperando que gane lo bueno, y encima los jubilados no quieren cobrar más plata porque quieren ser los buenos de la película, a ver si alguna vez ganan, pero pierden siempre.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, la pelea de fondo, dentro de dos años, Cristina, Alberto, contra quien venga y quien venga, seguramente alguno de los dos gana, pero todo el país pierde.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2746
+}

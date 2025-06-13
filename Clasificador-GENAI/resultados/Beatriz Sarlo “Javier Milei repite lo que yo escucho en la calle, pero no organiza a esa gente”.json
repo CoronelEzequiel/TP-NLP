@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.543,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los argentinos definimos ese país casi a lo largo del siglo XX como una extensión diferenciada del resto de América Latina, que se diferenciaba por la alfabetización, por una sociedad organizada, por un tipo de trabajo, de oferta de trabajo y de necesidad de trabajo que tuviera que ver con la tecnología.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese modelo fue el modelo exitoso que puso a la Argentina entre los más alfabetizados del mundo, ¿no?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay unas señoritas bien vestidas que van recorriendo columnas, yo las he visto, no me lo contaron, donde se toman listas de los jefes de manzana, de las jefas, en general, de las jefas de manzana, para ver si han traído aquello que tienen que traer.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, un líder como Javier Milei repite lo que yo escucho por la calle: '¿Y los políticos? Son todos iguales, todos quieren cenarse, a mí no me dan nada'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich, bueno, por fin la derecha argentina tiene una dirigente mujer.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si fuera segunda vuelta, Javier Milei contra cualquier otro, ¿a quién votaría? No iría a votar. He votado en blanco decenas de veces en mi vida.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si tuviera que elegir un presidente de futuro, tendría que tener un programa económico industrialista y distribucionista fuerte, para lo cual tendría que ser muy valiente, porque tendría que cobrar bien los impuestos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8404
+}

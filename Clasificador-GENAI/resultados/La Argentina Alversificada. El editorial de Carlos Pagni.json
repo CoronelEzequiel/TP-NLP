@@ -1,0 +1,51 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.512,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo de Juan Zabaleta en Desarrollo Social no es ninguna novedad, es la confirmación de lo que sabíamos. Era el intendente de Hurlingham, renuncia a esa intendencia para hacerse cargo de un área que hoy está en el centro de las preocupaciones del gobierno y, sobre todo, en el centro de las preocupaciones de Cristina, que tiene, como ya demostró muchas veces, una enorme sensibilidad para saber lo que pasa en el conurbano y para conseguir el voto en el conurbano.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy leía un informe que preparan Martín Rapetti y Diego Bosisio en la consultora de Equilibra que dicen que la inflación podría llegar a bajar en los próximos meses del 3%. Aun así, es muy alta. En el mejor de los casos, va a haber una inflación cercana al 40% en el mejor de los casos, y eso activa mucho el problema de la pobreza y la inquietud de los pobres.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El lunes pasado nosotros comentamos una frase que para mí es muy importante, muy importante, no sólo desde el punto de vista de estas internas, sino desde el punto de vista conceptual de Andrés \"Cuervo\" Larroque, del \"Cuervo\" Larroque, que es el ministro de Acción Social de la provincia, diciendo: \"Los planes se tienen que acabar en algún momento; el triunfo de una política social es que no haya planes y, además, es aberrante que los movimientos sociales sean los que asignan los planes, los que nos dicen a quién se le debe dar y a quién no\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Taiana es visto por un militar retirado como un montonero. Una provocación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto toma a Cafiero como el emblema de su autonomía frente a Cristina, frente a la Cámpora, frente al kirchnerismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy dijo: \"Internet va a ser un servicio público\", en Tecnópolis, sí. En Tecnópolis. Primer problema, ya es un servicio público, hay un decreto de necesidad de urgencia que firmó Alberto Fernández que establece que Internet es un servicio público.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el capitalismo reformado de Alberto Fernández. En un contexto, como te digo, donde el gobierno parece un poco encapsulado respecto de Cristina, respecto de La Cámpora, respecto de actores políticos relevantes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hacer esto es abrir un espacio enorme a la antipolítica, al discurso de los Milei.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9169
+}

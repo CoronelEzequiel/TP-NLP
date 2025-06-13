@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.336,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es realmente preocupante la aparición justo el día de ayer de Cecilia Pando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella habla de los militares que estuvieron presos, que están presos por cometer delitos de lesa humanidad, no en gobiernos constitucionales, sino en dictaduras cívico-militares que para imponer un plan económico tuvieron que instaurar el terror.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que estalle, digamos, la economía, sí, que estalle, y que se lleve puesta a toda la casta política repugnante, asquerosa que tenemos, que vive robándonos el futuro.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hoy les contestó Sergio Massa a Bullrich, pero entiendo que también a Milei porque están en la misma.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei y Bullrich: \"Que estalle, que explote, que se vaya toda la mierda\", esa es su propuesta para ganar el balotaje.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Del otro lado, un gobierno que ha tenido un montón de defectos, que ha sido imperfecto, que ha dejado cosas por hacer, pero que tiene en la cabeza que el país no explote, que tiene en la cabeza un país productivo, que apunta al mercado interno, que desarrolle los hidrocarburos, que siga exportando, que balancee las exportaciones para que no dependamos solamente del sector agropecuario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un montón de intelectuales que no son peronistas, que no adhieren a este gobierno, pero hoy sacaron un texto muy valiente que habla de un cordón democrático, de poner un cordón democrático.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2495
+}

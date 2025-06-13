@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.678,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Fue una verdadera catástrofe electoral, porque la oposición radical, socialista y del PRO le sacó alrededor de 40 puntos de diferencia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los grandes responsables de semejante derrota fueron Cristina Fernández de Kirchner, Alberto Fernández, Sergio Massa y Máximo Kirchner a nivel nacional, básicamente porque son los responsables de un gobierno que multiplicó la inflación, la pobreza, la huida de las grandes empresas y porque maltrató al campo, como es su costumbre, y ese desastre impacta en todo el mapa del país.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gran ganador, obviamente, fue Maximiliano Pullaro con una victoria aplastante frente al peronismo y con un amplio triunfo frente a su competidora interna, Carolina Losada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si abrimos el foco, aparece un panorama general muy favorable para Juntos por el Cambio.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La democracia solo se mejora con más democracia, no ir a votar es apoyar indirectamente lo que estamos viviendo y sufriendo, es como si estuvieran conformes con lo que pasa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Santa Fe es un ejemplo de lo que se puede cambiar y la única forma democrática de hacerlo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La hecatombe peronista es un hito histórico y lo hicieron los ciudadanos yendo a votar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El próximo presidente, cualquiera sea, no tendrá mayoría en el Senado de la Nación y eso obligará a la búsqueda de consensos para aprobar las leyes y las reformas profundas que se necesitan.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la Cámara de Diputados sí parece conformarse una relación de fuerzas favorable a la actual oposición y tal vez al futuro gobierno de Juntos por el Cambio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2299
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Funcionarios del gobierno fueron \"guillotinados\" por expresar opiniones diferentes a las del gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno silencia a todos hasta que solo se escuche su voz, imponiendo el silencio por miedo, costumbre o complicidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el presidente estafa a sus votantes, todos perdemos, tanto quienes lo apoyamos como quienes no.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La estafa de la criptomoneda es un escándalo mundial. El endeudamiento del gobierno es una estafa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si este gobierno prometió libertad y nos censura, es la mayor estafa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1530
+}

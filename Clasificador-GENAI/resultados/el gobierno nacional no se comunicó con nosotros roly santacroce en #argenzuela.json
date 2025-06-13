@@ -1,0 +1,31 @@
+{
+  "texto_id": "dialogo_tormenta",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.312,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"El Estado está presente, ¿viste?, a diferencia de otras ocasiones. El Estado nacional… olvídalo. Lo de internet lo estamos solucionando. El gobernador de la provincia también está presente.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Sí, la verdad es que… esto lo ha provocado el ser humano. No, es por eso que digo… están generando las consecuencias. Exactamente. Los que niegan el cambio climático, aquí lo tienen.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Hemos hecho un pequeño recorrido; nadie vio venir esto. Duró minutos y reventó todo. El Estado de Funes está presente. A diferencia de otros, el intendente Roli, como Guillermo, viven aquí. No es como alguien que vive en Olivos y a quien no le importa lo que pase en Funes. Acá está el Estado protegiendo a la gente; este es el Estado que necesitamos.\"",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Muy triste, muy triste. No tiene precedentes; una catástrofe natural sin igual en la historia. Una violencia del agua… parece Mendoza en agosto. Cayó granizo; tenemos entre medio metro y un metro de granizo acumulado. La violencia del agua y del viento fue extrema; el techo de la municipalidad se derrumbó sobre la calle.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2061
+}

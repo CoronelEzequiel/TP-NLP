@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay algo que distingue al juzgado federal, sobre todo el de Goya, pero en general a la justicia federal: el hermetismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que la hipótesis principal es que se trató de un accidente, y que luego intentaron deshacerse del cuerpo de Loan.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto lo digo en beneficio de la defensa y de mi convencimiento de la inocencia de mis defendidos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si se confirma esta versión –vuelvo a repetir, es una versión–, es lo que me preocupa.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo –leí el dictamen del fiscal federal, el Dr. Mariano de Guzmán, pero se me bloqueó y creo que no alcancé a imprimirlo– que está dejando abierta la posibilidad de devolverlo a la justicia provincial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3410
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "La Cámpora: el ascenso al poder y el desafío de la gestión",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esto me lleva a enumerar los puestos de poder que La Cámpora ocupa, demostrando que su influencia ya es significativa,  incluso sin que Máximo Kirchner haya llegado a la presidencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Cámpora controla, sin lugar a dudas, YPF, la empresa energética más importante del país, un sector clave y problemático en Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su presencia en áreas estratégicas como energía, pagos de jubilaciones, salud (a través del PAMI), Ministerio del Interior, y la influencia en la Cámara de Diputados (con Máximo Kirchner y aliados) es innegable.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si bien el presidente Alberto Fernández parece considerar que la gestión es efectiva, existe cierta resistencia dentro del gobierno hacia La Cámpora, vista por algunos como una especie de \"guardia pretoriana\" de Cristina Kirchner.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En definitiva, La Cámpora ha alcanzado el poder, pero debe demostrar su capacidad de gestión transparente y eficaz, evitando la politización de las áreas que controla.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1566
+}

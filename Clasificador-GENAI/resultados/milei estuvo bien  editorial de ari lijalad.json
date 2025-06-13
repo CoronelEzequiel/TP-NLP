@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.144,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es necesario aumentar los sueldos, y esto debe aplicarse a todos los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy convencido de que los funcionarios públicos deben percibir salarios adecuados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considero que centrar el debate en la reducción salarial solo refuerza la idea errónea de que el problema de Argentina reside en los altos sueldos de los funcionarios.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para que el Estado pueda intervenir en la desigualdad entre trabajadores y grandes corporaciones, necesitamos un Estado fuerte con funcionarios que perciban sueldos dignos y puedan combatir dicha inequidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repito que considero la discusión sobre los sueldos de los funcionarios relevante y válida, pero lo que realmente salva vidas en este país es la generación de empleo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos volver a asistir al Ministerio de Desarrollo Social y difundir los casos de familias a las que este gobierno les ha negado tratamiento médico, condenándolas a la muerte.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considero que apoyar la idea de que los funcionarios no deben ganar bien es abonar a la antipolítica y a la idea de un Estado mínimo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se trata del aumento salarial, sino de la caída de las distintas ramas de la industria: manufacturera (maquinaria, tecnología, madera, metales, ropa, autos, alimentos), construcción (21% de caída general, 61% en acero, caída en cemento, Portland, madera y cal), ventas minoristas (30% de caída), producción industrial PYME (30% de caída según CAME e INDEC).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos insistir en los casos de vida o muerte que este gobierno puede revertir.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2255
+}

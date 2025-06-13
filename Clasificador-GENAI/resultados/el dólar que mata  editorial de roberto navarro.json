@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.275,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei mantiene su popularidad por una razón fundamental que eclipsa otras cuestiones: la baja, rápida y contundente de la inflación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta baja de la inflación se debe a dos factores principales: la caída del consumo y la baja del precio del dólar.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Es posible afrontar una elección con una caída del consumo del 23%? Es poco probable.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, esta situación no es sostenible a largo plazo: un gobierno no puede mantenerse cuatro años basándose en una recesión del 23%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto indica que el dólar está barato, una situación similar a la de los últimos años del gobierno de Carlos Menem.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, la baja del dólar bajo Menem terminó con una recesión de cinco años (tres de su gestión y dos de la de Fernando de la Rúa).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A diferencia de Menem, que vendió empresas para obtener dólares, Argentina cuenta hoy con un gran ingreso de divisas sostenibles a largo plazo gracias a las exportaciones de hidrocarburos (petróleo y gas), minerales (litio, cobre, etc.) y productos agropecuarios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En resumen, la popularidad de Milei se basa en la baja de la inflación, lograda mediante una recesión y un dólar bajo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación, sin embargo, es insostenible a largo plazo y podría provocar una precarización social significativa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La aparente bonanza económica podría ocultar un futuro complejo y de alto riesgo social.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1566
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.586,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El dólar venía planchado, todo bien.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A Macri se le escaparon los precios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno no va a devaluar, porque si este gobierno devalúa, se acaba el gobierno.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 55% de la gente usó ahorros para pagar gastos del presupuesto cotidiano.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La esperanza es dólar estable y la inflación a la baja, muchachos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto no es la pelea Villarruel-Milei, que es divertida, decorativa. Este es el tema central de la Argentina hoy, que el gobierno cumpla con su principal promesa de campaña, que es destruir la inflación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente votó a Milei y yo te diría por tres grandes cosas. Primero, hartazgo con lo mismo de siempre. Segundo, recuperar el orden en la calle con Bullrich. Y tercero, esto, terminar con este cáncer maldito que es la inflación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3481
+}

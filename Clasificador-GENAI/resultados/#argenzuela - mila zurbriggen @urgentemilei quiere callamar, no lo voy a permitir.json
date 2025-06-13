@@ -1,0 +1,71 @@
+{
+  "texto_id": "Milagros_Mila",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.317,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Explicó que las mujeres con una fuerte presencia en redes sociales, que muestran mucho su cuerpo, obtenían posiciones relevantes dentro del partido, a pesar de la falta de mérito.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mila afirmó que no es la única persona que ha observado esta situación. Otros jóvenes también han denunciado el ofrecimiento de dinero a cambio de silencio, aunque aclaró que no provenía directamente de los líderes del frente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Describió un clima de amenazas e intentos de silenciamiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mila rechazó las acusaciones de Javier, enfatizando que su denuncia no buscaba un beneficio personal. Explicó que la falta de democracia interna, la ausencia de diálogo y la falta de espacios para la participación juvenil la llevaron a hablar públicamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Confirmó que varias mujeres con posiciones de poder dentro del frente utilizaban plataformas como OnlyFans, y que una de ellas ocupaba un cargo de asesora en la legislatura.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mila aclaró que no juzgaba las decisiones personales de estas mujeres, sino el nepotismo y la falta de mérito que permitía que accedieran a esos cargos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Destacó la existencia de muchos jóvenes preparados que no recibían las mismas oportunidades.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mila negó haber recibido dinero o beneficios personales del frente, explicando que la financiación de sus actividades provenía de la colaboración de simpatizantes y de sus propios recursos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Respondió a los rumores de que recaudaba fondos para uso personal, explicando que todas las recaudaciones se utilizaban para las actividades del frente, aunque admitió que la gestión de fondos era poco transparente y que no había un control adecuado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "También se refirió a la falta de diálogo con Javier y la imposibilidad de llegar a él para discutir las irregularidades.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por último, Mila mencionó las amenazas y campañas de desprestigio en redes sociales dirigidas contra ella, incluyendo el uso de granjas de trolls para manipular la opinión pública.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A pesar de ello, se mostró decidida a continuar su militancia, independientemente del frente político.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1718
+}

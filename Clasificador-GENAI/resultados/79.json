@@ -1,0 +1,51 @@
+{
+  "texto_id": "Juan Pablo Quinteros",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.306,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La policía detiene a delincuentes, no a personas por sus preferencias políticas.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi misión es combatir la delincuencia y los incendios, y no quiero formar parte de este debate político.",
+      "score": 0.25,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos ser prudentes al difundir información, evitando la propagación de noticias falsas (\"fake news\") en audios y redes sociales.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "He hablado con el Fiscal General, y confirmó que esta versión errónea está circulando a nivel nacional.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobernador [nombre del gobernador] ha sido muy claro: hay presupuesto ilimitado para combatir los incendios, y se destinaron 5.000 millones de pesos para la remediación de daños.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trabajamos mancomunadamente con el Sistema Nacional de Manejo del Fuego.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La visita presidencial fue confirmada el martes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No puedo explicar por qué no bajó a saludar a los brigadistas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1597
+}

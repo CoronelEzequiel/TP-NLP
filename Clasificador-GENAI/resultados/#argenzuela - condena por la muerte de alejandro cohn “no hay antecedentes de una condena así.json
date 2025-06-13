@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.178,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es una condena realmente ejemplar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es inaceptable que una causa tenga que esperar nueve años para que se tome alguna medida, ya sea en el sistema judicial o en el hospital público del municipio de San Isidro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante esos nueve años, nunca se despidió a nadie, ni se hizo ningún comunicado, ni sumario, ni se tomaron medidas.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más, lo que hicieron fue encubrir el caso: robaron los libros de guardia, falsificaron libros de enfermería, robaron la tomografía y la radiografía, intentando manipular la justicia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que decirlo: si bien algunos pueden pensar que la sentencia es leve, se logró algo inédito y difícil: romper la sociedad del secreto y el encubrimiento entre los médicos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el municipio, Gustavo Posse [se corrige la ortografía del apellido], intentó minimizar el caso alegando que fue un accidente de tránsito, que murió en otro hospital, o que la ambulancia tuvo un accidente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "San Isidro era un feudo, con Gustavo Posse en el poder durante 44 años, operando sobre la justicia, la salud y la iglesia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con esta sentencia, ese feudo de impunidad termina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo veo como el comienzo de algo, una primera instancia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1664
+}

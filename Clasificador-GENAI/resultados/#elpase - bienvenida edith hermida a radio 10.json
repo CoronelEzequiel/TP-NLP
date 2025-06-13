@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta idea del sacrificio… Creo que estamos en un cambio de época; me gustan las cosas que están pasando.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la Radio 10 la han querido matar, pero no muere; cada vez es más potente. Está arriba, en la Fórmula 1, imparable. Nadie nos para, aunque intenten detenernos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta oportunidad surgió, y me sorprendió. No te digo que la había pedido, pero me encantaría estar aquí. Visualizar, ¿verdad?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entre Jorge Rial y Edith Hermida, podemos discutir muchos temas, pero en uno estamos de acuerdo: la gaseosa es Cunnington.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La conversación continúa, abordando aspectos como la sanación que le ha aportado la radio a Edith, su experiencia en radio y televisión, la renovación de equipos en Radio 10, la colaboración con Alejandra Quevedo y el Gringo Singolani, y los desafíos de la radio actual, incluyendo las redes sociales y la evolución en la forma de comunicar y entretener.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1919
+}

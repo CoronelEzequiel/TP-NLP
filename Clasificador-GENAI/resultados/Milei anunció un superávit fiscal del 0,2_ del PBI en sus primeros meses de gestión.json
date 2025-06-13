@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente reconoció que estamos frente a una dura situación, pero, sin embargo, dijo que ya recorrimos la mitad del camino, lo que llevaría a pensar que, si pasaron cuatro meses y si hicimos la mitad del camino, quedarían cuatro meses más.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei, por primera vez, no traslada el costo del ajuste a toda la población argentina, sino solamente a aquellos que fueron beneficiados por el modelo empobrecedor del pasado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado no gasta más de lo que recauda y no recurre a la emisión, no hay inflación, no es magia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya los argentinos han decidido abandonar la esclavitud, como la esclavitud del pueblo judío con los egipcios, y emprender el largo camino por el desierto hacia la tierra prometida.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero cerrar estas palabras destacando la enorme tarea que está llevando adelante nuestro equipo económico liderado por Luis Caputo y Santiago Bausili, que, teniendo todo en contra, decidieron poner el pecho para intentar sacar este país adelante, motivados únicamente por el patriotismo de saber que las decisiones las toman los que dicen presente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4598
+}

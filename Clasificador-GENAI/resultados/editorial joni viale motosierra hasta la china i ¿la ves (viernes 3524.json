@@ -1,0 +1,146 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.596,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Estoy cansado de los fallutos, porque **penan todo**.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo se mostró indignado con una frase que dijo la canciller **Mondino**: \"¿Lo viste? Que los chinos son todos iguales\", dijo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, le responde **Grabois** en Twitter: \"Ni el dinero, las perlas y el perfume francés, ni las credenciales, títulos y cargos, nada puede borrar la ignorancia de un racista\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo tengo una pregunta, Grabois, vení.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primer presidente boliviano que se parece a los bolivianos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No recuerdo, Juan, que le hayas pedido la renuncia y te hayas puesto así tan correcto cuando Alberto dijo esa **pelotudez**.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Le pidieron la renuncia a **Cristina Kirchner** cuando dijo que estaba sorprendida porque se encontró un rubiecito en un comedor?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y entonces, me pareció raro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Digo: \"Vos también sos de los que piensan que los negros son los pobres y los rubios no\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Le pidieron la renuncia a Cristina por decir eso?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Claro, pero los chinos son todos iguales, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Vos te das cuenta lo hipócritas que son?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Teníamos un candidato a presidente que **falsificaba** su tonada, a ver, lo falluto que es, para quedar bien con los chaqueños, con los formoseños, adaptaba su lengua.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, contame qué hiciste, ¿por qué le pegaste a la gente?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se indignan cuando les conviene, son unos fallutos, son unos fallutos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tweet de la **condenada** Cristina, perdón, en 2015, desde China, desde China, mira esto, eso lo escribió Cristina, no es joda: \"Más de mil asistentes al evento estaban en China, serán todos de la campola\", pone Cristina, la campola.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No tienen ninguna autoridad moral para hablar de racismo, discriminación o xenofobia, ninguna, ninguna.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, ¿a quién proponen como canciller?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, ¿por qué pierden el tiempo en estas pavadas?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y le preguntaron por tercera vez en una semana por los perros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que es para joderlo a Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mejor hablar de Mondino.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso es mejor hablar de Conan, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ex gobernador **Zapata**, tres registros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El actual ministro, **Martín Soria**, designó a su cuñada, **Emir Ceahielo**, como interventora de un registro neuquino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mejor hablar de Conan, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo quiero que esa motosierra la **delinca**, la que busca y penetra los curros, la de la vacuna, la de la vacuna, la de la vacuna, la de la vacuna, la de la vacuna, la de la vacuna, la de la vacuna.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 7420
+}

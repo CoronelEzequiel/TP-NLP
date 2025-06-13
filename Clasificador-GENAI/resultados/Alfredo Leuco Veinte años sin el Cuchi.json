@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.311,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Repudio estomacal y desprecio por la degradación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya renunció Juan Ameri, el abusador, acosador sexual de menores, barra brava y dirigente del kirchnerismo salteño.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y pensé en homenajear a un salteño que nos enorgullece: Gustavo \"Cuchi\" Leguizamón.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue el que provocaba a los conservadores de toda laya con su filosa ironía.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas son cosas del pueblo, de los que no tienen nada, esos que no tienen, no se hacen millones, tienen la Casa Rosada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Supo cantar en los coros universitarios, ser un profesor muy querido por sus alumnos, por su forma campechana de enseñar historia o filosofía, un abogado penalista de los pobres y ausentes, un músico capaz de disfrutar de Los Fronterizos, de Vinicius de Moraes o de Bach y Beethoven, a quien llamó, con toda justicia, \"el músico definitivo\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se pasó la vida desafiando lo previsible.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay cosa como la muerte para mejorar a la gente\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo quiero convocarlos porque, al igual que la Pomeña, yo sé que viene en un caballo blanco.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3059
+}

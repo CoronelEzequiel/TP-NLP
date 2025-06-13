@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.111,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Las medidas del Gobierno Nacional claramente no colaboran con la economía de los argentinos, ni de los bonaerenses, ni de los marchiquitenses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros venimos haciendo un trabajo durante todo el año, te diría, contracíclico, para paliar esas medidas del Gobierno Nacional y poder garantizar para nuestra gente, para nuestros vecinos y vecinas que esperan, como bien decías, todo el año la temporada estival, que pueda ser una temporada lo menos imposible posible.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, sí, sumado a una macroeconomía que orienta hacia eso, que concentra los ingresos, que transfiere ingresos a los que más tienen y a los que menos tienen, sumado a eso, a una política turística que incentiva a salir del país en vez de promocionar nuestro destino turístico, me parece que no colabora, claramente.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El diálogo es inexistente, no solo con la Secretaría de Turismo, sino con la Secretaría de la Obra Pública, con la Secretaría de Educación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para nosotros la obra pública que paró el Gobierno Nacional en Mar Chiquita son tres escuelas, entre ellas una escuela técnica, una maternidad, un jardín maternal o centro de desarrollo infantil, 137 viviendas, el programa Casa Propia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con un Estado Nacional que se corre de sus obligaciones constitucionales, nosotros tenemos que tomar la posta igual, usando la creatividad, buscando recursos, creando recursos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no está el Estado presente, no hay nadie que brinde servicios de salud.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El intendente no puede laburar solo, necesita de la mancomunión del trabajo de la provincia y a nivel nacional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, si no existe un alineamiento de una política clara, es muy difícil poder después llevar adelante las obras que uno necesita hacer para que la gente tenga una mejor calidad de vida, porque no estamos hablando de ninguna... Esto no es casta, muchachos, no es casta.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4555
+}

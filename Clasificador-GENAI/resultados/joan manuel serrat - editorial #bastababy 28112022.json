@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.579,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, en la radio, hablaba de la incultura en Argentina, algo que no se puede disimular con dinero ni con cárceles para los políticos que tanto daño le hicieron a nuestra cultura.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Perdónenme si ahora voy a criticar al gobierno, a esos políticos rústicos, ordinarios y corruptos que aparecen en las tapas de las revistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me di cuenta de que yo era muy comunista, pero me volví antiperonista por la corrupción y la delincuencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Puedo asegurar que si hubiera mencionado a Bonafini, me hubiera levantado e ido del teatro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Salí del estadio sintiéndome más comunista que nunca, y al subir al auto me di cuenta de que los que nos gobiernan no son ni socialistas ni comunistas, son delincuentes y sinvergüenzas.",
+      "score": 0.6333333333333333,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si vale la comparación, un socialista con tanto talento jamás volvería a hablar de Hebe de Bonafini, una figura tan polémica y cuestionada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me inspiró, y le decía a mi mujer: “Por él amé a Miguel Hernández, por él amé a Machado, por él leí a Whitman, por él toqué unos acordes de guitarra que, aunque sean con tres tonos, me permitieron ser él por un momento, cuando quería escuchar la soledad de sus letras”.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de todo esto, uno se siente más arriba.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2609
+}

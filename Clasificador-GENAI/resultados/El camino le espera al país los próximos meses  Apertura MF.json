@@ -1,0 +1,31 @@
+{
+  "texto_id": "El_largo_y_sinuoso_camino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El Fondo Monetario Internacional (FMI).",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ruptura con los países del mundo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La deuda en pesos. La deuda en dólares.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La reforma de bienes personales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 668
+}

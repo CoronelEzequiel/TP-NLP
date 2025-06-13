@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.056,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Algunas, provenientes de sectores de derecha, proponen, en mi opinión, un ataque frontal a la legislación laboral.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otras, provenientes del campo popular, abogan por la reducción de la jornada laboral.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A pesar de nuestras medidas, la empresa sigue intentando modificar la convención colectiva de trabajo, buscando aumentar la productividad a costa del esfuerzo de los trabajadores.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En vez de la reducción de jornada, se trabaja seis días y se descansan dos, con alta productividad.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno permite el ingreso de cubiertas importadas por la necesidad de cubrir deudas, pero eso afecta a los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este momento de alta pobreza, incluso entre los trabajadores en blanco, nuestra posición debe ser de reclamo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos representar a los trabajadores, y no podemos estar unidos a gobiernos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El paro tiene poca incidencia porque la empresa gana más dinero vendiendo a 500 pesos lo que le cuesta 200.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1894
+}

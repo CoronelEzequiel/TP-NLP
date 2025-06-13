@@ -1,0 +1,41 @@
+{
+  "texto_id": "El discurso",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El discurso, dirigido al pueblo de Buenos Aires, critica duramente a Cristina Fernández de Kirchner y Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se cuestiona la falta de apoyo al pueblo, la corrupción y la manipulación política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se manifiesta un profundo hartazgo por la situación política y un deseo de cambio.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se critica la inacción de los sindicatos y el peronismo ante la crisis.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El orador niega la posibilidad de un golpe de Estado, afirmando que el rechazo al gobierno es orgánico y que el cambio vendrá a través del voto en las próximas elecciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalmente, el orador enfatiza su deseo de un cambio político,  alejado de la corrupción y con un enfoque en el progreso económico del país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 955
+}

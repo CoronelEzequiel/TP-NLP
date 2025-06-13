@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Quiroga ha demostrado, nuevamente, ser el máximo exponente de la libertad a nivel mundial.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos delirios de grandeza lo llevan a viajar por el mundo, viajes que pagamos nosotros, creándonos problemas internacionales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Qué bueno, eso nos asegurará mucho liberalismo por mucho tiempo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei vuelve del viaje sin lograr nada. En casi seis meses no ha sacado una ley. Prometió dolarizar, pero no lo hizo. Prometió cerrar el Banco Central, pero no lo cerró ni lo independizó.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La masa salarial cae por el desempleo. Por lo tanto, seguiremos en depresión económica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1436
+}

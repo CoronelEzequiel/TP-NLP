@@ -1,0 +1,76 @@
+{
+  "texto_id": "tuto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.558,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Otros sectores empresariales empiezan a visualizar cierto rebote de crecimiento, aunque lejos de la famosa “becorta” que previó Xavier Milnes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y tiene que ver con aquellos sectores que van a ser beneficiados por el Régimen de Incentivos a las Grandes Inversiones (RIGI) y son las inversiones de alto volumen en todo lo que signifique extractivismo de materias primas, energía y minería.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina tiene una contradicción profunda en su estructura socioeconómica.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El modelo kirchnerista se basó en un boom de los precios de las materias primas que le dio suficiente caja y vía retenciones para poder subvencionar a la parte de la industria, los salarios, los servicios, pisando las tarifas de los servicios, de los transportes con subsidios y, además, el kirchnerismo amplió e institucionalizó un conjunto de subsidios a los sectores de la economía informal.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El modelo menemista, por el contrario, se basó en la estabilidad macroeconómica basada en una pared cambiaria que, a su vez, se sostenía con el endeudamiento externo.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Cuál es el modelo de Milei? Es el desarrollo de la industria, de la minería, de la exportación del petróleo y del gas no convencional de Vaca Muerta, que podría servir para traccionar el conjunto de la economía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei fue recibido hoy en Loma Campana, el principal yacimiento productor de petróleo de Vaca Muerta.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El desarrollo de Vaca Muerta es un ejemplo de la potencia de la iniciativa privada en Argentina.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Independientemente de lo prometedor que resulte el modelo económico extractivista de recursos naturales del gobierno, es obvio que hay sectores de la economía que viven en otra Argentina y los números económicos de la industria en general, de la construcción y, en particular, la caída dramática de los sectores que dependen de los servicios y del consumo en general, contrasta con, al mismo tiempo, el crecimiento de los sectores relacionados con la minería, con la energía y los sectores agroexportadores.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El pensamiento libertario tiene cierta desconfianza respecto a la democracia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso nos planteamos un país y dos velocidades.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pobreza, la indigencia aumentaron en la Argentina y, en Milei, su ajuste y su \"motosierra\" viene pasando sin demasiada resistencia por parte de la sociedad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Una velocidad de aquellos sectores exportadores de energía, de minerales, de recursos naturales en su conjunto, del complejo agroexportador, y otro país en una velocidad mucho más lenta que tiene que ver con la industria y los servicios.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5263
+}

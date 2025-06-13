@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esto es exactamente lo que está haciendo el kirchnerismo con Javier Milei.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Mis felicitaciones para el gobernador de La Rioja, Ricardo Quintela!",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo, la izquierda, tiene tiempo, sería hasta junio, para voltear a Milei, hasta junio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si esto sale bien, el país arranca y si el país arranca, el kirchnerismo entra en crisis.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La sociedad argentina ya no se deja correr por estos golpistas del PJ.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un comerciante, carnicero, laburante, se levanta a las 4, dijo peleador, está fundido, está roto, pero aún así, qué bueno que vino el DIPI para hablar de esto, porque aún así le pide al gobierno que siga peleando.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo reventó el sistema de valores en la Argentina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo no va a dejar que se corten estos curros, por eso Juan Grabois y esta barbaridad, esta salvajada hoy, mira, el presidente dentro de 3 años y medio, ponele, no querés ser antes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nosotros no soportamos el choreo, nosotros no soportamos a los ladrones y... y pa, les voy a contar alguna de las cosas que pasaban cuando yo era diputado que era criticado por los medios de comunicación y justamente, obviamente, yo digamos siempre votaba en general y cuando se votaba en particular me levantaba, porque yo no me prestaba al robo de la política, de negociar el particular, que es donde negocian el choreo y... y en ese sentido, lo más hermoso que pasó con la ley bases es que en un momento se pusieron a discutir los fondos fiduciarios y ahora todos se dan cuenta que eran todas cajas negras de donde rombo violentamente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4816
+}

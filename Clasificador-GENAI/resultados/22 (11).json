@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.085,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Antes de terminar de bajar la escalera, sin que me vieran, escuché: \"¿Me puede dar una mano?\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando les pregunté, me contaron: \"Fuimos al municipio a pedir ayuda, pero no nos dieron bola.  Se nos ocurrió venir a C5N para contar nuestra historia y ver si podemos generar solidaridad, conseguir ayuda\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No entiendo cómo la política no resuelve esto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pensemos en todas las Nayaras que hay en Argentina, atravesadas por el dolor y la bronca.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Para qué sirve el Estado?  Tiene que servir para esto, para ayudar a la gente que más lo necesita.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Daniel, María, pero fundamentalmente Nayara, como alguna vez nos enseñaron, debería ser la única privilegiada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1925
+}

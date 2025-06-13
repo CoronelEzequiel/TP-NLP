@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.525,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El conflicto entre la vicepresidenta Cristina Fernández de Kirchner y el presidente Alberto Fernández provocó consecuencias imprevistas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La vicepresidenta, conocida por su precisión política y su capacidad para proteger sus intereses, incluso a costa de su propio gobierno, utilizó términos ambiguos que insinuaban relaciones inapropiadas o demasiado cercanas entre el presidente y la empresa más importante del país.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No solo eso, sino que también cuestionó públicamente la adjudicación de contratos a Techint,  exigiendo que la producción de chapa laminada se traslade a Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La frase \"si los preferimos\", pronunciada por Cristina Fernández de Kirchner, es crucial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La situación se agravó cuando el entonces ministro de Producción, Matías Kulfas, acusó abiertamente de corrupción a personas cercanas a Cristina Fernández de Kirchner, en relación con la adjudicación de un contrato a Techint.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La coincidencia entre Cristina Fernández de Kirchner y Kulfas en la existencia de preferencias en la licitación, constituye un hecho grave con posibles implicaciones delictivas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La tensión interna llevó al presidente a anunciar un nuevo impuesto a la renta inesperada, junto al ministro de Economía, Martín Guzmán.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La denuncia de corrupción, no se originó en fuentes externas, sino que surgió de la propia interna gubernamental.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1940
+}

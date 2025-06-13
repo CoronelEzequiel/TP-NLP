@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.138,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno tuvo que reconocer que mintió durante semanas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La afirmación de Javier Millet de que el Estado no debe intervenir es errónea.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos mantener el foco en la compra de nuevos alimentos y en el apoyo a las mujeres que sostienen los comedores comunitarios, que durante meses tuvieron que decir a tantas personas \"hoy no hay comida\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien la participación del Ejército es positiva en cuanto a logística, es importante recordar que las organizaciones sociales del registro nacional de comedores podrían realizar esta tarea.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1623
+}

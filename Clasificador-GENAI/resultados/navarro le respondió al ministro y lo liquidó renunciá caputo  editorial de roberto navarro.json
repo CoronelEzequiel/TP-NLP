@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.117,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cuando todo se pudría, Luis Caputo agarró el auto y se fue a Radio Rivadavia, donde tiene a algunos de sus empleados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es una estafa y no se le ocurre otra cosa que agredirnos, mírenlo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿quién puede negar hoy que el país está mejor que en diciembre de 2023?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Javier Milei está desesperado porque el dólar se le va a la mierda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "el consumo sigue cayendo con el plan de este atorrante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así es como se funden las empresas, así es como nos quedamos sin empleo, así como está explotando todo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "usás la guita de los jubilados para darle a tus amigos y a vos mismo, porque estoy seguro que estás haciendo negocios con esto.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Renunciá, Caputo. Hacéle un favor al pueblo. Si querés al país, renunciá.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nos va a cagar de la misma manera. Pero está reventando la guita y dándole negocios a sus amigos o a su propia consultora, mientras el país se incendia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4452
+}

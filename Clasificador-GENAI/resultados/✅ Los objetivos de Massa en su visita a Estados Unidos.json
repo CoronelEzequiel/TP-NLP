@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "un plan más ambicioso: hacer una reforma económica que le permita liderar a todos, ser más competitivo electoralmente el año próximo, con una eventual eliminación de las PASO",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "una baja drástica de la inflación, que solo se podría producir con algún plan heterodoxo, como fue el Plan Austral, como fue en Brasil el Plan Real, sin llegar al nivel de un plan de convertibilidad",
+      "score": 0.6,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Argentina está intentando robarse la pelota en medio del partido y salir corriendo del campo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el programa más grande en la historia del Fondo Monetario lo empujamos para la Argentina. Que se haya malmanejado el programa, que no se haya ejecutado bien por parte de Argentina y les haya costado una elección es una cuestión.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sergio Massa es un visionario porque estuvo aquí hace tres o cuatro años y visitó ese centro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2946
+}

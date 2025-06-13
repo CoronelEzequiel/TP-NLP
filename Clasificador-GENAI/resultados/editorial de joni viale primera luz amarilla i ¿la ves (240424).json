@@ -1,0 +1,116 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.657,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo te voté para arreglar la economía, Javier, no te voté para que armes un quilombo con las universidades, no te voté para ajustar la educación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez eso explique que ayer hubo cerca... Miren lo que fue esto, está muy interesante este gráfico, ¿no? Desde la plaza hasta el Congreso, todo lleno.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Te banco el ajuste, te banco el INADI, te banco el INCAA, te banco los planes sociales, te banco el Ministerio de la Mujer, te banco Telam, te banco las líneas, pero no te banco que avances sobre la educación pública.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no me creo esa falsa humildad, eh, yo no me creo el acting este que hicieron por ahí.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Kicillof fue ahí a hacer campaña, no tengas ninguna duda, pero ninguna duda.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otra demostración de cómo el kirchnerismo pretendió usar la marcha políticamente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Queda claro que el kirchnerismo no fue por la UBA, ¿no? Fueron para hacer quilombo, fueron para ser daños, fueron para ser política, fueron para ser política, Tati.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este quilombo también lo armó Milei, digo, esta biblia y el calefón, demostrando una tremenda desesperación, para que esto salga mal, de este, de este, de este, pero también de este, y de este.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es triste ver a un patotero, un maleducado como Moreno defendiendo la UBA, ¿no?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como también fue triste ver a docentes colonizados por la estupidez progre del kirchnerismo, mira.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como también fue triste ver a militantes del Frente de Izquierda cantando \"Milei, hijo de puta\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que se esconde detrás de esa máscara de impostor. El Massa que desprecia a Baradel. El Massa que pide atar el salario de los docentes a metas y productividad de derecha. Un Massa de derecha.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Massa recorta 70.000 millones de pesos en materia educativa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso me parece que la más clara hoy finalmente termina siendo Victoria Villarruel.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Usando la marcha para intentar resucitar de las cenizas, era impúdico, impúdico, mirá.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al kirchnerismo no le importa la universidad, no te confundas, al kirchnerismo le importa la universidad militante, nacional y popular.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Detestan que los chicos sean libres, no les gusta. Aman contaminarlos desde chiquitos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "D'Elía, que dice que Milei reaccionó a la marcha como un pelotudo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Roberto Baradel, el de SUTEBA, reapareció.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso era muy importante que Milei modifique esa reacción inicial.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Montaron sobre una consigna justa, un acto netamente político de oposición al gobierno.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7503
+}

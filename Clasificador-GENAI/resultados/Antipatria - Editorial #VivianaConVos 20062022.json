@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Un grupo de personas que no aman la tierra en la que nacieron, antipatrias.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy me dio vergüenza el discurso del presidente, bueno, una vez más el juramento a la bandera con los niños siendo adoctrinados por el presidente Alberto Fernández.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos creen que la patria y la Argentina es de ellos. ¿Por qué tienen que hacerle una bajada de línea tan grande y adoctrinar a pibes de 10 años?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos creciendo, presidente, tomá nota, estamos creciendo con pobres, con el hambre, con la inflación, con la inseguridad, presidente, con la impaciencia, con la desesperanza, con la corrupción, estamos creciendo\". Hermoso el mundo en el que vive el presidente Alberto Fernández, asegura que Argentina está exportando, estamos fugando cerebros y estamos fugando \"la de ustedes\", las que se \"chorean\", antipatrias.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No pienso hacer nada para romper porque no quiero que vuelva Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ministra Gómez Alcorta, otra antipatria.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Que se vayan los antipatrias de este país, que se vayan los antipatrias de este país!",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8817
+}

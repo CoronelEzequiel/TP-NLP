@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.718,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que hace Cristina Fernández de Kirchner es relatar su ida al juzgado del juez de Lomas de Zamora, Federico Villena, que está investigando una supuesta red ilegal de espionaje.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dice Cristina Fernández de Kirchner que a ella la acusaron de ser jefa de asociación ilícita en varios juicios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dice también que la espiaron cuando era líder del partido Unidad Ciudadana.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y hacia el final del video dice algo así como que la asociación ilícita estaba también integrada por periodistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y eso es falso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ejemplo, la causa Hotesur, que es la causa que investiga por qué los Kirchner compraron el hotel más grande de la provincia de El Calafate.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nosotros hicimos periodismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La denunció Elisa Carrió.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y por todas las trabas que hubo desde el Estado, recién se pudo empezar a investigar mucho más adelante y avanzó también.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y está en juicio oral.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las otras dos todavía están esperando una fecha para que la doctora Kirchner se pueda defender en el juicio oral y público, porque lo esperamos todos, todos los ciudadanos, que la vicepresidenta del Senado, donde se hacen las leyes, se pueda defender no en un video, sino donde tiene que hacerlo: sentada en el banquillo de los acusados, porque así lo determinó la justicia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2382
+}

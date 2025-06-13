@@ -1,0 +1,36 @@
+{
+  "texto_id": "El_Pase_del_Destape",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El dólar debería haber dejado de ser un problema este año, pero los errores de Milei lo llevaron a recurrir nuevamente al FMI y a aplicar un recorte al sector agropecuario, una medida para incentivar las liquidaciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei buscó desesperadamente el apoyo de Elon Musk y Donald Trump para que lo rescataran, y le dio la espalda al Mercosur y a los BRICS.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que con esto China no solo demuestra su liderazgo, y con él, el liderazgo inevitable de los BRICS; sino que también demuestra una mayor eficiencia con una economía totalmente planificada por el Estado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, Milei se confió en un plan para ganar las elecciones pisando el dólar, y se le está derrumbando.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso marcha hacia el autoritarismo. Y el sábado en la marcha antifascista le demostraremos que eso también es un farol.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2334
+}

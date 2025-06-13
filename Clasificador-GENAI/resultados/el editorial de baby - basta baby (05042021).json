@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.775,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pobre Alberto.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se agarró COVID porque él no entró en la vereda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros no necesitamos vacunar a nadie. No somos mendigos de nada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Soberbia lo de Cristina, viste, que se cree que es la reina de Inglaterra junto a Alberto y otros pajes.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Creo que hay una predisposición desde el gobierno en fundirnos a todos, en terminar con la clase media, en hacernos bien mierda, en hacernos arrodillar y mendigar, en que tengamos que decir: \"Cristina es inocente\" a cambio de un plan.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todo es un desastre, muchachos, todo lo que están haciendo es un desastre, todo lo que están haciendo es un desastre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2200
+}

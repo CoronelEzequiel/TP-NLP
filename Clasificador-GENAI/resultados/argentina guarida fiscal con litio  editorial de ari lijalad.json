@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.114,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, hoy Argentina está mucho más cerca de convertirse en un paraíso fiscal, como lo son las Islas Caimán, Panamá y Suiza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hace es debilitar, directamente, el control sobre las sociedades argentinas. Perdón, sobre las sociedades *extranjeras* en la República Argentina.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, hoy la República Argentina, un país rico en recursos naturales, permite que sociedades constituidas en el extranjero operen sin controles, que las sociedades offshore puedan operar en Argentina sin adecuarse a la legislación argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto está muy vinculado al régimen de grandes inversiones que el gobierno incluyó en la ley ómnibus, que fracasó, pero que volvió a presentar en una nueva versión.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hace es desfinanciar a los Estados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, en Argentina, esto cambia. Argentina se transforma prácticamente en un paraíso fiscal con recursos naturales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué pasará? Desfinanciamiento del Estado, riqueza escondida y, por lo tanto, más pobreza y más muertes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2092
+}

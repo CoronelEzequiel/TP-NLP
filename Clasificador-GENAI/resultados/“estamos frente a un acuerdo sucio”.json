@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.543,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La batalla por Ucrania que se libra ante nuestros ojos puede convertirse en el acontecimiento más transformador en Europa desde la Segunda Guerra Mundial y en el conflicto bélico más peligroso que vive el mundo desde la Crisis de los Misiles de Cuba.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El escenario de desastre es el actual. A menos que cambie de opinión o pueda ser disuadido por Occidente, Vladímir Putin parece más que dispuesto a matar a tantas personas como haga falta y a destruir toda la infraestructura que haga falta para borrar a Ucrania como estado y cultura independientes y barrer a sus autoridades.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que el ejército y el pueblo ucraniano puedan resistir la guerra relámpago el tiempo suficiente para que las sanciones económicas comiencen a dinamitar los cimientos de Putin y así ambas partes se vean obligadas a aceptar un acuerdo sucio.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI finalmente nos da el acuerdo, nos regala el acuerdo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si apoyan esto –lo dicen Sandleris, Lacunza y Lapeña–, cuidado, porque no le van a pedir al gobierno de Alberto Fernández que haga prácticamente nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que el kirchnerismo lo que quiere es que se apruebe el acuerdo pero sin ellos, o sea no es que no quiere que se apruebe el acuerdo porque en el fondo sabe que sin acuerdo esto sería un desastre, entonces dice bueno hagamos el acuerdo sucio pero yo no lo voté.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si en el 2023 la Argentina no logra armar primero el consenso social, yo creo que va a estar respecto de que no se puede seguir en este desastre y armar las mayorías políticas y los liderazgos adecuados y el programa adecuado, bueno, seguiremos en esto.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5746
+}

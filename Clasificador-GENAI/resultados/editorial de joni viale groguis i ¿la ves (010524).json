@@ -1,0 +1,116 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.662,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Primero, nefasta fue la deuda que generó usted como ministro de Economía, señor Kicillof.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, la inflación está bajando y sé que a ustedes les molesta eso, mucho más rápido de lo imaginado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la segunda noticia nefasta que tengo para vos, Kicillof, es que todo indicaría, como dijo Franco recién, que la ley de bases se puede aprobar también en el Senado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Wow, gobernador peronista pidiendo que se apruebe la ley de bases.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No están representando la banca, no están honrando. Son infames traidores a la patria.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Están arredidos más.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿No será que el kirchnerismo se está poniendo medio trosko, medio radicalizado?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No cerró el Congreso y no lo destituyeron, al menos por ahora.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei grita, grita porque está bien, el Congreso es un nido de ratas y está bien, es un buen personaje.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pregunta final es, ¿para quién salió esta ley? Si esta ley salió, por la estructura de la ley. Para el gobierno de Milei o para el día después de mañana.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Del otro lado, aparece un peronismo de derecha, o racional, o dialoguista, lo que vos quieras, que empieza a justificar la ley de bases.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De manera que a mí me parece que es pragmático y es inteligente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy ni ley se acumula y le habló a esa gente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y sobre todo a todos los argentinos de bien, porque hoy comienza la reconstrucción argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la economía formal está muerta por los impuestos, por los juicios laborales, por la cuota sindical.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, guarda con agrandarse, porque después viene una parte que no me gustó.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí es una victoria enorme del gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo contaminó, si todavía algún reflejo de arqueo tengo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Levantamanito culposo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, todavía no se ganó nada, frenen.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero no se agranden.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6004
+}

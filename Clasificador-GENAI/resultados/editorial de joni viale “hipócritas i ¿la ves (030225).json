@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.745,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Muchas veces preferimos una mentira cómoda y confortable antes que una verdad incómoda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo tengo una pregunta para Kicillof, para Lali Espósito.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Dónde carajo estaban cuando Fernando Espinoza abusó sexualmente de su secretaria?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, perdónenme, pero no les creemos absolutamente nada, por lo menos yo, no les creo nada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repiten una y otra vez una indignación sobreactuada y selectiva, sobre todo, muy selectiva.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que se burlaban de los \"outsiders\" terminan cayendo en una cantante que salió de \"Chiquititas\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no hubiera estado, no habría verano.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la oposición, a este gobierno hay tanto, pero digo, en la oposición más bruta, más tosca, más básica y sobre todo más obvia de la historia, son tan obvios, pero tan obvios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se olvidaron de la mayoría silenciosa, no le hablan más a la gente, no marchan por la inseguridad, no marchan por los laburantes, no marchan por los sueldos; el tema son los sueldos, muchachos, no LGBT.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y se olvidaron de esto, se olvidaron de la mayoría silenciosa, no le hablan más a la gente, no marchan por la inseguridad, no marchan por los laburantes, no marchan por los sueldos; el tema son los sueldos, muchachos, no LGBT.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En la marcha del arcoíris, con todo respeto, no escuché una sola palabra sobre esto, pero ni una sola palabra, es decir, el peronismo, la izquierda, el kirchnerismo, están fuera de agenda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3545
+}

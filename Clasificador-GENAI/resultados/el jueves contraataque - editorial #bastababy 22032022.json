@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero a Alberto Fernández lo apoyo incondicionalmente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y ustedes también.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero si hay que poner el cuerpo, lo pongo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A los presidentes no.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que estemos todos preparados para apoyar al presidente contra Cristina Kirchner, Máximo Kirchner y toda esa troupe de ladrones y sinvergüenzas, testaferros y traidores a la patria, que se reúnen todos ahí amontonados y que pretenden un gobierno que se quede con las tierras de los campesinos, las fábricas de los empresarios, los colegios de los chicos; que hagan un comunismo cómodo viviendo en Puerto Madero.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La realidad es que yo podría hacer un monólogo político, hay mucho para hablar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hasta ahora el gobierno de Alberto Fernández es una mierda, pero hay que bancarlo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo menos vamos a poder decir que tuvimos cuatro años de mierda y la posibilidad de una nueva elección para cambiar el rumbo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después votaremos a otro que será de Cambiemos, los radicales, Milei, a quien sea, para ver qué prueba piloto nos somete.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que comer esto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y nos van probando y nos van empobreciendo y nos van oxidando la rueda y nos vamos quedando siempre en el mismo lugar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo sé que esto no vende.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3223
+}

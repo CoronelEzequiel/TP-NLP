@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.736,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los argentinos que valoran y defienden la República han recibido una buena noticia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un hecho político que demuestra racionalidad democrática, diálogo y les permite marcar agenda y recuperar la iniciativa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, generarán un fuerte desafío al oficialismo del peronismo, que los obligará a fijar posición, dejando en evidencia quiénes apoyan un futuro diferente y quiénes apuestan a un pasado oscuro y repetitivo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con la boleta única de papel se acaban las trampas y los tramposos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es más transparente y equitativo porque los partidos con prácticas deshonestas, algunos caudillos del peronismo, sobre todo en el conurbano, roban, esconden o directamente tiran a la basura las boletas de otros partidos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta decisión de gran parte de la oposición muestra, además, que la política puede aportar soluciones y que no solamente es confrontación y pelea, sino también la búsqueda de consensos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La democracia es el menos malo de todos los sistemas, pero los problemas de la democracia se arreglan con más democracia: más honestidad, menos delitos, más ciudadanos, menos autoritarismo, más república y menos trampas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1753
+}

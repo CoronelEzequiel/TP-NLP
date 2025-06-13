@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.511,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La población acató las medidas, y la cuarentena se extendió hasta el día 97.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La decisión no se encuentra consensuada con la Jefatura de Gobierno porteña.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se argumenta que un hospital en Moreno para 700.000 personas era insuficiente incluso antes de la pandemia, para atender casos de fiebre de 38.5 °C, y menos ahora.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quizás esta sea una de las razones por las que fue elegido.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me pregunto, con respeto, ¿por qué no se nos permite participar en la toma de decisiones?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un país que no contaba con suficientes hospitales para atender los 30.000 fallecimientos anuales por neumonía, según datos oficiales, presenta un déficit sanitario aún mayor si se analizan las auditorías de los ministerios de salud.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se anuncia que la cuarentena llegará a los 100 días, con un último esfuerzo para disminuir la cantidad de contagios y aliviar la presión en los hospitales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "8000 bares y restaurantes cerrados en Argentina, 50.000 despidos, trabajadores de clubes de golf protestando... se cuestiona la apertura del golf por ser considerada actividad elitista, pero representa una gran cantidad de empleos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que la sociedad ha aprendido mucho más sobre el sistema de salud y su gestión política de lo que la política ha aprendido de la sociedad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2154
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Federico Sturzenegger presentó un nuevo sistema de asistencia social que vamos a intentar analizar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La ideología minarquista del gobierno de Milei demostró que es bien diferente no hacer nada que liberar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno mantenía 5.000 toneladas de comida guardada (luego se comprobó que eran 6.000) y no las enviaba a los comedores barriales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una cosa es proveer ayuda a los más vulnerables y otra es usar esa ayuda para sostener una red de negocios privados. Esto último es lo que la ministra Pettovello ha ido descubriendo durante su gestión y, por eso, los ataques.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La falta de incorporación por parte del sector privado a una parte de la población y la ayuda estatal terminaron conformando lo que se llama la economía popular, un sector de la población que vive gracias a los ingresos de la ayuda estatal, en la combinación de changas, la venta ambulante, la recolección de cartones, por ejemplo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5897
+}

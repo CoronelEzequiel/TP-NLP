@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.864,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno actual trata a los argentinos como si no fueran ciudadanos, generando situaciones bochornosas para ocultar su ineficacia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente busca silenciar a la oposición,  añorando un sistema sin disensos,  lejos de las problemáticas propias de una democracia donde la gente se expresa libremente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación galopante dificulta el acceso a bienes básicos; sin embargo, la insensibilidad de Cerruti se evidenció en sus respuestas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este aumento se debe, en gran medida, al alza del dólar blue, que cotiza libremente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, aferrado a la ficción de un dólar oficial a $130, ignora su impacto en los precios.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno se concentra en controlar las arcas públicas, creando nuevos impuestos, hostigando a los trabajadores y obstaculizando el progreso económico.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La falta de respeto a la institucionalidad se refleja en la actitud del presidente, quien, actuando como si no hubiera constitución, interfirió en causas judiciales y abrazó a una persona condenada, mientras menospreciaba a ciudadanos que fueron víctimas de la mala gestión durante la pandemia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1649
+}

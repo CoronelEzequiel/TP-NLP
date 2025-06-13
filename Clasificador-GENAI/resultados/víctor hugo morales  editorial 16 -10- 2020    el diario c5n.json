@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Una tremenda mentira de la OEA y de las élites dominantes en Bolivia fue la que permitió hablar de un fraude que no se cometió, y los propios Estados Unidos después admitieron que no había ocurrido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo, por ejemplo, \"el mundo me dio la razón\". Estaba hablando nada menos que de la pandemia, de la muerte, porque él quería, y se lo dijo Alberto Fernández, que se conviviese con aquellos que tenían que morir y que se quedaron en la cárcel.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese triunfo contra los bonistas privados y lo que vendrá contra el Fondo Monetario Internacional, que también saldrá de la mejor manera para el gobierno y para el pueblo argentino.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora todos ellos operan desde los mercados contra este gobierno democrático porque quieren establecer corridas, persecuciones de toda naturaleza también en lo económico que terminen con este gobierno mucho antes de lo que corresponde.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En todo lo que sea indigno y rastrero en el periodismo, el puntapié inicial siempre es de Clarín.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6573
+}

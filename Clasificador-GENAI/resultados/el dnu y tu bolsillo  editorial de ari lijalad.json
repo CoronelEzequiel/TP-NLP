@@ -1,0 +1,41 @@
+{
+  "texto_id": "DNU_70_2023",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.075,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Desde el 21 de diciembre, venimos advirtiendo sobre el traslado de recursos públicos hacia sectores económicos concentrados, un aspecto central del DNU.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El DNU 70/2023 contiene un capítulo de regulación económica que deroga numerosas leyes, entre ellas: la Ley de Promoción Industrial (generando pérdida de empleos); la que creó el Observatorio de Precios del Ministerio de Economía (eliminando el control de precios); la Ley de Alquileres (incrementando los alquileres); la Ley de Góndolas (aumentando el precio de los productos); la Ley de Mercados de Interés Nacional; la Ley de Abastecimiento (que obligaba a empresas de alimentos y petroleras a garantizar el acceso de la población a bienes esenciales); la Ley de Compras Argentinas; y la ley que regula la actividad en los supermercados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El DNU también anula la prohibición de privatizar el Banco Nación, derogando el tercer párrafo del artículo 9 de la Ley 23.696.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro aspecto relevante es la reforma laboral, que elimina multas por indemnizaciones a trabajadores no registrados, sanciones por retención de aportes, extiende el período de prueba, reduce la licencia por maternidad, elimina las horas extra, facilita los despidos con causa, y prohíbe las asambleas y paros en diversos sectores.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, este DNU, con sus 16 capítulos y 366 artículos, representa una intervención exhaustiva en todas las áreas de la economía, sin justificación en la necesidad de financiar el déficit.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En realidad, se trata de una transferencia de recursos públicos hacia sectores económicos concentrados, beneficiando a las prepagas, los laboratorios farmacéuticos, las mineras, los grandes grupos mediáticos (como Grupo Clarín) y los grupos inmobiliarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1945
+}

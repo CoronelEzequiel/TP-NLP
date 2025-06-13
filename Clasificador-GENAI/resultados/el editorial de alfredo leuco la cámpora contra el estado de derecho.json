@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner y La Cámpora engañaron a mucha gente cuando se pusieron el disfraz de corderitos patagónicos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora, la gran mayoría del pueblo, en estos momentos, sabe que la principal producción del kirchnerismo son los relatos falsamente heroicos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo, antes de subirse con sus bermudas de \"fierrito\" a la par avalancha, renunció a la presidencia del bloque para no firmar un acuerdo con el Fondo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Cuervo Larroque fue un engranaje clave de aquel día nefasto, casi golpista, cuando piqueteros kirchneristas y de izquierda quisieron lapidar el Congreso con 14 toneladas de piedra.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Apoyan la sublevación de Cristina contra un fallo de la Corte, pero dicen que ahora son respetuosos de las reglas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La Nación dice que quieren enfrentar al poder económico que su camarilla aún no pudo someter.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo más grave está en el último párrafo que asegura que esta gente quiere acabar con el Estado de derecho, como lo hicieron Xi Jinping y Vladimir Putin.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Han metido miles de militantes en todos los ministerios y el propósito es doble: que todos les paguemos su sueldo para que militen y que, si llega a ganar la oposición el año próximo, tengan la posibilidad de sabotear desde adentro cualquier intento de cambio.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todas las encuestas muestran que Cristina, Alberto Fernández, Tolosa Paz y los dirigentes camporistas, empezando por Máximo, tienen un alto nivel de imagen negativa.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todo el cristinismo levanta la bandera falsa del \"lawfare\" para hacer arrodillar y colonizar a la justicia y amordazar al periodismo, a los que consideran sus enemigos y una amenaza para el pueblo peronista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2116
+}

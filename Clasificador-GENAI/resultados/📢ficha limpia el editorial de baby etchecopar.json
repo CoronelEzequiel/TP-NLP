@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy abogo por la lucha de las personas con discapacidad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema grande es la invasión a Ucrania.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y yo puedo entender que se le saque el presupuesto a la universidad (después se lo darán al INCAA), pero con las personas con discapacidad no.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los que no tienen dignidad son políticos, y no votan la ficha limpia porque tienen el culo sucio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y mañana seguramente van a nombrar pájaro nacional a la mosca, el día de la chota, el día de la chota.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hablamos de los indignos que hoy votaron la ley en contra, porque tienen el culo sucio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2974
+}

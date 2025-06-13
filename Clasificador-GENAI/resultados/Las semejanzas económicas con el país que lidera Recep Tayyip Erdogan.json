@@ -1,0 +1,26 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Una primera introducción es que Turquía tiene, además de una inflación similar a la nuestra, conflictos parecidos. Se observa un populismo con el presidente *Recep Tayyip Erdoğan*, quien es cuestionado por su autoritarismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta idea de una Turquía gloriosa que hoy es mucho más pequeña, similar a lo que ocurre en Argentina, genera la sensación de que alguien nos robó esa grandeza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"La paradoja turca en pocas palabras. Mientras el país está batiendo récords, su población se está empobreciendo. Las cifras de crecimiento no reflejan lo que ocurre en las cocinas de la gente ni en lo que respecta a sus ingresos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3333
+}

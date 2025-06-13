@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.406,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La ciudad más rica tiene bolsillos grandes, corazones muy pequeños. No puede ser que las enfermeras y enfermeros, aquellos que están cuidando a miles de pacientes por el coronavirus y por otras enfermedades, tengan que ir a mendigar, poco menos, lo que les corresponde, el derecho que se han ganado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Oigan, campeones, tendría que darles vergüenza cuando se asoman por la ventana, mientras piensan solamente en los negocios, en el Sheraton, en Costa Salguero, en todos esos sitios en los cuales entregan terrenos a sus amigos y hacen enormes negocios y levantan grandiosos edificios, mientras hay gente que vive en humildes casas y que está necesitando un lugar decente con la comida, con la vestimenta, con la posibilidad de educar a sus hijos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos acá por apoyo, más que nada, a lo que es la propiedad privada. Nadie puede usurpar lo que es de uno.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no vamos a permitir que ningún foráneo venga a quedarse con lo que no es de ellos. Venimos en defensa del conflicto, los intereses, que haya familiares a nosotros no nos interesa.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno que duda y debate, así como debate que es parte de lo mismo, si Venezuela es o no una democracia, o una dictadura, es una dictadura, no puede caber duda y acá se debate.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer el hermano Alberto me daba muchas gracias para compartir, expresé y aproveché para agradecer y a mí me salvó solamente la vida y también salvó el proceso de cambio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que más celebro es que rápidamente la democracia haya vuelto a Bolivia en América Latina la democracia es un instrumento muy importante para poder pensar en transformarla sin justicia del continente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pepe Mujica al despedirse como senador al abrazarse con otro senador bien opuesto en sensibilidad, en sentimientos también un hombre sumamente capaz el doctor Sanguinetti habló del daño que nos está haciendo el odio sinceramente me voy porque me está echando la pandemia ser senador significa hablar con gente y andar por todos lados el partido no se juega en los despachos y estoy amenazado por todos lados por doble circunstancia por vejez y por padecer una enfermedad inmunológica crónica y agradecerles la paciencia que han tenido de soportarme y han sido muy elogiosos demasiado elogiosos yo tengo mi buena cantidad de defecto soy impasional pero en mi jardín hace décadas que no he estado hace décadas que no cultivo el odio es que no se puede cultivar no obstante hay quienes lo viven regando en estos países nuestros posiblemente en el mundo entero porque necesitan del odio, de la fuerza de la violencia, de la prepotencia de los gauchos que rodean a los que fueron invitados por Dolores Etchevehere para estar allí, para hacer un proyecto que les pueda cambiar la vida hay violencia en este gobierno de la ciudad de Buenos Aires que no escucha a esas enfermeras y enfermeros que dan la vida por otros y que están por debajo de la línea de pobreza en la ciudad más rica del país parece mentira y eso también es una forma del odio, del desprecio por la vida de los demás y hablando de esto, Macri es una especie de líder en la materia pero no lo va a pasar bien en los próximos días, es evidente un hermano harto de una vida en la cual siempre se llevaron por delante sus derechos sobre todo a partir de no estar su padre fallecido un hombre que ha soportado todo tipo de estafa dentro de la familia parecería que esto es así y que esto es lo que va a denunciar en el libro, le dio al periodista Santiago O'Donnell todos los elementos para componer un libro que seguramente será el de este año por las dudas Macri se está defendiendo y acusa a su hermano graciosamente hasta de ser un K y lamentablemente mi hermano decidió canalizar sus broncas de una manera equivocada diciendo un montón de cosas que yo no las vi todavía pero por lo que escuché no tiene nada que ver con la realidad solamente escuché títulos de una etapa pero todas las cosas que punteo ahí son todas falsas pero lo que me preocupa no es porque son ahí más cosas falsas y es mucho tiempo que tiene mucho que ver pero es tu hermano exactamente, pero tiene mucho que ver con todo esto está muy bien el periodista contigo pero es tu hermano que estás diciendo me parece que esa sería la intención él está hablándose de lo que dicen los K repetidos por su hermano y él dice, pero es tu hermano que tendría que ver alguna opinión política que nadie imagina por supuesto que se corresponda con la verdad pero como todo lo que ellos quieren estigmatizar también el hermano que dice verdades que Macri no puede sobrecebar es K hoy Nora Veiras, directora de página 12 nos contó un adelanto de lo que se va a ver el viernes cuando aparezca lo primero que se va a conocer del libro de Santiago O'Donnell una familia que evidentemente tiene un gran dolor interno deudas no saldadas malostratos, humillaciones que arrastran a todas esas familias historias que se han conocido a lo largo de años y ahora que el hermano que representa el 20% del capital accionario de Socma que fue el representante en Brasil y en China hable con Santiago O'Donnell y informe sobre estos tejes y manejes de los negociados de la familia muestra las claras como se disputa el poder ahí adentro, cuanto tienen y cuanto han ocultado a lo largo de tantos años. Gracias a los periodistas que participaron en el tema FOPEA y la defensa del periodista de Clarín Daniel Santoro y gracias también a Julián Capáz, a Anabella Sánchez y a Leandro Gabriel por tanto nos reencontramos dejándonos con Pablo Duggan y de inmediato Gustavo Silvestre nos reencontramos mañana si Dios quiere.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8069
+}

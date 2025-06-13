@@ -1,0 +1,116 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cuando uno va por el camino ilegal, llega la justicia, la justicia, por más que seas Alberto, por más que seas, no sé, Rockefeller.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si pierde las elecciones, usted va a tener que andar por la calle con una caja fuerte arriba del hombro, del peso que va a llevar.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo único que están haciendo es una berreta interna política para ver si se pueden quedar con la capital.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo mandaron a Zannini a acomodarle y no puede, ni Alberto pudo operar.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire si serán graves sus causas, señora, que ni Alberto la pudo despegar de los quilombos que tiene con la justicia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque nosotros hablamos de todas las causas muy graves, pero también hay infinidad de hechos de corruptela y de corrupción de la gente que la circundaba a ustedes, que la tocan y le rayan el paragolpes.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y cuando la justicia les falla en contra por algún ilícito que se mandan, es una justicia de mierda, es una justicia... Me cago en la justicia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Golpista, golpista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto no es golpe blando, es que ustedes son truchos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces no le echen la culpa a la Corte Suprema porque los que tenían jueces amigos, Zaffaroni o Oyarbide, entre otros miles, Boico, Frontini, que eran abogados de la Madre de Plaza de Mayo, que fueron subrogantes de justicia legítima, y cantidades de jueces, la causa de los cuadernos, trucha esta de los cuadernos, entonces esos son jueces de ustedes.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y la justicia, bueno, mire si ustedes habrán manoseado la justicia, que un día que fallan a favor de algo normal como hoy, a ustedes les cae mal.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque si hubiesen estado acostumbrados a no manosear la justicia, esto para ustedes sería un fallo, bueno, perdimos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no se van a llevar por delante al país, a la República, porque la justicia, no sé si le dieron la Constitución a ustedes alguna vez, no al público, Cristina y Alberto y los secuaces, hoy me dio mucha vergüenza que Alberto, que yo digo, cada vez le agrega más años a la carrera, 35 años de profesor universitario, cosa que es mentira también, empezó a decir cosas contra la Suprema Corte y es raro, ¿no?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y ustedes tienen que respetar, maestro, y no cancherearla con el banquito, que usted se sienta con el banquito y el micrófono y entra a la sanata, a hacer el stand-up.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero no nos metimos la de ustedes, le ganó a la reta.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ver a los pibes en la puerta de los colegios con alegría volviendo a clase y después ver el odio de Kicillof, tratando de mantener una provincia dentro de los oscurantismos, dentro de ese cubo oscuro que hizo la provincia, donde tenemos que tener gente que coma por bonos y otros que se mueran de hambre y no permitirles ir al colegio porque el poder es mío, mío, mío, dice el petiso mandado por Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Realmente son bochornosos, muchachos, porque una república es algo tan diferente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso no sé de qué nos asombramos y por qué manda todos los \"cuscos\" estos que tienen como tailandeses a tuitear y a putear, porque realmente hoy pasó lo que tenía que pasar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo anti jurídico son las medidas que usted toma.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo repugnante es el avasallamiento de un lugar para quedarse con los votos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y lo más repugnante, Alberto, es querer hacer mierda a un candidato porque va a ganar pegándolo a los pibes que están en el medio y quieren estudiar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3971
+}

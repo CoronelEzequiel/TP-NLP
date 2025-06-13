@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.86,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En Argentina existe una larga historia de corrupción, de dinero proveniente de sobornos y enriquecimiento ilícito; una especie de “marroquinería política” que se remonta a épocas anteriores a los gobiernos de los Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El caso Antonini Wilson, por ejemplo,  involucraba alrededor de 700.000 dólares ingresados a Argentina desde Venezuela en un vuelo sospechoso.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También está el caso de Ricardo Jaime, ex secretario de Transporte, acusado por Ricardo Cidielly, sindicalista de Techint, de llevar bolsos con dinero a Néstor Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se difundieron imágenes de la “Rosadita”, donde miembros de la familia Báez contaban dinero en efectivo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El juicio a Cristina Fernández de Kirchner, por ejemplo, evidenció el blanqueo de 60 millones de dólares.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1580
+}

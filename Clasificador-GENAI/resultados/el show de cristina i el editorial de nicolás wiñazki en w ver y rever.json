@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.78,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Un fiscal federal solicitó una pena de prisión para la vicepresidenta en funciones, Cristina Fernández de Kirchner, tras un juicio oral y público.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como vimos hoy, se mostró nerviosa y errática.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner perdió la oportunidad de defenderse en el juicio oral y público; fue a gritarles a los jueces —lo vimos hace un mes—  y cuando se le preguntó si respondería preguntas, respondió con agresividad.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hizo un espectáculo que solo sirve para su militancia.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero hoy quedó expuesta ante la sociedad y la política de un modo errático.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1593
+}

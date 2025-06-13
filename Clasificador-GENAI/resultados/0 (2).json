@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.083,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los estudiantes y docentes han tomado la UBA hasta al menos mañana miércoles.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta ley es fundamental para garantizar el presupuesto universitario de todas las universidades nacionales, ya que permite actualizar los salarios docentes en función del aumento de los gastos y el costo de vida, además de asegurar los gastos de funcionamiento.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A pesar de las movilizaciones (más de un millón de personas en todo el país en defensa de la educación pública), el gobierno no escucha y persiste en su política de ajuste a la universidad.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este no es solo un reclamo de los estudiantes, sino del pueblo argentino, que sabe que la universidad pública es fundamental para nuestra sociedad y debe ser defendida.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el veto persiste, seguramente profundizaremos las medidas hasta que el gobierno ceda y comprenda que la universidad pública se defenderá.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las becas doctorales no se otorgan, los aportes a la investigación no llegan, y los salarios de los investigadores también se ven afectados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay banderas y carteles (\"Sin salarios dignos la UBA no funciona\", \"Toma en defensa de la universidad pública\").",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1823
+}

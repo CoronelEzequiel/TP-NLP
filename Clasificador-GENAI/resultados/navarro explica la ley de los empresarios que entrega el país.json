@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.163,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se está dando media sanción a una ley claramente redactada a favor de los empresarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, el ministro Caputo dijo a los empresarios que la ley era para ellos. La ley, sin embargo, sirve a los argentinos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cada uno que vote a favor de esta ley está traicionando a su pueblo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer llegó un buque estadounidense para patrullar nuestras costas y alejar a los buques chinos, sin la aprobación del Congreso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1714
+}

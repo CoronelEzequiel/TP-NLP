@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.721,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Antes quiero decirles a la oposición que se está preparando el terreno, con los pañuelos verdes de nuevo, para perseguir gente, para hostigar a la gente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La idea es callarnos a Roberto Freiman, a Jonatan Viale, a los Lewkowicz, a los Grínarski, a Majul.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se acabó eso de comprar canales para callar a los periodistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero si Baby, Baby es un payaso, ni él se cree lo que dice.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macrista, perdón, quinelista no, macrista, amarillo hasta el culo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, ¿viste?, ponelo o no, miren cómo está, ¿a vos te gustaría un hijo como este?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un mal compañero, es una lacra, lo niega hasta la familia, y tiene una ambigüedad en su vida que tendría que abrir el armario para quedarse más tranquilo y no joder tanto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1977
+}

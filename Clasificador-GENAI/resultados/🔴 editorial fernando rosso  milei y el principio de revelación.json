@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La nueva normativa, con todas sus limitaciones, representa un retroceso para los trabajadores y las mayorías populares, atenta contra la soberanía nacional y beneficia a los más ricos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque se votó a favor de un ataque a los empleados públicos y se permitieron privatizaciones, aunque se excluyeron algunas empresas como Aerolíneas Argentinas, Correo Argentino y medios públicos, pero quedaron otras importantes como los ferrocarriles o AISA.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El festejo de los mercados, con la subida de bonos y acciones, demuestra que la normativa los favorece.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se observa un intercambio de cargos por votos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La movilización social fue importante, aunque los medios no reflejaron su magnitud.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de contundencia de la oposición permitió un triunfo agónico para el gobierno.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1660
+}

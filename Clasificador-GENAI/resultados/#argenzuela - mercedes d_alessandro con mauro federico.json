@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.233,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La paradoja es que necesitamos dólares del FMI para cumplir con las metas de acumulación de reservas que el mismo FMI impone.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta falta de unidad, sumada a la proximidad de las elecciones nacionales y la ausencia de un programa económico claro para el futuro, genera nerviosismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La negociación actual se centra en conseguir un financiamiento extra (entre 7.000 y 10.000 millones de dólares) para compensar la falta de ingresos, o adelantar los desembolsos previstos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que la decisión es entre una devaluación gestionada por el Estado o una devaluación impuesta por el mercado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la devaluación la impone el mercado, el efecto es impredecible y existe el riesgo de una espiral inflacionaria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como la inflación hace que el peso se deprecie, hay más billetes en circulación.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1573
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.093,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy es un día histórico. Me contaron algo que quiero compartir con ustedes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, la marcha de hoy no es solo de los estudiantes; la educación pública nos toca a todos, sin excepción: a quienes estudiaron, a quienes se recibieron, a quienes tienen un hijo o hija que se recibió, un hermano, una hermana, un vecino... o incluso sin ningún contacto directo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy a favor de un Estado presente, no del Estado ausente que ayer propuso el presidente Milei, un Estado ausente para el 99% de la gente y muy presente para el 1%, los que estaban al frente de las cámaras, los que están agitando contra esta marcha, como Patricia Bullrich.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando ella deja el gobierno, la echan a patadas porque hizo un desastre.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, claro que es una marcha contra el gobierno, porque el gobierno está atacando la educación, no una fuerza extranjera.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, creo que lo de hoy es el principio de algo, y tiene que ver con un hecho histórico: estudiantes y obreros marchando juntos, algo que no sucedía desde la década de 1960-1970.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que apoyarlos, bancarlos y cuidarlos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1948
+}

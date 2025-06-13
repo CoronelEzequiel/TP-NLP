@@ -1,0 +1,66 @@
+{
+  "texto_id": "Carolina Moisés - Radio 10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.345,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creemos que es momento de dejar de ocultar la realidad, de no silenciar las voces críticas y de empezar a construir un futuro programático que ofrezca una salida a los argentinos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos nuevas voces protagónicas en el debate público nacional y defender los intereses de nuestras provincias, que a menudo se ven eclipsados por las decisiones macro del bloque y el Partido Justicialista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero ellos representan una parte del peronismo, el cristinismo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo, que hoy domina el PJ, tiene un pensamiento estructurado, enfocado en el pasado, con metodologías que ya no funcionan,  basadas en imponer sin debatir.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos senadores independientes, elegidos por nuestros pueblos, y si bien representamos al peronismo, rechazamos el reduccionismo kirchnerista.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peronismo debe recuperar su visión de vanguardia, su capacidad de comprender los problemas sociales y las aspiraciones de la gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El triunfo de Milei refleja la responsabilidad de la clase política en general, y del peronismo en particular, por su gobierno hasta 2015.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Axel Kicillof podría representar un recambio, pero también hay otras figuras. El problema es La Cámpora, que ha intoxicado al peronismo con una metodología dañina.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos escuchar a la gente, recalibrar nuestro rumbo y proponer como peronistas lo que debemos representar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente está cansada de nuestras peleas.  No queremos pelear, queremos proponer, debatir y que se escuchen voces diferentes.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un peronismo moderno, propositivo, que comprenda desde la inteligencia artificial hasta los problemas de las rutas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2512
+}

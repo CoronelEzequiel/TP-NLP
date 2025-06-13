@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que es un momento muy crítico y me preocupa, sobre todo, que la dirigencia política no esté a la altura de la situación; es como si estuvieran mirando para otro lado, en la interna, en los sesgos, en las peleas, cuando la verdad es que hay un proceso de suba de precios que va carcomiendo los sueldos, el dinero de la gente, y que tiene una dinámica, porque no es que si uno mira para otro lado todo queda igual, sino que tiene una dinámica donde los precios suben más, la inflación sube más y a la gente no le alcanza.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El desorden, para el empresario, viene de la imposibilidad de solucionar problemas de fondo si el Estado sigue gastando más de lo que ingresa, pero plantea también que la política ha esquivado de todas las maneras posibles enfrentar esta cuestión, es decir, hacer un ajuste, esa palabra que parece el cuco, porque es difícil plantear un ajuste ante la sociedad y poder gobernar al mismo tiempo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aunque peor, más que peor, es la situación del kirchnerismo, que, ya en su cuarto gobierno, desanduvo los pocos avances que se habían logrado en este sentido y volvió a profundizar el déficit, convirtiéndose en una máquina de emitir plata; recién lo hablábamos acá, cuyas consecuencias ya no son un misterio para nadie.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y en medio del desaguisado, el presidente ofende a la sociedad buscando zafar con plata de faltas imperdonables durante la cuarentena, como si no tuviera ni siquiera arrepentimiento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si la oposición malogra su unidad hoy, no dentro de un año, perderá la oportunidad histórica de gobernar con un congreso a favor.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2773
+}

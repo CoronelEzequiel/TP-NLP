@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Está todo roto, incluso esta misma fuente muy importante llegó a decir: \"Victoria ya no es parte del gobierno, sigue pero por una cuestión institucional\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei dice que Villarruel generó un quilombo diplomático con Francia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero pelearon por los sueldos de los senadores, ¿te acordás? Que Victoria quería subirlos y Milei decía que no, que se congelan.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella está lista, en inglés, ¿no? Y la ley... leyó esto. Se acabó la confianza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En esta lista también debería figurar Villarruel, pero Milei no la puede echar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quien se oponga a Karina Milei, se está oponiendo no a Milei solamente, sino a alguien que tiene más poder que Milei porque el dueño de Milei es Karina Milei, ¿está bien?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es gente nefasta, ¿no? El kirchnerismo disfruta el caos que armó este gobierno, porque lo armaron ellos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta semana querían poner el dólar en 1800.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente está diciendo que Massa quiso poner el dólar libre en 1800 pesos, y lo hizo a través de dos operadores, sería Jorge Brito.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei tiene que agradecer que todavía los argentinos recordamos muy bien el vergonzoso y destructivo gobierno que hizo el kirchnerismo hace siete, ocho, nueve meses.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3871
+}

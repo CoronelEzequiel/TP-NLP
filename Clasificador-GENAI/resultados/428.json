@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.312,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No nos olvidemos de los niños que se van a morir de hambre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos pendientes de Fabiola Yáñez, porque hablamos de violencia de género, pero no nos olvidemos de estos datos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No entiendo ese grado de servilismo; hablar con un medio extranjero… Fue presidente de nuestro país durante cuatro años, no el primer ministro de España.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se involucran personas… ¿Esas personas tendrán algo que decir?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer, Fabiola Yáñez hizo referencia a las amantes del marido. ¿Qué tiene que ver eso?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Le dicen \"Fiambrola\" con liviandad.  Ayer se cruzó el límite.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hipotecando el futuro de un millón de niños y de otros 10 millones que están subalimentados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que hay una intención de frivolizar porque no se toman en serio a Fabiola Yáñez.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3633
+}

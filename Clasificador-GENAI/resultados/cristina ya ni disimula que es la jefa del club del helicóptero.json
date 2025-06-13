@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno no tiene la menor intención de solucionar el desastre de la inflación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quizás simplemente tienen por hobby complicarle la vida a los que todavía intentan hacer algo productivo en este país.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y lo que cruzó la barrera de lo calificable es que, al mismo tiempo que la gente en la calle la está pasando muy mal, el espectáculo del poder es indecente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son responsables no solo de no solucionar los problemas, sino de empeorarlos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y de la que son los primeros auspiciantes, porque, además de estar atados a las cajas, tienen toda la intención de no soltar la maquinita de imprimir papelitos de colores.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En conclusión, mientras se agrava la crisis económica y se acelera peligrosamente la inflación, hay un gobierno que ya no tiene ni circo para simular que la controla, ni pan para repartir.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2295
+}

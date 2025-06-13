@@ -1,0 +1,46 @@
+{
+  "texto_id": "El Disco de Molinos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.214,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gran tema que se presenta en estos días es qué va a pasar con el precio de la canasta básica y de los alimentos.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo tanto, toda esta discusión carece de sentido si no hay personas que puedan consumir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro punto clave es que estamos ante dos sectores altamente concentrados de la economía y se corre el riesgo de que, al plantear no cerrar la importación de alimentos, se esté defendiendo a las 20 megaempresas que se reunieron con Caputo y que son las que producen los alimentos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En consecuencia, la medida de la importación, que hay que analizar cómo funciona, donde se verá el impacto en primer lugar, impacta en esas 75.000 pequeñas empresas.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa rentabilidad es del 14,6%.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Argentina, les da 17,4% de resultados antes de pagar impuestos.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos problemas con ambos. ¿Lo solucionará la importación? Lo dudo mucho.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2744
+}

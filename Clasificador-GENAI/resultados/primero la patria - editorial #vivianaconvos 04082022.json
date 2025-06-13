@@ -1,0 +1,81 @@
+{
+  "texto_id": "vivianacanosa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.736,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lamentablemente, los argentinos, el rebaño de pelotudos, estamos y somos decadentes, por favor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos nos están tratando de vender el \"ahora sí\" y nosotros estamos diciendo \"ahora no\". Ellos creen que nos van a convencer muy fácil.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes son ricos, a ustedes les va bien y a nosotros nos va cada vez peor.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seis palos en media luna, en la quinta de Olivos y en la casa de Oveja. Seis palos en media luna y nosotros pensando cómo hacemos, viejo, para pagar el gas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos, el presidente y el gobierno, viven en un mundo totalmente alejado de la realidad, alejado de nosotros, distantes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestros gobernantes se cagan en nosotros. Cierta parte del periodismo también, por sus intereses, se caga en el pueblo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras ustedes festejan, la gente se muere de hambre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se van los subsidios en las tarifas, pero el \"plan platita\" continúa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si los boludos de la clase media vamos a seguir sosteniendo al estado, los planes y el LGTBQYZ, no da.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A un jubilado, ¿cuánto le van a dar a una luca? ¿De qué ajuste me están hablando si estos chavones se llevan 25 lucas cada uno, 50 lucas? ¿Por qué? ¿Por ser gays, y yo como heterosexual no tengo un plus?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ajuste siempre es para el rebaño de pelotudos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Acá no hay un carajo para celebrar, María. La situación es muy difícil.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que destruyen a esta Argentina son los políticos, son los que nos gobiernan ahora, antes y siempre. El peronismo en todas sus cepas nos gobernó casi siempre a las argentinas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque está llena de argentinos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 9207
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.094,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este 24 de marzo es particularmente importante porque creo que hay un intento de construir un relato autoritario y violento a cualquier costo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La violencia de Bullrich fue evidente durante la dictadura, en los 90, con Macri, con De la Rúa… ¿por qué no iba a serlo con su propia ley?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema son las complicidades de quienes se dicen oposición: son cómplices de esta locura económica, política, social y humana.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos mucha inteligencia, diálogo, pero sobre todo, muchos votos en octubre.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno está encerrado en peleas entre bandas libertarias en Twitter o X; esa red representa solo una mínima parte de la población argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay algunos que votaron a favor de endeudarse con el FMI, con lo que esto significa para la Argentina. Tienen un gran prejuicio antiperonista, son gorilas y brutos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Votan con la derecha y hablan con la izquierda. Es patético.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parafraseando a Eduardo Galeano: \"Y si el mundo sobrevive, los profesores de historia explicarán en un siglo XXI, a través de sus símbolos, a sus alumnos… la botella de Coca-Cola, la pelota de fútbol, el televisor, la computadora, la bomba de neutrones… Y para explicar la dignidad, mostrarán el pañuelo blanco, las Madres de Plaza de Mayo\".",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2475
+}

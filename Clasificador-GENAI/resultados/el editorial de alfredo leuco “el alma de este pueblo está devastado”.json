@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Está claro que Milei es la única herramienta existente para sepultar políticamente a la casta del kirchnerismo kleptocrático y chavista, y a la ilusión, además, de la dinastía de los Massa-Galmarini.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es el mascarón de proa para que el populismo continúe con su destrucción del país.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y Milei es la esperanza de que un terremoto novedoso permita barajar y dar de nuevo en el sistema institucional y republicano.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pobreza nunca vista, el 60% de los chicos son pobres, inflación descontrolada que coquetea con la hiper, inversiones que huyen y se llevan fuentes de trabajo y una apuesta denigrante hacia la vagancia y el no mérito que permeó en la cultura de mucha gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa, aliado con Cristina al revés, posibilitó que volvieran al poder y ahora le promete impunidad a la reina del calafate.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina no se convirtió en Venezuela gracias a la lucha corajuda de amplios sectores republicanos de la población que llenaron de banderazos las calles, a la firmeza de una parte de los jueces y fiscales, de algunos líderes de partidos opositores y del periodismo independiente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2437
+}

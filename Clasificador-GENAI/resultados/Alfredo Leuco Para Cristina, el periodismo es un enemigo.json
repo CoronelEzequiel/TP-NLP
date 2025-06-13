@@ -1,0 +1,116 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.762,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La intolerancia, el autoritarismo y la censura están en el ADN del kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quieren controlar todo para siempre y que nadie los controle a ellos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así funcionan las tiranías nacionalpopulistas como las que ellos admiran y protegen, como Cuba, Venezuela y Nicaragua.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Odian la libertad de prensa.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El fiscal kirchnerista Franco Picardi impulsó un ciberpatrullaje para identificar opiniones críticas de opositores y de periodistas, una actitud antidemocrática y persecutoria que todavía no fue sancionada como corresponde.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Máximo Kirchner maneja esos títeres y lo utiliza para vengarse de quienes se animan a criticarlo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su hermano Daniel, embajador argentino en Nicaragua, quiere importar el modelo de Daniel Ortega, donde cualquier voz disidente es asesinada o encarcelada.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El 'Coqui' quedó en la historia nefasta de este país cuando apeló a la provocación fascista de romper el diario Clarín ante las cámaras de televisión.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Culpar al periodismo es el peor de los caminos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El clima hostil que están creando contra el periodismo nos obliga a levantar la guardia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La libertad de prensa no es un derecho de los periodistas, no es un privilegio nuestro.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recuerdo el intento de encarcelar a Daniel Santoro y a Luis Majul, por ejemplo, y la serie de juicios de hostigamiento que funcionarios le iniciaron por pavadas a varios periodistas independientes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Expulsaron de los medios del Estado todo vestigio de pluralismo y los convirtieron en unidades básicas que adoctrinan todo el tiempo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Delirantes e ineficientes como Axel Kicillof han llegado a decir que los periodistas somos hinchas del COVID y queremos que la gente se muera.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nuestro principal insumo es la libertad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, entre otras cosas, amamos tanto a San Martín porque dijo: 'Seamos libres, lo demás no importa nada'",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El líder judicial de este proyecto autoritario, Eugenio Zaffaroni, funcionario de dos dictaduras y dueño de departamentos donde se ejercía la prostitución, llegó al extremo de calificar a los periodistas que no eran de su gusto como terrorismo mediático.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "También utilizaron la AFIP y los espías estatales para amenazar y tirar carpetazos contra los que no se subordinaron.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso le digo que con libertad se puede hacer un periodismo bueno, malo o regular.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero sin libertad, lo único que se puede hacer es propaganda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchos creen que el principal insumo del periodismo son las noticias. Y eso no es cierto.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3422
+}

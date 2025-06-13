@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_ley_bases",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Un gobierno que se autopercibe como \"anarcocapitalista\", es decir, anarquista, en seis meses de gestión no consiguió que los legisladores promulguen una sola ley.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina hoy está gobernada en todos sus niveles por auténticos representantes de la voluntad popular. Es un estado de derecho.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay métodos violentos. De ahí que muchas veces, haya muchas lecciones del arte militar y de la estrategia de combate aplicables a la lucha política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este sentido, esta es la segunda batalla de la Ley Bases. Recordemos que hubo toda una discusión en el Congreso con la primera Ley Bases, también llamada \"Ley Ómnibus\", que el presidente decidió retirar de la Cámara de Diputados porque no estaba conforme con los múltiples cambios que la oposición le estaba realizando, que por entonces eran bastante menores que los que ahora sí aceptan.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La libertad no se negocia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una pregunta inquietante, tanto dentro del círculo de Milei, que puede empezar a hacerse y que tiene que ver con los fragmentos del video que vimos. Si se construye una mayoría parlamentaria opositora, por ejemplo, ese 56% de esperanza que hay en la sociedad, ¿se diluye? ¿Cuáles son los estadios de un juicio político? Preguntas que, por ahora, son claves de análisis, pero que pueden ayudarnos a pensar el futuro cercano del gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5405
+}

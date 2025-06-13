@@ -1,0 +1,56 @@
+{
+  "texto_id": "DadyBrieva",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.183,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El domingo venimos porque… creo que es la primera vez que hay una incertidumbre tan grande.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy viene Florencia Carignano, viene Juan Grabois, también Sergio Berni.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque no les alcanza con que sea peronista, porque voy a decir, mirá, es peronista, y ya está, no, el exterminio del peronismo, que es una cosa rara que ya me había metido en eso, ¿por qué matar?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no quiero que Unión desaparezca, yo quiero que Unión siga, porque si Unión desaparece, ¿con quién me voy a pelear, con quién voy a joder, a quién voy a cargar, con quién vamos a ganar?",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En ese sentido, me dieron por todos lados, escuché cosas, escuché en NTN24, en Ciudad Magazine, en todos, en esos portales independientes que a mí me duran un round, porque, viste, les pregunto, ¿de dónde sacaste la plata?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, Daddy está ensobrado con el kirchnerismo, uh, vas… por eso no entiendo, yo entiendo que sea antiperonista, te lo juro que no entiendo, que un día me dijo Ernesto Tenembaum, digo, ¿por qué es antiperonista?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, Mazza le pide a Dady Brieva que lo escuche, porque él daría la vida por la Argentina, miralo, esto es un montón.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Trato de ser sincero con lo que yo siento y pienso, y siempre encolumnado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Che, te cayeron las causas de los cuadernos, es fácil, me temo de la Dady, dale a Dady, vamos a que boludeces dijo, le damos a Dady y le agarramos, le ponemos todo el prontuario, como estaba con el triángulo y que se dio, pero así no hablamos de que se cayó lo de los cuadernos, como alguna vez se cayó también, lo de Néstor Kirchner, le agarré con Máximo que no tenía ninguna cuenta fuera, como se cansaron de abrir todo el sur y no, en las tierras, y no encontraron ningún camión blindado con plata de Cristina, y siguen, y siguen, y siguen, inventando cosas, y mientras tanto la cosa va pasando, yo, el que hiciera y con esto termino, me gustaría porque, siempre se dice, la justicia, toda la justicia es una mierda, la justicia, lo que trabaja en la justicia, lo que trabaja en la justicia, entonces he escuchado a algunos muchachos que dijeron, che, no, no, no, hay fiscales provinciales, hay fiscales federales provinciales, y hay jueces provinciales, que no somos así, nosotros no somos así, mira, te voy a decir una cosa, si no son así, te tenés que desmarcar más juez o fiscal, tenés que agarrar y levantar la mesa, y hacer un poquito más de lo que haces, porque si no, se generaliza, y mi tía Nelly, va a decir, la justicia es corrupta, para que no diga, que vos te estás llevando, la que a lo mejor se lleva Lorenzetti, potencialmente hablando, ficción, entonces vos tenés que desmarcarte, y con el periodismo pasa lo mismo, pues si no son todos los periodistas iguales, pues, hay periodistas que trabajan de periodistas, pero que son operadores, la diferencia entre algunos periodistas que yo conozco, que alquilan, tienen cuatro laburos, se van a la editorial, llevan los chicos al colegio, a van y vienen y vienen, y tienen cuatro laburos, es que unos son millonarios, y los otros no son millonarios, ahora, esos periodistas, van a tener que empezar a hacer algo, porque si no, hay una connivencia, o sea, dentro de la carátula de la delincuencia, bueno, sos el que me traes al banco, pero sos el que esperas en la camioneta, sos el que esperas en la camioneta de alguna manera, ese pecado de omisión, te tiene que hacer que vos cambies, que vos cambies tu formato, tu dinámica de lucha, y que tengas que hacer un poquito más de lo que haces, te lo pido por favor, para que este cambio sea cierto y sea serio, el periodismo, la justicia, los legisladores de Cambiemos, acá, que siempre perdemos, que siempre estamos en disparidad de números, tenemos que hacer un poquito más de lo que hacemos para que las cosas cambien, este periodismo para todo, ¡viva Peloncla!",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4702
+}

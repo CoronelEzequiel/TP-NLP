@@ -1,0 +1,46 @@
+{
+  "texto_id": "miercoles_31_de_julio",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.343,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Día 234, civiles en pie de guerra por la escalada de violencia y represión sobre los manifestantes opositores que en Venezuela continúa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El régimen chavista, lejos de buscar algún punto de negociación, viene redoblando la represión.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno llama directamente a la delación por parte de los habitantes, un modelo que ya se había aplicado en Cuba, de probada ineficacia, que habla de la decadencia del modelo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno argentino denunció un corte de luz anoche en el edificio, así como un hostigamiento constante sobre el personal diplomático y los seis venezolanos aislados allí, y los opositores a los que la Embajada les dio asilo son colaboradores de María Corina Machado, bien importantes, estaba uno de su jefe de campaña.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, Lula reclamaba el derecho de uno y de otro de respetar el derecho de voto si es que, finalmente, el régimen de Caracas demostrase que realmente ganó las elecciones, como dice, con el 51%, y si no, que realmente se le respete el derecho a quien verdaderamente ganó, y al mismo tiempo que, en el mientras tanto, se respete el derecho de unos y otros a expresarse públicamente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los relatos son generalmente efectivos para ganar elecciones, para sostener gobiernos, pero bastante perjudiciales a la hora de interpretar y abordar la realidad, que siempre es más compleja y tiene claros y oscuros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nicolás Maduro operó un giro autoritario que comenzó justamente con la muerte de Chávez y con la caída del precio del petróleo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5159
+}

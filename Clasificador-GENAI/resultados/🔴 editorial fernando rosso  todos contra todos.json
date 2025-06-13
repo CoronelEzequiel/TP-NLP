@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Consiste en saturar la agenda con múltiples temas o escándalos efímeros, pero que se colocan en el centro del debate público.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, Franco consideró que el gobierno tenía suerte, o fortuna, como diría Maquiavelo, porque virtud no sobra en esta administración.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo relevante es que esta dinámica revela que el gobierno no puede ocultar los pésimos resultados de su gestión, y que el sistema político tradicional está en un proceso de desagregación producto de los fracasos de los últimos años.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En junio, la actividad económica cayó un 0,3% mensual, tras una leve recuperación en mayo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para los trabajadores, las trabajadoras y las mayorías populares, esto significa que es posible enfrentar a un gobierno con muchas falencias, que la oposición (incluido el peronismo), carece de autoridad política y moral, y que hay posibilidades tanto para la lucha en las calles como para construir un proyecto político independiente.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1965
+}

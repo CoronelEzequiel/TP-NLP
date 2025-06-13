@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.571,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La catástrofe económica anuncia todos los días la multiplicación imparable de la pobreza, la desocupación y la inflación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los traficantes de vacunas, para privilegiar a los amigotes del poder, y los bloqueos de los \"molllanos\" ( *se asume error de tipeo*) como si fueran dueños de la Argentina, completaron un panorama desolador en los últimos días.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Graciela solo se coloca primera en la fila para ir al frente y levantar las banderas de la libertad, la igualdad y los derechos humanos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana cumple 90 años y tiene una energía asombrosa para combatir todo tipo de autoritarismo y para fortalecer todo tipo de avance republicano.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su cerebro funciona a mil por hora, como si fuera un adolescente; es inteligente, lectora voraz, coqueta e incansable.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A partir de ese momento, lo buscaron las 24 horas del día por cielo y tierra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hace muchos años que conozco a Graciela Fernández Meijide, allá lejos y hace tiempo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2040
+}

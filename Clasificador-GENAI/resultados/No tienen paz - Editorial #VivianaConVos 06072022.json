@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La Argentina está para atrás, entre otras cosas, porque nadie mira al otro y solo se quieren salvar a sí mismos. Yo soy una argentina que no se quiere salvar sola.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este país los gobernantes no tienen paz. Demostrémosles a ellos que somos mejores que ellos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta gente no conecta con Dios. Esta gente no conecta con Dios. No conecta con el amor. No conecta con sus familias. No conecta con nadie. Están desconectados. No tienen paz. Son impunes. Son inmorales. Son hostiles con nosotros y también son hostiles entre ellos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos a 30 segundos de Venezuela.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos tipos se llevan como el traste.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta señora forma parte, como vos y como yo, del rebaño de pelotudos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella inventó este Frankenstein que nos está llevando a la ruina a todos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a mandar a una comunista a negociar con el Fondo Monetario Internacional. Erremos.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes odian a la clase media. Pero escuché a lo que decía Ferraresi, la señora Aguchova insultaba en la calle el que vacunó a Purita primero, lo que hizo de la clase media.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8883
+}

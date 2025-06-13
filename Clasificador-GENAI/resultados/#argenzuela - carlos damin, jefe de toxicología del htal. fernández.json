@@ -1,0 +1,46 @@
+{
+  "texto_id": "el_efecto_del_consumo_de_drogas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.286,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Para empezar, en relación a la controversia informativa: ¿hubo más intoxicaciones por sustancias en la madrugada del domingo en el Hospital Fernández? No, no hubo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como ocurrió en el caso de Time Warp, el problema principal suele ser el desconocimiento de lo que se consume: la gente cree que consume algo, pero no sabe la cantidad, la calidad ni si está mezclado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer hablábamos con Pablo Cablán en C5N sobre las máquinas que existen en algunos países (no en Argentina) para analizar las pastillas y regular su consumo, una práctica de reducción de daños.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras la tenencia esté penalizada (a diferencia de otros países de América Latina y Europa), nadie puede llevar una pastilla para que la analicen, pues la tenencia está prohibida y penada con cárcel.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos países europeos lo hacen desde otra perspectiva: advierten del daño, pero si no logran convencer a la gente de que no consuma, al menos buscan evitar muertes y daños mayores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para ello, hay que cambiar la ley, que es anticuada y contraria a lo que se hace en otros países.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto debe hacerse siempre dentro de campañas de intervención y promoción de hábitos saludables, ya que consumir drogas es dañino.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1973
+}

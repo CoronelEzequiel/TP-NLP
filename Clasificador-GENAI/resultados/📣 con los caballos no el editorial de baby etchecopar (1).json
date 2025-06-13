@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.714,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo a los cuatreros los vengo siguiendo de la época de Carlos Menem.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los cuatreros existen en la Argentina muchísimo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo amo a los caballos. Los caballos son héroes argentinos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces que el gobierno tome medidas y ya que no pueden hacer nada con los narcotraficantes que les resbala, hagan algo con los cuatreros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decía que había que abrir la silo bolsa y que había que quemar los campos, las cosechas y había que abrir la silo bolsa y tirar nafta en un helicóptero de pelotudo, inútil. Mano derecha de Cristina Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Así que pónganse a pensar qué van a hacer. Vamos a ver, presidente, qué hacemos con los caballos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con la connivencia de Genaro Mejía en esa época de Menem y de la Policía Caminera, llevaban las guías en blanco.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2520
+}

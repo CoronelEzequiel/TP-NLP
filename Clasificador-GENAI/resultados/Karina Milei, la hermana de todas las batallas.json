@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "De vender tortas por internet a la Casa Rosada sin escalas en tres años, Karina Milei se transformó en una de las personas más poderosas del país.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alguien dijo una vez que la política es el arte de vender futuro para los pobres.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo tuvo resuelto, durante gran parte de su década de hegemonía, esta ecuación: los altos salarios, producto de una economía subsidiada gracias a los dólares que entraban por el boom exportador de materias primas, la construcción de universidades en el conurbano, Conectar Igualdad (la *netbook* para los jóvenes y adolescentes de los sectores populares) y otras políticas de inclusión cambiaron millones de realidades en el segmento social medio bajo y bajo de la población.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, el partido nacional y popular en la Argentina es el de Javier Milei, que llega transversalmente a todas las capas sociales, desde las altas hasta las bajas, que está llegando a jóvenes, a adultos, incluso cada vez más gente grande, en la que al inicio había cierta resistencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es interesante pensar a Karina Milei como una contra cara de Cristina Fernández de Kirchner.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3906
+}

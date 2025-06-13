@@ -1,0 +1,56 @@
+{
+  "texto_id": "alguien_zurda",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.244,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a tener que… ¿viste los feos, sucios y malos? Nos van a llamar para que 50.000 comedores, como pasó en 2016 y durante la pandemia, le pongan el cuerpo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero bueno, ahí vamos a estar, como siempre, porque no hay nada que nos importe más que evitarle sufrimientos innecesarios a nuestro pueblo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero el planteo y la personalidad del candidato han logrado interpelar a un pueblo absolutamente harto de una política sin estrategia, sin un planteo claro, y sobre todo sin realizaciones.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no quiero resistir la voluntad mayoritaria del pueblo argentino.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un sentimiento de traición. No hablo del gobierno, es un sentimiento… a ver, los que nos tienen que representar no nos están representando.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que tiene que haber necesariamente una rediscusión sobre métodos, liderazgos y, sobre todo, programas y doctrina dentro de nuestro campo, porque si no, estamos fritos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que hay un núcleo… hay núcleos… los más visibles, y dirigentes, algunos visibles, otros no. Hay una masa crítica, hay dirigentes, hay intermediarios… hay una masa crítica que puede… pero no son hegemónicos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me parece que lo llamó para solidarizarse… pero no tenía el dato, porque se lo preguntaste.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y yo de Juan… tengo un recuerdo de Juan, el día de lo de Cristina… se acuerdan antes del atentado? Está claro que este fue el que se le puso adelante a un camión de Grúa Hidráulica para… para pararlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7981
+}

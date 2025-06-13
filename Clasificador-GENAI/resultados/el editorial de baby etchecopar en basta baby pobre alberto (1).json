@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy se autodenominó líder, y la verdad es que se lo merece porque estuvo 30 días trabajando como un perro, subió muchos puntos en las encuestas y se transformó en la oposición más poderosa.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver, dentro de lo que me había comentado la vocera de Dietrich estaba la idea de que estamos gobernados por dos mafias: la macrista y la peronista.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, una mafia es la que amenaza jueces, compra jueces, secuestra gente y mata a un fiscal de la nación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y digo, evidentemente, si Alberto Fernández no se saca de encima a esos estúpidos, a los patoteros como Moyano, si no trabaja como lo hizo Macri, y yo volvería a votar a Macri porque se parece mucho a una república, pero apoyaré a Alberto si empieza a trabajar para sacarse a los mafiosos de encima.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Me gusta un país de gente que trabaja.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2022
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Queremos competir, hemos armado una lista, hemos militado y tenemos el derecho que nos otorga la democracia argentina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la quinta sección electoral, el poder lo ejercen Fernando Raverta y Juan Pablo de Jesús. Casualmente, Juan Pablo de Jesús fue intendente tres veces del Partido de la Costa, al igual que su padre, y Cristian Cardozo pertenece a su mismo armado.  Llevan 40 años controlando el Partido Justicialista del Partido de la Costa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parece que se olvidaron de un factor determinante: lo que pide el pueblo bonaerense.  Y lo que quieren votar: caras nuevas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si no pides permiso o no haces esas llamadas, aunque tengas mucho apoyo y cumplas con la ley, no alcanza.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entendemos que tenemos derecho a participar, incluso en municipios gobernados por intendentes históricos de Unión por la Patria.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1872
+}

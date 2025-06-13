@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se solicita el desalojo de un inmueble propiedad de la vicepresidenta Cristina Fernández de Kirchner.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Varias empresas pertenecientes a la familia Kirchner se encuentran intervenidas judicialmente por funcionar de manera irregular.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debido a la intervención, la familia Kirchner no puede administrar sus bienes, tarea que recae en un interventor cuya responsabilidad es preservar su valor y generar ingresos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los Kirchner adquirieron dos grandes departamentos en el edificio Madero Center, uno de ellos un dúplex con escalera interna.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El interventor de la inmobiliaria \"Los Ausentes\" solicita ahora el desalojo debido a la falta de pago de una significativa suma de dinero en dólares.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta situación refleja las irregularidades del funcionamiento de la inmobiliaria de la vicepresidenta, incluso bajo intervención judicial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, la ubicación de estos departamentos en Puerto Madero es simbólica, y genera indignación por la forma en que los Kirchner alquilaron sus propiedades a proveedores del Estado.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta situación evidencia una compleja red de relaciones entre las partes involucradas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristóbal López pagaba un alquiler significativamente superior al valor de mercado, sumando a esta situación la ocupación simultánea de los inmuebles por varias empresas, lo cual refuerza la sospecha de una red de negocios irregulares.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En resumen, el desalojo solicitado es consecuencia de una compleja trama de negocios y operaciones financieras que involucran a la familia Kirchner, Cristóbal López, Lázaro Báez y varias empresas, y que se investiga en el marco de una causa judicial.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1835
+}

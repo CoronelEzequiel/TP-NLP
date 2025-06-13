@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros estamos convencidos de que queremos ganar la elección con las condiciones para gobernar. Por eso no diferenciamos entre una campaña para la interna y otra para la general. ",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ciertos sectores, extremadamente macristas (de Mauricio Macri), no se bancaron que Horacio osara plantear que esa manera de entender la política fracasó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa ley se amplió y se generó un fondo. Tenemos que profundizarlo, porque no vamos a resolver la situación de 5 millones de argentinos cada cuatro años. Son políticas de Estado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa es la figura tras la cual el kirchnerismo conservará espacios de poder, pero tiene competitividad electoral propia, a diferencia de Alberto Fernández.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2411
+}

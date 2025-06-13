@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Primero, qué falta de respeto por la gente con adicciones.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después cuando ganó dijeron, no va a poder gobernar porque no tiene diputados, no tiene senadores, no tiene estructura. Entonces cuando asuma va a renunciar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y encima, hoy, obtuvo el presidente de la República, y hoy obtuvo media sanción de la Cámara de Diputados de la Ley de Bases. Y está cerca de privatizar un montón de empresas que el *kirchnerismo* dilapidó.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el argumento era que el gobierno se quiere llevar puesta la soberanía nacional. Y esto, muchachos, se patinaron casi 20 mil millones de dólares para mantener empresas quebradas. ¿Cuál es la soberanía nacional del cloro? ¿Cuál es la soberanía nacional de Intercargo? Ustedes confunden soberanía con alcancía, me parece.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son una izquierda violenta, patotera, agitadora, antidemocrática, soberbia, que trabaja para romperle los huevos a la gente.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Viste que nadie se murió? ¿Viste? Le digo a los halcones, nadie se muere por negociar, no pasa nada. No dejaron de ser ustedes, no perdieron identidad. Le ganaron al *kirchnerismo*, le ganaron a la izquierda y encima tienen ley de bases adentro. No está tan mal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5364
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei_industria",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de Javier Milei ha decidido ser explícito: odia a la industria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La política de desarrollo industrial basada en la producción nacional y la férrea regulación de las relaciones económicas, mediante la redistribución de recursos de un sector a otro, en nombre de la justicia social, ha generado consecuencias negativas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el mismo día, en palabras de Federico Sturzenegger (y aquí hay que destacar esta frase), se hablaba de la reforma laboral: los empresarios podrán diseñar el sistema de despidos que deseen.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy vemos un presidente que reivindica el modelo exportador del siglo XIX.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los empresarios, industriales y trabajadores argentinos viven de su trabajo, no del de otros.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1659
+}

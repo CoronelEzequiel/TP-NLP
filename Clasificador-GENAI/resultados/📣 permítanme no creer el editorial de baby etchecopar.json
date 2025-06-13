@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.714,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nos tienen 7, 10 años hablando de los Reyes Magos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ese es uno de los fundamentos de los políticos: hacerte creer que lo que dicen automáticamente es verdad, sin duda, que se llama la certeza, y en filosofía es el sí y solo sí, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso en este momento está pagando el pato el pobre Milei de la desconfianza que se generó en los argentinos cuando de golpe nos despertamos y empezaron a decir algunos giles como yo en la tele, no los alcahuetes: \"No crean a nadie, son todas mentiras\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En un país donde la casta política es millonaria y nosotros no nos explicamos por qué nos va mal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el país está fundido y es mentira que va a salir en dos meses.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todo lo que a vos te falta se lo robaron los políticos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿O vos, boludo, no te preguntaste qué nos pasó para venir de Europa del 45 a esta ruina de Zambia y Burundi del 2024?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3102
+}

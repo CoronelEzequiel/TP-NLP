@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde el retorno del gobierno de los Fernández, y especialmente desde sectores afines al kirchnerismo, se ha buscado avanzar sobre el Poder Judicial.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La senadora Cristina Fernández de Kirchner, procesada en causas de corrupción y acusada en un juicio oral por delitos de corrupción, ha jugado un papel central en este proceso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ramos Padilla, conocido por su accionar en la causa que investigaba el supuesto espionaje a Marcelo D'Alessio,  ha sido cuestionado por su parcialidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La denuncia original, difundida por Jorge Lanata,  aludía a la supuesta extorsión de Stornelli a un denunciante que no tenía relación con la causa de los cuadernos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ramos Padilla investigó una supuesta red de espionaje internacional que involucraría a D'Alessio y al macrismo, a través de la Agencia Federal de Inteligencia (AFI).",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tras aprobar el concurso para juez electoral de la provincia de Buenos Aires, cargo de gran relevancia en un año electoral,  el Senado, con mayoría oficialista, designó a Ramos Padilla para el Juzgado Federal N°1 de la provincia de Buenos Aires.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta decisión ha sido interpretada por algunos como un desagravio a Ramos Padilla por las presiones mediáticas y de la oposición que sufrió, según afirmó el senador oficialista Jorge Taiana.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La designación de Ramos Padilla, altamente cuestionado por su accionar en Dolores y Bahía Blanca,  ha generado controversias, particularmente considerando su rol en la administración de las elecciones en la provincia más poblada del país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1708
+}

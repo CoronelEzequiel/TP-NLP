@@ -1,0 +1,61 @@
+{
+  "texto_id": "de_mi_ley_a_bullrich",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La ministra de Seguridad, Patricia Bullrich, es una de las principales figuras del gobierno y actualmente es acusada de \"facha\" en la marcha impulsada por la comunidad LGTB.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero en sus comienzos fue una militante de extrema izquierda peronista.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alguien que militó en su juventud en la extrema izquierda peronista, hoy estigmatizada como \"nazi\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich, como ministra de Seguridad de un gobierno de extrema derecha –o de derechas– seguramente mandaría reprimir a una joven idealista como ella misma fue en los años 70?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bullrich no tiene jefes, puede ser leal momentáneamente, pero en el instante en que entiende que políticamente deja de convenir, rompe con quien fue su referente y se va a otro espacio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bullrich ha defendido con la misma vehemencia una posición o la contraria, pero difícilmente encuentra en sus intervenciones políticas lugar a la duda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella llevó adelante el célebre recorte del 13% a los jubilados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esa elección, Bullrich sacó alrededor del 10%, más precisamente 9,6%.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Durante el gobierno de Macri tuvo una actuación muy destacada frente al caso de Santiago Maldonado, [...] logró instalar que Maldonado se ahogó solo y defendió el accionar de la gendarmería.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso su carrera se desprende, que no habría contradicciones en ella, sino consistencia, lo que sea para llegar al poder como nunca lo logró, a través del convencimiento político de cuáles son sus ideas las más adecuadas para este país en este momento. Lo hizo a través de traiciones, de mentiras y a fuerza de violencia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4958
+}

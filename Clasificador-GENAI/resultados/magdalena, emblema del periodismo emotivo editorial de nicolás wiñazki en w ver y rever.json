@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Su vida estuvo dedicada al periodismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella contaba cómo los padres de Mujica le habían pedido que dejara de involucrarse con ciertos grupos, pero él siguió adelante, hasta que fue asesinado, según Antonio Cafiero, por miembros de Montoneros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Era una argentina auténtica: jamás utilizaron el automóvil del canciller para ir al colegio.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Era muy curiosa y, sin duda, hubiese estado muy intrigada por conocer la verdad sobre Cristina Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las Madres y Abuelas de Plaza de Mayo recuerdan cómo Magdalena Ruiz Guiñazú siempre les dio voz.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Posteriormente, durante el kirchnerismo, Hebe de Bonafini organizó un juicio popular contra varios periodistas, incluyendo a Magdalena, llegando incluso a instar a que niños escupieran su fotografía.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El prólogo original de \"Nunca Más\", escrito por Ernesto Sábato, fue alterado durante el kirchnerismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Magdalena, con sus convicciones peronistas, nunca mezcló su vida personal con la política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner nunca aceptó ser entrevistada por ella, aunque Néstor Kirchner sí.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A diferencia de algunos dirigentes políticos que construyen un pasado ficticio de héroes, ella fue genuinamente valiente y ejemplar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2025
+}

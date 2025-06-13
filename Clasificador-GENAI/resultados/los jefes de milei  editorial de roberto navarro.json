@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.193,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En los últimos días, se observa una contradicción entre la aparente bonanza financiera y la miseria que sufren amplios sectores de la población.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se argumenta que el gobierno sacrifica programas sociales esenciales, como la salud y la educación, para honrar sus compromisos financieros.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Asimismo, se critica que a pesar de la existencia de alternativas para reducir el déficit fiscal, se mantienen, e incluso se incrementan, los beneficios impositivos a grandes empresas y fortunas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se menciona la reducción de presupuestos en hospitales y universidades, lo que afecta gravemente la prestación de servicios.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se plantea la necesidad de una redistribución de la riqueza y se critica la falta de discusión pública sobre la deuda externa y los beneficios fiscales.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La celebración del empresariado en eventos como el coloquio de IDEA se interpreta como una muestra de satisfacción ante la situación actual.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se contrasta la actitud de los empresarios con la creciente preocupación de la oposición, que ve en la estabilidad económica un impedimento para su retorno al poder.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1388
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "El grave problema energético de Argentina",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Evidentemente, hubo una mala planificación del período invernal en materia energética, producto de una desarticulación entre las áreas intervinientes en el sector.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como sospechábamos, el afán de superávit a toda costa está teniendo consecuencias directas, Agustín.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, las 100 principales industrias del país están paralizadas por falta de gas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se intentó pagar con una carta de crédito, es decir, apalancarse.  Con una reputación dañada, ¿cómo una empresa internacional descargará un buque si no sabe si cobrará?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ministro de Economía podría pagar con bonos, lo que es inaceptable.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer se publicó en el Boletín Oficial un plan para eliminar completamente los subsidios a los usuarios residenciales.  Ahí está el otro punto: el costo de la gestión ineficiente de la política energética lo pagaremos todos los argentinos.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mismo gobierno que gasta 600 millones de dólares en importar energía, le exige a los enfermos oncológicos de PAMI que no retiren medicamentos por falta de recursos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2065
+}

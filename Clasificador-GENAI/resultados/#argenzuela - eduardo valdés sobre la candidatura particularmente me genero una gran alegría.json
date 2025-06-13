@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Milito las 24 horas para luchar contra la proscripción a Cristina Fernández de Kirchner, así que para mí es una alegría, pero no tengo la información para decirte fehacientemente si es así.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La militancia está, me parece, reclamando definiciones, porque ve que del otro lado ya están todos en la grilla de largada, ya se están peinando para la foto, ya creen que ganaron y casi te piden que asumas, y te van pidiendo los números a ver qué les vas a dejar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo tengo un compromiso que es no permitir que los derechos que se han conquistado sean cercenados, y la única forma que tenemos es que el Frente de Todos tenga aptitud electoral y gane las elecciones, porque somos los únicos que garantizamos, primero, la paz social en la Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El país es para los 45 millones de argentinos, no para el 40%; y eso es lo que uno tiene que tener en la mira y tiene que hacer redoblar los esfuerzos para que eso no suceda. Y nosotros, hoy creo yo sinceramente, que la persona que puede impedir eso se llama Cristina Fernández de Kirchner.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que fue inteligente (haber subido a Javier Milei al ring en el último discurso), sí, yo creo que fue inteligente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2780
+}

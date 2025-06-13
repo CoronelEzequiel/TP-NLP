@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno cree que la empresa está utilizando el paro como una forma de extorsión para conseguir más subsidios u otros beneficios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es uno de los actos más importantes de nuestra gestión, ya que celebramos la soberanía energética, un tema crucial en el contexto actual.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición se encuentra en una interna feroz, centrada en acusaciones de homofobia, violencia y narcotráfico.",
+      "score": 0.8,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre pensamos en la exportación de materias primas, pero este gasoducto demuestra la posibilidad de una matriz productiva diferente, incluyendo la exportación de energía y el desarrollo del litio y el hidrógeno verde.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición se centra en una agenda cada vez más a la derecha, con disputas internas. ",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2116
+}

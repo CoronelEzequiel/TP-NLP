@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.076,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El avance del gobierno de Javier Milei y sus partidarios en materia de políticas públicas genera preocupación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante esta situación, la mejor estrategia para la democracia parece ser la construcción de alternativas políticas que actúen como contrapeso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Urtubey defiende la necesidad de un gran frente social que promueva la justicia y la solidaridad, en oposición al individualismo y la lógica de mercado.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Urtubey considera que el gobierno de Milei está implementando una agenda liberal sin precedentes en Argentina, desafiando los valores de justicia social y promoviendo el individualismo.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es vital defender las instituciones democráticas contra las acciones del gobierno, que constantemente las vulnera.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Urtubey se define como humanista y cristiano, priorizando lo colectivo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Urtubey concluye afirmando la necesidad de una batalla cultural, donde el peronismo debe jugar un papel fundamental, proponiendo alternativas y no solo resistiendo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1567
+}

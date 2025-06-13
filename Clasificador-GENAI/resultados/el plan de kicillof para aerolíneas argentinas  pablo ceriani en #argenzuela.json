@@ -1,0 +1,31 @@
+{
+  "texto_id": "Aerolineas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobernador Kicillof manifestó la disposición del gobierno provincial a buscar una solución alternativa a la privatización o disolución de Aerolíneas Argentinas propuesta por el gobierno nacional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considerando que la privatización sería nociva para el país y, particularmente, para la provincia de Buenos Aires, el gobierno provincial se propone discutir una alternativa donde la provincia, sola o en asociación con trabajadores y otras provincias, se haga cargo de la aerolínea de bandera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se necesita un proceso de \"due diligence\" para analizar los números y las obligaciones futuras de la empresa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esa idea es muy simplista. Se requiere grandes inversiones a largo plazo y planes de negocio sólidos, no es un emprendimiento para principiantes.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1369
+}

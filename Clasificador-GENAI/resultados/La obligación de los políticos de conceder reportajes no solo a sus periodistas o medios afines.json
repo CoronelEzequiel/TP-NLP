@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.425,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Macri y \"Mi Ley\" solamente le dan reportajes a los medios adictos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El periodista debe resguardar su independencia frente a los gobiernos de turno, otros poderes, las empresas privadas y sus propias audiencias.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es obligación de los periodistas respetar las leyes y el sistema que fundamenta y protege nuestra revolución, la democracia republicana, garantizando el pluralismo y el respeto de las minorías.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De la misma manera que aquellos que se prestan a reportajes en medios afines sean tratados con cierto respeto, que me parece que es un elemento central.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4892
+}

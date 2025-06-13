@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.088,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Me resultó positivo que Jorge González participara antes de este editorial, ya que ejemplifica cómo en ciertos lugares el Estado y el sentimiento nacional siguen siendo preponderantes, y en esos lugares, las cosas funcionan.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo ocurrido ayer en Bolivia, con esas imágenes de lucha por los recursos naturales, alguien que busca entregarlos y se facilita un autogolpe para mantenerse en el poder e impedir el regreso de Evo Morales (quien cambió las reglas de juego para las petroleras al decidir que Bolivia se quedara con la mayor parte de las ganancias), resulta ilustrativo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una gran injusticia que tantas personas hayan muerto y que se hayan lucrado con ello, como en el caso de Herrera, quien supuestamente se benefició de la vacuna. Me parece tan repudiable como el atentado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Para qué sirvió demonizarla, querer matarla y hacer que todos la consideren una ladrona?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De esta nueva generación de políticos disciplinados, aterrorizados por lo que le sucedió a Cristina, surge esta entrega de derechos laborales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya no importará si el trabajo es en blanco o en negro; se impondrán impuestos a los trabajadores y se los quitarán a los ricos; se terminará el sistema de autoabastecimiento de hidrocarburos para dar este insumo barato a las empresas, desarrollarnos, exportar y crear empleo de calidad; nos convertiremos en un país que solo exporta commodities.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos dejar de votar por ocurrencias, dejar de seguir ilusiones o videos de TikTok y ver dónde está la pequeña reserva de buenos dirigentes que puedan sacarnos de aquí.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos apoyar al posible Néstor Kirchner que venga ahora, con inteligencia, coraje y militancia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2377
+}

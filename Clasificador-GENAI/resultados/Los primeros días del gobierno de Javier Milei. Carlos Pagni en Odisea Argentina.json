@@ -1,0 +1,46 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.529,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es enigmático cómo se arma el gobierno, y estamos viendo de a poco, a través de sus hechos, la idea que el gobierno tiene de la situación y la idea que el gobierno tiene de sí mismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos viendo que el gobierno interpreta, y está inspirado, por un sentimiento, yo diría, revolucionario. Es decir, es un gobierno, es un oficialismo que se siente sujeto de una revolución, el agente de una revolución.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La idea es que el gobierno tiene una legitimidad especial porque tiene el 54% de los votos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei es un liberal en lo económico, pero tiene, nosotros lo venimos diciendo hace tiempo, rasgos populistas en lo político, esta idea de que hay una legitimidad superior que es la de los votos al líder, que le permite al líder, en alguna medida, ser un poco peyorativo respecto al sistema.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un desprestigio enorme de la política, hay, además, una sensación de emergencia, obviamente con la inflación que estamos viviendo, con los niveles de pobreza, con la emergencia que vive el Banco Central, y todo esto se combina o converge con otra idea, que es que la dirigencia argentina, aun la dirigencia opositora, lo que Milei llama la casta, está extraordinariamente desconcertada de haber perdido frente a un outsider como Milei.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En ningún lugar del mundo se modifican 300 leyes por un decreto, a través de una persona.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Al asalariado le van a subir las tarifas, el sueldo va a quedar atrasado frente a una inflación de él, dicen que puede llegar a, está entre el 25 y el 30% en diciembre, y le van a reponer un mínimo no imponible de ganancias que se había retirado durante la campaña de Massa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 9012
+}

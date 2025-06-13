@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.083,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La reacción de ese sector de la oposición fue, a mi juicio, dinamitar el eje central.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El eje del discurso de Cristina fue la necesidad de un nuevo pacto democrático con reglas inamovibles.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La respuesta de Bullrich fue una amenaza: la única esperanza de la oposición, dijo, era evitar la cárcel.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En otras palabras, la Corte decidirá si acepta lo que el poder político ha determinado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina volvió a hablar del \"partido judicial\", mencionando también al \"partido militar\" y cómo las grandes corporaciones cambiaron su estrategia, de presionar a los militares a presionar a los jueces.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mencionó los fallos de la Corte que mantienen la cautelar que permite a Clarín cobrar precios exorbitantes por internet, celular y cable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, quedó claro que sigue siendo el centro de la política argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La esperanza a la que apela Cristina se basa en la memoria de sus logros como presidenta, en un pasado donde los salarios alcanzaban para vivir dignamente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, Cristina preguntó si los argentinos querrían recuperar ese país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1656
+}

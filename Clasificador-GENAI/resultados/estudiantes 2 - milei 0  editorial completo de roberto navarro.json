@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.093,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La gente está cansada, se siente atacada, no le alcanza el dinero, no tiene para comer.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición comienza a unir a la gente contra el gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno perdió la agenda ayer y al redoblar la apuesta, unió a los diferentes, como ya lo había hecho con el tema de los fondos de la CIDE.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente está mal estos días, tiene una baja tolerancia al fracaso y al enojarse, como le pasó ayer, agrede a los estudiantes y empeora su situación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El primer resultado es que el veto va a ser rechazado. El segundo es que el triunfo de la marcha saca al pueblo de la angustia, de la resignación, y lo pone en pie de guerra.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el pueblo antes se dividía entre kirchnerismo y antikirchnerismo, ahora empieza a dividirse entre fascismo y antifascismo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un presidente que depende del apoyo popular nunca hace algo para acumular capital político. Todo lo que hace es generar desgaste.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2005
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "Odysea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, sobre este universo, sobre este tema, acaba de realizarse un avance muy importante del Estado en la Argentina a raíz de un decreto que suscribió el gobierno, el presidente Alberto Fernández, con todos sus ministros, es decir, un decreto de necesidad y urgencia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, Alberto Fernández no lo va a admitir en estos términos, pero él interpreta que, tocando la regulación de las telecomunicaciones, está tocando a la industria telefónica y que, tocando a la industria telefónica, también toca a una industria que se ha integrado con la telefonía: internet y el cable. Y, si dice telefonía, internet y cable, está hablando de Clarín.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El principal argumento que usa el gobierno para establecer este decreto no es \"tenemos un problema con Clarín\", que es un argumento de la intimidad de la Casa Rosada, de la intimidad del kirchnerismo. Es un argumento muy habitual en el oficialismo que es: \"queremos ampliar derechos, tenemos que intervenir en un mercado para llevar las prestaciones de ese mercado, los beneficios de ese mercado, a más gente y, por supuesto, a los que menos tienen\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el fondo, y notan en el fondo, el régimen de concesiones del Estado implica un contrato cuando el Estado concede un servicio a aquel que lo va a prestar. Si se cambian después las condiciones de ese contrato, una de las dos partes tiene derecho a reclamarlo monetariamente. Entonces, todavía no sabemos cuánto le va a salir a la Argentina este decreto en el largo plazo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8259
+}

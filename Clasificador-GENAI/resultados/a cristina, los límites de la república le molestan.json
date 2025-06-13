@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En solo cinco días, **Cristina Fernández de Kirchner** atacó a dos poderes de la República.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La diferencia entre las ambiciones de controlar la justicia de **Cristina Fernández de Kirchner** y la decisión de la Corte es que la Corte, y no **Cristina Fernández de Kirchner**, es el poder competente en temas de constitucionalidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y fracasadas las intentonas de reformar el Ministerio Público para controlar ni más ni menos que a los fiscales, o la nueva ley aprobada contra reloj en el Senado que ella preside para reponer un Consejo de la Magistratura sin incidencia de la Corte, **Cristina Fernández de Kirchner** ha pasado a una fase explícita, una especie de golpismo discursivo para atacar a otros poderes de la República en abierto desafío.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se terminó la elegancia de las estrategias o las intrigas.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y aunque sepan que carece de legalidad el cuestionamiento a la Corte de un juez ignoto de Paraná, que muy obediente por cierto, dejó de saborear huevos de Pascua para intentar un segundo fallo que obstaculizara la asunción de Rosatti en el Consejo de la Magistratura.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto que eso es demasiado irritante para quien está acostumbrado a tener todo el control.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero más allá de sus recientes enojos y furias, de su persistente alineamiento con los regímenes autócratas, de su justificación para los crímenes de guerra de Vladimir Putin, porque defender la invasión rusa a esta altura es defender crímenes de guerra, **Cristina Fernández de Kirchner** sigue siendo la figura gravitante del gobierno.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente solo siembra incertidumbres sobre sí mismo y se hunde en cavilaciones.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si para **Alberto Fernández** quedarse quieto es una manera de actuar, la fórmula estaría gastada a la luz de los problemas que aquejan a la Argentina.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2484
+}

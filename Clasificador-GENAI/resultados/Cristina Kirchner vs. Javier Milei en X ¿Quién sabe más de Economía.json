@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Probablemente la elección de las dos citas de presidentes norteamericanos para empezar el texto tenga algo que ver con alejarse de cierto tono chavista o latinoamericanista de izquierda, algo que Cristina viene intentando hace tiempo con declaraciones referidas a que el capitalismo es el sistema más eficaz, o sus épocas de presidenta, cuando recordaba que con su esposo Néstor Kirchner se iba de vacaciones a Disney y no a Vietnam o a Cuba.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Yo sé que vos de economía no entendés mucho, demostrado por el hecho de que te rodeaste de analfabetos numéricos que destruyeron el país con su chamamismo económico. Pero, si querés aprender un poco, prendé la tele hoy a las 19, que voy a estar dando una clase particular a don Noren.\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Saber Milei hablar de economía diciendo cualquier cosa en los sets de televisión o escribir plagiar libros es una cosa. Gobernar la Argentina es otra muy distinta, y de esto, por cómo están viviendo los argentinos, se ve a la legua que vos no tenés ni idea. Cuando quieras, porque tiempo tenés y lo dedicás a boludear en las redes, te espero en el Patria y te explico un poquito. Saludos cordiales a vos, todas las fuerzas del cielo.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si usted el déficit fiscal los financia con emisión, la doctora… diga esto, porque no es economista, se supone que es abogada, pero tampoco muestra el título. Señora, usted tomó el país con 52 mil millones de reservas, lo destruyó. Si quiere hacer críticas, empiece haciendo una autocrítica, que está costando bastante caro al país, que es por haber mentido los números.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es cierto que el déficit fiscal genera emisión monetaria que termina generando inflación y es cierto que el problema de la Argentina no se soluciona eliminando la inflación y el déficit fiscal, porque tenemos un problema de economía bimonetaria por todos los desastres que hemos cometido en el pasado y de endeudamiento como consecuencia de ese déficit fiscal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4415
+}

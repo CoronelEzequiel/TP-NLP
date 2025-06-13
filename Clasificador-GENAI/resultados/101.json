@@ -1,0 +1,56 @@
+{
+  "texto_id": "El análisis del consumo de carne en Argentina con Alberto Samir",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.256,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No, hay varios factores. El último año, casi todos los alimentos bajaron entre un 30% y un 40%, no solo la carne, sino también el azúcar, las verduras, el aceite.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para mí, Argentina está en su mejor momento histórico.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En resumen, al gobierno le va bien, pero a la gente, muy mal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando te aplauden del exterior es porque estás perjudicando a tu propio pueblo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, nos prestan 11 mil millones de dólares, pero en los primeros 10 meses se endeudó el país en 74 mil millones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sospecho que hay una mala administración de los recursos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Prefieren aguantar la situación actual con la esperanza de un cambio.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ustedes, como parte del peronismo, tienen una cuota de responsabilidad en la situación.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sí, hay similitudes, especialmente en la desregulación y privatización de empresas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1885
+}

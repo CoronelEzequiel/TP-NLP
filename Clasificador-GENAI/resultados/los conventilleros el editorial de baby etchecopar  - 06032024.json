@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.689,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si algo bueno tengo después de cuatro años, es el compañerismo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que no toleraré nunca es que me llamen mal compañero, porque el compañerismo es una prioridad para mí, tanto en lo personal como en el trabajo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy harto de los sindicatos, de la gente que arma quilombo, de los conventillos y los puteríos, de la \"victoria\" que no fue ninguna victoria, fue una derrota.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos empezando a entrar en una república, estamos empezando a vivir en democracia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quienes están a favor de un país sin mentiras, sin chorros, sin fiestas en Olivos, sin sobres con dinero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que queremos vivir de nuestro trabajo y los que quieren vivir del trabajo de los demás.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con \"conventillos\" no vamos a volver a Cristina. Con \"conventillos\" no vamos a volver a Alberto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Londres pudo estar varios años comiendo ratas para que no invadieran los alemanes, nosotros podemos estar un par de meses sin comer kiwi ni palta para que no nos invadan los kirchneristas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estoy harto de los sindicatos",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2485
+}

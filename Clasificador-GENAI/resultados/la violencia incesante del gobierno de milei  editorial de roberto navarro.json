@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.11,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cuando se designó a Patricia Bullrich en Seguridad, quedó claro que habría violencia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la misma Patricia Bullrich responsable del fusilamiento por la espalda de Rafael Nahuel.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que ocurre en las marchas de jubilados, estudiantes y ahora en las tomas de edificios, es que se infiltra gente para generar violencia y provocar incidentes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación recuerda a la dictadura, en el sentido de que todo está oculto para que el pueblo no comprenda lo que sucede.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer hubo policías y militares. Hay un clima de violencia en una sociedad con un millón de niños que se acuestan sin comer, muchos jubilados que hacen lo mismo y muchas personas sin medicamentos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1418
+}

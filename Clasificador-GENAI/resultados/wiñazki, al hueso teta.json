@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.667,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto no significa que solo pueda pasarle a un diputado de ese partido; sin embargo, la historia de Ameri es relevante, dado que llegó al Congreso gracias a Juan Carlos Romero, exintendente de Tartagal, actual senador, quien dejó su lugar a Ameri.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos preguntarnos a quiénes votamos.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Argentina existe una creciente deshonestidad pública, incluso más grave que lo que algunos políticos dicen oficialmente",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Ameri tuvo un \"momento de calentura\", como se podría decir, al menos debería haber apagado la cámara.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué ha pasado en Argentina para que el Congreso, que comenzó con el Congreso de Tucumán y sus héroes, y ha contado con figuras como Palacio, Julio Argentino Roca, Domingo Faustino Sarmiento, Manuel Quintana, Pellegrini, y más recientemente Jaroslavski y Alfredo Bravo, tenga ahora un representante como Ameri?",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Insisto, más allá de la imagen, lo impresentable es su explicación.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1502
+}

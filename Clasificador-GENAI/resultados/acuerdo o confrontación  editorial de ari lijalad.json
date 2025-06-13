@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.088,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente está acusando de golpistas a los senadores, dice que quieren socavar al gobierno, que quieren socavar un pacto que él mismo escribió y que no tiene ningún tipo de solución para la Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo puedes tener acuerdo frente a un DNU que te mete la mano en el bolsillo, un DNU que elimina la Ley de Góndolas, la Ley de Abastecimiento, los mercados internacionales, que elimina la ley que regula el funcionamiento de los supermercados?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Explicame cómo se puede tener acuerdo frente a un proyecto de ley que mandaron que establece la obligatoriedad de descontar los días de paro a los trabajadores estatales.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acuerdo o confrontación, y es un gran tema porque Milei lo plantea en esos términos en el comunicado que emitió ayer, y yo quiero preguntarle a los diputados, a los senadores, cómo se puede acordar con todo esto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2814
+}

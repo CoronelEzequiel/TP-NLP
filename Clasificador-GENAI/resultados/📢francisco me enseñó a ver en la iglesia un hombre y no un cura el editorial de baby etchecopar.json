@@ -1,0 +1,101 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.444,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Creo en los hombres, no en la Iglesia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me enseñó que podíamos discrepar en ideales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me enseñó que había una iglesia menos corrupta y un poco más humilde.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Francisco se dio cuenta de que es mucho más fácil vivir sencillamente, sin los zapatitos colorados, sin las pompas y sin las mentiras.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso lo siento mucho, me duele y siento el mayor de los respetos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y creo que tiene valor lo que estoy diciendo, porque no soy un \"chupa-papas\", ni soy de esos periodistas que dicen \"el Papa quiso decir...\"",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le echaron culpas, se lo criticó, y eso es lo mejor que puede pasar con los Papas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora hemos crecido, ahora estamos más maduros.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso ahora tuvimos un Papa a la altura de las circunstancias, a la altura de un mundo que se mata entre sí, a la altura de gobernantes que se desentienden de la gente, a la altura de un hambre que ningún Papa ve, que ningún hombre ve.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que se ha ido un personaje grande de la historia, que se ha ido un hombre estadista.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y creo que la imperfección va de acuerdo con la verdad, la honestidad y la dignidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que lo que le valoro a Francisco es eso, que nos mostró que era un hombre igual que nosotros, que iba al baño a la mañana o a la tarde, que comía al mediodía como nosotros.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la Iglesia, como empresa y entidad, esta vez tuvo un CEO honesto, como dice Machado, en el buen sentido de la palabra \"bueno\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso no quería perder la oportunidad de hablar de él, porque nadie está hablando de él, todos están hablando *del* Papa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y creo que es normal que un hombre se muera, es normal que un hombre se muera a los 88 años, es normal que las empresas cambien de CEO, y es normal lo que nos está pasando.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy vi en una marcha en Capital, creo que era en Flores o no sé, que la gente fue a rezar por el Papa y un grupo de activistas políticos agredieron a una compañera nuestra, con la cual me quiero solidarizar.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso esa es la imperfección que nos mostró Francisco, de una Iglesia imperfecta que muchas veces sirvió para encubrir criminales, corruptos y asesinos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy se termina también una etapa de idiotez democrática, una etapa de chanchullo berreta, y espero que Dios ayude al Presidente a empezar a pensar con lógica y a adoptar la postura del Presidente que queremos todos, y dejarnos de fantochadas y pavadas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4172
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "quien_manda_en_argentina",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sería gravísimo si esto ocurriera bajo el argumento, que estamos escuchando, de que un periodista, por haber tenido contacto con un supuesto agente de inteligencia (algo muy difícil de determinar), se convierte en cómplice de una situación ilícita para perjudicar a un determinado sector político.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es extraño, y Berni lo sabe, que un ministro de seguridad provincial esté constantemente enfrentado al poder central, como lo hizo Berni durante semanas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si se remueve a un funcionario que desafía al presidente y depende de Cristina Fernández de Kirchner y Máximo Kirchner, se pone en duda la autoridad política, como dijo Longobardi.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las fuentes anónimas son un derecho constitucional.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El periodismo verifica la información recibida, incluso de servicios de inteligencia, que quizá no lo reconozcan, porque es el trabajo de un servicio de inteligencia, de un ministro, exministro, presidente o expresidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El New York Times los publicó.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2016
+}

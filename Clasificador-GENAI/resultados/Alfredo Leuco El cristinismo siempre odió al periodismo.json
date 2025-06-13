@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El kirchnerismo siempre odió al periodismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue un hecho grave, por donde se lo mire: la amenaza, la incitación a la violencia, fue delante de una multitud que puede interpretar eso del \"levantamiento\" como un aval para atacar a cualquier periodista o medio de comunicación.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire, amenazar con un levantamiento, además de una apología de la agresión en estos momentos, es doblemente peligroso.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el regreso de la democracia en 1983, nadie agredió tanto a los medios de comunicación y a sus trabajadores como el kirchnerismo.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Expulsaron de los medios del estado todo vestigio de pluralismo y los convirtieron en unidades básicas que adoctrinan todo el tiempo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juzgaron en una plaza pública, al estilo mussoliniano, a distintos periodistas; colgaron afiches con sus caras, incitaron a los chicos a que los escupieran.",
+      "score": 0.96,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recurrieron a la acción directa, a los escraches de patotas que fueron a las puertas de las casas y las radios a intimidar periodistas.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso es tan importante defender la libertad de prensa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2586
+}

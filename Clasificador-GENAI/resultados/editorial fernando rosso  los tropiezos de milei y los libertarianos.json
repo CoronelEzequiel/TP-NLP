@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por supuesto que coincido en que no hay que subestimar ningún fenómeno político y siempre voy a estar a favor de pensar a fondo sobre qué expresa cada uno, qué contradicciones tiene.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que sucede muy recurrentemente es que el análisis bordea peligrosamente la justificación. Es decir, se plantea, bueno, este fenómeno se explica por esto, por esto y por lo otro, y muchas veces eso tiende a justificarlo más que a explicarlo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se comenzó a afirmar que la sociedad giró unilateralmente a la derecha o en conjunto a la derecha, especialmente los jóvenes, que Milei expresaba la rabia, etc.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dicen que los libertarios no son una corriente imparable y aluvional porque si así fueran sus candidatos locales deberían ser arrastrados por la ola nacional, solo la presencia de Milei debería poder trasladarle su respaldo y eso expresarse en votos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El conjunto de estos elementos deben ser incorporados al análisis porque precisamente es útil para la discusión y para la disputa política porque si el análisis no sirve para la lucha, en realidad no sirve para nada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2256
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esa visita es extraordinariamente simbólica y, al salir, dijo \"tenemos gabinete\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como vimos, todo esto estuvo al referéndum de Cristina Fernández de Kirchner.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Empecemos por economía, todo indica que el próximo ministro de Economía va a ser Guillermo Nielsen.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ¿quién va a ir al Consejo de la Magistratura?, es decir, ¿quién va a ser el -¿quién va a ser el?- engranaje de todo este problema?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fernández es un Néstor sin soja.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7390
+}

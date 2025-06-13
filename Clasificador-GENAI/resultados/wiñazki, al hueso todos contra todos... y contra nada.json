@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.433,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La pandemia y la política, que no se ponen de acuerdo, las tomas, la liberación de presos, en medio de todo este caos…",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Presos que mueren: comunes, de lesa humanidad… incluso aquellos a quienes nadie les da importancia, mueren de coronavirus.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La gran mayoría de los políticos presos salió, algunos incluso se contagiaron de coronavirus y se curaron en sanatorios, como el caso de [Nombre del político], que se recuperó en su casa y me alegro de que se haya curado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero destacar algo que es obviamente lo más importante: hasta el día de hoy murieron oficialmente 11.148 argentinas y argentinos.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante la Guerra de Malvinas, que duró dos meses y doce días, se atacó a la Argentina con 117 aviones, 111 buques, 2 portaaviones, 2 buques de asalto, 8 destructores, 15 fragatas, 6 buques de transporte, 1 rompehielos, 3 transatlánticos, 25 petroleros, 40 transportes, 6 submarinos y 3 dragaminas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esta guerra, donde incluso [Nombre del presidente de la entidad de salud] dijo que la íbamos a perder, murieron 11.148 personas; muertos lamentablemente sin rostro y sin nombre para muchos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A todos los familiares, nuestra solidaridad, nuestro abrazo, nuestro saludo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la gente de la salud, que trabajamos y aplaudimos, y después perseguimos (porque los argentinos somos así).",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy el virus está colapsando Jujuy, Salta, Corrientes, Mendoza, Santa Cruz, Río Gallegos… y va a seguir.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2116
+}

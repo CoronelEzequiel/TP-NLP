@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En él, Vidal critica el acuerdo con el FMI, tildándolo de 'otro relato K'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina, las empresas pueden financiar campañas políticas, mientras que los trabajadores, a través de sus sindicatos, no.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es irónico que una empresa que recibió tanta ayuda estatal critique el gasto público.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno busca recaudar mediante un anticipo de ganancias de las empresas que facturaron más de un millón de dólares en el último semestre.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según Vidal, el gobierno de Cambiemos inventó recurrir al Fondo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1415
+}

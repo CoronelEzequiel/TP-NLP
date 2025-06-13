@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es un gobierno que no le entrega comida a los comedores y que la tiene ahí pudriéndose.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el gobierno de Milei, que mantiene cierta aceptación entre los argentinos que se van a Brasil, a Miami, a Madrid; que compran teléfonos y zapatillas en 24 cuotas mientras sus compatriotas —mientras los que comparten territorio, pero seguramente no sentimiento— se están muriendo de hambre.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto lo hacen amparados por el establishment económico que los sostiene, que les armó el plan; por el aparato de medios que los encubre; por periodistas mafiosos; por ese aparato de propaganda estatal que dice que en realidad no entregan la comida porque son ladrones.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De la totalidad de los comedores registrados en el Registro Nacional de Comedores y Merenderos de la Sociedad Civil (RENACOM), solo se pudieron relevar la mitad (52,3%).",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos con lo que reveló la auditoría del gobierno de Milei con respecto a los comedores populares.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3814
+}

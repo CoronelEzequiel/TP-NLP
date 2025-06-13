@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.71,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y pareciera que nos chupó un huevo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los hijos de estos presidentes están todos enriquecidos. Tienen cajas de seguridad llenas de dólares, pero nos chupó un huevo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vivimos en la tiranía absoluta de esta gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández se siente identificado con la filosofía de Mao. Alberto es una especie de zurdo de derecha.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hombre verdaderamente no resiste un archivo. Alberto Fernández tiene condiciones muy flexibles, bueno, como la mayoría de los políticos. Hoy juegan para River y mañana juegan para Boca.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y los argentinos haciendo piquetes para reclamar planes.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos, repetí, un rebaño de pelotudos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El *Lollapalooza* de los piqueteros!",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos toman el pelo, somos un rebaño de pelotudos, ahora van a hacer un show.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos un rebaño de pelotudos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8874
+}

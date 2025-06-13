@@ -1,0 +1,46 @@
+{
+  "texto_id": "¿Por qué? Y después, ¿qué consecuencia puede traer esto?",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.123,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Entonces, vamos a sacar cualquier otra cosa y lo quiero aclarar desde el principio. He conversado, por otra parte, con colegas, con distintos científicos, también con distintas ideologías y más o menos hay una coincidencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y la otra es que decimos, se dice que nos vamos porque no queremos que tomen decisiones que afecten la soberanía nacional.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Necesitamos tener alertas tempranas, información cierta, consultas con los mejores científicos e investigadores del mundo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que es una decisión de algo que no hacía falta.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me preocupa, me preocupa seriamente que quedemos fuera de escenarios estratégicos mundiales, globales, cuando hoy la verdad que no los podemos manejar como algo aislado, sino que las agendas políticas hay que verlas en el contexto mundial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que lo que sigue es adivinar que la tierra es plana, creo que lo próximo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos rumbo a eso muchachos, vamos a empezar a hablar de los reptilianos, vamos a empezar a hablar de los terraplanistas, vamos rumbo a eso.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2842
+}

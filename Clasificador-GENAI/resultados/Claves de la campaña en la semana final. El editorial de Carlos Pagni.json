@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los seguidores de un candidato festejan que anoche no se \"volvió loco\" delante de las cámaras, y los seguidores del otro candidato festejan que la inflación mensual es de nada más que 8,3%.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa acumula en su vida, desde chico, desde los veintipico años, capas y capas de marketing, de coaching, de entrenamiento. Eso se notó anoche. Muy producido, muy preparado. Preparado por un equipo profesional de brasileños contratados por Massa, enviados por Lula, dicen que financiados por **Francisco de Narváez**.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Del otro lado, Milei, también cumpliendo con el cliché de alguien a quien los que lo miran, lo miran con el temor, probablemente el morbo, con que se mira al equilibrista en el circo, esperando casi en cualquier momento que resbale y se caiga.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei representó, como viene representando, la voluntad drástica, radical de cambio, el hartazgo, el hartazgo frente a un oficialismo que se ha prolongado mucho al frente del poder y, con muy malos resultados, sobre todo en los últimos cuatro años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa, el eje central de su campaña, lo vimos anoche, lo estamos viendo todo el tiempo, va a ser el eje central de su campaña durante esta semana, es evidente que es el miedo, el miedo a Milei.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8845
+}

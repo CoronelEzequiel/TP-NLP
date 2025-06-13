@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si no hay peronismo para todos, tengo que venir igual.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo soy peronista; nosotros sabemos del sentido común.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Maslatón interviene y dice que el pH es el menos logaritmo de la concentración de hidrogeniones o de la actividad de los protones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como los mormones: casa por casa. Tenemos un gobierno con una inclusión imperfecta, pasaron cosas que no nos gustaron, pero es el gobierno que nos contiene.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1800
+}

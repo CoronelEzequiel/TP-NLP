@@ -1,0 +1,41 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.633,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La gente huye del peso. Eso es lo que está pasando.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay otros negocios que surgen en este contexto, como por ejemplo, multimillonarios que sacan créditos en pesos para comprar, aprovechando el dólar barato oficial, aviones en dólares en el exterior.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El aumento de tarifas que está pensando Guzmán y que tiene que convalidar, esto es un dato muy importante, el miércoles de la semana que viene en una audiencia pública, no le va a servir para nada.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, Guzmán se comprometió a un aumento de tarifas de aproximadamente el 43%, si es que la inflación iba a ser del 43%, pero con una inflación que hoy es anualizada del 80% o más, ¿cuánto debería ser el aumento de tarifas para que la reducción de ese gasto, que son los subsidios, haga juego con lo que él acordó con el FMI?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto Fernández ya no es el candidato, ni va a ser el candidato, de Cristina Kirchner para el año 2023.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la perspectiva, que es lo que temen los que le prestan pesos al gobierno, de que haya una reestructuración no solo de la deuda en dólares, que hoy en Argentina cotiza a niveles de *default*, sino también de la deuda en pesos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7410
+}

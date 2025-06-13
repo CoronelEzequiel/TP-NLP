@@ -1,0 +1,61 @@
+{
+  "texto_id": "El enojo del presidente Javier Milei",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El enojo del presidente Javier Milei no se debe al desacuerdo que manifestó en un tema económico el ex ministro de Domingo Cavallo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cavallo también tiene intereses políticos claramente, y no son los del gobierno.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero no solo porque vino de Cavallo, sino que respondió, o obedeció, mejor dicho, a intereses políticos que exceden a Cavallo.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Imagínense, Milei pone a la hija en un cargo cercano al gobierno.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero ahora, con este escrito en el blog, para Milei está totalmente relacionado lo que escribió Cavallo con la misma persona que, en aquel momento, le pidió interceder y que Cavallo tiene compromisos con esa persona, al parecer, por alguna intermediación en una causa judicial que lo complicaba.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero también es cierto que este gobierno, a diferencia de todas las administraciones anteriores, le está ofreciendo al organismo un plan fiscal que es muchísimo más duro de lo que pide el Fondo Monetario Internacional.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, Cristina Kirchner hoy, a mí no me llamó la atención, apareció hablando de este tema en la red X.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque sus chances son directamente proporcionales a que Milei tenga problemas en la economía.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, que, cuando se jugaba a hablar de esta manera de Cavallo o de Menem antes de ser presidente, ahora recibe una publicación que él considera poco menos que traicionera, de parte de esa persona que él, cuando era totalmente antipopular, elogiaba Cavallo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El \"club de la devaluación\" se le llama al sector que, por sus intereses particulares, aboga por un tipo de cambio más competitivo como forma de incentivar la economía, de obtener beneficios, y que está en las antípodas de lo que Milei considera un crecimiento genuino que no dependa estrictamente de una moneda más débil, sino que sea una situación derivada genuinamente del crecimiento de la economía.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4138
+}

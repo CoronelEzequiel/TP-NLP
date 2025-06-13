@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.838,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Votaremos a los candidatos que van a pelear por la presidencia de la nación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La batalla principal es entre un oficialismo autoritario y populista que destruyó el país con una mala praxis sin precedentes y una oposición republicana y popular que intentará reparar tanto daño.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández, el presidente decorativo de la nación, hizo abandono de tareas y se le podría iniciar un juicio laboral por eso.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Fue el peor presidente de la democracia y ahora es un espantapájaros patético que se dedica a responder preguntas por las redes y a planificar junto a su querida Fabiola Yáñez una gira mundial de despedida donde va a gastar fortunas que los argentinos no estamos en condiciones de gastar.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, la mariscal de la fuerte derrota electoral que se avecina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sergio Massa es el otro integrante del Triángulo de las Bermudas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa condena a la Argentina al masoquismo de un dólar que merodea los 600 pesos y de una superinflación que se acerca al 140%.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina, Alberto y Massa son igualmente culpables de este país a la deriva, de este gobierno en caída libre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2339
+}

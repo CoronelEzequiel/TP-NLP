@@ -1,0 +1,36 @@
+{
+  "texto_id": "La Argentina, al palo",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Nadie se imaginó, por lo menos yo no me lo imaginé, a un presidente tan débil con una vicepresidenta tan cínica como la dueña del gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por estas actitudes la Argentina está de rodillas, señores, y esta claque impresentable la aplaudía a la vicepresidenta.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy volvió a hablar Cristina. Inauguró el Eurolat, Eurolat que tiene nombre de chocolate para taza. ¿Cuánto cuesta un Eurolat? Le pongo un poco de leche y lo derrito.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está de rodillas por tu culpa. Cristina Fernández de Kirchner habla como si ella no fuera gobierno.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, vos y el Consejo de la Magistratura nos chupan un huevo. Cristina, tu impunidad nos chupa un huevo.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8682
+}

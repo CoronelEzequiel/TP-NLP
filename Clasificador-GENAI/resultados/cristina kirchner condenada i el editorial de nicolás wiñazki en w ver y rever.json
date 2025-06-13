@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.831,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Voy a denunciar por asociación ilícita agravada, defraudación, evasión fiscal y lavado de dinero a los señores Néstor Kirchner, Julio De Vido, Claudio Bonadio, Lázaro Báez, Rudy Ulloa Igor y Cristóbal López.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Condenarán a Cristina Fernández de Kirchner a la pena de seis años de prisión e inhabilitación especial perpetua para ejercer cargos públicos, accesorias legales y las costas del proceso, por considerarla autora penalmente responsable del delito de administración fraudulenta en perjuicio de la administración pública.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una noticia buena porque demuestra que las instituciones funcionan en la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner termina con esta condena y otros imputados, como José López y Lázaro Báez, que está preso por otra causa, lavado de dinero agravado, pueden ser juzgados, no sólo mientras están en el poder.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todos los ciudadanos no somos iguales ante la ley.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella logró que una de las querellas, la Oficina Anticorrupción, se baje del juicio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya está. Está condenada. Es corrupta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una noticia buena, sí, porque finalmente se pudo llegar a esta instancia y además con un fallo que demuestra que el lawfare, la persecución, no existe.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2374
+}

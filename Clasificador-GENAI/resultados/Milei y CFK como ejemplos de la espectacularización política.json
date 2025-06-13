@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei_cfk",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Te puede haber votado el 60%, pero si después la gente se caga de hambre, ¿de qué te sirve?…\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Al lado de este presidente, soy la condesa María Eugenia de Chicoff.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"En el fondo, ¿sabe lo que muestra eso? El miedo que me tienen. Lo grande que soy respecto a ellos, lo pocas cosas que son ellos respecto a mí.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Si juntas a Cristina, Massa y a Kicillof, es una bolsa de gatos. Si hoy fuéramos a una elección, sacaríamos 54% de los votos.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Discursos en donde queda muy poco margen para los que piensan distintos, para los que piensan diferente. Que convoquen más a los que ya no quieren estar de un lado o del otro, de un punto o de la otra.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5413
+}

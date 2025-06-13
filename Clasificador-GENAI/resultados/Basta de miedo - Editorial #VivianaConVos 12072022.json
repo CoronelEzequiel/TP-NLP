@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.83,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¿Cómo puede ser que esta gente nos quite la tranquilidad todos los santos días de nuestras vidas?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras, el presidente Alberto Fernández se reunía hoy con Evo Morales en Argentina, sigue el hambre, la inflación, la desocupación, el desabastecimiento. Los pibes no comen, pero él tiene tiempo para reunirse con Evo Morales.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Evo Morales, por ejemplo, es todo relato, como los K. Por eso se llevan tan bien.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ser políticamente correctos nos trajo hasta acá. Seamos políticamente incorrectos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Te vendieron asado en la campaña, ahora te dicen que los chanchos son inteligentes y que es mejor hacerte vegano. Te tratan de pelotudo, es increíble.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8675
+}

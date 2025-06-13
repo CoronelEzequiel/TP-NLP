@@ -1,0 +1,31 @@
+{
+  "texto_id": "alimentos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.163,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El periodismo no se limita a reflejar la realidad, a menudo injusta, sino a transformarla desde nuestro ámbito de acción.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno tuvo que reconocer que mintió al ocultar, desde hace una semana, cinco millones de kilos de alimentos sin distribuir desde diciembre, con riesgo de deterioro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado es responsable de garantizar el derecho a la alimentación, y Javier Milei en Estados Unidos dijo que no.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las verdaderas heroínas de esta historia no son los periodistas, ni este medio, sino las mujeres que sostienen los comedores, con amor, trabajo, angustia, cocinando y sirviendo, soportando meses en que no tenían alimentos que ofrecer.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1593
+}

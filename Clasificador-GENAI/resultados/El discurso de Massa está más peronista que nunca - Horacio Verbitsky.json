@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Massa comenzó el año haciendo una serie de reportajes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Sabe que la imagen de ansiedad y oportunismo que erosionó su potencial político está al acecho para reaparecer ante cualquier tropiezo. Miembro de una alianza nacional en que los intereses de los trabajadores tienen otros representantes, más se apega a un discurso que de todos modos lo considera como parte relevante.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo no tengo que hablar, tengo que hacer. Si usted analiza, desde agosto que me tocó hacerme cargo hasta acá, fueron planteando que aparecían obstáculos insalvables en septiembre, en octubre, en noviembre, vinculada la deuda, vinculada a la meta de reservas.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El Fondo Monetario Internacional no está cumpliendo con la Argentina. La verdad es que Argentina cumplió su programa, pero el Fondo no está cumpliendo con la Argentina, el revisar cómo van a compensar a los países que pagaron el costo de la guerra con su economía.\"",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2204
+}

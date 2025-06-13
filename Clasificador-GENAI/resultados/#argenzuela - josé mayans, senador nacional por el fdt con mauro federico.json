@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El problema es sencillo: tenemos una Corte Suprema que actúa políticamente, tomando decisiones políticas y comportándose prácticamente como un partido político.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La posibilidad de que se impida la candidatura de Cristina Fernández de Kirchner faltando pocos días para las elecciones. Esto es gravísimo, carece de fundamento jurídico y constitucional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri habló de \"feudos provinciales\", pero luego se retractó ante las críticas de la oposición, porque afirmarlo representaba una división en Juntos por el Cambio. Los “feudos”, en realidad, son exclusivamente peronistas. No existe ningún feudo que no sea peronista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si lo hubiese hecho cuando Macri violó la Constitución Nacional y la ley de Administración Financiera, al contraer una deuda impagable para la Argentina (100.000 millones de dólares), la situación sería diferente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, se debate entre un sistema liberal (representado por Macri, que nos llevó al default) y un sistema nacional y popular.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno ha enfrentado una situación económica compleja, sufriendo ataques con todo el poder mediático, la declaración del gobierno como servicio público, fue letal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2282
+}

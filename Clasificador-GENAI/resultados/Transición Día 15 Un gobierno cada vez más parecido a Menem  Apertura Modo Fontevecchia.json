@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Muy buenos días, primer lunes de diciembre, lunes 4 de diciembre. Abrimos este programa de hoy volviendo a los 90, de Los Prescindibles, para hablar del paralelo que se hace evidente entre menemismo y el futuro gobierno, o cómo pinta el futuro gobierno de Javier Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei anunció privatizaciones, al igual que Menem, piezas claves del programa económico de ambos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la semana pasada, contamos cómo Roberto Dromi, el funcionario menemista, autodenominado el ministro de las privatizaciones, le sugirió a Milei el envío de una ley ómnibus para tratar todas las privatizaciones y todos los cambios juntos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez más parece una versión siglo XXI del gobierno de Carlos Saúl Menem.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei comenzó hablando de la dolarización, ahora menciona la posibilidad de un dólar como moneda de uso cotidiano, junto con el peso, luego dijo que iba a recortar el presupuesto a 15 puntos, ahora a 5 puntos, que iba a hacer explotar el Banco Central, ahora dice que dejará de emitir,",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Menem tenía mayoría en ambas cámaras, mayoría de gobernadores, casi el 80% de los gobernadores, y Milei tiene muy pocos diputados y senadores, y ni un solo gobernador responde a su influencia directa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El armado de gabinete del nuevo gobierno trajo problemas entre Milei y Mauricio Macri.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, el gobierno de Javier Milei también tiene huellas del llamado pacto de Acassuso. El macrismo parece relegado a un segundo lugar, pero en el contexto en que la confusión avanza en lugar de la libertad, también reclama un lugar, el macrismo, o un lugar más importante dentro del gobierno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, el primer gobierno anarco-capitalista de la historia, que empezó con una campaña anticasta, terminó tomando para las funciones esenciales a políticos profesionales que han tenido cargos en los diferentes gobiernos, que, según Milei, fracasaron todos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "O sea, el día 15, la transición parecería indicar una suma de confusiones, por un lado, un retorno de la casta, en este caso de la casta menemista.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5059
+}

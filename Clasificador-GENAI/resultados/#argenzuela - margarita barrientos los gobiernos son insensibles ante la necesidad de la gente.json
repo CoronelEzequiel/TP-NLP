@@ -1,0 +1,51 @@
+{
+  "texto_id": "Argentina",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.106,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Argentina: Familias que no tienen la posibilidad de alimentar a sus hijos por la noche se van a dormir sin cenar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos de esos niños que no pueden comer y sus familias asisten a los comedores que usted organiza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, por supuesto. Todos los gobiernos han sido insensibles a las necesidades de la gente.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo veo mal. Con tanta necesidad, juegan con el hambre de la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablamos de los niños, los principales damnificados, pero también debemos hablar de los padres que a veces distribuyen un plato entre toda la familia, renunciando a comer ellos mismos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, en absoluto. No lo percibimos cuando vamos a comprar. Ayer fui a comprar alimentos para el comedor y no se nota en ningún lado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las verduras. Una bolsa de papas, 14.000 pesos. ¡Impensable!",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, mucha gente no compra leche; toman mate cocido o té.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1902
+}

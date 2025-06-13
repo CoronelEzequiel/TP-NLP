@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se esconde mucha hipocresía, mentira, el efecto lástima… cosas a las que estamos acostumbrados de parte de la señora.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se dio cuenta de que podía salir sin que un grupo de matones y delincuentes le rompiera el auto o la cabeza; sin Grabois y sus piqueteros, ni Esteche y sus bombas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y, gane o pierda el domingo, habrá 13 o 14 millones de personas fiscalizando cada acto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se acabaron los palos, Esteche, todo… y ojalá, con la ayuda de Dios, se acabe Cristina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que luchar por las libertades personales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No ahorren para dejarles dinero a sus hijos. ¿Y qué? ¿Y qué? Hay que empezar a ser libres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No soy político ni sociólogo, pero creo que deberíamos darnos libertad unos a otros, aunque sea una libertad condicional… pero hay que empezar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2570
+}

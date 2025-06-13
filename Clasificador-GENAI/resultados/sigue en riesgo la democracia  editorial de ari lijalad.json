@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "De vuelta, ya hay un reconocimiento de enormes sectores de la política, de la población, de que lo que se decide el 19 de noviembre es democracia o fascismo, y que está en riesgo la democracia, y que hay que hacer...",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras, Milei y algunos medios de comunicación insisten en que pueda haber fraude.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el que puede llevar adelante ese modelo económico, por ahora, en las encuestas no publicadas le está yendo bastante bien.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri se ha adaptado a esta situación y se ha adaptado muy bien.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ustedes saben que yo no confío mucho en las encuestas publicadas, entre otras cosas porque casi todas violan la ley.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2994
+}

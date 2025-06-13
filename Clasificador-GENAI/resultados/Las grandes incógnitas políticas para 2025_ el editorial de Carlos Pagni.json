@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La muerte de **Jorge Lanata** tiene un sentido especial porque ha marcado muchos años de la vida reciente en la profesión y en la política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un centro de gravedad política en la Argentina que se llama **Milei**. Por decirlo de alguna manera: alguien que manda, alguien que ordena.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se desarticuló todo un sistema de lucro con el tráfico de beneficios sociales, se potenciaron felizmente las asignaciones automáticas para los más pobres, que aumentaron muchísimo en términos de ingreso, es algo que este gobierno ha hecho, pero, probablemente, por un problema de insensibilidad frente a esa agenda, no se ufana de eso, como tampoco se ufana de haber disminuido la inflación, que es la disminución de la inflación, la mejor política social que uno le puede pedir a un país con 50% de pobreza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un sueño de concentración de poder, alentado por su entorno y alentado, sobre todo, por la figura que se ha ido convirtiendo también a lo largo del año en una figura principal del oficialismo, que es, entre comillas, un mero asesor que no ha querido comprometerse con la administración en términos profesionales, prefiere ser asesor, con todo lo que eso tiene de ventaja, supuestamente, sobre todo en materia penal, que es **Santiago Caputo**, el mago del Kremlin.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos hablando de candidaturas posibles a la presidencia del año 2027. Y un **Kicillof** que también teje alianzas raras, y una de ellas es con el radicalismo, con el radicalismo de **Yacobitti**.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8998
+}

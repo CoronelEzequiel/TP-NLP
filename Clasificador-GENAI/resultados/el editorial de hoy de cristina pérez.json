@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La sociedad tiene motivos para desconfiar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para avanzar y romper la última línea de defensa, cuentan con la complicidad del propio presidente, quien con sus vacilaciones ha destruido la confianza de sus aliados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ofensiva del kirchnerismo duro contra Martín Guzmán es, en realidad, una ofensiva contra el esbozo de un plan económico, que es el acuerdo con el FMI.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para dividir a la oposición, cuentan con la figura de Javier Milei.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Simulacros de populismo en una espiral de decadencia y voracidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La dignidad no es importante para alguien que solo busca esconderse.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2041
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.063,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Comida que, repito, está almacenada por lo menos desde diciembre, con el consiguiente riesgo de vencimiento, y que han decidido no entregar a los comedores y merenderos que funcionan en todo el país, sostenidos por miles de mujeres que están allí para dar de comer a más de 10 millones de argentinos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tener comida y dejar que se pudra en un país donde más de la mitad de las personas son pobres desata un nivel de crueldad que no habíamos visto.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es injusto, y es cruel e insultante que tengamos 14 millones de litros de leche guardados.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repartan la comida. La gente necesita esa comida.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el Estado debería pagarles un sueldo a esas mujeres que están ahí, sosteniendo a millones de familias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No espero que se manifiesten el radicalismo, el PRO, La Libertad Avanza, pero vuelvo a ver una desconexión grande entre los sectores más necesitados y la dirigencia política que dice representarlos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2678
+}

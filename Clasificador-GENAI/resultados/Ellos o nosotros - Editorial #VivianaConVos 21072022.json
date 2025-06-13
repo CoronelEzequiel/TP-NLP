@@ -1,0 +1,81 @@
+{
+  "texto_id": "musica",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.782,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Por qué tenemos que los argentinos sacrificar nuestras vidas para sostenerlos a ellos? ¿Por qué? Estamos entregando a nuestros hermanos, a nuestros compatriotas, a más pobreza y a más hambre por ellos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina está agonizando y estos tipos son soberbios sin talento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De semejante padre a semejante boludo. La Argentina, rota.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta democracia está absolutamente manipulada. Esta democracia está destruida por esta política, por estos políticos. Con esta democracia, tenemos destruida la política, la economía. Rompen, no respetan la Constitución. Destruyeron a la familia argentina. La partieron. Destruyeron la moral, la dignidad del pueblo, la paz.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este país hay un funcionario que no funciona y es Alberto Fernández.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández prefiere no gobernar que romper con Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando alguien estornuda en Moscú, un argentino se resfría.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La líder de la oposición es Cristina Fernández de Kirchner, la vicepresidenta, es increíble.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pactar con el kirchnerismo es muy difícil. Es lo más parecido a la fábula de la rana y el escorpión y que Cristina es el escorpión.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Grabois, que alienta la sangre en la Argentina, debe ser repudiado por todos. La Iglesia Argentina y el Papa Francisco deberían realizar una invocación por la paz y unidad del país. El Papa debe dejar de encubrir a los que alientan la violencia y expulsarlo a su gabinete papal.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina le has hecho mucho daño a esta Argentina empobrecida, arruinada. No vas a poder estar al lado de Dios.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entendés por qué este gobierno, entre otras cosas, nunca te va a contar todo lo que pasó con ese avión venezolano iraní que todavía está acá con los tripulantes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo en este país es de doble vara y de doble moral.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Atribuyen a la RAM el ataque a un centro turístico del Bolsón. La gente dice: 'En vacaciones de invierno, vinieron a quemarnos vivos'.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9228
+}

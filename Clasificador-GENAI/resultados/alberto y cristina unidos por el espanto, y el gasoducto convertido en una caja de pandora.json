@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Los reclamos de Cristina por el gasoducto iban de lleno a un tema de su competencia y devino en una embestida tan brutal en su contra, que eso lo llevó a exponer el poder de ella en la licitación y a dejarlos a todos espantados por trasladarlo a la justicia con la sombra de la corrupción.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El tiempo electoral, dice, que faltan un año y medio de mandato, pero otros tiempos son más breves: el tiempo de cierta financiación internacional para grandes proyectos, que no se da en años electorales, como el año que viene, se reduciría a meses.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El sentido común se fue perdiendo en toda la múltiple grieta que tenemos por todos lados, y creo que hoy está interviniendo la justicia, secuestrando, y es muy probable que terminaremos pagando en el invierno de 2023 el gas a 28 dólares, en lugar de 4 dólares que es lo que estamos pagando ahora, porque si la cosa sigue con la traza, no se va a dar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hay o no hay corrupción es algo que puede afirmar Paolo Rocca, pero que debe determinar la justicia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "“La dirección de YPF se encontró con una tendera, una gara, una licitación en la cual había un oferente líder mundial en esto, recién ganamos un gasoducto mucho más grande en Catar para esto, pero uno podría haber decidido dos cosas: cancelar la licitación, olvidarse el gasoducto para el 2023 y hacer otra licitación más adelante.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto y Cristina los unió el espanto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2869
+}

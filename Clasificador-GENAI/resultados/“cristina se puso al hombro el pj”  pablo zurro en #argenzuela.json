@@ -1,0 +1,66 @@
+{
+  "texto_id": "El reciente anuncio de una alianza formal entre Mauricio Macri y Javier Milei merece un análisis profundo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.094,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, en una entrevista con Nacho Quinovar, se discutió la conformación de este frente de derecha, que se presenta como una amenaza para el kirchnerismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para nosotros, Macri y Milei representan todo lo contrario a nuestros valores.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, el pueblo argentino sufre hambre, los jubilados no reciben sus pagos, se restringen los medicamentos oncológicos, se ataca a las universidades y se apoya un genocidio contra el pueblo palestino.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, quien dice que no se toma vacaciones, viaja por el mundo mientras el pueblo padece.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros, en cambio, debemos militar y trabajar para explicar que nuestro proyecto no fue un mero 'verano de doce años', sino una propuesta para mejorar la vida del pueblo argentino.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner ha sido un pilar fundamental del peronismo, enfrentándose a las corporaciones y defendiendo al pueblo.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ella es quien debe liderar este proceso de reconstrucción.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos, como Randazzo, han perjudicado al peronismo con sus alianzas.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos tenido líderes como Perón, Menem (cuyo gobierno fue desastroso) y el liderazgo excepcional de Néstor y Cristina Kirchner.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina sigue siendo una figura clave, a pesar de los ataques que ha sufrido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo la apoyo incondicionalmente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1470
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.243,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En algunas escuelas no hay aire acondicionado ni ventiladores, lo que complica mucho la situación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La suspensión de clases es una decisión individual de cada director; no hay una orden oficial del Ministerio.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es doloroso, porque hay chicos que soportan 34 grados en la escuela, y llegan a casas con techos de chapa donde la temperatura llega a 42 grados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos enviado comunicados recomendando aumentar el consumo de agua, realizar intervalos para el lavado de manos, suspender clases de educación física, utilizar patios sombreados, etc.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como Estado, debemos reforzar la ventilación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero hay mecanismos para mitigar el daño; se respeta y compensa a los alumnos que no asisten por el calor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pandemia dejó aprendizajes perdidos y secuelas subjetivas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1822
+}

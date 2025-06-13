@@ -1,0 +1,186 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.563,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy es uno de esos días donde “la casta” ganó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“La casta” se compone de los políticos ladrones, los que hacen cosas en contra de la gente.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es votar la violación sobre tablas a mano alzada del proyecto 615-24, de autoría de varios senadores, que obra sobre las bancas, requiriendo dos tercios de los votos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y así los senadores se aumentaron el sueldo en 30 segundos, en un minuto, de 1.900.000 a 4.500.000 pesos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los únicos siete que votaron en contra son los senadores de “La Libertad Avanza”.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más, te cuento que el senador Bruno Olivera tiene 16 asesores.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué había dicho Milei hace algunas semanas? Los legisladores no se tienen que aumentar los sueldos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No les dieron bola. Hicieron lo que quisieron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los senadores, en idioma de Oxford, como le gusta a Morando, se cagaron en Milei y en la gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para mí, tienen que ganar bien.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es fuerte y va a generar polémica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, como pensionada, gana siete veces, más de siete veces lo que gana un senador.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La vicepresidenta de “La Libertad Avanza”, Victoria Villarruel, nunca estuvo de acuerdo con el “marcha atrás” al “aumentazo” que había dicho Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy doloroso que los senadores se aumenten 136% de un saque.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay 5000 empleados para 72 senadores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macías es senadora hace 23 años. Es un dinosaurio de la política.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero también, entendemos que la respuesta de Israel fue desmesurada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parrilli no es un senador. Parrilli es el mayordomo de Cristina.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo tengo un amigo que dice, che, los radicales parecen eso que te dicen, “tenés cinco minutos para sacarle la mano del culo a mi mujer”.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un asesor categoría A1 gana 1.400.000 pesos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay un desvelozado, para entenderlo mejor. Es la verdad, muy irritante esto.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Senado gastará este año más de 61.000 millones de pesos en sueldos?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero, ¿está bien que se aumenten 30% a los jubilados, no?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los políticos no pueden cagarse en esto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta es casta.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que recortarlo todo, todo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta “casta” es la que agotó a la sociedad argentina.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por esta cosa ganó “Mi Ley”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que derrotar el ajuste, mirá por una gran rebelión de la pantalla.",
+      "score": 0.1,
+      "etiqueta": "ultraizquierda"
+    },
+    {
+      "frase": "Yo digo que hay un sistema de salud pública cuando los presidentes se atienden en los hospitales públicos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son unos chantas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No les creo nada.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y, ¿sabés qué? Sigue sin entender por qué perdieron.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero están bajando los precios.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De nada sirve el cambio si no es real.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 9313
+}

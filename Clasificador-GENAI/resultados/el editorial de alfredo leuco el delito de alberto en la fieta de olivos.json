@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "A los que se creen vivos, les digo: la Argentina de los que se zarpan y pasan por encima de los \"bobos\" se terminó.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy hace exactamente dos años, en la quinta de Olivos, Alberto Fernández perpetraba un delito grave y una inmoralidad descomunal.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peor presidente de la historia democrática celebraba de forma clandestina una festividad por los 39 años de su pareja, Fabiola Yáñez.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto entregó a su compañera a la primera de cambio con el solo objetivo de salvar el pellejo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus maniobras en la justicia lograron el objetivo y, con tres millones de pesos en concepto de reparación, está a punto de cerrar la causa que lleva adelante el juez Lino Mirabelli, un sobreseimiento que es una vergüenza por donde se la mire.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto se convirtió en un mentiroso serial, en un presidente mitómano, o tal vez desconocía el artículo 205 del Código Penal a pesar de ser docente, digo docente y no profesor, de la Facultad de Derecho.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2228
+}

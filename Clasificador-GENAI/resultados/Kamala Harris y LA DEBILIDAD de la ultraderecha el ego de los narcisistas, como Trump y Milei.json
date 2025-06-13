@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Decidimos abrir esta columna con la canción del cuarteto \"Nos\" que lleva, casualmente, por título \"Me amo\", para hablar del debate presidencial en Estados Unidos y, particularmente, del momento en que el candidato republicano, Donald Trump, perdió los estribos cuando su contrincante demócrata, Kamala Harris, atacó su ego.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a compartir y vamos a comparar, también, esos rasgos del ex presidente norteamericano que tienen en común con nuestro presidente actual, Javier Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora vamos a ver otro fragmento del debate en el que, ahora, nos venimos a la Argentina, Sergio Massa descoloca a Milei antes de las últimas elecciones y vamos a hacer una reflexión comparativa entre un tema y el otro, y el cambio de tiempo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez Kamala Harris haya dado una pista al progresismo y a los espacios políticos democráticos y republicanos en todo el mundo que una extrema derecha mundial conducida por personajes singularmente megalómanos tiene un potencial talón de Aquiles, que es el ego de sus representantes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3142
+}

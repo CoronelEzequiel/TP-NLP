@@ -1,0 +1,41 @@
+{
+  "texto_id": "324",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esto es un trabajo a largo plazo",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No tengo ninguna otra aspiración que no sea el bienestar de la selección.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La selección *invita*; no tiene ninguna obligación.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El mundo de los negocios destruye lo que significa un campeonato del mundo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que ser muy cuidadoso, por eso te decía: \"Ojo con el éxito\", ojo con el éxito.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La selección tiene que ser respetada, y respetada se sabe la verdad.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2505
+}

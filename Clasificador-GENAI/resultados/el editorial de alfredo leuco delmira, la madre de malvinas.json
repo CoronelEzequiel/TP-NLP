@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.828,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Murió Delmira Asenclever, la madre de Malvinas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre llevó la bandera de las necesidades y del reconocimiento que todavía siguen reclamando nuestros héroes desde abril de 1982.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Julio se anotó como voluntario para ir a Malvinas y fue acribillado a los 21 años.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Literalmente le puso el pecho a las balas para proteger a sus compañeros, como hizo desde el primer minuto que llegó a Puerto Rivero, como se bautizó primero a Puerto Argentino.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hace más de 40 años que Julio entregó su vida por la patria y es desgarrador recordar que ni siquiera pudo conocer a su hijita, Julia, que nació un par de meses después de su muerte.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue uno de los pocos soldados voluntarios, fue un apoyo permanente a sus compañeros de colimba del Regimiento de Infantería Motorizada de La Tablada, siempre con la misma alegría que tenía al frente del grado en la escuela, siempre ayudando a escribir y a leer cartas al resto de los soldados, siempre con optimismo.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hace más de 40 años que comenzó aquella guerra.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tras un manto de neblina no los hemos de olvidar, ni a nuestras Malvinas ni a nuestros héroes.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se lo juro por la memoria de Julio, el soldado maestro, y de Delmira, la madre de Malvinas. Por ellos vale la pena decir en voz baja: \"Que en paz descansen\", y por ellos vale la pena gritar: ¡Viva la patria!",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2326
+}

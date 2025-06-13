@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.831,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Que la memoria no muera nunca, que la memoria no se venda nunca, y que la impunidad no solo no nos permita hacer justicia para las víctimas del atentado a la AMIA, pido a todos que sigan ejercitando la memoria para ver si entre todos, aunque no podamos lograr justicia, podamos impedir que la impunidad gane la batalla.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hace 28 años que el Estado mira para otro lado, y este gobierno hipócrita que tiene un presidente que no \"preside\", Alberto, pasó de condenar con dureza a Cristina por haber sido la instigadora del tenebroso pacto de encubrimiento con Irán a decir, ligeramente, que fue un intento de destrabar y encontrar una solución.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En un instante, ese pacto espurio que encubrió a los terroristas de Estado que volaron la AMIA, para Alberto pasó de ser la evidencia de un delito a el intento de encontrar una solución.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cínico e hipócrita en estado puro.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Fue una puñalada por la espalda a las 85 víctimas y a toda la sociedad argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el terrorismo no se pacta, se lo combate.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Las vergonzosas idas y vueltas de Alberto también tuvieron su expresión en el caso de la dictadura venezolana, que es la cabecera de playa de Irán en la región.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él escribió lo siguiente: \"Solo un necio diría que el encubrimiento presidencial a los iraníes no está aprobado\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2311
+}

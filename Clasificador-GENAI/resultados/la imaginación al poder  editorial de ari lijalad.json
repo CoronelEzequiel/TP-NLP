@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.271,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En estos días observamos numerosos gráficos que reflejan la caída salarial, la disminución de las jubilaciones, el declive de la industria y la reducción de la capacidad instalada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer entrevisté a Mario Grinman, presidente de la Cámara Argentina de Comercio. Les recomiendo escucharla, pues se requiere mucha imaginación para sostener afirmaciones semejantes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, al hablar con mi gente, me cuentan lo mal que están, pero me dicen que, a pesar de la situación actual, tienen esperanza en este modelo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, con la verdad sobre la mesa, debemos construir un país normal. Los argentinos hemos vivido 70 o 100 años con mentiras y relatos que nos hacían creer que éramos un país de fantasía donde la luz, el transporte y todo era barato.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es curioso, porque uno puede criticar la emisión monetaria, los planes sociales y otras medidas que generaban dinero circulante que se traducía en consumo. Ese consumo era real: cuando una persona consume comida, come; cuando consume un medicamento, se cura; cuando consume una actividad recreativa, disfruta; cuando consume un mueble, lo tiene en su casa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su única agenda es reducir el costo laboral, a diferencia de la agenda de las pymes, como se vio ayer en la presentación del Observatorio de Pymes Argentinas, que indica que 14.000 pymes argentinas están en riesgo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, la \"imaginación al poder\" se invierte: imaginan cosas que no existen y dicen que lo que existía era imaginario: el consumo, el salario, el empleo, la comida, los medicamentos, las vacaciones, el teatro, los muebles... todo era imaginario, pero hay esperanza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1931
+}

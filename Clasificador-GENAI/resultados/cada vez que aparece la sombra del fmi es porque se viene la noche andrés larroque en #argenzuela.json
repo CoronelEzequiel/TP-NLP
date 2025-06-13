@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_larroque",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay buena predisposición en principio. Esperemos que se concrete.  Bahía Blanca sufrió varios temporales a fines de 2023 y principios de 2024, pero esto supera todo lo anterior. Por eso te preguntaba sobre la función del Gobierno Nacional, porque recordamos la frase de [Nombre del político, si se puede identificar, sino omitir]: \"se tiene que arreglar con lo que tienen\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una deuda de aproximadamente 9.500.000.000.000 de pesos con la Provincia de Buenos Aires: Fondo Incentivo Docente, Fondo de Transporte, fondos de infraestructura, etc.  El Gobierno Nacional ha paralizado obras y no transfiere fondos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es ilegal y traerá consecuencias negativas.  Se requieren la aprobación del Congreso.  Esto genera confusión e incertidumbre.  La última vez que se discutió un acuerdo con el FMI, casi se quiebra el oficialismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El oficialismo intenta desviar la culpa al kirchnerismo o peronismo.  Todos sabemos lo que pasó en la década del 90 con la convertibilidad. Son situaciones artificiales que se sostienen mientras hay dólares, pero destruyen la producción y el empleo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inversión del Estado Provincial en este tema es importante y contamos con recursos para la emergencia. Los daños estructurales requieren más tiempo y mayor inversión.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2194
+}

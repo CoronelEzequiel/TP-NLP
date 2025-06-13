@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.844,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El peor presidente de la historia democrática celebraba en forma clandestina una fiesta y agasajo por los 39 años de su pareja, Fabiola Yáñez.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el presidente no se privó de nada y de esa manera humilló a miles de víctimas del maldito COVID.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las críticas y los insultos a Fernández se multiplicaron hasta el infinito, sobre todo en las redes sociales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy directamente habría que hacerle un juicio por abandono de su puesto de trabajo o descontarle del sueldo los días en que no tiene ninguna actividad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto mintió descaradamente y juró por su hijo que seguramente es lo más preciado que tiene.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto entregó a su compañera a la primera de cambio con el solo objetivo de salvar el pellejo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto se convirtió en un mentiroso serial, en un presidente mitómano o tal vez desconocía el artículo 205 del Código Penal a pesar de ser docente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto se pasó la cuarentena estricta, por donde usted ya sabe, se la pasó.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue muy grave lo que pasó hace tres años en Olivos. Muy grave y muy contundente el rechazo que generó.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2229
+}

@@ -1,0 +1,101 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pablo Moyano recrea al sanguinario dictador Augusto Pinochet.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pablo Moyano está enojado y entonces decide dejar un país sin abastecimiento.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como sociedad esto, ¿no? Digo, es el mismo Moyano que hace muy poquito amenazó con tirar al Riachuelo a un ministro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta gente tiene poder, en serio, ¿eh? En serio, tiene mucho poder.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son el poder permanente.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Moyano, por ejemplo, era un cachorrito inofensivo.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora la inflación con Milei es culpa de Guillermo Moreno y de Milei.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Durante los cuatro años, los Moyano fueron gatitos sumisos del poder.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son gordos y poderosos.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gran problema de la izquierda es este que tengo acá atrás.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se avecina una catástrofe con todas estas decisiones que está tomando el Gobierno nacional día a día, que están generando la mayor crisis económica y social y educativa que recordemos en toda nuestra historia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto es una catástrofe.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gran temor del kirchnerismo es que esto salga bien.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno chocó al estado mal, ¿eh? Pero mal.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los mismos que chocaron al estado, ahora te vienen a dar clases de cómo manejar el estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei ha dicho cosas que Hitler no se animó a decir.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Peligrosa banalización del holocausto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Adoctrinamiento nunca más. Ni de derecha, ni de izquierda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7656
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.714,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es obvio que esto no puede seguir así.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los que alientan la sangre en las calles de la Argentina son asesinos en potencia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Obliga a la sociedad democrática y republicana a encender una luz roja de alerta sobre el tablero de las instituciones porque es capaz de hacer y decir cualquier cosa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue guardaespaldas de la impunidad de Cristina Fernández de Kirchner en los tribunales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este país ya lloró demasiadas lágrimas por el horror y el terror.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Grabois no cree que Cristina haya robado nada, no, dice que es una perseguida política porque está a favor de los pobres.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Grabois es de esos personajes que, enamorados de sí mismos, no se rinden y redoblan la apuesta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2387
+}

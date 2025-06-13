@@ -1,0 +1,36 @@
+{
+  "texto_id": "La_nicaragüización_de_Venezuela",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La crisis venezolana, desatada tras el cuestionado resultado electoral que le dio la victoria al presidente Nicolás Maduro, siguió escalando durante todo el día de ayer, en el que se produjeron importantes movilizaciones contestadas con represión por parte del gobierno.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguramente, el 28 de julio sea el comienzo de otro ciclo: la decadencia de una forma de ejercer el poder que pierde toda formalidad, todo estribo y abandona cualquier mínima formalidad democrática.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los manifestantes en Venezuela tuvieron una reacción iconoclasta. Es decir, de quienes se oponen a las imágenes como culto a la personalidad y atacan a lo que representan los venezolanos. Se movilizaron hacia varias estatuas de Hugo Chávez y las derribaron.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nos preocupa seriamente que el resultado anunciado no refleje la voluntad ni los votos del pueblo venezolano. Es fundamental que cada voto se cuente de manera justa y transparente, que los funcionarios electorales compartan la información de inmediato con la oposición y los observadores independientes sin demora y que las autoridades electorales publiquen las actas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Chávez representó los anhelos y los sueños de gran parte de los venezolanos y las misiones, las expropiaciones y su planteo fueron apoyados en su momento popularmente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4026
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.738,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo a la UBA la quiero, la defiendo, necesitamos educación pública buena, de calidad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei también ajusta. Milei recontraajusta, lo lleva a 128 millones de dólares.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ajuste en la UBA. Menos 36,3%.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo lo que digo es: \"probá ir a Colombia como argentino\", en serio, probá, viajá a Colombia o viajá a donde quieras y probá estudiar gratis abogacía o antropología o periodismo-psicología y te pegan una patada en el medio del \"tujes\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La única manera de bajar la inflación es destruir el déficit fiscal.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por ejemplo, la película \"Mal Cogidas\" es una película financiada también por el INCAA, que debe ser extraordinaria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que el ajuste hay que hacerlo. Ahí, en esas cosas. No creo que con la educación.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Massa nunca fue a la UBA, no le importa la UBA.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 7636
+}

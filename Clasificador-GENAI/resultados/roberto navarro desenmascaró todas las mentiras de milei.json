@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milagros",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.367,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En ella, Milagros afirmó que todos los detenidos eran delincuentes, terroristas y habían intentado un golpe de Estado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La resolución de la jueza federal María Romilda Servini explica que no se les secuestró ningún elemento compatible con los cargos imputados: ni máscaras, ni armas, ni piedras, ni palos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI advirtió sobre esto: el camino hacia la estabilización sigue siendo incierto, la recesión podría prolongarse, y el proceso de desinflación podría ser más persistente, provocando penurias prolongadas e intensificación de las tensiones sociales, incluso con el refuerzo del gasto social.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como tercer ejemplo, Milagros mencionó que al gobierno le \"volvió a sobrar plata\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este juego de tener periodistas complacientes para que el presidente mienta no aporta nada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La única verdad es la realidad: la gente se hunde cada vez más, y no entiendo dónde se hacen las encuestas, porque todos los que conozco, tanto quienes votaron como quienes no lo hicieron, están mal, tristes, angustiados y enojados por la mentira.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1636
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.881,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hay que decirle: \"Hermano, te resto mi apoyo\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, porque quienes manejan el país no son educados.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y los vagos que lo acompañan… porque hay maestros maravillosos, pero hay atorrantes, vagos, que se ponen contentos y dicen: \"¡Vamos todavía! Tres semanas sin clase, ¡qué suerte!\", \"¡Vamos Baradel, carajo!\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Que los chorros, los presos, se van a vacunar antes que el abuelo; o sea, conviene ser chorro.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Además, si no estudias y sos un inútil, el gobierno te va a premiar y te va a dar planes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y si no sos un delincuente, sos del otro bando: de los que pagan impuestos, de los ingenuos, de los que Alberto Fernández vacuna como a gorilas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mejor dicho, ni los vacuna porque además se robaron las vacunas, hijo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y si querés vacunarte, andá y robá una.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2597
+}

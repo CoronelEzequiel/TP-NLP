@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El juez Julián Ercolini acaba de procesar con prisión preventiva a uno de los testaferros del cártel de los pingüinos millonarios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La causa es un desprendimiento de la de los cuadernos de las Coimas-K e involucra principalmente al secretario privado de los Kirchner, Daniel Muñoz, que falleció en mayo de 2015.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muñoz fue un integrante clave del cártel de los pingüinos enriquecidos de forma ilegal y colosal.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Muñoz era el encargado de recibir los bolsos, las valijas y las mochilas cargadas de dólares y euros sucios, esconderlos en el sur y luego lavarlos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Está claro que los Kirchner fueron los patrones del mal de Santa Cruz.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Corrupción, coimas, lavado, delincuencia de Estado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El juez Claudio Bonadio, en su momento, escribió que esta era una organización criminal liderada por Cristina para recaudar fondos ilegales, y tal vez por eso la expresidenta, en su momento, dijo \"menos mal que se murió Muñoz\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Solo en la Argentina kirchnerista podía ocurrir semejante desastre.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2196
+}

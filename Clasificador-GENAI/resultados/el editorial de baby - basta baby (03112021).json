@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.908,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Ustedes hablarán del periodismo mercenario, porque yo cuando el kirchnerismo dice que los periodistas son un virus, que son fachos, yo creo que están hablando de C5N, que están hablando de Radio 10, de algunos periodistas, o de Navarro, yo creo que cuando hablan del mal periodismo están hablando de esa gente que hace operaciones siniestras, como el *PUPU* y todo esto, para beneficiar a los delincuentes del gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que la pandemia son ustedes que tienen 120.000 muertos por afanarse las vacunas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Creo que la pandemia son ustedes por haber dejado a la Argentina sin plata, destruida.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que la pandemia son ustedes por haber desabastecido supermercados y por imprimir 100.000 pesos por segundo de un billete que se limpia en el culo y no sirve para nada.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso Gollán, Bianco, Cristina, me gustaría, no sé, si quieren, ya que están tan sucios y ya que han cometido tantos delitos, que se retracten con el periodismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero aclaren los ilícitos de la jefa. Después devuélvannos la guita que se afanaron. Y ya que está, tráigannos la vacuna que se robaron.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2954
+}

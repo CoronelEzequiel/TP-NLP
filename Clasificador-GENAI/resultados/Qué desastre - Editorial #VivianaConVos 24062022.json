@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esta gente ha provocado un daño irreparable, ¡qué desastre! Han hecho las cosas muy mal. Han devastado la Argentina. Esta gente que nos gobierna es una desgracia para este país, ¡qué desastre! Por sus ambiciones personales, por el poder, por la plata, han dejado a la Argentina en ruinas. No son patriotas, son una calamidad. Son miserables, les gusta adoctrinar al pueblo, a la gente, a los pobres, les gusta que los aplaudan. Son de lo peor, ¡qué desastre!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirad esta foto, esta imagen, es una postal de lo que se ha conseguido en 20 años de kirchnerismo. Ahora estamos mucho peor. **Néstor**, **Cristina** y la gente durmiendo en la calle. Ellos que te hablan tanto de los pobres, ellos se lo chorearon todo, por eso estamos así hoy los argentinos. Se lo fugaron todo, se hicieron más que millonarios. Todo con la nuestra, ¡qué desastre! De todos modos, si hablás con ellos te dicen: “Ah, pero Macri…”. No saben decir otra cosa, son puros relatos, son los reyes del relato. Apropiadores seriales, se han apropiado de los derechos humanos, del día de la mujer. Se apropiaron de todo, ¡qué desastre! Pero te venden que ellos son los buenos y nosotros somos los malos. Ahora esta foto describe a la perfección la realidad, puro relato. Ellos en lo más alto y la gente, el pueblo en la calle, cagado de hambre y durmiendo en una vereda.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y elimina la base legal que permitiría el aborto en todo el país. Ustedes saben que yo defiendo la vida desde la concepción sola, desde los medios de comunicación. Te digo, no al aborto. Y ya les dije mil veces por qué. Yo no quiero legalizar la muerte. Nunca. Yo sé que muchas de ustedes están a favor de descartar la vida de los niños en el vientre de la madre. Por ejemplo, ustedes proponen, dicen que hay que descartar a los niños con síndrome de Down. Yo estoy del lado de Mica. Un hijo es un hijo siempre. Con el aborto se puede abortar a una criatura con síndrome de Down hasta los nueve meses. ¿Te parece justo? ¿Te parece que está bien? A mí, no. Es el derecho a respetar la vida del otro. Con tu cuerpo hacé lo que quieras. Cuando tenés un nene en la panza, yo lo pensaría.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8567
+}

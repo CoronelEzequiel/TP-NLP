@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo sé que el \"Negro\" se murió, por supuesto, hace 15 años, aunque me cueste procesarlo, porque sigue siendo el símbolo de la amistad frente a un pocillo de café, como dice el tango.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gracias por reinventar el realismo costumbrista argentino, por conocernos como nadie, por mostrarnos con ternura, gracias por escribir como los dioses y no preocuparte porque las capillas literarias jamás te reconocieron.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gracias, \"Negro\", por ser amigo de Crist, es decir, de esa magia que dibujas llamada Cristóbal Reynoso, o simplemente \"Mandrú\" para los amigos del vino manso y la servilleta garabateada con la creatividad de los talentosos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por haber sacudido toda la formalidad del Congreso de la Lengua, como escuchábamos al principio, y reivindicar ante los académicos más rigurosos y circunspectos el valor de las malas palabras, que no son tan malas.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vos consagraste ese \"pelotudo\" y \"mierda\" que son términos irreemplazables, pura contundencia y melodía.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nunca te gustaron los sacerdotes del dogma ni las verdades reveladas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gracias por ser tan \"Rosario\" de las mesas del Cairo, porque siempre estuviste cerca como ese Rosario que es una colección de tardes preciosas en la voz del halo de los santos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Organiza para mañana un picado entre las nubes, y después una picada en un bar de Morondanga, eso sí, invita a los amigos y no te mueras nunca, \"Negro\" querido.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2827
+}

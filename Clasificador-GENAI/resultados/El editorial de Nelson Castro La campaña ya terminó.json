@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.411,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es muy importante votar por quien usted quiera, pero es fundamental hacerlo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos cuidar este instrumento esencial, aunque no el único, sí fundacional de la democracia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sobre todo, es crucial transmitir esto a la gente joven, que, afortunadamente, quizás no ha experimentado lo que costó en Argentina imponer y consagrar esta costumbre, esta sana costumbre de votar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Costó la vida de muchos lograr que el voto fuera un derecho que se ejerciera con esta regularidad y frecuencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, cuidémoslo. Es una obligación que tenemos, la de cuidar este derecho, porque de él depende nuestra democracia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese día hablamos todos, ese día no podemos dejarlo pasar, ese día no puede ser objeto de indiferencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese día, como ocurre en cada elección, proyectamos nuestro futuro, nuestro destino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese es un día suyo, mío, nuestro; es el día de la ciudadanía.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No lo olviden, ¡vayan a votar!",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1057
+}

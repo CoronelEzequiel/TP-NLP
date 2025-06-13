@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer volvió a hablar Alberto Fernández, habló de la pobreza en la Argentina y volvió a cuestionar a la justicia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Mientras el gobierno discute desde el día 1, desde que asumió, una agenda paralela que nada tiene que ver con la sociedad, nosotros estamos empantanados con estos rastros que no solamente asustan, sino que claramente es una cachetada a la dignidad de todos los ciudadanos.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"No, muy complejo, pero esto, indudablemente, no viene de ahora. Esto viene de hace unos cuantos años, esto responde a la mafia de Clarín y de los multimedia, el jefe de la mafia es Mañeto y ahí baja órdenes a varios, a varios de la corte, a varios jueces, a Macri.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No, es igual de bandido y sinvergüenza, porque el tipo que no diga que no ponga la cara para no pedirle que se conmogan en un momento cruzado, lo ando con media tinta. Esta es la verdad, no le dejo a masa características que no tiene.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer quedaron muy conmovidos en la sala después de escuchar a esta mujer que intentó hacerle las primeras maniobras de RCP, de primeros auxilios a Fernando.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5693
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.279,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La emoción por la posibilidad de una tercera victoria argentina en esta categoría —parafraseando la canción \"Muchachos\" que resonó durante el Mundial— es palpable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá del mérito artístico de estas tres películas, no es casualidad que aborden un tema común: la dictadura cívico-militar argentina (1976-1983), la represión ilegal, el Juicio a las Juntas y las atrocidades del genocidio perpetrado por las Fuerzas Armadas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde las declaraciones de Sergio Massa en 2013, proponiendo la intervención del ejército para combatir la inseguridad, hasta las posturas pro militares de figuras como Patricia Bullrich, se han registrado intentos —con poco éxito— de militarizar la respuesta a problemas sociales.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La decisión del presidente Alberto Fernández de enviar gendarmes y fuerzas armadas a Rosario para combatir el narcotráfico, bajo el pretexto de tareas de urbanización, constituye un peligroso precedente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto indica que las fuerzas de seguridad son parte del problema, no la solución.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La represión se centra en los eslabones más débiles de la cadena narcotraficante, dejando impune a los grandes empresarios, políticos y funcionarios corruptos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La nueva intervención militar solo sirve como estrategia distractiva, \"falopa para consumo electoral\" como la diputada Myriam Bregman lo expresó correctamente.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1719
+}

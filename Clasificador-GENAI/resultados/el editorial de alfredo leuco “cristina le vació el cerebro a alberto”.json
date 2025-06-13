@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "De tanto \"machacarle\" la cabeza, finalmente Cristina Fernández de Kirchner logró su objetivo y \"le vació el cerebro\" a Alberto Fernández.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahí anda Alberto Fernández, diciendo estupideces cada vez más graves e irresponsables.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para atacar a Horacio Rodríguez Larreta, fue capaz de decir que no le entreguemos el poder a los que manejaban el PAMI cuando se suicidó Favaloro.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La corrupción de los sindicatos peronistas envenenó la vida de Favaloro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jamás imaginamos un hundimiento tan profundo para estar acompañados en el ranking horroroso por Zimbabue, Venezuela, Siria, Líbano y Sudán.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A este lugar terrible nos empujó el triángulo de las Bermudas de Alberto Fernández, Cristina Fernández y Sergio Massa.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2235
+}

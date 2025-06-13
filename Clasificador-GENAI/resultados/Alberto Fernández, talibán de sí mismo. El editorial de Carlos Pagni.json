@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Puede ser que en el momento de la elección nadie se acuerde de la temperatura emocional que tiene hoy.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El 70% de la gente dice: \"Este año es peor que el anterior para mí, y el que viene va a ser peor que este\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el gobierno mantiene, si el gobierno obtiene, escucha lo que te digo, si el gobierno obtiene un número de votos que lo inspira, que lo lleva a hacer un acuerdo con el Fondo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Poder que no abusa, pierde prestigio.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8620
+}

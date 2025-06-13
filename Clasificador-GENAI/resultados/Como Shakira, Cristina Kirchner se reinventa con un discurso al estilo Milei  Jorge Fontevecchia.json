@@ -1,0 +1,26 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "no",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "no",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "no",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8610
+}

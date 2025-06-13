@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.143,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno lo que ha perdido es la sutileza en absolutamente todo. Es un gobierno sin sutileza, sin sensibilidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un escándalo lo que está pasando. Y todo parte también… del festejo individual, personal, de Milagros, del otro día en una parrilla.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque en el gobierno de Macri, recuerdo que a C5N lo que hacían era interferencia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El único que está hablando de la canallada… de la canallada con el tema de los alimentos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los estás viendo cagados de ambición, capaces de mandarles la comida.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si alguien no lo hubiese denunciado, si no nos hubiésemos subido todo… eso queda ahí. Hay que investigar esto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no hay que dejar que lo romantizan. Cayó un 20% el consumo de leche, así como el consumo de pan que por ahí crece. Hay gente que deja de darles a sus hijos un vaso de leche caliente a la mañana y le da un mate cocido. Es terrible, de verdad. Los pibes tienen hambre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4164
+}

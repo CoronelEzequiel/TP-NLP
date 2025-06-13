@@ -1,0 +1,86 @@
+{
+  "texto_id": "Audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a entrevistarlo, vamos a tener mucho tiempo para que nos cuente qué es lo que nos está pasando.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Inflación, ahí tenés a un interlocutor privilegiado esta noche, como vos dijiste que es Domingo Cavallo, que fue el protagonista de una de las pocas veces en que la Argentina pudo derrotar la inflación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la tercera \"I\", inseguridad, que estalla por un caso más, un caso de los habituales, lamentablemente, que son dos jóvenes, uno de 29 años y una chica de 15, que asesinan a un trabajador que estaba trabajando un domingo en un kiosco de Ramos Mejía.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y fíjate que tan central es que el kirchnerismo, sobre todo Cristina Fernández de Kirchner, concede en la provincia de Buenos Aires la presencia de alguien tan disonante con el discurso oficial como Sergio Berni, que se ha manifestado incluso burlándose de las organizaciones de derechos humanos y que nadie ha dicho nada respecto de eso dentro del oficialismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y principalmente los últimos días, sobre todo, con perfil alto, Berni. Bueno, y ahora está ya esto en medio, en el peor momento en términos electorales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sería tremendo que fuera así. Esto, como vos decías, en medio de una campaña muy peleada en la provincia de Buenos Aires y muy peleada en el resto del país.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno declaró que no era una cuestión nacional, no era una cuestión federal. Y sin embargo, la semana pasada, el gobierno de Chubut, que se ha aclarado, y sin embargo, la semana pasada, el ministro de Seguridad recibió al subsecretario del interior de Chile, vamos a hacer un paréntesis mientras hablamos de la elección con este tema, Pancho, se llama Francisco Gali.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y el gobierno volvería a estar frente a una derrota.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí no me cabe ninguna duda de que Macri es candidato a presidente, y es un más candidato a presidente muy objetivo para llegar a la presidencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto estamos viendo y después vamos a volver a hablar de esto. Seguramente, Pancho, una fractura importante en Juntos por el Cambio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero ya tenemos lo que hablamos, una fractura importante no dentro de Juntos por el Cambio, dentro del PRO. Macri versus Larreta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que también va a ser interesante preguntarle a Cavallo, si hay algún programa, teniendo en cuenta actualizaciones cambiarias del tipo de cambio, aumento de tarifas, que le puede garantizar a Cristina Fernández de Kirchner una recuperación del salario real de 2023.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La pregunta que yo me haría, Pancho, en las oposiciones, Juntos por el Cambio es ¿cuál es el líder?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero la unidad de Juntos por el Cambio está tan garantizada.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y el gobierno volvería a estar frente a una derrota.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 9516
+}

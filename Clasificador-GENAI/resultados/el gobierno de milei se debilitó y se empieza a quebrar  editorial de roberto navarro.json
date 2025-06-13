@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.615,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, si se excluye el impacto del sector agropecuario, afectado por las condiciones climáticas, la caída de la economía en junio fue de casi el 9%, una situación catastrófica similar a la de 2001, cuando se produjo el corralito.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ajuste económico continúa, y en el mismo mes en que se implementarán los descuentos del IVA, se eliminó el precio máximo de la garrafa de gas, utilizada por el 40% de la población.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy se debate un cambio en la fórmula jubilatoria que generará un aumento del 8% en las jubilaciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto genera una gran incertidumbre para quienes evalúan la posibilidad de cobrar la deuda argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos fondos se destinarían, entre otras cosas, a la propaganda gubernamental en redes sociales para promover las iniciativas del gobierno y desprestigiar a la oposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno se debilitó por conflictos internos y, en parte, por las estrategias de Unión por la Patria, así como por la confrontación con Mauricio Macri, que amenaza la estabilidad gubernamental debido a la escasa influencia del oficialismo en el Congreso.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri, a través de declaraciones de  (se elimina nombre para mantener la neutralidad), dejó claro que su accionar fue premeditado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En una entrevista con Jonathan Viale, Javier Milei respondió a estos acontecimientos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En un tuit, Bullrich acusó a los diputados que votaron contra el gobierno de estar del lado del narcotráfico y el terrorismo, en el contexto de amenazas sufridas por el Presidente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se difundieron imágenes de Macri con un arma, presentándolo como un terrorista, alimentando la confrontación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri cuestionó los gastos del gobierno actual comparándolos con los de su gestión, un argumento refutado por el Ministro del Interior, Guillermo Franco, quien resaltó las acciones legales contra Macri por presuntas irregularidades durante su mandato.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri se opuso a su designación, lo que demuestra la fragilidad del gobierno de Milei, que ya ha despedido a numerosos funcionarios, incluyendo a su jefe de gabinete.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este clima de confrontación, incluso con episodios de violencia física, debilita la gobernabilidad y podría tener consecuencias económicas severas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2432
+}

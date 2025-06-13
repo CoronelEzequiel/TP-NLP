@@ -1,0 +1,101 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.622,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Finalizó el mandato de Macri.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La reja es lo de menos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque Cristina no está en ningún lado, salvo cuando va a Comodoro Py a declarar por sus presuntos ilícitos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y le digo, a mí lo de Luján me emocionó.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubiera comenzado a humillar a Macri con sus miradas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es una auténtica Cristina? ¿Una conventillera? ¿Una delincuente? ¿Una estadista? ¿Una mentirosa? ¿Una mujer con esas películas de Blancanieves?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y yo creo que Alberto Fernández es un auténtico Alberto hasta que llega a Cristina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y a Cristina y a Alberto mañana empieza un ciclo donde Dios quiera y la Virgen les ayude a que les vaya muy bien y los vamos a apoyar.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy ya vi Plaza de Mayo con las banderas colgadas del mástil, con las pancartas sucias, con la gente que se va a quedar a pasar la noche de los sindicatos velando las armas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pueden pasar varias cosas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y empiezan a abrir las fábricas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y empiezan a andar los ferrocarriles bien.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y nadie se va a quedar sin trabajo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se olvidan que por un lado quieren trabajo y por el otro, matan gallinas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para mí, estamos bloqueados por dentro, porque si vos ves quién despidió a Macri, tiene un 50% de la derecha que por la calle te levantan los pulgares y te dicen \"no flojee, no flojee, no flojee\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Del lado de afuera, hay una América dividida. Entre unos populistas, como Venezuela, que están regidos por la dictadura y el hambre, y por países de derecha que se quieren acomodar al lado de Estados Unidos, calentito porque saben que están mejor.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos mal, no tenemos solución.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que no se peine que no hay solución.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3164
+}

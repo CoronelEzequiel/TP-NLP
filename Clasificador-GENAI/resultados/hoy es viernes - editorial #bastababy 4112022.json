@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.737,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Voy a hablar con claridad, porque en los medios hay mucha hipocresía.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En mi opinión, fue legítima defensa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero esto no nos pasaría ni a este hombre ni a mí si no fueran por los grupos de derechos humanos, que ya salieron a decir que esto fue una barbaridad.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estoy completamente a favor del ingeniero.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La culpa de la muerte de ese chico no la tiene el ingeniero, ni la policía, ni nadie. La tiene Baradel, ese sinvergüenza, que lleva diez años sin clases, con una educación de mierda, con paros y movilizaciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner nunca se preocupó por los pobres. Ella los usa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada vez que matas a un delincuente, te quedas con esa mierda por el resto de tu vida.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El odio que sembró, la grieta, se le volvieron en contra.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2277
+}

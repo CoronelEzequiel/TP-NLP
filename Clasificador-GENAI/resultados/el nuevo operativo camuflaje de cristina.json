@@ -1,0 +1,46 @@
+{
+  "texto_id": "Cristina Fernández de Kirchner y la volatilidad política argentina",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La velocidad con la que lo \"nuevo\" envejece en el gobierno de los Fernández sorprende.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La portavoz presidencial, Gabriela Cerruti, desmintió a Cristina Fernández de Kirchner el jueves anterior, calificando de \"golpista\" a un periodista y negando la existencia de un \"festival de importaciones\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se afirma que la salida de Silvina Batakis fue un golpe duro para Alberto Fernández, representando su derrota interna y un obstáculo insalvable para sus aspiraciones futuras.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras tanto, Cristina Fernández de Kirchner sigue con sus maniobras de distracción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La realidad es que Cristina Fernández de Kirchner no cambia.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La situación indica que Cristina Fernández de Kirchner es la probable candidata del peronismo y que Alberto Fernández ha abandonado sus aspiraciones de reelección.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La capacidad de Cristina Fernández de Kirchner para generar confusión es tal que hasta sus propios aliados han quedado perplejos ante su reciente giro en torno a los planes sociales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2280
+}

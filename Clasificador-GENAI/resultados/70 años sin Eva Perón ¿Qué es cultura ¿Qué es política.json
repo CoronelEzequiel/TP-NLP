@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estaba toda la élite argentina y toda la industria audiovisual de la Argentina.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y aquí viene, a mi juicio, el error estructural de Cambiemos: creer que, porque se ganan las elecciones, se venció al peronismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eva fue la verdadera creadora del concepto de justicia social que vino a reemplazar el de caridad o beneficencia que hasta ese momento había reinado, omnipresente en la República Argentina, en torno a cómo llegar a los pobres, a los que no tenían nada, casi como una concesión, casi como una caridad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que ese fue... Ese amor y ese odio fue parte históricamente de la Argentina y, lamentablemente, sigue siendo parte hoy de la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3317
+}

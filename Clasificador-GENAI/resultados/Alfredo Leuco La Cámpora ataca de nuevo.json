@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Atacan de nuevo con sus ideas vetustas en contra de los medios de comunicación, los empresarios y el Fondo Monetario Internacional.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En forma sigilosa y a paso redoblado, La Cámpora se está quedando con la suma del poder en la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Van por todo, como le recomendó Cristina Fernández, con todos los resortes en sus manos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para ellos el poder debe ser total o no será nada y eso se llama totalitarismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner también fue el máximo responsable junto a su cómplice Axel Kicillof de la paliza que sufrió en las urnas.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Defenderán su territorio, por supuesto, pero se lavarán las manos de la suerte de lo provincial y lo nacional.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En las elecciones casi todos los candidatos de La Cámpora, que es la \"Guardia de Hierro\" de Cristina Fernández, fueron derrotados por la realidad y por la oposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2176
+}

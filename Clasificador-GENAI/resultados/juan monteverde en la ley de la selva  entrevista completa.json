@@ -1,0 +1,61 @@
+{
+  "texto_id": "entrevista_a_juan_monteverde",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.17,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Primero, es la primera elección en la era Milei, que revelará el respaldo popular a su plan económico.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo, considero que representa una oportunidad —lo comentábamos antes de comenzar la transmisión— para elevar el nivel del debate político, ya que vamos a reformar la Constitución.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Discutir una Constitución, para nosotros —a diferencia de Llaryora, que solo busca la reelección—  significa una gran oportunidad para imaginar y superar los límites de lo posible.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos orgullosos de la lista que hemos conformado en unidad con el peronismo; en Rosario, en 2023, estuvimos muy cerca de ganar las elecciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, esta experiencia de unidad —todos los sectores del peronismo santafesino están dentro— con renovación —la encabezamos nosotros— mirando de frente a la sociedad y asumiendo las deudas de esta democracia con su gente, es importante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Proponemos el 82% móvil con rango constitucional para los trabajadores públicos de Santa Fe, en un contexto donde vemos lo que sucede todos los miércoles con los jubilados en Argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy tenemos un frente —Ciudad Futura a la cabeza, el frente renovador, distintos sectores del peronismo— unidos por la idea de que en Argentina hay un enfrentamiento entre autoritarismo y democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que lo que me trajo hasta acá, la militancia, es poder materializar las ideas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde que gané con mi ley, en lugar de decir \"cambio de época\", digo \"época de cambios\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy convencido de que la salida para Argentina es de abajo hacia arriba, de la periferia al centro.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3337
+}

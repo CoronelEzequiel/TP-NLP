@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_ley_base",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Uno es evidente: la derecha argentina demuestra una voracidad excesiva, llegando a destruir lo que necesitan para su propio funcionamiento; por ejemplo, un mercado local para comercializar sus productos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El otro aspecto es la enorme mediocridad de una clase dirigente gris, indolente y acomodada, que se asemeja a lo que Mireya refiere como \"casta\": preocupados por conservar sus puestos, sin trabajar mucho, ni pensar, ni capacitarse.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se eliminarán las multas para los empleadores que contratan personal en negro. Actualmente, si un empleador despide a un trabajador en negro, además de la indemnización, enfrenta denuncias ante la AFIP (Administración Federal de Ingresos Públicos), con el consiguiente pago de impuestos y multas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la propuesta refleja la voracidad del empresariado y la mediocridad de la dirigencia, ofreciendo una solución anacrónica en lugar de una modernización laboral real.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1478
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.08,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En el caso de las universidades, creo que en algún momento las arancelarán. Y ahí se rompería, no digo la igualdad de oportunidades (el hijo del pobre nunca tiene igualdad de oportunidades; el padre rico tiene relaciones, tiene otras posibilidades), pero sí se emparejan bastante las posibilidades de tener una universidad como la nuestra.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Cristina crea universidades más cerca de tu casa, ahí sí realmente te las acerca. Porque los que hemos tenido que trabajar al mismo tiempo que la universidad, si tenés que viajar una hora, una hora y media de ida y una hora o una hora y media de vuelta, o no podés trabajar o no podés dormir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recuerden que lo tuvieron cuatro meses encerrado en un hotel, que le armaron la Ley Bases, que le armaron el DNU 70/23; es decir, gran parte de las cosas que hizo Milei fueron escritas, fueron ideadas por los estudios de abogados de las grandes empresas del país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy tenemos un gobierno que gobierna para una élite muy chiquitita y nos está degradando a todos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y si le ganamos una batalla, si le ganamos la batalla de las universidades, después habrá que ir por la ciencia, después habrá que ir y, antes que todo, por la comida que les suspendieron a las personas que no tienen para comer, por los remedios que les sacaron, por la obra pública.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2220
+}

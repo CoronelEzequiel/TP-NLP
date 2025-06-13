@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.311,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "“El decreto implica un cambio radical en el funcionamiento del transporte de larga distancia en Argentina”, explica Gaona.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, el Estado simplemente pregunta: ‘¿A dónde quieren ir?’, dejando la decisión de las rutas y las tarifas en manos de las empresas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta apertura genera preocupación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gaona señala que la competencia por las rutas más rentables (como Mar del Plata en verano) podría dejar a destinos menos lucrativos sin servicio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro punto crítico es la entrada de nuevos actores al mercado, sin mayores requisitos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La normativa permite que incluso monotributistas con combis puedan ofrecer servicios de larga distancia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un aspecto particularmente preocupante es la situación de los discapacitados, que hasta ahora viajaban gratis.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, su derecho a viajar gratis está en riesgo”, afirma Gaona.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gaona enfatiza la importancia de mantener la conectividad a los más de 1600 destinos en Argentina y preservar la calidad del servicio, un orgullo para el país en la región.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1352
+}

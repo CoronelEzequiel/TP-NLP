@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_caputo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me resulta increíble que un gobierno haya estado vendiendo durante quince meses los dólares de los depositantes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo parece estar fomentando la fuga de capitales.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuál es la diferencia con Caputo? Que Caputo pasa el día en televisión mintiendo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei quiere una libre flotación, acumular dólares y dejar que el mercado se regule, enviando la señal de que todos los dólares irán al Banco Central.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando los mercados perciben un retorno del populismo, reaccionan negativamente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un gobierno que solo sabe reprimir a la población no resolverá este problema.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2700
+}

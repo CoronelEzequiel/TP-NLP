@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_cfk",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner ya no sabe cómo decir que no va a ser candidata. La próxima vez, no sé, se va a poner una remera para decir 'no voy a ser candidata'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando Cristina Fernández de Kirchner plantea que tiene que haber un programa de gobierno, lo primero que pienso es que es una autocrítica de que no hubo programa de gobierno en este gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Juntos por el Cambio dice cuál va a ser su programa. Javier Milei dice cuál va a ser su programa. Son dos programas de shock que van a destrozar la vida de millones de personas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros hemos criticado mucho acá cómo en esta gestión se le ha pasado el peine fino a los pobres, a los que tienen planes sociales, y no se le ha pasado el peine fino a las grandes empresas a los que usan truquitos y contabilidad creativa para no pagar los impuestos que tienen que pagar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que pagarle al FMI cuando haya superávit fiscal y que eso tiene que estar en la renegociación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gobernar es afectar intereses, y todos los intereses que yo acabo de mencionar, impuestos, monopolios, dólares y FMI, involucran a las grandes corporaciones económicas de este país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3568
+}

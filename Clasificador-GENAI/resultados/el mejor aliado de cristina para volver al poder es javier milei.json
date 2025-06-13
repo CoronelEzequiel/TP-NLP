@@ -1,0 +1,66 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.582,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El único aliado que el kirchnerismo tiene para volver al poder en 2023 es Javier Milei.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En ambos aparece Juntos por el Cambio, la principal coalición opositora hasta el momento.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, quien no habla por simple inocencia, afirmó que son necios y cínicos quienes niegan la importancia del Estado y que este debe regular la economía.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei le sirve al oficialismo para dividir a la oposición, es decir, para que la oposición pierda.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El líder de Avanza Libertad se ha mostrado, por su parte, mucho más beligerante con la oposición que con el kirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Es Juntos por el Cambio capaz de ofrecer un verdadero cambio o de volver al kirchnerismo con buenos modales?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la práctica, ni Milei desconoce que en Argentina no se pueden eliminar de un plumazo los planes sociales, ni Juntos por el Cambio duda del reclamo sobre un Estado ineficiente que agobia a los sectores productivos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando Lilita enumera los puntos de un programa de gobierno e incluye una economía abierta, una Argentina exportadora y la división de poderes (\"un contrato moral\"), no parece haber en ese conjunto nada que Milei no pudiera afirmar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Plantear la aniquilación del Estado es quedarse sin nación, define la líder de la Coalición Cívica, quien, sin embargo, no elude esta vez un debate que está tensionando a toda la oposición y que ya se nota en ciertas actitudes de la UCR hacia sus socios del PRO, para diferenciarse o presionarlos en la distribución de candidaturas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, Javier Milei es su aliado estratégico, quiera o no serlo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Milei pasara al balotaje con el peronismo, ¿ganaría el temor a un \"Bolsonaro local\" o las ganas de un cambio?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3742
+}

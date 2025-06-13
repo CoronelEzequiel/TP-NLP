@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_canosa",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.79,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que a ellos les conviene, sí, lo tienen claro. Dejar ir, soltar, es una manera también de asumir esta realidad que estamos viviendo todos los argentinos por culpa de ellos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente, Alberto Fernández, hoy me quedó más que comprobado que siente que somos un rebaño de pelotudos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuanto más necesita el campo, más lo maltratan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es increíble porque tenemos un presidente tan tonto, perdón, tan tonto, perdón.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un dólar sin techo, un dólar que está volando. Hay que salir a la calle y mirar si caen los dólares de punta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8632
+}

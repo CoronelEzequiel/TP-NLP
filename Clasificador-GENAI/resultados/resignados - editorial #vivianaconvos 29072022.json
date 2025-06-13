@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.51,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Con el general eso no hubiera pasado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Resignados. Así estamos los argentinos, resignados.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Somos muy sumisos, somos muy mansos. Toleramos todo, estamos también cansados.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y nos impiden superarnos cada día. Estamos y nos sentimos abandonados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero pensamos hoy, mientras escribía esto, que además de... ...de estar resignados a veces, por momentos tenemos que... ...resignificarnos. Porque resignificarnos significa que nos podemos dar otra oportunidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y somos un país tan potente. ¿Viste cuando te juntás con alguien que vive afuera? Hasta inclusive con argentinos que viven afuera y te cuentan. Nada, somos potencia en el mundo, somos creativos, inteligentes. La rompemos siempre.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imaginate si este país, en algún momento, algún político... ...y a nosotros, los argentinos, se nos ocurriera reformularnos. Podríamos realmente tener un país impresionante.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es genial, es un caradura. Alberto Fernández dice que él ha convocado. En todo caso, Cristina Fernández de Kirchner lo convocó a Massa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos un ministro de Economía que no es economista, que es abogado.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay rumbo que corregir. Hay que profundizar, dice Aníbal Fernández, que no hay rumbo que corregir, que hay que profundizar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9061
+}

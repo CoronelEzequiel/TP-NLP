@@ -1,0 +1,41 @@
+{
+  "texto_id": "Audisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Al día siguiente de las primarias se frena este proceso.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "los activos argentinos, los bonos argentinos se deterioran. Hay una mayor perspectiva de default. Pierden precio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el mercado no está mirando el programa económico, no está mirando las ideas económicas del candidato más competitivo, sino que está mirando su capacidad política, su capacidad para gobernar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que más gusta de Milei, en quienes votan a Milei, es que es un outsider, que no tiene nada que ver con la política. Su activo es que no sabe de política.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "el peronismo le armó la lista a Milei, pero cuando Milei, el peronismo o en Santiago del Estero el zamorismo, porque él en realidad es radical, es un radical que pertenece a unión por la patria y le hace listas a la libertad avanza, ¿cómo no va a haber una crisis de representación en la Argentina?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei sube en las encuestas mientras sube el blue y mientras sube la inflación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8846
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.837,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Igual que el gobierno de Alberto Fernández y de Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más hijos de puta no se consiguen.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El liberalismo genera derechos, crecimiento, prosperidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos gobiernan los *muppets* y son muy cínicos nuestros *muppets*.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8633
+}

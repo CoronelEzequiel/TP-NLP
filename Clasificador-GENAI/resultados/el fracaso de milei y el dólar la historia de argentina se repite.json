@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.367,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se afirmó que la inyección de dólares y el respaldo político del secretario del Tesoro de Estados Unidos, durante su visita a Argentina, era una señal de triunfo del gobierno.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, la magnitud de este respaldo económico-político revela lo cerca que estuvo de colapsar, de un fracaso no solo de su esquema económico, sino de su caída total.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este punto adquiere una dimensión geopolítica para el FMI y Estados Unidos, ya que Argentina es un país importante para ambos por su alineación política.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El discurso gubernamental insiste en la aplicación de un programa que cumple, incluso supera, las exigencias del Fondo Monetario Internacional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si esto fracasa, el escenario es incierto, considerando las experiencias ampliamente rechazadas de los gobiernos de Cambiemos (anteriormente PRO) y el Frente de Todos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto podría abrir rápidamente el camino a nuevas propuestas políticas que contrarresten la radicalidad de la ley, o incluso propongan una radicalidad opuesta.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 961
+}

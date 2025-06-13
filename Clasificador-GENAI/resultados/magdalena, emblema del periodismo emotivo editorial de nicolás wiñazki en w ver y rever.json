@@ -1,0 +1,46 @@
+{
+  "texto_id": "Magdalena Ruiz Guiñazú, una periodista excepcional",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.643,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Toda su vida estuvo dedicada al periodismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fue amiga de Astor Piazzolla,  compartió anécdotas con Borges y vivió su infancia cerca del Vaticano, ya que su padre era diplomático y canciller, residiendo en el Palacio San Martín.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Además de ser, posiblemente, la periodista argentina con mayor prestigio, fue muy valiente durante la dictadura, realizando acciones que muchos otros se negaron a hacer.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hebe de Bonafini, bajo el kirchnerismo, organizó un juicio popular contra varias figuras del periodismo, incluyendo a Magdalena,  llegando incluso a instigar a que niños escupieran su foto en la Plaza de Mayo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Magdalena fue amiga de Mujica, un hombre de firmes convicciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es irónico que gente que se jacta de heroísmo sin haberlo vivido la ataque con falsedades sobre su heroico pasado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Magdalena Ruiz Guiñazú murió a los 91 años, tras una vida dedicada a un periodismo magnífico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2235
+}

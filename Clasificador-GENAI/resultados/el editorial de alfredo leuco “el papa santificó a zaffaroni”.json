@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.869,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Ya pasaron varios días y aún me dura la indignación porque el papa Francisco \"santificó\" a Eugenio Raúl Zaffaroni, el jefe del operativo de impunidad para Cristina, como lo acabamos de escuchar, y además una de las personas que más daño le hizo a la justicia en nuestro país.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Regaló sonrisas luminosas, rosarios y bendiciones a Cristina y a casi todos sus seguidores, a Hebe de Bonafini y a Juan Grabois, y siguen las firmas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zaffaroni está desesperado por sacar de la cárcel a Milagro Sala y por evitar que Cristina vaya a la cárcel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zaffaroni también mintió hablando de persecución y de lawfare contra Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A esta altura no sorprende que el papa confiese su relación de amistad con Zaffaroni, ya que hizo lo mismo con el dictador cubano Raúl Castro, el hermano de Fidel.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Zaffaroni es el autor intelectual de todas las trampas y chicanas para eludir a la justicia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy defiende Zaffaroni la narcodictadura chavista de Nicolás Maduro y a la Cuba de los Castro.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Semejantes salvajadas antidemocráticas acaban de ser premiadas por el papa Francisco.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2719
+}

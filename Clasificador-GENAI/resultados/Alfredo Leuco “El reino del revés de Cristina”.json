@@ -1,0 +1,56 @@
+{
+  "texto_id": "nitrepunto.com.ar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.889,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En el reino de Cristina, muchos ladrones son vigilantes y otros son jueces, que roban para la corona o que están al servicio de esta monarquía hereditaria.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Amado Boudou, por ejemplo, dará cátedra en la Universidad de Buenos Aires, y esa señal hacia los estudiantes es que ser un delincuente con la camiseta del Che o de Néstor está bien, porque eso es Vudú.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un ex vicepresidente condenado a cinco años y diez meses de prisión por 16 jueces en todas las instancias, con todas las garantías constitucionales y con la confirmación de la mismísima Corte Suprema de Justicia.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Boudou vive como un magnate y es el que robó dos millones de dólares al pueblo pobre de Formosa en complicidad con el gobernador Gildo Insfrán.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un victimario que le robó a los argentinos se transformó en una víctima de la persecución de los poderes concentrados.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que ser fanático para definir como preso político a ese violento incendiario separatista que se autotitula representante de los mapuches y que está detenido en Chile.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es la reina del reino del revés, y también está reclamando un monumento.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería la consagración de la impunidad y la victoria del chavismo K en nuestra querida Argentina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina convertida en un reino del revés, donde muchos ladrones son policías y jueces, pese a que muchos republicanos son estos, están dispuestos a utilizar todos los mecanismos democráticos para tener un país sano sin nacional populismo kleptocrático.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2225
+}

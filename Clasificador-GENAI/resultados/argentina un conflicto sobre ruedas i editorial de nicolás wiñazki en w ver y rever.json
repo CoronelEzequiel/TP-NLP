@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.671,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este conflicto va a seguir mañana en el Ministerio de Trabajo, porque las dos partes, la patronal, las empresas y el sindicato están inflexibles por una paritaria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto está pasando en la Argentina en medio de un conflicto gremial, fogoneado o liderado por un sindicato de izquierda, no un sindicato tradicional de la CGT, como es el de Camioneros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y es un símbolo, un emblema, la rueda que nos deja en llanta de una Argentina que está al borde, donde hay cada vez más violencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estos momentos, por ejemplo, la 9 de Julio está cortada por una protesta, que según el líder del Partido Obrero, Gabriel Solano, es por tiempo indeterminado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y entonces, hace menos de una semana, Camioneros, el sindicato de Hugo Moyano, de vuelta produjo hechos violentos en una empresa, pero subió un paso más en logística, Mil O.S.A., la empresa grande que está acá en la Argentina desde 1902, casi igual que la empresa Goodyear, también de 1902.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué está pasando? Hay 11 colegios en este momento en la ciudad de Buenos Aires que están tomados por sus alumnos, con ayuda de los padres.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, ¿quiénes son estas personas que están generando estos hechos que pueden terminar mal? Está con nosotros Patricia Bullrich, ex ministra de Seguridad, que de algún modo habló en su momento de todo esto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2720
+}

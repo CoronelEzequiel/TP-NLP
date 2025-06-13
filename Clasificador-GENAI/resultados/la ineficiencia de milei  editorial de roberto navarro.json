@@ -1,0 +1,31 @@
+{
+  "texto_id": "inflacion",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.375,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Para mantener esa inflación del 4%, el gobierno gastó más de 12.000 millones de dólares en intervenciones en el mercado financiero. Esto generó la pérdida de más de 200.000 puestos de trabajo registrados, la quiebra de miles de empresas, una paralización de obras públicas, un aumento de la pobreza al 55% y de la indigencia al 20%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi opinión siempre ha sido que la inflación es, en todo momento y lugar, un fenómeno monetario, directamente relacionado con la emisión de dinero.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema es que la actual situación es insostenible:  una inflación del 4% sostenida a base de una suba del dólar del 2% y una recesión económica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hubiera considerado esto antes de la devaluación del 120% al asumir, se podrían haber evitado el hambre infantil, el bajo consumo de leche y tanto sufrimiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1355
+}

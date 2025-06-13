@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Quiero decir a los medios, tengan piedad del pueblo, porque el pueblo un día se va a levantar contra los medios, no tengo duda de eso, no tengo duda, porque no puede ser tanto veneno hacia la población.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer mismo titulé mi columna con la siguiente conclusión: \"Para Cristina, el periodismo es un enemigo\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos autodenominados anarquistas, que arrojaron las bombas, son el brazo urbano de los pseudo mapuches.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, Alberto, Cristina y Aníbal son los jefes del apoyo a los mapuches, que ejecuta Magdalena Odarda, o ¿alguien cree que esta funcionaria haría lo que hace sin la venia de la jefa del jefe del Estado?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los autores intelectuales del odio que sembraron hacia el periodismo son, claramente, Cristina y su banda de pingüinos millonarios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Bueno, las bombas molotov que los encapuchados arrojaron contra el diario Clarín, en realidad, las arrojaron contra todos los que defendemos la libertad de prensa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2559
+}

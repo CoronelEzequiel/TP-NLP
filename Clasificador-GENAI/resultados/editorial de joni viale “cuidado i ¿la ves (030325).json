@@ -1,0 +1,66 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.582,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este joven de 39 años decidió levantar el perfil y fuerte.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, lo más divertido de todo, insisto, es el kirchnerismo y el peronismo escandalizados con la violencia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso es facho.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Caputo, ponete a laburar para la motosierra 2.0.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Caputo, ponete a laburar para cerrar las empresas deficitarias con las que el kirchnerismo tanto robó y que no haya más de eso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sean soberbios.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La soberbia, tarde o temprano, te termina matando.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Caputo no se toca porque Milei lo admira profundamente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este mismo diputado se escandaliza con lo de Caputo?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tanto poder te puede marear.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No puede ni debe ser usado para intimidar al otro.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4041
+}

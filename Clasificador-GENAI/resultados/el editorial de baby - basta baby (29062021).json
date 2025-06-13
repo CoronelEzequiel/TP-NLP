@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy puse el título de \"Los Impotentes\" porque la verdad, la impotencia de Kicillof y Alberto Fernández para gobernar, los hace despertarse por la mañana pensando en a quién le pueden arruinar la vida hoy.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, siempre pienso, ¿no hubiese sido mejor avisar antes de que la gente se vaya?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ustedes no saben el lío que están causando, pero no importa, olvídenlo, porque creo que en el despacho de Kicillof, cuando alguien le dice: \"Vos no sabes el lío que armaste\", lo que le molesta es el hecho de viajar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esos son los oligarcas, esos son los fachos, ellos son así porque viajan, porque para estos tipos, con esa croqueta de arroz que tienen en la cabeza, piensan que los que viajan, que los que viven en barrios acomodados son todos oligarcas, que les robaron a los pobres.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hoy empezaron a arruinarme la vida a todos los que nos fuimos a Miami, Italia, España, porque el resentimiento de Kicillof, la boina del Che Guevara, es ideal, menos para ellos, para ellos es vacío.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Bueno, la verdad, como ministro fue un desastre, nos hizo mierda todo, y como si esto fuera poco, en vez de quedarse como el capitán del Titanic, a hundirse con el barco, se fue a pasear con su mujer, a conocer Barcelona, España, Madrid, las playas, el Mediterráneo, y nosotros acá cagándonos, muriendo 700 por día por este inútil, por este inútil.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Qué derecho tienen de cagarnos a pedo? ¿Qué derecho tienen de encerrarnos? ¿Qué derecho tienen de perseguirnos? ¿Qué derecho tienen de detenernos como en un campo militar? ¿Qué derecho tienen de pararnos y jodernos, de cagarnos, de hacer cerrar negocios, de cagarnos la vida?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso mismo los impotentes no se están gobernando.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3403
+}

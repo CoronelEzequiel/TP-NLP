@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero aquí la regla es la boleta única. Algunos pueden pensar que favorece más a un candidato, otros que menos. Pero la pregunta es: ¿podemos incumplir una ley porque nos favorezca o no? Sobre todo si es una ley electoral.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso, para mí, cumplir la ley de la ciudad, independientemente de si ayuda o no a los candidatos de nuestro partido (que yo espero que ganen, quiero ser sincera, espero que gane un candidato de PRO), es importante.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá que al final tengamos opciones electorales claras, competitivas y que los electores opten por Juntos por el Cambio.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2334
+}

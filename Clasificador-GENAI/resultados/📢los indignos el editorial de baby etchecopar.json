@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Le digo, \"¿Quedó algo para robar todavía? Andá a robar vos, ¿no?\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y realmente empecé a pensar en la indignidad del votante de Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero estás con el presidente, la inflación baja, hay que seguir apoyándolo, hay que cuidarlo, pero marcarle los errores, que son horribles, los errores son bochornosos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que no aguanto es que digan que vuelva Cristina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces me gustaba hablar de esto esta noche, que en la vergüenza, el bochorno, en los últimos, no sé, 30 meses, ponéle 40, hemos caído en una vorágine de vergüenza ante el mundo, hemos caído en una truchada y una porquería que ni nosotros mismos, los que hacemos periodismo, lo podemos comprender.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso yo digo que cuando un tipo te dice \"aguanta Cristina\", sos un inmoral, sos un inmoral.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y entonces ahora, con Milei, como todavía no tienen probado que afanaron nada, no somos todos iguales, no somos choripaneros, no somos delincuentes, no somos alcahuetes, no vivimos de un plan porque el que vive de un plan, como digo siempre, no es pobre, es vago, es vago.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos que soportar a un (Santiago) Bausili que te maneje la Argentina y ya está asimilado, ya está asimilado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y ese estúpido que hoy me dijo que vuelva Cristina es uno de los flagelos a los que les faltan pelotas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y espero que usted que me escucha, creo que son muchos a esta hora, creo que usted tranquilamente puede no ser un inmoral, y que su hijo no sea un inmoral, y que su nieto no sea un inmoral.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3278
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La marcha fue inmensa e indudablemente opositora.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta movilización representa un despertar de aquellas personas que no se ocupan de la política, pero que se ven perjudicadas por las políticas del gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A continuación, mostraremos a quienes nos están viendo la respuesta de Javier Milei luego de la marcha, que era \"Lágrimas de zurdo\", un león tomando té en una taza que decía \"Lágrimas de zurdo\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bernie Venegas Lynch se refirió a la no obligatoriedad de la educación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2046
+}

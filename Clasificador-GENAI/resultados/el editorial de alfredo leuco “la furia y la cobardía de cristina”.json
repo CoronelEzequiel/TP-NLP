@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.883,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Furiosa como casi siempre, Cristina intentó ocultar su impotencia para imponer a Wado de Pedro como candidato a presidente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina ya no da miedo, ahora da lástima.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Autoritarismo en estado puro.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tiene estómago para pactar hasta con el diablo y no titubea a la hora de transar en beneficio de sus intereses personales, en búsqueda de impunidad y su voracidad de poder sin límites.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es insólito que el responsable de la catástrofe económica sea candidato a presidente.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora, la falsedad más grave e insólita fue cuando, en un descarado y soberbio autobombo, \"la reina del calafate\" dijo que \"la dirigente que más medía está proscripta\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2168
+}

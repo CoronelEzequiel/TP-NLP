@@ -1,0 +1,36 @@
+{
+  "texto_id": "programa_milet",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Primero, actuará la banda soporte *Liberal Soporte*, con Berti Venegas Lynch en la batería, Joaquín Venegas Lynch (hermano de Berti) en la guitarra, y Marcelo Duclos (autor de \"Milet y la revolución que no vieron venir\") en el bajo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También habrá un bombo con la cara de Ludwig von Mises (inicialmente se mencionó erróneamente Moisés, un economista, pero se corrigió).",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luego, se apagarán las luces y sonará el tema \"Fanny Show\" en loop,  sin parar.  Javo Milet ingresará por la platea, entre el público (no por el escenario).  Se unirá a la banda y cantará con ellos.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Posteriormente, habrá una conversación con Esper y el moderador Manuel Adorno sobre la aplicación del libro a la vida real.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El final será con una canción potente. Es una canción con una historia compleja,  interpretada en el contexto del menemismo, previo al 2001.  Se puede interpretar de diferentes maneras;  algunos la ven como una crítica al gobierno, incluso a la democracia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1320
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_mangione",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos la firme intención de comenzar a cobrar por las prácticas médicas a extranjeros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos cubrir la salud de los salteños.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se trata de discriminación, sino de falta de recursos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero aclarar que cualquier urgencia que ponga en riesgo la vida de un extranjero será atendida.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nuestro objetivo es cubrir las necesidades de los salteños.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La vacuna contra el dengue para salteños en hospitales públicos es gratuita.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1447
+}

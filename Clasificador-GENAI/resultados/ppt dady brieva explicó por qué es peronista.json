@@ -1,0 +1,41 @@
+{
+  "texto_id": "discurso_peronista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.158,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Queremos revitalizar ese sentimiento peronista que a veces se ve afectado por nosotros mismos; somos como una mancha venenosa, ¿verdad?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y es tan fácil ser peronista: solo hay que reírse, sentir y recordar algo de nuestra historia; lo que representan nombres como Leguizamón, Cáseres, Acuña...  incluso Consuelo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Solo recuerdo la mirada de mi padre cuando caminábamos por Chacras de Coria (asumiendo que es el lugar al que se refiere) al mediodía. Sonaba la marcha peronista, y con esas galerías de baldosas rojas, ese aroma a cera y trapo de piso… caminábamos con mi hermana, con su pollerita, hacia el comedor.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podría hacerme el distraído, vivo bien, hice un lindo evento con mi familia, podría hacerme el boludo, ir a programas de televisión… Me preguntan, y si no sé… creo que uniéndonos, mirando hacia el futuro, podemos tener un país rico.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esperamos que nos acompañen, que recuperen la mirada de mi padre cuando sonaba la marcha peronista, cuando íbamos a comer en familia, éramos tratados dignamente, nos sentíamos dignos porque teníamos trabajo y estábamos bien.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Viva Perón!",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1526
+}

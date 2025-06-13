@@ -1,0 +1,101 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.906,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hay que tener muchas agallas y ser muy hombre para hacer lo que hiciste, porque es muy difícil llorar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy dura la enfermedad del que no siente nada, el que aunque haga fuerza, en la cara no se le ve sufrimiento ajeno. Hablo de Cristina Kirchner.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y yo creo que vos le pegaste un misil en la proa al barco de la mentira, pero también sirve esta pequeñísima editorial en tu honor, en tu dignidad, en tu entereza, en tu don de gente.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy fue la elección de la honestidad, de la buena gente, contra la corrupción y la mala gente.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Señora, debe ser terrible no saber llorar ni aunque sea de mentira.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usted tiene un pacto satánico que no la deja disfrutar de la vida, que no la deja ser solidaria con sus compañeros y que la única motivación que usted tiene en la vida es una eterna interna para ganar porque el día que ese pequeño triunfo se le caiga y falta poco, su vida no tiene ningún sentido, ningún motivo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y Cristina dijo, bueno, como un trámite, señora, como un trámite.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Creo que se odia cuando se levanta la mañana y se mira en el espejo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lamentablemente Dios en eso nos castiga porque a los decentes se los saca primero del juego y quedan los más corruptos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero vale mencionar que mientras Bullrich lloraba porque se iba, usted hablaba con uno del costado como que le importaba un carajo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque para usted todo es una mierda, una política berreta, es seguir engañando a la gente y convenciendo a la gente.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La vida no es plata, mala vida en carteras y por eso es esa pasión acumuladora de los collares, oropeles, carteras, vestidos, porque es el único lujo que usted se puede dar porque no tiene un te quiero.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca tuvimos gente tan disparatada, tan mala, tan ilógica.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A la que no conocía era la primer ramita que quiere tapar la cagada, el delito de la fiesta clandestina con un respirador haciéndose la buena que va a pagar con la guita nuestra que la que nosotros le damos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero lo que usted hizo es asqueroso.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usted es muy berreta, señora.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por un lado, hay chicos que comen mierda por su marido que es un inoperante.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero mañana hay un gran acto de la pobreza donde la gente en la miseria, miserables, van a ir cargados en camiones y en micros a aplaudir una jornada de mentiras.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3299
+}

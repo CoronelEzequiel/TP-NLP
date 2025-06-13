@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Rescatar su vida y obra llenará nuestros pulmones de esperanza frente a tantas frustraciones de un gobierno nacional que solo produce bronca y rechazo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repito, insisto, todo lo contrario al \"vamos por todo\" y al intento de dominar y poner de rodillas a la justicia para lograr la impunidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Le sintetizo el tipo de dirigente que nos dejó San Martín como su ejemplo: respeto por la libertad de expresión, independencia de poderes, austeridad republicana, honradez a prueba de bala, coraje y estrategia y un profundo amor por una patria de todos y para todos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hace una década, un editorial del diario La Nación ponía las cosas en su lugar.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pretender hacer esa comparación es un descaro que desprecia la historia y la verdad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Digo para no rendirnos, para no bajar los brazos frente a los que fabrican autoritarismo para conseguir la suma del poder público.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1871
+}

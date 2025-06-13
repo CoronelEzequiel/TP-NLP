@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La provincia de Buenos Aires se ha convertido en un lugar muy sensible en el contexto de este gobierno, un lugar importante, porque se están haciendo cosas incluso a contramano de las políticas nacionales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es muy complejo, porque el gobierno nacional primero asfixia a la provincia, quitándole lo que le corresponde por ley, como denunció Axel Kicillof hace unos días: 5,8 billones de pesos en transferencias pendientes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo tiene que reencontrarse consigo mismo. Está en una etapa de descomposición, atomización y desencuentro que hay que resolver rápidamente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Necesitamos una política menos colonizada por los factores del poder económico internacional. El RIVI expresa el acoso de estos factores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Dónde se equivocó el peronismo? No coincido con la idea de progreso del progresismo, creo que es un espejismo. El mundo progresa tecnológicamente, pero se degrada moralmente. Me gusta hablar de peronismo y peronismo social.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si vamos a consolidar una crisis, es imperante modificarlo ya.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué nos queda? La calle. Axel Kicillof hizo presentaciones en la Corte Suprema, pero ¿y la calle? La movilización será el corazón del peronismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El voto a Javier Milei fue un voto de rechazo, no necesariamente antiperonismo. No se ven masas mileístas, sino un rechazo a otra cosa. Hay una crisis de representación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2828
+}

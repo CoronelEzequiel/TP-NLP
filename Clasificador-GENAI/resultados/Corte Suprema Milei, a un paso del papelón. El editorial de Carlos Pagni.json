@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esta es una regla general que la vemos exageradamente aplicada en la escena actual de este oficialismo encabezado por Javier Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lijo fue recomendado al presidente como candidato a juez por el juez Ricardo Lorenzetti, uno de los miembros de la Corte, enemistado con los otros tres miembros de la Corte: el doctor Horacio Rosatti, el doctor Carlos Rosenkrantz y el doctor Juan Carlos Maqueda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es decir, lo que está diciendo Cristina Kirchner aquí es que el padrino de Lijo, Ricardo Lorenzetti, fue, acá vemos la foto a la que ella se refiere, el padrino de Lijo, Ricardo Lorenzetti, fue el ideólogo, el abanderado de lo que sería una especie de *lavallismo* argentino.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay quienes piensan que es el más importante, es la negativa del gobierno nacional a reconocerle, en definitiva, a la ciudad de Buenos Aires la coparticipación que la ciudad de Buenos Aires dice que le corresponde.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8824
+}

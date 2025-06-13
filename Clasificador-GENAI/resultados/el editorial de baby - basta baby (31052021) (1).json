@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.543,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Miren, Macri en el programa de Juan Avialé… Correcto, no podíamos esperar más ni menos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y no me digas que no te apaga las orejas, porque lo espera.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que fue una opereta barata, humillante, que le salió mal.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esos son tipos a sueldo, sin vergüenza, de una agrupación que, si no son K, no te suben al taxi.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero nadie habla de los viejos, y pensaban que una vez fueron igual que nosotros, que una vez tuvieron ilusiones, tenían un futuro, que una vez tenían ganas de vivir, que se habían enamorado, que pensaban terminar sus días con la pareja, que creían que si no estaban alguno de los dos, los hijos les iban a dar una mano y, si no, por lo menos pensaban en un plato de fideos el domingo al mediodía con toda la familia que habían formado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque dejaron su vida al país, dejaron su vida a la Argentina y se quedaron mirando atrás de un vidrio a ver si alguien los rescataba.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Puede tener dignidad un país que tiene a Cristina Kirchner como vicepresidenta? No, definitivamente no.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2959
+}

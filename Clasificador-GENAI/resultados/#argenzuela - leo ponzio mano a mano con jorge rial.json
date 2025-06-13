@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_ponzio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.19,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, 21 de septiembre, el Monumental va a estallar para despedir a este grande que es Leonardo Ponzio.",
+      "score": 0.1,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este tipo de verdad dio muchísimo por River, con un perfil bajo, nunca quilombero, siempre tranquilo.",
+      "score": 0.15,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que sí, aparte hay gente preparada como para, en su momento, cuando Marcelo lo decida… porque esto es… ojalá sea eterno y que se quede toda la vida, pero bueno, sabemos que el fútbol tiene miles de cosas… que realmente sea un ex River o gente que pertenezca a River.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que me cuesta creerlo, porque lo que decís… te voy a contar cómo es… a ver, desde el punto de vista de lo que ustedes ven, él es un tipo muy exigente, desde el punto en que es con todos igual, pero a la vez cuida al más chico, al más grande lo valora delante del más chico, porque la realidad, nosotros tenemos miles de ejemplos, que él hace ejemplos con nosotros, con nosotros los más grandes, conmigo, bueno ya no, con los que están ahora… por lo que transmite, por lo que son, y al pibe de River mismo lo valora y le da el lugar y lo acomoda y le va dando tiempo y nunca se lo trata de ningunear a ningún pibe.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, sí, yo no… no cambiaría nada de lo que hice por otra cosa del fútbol, la verdad es que me dio mucho.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4789
+}

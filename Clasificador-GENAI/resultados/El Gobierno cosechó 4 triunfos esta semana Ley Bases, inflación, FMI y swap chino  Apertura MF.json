@@ -1,0 +1,56 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Buenas noticias, y vaya que tuvo buenas noticias el gobierno durante esta semana, después de tener semanas de mucha, pero mucha presión, donde además de la crisis económica, además de los malos números que tienen que ver con producción, con empleo, etcétera, también los mercados habían comenzado a ponerse nerviosos y le empezaron a dar la espalda al gobierno, y esto, sin lugar a dudas, era lo que más preocupaba a la Casa Rosada.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "logró finalmente romper el récord de seis meses sin ninguna ley, y logró aprobar la ley bases en el Senado Nacional y también el paquete fiscal.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la inflación, 4,2% dio la inflación de mayo, menos de la mitad que el mes anterior, que había estado por arriba de 8 en el mes de abril.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el gobierno está de festejo, gran semana, inflación del 4,2, ley bases aprobada, el swap con China, otro tema que preocupaba y mucho, 5 mil millones de dólares resuelto, se \"patea\" para adelante, se pudo renovar el swap con China y no hay que poner la platita \"constante y sonante\" ahora mismo, por eso se festeja, y como cierre de la semana llegó el alivio, que el Fondo Monetario dio el visto bueno, y anoche informó que desembolsa esos 800 millones de dólares que eran parte del acuerdo",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Comenzamos con el repaso de lo que fue esta semana de buenas noticias para el gobierno nacional, nos vamos al Congreso, y Victoria Villarruel, querida y odiada casi en partes iguales, y también dentro y fuera del gobierno querida y odiada, fue la protagonista finalmente de la noche del Congreso Nacional.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy vimos dos Argentinas, una Argentina violenta que incendia un auto, que arroja piedras y que debate el ejercicio de la democracia, y otra Argentina, la de los trabajadores que están esperando con profundo dolor y sacrificio que se respete la votación que en noviembre del año pasado eligió un cambio, eligió que en Argentina realmente se barajara, se \"riada\" de nuevo y se cambiara una situación que se perpetuó en el dolor por muchos años, por esos argentinos que sufren, que esperan, que no quieren ver a sus hijos irse del país, para esos argentinos que merecen recuperar el orgullo de ser argentinos y pensando siempre en todo por Argentina, mi voto es afirmativo a la orden del día 3724.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya hay preocupación, ya lo contaba acá Fermeños, hay preocupación de lo que está pasando en junio y cómo puede haber un repunte de ese número de inflación en el mes en curso, en el mes de junio, algo que vamos a saber a mediados de julio y será un nuevo capítulo, pero hoy el gobierno está de festejo, tiene una buena semana y Luis Caputo habló de esto, decían que no se podía bajar la inflación por debajo del 6,7%, mira, la tenemos en cuatro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que tiene que ver con los hijos de cuatro patas del primer este mandatario. ",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei, ¡qué lindo es dar buenas noticias! En este día 187 del gobierno libertario, queridos argentinos, \"los esfuerzos de este año dieron sus frutos. He anunciado un blindaje internacional que nos saca del riesgo y crea una plataforma extraordinaria para el crecimiento, difícil para ustedes que están soportando la crisis prolongada que lleva casi cuatro años castigándonos, pero en definitiva terminamos este año con un gran éxito, el blindaje 2001\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5292
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pregúntenle a **Cristina Kirchner** o a cualquier dirigente cuando nos convenga a nosotros.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque vos también fuiste cómplice y tu gente también de esta dictadura.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El chavismo puso millones de petrodólares sobre estos gobiernos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son cómplices de las torturas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Preocupantemente, veo al presidente argentino más interesado por lo que ocurre en Venezuela que por la realidad de nuestro país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todavía lo protegen porque se llenaron de plata con este régimen asesino de **Chávez** y de **Maduro**.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Chávez** financió con por lo menos 20 millones de dólares la campaña de **Cristina**, la de **Cobos**.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el mundo ya no se discute guerra fría, muchachos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy el debate central en el mundo pasa por los valores.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Occidente está bajo ataque.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vienen por nuestros valores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No dejemos que avance en Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4452
+}

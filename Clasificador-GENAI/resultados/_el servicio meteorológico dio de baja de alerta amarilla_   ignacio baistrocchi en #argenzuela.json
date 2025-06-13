@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_maestrochi",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hemos trabajado de manera preventiva durante varios días.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los equipos de la Ciudad, incluyendo bomberos, Defensa Civil, policía, tránsito y el Ministerio de Espacio Público, trabajaron rápidamente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La arboleda de la ciudad es antigua, y los árboles plantados en el pasado no estaban preparados para vientos de esta intensidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nuestra estrategia se centra en mantener y limpiar con mayor frecuencia los puntos bajos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1362
+}

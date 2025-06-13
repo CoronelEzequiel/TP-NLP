@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Nos juntamos con Irán, Venezuela, Cuba, con el régimen de Castro, con China; pertenecemos al grupo de países sin libertades, al grupo de los tiranos y dictadores.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué Alberto Fernández hacía todos los deberes como un alcahuete para Irán?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un espía iraní se sube al avión y aterriza en la Triple Frontera.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina se ha metido en un quilombo internacional que nos costará mucho dinero, años y castigo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podría llevarnos a un atentado, un nuevo quilombo o a la complicidad en la creación de una bomba atómica en Latinoamérica de la mano de Irán.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina será vista como un país rojo, un país mal visto por haber cagado todo, y por ser socio de asesinos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1528
+}

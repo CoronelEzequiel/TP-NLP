@@ -1,0 +1,46 @@
+{
+  "texto_id": "Cesar_Luis_Menotti_Radio_10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Menotti expresó su incomodidad con las interrupciones frecuentes y prolongadas del juego, comparándolo con detener una obra de teatro en pleno desarrollo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuestionó la efectividad del VAR en lograr un \"mismo plano\" de justicia para todos los equipos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menotti lo comparó con un profesor que guía y mejora el desempeño individual de sus jugadores, ayudándoles a comprender las cuatro acciones fundamentales del fútbol: defender, recuperar, gestar y definir.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menotti explicó su participación en la selección de Scaloni, destacando la importancia de establecer objetivos claros y mantener la honestidad con la afición.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menotti defendió su decisión de exigir la presencia de futbolistas en las elecciones, contrarrestando las presiones de algunos dirigentes.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menotti afirmó que Argentina es un candidato a ganar, pero que el éxito se medirá en función del compromiso demostrado y la manera en que se juegue, independientemente del resultado final.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Menotti cerró la entrevista con una anécdota sobre su conocimiento personal de Jorge Rial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1465
+}

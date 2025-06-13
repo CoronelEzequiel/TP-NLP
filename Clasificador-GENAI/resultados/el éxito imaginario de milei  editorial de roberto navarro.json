@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.121,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Las ventas de productos de consumo masivo cayeron un 18% en diciembre de 2024 respecto a diciembre de 2023, según la consultora internacional Sentis.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según UNICEF, en Argentina, un millón y medio de niños se acuestan sin cenar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este contexto, el gobierno ha generado un clima de celebración, llegando incluso a afirmar que la pobreza ha disminuido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno suspendió la entrega de alimentos a comedores comunitarios y de medicamentos a pacientes graves, eliminando el descuento del 100% en medicamentos para jubilados, para luego restituirlo parcialmente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las protestas son reprimidas con violencia y encarcelamientos, con los manifestantes catalogados de terroristas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La población sufre hambre, la salud y la educación están deterioradas, y se están cerrando programas de salud pública.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El escenario político está dominado por la estabilidad financiera, con periodistas y políticos que apoyan eufóricamente un plan de destrucción social y productiva.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1984
+}

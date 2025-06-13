@@ -1,0 +1,56 @@
+{
+  "texto_id": "entrevista_correa_radio10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.083,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este éxito representó una amenaza para el *statu quo*, por lo que se utilizan estrategias para impedir que modelos políticos alternativos y heterodoxos tengan éxito, y para evitar que quienes realmente buscan el progreso del país, como Cristina Fernández de Kirchner, vuelvan al poder.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Sudamérica, la dictadura de los años 70 no fue una casualidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy la derecha aplaude esto porque cree que controlar el discurso progresista es beneficioso para ellos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si al presidente brasileño Lula da Silva no lo hubieran encarcelado ilegalmente, no tendríamos a un presidente como Bolsonaro.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si les propones ser tres veces más prósperos pero iguales al resto, prefieren ser tres veces menos prósperos pero desiguales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos enfrentar este poder mediático que roba la verdad, la libertad y la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los gobiernos progresistas no enfrentamos a los partidos de derecha, enfrentamos a sus medios de comunicación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros tratamos de cambiar las cosas y hacer una región menos injusta y atrasada.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Derrótennos en las urnas, pero no con estas mañas. Ya basta. No solo nos roban la reputación y la tranquilidad, sino que nos roban la democracia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4069
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "El gobierno argentino se enfrenta a una situacion critica",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.457,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Se considera inevitable una devaluación y el gobierno se prepara para afrontar sus consecuencias.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Podemos recordar, por ejemplo, la devaluación de 2014 durante el gobierno de Cristina Fernández de Kirchner con Axel Kicillof como ministro de Economía, que resultó en una inflación del 38% y una caída del PBI.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mauricio Macri también enfrentó esta problemática al asumir la presidencia, y en 2018, bajo la presión del FMI, se vio obligado a una devaluación que posiblemente influyó en su derrota electoral.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La política económica de Donald Trump ha acelerado este proceso, agravando la situación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno debería priorizar fortalecer las reservas del Banco Central, evitar la fuga de dólares hacia el contado con liquidación y fomentar la compra de divisas en el mercado financiero.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En lugar de centrarse en distracciones políticas, como culpar a (nombres eliminados por no estar confirmados en el texto), el gobierno debería abordar la situación económica con una estrategia seria y coordinada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La restricción de la libertad de prensa y la posibilidad de silenciar a periodistas solo empeoran la situación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1727
+}

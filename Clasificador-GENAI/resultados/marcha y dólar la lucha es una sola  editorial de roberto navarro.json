@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.242,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mientras el gobierno se prepara para reprimir, mientras amenaza a la gente en las estaciones de tren, el dólar cripto a esa hora ya estaba en 1.316.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, el ministro de Economía —la verdad es que ya uno no sabe si por ineptitud, a propósito o para beneficiar a sus amigos en negocios especulativos— salió a hablar del acuerdo con el FMI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mañana se debate el Decreto de Necesidad y Urgencia (DNU) en la Cámara de Diputados.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El partido en el poder, el que los va a reemplazar en algún momento, es el peronismo. Y el peronismo, ayer, de dos maneras distintas —los senadores de Unión por la Patria y luego el PJ que se reunió— le dijo que no le va a reconocer la deuda.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta vez es diferente porque todo ese ajuste fiscal y monetario que pide el FMI, y más, ya lo hicimos el año pasado, entonces estamos en un caso atípico.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos dicen que es un golpe de estado. Cuando hay un golpe de estado, la policía, la gendarmería y la prefectura le disparan al gobierno. Ahora, le disparan al pueblo. Eso se llama terrorismo de Estado.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3513
+}

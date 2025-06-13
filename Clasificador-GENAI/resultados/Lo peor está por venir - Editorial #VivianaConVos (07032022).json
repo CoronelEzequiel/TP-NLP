@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La oposición, ahí está, con la bandera de Ucrania. Nunca veo a la oposición con la bandera argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto y Cristina, un matrimonio por conveniencia. Ella ya no lo soporta. Están como a punto de separarse.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy les estoy diciendo a ustedes que la infraestructura va a seguir creciendo, que la educación no va a caer, que la inversión en ciencia y tecnología se va a mantener, que los cuidados que necesitan los sectores más humildes seguirán en pie, y que nadie va a obligar nuestro deseo y nuestra definición de seguir creciendo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos viviendo en una esquizofrenia constante con esta gente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es impresionante la convicción con la que nos mienten: 200.000 millones de dólares y dicen que el país estaba desendeudado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos monstruos son amigos de este país, de este gobierno. El tipo que está por poner al mundo al borde de la tercera guerra mundial. Coquetea con Cristina y Cristina con él.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo bien con Ucrania, pero primero Argentina. Primero Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo se convirtió en una especie de secta y no habla con gente que no piensa como ellos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Basta de financiar a toda esta militancia con la nuestra.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con el progresismo pasa algo extraño, supuestamente es de izquierda, pero rápidamente es convertido en un producto capitalista.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ser penetrada por un pene es un acto de violencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ustedes tan elegantes y nosotros tan Favaloro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Faltan 643 días para que se vayan.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8649
+}

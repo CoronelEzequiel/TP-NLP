@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.146,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los docentes siempre sufrieron bajos salarios. Con el nuevo presidente y el alto costo de vida, ahora no llegan a fin de mes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FONID, destinado a provincias pobres, fue eliminado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una crisis de representatividad y soberbia por parte del gobierno.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, la responsabilidad es compartida entre la provincia y la nación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno nacional reduce los fondos a todas las provincias, especialmente a Misiones.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Primero hay que pensar en la gente. Estamos en medio de una crisis política, económica y social.",
+      "score": 0.12,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos beneficiarios de planes sociales de la Ministra Tolosa Paz cruzan a Brasil o Paraguay porque los productos son más baratos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente pierde el miedo al poder provincial, que lleva más de 20 años.",
+      "score": 0.22,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2051
+}

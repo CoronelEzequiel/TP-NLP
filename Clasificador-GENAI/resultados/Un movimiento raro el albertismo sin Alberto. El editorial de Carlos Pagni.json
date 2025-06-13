@@ -1,0 +1,61 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si comparo abril contra abril, las exportaciones, lo que vendimos, ya les dije, fue un 35% de aumento contra el año pasado. Las importaciones son un 47% de aumento en comparación con abril del año pasado.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay tal masa de pesos en la calle, pesos amenazados, corroídos, pulverizados por la inflación, que el que tiene pesos sale a comprar dólares como sea.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno dice: \"Faltan dólares\". No, no faltan dólares. Sobran pesos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández vuelve a hablar de retenciones al sector agropecuario. Sería una vuelta a las retenciones móviles...",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "las retenciones son un impuesto aberrante, porque no es un impuesto a la ganancia, que también lo paga el sector agropecuario, es un impuesto a los ingresos que no tienen en cuenta los egresos",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En una entrevista con Ernesto Tenembaum, Alberto Fernández habla de que hay que considerar y que la oposición debería considerar subir las retenciones. Esa misma mañana, a las dos horas, el ministro Julián Domínguez lo desmiente...",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Kulfas, con una sinceridad llamativa, admite que en la Argentina hay una gran inestabilidad en las reglas de juego, que cualquier empresario que tiene que invertir, que tiene que comprometerse con la economía argentina, se mueve, en cuanto a regulaciones y en cuanto a las condiciones generales del entorno económico, en arenas movedizas que impiden tomar determinaciones...",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el gobierno, en vez de ir en la dirección que señalaría Kulfas, ir reduciendo esa incertidumbre, la aumenta, le agrega incertidumbres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy estaría, si hubiera elecciones, el gobierno sacaría 26% de los votos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una correlación rara... Si yo tomo en determinado momento, en determinado mes, el índice de confianza del gobierno de la Universidad de Torcuato Di Tella, me va a dar el porcentaje que en ese momento sacaría el gobierno en unas elecciones imaginadas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8894
+}

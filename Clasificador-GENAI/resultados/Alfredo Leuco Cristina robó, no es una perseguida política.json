@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.881,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina dice que es una perseguida política y esa es la madre de todas las mentiras.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no es una perseguida política, robó como nadie robó en la historia democrática argentina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los corruptos y los mafiosos no tienen espacio en la sociedad civilizada y nuestro trabajo es descubrir las verdades, comunicarlas y fijar posición.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay muchísima documentación, pruebas, miles de indicios claros, decenas de testimonios de arrepentidos que cuentan con lujo de detalles cómo fue el plan sistemático de enriquecimiento colosal e ilícito, cuya jefatura ejerció primero Néstor y luego Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El periodismo debería haber ocultado que una vez más aparecieron bolsos llenos de dinero sucio en el camino del kirchnerismo, que Rosario Lufrano no puede terminar de explicar cómo le pasaron más de 11 millones de pesos delante de sus narices.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todos coinciden en que pusieron a Martín Soria porque es el patotero ideal para ese puesto, para maltratar jueces, fiscales y periodistas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ella buscaba a alguien que atacara a los jueces y a los periodistas que no se rodillan y lo encontró.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es imposible desarmar el *looser* porque el *looser* no existe y es imposible demostrar que Cristina es una perseguida porque nadie robó tanto y durante tanto tiempo en este país como ella.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2744
+}

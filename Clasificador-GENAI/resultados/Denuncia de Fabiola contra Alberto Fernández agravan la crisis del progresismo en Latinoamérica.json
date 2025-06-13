@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Las denuncias de la primera dama, Fabiola Yáñez, contra el presidente Alberto Fernández por violencia de género llegan a un momento muy complicado para el espacio político que, podríamos decir, internacionalmente hegemonizó la política latinoamericana en los últimos veinte años.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las diferencias políticas y sociales del gobierno kirchnerista dieron la idea, en cierta medida, de estar viendo una suerte de revolución pacífica por vía institucional.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Si le seguimos diciendo 'ella' a un gato, va a ganar Milei\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al señor Fernández lo voté sabiendo, poco más o menos, que no era digno de la investidura presidencial argentina. Lo volvería a votar porque, en ese momento, era la mejor alternativa posible.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo te cae? Te voy pasando algunas cosas. Hablando de las inversiones y de lo que llega a Argentina, ¿qué paradoja en la que entra Kicillof? Porque el chabón tiene a Petronas o a Petronas con 30.000 palos para venir a invertir, pero apareció el 'Uo' de Bretilne que dice 'no, tráelo acá a Punta Colorada' porque suscribió al RIGI.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5928
+}

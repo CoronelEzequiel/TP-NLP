@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.429,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Por el COVID.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto significa que la Ciudad de Buenos Aires empezará a controlar a la gente que circule en auto de noche.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la reunión, en la primera de ayer en la Casa Rosada, los funcionarios de Kicillof fueron con la decisión de tratar de implementar una cuarentena, un aislamiento de 14 días de modo total.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de las peleas, la decisión, por lo menos de Rodríguez Larreta, de Kicillof y de la Casa Rosada, es tratar de estar unidos y tratar de que la medida que finalmente salga, probablemente por un DNU del Presidente de la República, sean similares para la región y después que también acompañe, y eso es lo que quiere el Presidente, el resto de los gobernadores.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora, también la sociedad se va a tener que mostrar, o nos tendríamos que mostrar unidos frente al avance del COVID.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Nos estamos cuidando en serio?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero, para tratar de reclamar a lo que hace el funcionariado, que suele equivocarse en el tratamiento de la pandemia, y hay muchos ejemplos, también nosotros tendríamos que empezar a tal vez cuidarnos un poco más.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1823
+}

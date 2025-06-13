@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuando vemos cómo se ha distribuido el voto que hasta ahora conocemos, que es muy poco por el momento, vemos que las cosas se han repartido de un modo al que no estábamos acostumbrados, gente de mi edad, que sea avanzada, o de la tuya, que no lo es tanto, pero ninguno de los dos estábamos acostumbrados a esa distribución.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei se ha hecho tanto de la clase media-media alta \"bestializada\", como de la clase baja que ya no siente contención en el peronismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa no tiene un perfil populista en términos culturales, o puedo decir que será un populista en términos de algunas políticas, proponer, etc., pero en términos populistas no tiene ese perfil en términos culturales, no lo tiene.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2236
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.267,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El Ministro Sergio Berni fue víctima de una brutal agresión por parte de un grupo de choferes de colectivos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La periodista manifestó su incredulidad ante la violencia, expresando su desconcierto y consternación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señaló el hartazgo social y la falta de autoridad, sugiriendo que la situación es un caldo de cultivo para la derecha.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordó los sucesos de 2001 y la persistencia de las mismas demandas sociales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mencionó a figuras políticas como López Murúa y Patricia Bullrich como responsables del contexto económico y político que llevó al 2001, y criticó su actual candidatura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La periodista destacó la gravedad de la situación al no recordar una agresión de esta magnitud a un funcionario público.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Criticó la falta de respuesta policial y la gravedad de la agresión.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La periodista cuestionó la respuesta policial, su falta de presencia y la incapacidad para controlar la situación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El contexto del evento fue el reciente asesinato de Daniel Barrientos, un chofer de colectivo de 65 años.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se aclaró que la agresión se dirigió específicamente contra Berni, mientras que José Donofrio, quien llegó antes, no fue agredido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Resaltó la falta de soluciones mágicas, y la necesidad de diálogo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La periodista finaliza enfatizando la necesidad de diálogo y la gravedad de la situación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2316
+}

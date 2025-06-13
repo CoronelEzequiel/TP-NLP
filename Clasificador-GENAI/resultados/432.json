@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.107,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros tenemos —y esto me parece importante comunicarlo, porque creo que hay una falta de información enorme sobre el tema— una deuda de 45.000 millones de dólares con el FMI, más cargos y sobrecargos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI no quiso revisar los vencimientos del stand-by firmado por Macri, con Caputo como ministro de Finanzas, Dujovne como ministro de Economía, Sturzenegger como presidente del Banco Central, y Bausili como secretario de Finanzas —mano derecha de Caputo en ese momento—.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Exactamente. Y aquí entra la locura en la que estamos sumidos, porque esto no tiene sentido si no hay un tremendo aval político al gobierno, de nuevo, como por arte de magia, por parte de Estados Unidos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto ya es una decisión política para que Argentina se hunda y nunca pueda salir a flote.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mismo error que Macri.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, digo, él habla, elogia, pero no pone un peso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "la lógica rentista lamentablemente en Argentina, el problema histórico del peronismo, pero no solo del peronismo, también de los gobiernos de derecha como el de Milei, es que no hay un sujeto empresarial que quiera invertir y que quiera poner la plata",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, no le salió a Milei, entonces ¿qué está haciendo? ¿Está pasando la gorra?",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4105
+}

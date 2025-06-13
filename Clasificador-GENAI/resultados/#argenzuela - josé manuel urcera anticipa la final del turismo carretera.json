@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_urcera",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este tipo de definiciones son poco comunes, no se dan todos los días, ni todos los fines de semana.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es difícil que un equipo se mantenga en la cima constantemente. Cualquier equipo, en cualquier liga, puede arrancar muy bien y luego decaer un poco.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Soy un piloto profesional, pero no lo soy solo por estar aquí.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desde el que limpia el auto hasta el ingeniero o el motorista, todo el equipo está muy comprometido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2855
+}

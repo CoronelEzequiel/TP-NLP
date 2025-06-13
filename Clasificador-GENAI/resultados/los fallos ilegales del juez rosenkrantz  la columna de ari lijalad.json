@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.271,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El problema es que los populismos proponen derechos sin asumir el costo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, su trabajo en la vida es combatir los populismos y evitar que prometan cosas que después no pueden cumplir.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, ellos caracterizan la Argentina como si tuviera un solo partido populista: el peronismo, el cual discute precisamente estas cuestiones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, cuando Carlos Rosenkrantz dice que su rol en la vida es combatir el populismo, en realidad está diciendo que su rol es combatir al peronismo en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Encontré 56 fallos que involucran a sus ex clientes, entre ellos cuatro del Grupo Clarín.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este destape requiere medios de comunicación que discutan ideológicamente, que defiendan derechos para todos, a diferencia de los miembros de la Corte Suprema, que buscan suprimir al adversario político.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos un sistema de medios y una dirigencia política que no teman hablar de esto, porque temen represalias judiciales de los mismos que no cumplen la ley.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2236
+}

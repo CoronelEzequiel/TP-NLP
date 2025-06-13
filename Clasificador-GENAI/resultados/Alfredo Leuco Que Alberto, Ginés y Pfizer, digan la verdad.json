@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.745,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente de la nación, Alberto Fernández, el ex ministro de Salud, Ginés González García y el laboratorio Pfizer, deben decir la verdad.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El escándalo y el oscurantismo que hay alrededor de esta compra no realizada de 13 o 14 millones de vacunas tiene dimensiones de extrema gravedad institucional.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pfizer debe decir lo que pasó.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pfizer debería explicar en los Estados Unidos si es cierto que el ministro Ginés le exigió que tuvieran un socio local en la operación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después del escándalo Enron en Estados Unidos, la legislación castiga con mucha dureza, y la cárcel en varios casos, a los empresarios que paguen coimas o mientan ante los tribunales.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Señor presidente, con todo respeto, no son sus interlocutores los que tienen que explicar.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos ante un “Pfizergate”, y las autoridades deberían ofrecer una conferencia de prensa abierta y que los periodistas puedan preguntar y repreguntar hasta averiguar la verdad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero también, en algún momento, tendrán que rendir cuentas sobre los traficantes de vacunas, con Carlos Zannini y Horacio Verbitsky a la cabeza, con las vacunas que fueron al hospital de El Calafate y que no están registradas en ningún lado, con la militancia camporista inmunizada, con las aplicaciones en locales partidarios y sindicales y con el rosario de barbaridades que dijeron y promesas que incumplieron.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ni hablar de los delirios de los talibanes K, que llegaron a decir y a creérsela, en algunos casos, que Pfizer había pedido las Cataratas del Iguazú o el Glaciar Perito Moreno como garantía.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, el caso Pfizer es la prioridad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2717
+}

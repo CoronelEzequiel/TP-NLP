@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿Cuán significativa es la entrega de los recursos naturales de Argentina? ¿Qué trascendencia tiene la reforma laboral?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos proyectos, tanto las leyes bases como los Decretos de Necesidad y Urgencia (DNU), fueron elaborados por estudios jurídicos de grandes empresas argentinas. Estas empresas, de manera encubierta, están gobernando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos realizando un esfuerzo considerable para que Argentina salga del déficit fiscal, lo que impactará en la inflación y en la pérdida del poder adquisitivo, principalmente de las clases media y baja.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sufrimos las retenciones, y ahora… Si uno escucha al gobernador, podría pensar que envió a sus diputados a votar en contra, que frenó el saqueo del país. Pero no, los envió a votar a favor.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Funes de Rioja, presidente de la UIA, se queja, pero fue quien elaboró la ley base.  La gente cree que los defiende, pero él mismo la redactó.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se habla de educación ni de salud. Algunos fueron fundamentales para la aprobación de la ley, como [nombre omitido], que dio quórum tras sus críticas. Sin él, la ley no hubiese salido.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2081
+}

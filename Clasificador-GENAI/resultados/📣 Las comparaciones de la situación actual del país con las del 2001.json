@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.57,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En el caso de *Clarín*, Van der Kooy tituló su comentario de ayer: “El gobierno colapsado por la crisis”, o sea, “colapso”.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jorge Fernández Díaz: “La explosiva desesperación de los parásitos”.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“Sabemos que hay en marcha un plan de desestabilización. No hay que negarlo, ¿no? Desde los mercados, cómo te van marcando el tema del dólar día por día, cómo los empresarios van remarcando los precios día por día, cómo la justicia avanza en muchos casos, el caso con causas inventadas o armadas, o en forma acelerada, con algunos compañeros o compañeras, como algunos medios de comunicación, tratan de desgastar al gobierno.” (Pablo Moyano)",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "“Cuando la patria está en peligro todo es lícito, todo es lícito, o sea, hasta un golpe es lícito” por Aldo Rico.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "“Están pasando muchas cosas que me dan mucha vergüenza, mucha vergüenza, porque todo lo que dijeron que no iba a pasar, pasa. Todo lo que dijeron que iba a aumentar, aumenta. Y el presidente mira para otro lado porque ya lo tiene decidido. Estos son todos negocios con los yanquis.” (Hebe de Bonafini)",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3908
+}

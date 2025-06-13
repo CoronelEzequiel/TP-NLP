@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.067,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ustedes saben que tanto el DNU como la Ley Ómnibus son dos *Frankensteins*, donde cada estudio de abogados que representa a cada empresa le mandó su párrafo a Federico Sturzenegger y a los equipos de Milei.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un plan de saqueo.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo apoyaron explícitamente diciendo que no había otro camino y que es la única solución.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo estuve haciendo números de vuelta con todos los alimentos y ¿qué inflación interanual tuvieron? Bueno, todos los alimentos que mide el INDEC están por encima de la inflación interanual, excepto algunos estacionales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el arroz blanco, 751%.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que muestran todos estos números y los números que les mostré al principio, que son la rentabilidad de las grandes empresas, es que no hay ninguna necesidad de la desregulación económica ni de la desregulación energética.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo único que está haciendo Milei con este DNU y con esta Ley Ómnibus es mejorarlo aún más.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3769
+}

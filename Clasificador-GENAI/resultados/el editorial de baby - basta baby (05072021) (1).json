@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy hablé con gente de Patricia Bullrich.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de bancarse dos años todas las afrentas, ¿acuerdan ustedes?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Patricia Bullrich tuvo la honestidad de dar un paso al costado, de renunciar para que cambiemos, arme su proyecto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso quería homenajearla en esta editorial y decirle a los muchachos que están armando las listas que me encanta Facundo Manes, me encanta Manes y Menem y Minim.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a los otros que se organicen entre ellos, que vean qué camino van a tomar porque la cosa está peleaguda porque el país está fundido porque estos delincuentes no dejan títeres con cabeza porque les tuvieron que dar a la señora la hidrovía para que se calmen.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso creo que hay que poner la bola arriba de la mesa, ha sido una época muy jodida, que esto me pone muy feliz, que vuelva a Brandonia la política y que vuelva a Brandonia el teatro porque lo amo, lo admiro y lo respeto muchísimo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2733
+}

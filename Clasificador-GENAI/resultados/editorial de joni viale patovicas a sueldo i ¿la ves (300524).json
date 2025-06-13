@@ -1,0 +1,91 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.719,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y acá tengo a los patotas a sueldo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy Graffigna dijo: \"Si no entregan la comida a las 13:30, están cometiendo un delito\", que tiene que ver con lo que hablamos recién.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, la gente de Graffigna solo concretó 400 obras sobre 6.500.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y del otro lado te sale una ministra que te puede gustar o no, dice Stornelli que Graffigna destinó fondos por hasta mil millones de dólares en los últimos tres años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no a corruptos, no a corruptos, no a intermediarios, porque son gerentes que se han quedado sin negocio, son pymes sin negocio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, porque lamentablemente están hartos de los pésimos manejos de dirigentes como Pérsico y Graffigna, que les cobran a los pobres 10 mil pesos, 5 mil pesos, y los pobres los odian, los odian con toda la fuerza en su corazón.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Belliboni, callate la boca.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estos son los patotas a sueldo que tienen pensado intensificar el cabo social.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá, Info va en... Esto es de hoy. Un bloqueo sindical de 48 horas podría afectar la distribución de alimentos en todo el país.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que todos quieren voltear al cambio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están incitando a la violencia, están llamando al caos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente abandonó el populismo y se están dando cuenta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una comprensión histórica cultural de que la dignidad no se pide, sino que se conquista.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei en Stanford. Frena la charla porque vio una camiseta de Boca.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, dice el tema, no la ven, no la ven.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las encuestas confirman que a Milei lo bancan los pobres.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5885
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "La_verdad_del_poder",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Como todos estos personajes que integran la ralea de la ultraderecha a nivel internacional, Javier Milei tiene algo de bufón.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su comunidad troll lo festeja como si fuera el último grito en materia de humor o de audacia, una estética del mal gusto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Venimos de semanas de turbulencia financiera en un contexto de catástrofe de la economía real.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos frente a un plan económico basado en un ajuste ciertamente inequitativo, aparentemente insustentable y probablemente inútil.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La realidad es que el bufón se sostiene menos por la gracia propia que por los favores ajenos, los favores de esos oficialistas que son oficialistas de todos los gobiernos, que muy probablemente creen que están ayudando a un estadista que entiende la música de la época, pero quizás se terminen dando cuenta de que están sosteniendo al último \"libertarado\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2421
+}

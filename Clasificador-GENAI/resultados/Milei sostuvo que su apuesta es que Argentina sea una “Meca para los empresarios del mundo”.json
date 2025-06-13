@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Carrió, como una célebre pitonisa, dijo: \"Milei es el caballo de Troya de las peores mafias de la matriz del saqueo final de la Argentina\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habló de una nueva Roma, dijo que la Argentina debería convertirse en la nueva Meca de los empresarios del mundo, ser quien difunda la civilización occidental, y el destino de los inversores parece ser parte de la misión autoimpuesta del presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Argentina puede hacer una estrategia, y yo estoy a favor de que eso ocurra, pero va a ser más que nada focalizar en algunas actividades primarias como energía y minería, como el servicio público, como se ve en los 90.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según la líder de la Coalición Cívica, Milei actúa como un caballo de Troya de estos intereses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rovelli plantea que el grupo de inversión tiene integrantes propios en varios directorios de empresas para controlar la explotación de Vaca Muerta.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de Javier Milei, en realidad de Caputo y de Bausili, confiaban en cuatro caminos para obtener dólares.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei viajó a Los Ángeles para el foro del Instituto Milken, en este foro en el que principalmente asisten empresarios ligados al capital financiero.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El mandato de producir bienes y servicios de mejor calidad, mejor precio, ligado a la maximización de los beneficios. La responsabilidad social del empresario es ganar dinero y eso solamente lo puede hacer sirviendo al prójimo con bienes de mejor calidad a un mejor precio.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina hoy sigue siendo un país, una nación, un pueblo ávido por descubrir y ser descubierto, como lo fuimos a fines del siglo XIX.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayúdenme ustedes, que son el progreso humano encarnado, a hacer de la Argentina la nueva Roma del siglo XXI, a hacer de la Argentina una tierra de oportunidades para todos aquellos que estén dispuestos a habitar nuestro suelo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5953
+}

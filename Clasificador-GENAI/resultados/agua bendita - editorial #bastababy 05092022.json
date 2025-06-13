@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Yo, la verdad, no voy a hablar del atentado, porque el viernes aparecieron miles de especialistas en balística, en balas, en tiro, cantidad de pelotudos hablando de hilada, tipo que decían: “Pero era una pistola, un revólver, .32, 7, descendió por 39, 40...”.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esa locución que yo hice, y lo dije de corazón, terminé diciendo: “Hoy somos todos Cristina”, porque es muy feo ver a una mujer a la que le ponen un revólver en el ojo y le disparan, y no sale la bala.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me levanto el viernes con la sorpresa, después de haber puesto mi jeta solidarizándome con Cristina, cosa que haría de nuevo, porque no tiene nada que ver el culo con la memoria, y aparece un atorrante, como del día, Guasora, ¿se acuerdan?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo quiero decir desde mí, no hablo por los demás, que yo voy a seguir luchando por la libertad de expresión hasta mi última gota de sangre.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y que voy a seguir bregando para que Cristina vaya a tribunales y, si es culpable, la condenen, apoyaremos a los jueces saliendo todos a la calle a apoyarlos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, les quiero decir que yo voy a seguir peleando, voy a seguir hablando y voy a seguir luchando por la libertad de expresión y por la gente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2730
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández lo intentó, se comenta que estaba listo el helicóptero en Olivos para llevarlo al predio de la AFA en Ezeiza, al predio Julio Grondona. No pudo ser.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo esto forma parte de la política, porque Tapia es un hombre del mundo de la basura. Tiene negocios importantes en la AFA.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una cómoda ignorancia la del presidente que dice no saber lo que está pasando en Cuba.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Curioso en el mundo que se justifique el autoritarismo en nombre de la igualdad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri, desplazado, activo pero desplazado del centro de la escena, Larreta tomando el protagonismo, tomando decisiones, por ejemplo traer a Vidal de nuevo a la Capital Federal y armando en la ciudad un frente con el radicalismo que empieza a tener una conducta especial también.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6391
+}

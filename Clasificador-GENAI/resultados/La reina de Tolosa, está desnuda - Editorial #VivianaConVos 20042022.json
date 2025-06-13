@@ -1,0 +1,81 @@
+{
+  "texto_id": "Cómo les va, buenas noches",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.864,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy tengo la sensación, y soy medio jabrú, de que, y no voy a decir nada brillante, pero siento que hoy es el principio del fin para toda esta gente, para todos ellos, para este gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La reina de Tolosa está derrapando mal, demasiado, violando la democracia que tanto nos costó conseguir.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo este gobierno es cómplice de la reina de Tolosa. Nos está causando un daño irreparable la reina de Tolosa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es muy resentida y trabaja con ese resentimiento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un resentimiento que castiga, que no tiene, es una voracidad que no encuentra un límite.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos gobiernan delincuentes con el culo sucio, muy sucio.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solo quieren la impunidad para la jefa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y Bilardo, que lo quiero, reyes de la trampa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El único plan que tiene Cristina, dice Mario Negri, es controlar la justicia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solo quiere su impunidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aprendan del kirchnerismo, boludos, le digo a la oposición.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la reina del mal.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son todos unos chorros que la hicieron con la nuestra.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Basta de corruptos, por favor. Basta de saqueadores de la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9010
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.103,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que cualquier encuentro que busca generar alegría es positivo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, es una vergüenza que estén celebrando allí, comiendo asado, después de haber negado un aumento de 13.000 pesos a los jubilados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras ellos cenaban asado, muchos de nosotros no comimos nada hoy; yo, por ejemplo, no pude comprar mis medicamentos, y sin ellos, no puedo comer.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei sabe que el pueblo entero pide comida, y se la niega.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, Milei tuvo su fiesta en Olivos, creyendo que no tendría costo, pero esas fotos que circulan se las van a mostrar muchas veces.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este modelo económico es insostenible.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, vas a volver al llano.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una porquería lo que pasó.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2349
+}

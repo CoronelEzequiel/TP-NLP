@@ -1,0 +1,46 @@
+{
+  "texto_id": "larroque_rial",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.271,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Parece que estamos atravesando una situación dramática y compleja a nivel nacional, y particularmente en la provincia de Buenos Aires, el impacto social de estas políticas nos genera una situación muy difícil.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto nos obliga a construir una respuesta, un frente amplio, incluso dentro del propio peronismo, para frenar estas políticas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si observamos los poco más de diez meses del gobierno actual, una gran noticia es la consolidación de Axel Kicillof, tanto en la gestión como en su postura frente a las políticas del gobierno nacional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La interna del Partido Justicialista no es el tema principal en los barrios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos bajar los decibeles, no es momento para agresiones entre compañeros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Enfrentamos a alguien que desea ponerle el último clavo al cajón del kirchnerismo, con Cristina Kirchner incluida.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre debemos ser lo más abarcativos posible. No sé si es cuestión de nombres. Debemos tener un espíritu que convoque a sectores del peronismo que tuvieron diferencias, como lo hizo Cristina Kirchner en 2019.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2499
+}

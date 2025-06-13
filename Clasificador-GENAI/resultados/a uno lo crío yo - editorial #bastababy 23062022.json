@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy la reina está desnuda, hoy la reina no se da cuenta, por el aplauso de los alcahuetes y los sobones, que el martillo de la justicia está golpeando el comodoro Py y que ya van a llevar presos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo, lo que haría honestamente, ya que en las conferencias de prensa de Gabriela Cerruti, lo único que se ve son mentiras y vídeos, yo lo que haría es no ir más a una conferencia de prensa de Cerruti.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y vos fijate que yo se los conté hace dos meses, ahora los planeros están organizados como un ejército, vos los ves marchar por las avenidas 9 de Julio y parecen los chinos, ¿viste?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y hay varias categorías de alcahuetes y genuflexos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, realmente habría que hacerle un boicot, ¿sí?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3044
+}

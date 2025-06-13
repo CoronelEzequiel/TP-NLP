@@ -1,0 +1,36 @@
+{
+  "texto_id": "La interna en el poder argentino: una crisis en medio de la pandemia",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta situación se agrava en el contexto de la pandemia de COVID-19, con cerca de dos mil muertes y más de cien mil contagios, una situación sanitaria lejos de estar controlada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sus declaraciones se alinean con las posturas expresadas por Cristina Fernández de Kirchner en Twitter, donde compartió y recomendó una nota del periodista Alfredo Zaiat.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta nota,  al igual que el comunicado de Madres de Plaza de Mayo, critica las acciones del presidente,  señalando  sus encuentros con diversos grupos empresariales  (como la UIA, la Sociedad Rural Argentina, la Asociación de Bancos Argentinos y la CGT),  a quienes se acusa de oponerse al desarrollo nacional, y al Grupo Clarín y el empresario Cristóbal López.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández, en una entrevista reciente, abordó la reforma judicial,  un tema en el que discrepan él y la vicepresidenta.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de diálogo interno  y la  persistencia de las confrontaciones públicas,  recuerdan a conflictos anteriores del peronismo, ninguno de los cuales tuvo un final positivo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1477
+}

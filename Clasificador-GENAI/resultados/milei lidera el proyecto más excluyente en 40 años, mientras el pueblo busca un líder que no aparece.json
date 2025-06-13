@@ -1,0 +1,51 @@
+{
+  "texto_id": "El gobierno actual tiene un plan que beneficia solo a un tercio de la sociedad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.119,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno actual tiene un plan que beneficia solo a un tercio de la sociedad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchas personas padecen hambre, están enfermas y no pueden afrontar el costo de sus medicamentos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno recorta presupuesto a los hospitales, las universidades y los jubilados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se observa una creciente división social: las clases alta y media alta recuperan su poder adquisitivo, la clase media permanece estancada y la clase baja sigue en declive.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un gobierno con políticas autoritarias que, de ganar en 2025, podría empeorar la situación en muchos aspectos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La oposición se encuentra fragmentada.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El principal responsable de esta fragmentación es el presidente [Nombre del presidente].",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un pueblo que busca una representación política adecuada, con jóvenes, jubilados y profesionales que participan en las movilizaciones.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2091
+}

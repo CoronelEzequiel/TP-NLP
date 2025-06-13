@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dimos de baja a más de 110.000 beneficiarios en mi primer año de gestión, en línea con la postura del Ministro de Economía y el candidato presidencial Sergio Massa, de cuidar los recursos públicos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La informalidad es un gran problema en Argentina, con alrededor del 40% de la economía en la informalidad. Muchas personas no entienden que el Ministerio y el Estado deben cubrir las necesidades de los vulnerables; la informalidad no es sinónimo de vulnerabilidad social.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una tendencia a la estigmatización. Decir que 160.000 personas viajan en primera clase genera indignación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Somos un ministerio que trabaja con personas en situación de vulnerabilidad social.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay dos medidas previas a la anunciada ayer por Sergio Massa: el \"Puente al Empleo\" (generar condiciones para que los empleadores tomen a personas de Potenciar Trabajo durante 48 meses, el Estado paga la carga patronal y medio salario mínimo, vital y móvil), y la inclusión laboral a partir del 1º de enero de 2024.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2434
+}

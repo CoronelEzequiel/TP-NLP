@@ -1,0 +1,31 @@
+{
+  "texto_id": "crisis_dolar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La famosa restricción externa es la base de las recurrentes crisis argentinas, manifestada en la escasez de dólares.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los dólares destinados al pago de una deuda que muchos consideran ilegal, ilegítima y odiosa (concepto jurídico que se aplica a deudas contraídas para perjudicar a la población) son una parte importante del problema.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La conclusión del documento de Cifra y FLACSO es que la elevada concentración del endeudamiento externo del sector privado, tanto en el gobierno de Cambiemos como en el del Frente de Todos, y la magnitud de los vencimientos en este último periodo, invita a reflexionar sobre la política desplegada en un momento de elevado déficit comercial y menor préstamo del FMI.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En conclusión, el problema no es que los argentinos tengan una obsesión con el dólar; el problema son algunos argentinos, y especialmente algunos de determinada clase.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1773
+}

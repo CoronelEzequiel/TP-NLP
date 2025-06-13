@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de Alberto Fernández, con Axel Kicillof en la provincia de Buenos Aires, enfrenta una fuerte oposición.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero lo que está sucediendo ahora me parece un intento de crear cortinas de humo para ocultar algo peor: una inflación galopante, el dólar a $300… no lo sé, pero no les creo nada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo peor es que están utilizando a los niños como herramienta política, impidiendo que asistan a clases.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y encima, esas mujeres de clase alta, esas rubias conchetas…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Aunque no soy peronista y muchos me consideran de derecha, hablo por los niños que asisten a escuelas públicas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cómo es posible que estos se presenten como los defensores de los pobres después de habernos robado el dinero del país, las vacunas…?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¡Son descarados, sin vergüenza!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los olvidados del kirchnerismo, del peronismo y del populismo son los que no tienen nada y nunca lo tendrán: los que esperan que el comedor social abra para comer algo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quieren destruir todo para que todos tengamos bicicletas, mientras ellos viven en Puerto Madero, en barrios privados, con casas, barcos y aviones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2235
+}

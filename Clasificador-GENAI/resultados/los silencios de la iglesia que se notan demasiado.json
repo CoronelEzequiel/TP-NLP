@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.456,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Expertos de diversos ámbitos afirman que la actual crisis argentina es aún más grave que la de 2001.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si bien es cierto que dentro del gobierno se han producido enfrentamientos públicos y escenas de cuestionamiento explícito al poder, como cuando Cristina Fernández de Kirchner cuestionó la legitimidad del presidente que ella misma había elegido, el problema trasciende las disputas internas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la calle, la gente no llega a fin de mes, no sabe qué gastos recortar y teme a la hiperinflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De hecho, el temor a un discurso crítico en el Tedeum llevó al presidente a no asistir, pasando el día en la Antártida.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El cardenal hablaba de la alegría que solo se experimenta con \"alma de pobres\", encontrándose esta en los sectores más humildes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La alternancia en el poder es una característica, pero persisten problemas de Estado sin resolver.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Iglesia es un actor político que, históricamente, ha denunciado al poder.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Papa Francisco ha mencionado que los planes deben ser transitorios y complementarios, con contraprestación laboral, ya que el trabajo dignifica.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si bien se mencionó a quienes carecen de alimento, la Iglesia optó por un mensaje conciliador con el gobierno de Alberto Fernández, en un año que finalizará con un 70% de inflación.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2173
+}

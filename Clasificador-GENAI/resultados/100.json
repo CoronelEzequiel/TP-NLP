@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_discurso_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si lo que están especulando es que Milei va a tener un discurso conciliador, olvídense, no va a haber marcha atrás, ni mucho menos rebaje en la velocidad con la que viene imprimiendo cuestionamientos a lo que él denomina \"la casta política\", y en donde metió a todos prácticamente.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien es cierto que es un horario que favorece al cacerolazo porteño, porque el cacerolazo porteño tiene a tiro de subte e incluso tiene a tiro de caminata la Plaza de los Dos Congresos, no es un horario que favorezca al ‘orco’ proveniente del conurbano, al ‘orco’ nurvano, porque el ‘morochazo’ que tiene que llegar a la ciudad de Buenos Aires lo tiene que hacer a través de transporte público, y ese horario, imaginate que puede terminar a las 10 y media.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que sí sé es que Patricia Bullrich ya está haciendo los estudios de factibilidad para diseñar un dispositivo tendiente a proteger el Congreso y a prevenir cualquier desborde.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hay algo que no quieren los gobernadores es hacer ninguna revolución.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Están con eso. Y lo que no sé todavía es cuál va a la ser la reacción de la oposición, ¿no?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3971
+}

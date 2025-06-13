@@ -1,0 +1,51 @@
+{
+  "texto_id": "Es 23 de diciembre",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Y el gobierno anunció que iba a bajar la inflación, lo que está logrando.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación, que estaba completamente desbocada, empujaba a miles de argentinos bajo la línea de pobreza mes a mes y reducía constantemente el consumo de la población.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto fue lo que conceptualizó inteligentemente Carlos Melconian, con su enorme capacidad de construir metáforas como la 'licuadora' de gran parte del gasto público.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el ministro de Economía lleva adelante estas medidas, los trabajadores lo van a llevar en andas para tirarlo al Riachuelo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos heredado una bomba que combinaba lo peor de las tres peores crisis de la historia argentina: la de Rodríguez, la hiperinflación de Alfonsín y lo que fue la crisis del 2001.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, como siempre, una sarta de mentiras de las cuales algunas son verdades para apoyar el resto.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La novedad en la era de Milei es que parte de la estabilidad no está lográndose por los dólares que entran necesariamente, aunque ingresaron muchos por el blanqueo, sino por el ajuste fiscal que le está generando.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Importante, y particularmente como ministro de Economía, es el presidente, el presidente y su personalidad, porque yo creo realmente que, si no tuviéramos este presidente con esta personalidad, hoy no estaríamos frente a la oportunidad histórica que tenemos en frente, que es la de cambiar el país, que viene, como todos sabemos, en caída libre desde hace los últimos 100 años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2844
+}

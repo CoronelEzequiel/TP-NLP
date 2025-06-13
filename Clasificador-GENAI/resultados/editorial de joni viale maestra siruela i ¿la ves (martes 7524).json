@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.643,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo creo que el presidente debería abandonar esa costumbre de estar hablando tonterías por el mundo, acerca de un mundo que no existe, como el comunismo, el socialismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta señora, primero, debería estar presa, ahora vamos a hablar de eso, pero ha dejado 1.143% de inflación en los últimos cuatro años.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El problema que tienen es que ya no les resulta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No podés maltratar a la gente por pensar distinto, no podés.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ese odio fue inyectado lamentablemente por el kirchnerismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo mejor que le puede pasar a Milei es que un autócrata bananero lo insulte.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación de diciembre fue del 25%.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5077
+}

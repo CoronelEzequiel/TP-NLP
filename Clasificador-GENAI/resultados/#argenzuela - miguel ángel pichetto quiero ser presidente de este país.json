@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_a_pichetto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "No es un partido exclusivamente peronista; tiene una visión de centro-derecha, un espacio que Argentina necesita.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablamos de fuerzas armadas, seguridad, una agencia federal antinarcóticos al estilo DEA, economía y la necesidad de una salida capitalista para Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mis principios son: autoridad presidencial, orden, administración, restablecimiento del sistema de justicia, capitalismo, trabajo, producción, fin del mundo asistencialista.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que generar reglas, normas, modernizar el trabajo, bajar los impuestos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peronismo es el trabajador, no el plan social.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Perón era de derecha.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2639
+}

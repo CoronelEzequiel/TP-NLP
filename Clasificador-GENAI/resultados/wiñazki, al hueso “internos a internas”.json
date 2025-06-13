@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Sorprende esta relación entre Alberto Rodríguez y Milagros Salas, sobre todo porque la lista se presenta justo cuando el presidente de la República visitó Jujuy sin reunirse con Salas, a diferencia de lo que hizo Morales, generando malestar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si bien algunas prisiones preventivas pueden ser injustas, la mayoría se aplican a personas que han cometido delitos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De Vido critica duramente la situación actual del país, afirmando que el peronismo no tendrá oportunidad si el gobierno colapsa, destacando la necesidad de resolver la crisis económica y la importancia del movimiento social que representa Milagros Salas, considerando que el IFE fue suspendido.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la lista que se enfrenta al presidente incluye a una candidata con prisión domiciliaria que no está afiliada al partido y a familiares de Julio De Vido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1407
+}

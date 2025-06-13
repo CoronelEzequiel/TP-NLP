@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.65,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Excelente artículo en *La Nación* de Jorge Liotti, que para mí define la presidencia de Milei.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos son los momentos en que el populismo muestra su verdadera cara: una máquina de odio golpista.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entiendo que hiciste tu carrera más como comediante de televisión que como economista, pero lo que está en juego es el futuro de los argentinos: quién representará a Argentina ante el mundo, quién se sentará con las centrales obreras y los empresarios para diseñar políticas de crecimiento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El kirchnerismo aún no entiende por qué perdió, pero Malena Galmarini les dio una pista: \"La gente está harta de nosotros\".",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Decir gracias por doce años maravillosos, pero buscar algo nuevo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El temor es que el nuevo gobierno resuelva en un año lo que el kirchnerismo no pudo en veinte.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bajara la inflación, sería un éxito absoluto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ajuste es una mutilación: en cultura, educación, empleados estatales…",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo está mareado. ¿Sin conducción?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La conductora es Cristina Fernández de Kirchner, que nos dice: \"Rájense\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tenemos un problema: Alberto Fernández recibirá un retroactivo de 32 millones de pesos por su jubilación de privilegio.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dialogar no es un error, es imperativo en este contexto de debilidad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¡Qué pedazo de chanta!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo se apropió del Estado durante veinte años.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El presidente debe usar todo su poder, sin culpa, sin miedo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3980
+}

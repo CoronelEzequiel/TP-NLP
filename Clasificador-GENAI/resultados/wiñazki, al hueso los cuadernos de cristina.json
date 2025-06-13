@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.713,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este fallo es un duro golpe para la estrategia judicial de Cristina Fernández de Kirchner, quien busca impedir que la causa llegue a juicio oral.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta situación es singular: el pedido provenía de los abogados de Cristina Fernández de Kirchner y otros funcionarios imputados en la causa de corrupción más importante de la historia reciente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué Cristina Fernández de Kirchner intenta desestimar estas pruebas?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Roberto Campillo, ministro de Economía de Santa Cruz y hombre de confianza de los Kirchner, declaró que Daniel Muñoz, secretario privado de los Kirchner (quien manejaba, según su contador también arrepentido, 500 millones de dólares en coimas), le confesó en su lecho de muerte que tenía dinero a su nombre que no le pertenecía.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Víctor Manzanares, contador de los Kirchner, estimó en 500 millones de euros las coimas en las que participó, describiendo cómo las ocultaba con Muñoz y aportando documentación sobre sus inversiones en farmacias, empresas y propiedades.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fabián Gutiérrez, secretario privado de Néstor y Cristina Kirchner, declaró que al trabajar con Cristina en el Senado, veía a José López y Jaime Ricardo llegar a la Casa Rosada con bolsos de dinero.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos hechos se enmarcan en una estrategia de revancha contra quienes declararon en causas relacionadas con ex funcionarios kirchneristas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su no ascenso, ¿refleja falta de transparencia?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1790
+}

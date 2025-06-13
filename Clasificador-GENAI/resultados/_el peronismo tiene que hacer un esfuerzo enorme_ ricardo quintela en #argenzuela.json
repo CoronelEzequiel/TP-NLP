@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_quintela",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Además, nosotros todos sabemos cuál es nuestra posición, antagónica a la de este gobierno. No compartimos para nada, digamos, las políticas que aplica este gobierno, básicamente las políticas de destrucción del Estado, algo que costó muchísimo construir un Estado que tiene que estar presente, pero además de eso ser muy eficiente, lo más eficientemente posible para resolver los conflictos que tiene nuestra sociedad y los problemas que tiene nuestra gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si la gente elige un presidente, lo elige para que le genere condiciones y oportunidades para poder crecer y desarrollarse. Este quita oportunidades y conculca derechos. Entonces, todos los derechos que se vinieron ganando desde el comienzo de nuestra patria hasta la fecha, muchos de ellos fueron conculcados, fundamentalmente a los extremos, tanto la niñez como nuestros jubilados, digamos, son los más vulnerados, los más atacados, ¿no?",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y tenemos diferencias con el gobierno nacional, por eso no hemos adherido al RIGI. Están todos conscientes que nosotros no adherimos al RIGI, pues consideramos que es una política extractivista únicamente, que no le deja beneficio a la provincia, mucho menos al país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claro, yo creo que el RIGI, digamos, entra en una competencia absolutamente desleal con nuestros empresarios, con nuestros industriales, ¿no? La verdad que no, porque lo único que pagan es ganancias y pagan un porcentaje mucho menor que los nuestros. Pero ahí no pagan absolutamente nada, no pagan IVA, no pagan nada, y encima pueden sacar los dólares cuando quieran de acá, de la República Argentina, cosa que no está permitido para los argentinos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando habló, habló muy simple, muy sencilla, planteó claramente, digamos, que venía a representar al Gobierno Nacional, donde, bueno, dijo algo que no comparto, que generó todas las condiciones para que vayan a invertir, que la Argentina, después de siglos, está ordenada e invitaba a todos que participen.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3800
+}

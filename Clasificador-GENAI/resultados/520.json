@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.195,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Por un lado, uno, ideológicamente, por convicción, por historia, te votaría a vos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero por conveniencia, porque vos decís \"hay que ganar como sea\", van a votar a Massa.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero estoy en un argumento muy pragmático: no fui por afuera, estamos en las PASO.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, ¿qué estás votando si me votas a mí? Estás votando una garantía de que va a haber un polo, después de ponerle límites a Massa y defendiendo a Cristina, cuando el año que viene la van a querer perseguir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque para mí lo que de verdad quebró todo fue el tema del Fondo Monetario Internacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero Cristina lo dejó a Massa enfrentando al Fondo…",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Supera la táctica y en algunos elementos la ideología.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A mí, seguro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo soy lo que he sido siempre. O sea, estoy transmitiendo un programa, que es que la gente pueda tener una vivienda, que todos los trabajadores tengan derecho, porque hoy tenemos la mitad de los trabajadores por debajo de la línea de pobreza; que los campesinos, los pueblos originarios, pequeños productores tengan tierra; que haya un fondo soberano de litio para la educación a partir de la renacionalización de los recursos (litio, hidrocarburos, pesca, las represas hidroeléctricas, etcétera); y que haya una confrontación con el Fondo Monetario Internacional, que parte de la base de que nos estafaron.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich. Gerardo Morales. Son los verdugos del 2001.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero cada voto que nosotros tengamos va a ser un evento de poder para poner al servicio de las banderas históricas del peronismo, de las banderas históricas de los movimientos populares que es tierra, techo y trabajo, y del ser humano.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2832
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.571,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Creo que como una final de campeonato llegan las definiciones de las sesiones extraordinarias en el Senado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y va a ser un logro del gobierno porque logró forzar, por lo menos, el trazo de su expectativa de formato electoral, teniendo una exigua minoría en el parlamento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que, así como es factible que salga fácilmente la suspensión de las PASO, porque también hay un consenso de necesidad de los gobernadores y decisión política, y ustedes saben que el Senado, aunque tenga un férreo control, todavía Cristina Fernández de Kirchner, es la casa de las provincias.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una vergüenza a todas luces porque la inseguridad es una de las preocupaciones más importantes para todos los argentinos y esto permitiría parar la puerta giratoria, al menos en delitos nacionales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para ella, este es el momento ideal de sacarse de encima Ficha Limpia. Porque tienen la ficha sucia, claramente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Corte es la que tiene la última palabra. Por eso a Cristina le importa controlarla.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno puede hacer historia para bien o para mal con estas designaciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3945
+}

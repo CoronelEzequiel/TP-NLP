@@ -1,0 +1,31 @@
+{
+  "texto_id": "movilizaciones",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si bien existieron manifestaciones en lugares como Avellaneda y el Obelisco de Buenos Aires, es importante analizarlas con objetividad, considerando la diversidad de participantes y sus motivaciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estas últimas, aunque aparentemente simples, merecen un análisis profundo, ya que en una democracia, la posibilidad de cuestionar o modificar instituciones clave es fundamental.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, es crucial evitar generalizaciones apresuradas y enfocarse en la comprensión de las motivaciones específicas de los diferentes grupos participantes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La comparación con eventos similares en otros países, como Brasil, donde también se utilizan símbolos patrios en las manifestaciones, resulta relevante para analizar la dimensión internacional de este tipo de protestas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 999
+}

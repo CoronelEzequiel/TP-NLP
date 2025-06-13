@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.787,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy puse el título *Los Impotentes* porque la verdad, la impotencia de Kicillof, de Alberto Fernández, para gobernar, los hace despertarse a la mañana y yo creo que se despiertan a la mañana pensando a quién le pueden arruinar la vida hoy.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, yo pienso, ¿no? No hubiese sido mucho mejor avisar antes de que la gente se vaya.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esos son los oligarcas, esos son los fachos, esos son… porque viajan.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Además, cada uno se puede ir a Miami cuando quiera, venir cuando quiera y vacunarse cuando quiera.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, la verdad, como ministro fue un desastre, nos hizo mierda todo, y como si fuera poco, en cambio de quedarse como el capitán del Titanic, a hundirse con el barco, se fue a pasear con la mujer, a conocer Barcelona, España, Madrid, las playas, el Mediterráneo, y nosotros acá cagándonos muriendo 700 por día por este inútil, por este inútil, que después, dicho sea de paso, Alberto Fernández, dijo: \"Lo que más me preocupa es que tuve que echar a mi amigo Ginés González\".",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso quería hablar de los impotentes: tenemos un gobierno que además de todo es impotente para solucionar problemas, pero tiene potencia para darle problemas a los demás, y yo creo que esto de dejar varados a los argentinos en el mundo es una forma de pasar la pelota y hacerlos sentir culpables.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿qué derecho tienen de cagarnos a pedo?, ¿qué derecho tienen de encerrarnos?, ¿qué derecho tienen de perseguirnos?, ¿qué derecho tienen de detenernos como en un campo militar?, ¿qué derecho tienen de pararnos y jodernos, hacer cerrar negocios, de cagarnos la vida?, ¿con qué derecho?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, ¿quiénes son los impotentes?, ¿ellos, que nos gobiernan, que son impotentes para darnos algún bienestar, o nosotros, los gobernados, que somos impotentes para enfrentarlos y decirles: \"Ya acabó, o gobernás bien porque te voto y te saco a la mierda\"?",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3489
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "corruptos",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En la vivienda de Vizic se encontraron 600.000 dólares estadounidenses, además de 2.000 dólares en efectivo (equivalente a aproximadamente 50.000 pesos uruguayos al cambio).",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta causa, a la que algunos llaman \"la causa de los corruptos\", involucra también a Insaurralde, quien fue fotografiado y grabado en varias ocasiones.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El hallazgo de 600.000 dólares en su vivienda de Nordelta (además de otra en Vicente López) resulta llamativo, sobre todo considerando la aparente seguridad del barrio privado.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La decoración de la vivienda, con una estética que algunos describen como \"despótica\", también llama la atención.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1191
+}

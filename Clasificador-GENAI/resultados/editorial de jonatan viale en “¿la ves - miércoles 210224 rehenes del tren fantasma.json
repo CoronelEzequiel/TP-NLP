@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.788,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Así como lo escucharon, rehenes de estos dinosaurios, de estas personas a las que no les importa nada, de esta corporación jurásica, realmente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El paro no se lo hicieron al gobierno. El paro se lo hacen a la gente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No son gremios. No estamos ante gremialistas. Estamos ante militantes del kirchnerismo o del peronismo que hacen política partidaria usando a los trabajadores.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El sindicalismo argentino perdió esa credibilidad que alguna vez supo tener.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque se nota mucho. ¿Quién decía? Se nota mucho.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Juegan demasiado con la paciencia de la gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei sería lo más parecido a Maduro que hay en el mercado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El argentino para mí, viste, es como, el mito.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3799
+}

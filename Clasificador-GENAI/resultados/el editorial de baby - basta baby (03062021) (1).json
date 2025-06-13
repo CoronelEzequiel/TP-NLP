@@ -1,0 +1,41 @@
+{
+  "texto_id": "Chequeado",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo soy bien facho, y rebanco a la policía.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son muy chicos ustedes para gobernar un país con tanto quilombo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y la verdad es que hacen mierda el país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a votar a otro tipo que nos tenga como el orto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso mismo, le estoy pidiendo a Alberto que se ponga un brazalete rojo en el pecho, porque le están apuntando todos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero no sean cobardes y traidores, porque, además, están en un partido de cobardes y traidores, que no es el peronismo, son los fracasados del peronismo con los fracasados de la izquierda, con los fracasados de la derecha, con los que no se les para más, y tratan, en lo posible, de apoyar a un fracasado para sentirse útiles.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3479
+}

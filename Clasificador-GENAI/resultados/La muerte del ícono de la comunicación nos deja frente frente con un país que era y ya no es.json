@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_cacho",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, su vida es, de alguna manera, una metáfora de lo que fue aquella Argentina que perdimos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquella Argentina que era un país más desarrollado, por ejemplo, que Europa, que Corea del Sur hasta 1980; el producto bruto per cápita argentino era mayor que el de Corea del Sur hasta 1970. Argentina tenía un producto bruto más grande que España, por ejemplo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, ahí en 1980 todavía la dictadura no había empezado su proceso de decadencia, lo comenzaba allí y que desembocaría dos años después con la derrota en la guerra de Malvinas, y nuevamente lo tiene protagonista a Fontana junto con Pinky en un programa que era *24 Horas por Malvinas* para juntar dinero para los combatientes en Malvinas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O sea, haber sido la cara junto con Pinky inició lo que sería un proceso de cancelación, era como el primer cancelado en la época que todavía no existía ni esa palabra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "YPF es energía. Polenta. Es energía pura. Es pura polenta. Clemente, hablemos de usted. Hablemos en paz, el cacho. Hay que tener polenta. Hay que tener polenta para no aflojar la calidad, para autoabastecer al país y estar en casi 3000 estaciones de servicio. Para renovarse y ser, hay que tener energía. YPF es energía. Polenta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4120
+}

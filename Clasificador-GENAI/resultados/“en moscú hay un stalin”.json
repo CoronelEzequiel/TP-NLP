@@ -1,0 +1,71 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.663,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En Occidente se creyó que cuando la Unión Soviética y el comunismo colapsaron, la historia había terminado, la idea de Fukuyama.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En segundo lugar, estamos en manos de una potencia revisionista, como es el caso de Rusia, que quiere reconstituir lo que fuera el Imperio Soviético.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Él es un hombre que el discurso que hoy tiene es un discurso hipernacionalista.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un Stalin moderno, en primer lugar, y en segundo lugar, no está alimentado por una doctrina sino por el nacionalismo ruso.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Moscú hay un zar, y esto hay que tenerlo bien claro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso esto explica por qué la derecha europea, por ejemplo, en Francia, la señora Le Pen es una persona que no ataca a Putin.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy las mayores defensoras de Putin en Europa son los partidos de la derecha que son financiados por Putin.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que lo único positivo de todo esto es que Trump va a tener problemas porque el Partido Republicano en esto no lo puede seguir.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una alianza entre China y Rusia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Putin, yo diría que es la nave insignia, el que va para adelante.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Rusia estructuralmente es un junior partner de China.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Europa hubiera gastado en defensa, esto no ocurre porque la ventaja de Putin es que él está allí y tiene 150 mil soldados, y Europa no está allí.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4510
+}

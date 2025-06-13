@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "De hecho, prevalece una pregunta, a veces explícita, a veces implícita: ¿Cómo es posible que, a 40 años de restaurada la democracia, una fuerza política como La Libertad Avanza, que niega los derechos y libertades democráticas más elementales y milita el negacionismo de la dictadura y el genocidio, goce del respaldo que tiene?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Podríamos agregar, sin desvirtuar su sentido, que también lo sería para quienes tienen el cuerpo roto por el pluriempleo, agotados por la pobreza estructural o estresados por una cotidianidad implacable, una odisea para encontrar vivienda, trabajo digno o simplemente para sobrevivir.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En parte, porque la economía de las últimas décadas siguió, con matices, los lineamientos troncales de la dictadura.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El retorno del régimen constitucional se sustentó en una importante derrota de los sectores populares, sellada en la muerte y desaparición de lo más dinámico de una generación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El endeudamiento externo desmedido, la pobreza estructural (alrededor del 40%), la precarización laboral (que afecta al 35% de los trabajadores) y la pulverización salarial, con la aparición de los \"trabajadores pobres\", no se pueden entender sin la continuidad de aquella herencia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2104
+}

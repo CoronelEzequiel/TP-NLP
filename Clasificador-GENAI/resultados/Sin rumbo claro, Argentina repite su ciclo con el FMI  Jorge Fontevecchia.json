@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_deuda",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El ministro de Economía, **Luis Caputo**, anunciaba el acuerdo el pasado 6 de marzo en el 6º foro de inversiones y negocios, donde **Luis Caputo** en la apertura que fue el 6 de marzo dijo: 'Jamás el fondo pidió una devaluación'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y desde una columna de opinión en el diario La Nación, el sábado el presidente **Javier Milei** justificó el acuerdo como un mecanismo para recomponer el patrimonio del Banco Central, siguiendo lo mismo que decía el Sr. Caputo, sin aumentar la deuda bruta total del país, porque la nueva deuda internacional saldará la deuda del Tesoro con el Banco Central.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero quienes critican el nuevo acuerdo advierten la enorme diferencia que representa una deuda interna sin valor en el mercado, una deuda con el Tesoro, una deuda del Tesoro con el Banco Central y una deuda con un organismo internacional en dólares y a una tasa mayor.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Che, Milei, al final terminaste haciendo lo mismo que Macri. Te falló el experimento de la escuela austríaca, estás con el agua al cuello, porque te faltan dólares y tirás la toalla pidiéndole un préstamo al FMI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema surge cuando la deuda se destina a financiar déficits estructurales sin una estrategia clara de desarrollo que permita un crecimiento económico sostenible que luego permita pagar esa deuda, o, peor aún, cuando se quema ese dinero a corto plazo, simplemente por una especulación electoral, porque las elecciones pasan, pero la deuda cae sobre las espaldas de las futuras generaciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6471
+}

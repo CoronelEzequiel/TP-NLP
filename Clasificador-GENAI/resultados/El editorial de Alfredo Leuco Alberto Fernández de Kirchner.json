@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.859,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hace mucho tiempo que Alberto Fernández le entregó el bastón de mando a la irracionalidad de Cristina Fernández de Kirchner, pero en estas últimas horas el presidente decorativo de la nación fue directamente reducido a la esclavitud.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su nivel de sumisión superó todos los límites, lo que quedará en la historia por haber vaciado la investidura presidencial y por haberle tirado su honra a los perros.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ya convertido en el peor presidente de la democracia, entró, entregó hasta la última gota de sangre de su dignidad al amagar con no acatar un fallo de la Corte Suprema de Justicia de la Nación.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto anunció que no iba a acatar el fallo de la Corte, pero finalmente reculó en chancletas y ordenó y aseguró que va a cumplir y va a ordenar que le depositen bonos a Horacio Rodríguez Larreta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner quedará en la historia como la dos veces presidenta de la nación que fue condenada a seis años de prisión por corrupción, por ladrona.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández será recordado como el peor jefe de Estado de la democracia, aunque frenó un segundo antes del abismo de encabezar un golpe institucional.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto fue un felpudo del criminal de guerra Vladimir Putin y le ofreció nuestro bendito país como puerta de ingreso a la región.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Manifestó su oposición y enojo con el fallo, pero instruyó recusar a los miembros de la corte, pero reconoce que debe respetar el fallo y ordenó que se pague lo que corresponde.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora parecen un poco asustados, pero la verdad es que todo el tiempo estuvieron durmiendo con el enemigo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner y Alberto Fernández, cometen un crimen de lesa institucionalidad y así quedarán instalados en la memoria colectiva.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo primero que hacen los dictadores es quebrar el poder judicial y censurar a los medios de comunicación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2446
+}

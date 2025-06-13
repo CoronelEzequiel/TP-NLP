@@ -1,0 +1,36 @@
+{
+  "texto_id": "ley_de_la_selva",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que la cuestión radica en cómo servir desde el gobierno a un porcentaje importante de los votantes de *mi ley*, a esa mitad que odia y cree que los que tiran piedras son los culpables de todo lo que pasa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En mi opinión, la ministra Bullrich, que odia y cree que saca rédito de esta situación con ese séquito que tiene, esa cantidad de gente que mencionaba, es la que se apasiona con esta idea de la represión; la ministra Bullrich les ordenó atacar, les ordenó impedir que llegara la columna de Moyano.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le están mandando un mensaje a toda la clase media, a toda la gente que aprendió que las cacerolas son una forma de protesta urbana. Le están mandando un mensaje: pueden aparecer las motos, amedrentarte e incluso terminar en la cárcel de Ezeiza (si sos mujer) o Marcos Paz (si sos hombre). Es decir, aprendan lo que puede ocurrir, atemorizar, atemorizar, atemorizar, y obviamente la democracia no vale nada.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El campo, entendido por las entidades agropecuarias, la Mesa de Enlace, y los productores de granos exportables. Y los productores de granos exportables tienen una tendencia anticiclica desde 2008 en adelante, y después les dijeron siempre que les iban a levantar las retenciones a las exportaciones, que ni yo creo que pueda ocurrir. O sea, hacen bien en desconfiar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No tengo ninguna duda de que para toda la oposición es la hora de la grandeza, pero sin ninguna duda. Es la hora de ver la película entera y no una sola foto. Es la hora de no pensar en coyunturas, de no obsesionarse con una encuesta, porque hay encuestas buenas y encuestas malas, de todo hay.",
+      "score": 0.25,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4614
+}

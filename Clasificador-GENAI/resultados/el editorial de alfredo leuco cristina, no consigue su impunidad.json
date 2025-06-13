@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.857,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Podrán insultar mil veces a la Corte Suprema de Justicia y no conseguirán la impunidad para Cristina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y el cártel de los pingüinos millonarios cometieron delitos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina ya fue condenada en primera instancia a seis años de prisión y en un juicio con todas las garantías fueron aportadas toneladas de pruebas.",
+      "score": 0.88,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo que se juega en las próximas elecciones se resume en dos caminos antagónicos: democracia republicana o nacional populismo chavista.",
+      "score": 0.92,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es el triángulo de las Bermudas, donde sucumbieron los principales valores, valores de una sociedad que necesita recuperar el trabajo que dignifica, el mérito que permite progresar y el valor de la palabra, que estos muchachos dinamitaron en mil pedazos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una sociedad madura, absolutamente harta de los ladrones de Estado y de los autócratas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Millones de votos que dirán, entre otras cosas: \"Cristina es el nombre de la impunidad que no pudo lograr\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2247
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Había represión y había dinero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mujer busca siempre un atorrante para la vida y un bueno para la familia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Realmente es muy lindo que la gente ejerza la alegría, la felicidad sin prejuicios, sin el Papa, sin el obispo, sin la culpa, sin este gobierno de mierda que te corre con los impuestos, que te corre con la culpa, que te corre con los juicios, que te corre con la AFIP, que estás todo el día…",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que votarles en contra a estos hijos de puta, primero sacarlos, votarles en contra, van a caer todos presos, yo lucho por eso, pero no quiero verlos presos porque tengo una inquina personal, quiero meter a todos estos sádicos y perversos que al mejor estilo maoísta nos tienen presos en nuestra casa mientras dilapidan la guita nuestra para que todos podamos salir a disfrutar del sol, que podamos recorrer las calles sin que los guachos falopeados te maten, que podamos volver a una Argentina que yo viví donde ibas por la calle corriente y no ibas ahí, sino que ibas con papá y mamá a ver películas y después te comías una porción de pizza, que reabran las pizzerías, los negocios de la 9 de Julio, que Cusini vuelva a cortar el pelo, que las persianas se levanten porque hay una cosa…",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3501
+}

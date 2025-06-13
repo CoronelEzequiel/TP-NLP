@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_jacobi",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.07,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "A esta altura, no me cabe duda de que la intención del gobierno es, primero, desfinanciar las universidades para afectar su funcionamiento y, una vez que disminuya el apoyo social, avanzar sobre ellas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Existe también una campaña de desprestigio, mencionando, por ejemplo, que la mayoría de los médicos son extranjeros.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno busca distraer la atención del megaajuste salarial a jubilados y trabajadores.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La línea telefónica para denunciar adoctrinamiento es una provocación, como lo fue el adoctrinamiento del presidente en una escuela secundaria.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La UBA está entre las 100 mejores universidades del mundo, compitiendo con la Universidad de San Pablo y la UNAM, a pesar de tener hasta quince veces menos presupuesto en dólares.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1819
+}

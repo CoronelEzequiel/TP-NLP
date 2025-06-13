@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.091,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno del presidente Javier Milei actuó con rapidez para protegerse tras la aparición de pruebas y testimonios que incriminan al mandatario en una estafa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Según los Davis, Karina realizó una especie de subasta entre desarrolladores de criptomonedas, eligiendo a quienes ofrecían el mejor negocio: la promesa de una gran suma de dinero y un porcentaje mayor para Millay.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es llamativo que la explicación posterior de Milei, luego de coordinar la entrevista con Bialy, preparar las preguntas, etc., sea que él es un simple entusiasta que observó el evento y lo difundió como cualquier otra información.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ambos casos, Millay está comprometido, ya que se probó que fue el primero en tuitear sobre la criptomoneda.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gravedad de una estafa organizada por un presidente es incomparable a la simple participación en un delito.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inacción del gobierno ante esta situación es preocupante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este accionar es respaldado por figuras como Majul, quien anunció la presencia de los nuevos jueces el sábado durante el discurso presidencial.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente se ha referido al Congreso como \"ratas\", mostrando un desprecio total por la institución.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su gobierno se caracteriza por el autoritarismo, los decretos, y la falta de transparencia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei manipuló datos sobre la pobreza, ocultando la verdadera magnitud del problema.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La designación de Ariel Lijo y Manuel García Mancilla en la Corte Suprema es inconstitucional, ya que se saltó el paso de aprobación del Senado.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3090
+}

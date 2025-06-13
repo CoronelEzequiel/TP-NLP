@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mi hipótesis es que, en Argentina, tener contactos influyentes con mucho dinero puede abrir muchas puertas, incluso hasta la presidencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner siempre fue la figura detrás de su marido, la heredera.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, todos llegan al poder por razones ajenas a la democracia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella parece culpar a la Justicia de sus propios problemas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si yo hubiera sido presidente, y figuras como Lázaro Báez, Ricardo Jaime o José López hubieran robado (todos ellos están presos por corrupción, no por razones políticas), los hubiera encarcelado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina, en cambio, a veces se forman alianzas con corruptos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La reciente arenga de Cristina Fernández de Kirchner en un acto de campaña fue un espectáculo, aunque no sirvió para mejorar su imagen ante la justicia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno está en decadencia, con peleas internas entre Alberto Fernández y Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después de la presidencia de Mauricio Macri, Argentina experimentó una breve etapa republicana.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Macri representaba un estilo de gobierno diferente, más discreto y menos confrontativo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A diferencia de Cristina Fernández de Kirchner, de quien tengo una opinión muy crítica, por su estilo confrontativo, su lenguaje y sus acciones.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchos argentinos están cansados de ella.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2009
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "Fuentevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.489,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "cada gobierno necesita tener una corte que acompañe su inicio y el devenir de su gestión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Si sos presidente, tenés que tener tu propia Corte Suprema\", y hemos tenido ejemplos de sobra en Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina padece un síndrome muy común en muchas sociedades poscoloniales de todo el mundo, en América Latina, en el África subsahariana o en el sur de Asia, donde se da simultáneamente un estado débil, conjugado con una sociedad débil.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Argentina, el estado es arbitrario, crea incertidumbre, frustración, manipula y quita poder a la gente, que se ve reducida a esperar y a rogar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Steven Levitsky dijo que el peronismo había dejado de ser un partido laborista y se transformó en un partido clientelar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo primero que hizo Macri fue nombrar de forma inconstitucional, por lo que pude ver, a dos jueces para asegurarse de tener su propia Corte Suprema.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Donald Trump fue y es un tonto. No estaba preparado para el trabajo, no podía hacerlo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los peronistas proporcionan dignidad y la gente se siente respetada y escuchada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La lógica del estado se opone a la provisión de bienes públicos necesarios, y ese es el problema, que no puede crear las condiciones de igualdad para fomentar la innovación, el espíritu emprendedor.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3724
+}

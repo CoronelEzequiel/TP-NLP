@@ -1,0 +1,51 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.512,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El peronista, cuando rompe el cascarón, cuando nace el pollito, lo primero que pregunta el pollito peronista es: ¿dónde está el jefe?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo eso le iba a dar a **Alberto Fernández** un margen de autonomía que le permitiría una capacidad de maniobra y una plataforma para ejercer el poder y ordenar su gestión en una dirección.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "**Cristina Kirchner** tiene el poder dentro de esta fuerza política, y lo tiene, entre otras cosas, porque tiene los votos del conurbano bonaerense, desde donde se ejerce el poder en el peronismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con un sector importantísimo de la oposición, eminentemente con el PRO, antes básicamente con **Macri**, ahora se suma en alguna medida también la UCR, con la prensa crítica, con un sector importante de la justicia, después vamos a hablar de esto, con el empresariado, con los sindicatos que no son sindicatos del Estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para la ministra de seguridad, **Sabina Frederic**, que es ministra de seguridad, es decir, es auxiliar de la justicia para que se cumpla la ley, no sería delito.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tweet de **Cristina Fernández de Kirchner**, en su cuenta de Twitter, no dice nada respecto de esto y el presidente **Fernández** balbuceó el otro día que sí, a ver, una toma es un delito.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y la reforma judicial es absolutamente inentendible sin este contexto de manipulación de las reglas institucionales, donde lo que está clarísimo es que llega un gobierno y arma un poder judicial a su medida, poniendo en tela de juicio cualquier tipo de garantía respecto de los ciudadanos que esperan respuestas, sobre todo cuando ha habido un festival de corrupción durante 12 años en la Argentina, con secretarios privados del presidente que no uno, varios, llegaron a acumular 70 millones de dólares, de lo que se llegó a detectar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dios quiera para **Alberto Fernández** que gane **Biden**, porque con **Trump** hay un enorme conflicto planteado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7326
+}

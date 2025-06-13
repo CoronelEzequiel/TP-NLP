@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.792,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Habló el presidente de la Nación, Alberto Fernández. Y no dijo nada más y nada menos que lo que dice siempre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente, en un discurso vergonzoso, porque además no sabe hacer chicana, primero le pegó a otros que dan clases y no hicieron lo que yo dije y yo voy a, como dijo él, vuelvo a reiterar, yo voy a repetirle, Alberto, que nos está haciendo este calvario porque usted no trajo vacunas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Después dijo que él tenía, no sé, hipertensión, está bien, lo que vos quieras, tenés 46, pirulo, y agradeciste al intendente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hizo un discurso como que ahora arrancamos a pelearle al COVID.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque usted puso gente que cuando usted se vaya, vayamos a la justicia, algunos delitos, porque si otra vez Zaffaroni dijo que la Corte Suprema tenía la culpa por haber dado las casas donde no murió nadie, que usted tiene la culpa y su gobierno de no haber aceptado los 16 millones de vacunas que le querían dar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Con mentiras no se cura el COVID, Alberto, gente de eso sabe muy bien.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por supuesto que nos vamos a cuidar. Porque nos damos cuenta de que la caballería ligera no llega y los alemanes están atacando.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por supuesto que cuando ahora querían cambiar las leyes para favorecer a Cristina nos dimos cuenta cuál era el objetivo de su gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cínico, traidor, un gobierno berreta.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto, qué degradada está su imagen.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes están por el piso.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y la oposición también.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3340
+}

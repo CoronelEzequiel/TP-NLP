@@ -1,0 +1,41 @@
+{
+  "texto_id": "como_abran_los_pibes",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy un policía mató a un asesino y la culpa de todo lo que pasa la tenemos los periodistas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Hasta cuándo vamos a seguir persiguiendo a la policía? ¿Hasta cuándo vamos a ver al policía como un enemigo público?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El discurso políticamente correcto, el aborto está bien, la marihuana está bien, los policías son unos hijos de puta, los milicos son una mierda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, ¿por qué no nos dejamos de hinchar las bolas?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso mismo aplaudo al policía que mató a este tipo y que si hubiera habido unos huevos igual o por lo menos una falta de miedo de apretar el gatillo, hoy Roldán estaría vivo y muchos policías también.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces el policía no es ni de derecha ni de izquierda, el militar no es ni de derecha ni de izquierda, es un argentino que nos está cuidando y los que no nos cuidan son los que nos gobernaron, los que se quedaron con el país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3093
+}

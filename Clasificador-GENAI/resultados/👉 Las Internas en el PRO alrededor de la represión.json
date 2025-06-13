@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.529,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Todo pasa alrededor del pedido de juicio político del presidente Alberto Fernández al presidente de la Corte, Horacio Rosatti, la resistencia por parte de la oposición, los números que no dan, la presión sobre los gobernadores provinciales, aquellos que dijeron que iban a acompañar el pedido del presidente y que después terminaron desistiendo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que hay gobernadores que se van a sumar. No creo que... son sumar. Y a ver, no dejan algunos. Y es entendible que algunos puedan tener temor, pero en este tiempo no hay que tenerle miedo a la realidad, no hay que tenerle miedo. Acá hay un hecho de una gravedad institucional, creo que es histórico.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para muchísimas provincias es vital la llegada de los fondos de la Nación. Hay un caso muy particular y que pinta un poco lo que es esta negociación entre los aviones nacionales y las provincias con el fallo de la Corte y el posterior pedido de juicio político en el medio, es el caso de la provincia de La Rioja.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que habían comprometido su apoyo y después terminaron desistiendo, los que no fueron a la reunión en la Casa Rosada con el presidente de la Nación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno sabe, en términos finales, el juicio político es inviable porque la mayoría parlamentaria que se necesita son imposibles. La deducción está absolutamente clara. Me parece que generar un escenario de mucha tensión desde que comenzó el año, con un gobierno que no ya no se puede hablar de desorganización, sino de desgobierno, y con un presidente que lamentablemente comienza el año demostrando que sigue estando en estado líquido, sin liderar responsablemente, y después un disparate en pedido de juicio político en sí.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer o antes de ayer hablaba con los gobernadores que me visitaron y les decía que me acabo de dar cuenta, me acabo de dar cuenta que soy el primer presidente de la democracia, de los 40 años democracia que nació en la Ciudad de Buenos Aires, sí, el primer presidente porteño, y tengo el orgullo de decir que soy el más federal de los porteños y el más preocupado por el interior de mi patria, y me peleo mucho con mi ciudad para que mi ciudad entienda que deje de lado su opulencia y ser parte de una mejor distribución de la riqueza en toda la Argentina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sobre los chats, mencionó una edición. Lo que queremos saber es si son falsos por completo o si, en todo caso, son verdaderos y fruto de un espionaje ilegal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5724
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.744,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Primero, no más mentiras sobre mentiras.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es un mentiroso serial este hombre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de Alberto Fernández, parece ser una especie de mecanismo o instrumento para intentar ocultar sus desastres económicos, sanitarios y de toda la gestión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insisto con la extrema gravedad institucional que esto implica.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A cada interlocutor, Alberto le dice lo que quiere.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El profesor de Derecho debería saber que el delito es violar la ley, no contagiar, ¿o está probado que las miles de personas procesadas son responsables de contagios?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero todos los caminos conducen a Alberto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De todo su comportamiento mitómano, esto ha sido lo más grave que hizo Alberto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "\"Al peor presidente de la historia, ni olvido ni perdón\", dicen los tuiteros.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2039
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "modo_fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.429,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Las reservas del Banco Central caen a una velocidad impactante.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El RIGI no trae las inversiones esperadas; es más, se fueron del país más empresas extranjeras de las que vinieron, y el dólar blue sigue subiendo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Paralelamente, a raíz del \"Cryptogate\" y la represión en la marcha de los jubilados, sumado a estos desajustes económicos, la imagen del presidente Javier Milei sigue cayendo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde el gobierno dijeron que, dado que se terminó con la emisión de pesos, no hay pesos y, por lo tanto, no va a haber demanda de dólares.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo que se olvidó de decir Milei – tiene esta costumbre de torturar los números, como cuando dijo en diciembre de 2023 que la inflación proyectada llegaba a 17.000% porque había tomado la inflación mayorista que él mismo había producido con la devaluación del 118% más el 20% de impuesto PAIS, más de 130 y pico en ese momento hizo de inflación mayorista, más de 54%, creo que fue, la proyectó a la doceava elevación, llevando esos 17.000.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si esos tenedores de bonos reclaman pasarse a dólares, o los depósitos salen y quieren comprar dólares, el tipo de cambio podría saltar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El ministro había planteado la posibilidad de implementar bandas de flotación del dólar, es decir, que el Central se abstenga de intervenir a un determinado valor, e intervenga a partir de determinado valor, tanto para arriba como para abajo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6009
+}

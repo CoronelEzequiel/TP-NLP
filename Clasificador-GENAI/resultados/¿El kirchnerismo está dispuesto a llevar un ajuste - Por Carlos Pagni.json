@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿hasta dónde el kirchnerismo está dispuesto a implementar un ajuste fiscal?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuánto temor siente Cristina Fernández de Kirchner ante el descalabro económico como para autorizar un ajuste de corte neoliberal?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es, como señalan muchos analistas, un pragmático. Es decir, es alguien que observa la realidad, comprende lo que la situación demanda y está dispuesto a flexibilizar sus ideas, prejuicios y preferencias en función de las exigencias del contexto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que es la defensora de la distribución del ingreso. Que existe una incompatibilidad absoluta entre la palabra \"ajuste\" y la palabra \"Cristina\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora debe hacerlo Massa. Debe hacerlo antes de que la crisis económica golpee a las puertas de Cristina Fernández de Kirchner y deba ser ella quien se haga cargo del gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1041
+}

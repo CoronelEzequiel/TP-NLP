@@ -1,0 +1,41 @@
+{
+  "texto_id": "pymes",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.183,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La caída del consumo interno, combinada con la apertura de las importaciones, está afectando gravemente a las pequeñas y medianas empresas (PYME) del país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas grandes empresas, o los actores más poderosos del sector, especulan y utilizan el dinero de las PYME, empeorando la situación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Gobierno lo deja claro: los únicos sectores que contemplan incorporar trabajadores son el minero y el petrolero. Sin embargo, en estos sectores trabajan muy pocas PYME.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este modelo castiga a los más vulnerables.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos atravesando una turbulencia financiera, afectada por la incertidumbre con el FMI.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El panorama es complicado, pero es importante escuchar a quienes están en la primera línea, luchando por sus PYME en medio del desguace del aparato productivo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1681
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es una extraordinaria enseñanza para un momento en el cual, una vez más, la calidad de la justicia, la transparencia del poder judicial, la calidad de los jueces vuelve a estar en tela de juicio en la Argentina, en este caso por la postulación que ha hecho el presidente Javier Milei del juez federal Ariel Lijo para ocupar una banca en la Corte Suprema de la Nación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una enorme controversia respecto de Lijo que va creciendo. Pronunciamientos del colegio de abogados, de la Cámara de Comercio Argentino-Americana, del instituto IDEA, que reúne a las principales empresas de la Argentina, pronunciamientos de redes dedicadas a la cuestión de la transparencia judicial, que le advierten al gobierno que con esta designación ha cometido un error.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "la postulación de Ariel Lijo a la Corte, que está produciendo un escándalo en todos aquellos que miran el problema de la calidad de la justicia en la Argentina, es acaso la mejor demostración involuntaria que ha producido Javier Milei respecto de la existencia de una casta, es decir, de un entramado transversal multipartidario de intereses oscuros.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En los informes que manejó el fiscal Picardi y el juez Ercolini, aparecieron compromisos financieros, créditos, préstamos de varias empresas, una de ellas Aras. El Aras Dilu tiene que ver con dos nombres: Diego y Luciano, son los hijos de Néstor Otero, conocido como el Zar de Retiro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo más interesante de todo esto es que no solamente los Lijo zafaron en el Consejo de la Magistratura, también zafaron en el juzgado de Ercolini. Porque la causa se cerró sin siquiera indagar a ninguno de los imputados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7521
+}

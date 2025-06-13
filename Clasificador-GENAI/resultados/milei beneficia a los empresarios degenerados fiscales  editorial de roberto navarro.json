@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.212,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno anunció una nueva etapa de ajuste, que implica una reducción del 30% adicional del tamaño del Estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se eliminarán decenas de organismos, incluyendo la Secretaría de Vivienda.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, la disminución del poder recaudador de la AFIP beneficia a las grandes empresas, mientras que los trabajadores seguirán pagando los mismos impuestos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación resulta particularmente preocupante considerando las políticas de austeridad que recortan fondos destinados a programas sociales como alimentación infantil, medicamentos para pacientes oncológicos y jubilados, con el argumento de la falta de recursos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Contrariamente a la narrativa mediática que describe a Argentina como un país con alta presión tributaria, la realidad es que se pagan pocos impuestos y existe una alta tasa de evasión.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, se realiza un ajuste que perjudica a la población más vulnerable bajo el pretexto de falta de recursos, mientras se debilita al organismo encargado de controlar la recaudación impositiva, beneficiando a las grandes empresas que evaden impuestos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El sistema tributario argentino es injusto, con los trabajadores pagando la mitad de los impuestos (en comparación con el promedio de la OCDE donde los trabajadores pagan un tercio y las empresas dos tercios).",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación se presenta como una lucha entre pobres, mientras se encubren los verdaderos responsables de la evasión fiscal: las grandes empresas que se benefician de la debilidad de la AFIP.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1704
+}

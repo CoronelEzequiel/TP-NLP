@@ -1,0 +1,61 @@
+{
+  "texto_id": "Violencia y brutalidad en las declaraciones del Presidente: análisis de Oscar Parrilli",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.086,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Escuchar del Presidente una amenaza, planteada además de manera premeditada –no fue un exabrupto–, resulta alarmante.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al mirarlo a la cara mientras lo decía, se observa que fue una frase absolutamente preparada con anterioridad, donde directamente está diciendo que quiere matar a Cristina Fernández de Kirchner.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto me recuerda a los bombardeos de 1955, al golpe de Estado contra Perón; matar al adversario como forma de resolver cuestiones políticas.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como dijo Cristina Fernández de Kirchner en su reciente comunicado, esto está directamente relacionado con la incapacidad del gobierno para resolver los problemas y con la gravedad de la crisis social y económica que afecta al pueblo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La perversidad que demuestra contra Cristina Fernández de Kirchner, al querer matarla, es la misma que tiene con los jubilados, los universitarios, el personal de salud, las provincias y el pueblo argentino en general.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si a esto le sumamos que tiene como aliados a Patricia Bullrich (a quien él mismo acusó de haber colocado bombas en jardines de infantes) y a Nicolás Caputo (a quien acusó de beneficiar a los sectores financieros), queda claro que, detrás de supuestas teorías económicas, lo que está haciendo es hambrear al pueblo, dejando que los sectores financieros acumulen dinero y permitiendo que Patricia Bullrich lleve adelante una política de persecución y odio que, sin duda, terminará con más víctimas, como ya ocurrió en el pasado cuando ella fue ministra.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Está pareciéndose cada vez más al macrismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están desesperados, son avaros, buitres.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claramente, amenaza de muerte a Cristina Fernández de Kirchner sirve para ocultar todas las otras barbaridades.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros tenemos claro lo que debemos hacer.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2407
+}

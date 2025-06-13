@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La motosierra y la licuadora, que son los pilares del ajuste, no se negocian, no se negocian.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que quería decirle es que no conozco otra cosa que no sea trabajar, y así me gano lo mío siempre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese es el plan licuadora de Javier Milei. Eso es a lo que apunta, justamente, en lo económico, Milei.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una lucha, hay una pelea cultural que da Milei, que en parte la está ganando. Hasta hace poco, hablar de ajuste era mala palabra.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La cultura no solo genera muchísimo trabajo, sino que construye y narra la identidad de un pueblo, y sobre todo genera alegría y emoción.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5855
+}

@@ -1,0 +1,26 @@
+{
+  "texto_id": "milei_ley_bienes_culturales",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.333,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Milei confunde la salida de la convertibilidad y la pesificación, que devaluó el peso, 75% de un peso, un dólar a un peso 0.25 por dólar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ley de bienes culturales le permitió a los medios de comunicación renegociar sus deudas en dólares, beneficiando a los accionistas nacionales frente a los acreedores financieros externos, para que los medios no pasasen a ser propiedad de fondos de inversión e instituciones financieras extranjeras.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina se recuperó rápido de la mayor crisis de su historia, que no fue la que asumió Milei, sino fue el fin de la convertibilidad en el año 2002, y fue por eso que se realizaron las evaluaciones jurídicas que se realizaron en los contratos y a la obra, podríamos decir, del mejor ministro de Economía desde la democracia, el keynesiano, Roberto Lavagna, de la misma forma que Estados Unidos superó la crisis de las hipotecas gracias al keynesiano Ben Bernanke, que luego fue premio Nobel por sus estudios en la enseñanza que dejó la crisis de 1999 y los remedios para no repetirla nunca más.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3606
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "A Javier Milei ya no lo acompañan las fuerzas del cielo y decíamos que el escándalo de Cripto, la represión a los jubilados, pusieron a Milei en una situación muy compleja.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cada vez parece menos un outsider y un héroe, como se planteaba él, una especie de superpoderoso contra la casta y cada vez se vuelve más un clásico político de la estabilidad, aquello de que la función hace al órgano y que finalmente nadie puede ser, cumpliendo la función, distinto a lo que la función demanda.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Otros consideran que todo el declive comenzó cuando el presidente participó en una estafa mundial que todavía no queda claro si en calidad de engañado o de cómplice, en cualquier de los casos horrible para un mandatario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que más credibilidad le da al gobierno en la negociación con el FMI es el ajuste que hizo con los jubilados, porque es lo que explica la mayor parte del ajuste fiscal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5008
+}

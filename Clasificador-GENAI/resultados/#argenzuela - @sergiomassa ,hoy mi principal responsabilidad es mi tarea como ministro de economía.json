@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_massa",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nuestra responsabilidad principal ahora es gobernar, resolver problemas y marcar el camino de la Argentina que queremos para los próximos años.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Defendemos la educación pública, la universidad gratuita, la robótica y la programación en cuarto y quinto año; la biotecnología y la nanotecnología, para generar valor agregado, empleo y movilidad social ascendente; la industria local generadora de valor y exportadora, para acumular reservas y reducir la dependencia externa; un trabajo que participe mejor en la distribución del ingreso; y el crecimiento del emprendedurismo argentino desde la pequeña y mediana empresa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado debe ser activo, proteger a los débiles de los fuertes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No me gusta hacer enumeraciones previas. Imagino un país con orden fiscal, superávit comercial, competitividad cambiaria, acumulación de reservas y desarrollo con inclusión.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ellos hablan de ajuste con represión. ¿Están preparados para eso? El orden se construye liderando el Estado, no reprimiendo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI nos pedía que redujéramos la inversión pública en el gasoducto, incluso que lo alargáramos en el tiempo, pero nosotros dijimos que era una obra clave, que cambiaría la matriz energética y económica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3261
+}

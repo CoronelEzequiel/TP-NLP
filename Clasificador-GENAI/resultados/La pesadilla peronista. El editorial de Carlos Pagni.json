@@ -1,0 +1,26 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "No solo porque **Macri**, en el discurso del gobierno, del Frente de Todos, del peronismo, es la encarnación de una herencia maldita, sino porque, sobre todo en el discurso de **Alberto Fernández**, **Macri** es, para un gobierno con pocos argumentos para buscar el voto, es el cuco que puede venir, es el peligro que puede regresar, como dice el oficialismo, con los males de la derecha y del neoliberalismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "**Bullrich** se propone tomar esa bandera, convencida de que **Macri** se iba a retirar de la pelea cuando volviera de las reuniones de la FIFA. ¿Por qué? Porque en las encuestas que la propia **Bullrich** maneja, **Macri** daba muy mal, prácticamente tenía una barrera infranqueable en el conurbano bonaerense y algo parecido en el norte, así como daba muy bien, o tiene muchas adhesiones, en el centro del país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros insistimos mucho acá en Odisea en que, desprovisto del celofán del marketing, apareció un **Macri** muy comprometido con el poder, que entiende perfectamente la ajedrez de la política, con una gran capacidad de persuasión cercana a la manipulación de las personas, de los líderes, de los dirigentes, de los que lo rodean.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7901
+}

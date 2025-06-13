@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En la Argentina, uno mira al gobierno, mira a Alberto Fernández y muchas veces hay cosas que no se entienden, no lo entienden muchas veces ni los propios.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández también propuso a Cecilia Todesca, después la retiró. Hay quienes piensan que lo hizo el día que vio que Sergio Massa, en una de sus habituales \"picarías\", logró que le publicaran, sus lobbistas en Estados Unidos, un cable en Bloomberg que decía que había senadores republicanos, senadores de derecha, diputados de derecha en Estados Unidos, que son amigos de él, que lo promovían para el BID.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner hizo su movilización en el estadio único de La Plata. Si uno mira el razonamiento de Cristina Kirchner respecto de la situación institucional, es obvio que esa movilización tiene distintos significados y está pensada en distintas dimensiones. Una de esas es la judicial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Supongamos que asume el gobierno Mauricio Macri, que se decide hacer candidato, se postula y gana. Macri, con el peronismo enfrente, con los movimientos sociales enfrente, ¿va a poder hacer algo mucho más severo? ¿Va a poder hacer un ajuste mucho más riguroso? ¿Va a poder representar, como dice él, el cambio de manera mucho más nítida que lo que hoy logra hacerlo Massa?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6731
+}

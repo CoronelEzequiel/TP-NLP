@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Primero, quiero que sepan que somos trabajadores como ustedes y enfrentamos los mismos problemas cotidianos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora bien, quienes nunca pierden derechos son los acreedores argentinos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI le está diciendo a Milei que sea pragmático y que no arruine la vida de la gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es lo que hace Milei: mentir, quedar a la derecha del FMI, y contar con el equipo de Sturzenegger para realizar este ajuste.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un ajuste doble: desde el Estado y desde el aumento de costos para la población.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2016
+}

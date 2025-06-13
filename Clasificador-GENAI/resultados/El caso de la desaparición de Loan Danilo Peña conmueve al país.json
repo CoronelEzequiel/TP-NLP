@@ -1,0 +1,36 @@
+{
+  "texto_id": "caso_loan",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.42,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que para la familia es una tragedia, en los medios cobra casi el tono de una serie de televisión: hay novedades continuas en una trama sorprendente y confusa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Incluso vamos a ver, al final de esta apertura, los dichos del propio presidente, Javier Milei, sobre la posible venta de niños.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para La Alameda, la titular de la Alameda de Corrientes, explicó que hay dificultades para activar políticas contra la trata, producto de los ajustes presupuestarios que se han hecho recientemente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Afortunadamente, Patricia Bullrich, el Ministerio de Seguridad, se involucraron en el caso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tal vez, para este y para otros temas de importancia en nuestro país, debamos discutir francamente el rol del Estado y lo que esté aquí en discusión, más allá del caso puntual de este niño, es el sistema que permite que estas cosas sucedan, para tener un Estado que esté al lado de la gente y sus dificultades.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6133
+}

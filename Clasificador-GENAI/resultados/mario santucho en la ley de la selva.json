@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_Santucho",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde que asumió el gobierno de ultraderecha, donde la protesta se convirtió casi en una proeza y la represión es permanente, empezamos a hacer este trabajo de reconstrucción de los operativos policiales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso, por primera vez trabajamos con dos peritos científicos que llevan muchos años trabajando en esto y producen evidencia para la justicia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella dice eso hoy, pero además dijo algo directamente delirante: que los videos del Mapa de la Policía no son científicamente válidos porque en los videos que ellos tienen se ve que el proyectil rebotó una o dos veces.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y yo creo que, el otro día, estuvimos registrando y viendo… y creo que esta vez, y esto fue interesante también, del miércoles pasado, hubo otra actitud en la calle.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y me parece que hay que cuidarse, es muy importante para la gente. Lo de Pablo es muy lamentable, muy tremendo.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3884
+}

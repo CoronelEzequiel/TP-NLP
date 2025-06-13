@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.839,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¿Hasta cuándo piensan seguir bailando sobre la cubierta del Titanic?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández y Cristina Fernández de Kirchner son las dos caras de la moneda del peor gobierno desde el regreso de la democracia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Se creen que eso es gratis, carajo? ¿Que el cuerpo, la mente y el corazón aguantan cualquier humillación?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández y Cristina Fernández de Kirchner, de la cantidad de muertos y el pánico que genera este crimen organizado?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejen de tirar de la cuerda y de \"boludear\" con peleítas internas por el poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández dice que ella obstruye su gestión.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las únicas víctimas acá son los argentinos y ustedes son los victimarios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Han gobernado 26 de los últimos 32 años, se siguen llenando la boca como defensores de los pobres y no han hecho otra cosa que multiplicar la pobreza, la desocupación y el hambre.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, su familia, sus funcionarios más cercanos, terminaron todos millonarios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2197
+}

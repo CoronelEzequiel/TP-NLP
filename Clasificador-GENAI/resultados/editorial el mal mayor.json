@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se reclama a la izquierda, y al Frente de Izquierda en particular, que prácticamente desista de presentar candidatos, propuestas e ideas, porque existe un peligro mayor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé si Massa colaboró, pero sé que gente de su partido armó las listas para Milei en las elecciones del 13 de agosto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que un sindicalista emblema del menemismo apoye a Milei no es algo novedoso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me interesa lo que hagan o dejen de hacer en su campaña, sino que se le exige a la izquierda que baje sus banderas, que opte por el \"mal menor\" ante el peligro fascista, haciendo por Massa más que sus propios promotores y aliados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta política de empobrecimiento generalizado está en la base de los resultados políticos que vemos hoy.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2083
+}

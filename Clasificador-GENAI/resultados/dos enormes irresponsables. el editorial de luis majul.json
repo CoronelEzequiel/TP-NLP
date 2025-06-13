@@ -1,0 +1,46 @@
+{
+  "texto_id": "Dos enormes irresponsables",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es lógico que las dos personas más importantes del país se peleen entre ellos, es una cosa, pero que nos tengan en vilo a todos en medio de una pandemia y una crisis social, económica, cultural y de educación brutal, donde el elemento psicológico no es menor.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Se detendrán por un momento Alberto Fernández y Cristina Fernández de Kirchner a pensar en el enorme daño que nos están haciendo?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero que dejemos de lado a los cultores del \"no\", a los cultores del \"no se puede\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sigue operando hacia adentro y hacia afuera para satisfacer su única obsesión: sacarse de encima las causas por corrupción y lavado y, al mismo tiempo, lo vamos a hablar con Patricia Bullrich, meter a Mauricio Macri, María Eugenia Vidal y Horacio Rodríguez Larreta en el mismo barro de desprestigio y deshonestidad en el que ella chapotea desde hace por lo menos quince años.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero las consiguieron tarde y la siguen usando mal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde que a Cristina, la gran estratega, ungió con el dedo la fórmula contranatura, con ella como vice y Alberto como jefe de Estado. Ese fue el primer gran error.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted es la mariscal de la derrota. Usted gobernó mal. Usted no pudo con la pobreza, con la inflación ni la desocupación.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3932
+}

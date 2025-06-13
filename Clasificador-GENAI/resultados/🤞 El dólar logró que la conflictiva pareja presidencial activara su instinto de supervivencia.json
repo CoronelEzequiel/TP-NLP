@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Creemos, y por eso llamamos a esta apertura el \"miedo disciplinador\", porque es el miedo el que ha logrado que se generen discursos menos beligerantes y más diplomáticos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para autores clásicos de la política y de la sociología como Castel o el ahora tan de moda coreano Byung-Chul Han, el miedo es una emoción política fundamental, un mecanismo de persuasión y de control social.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Busquemos un acuerdo, porque si no, no va a haber Argentina para nadie\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"baje las armas. Acá hay un pueblo que quiere comer, tener salud, tener educación y ser feliz.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora vamos a contrastar y escuchar los mismos discursos, más o menos la misma cantidad de segundos de cada uno de los dos, de la vicepresidenta y el presidente, en un tono bien distinto en ambos casos, relacionados con la lapicera.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2812
+}

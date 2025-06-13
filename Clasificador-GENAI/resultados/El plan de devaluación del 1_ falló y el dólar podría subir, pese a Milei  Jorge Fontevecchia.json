@@ -1,0 +1,66 @@
+{
+  "texto_id": "programa_del_dia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.473,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Como siempre, de Javier Milei, los economistas tenían razón.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta fábula, que debería ser escuchada por el presidente Javier Milei y el ministro de Economía Luis Caputo, es atribuida a Esopo, un reconocido fabulista.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei los calificó de \"eco-chantas\", \"mandriles\" y de ser parte del \"club de los devaluadores\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, parece que aquellos economistas tenían razón y el gobierno tendrá que cambiar su esquema de tipo de cambio a menos de dos meses de haber anunciado la reducción del porcentaje de devaluación del dólar oficial para ir en el camino contrario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay un economista en este país al que no se le puede acusar de ser socialista, kirchnerista o izquierdista es precisamente Domingo Cavallo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando era candidato, Javier Milei dijo que Cavallo le parecía el mejor ministro de Economía de la historia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El valor del dólar es transversal a todos los precios del mercado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hay cepo es porque el dólar está atrasado y por eso se le tiene que poner un límite a la compra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El propio cepo confirma que el dólar está agarrado de los pelos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el fondo, lo que estamos hablando es que, si Argentina decía que para liberar el cepo tenía que tener un x cantidad, si el gobierno argentino decía que tenía que tener qué cantidad de miles de decenas de miles de millones de dólares por parte del Fondo Monetario, evidentemente hay una relación entre ir al Fondo Monetario y el sistema cambiario.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ojalá pueda sortear los problemas, ojalá, como la fábula de Esopo, no sea tan soberbio como el búho y pueda aprender sin necesidad de que se le tale el árbol en el que tenía su nido.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4962
+}

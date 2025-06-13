@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ya sabemos cuál es la primera consecuencia que va a tener esto sobre nosotros: que Alberto Fernández a la deuda de Macri y a la pandemia, le va a poder agregar otra cuartada, una tercera cuartada, además de la guerra, una cuarta cuartada, diríamos, respecto de su mal gobierno o sus dificultades para administrar la economía sanamente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una afirmación de Cristina verdaderamente llamativa, que indica algún tipo de confusión respecto de los términos con los que se está manejando, que es que el déficit fiscal no tendría importancia para la salud general de la economía.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, políticamente es menos importante, ¿por qué? Porque los líderes más radicalizados de la Argentina, a la izquierda y a la derecha, le hablan a un público que tiende a estar ya convencido previamente de que la palabra de ese líder es la verdad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es interesante otro aspecto de la condena. Si uno mira bien el fallo, en el fallo está muy cifrado, muy escondido, un inconveniente, podríamos decir, un vicio, un modo de gobernar que es el que llevó a estos problemas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8272
+}

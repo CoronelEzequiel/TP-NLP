@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente parece desconocer la tristeza y la angustia que genera en los jubilados la situación económica actual.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Repudio las manifestaciones de indignación del kirchnerismo, me parece aberrante que quienes perjudicaron a los jubilados se presenten ahora como sus defensores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el gobierno no tiene la voluntad política de actuar en beneficio de todos los argentinos, debe dar un paso al costado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quintela parece desear un enfrentamiento social, buscando sangre, piedras y muertos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo instauró un sistema de subsidios que genera una dependencia del Estado, convirtiendo a los ciudadanos en rehenes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los datos muestran el daño infligido a los jubilados durante el kirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo no tiene autoridad moral para hablar de los adultos mayores.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1702
+}

@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Su propuesta tiene cero demagogia y una sinceridad casi inédita.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Anunció un ajuste con cirugía mayor y sin anestesia.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei lo resumió en dos conceptos: ajuste y shock.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una vez superado el tsunami de calamidades que dejaron Cristina (Kirchner), la masa (¿se refiere a la gente?) y Alberto (Fernández), empezaremos a ver la luz al final del túnel.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En las urnas, en las encuestas y ayer en la calle, la población mayoritariamente parece estar dispuesta a ese esfuerzo.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inmensa mayoría de los argentinos nos hartamos de las extorsiones, las apretadas y la superioridad moral del \"cristinismo\" ladre y progresista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Uno de sus grandes méritos es haber puesto a la Argentina del lado de los mejores países del mundo, de los que más propiedad producen para sus ciudadanos y donde hay más libertades públicas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el Estado dejarán de lado estupideces como hablar en inclusivo, y muchísimos militantes y \"ñoquis\" que son parásitos del Estado tendrán que buscarse un trabajo honesto.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo rompió todo el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por un lado, la alegría porque democráticamente nos sacamos de encima a estos malandras ineficientes de los K. Extirpamos el peor cáncer ideológico de la sociedad.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ojalá la política recupere su esencia, que es la de servir a los ciudadanos para eliminar las injusticias y aumentar el progreso, el trabajo y la dignidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2711
+}

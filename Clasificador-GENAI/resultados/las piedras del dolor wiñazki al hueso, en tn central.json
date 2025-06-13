@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Un gobierno que primero negó las reuniones sociales, hasta que una fotografía, la del cumpleaños de la primera dama, obligó a admitirlas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente, inicialmente, asumió su responsabilidad de forma tibia;  luego, rectificó con mayor contundencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El oficialismo lo defendió, comparándolo con situaciones pasadas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que, como al comienzo de la movida en Twitter, nadie parece preocuparse por las críticas a figuras políticas como Macri mientras se observa a personas llevando piedras en memoria de sus seres queridos, con la ayuda de voluntarios.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este choque se produce entre posibles excesos durante la cuarentena — vacunatorio VIP, liberaciones de presos— y la imposibilidad de enterrar a sus seres queridos, generando una gran indignación nacional, incluso dentro del oficialismo, tras conocerse el cumpleaños en la Quinta de Olivos hace 15 meses.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Más allá de la política,  la sociedad elige recordar a los muertos con piedras, un símbolo perdurable más allá de su remoción física.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1424
+}

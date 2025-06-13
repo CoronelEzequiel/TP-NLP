@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El nivel de crueldad y sadismo que manejan estos tipos… Disfrutan del sufrimiento de la gente en un contexto, como bien decías, de mucha pobreza y hambre: 50% de pobreza en Argentina, 18% de indigencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, demonizaron a las organizaciones sociales, a los comedores, los trataron de fantasmas, de que no existían… y por otro lado, estaban armando una caja política.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ante el primer acto de corrupción visible de este gobierno, que no cumplió ni seis meses.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Han destruido todo el tejido social, la solidaridad, el trabajo realizado en la pandemia… El trabajo de las iglesias, las organizaciones sociales, los comerciantes populares, los clubes de barrio… ¡Es impresionante! Y estos tipos están destruyendo absolutamente todo.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2449
+}

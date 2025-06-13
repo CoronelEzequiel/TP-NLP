@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, aprovecho este espacio para reflexionar sobre las imágenes que hemos visto en estas horas, que irrumpen en medio de la aparente fiesta que vive el gobierno por el \"verano financiero\" y el triunfalismo que los tiene obnubilados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablo del caso del jubilado que casi se prende fuego en Lobos, Córdoba; del cronista de la misma provincia que se quebró ante otro jubilado, quien le mostraba los medicamentos que ya no podía tomar por las trabas burocráticas para adquirirlos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me refiero a la situación de un sector de adultos mayores que genera sensibilidad en gran parte de la sociedad, incluso entre quienes votaron a Milei, rechazando la situación anterior, o quienes aún mantienen esa postura porque no les convence lo que hubo o hay del otro lado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No olvidemos que los jubilados fueron el karma de Menem con la inolvidable Norma Plá (ya mencionada en este espacio).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Subido al pony de una coyuntura favorable, Milei y su equipo parecen estar manipulando estos sectores, creyendo que no habrá consecuencias.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero cuando la crisis de su esquema precario comience, seguramente chocarán con una sociedad que les demostrará que en Argentina se pueden hacer muchas cosas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1319
+}

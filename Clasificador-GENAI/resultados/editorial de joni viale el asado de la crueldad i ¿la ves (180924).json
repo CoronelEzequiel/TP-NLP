@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo digo, yo siento que la discusión política es muy \"berreta\", muchachos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La falta de empatía es gastar dinero.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque son los principales responsables de haber hundido a los jubilados, muchachos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que la crueldad, la brutalidad, la inhumanidad, la insensibilidad, la atrocidad, la ferocidad, la maldad, fue del populismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No más asados, tiempo de ajuste, ser y parecer no es tan complicado, en tiempo de ajuste, sobriedad, en tiempo de ajuste, templanza, mesura, aplomo, sensatez, austeridad, austeridad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca más dejarnos correr por el progresismo ese de pacotilla que se apropió del estado para sus carnavales de hedonismo y de lujuria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3040
+}

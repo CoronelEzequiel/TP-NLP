@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Durante muchos meses, desde que este gobierno llegó al poder, empezó a cambiar la forma en que actuaban algunos jueces y fiscales.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fuimos viendo cómo, cuando llegaron los Kirchner, o Cristina Kirchner, al poder, empezaron a salir los presos que eran exfuncionarios K.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luis D'Elía está en libertad condicional, todavía no terminó de pagar su condena.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La marcha del \"Pata\" Medina fue directamente una provocación absoluta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A ver, los funcionarios que en algún momento, ex oficialistas, estuvieron borrachos de impunidad, empiezan de vuelta a estar un poco mareados de impunidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la justicia parece dormida o con miedo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sigue la avanzada sobre el Poder Judicial.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2181
+}

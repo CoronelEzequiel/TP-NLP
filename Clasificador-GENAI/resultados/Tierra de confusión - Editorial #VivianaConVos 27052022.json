@@ -1,0 +1,71 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este gobierno es una gran mezcolanza. Siempre toman decisiones, pero las peores decisiones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos una justicia injusta. Que tenemos una educación que no educa. Y tenemos una salud que no cura.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una ministra de la mujer que no defiende a las mujeres. Una portavoz que no habla, que no te responde nada de lo que vos querés que te responda.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una vice que solo busca impunidad. Y un presidente como Alberto Fernández que no preside.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández fue un error. La ex embajadora cuestionó la elección del presidente por parte de Cristina Kirchner y agregó: \"La política es una ciencia. El presidente y su equipo lo viven como una improvisación\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Hay que buscar una solución de cara a la decisión popular\", debido a la compleja situación económica que atraviesa el país.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El hombre que cerrando las escuelas destruyó la vida de tantos niños y de tantos adolescentes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno que tiene tierra de confusión te muestra claramente que siempre está del lado de los delincuentes.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández es el peor presidente de la historia.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay 150 personas a la espera de un juicio oral por la denuncia de Oscar Centeno, tierra de confusión. Yo creo que los cuadernos de la corrupción no pueden quedar en la nada, ¿no?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, este es el modelo a seguir. Quieren una Argentina que lo que, que lo que. Y sí, nos quieren \"falopiaditos\", de a poquito como el de Morón.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy conversamos con El Dipy y con Jorge Yoma, además de con Capolongo, con Spirandelli, con Dragani, con Jacobelli. Pero antes tengo la buena noticia del día. ¡Faltan exactamente 562 días para que se vayan!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9050
+}

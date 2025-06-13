@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.829,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Facundo Jones Huala es una amenaza terrorista contra la soberanía nacional.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos hablando de un guerrillero de pacotilla, provocador y violento, que fue condenado en Chile a nueve años de prisión por incendiar una casa y por portación ilegal de armas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es insólito que insistan todavía con el tema, cuando más de 50 peritos confirmaron que Maldonado se ahogó en el río.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tal vez lo más preocupante es la complicidad de este gobierno nefasto con estos grupos marginales que se autoperciben representantes de los pueblos originarios.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ni el gobierno kirchnerista ni el ministro Aníbal Fernández hacen nada para desalojar esos cortes y miran para otro lado, y los abastecen con alimentos y logística a los mapuches que toman tierras privadas y del Estado nacional.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es grave porque promete más sabotaje, más fuego y más muerte, pero es mucho más grave porque, insisto, cuentan con la complicidad del gobierno de Alberto Fernández, de Sergio Massa y de Cristina Fernández de Kirchner.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quien quiera oír, que oiga.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2254
+}

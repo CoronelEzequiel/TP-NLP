@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.617,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En Neuquén, los votos perforaron la dinastía de los Sapag, que gobernaba con populismo y clientelismo desde hace 60 años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podría ser una de las locomotoras del crecimiento argentino si logra estabilidad bajo un gobierno capitalista, democrático, racional y republicano.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo solo cosechó malas noticias en todos lados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En General Cabrera, en mi tierra de Córdoba, un municipio cordobés con una gestión ejemplar, se impuso el candidato radical de Juntos por el Cambio con una diferencia histórica.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los candidatos de Javier Milei tampoco tuvieron un papel relevante.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Insisto en que se trata de conjeturas provisorias, pero que vale la pena analizar, porque no hay mejores encuestas que estos comicios, que son la única verdad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2081
+}

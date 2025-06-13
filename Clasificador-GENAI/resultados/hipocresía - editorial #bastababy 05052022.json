@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.669,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que ella dijo sobre la \"revolución\" es una revolución de ideas. Y lo que dijo es cierto: la gente se está dando cuenta de que la están estafando.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo también pido que la gente se dé cuenta de que nos están estafando, mientras Cristina Kirchner pelea con Alberto Fernández, nos están estafando, muchachos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No soporto que se hayan robado la Argentina.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No soporto que Cristina quiera... \"Cristina forever\" y sacar a Alberto, pegar un golpe de estado.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo que lo que dijo Susana hoy tiene razón. La revolución no es con armas, la revolución es mental.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aquí, en este país, se escandalizan cuando ven la estrella de un Mercedes Benz viejo. Y vos vas a otro país del mundo y ves Lamborghinis, Ferraris, y la gente ni los mira, porque son como taxis. Y acá ven un Mercedes y se enloquecen todos. Porque todavía tenemos la mentalidad de la época de la dictadura.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente, la culpa es del peluquero que les peinó el cerebro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso a mí no me corran con el carpetazo, porque a lo mejor hay alguno que se acostó con mi hermana o mi madre y está herido. No tengo la culpa, todos los hombres se acuestan con muchas mujeres y todas las mujeres se acuestan con muchos hombres.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3293
+}

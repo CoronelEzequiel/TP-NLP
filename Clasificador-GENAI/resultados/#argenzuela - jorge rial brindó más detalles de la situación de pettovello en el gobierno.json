@@ -1,0 +1,61 @@
+{
+  "texto_id": "Angelsuela",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Su desempeño es extremadamente deficiente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, quiero destacar la influencia de Patricia Bullrich.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo tanto, Bullrich le ha dicho que su principal defecto es la debilidad que está demostrando y su ineficacia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se teme que estas palabras lleguen a oídos del presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando un político percibe debilidad, se aleja.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Están percibiendo la debilidad de Petroberó. Se están alejando, dejándola sin apoyo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la misma estrategia que utilizan con la economía: \"La economía está en ruinas por culpa de ustedes\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El panorama está complicado: política, económica y judicialmente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está perdiendo los apoyos dentro del gabinete, que eran pocos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich fue contundente, intentando acabar con Petroberó.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1760
+}

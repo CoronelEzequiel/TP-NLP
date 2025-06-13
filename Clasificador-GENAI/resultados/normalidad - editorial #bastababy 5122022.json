@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Se percibió un operativo político similar a los que solía realizar el kirchnerismo, caracterizados por la deshonestidad, la realización de operaciones políticas y la búsqueda de venganza.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández, comparado con un caniche, es utilizado para acciones oportunistas, luego descartado.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su conferencia de prensa, transmitida a nivel nacional, fue vergonzosa y bochornosa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su desesperación por contrarrestar la situación de Cristina Kirchner, cometió un grave error al basar su discurso en escuchas telefónicas ilegales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los fiscales honestos deben tener cuidado, ya que el kirchnerismo, ante la inminencia del procesamiento de Cristina Kirchner por corrupción, intenta desviar la atención ensuciando a los demás.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi opinión sobre Alberto Fernández ha evolucionado a lo largo del tiempo: inicialmente le tuve simpatía, luego lástima; posteriormente, una profunda decepción; y ahora, simplemente lo detesto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, Fernández salió a atacar duramente, refiriéndose a los \"sótanos de la justicia\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hablamos de espionaje ilegal, el kirchnerismo es el máximo exponente, como lo demuestra el caso Nisman.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En cuanto a espionaje y persecución política, son los líderes indiscutibles.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner se encuentra en una situación delicada, con un fallo judicial inminente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella utiliza a sus \"caniches\" como Moroni y Parrilli, además del propio Fernández,  y a otros individuos menos conocidos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La estrategia del kirchnerismo es generar cortinas de humo para desviar la atención del inminente procesamiento de Cristina Kirchner.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente se muestra como un héroe, a pesar de su ineptitud.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este sistema está lleno de errores e injusticias, gobernado por ladrones, corruptos y sinvergüenzas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Espero que, si Macri vuelve, les haga pagar por sus crímenes.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2339
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.133,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En este contexto de discursos de odio e intentos por retroceder a la Argentina previa a la legislación que claramente vino a colaborar con la lucha contra los femicidios y contra los ataques a otros colectivos, ¿qué pueden contarnos?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación, además de ser completamente complicada en términos económicos, está derivando en algo autoritario, en la promoción del odio contra determinadas poblaciones desde los cargos máximos del Estado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es claro que este gobierno quiere derribar todo lo construido en materia de derechos, con argumentos lábiles, incluso carentes de sentido y legalidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que la sociedad argentina no votó por este gobierno para terminar con la homosexualidad. El voto tuvo más que ver con el hartazgo, el deseo de estabilidad económica y expectativas de ascenso social frustradas.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay muchas luchas históricas en nuestro pueblo y no es una sociedad como la de Estados Unidos, donde hay mucho odio organizado.  Este discurso no tendrá asidero en la sociedad.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Discutía el otro día con un diputado del PRO que decía que cada uno puede hacer lo que quiera en su casa y que el discurso admitía varias interpretaciones. Le pregunté: \"¿Se imagina en 1932 si Hitler dijera que todos los judíos son pedófilos, y el PRO, un partido votado por gente con ideas republicanas, respondiera que es un problema de interpretación?\"",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2221
+}

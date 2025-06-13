@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.083,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Exacto, no solo se desmanteló, sino que todos los programas relacionados desaparecieron y dejaron de funcionar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se debió haber remitido el caso a la justicia federal, a una fiscalía federal o a un juzgado federal con la competencia pertinente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante la desaparición de un niño vulnerable, perteneciente a una familia muy pobre, se debe priorizar la hipótesis de trata.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre hay complicidad estatal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es lamentable que el Estado, quien debería proteger a nuestros hijos, no lo haga, sino que los roba.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una postura política, los chicos para este gobierno eran parte de la economía, solo servían para trabajar y no para estudiar.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1904
+}

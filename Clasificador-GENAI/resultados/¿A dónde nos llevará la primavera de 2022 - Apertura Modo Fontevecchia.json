@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.233,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Así que haremos un recorrido por distintas \"primaveras\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Socialismo con rostro humano\" fue la consigna de la llamada Primavera de Praga, que la historia documenta como el primer intento por desquebrajar la Cortina de Hierro en enero de 1968.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vengo a proponerles un sueño: reconstruir nuestra propia identidad como pueblo y como nación, que es la construcción de la verdad y la justicia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Queremos que se asegure trabajo, vivienda, educación y sanidad para todos y todas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 17 de diciembre de 2010, el vendedor ambulante Mohamed Bouazizi se inmoló en protesta contra la corrupción en Túnez.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero ya nos hemos cansado de permanecer inmóviles ante la situación y hemos pasado de la indignación a la acción.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2995
+}

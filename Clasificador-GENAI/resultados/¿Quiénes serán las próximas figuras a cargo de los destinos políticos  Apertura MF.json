@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto_analisis_gabinete_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.679,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente electo usó la palabra \"casta\" para referirse a la dirigencia política que tenía diversos beneficios y se enriquecía a espaldas de la sociedad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que empieza a revelarse del gobierno que viene es la suma de dirigentes \"castos\" en ese sentido, que no tienen trayecto en la vida pública y burocrática del Estado, junto a otros que sí han pasado por diversos gobiernos, especialmente por el de Mauricio Macri.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei dijo: \"Nicolás Posse es el que está coordinando los equipos técnicos\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única experiencia política de Posse hasta ahora fue la de coordinar los equipos técnicos de la campaña de Javier Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"La convertibilidad se podía mantener siempre y cuando el gobierno hubiera sido responsable y no hubiera incrementado el gasto público.\" ",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como ven, la carrera oscilante de Francos, le haría propietario del monte de casta, o sea, en este sentido de la casta hindú a la que se refería despectivamente Javier Milei, o sea, no a los \"castos\" y \"vírgenes\" por falta de experiencia, con quienes nos estamos refiriendo en la mayoría de los casos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Bueno, porque Javier Milei sabe exactamente cuál es su carencia, y eso que le falta es lo que vengo a aportar yo, ese equilibrio mesurado\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"La ayuda social va a ir directamente a las personas. Nosotros lo que queremos es que los intermediarios ya no sean parte de esa ecuación.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"En su gestión soy la persona que tiene que durar menos en su cargo\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Lo que nosotros proponemos no es eliminar el peso, sino darle a los argentinos la opción de elegir cuál moneda quieren usar. Y si quieren usar el dólar, que ya lo eligieron, está muy bien.\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es interesante que el criterio que priorizó Milei en el armado del gabinete es el de la confianza. Tiene cerca a gente con la que ha trabajado durante muchos años, familiares y amigos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Bajo ningún punto de vista dejaremos de respetar los derechos de los nacidos en Malvinas. Bajo ningún punto de vista Argentina dejaría de respetar los derechos, porque son ciudadanos argentinos\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei también recurrió al concepto de \"casta\", y no de \"casto\", de virgen, sino de personas con experiencia, por lo menos en el caso mediático del abogado penalista Mariano Cúneo Libarona.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El sistema de salud está privatizado. El recorte de la política tiene que estar. Ahora, lo que sí tenemos que ser muy contundentes es que hay una campaña del miedo, muchísima plata puesta en internet para mentir todo el tiempo sobre nosotros, sobre que vamos a privatizar el sistema de salud, sobre que vamos a privatizar el sistema de educación.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5652
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Sin moral, con la corrupción tenés mucha más pobreza",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sin moral, con la corrupción tenés mucha más pobreza, lo cual obstaculiza el desarrollo de este país. Los inversores huyen.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La corrupción también, para **Mirabella**, **Alberto Fernández** y **Fabiola Yáñez**, es ocupar lugares para los que no están preparados.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Alguien tiene dudas de que **Alberto Fernández** es corrupto?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y sí, da mucha vergüenza, da mucha vergüenza al patriota.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Somos como los mejores alumnos en una materia de biología de género, una locura.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8529
+}

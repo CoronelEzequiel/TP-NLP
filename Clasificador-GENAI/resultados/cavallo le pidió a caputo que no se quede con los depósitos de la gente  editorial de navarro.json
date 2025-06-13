@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_cavallo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Finalmente, el dueño de la criatura, el creador del corralito, habló sobre el tema más urgente y preocupante: los depósitos de la gente en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, Cavallo quería advertir que se estaban utilizando los dólares de la gente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El acuerdo con el FMI debe evaluarse en función de dos aspectos: uno a mediano plazo para financiar la deuda argentina, como se hace con otros acreedores; y otro a corto plazo para que el Banco Central deje de vender dólares que no le pertenecen.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Caputo me está llevando al precipicio, un precipicio que hasta ahora era una devaluación, y que ahora incluye el tema de los depósitos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para tapar todo, salieron a decir que bajó la pobreza al 38%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3777
+}

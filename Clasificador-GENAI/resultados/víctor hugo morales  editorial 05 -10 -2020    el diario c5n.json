@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.156,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Trump, que contrajo coronavirus pero que quiere aparentar ser un héroe, debe haber millones de personas que pudieron con el coronavirus, pero él lo va a hacer valer de una manera muy especial: lo convirtió en un recurso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La imagen en algún momento les va a mostrar el helicóptero que hace un ratito nada más llegó para buscar a este controversial personaje que ha dejado morir a miles, decenas de miles de norteamericanos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El intendente de Mar del Plata, Guillermo Montenegro, personaje de oscuro pasado, uno de los que ayudó a Macri a ocultar, o a intentarlo al menos, el tema de las escuchas entre otras trapizondas cometidas, aprovechó políticamente esto para decir cualquier disparate contra Axel Kicillof, en esa facilidad que tienen para convertir un hecho positivo (tener un avión instantáneamente para trasladar a una persona que se podía morir) en algo negativo, siempre por aviesos intereses políticos, siempre con lo ruin de la mano, codo a codo con ellos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha, que está enloquecida, brutal, no repara en nada y se lleva todo por delante a favor, claro, de la compañía periodística que inmediatamente tuvo de los medios mafiosos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí está la disculpa para cerrar el caso: 'A todos, bueno, saben que ayer hubo un contrapunto entre la provincia y el gobierno municipal de General Pueyrredón. No lo entendí como un ataque a semipersonas, sino algo que afectaba a todos los marplatenses y por eso hice los reclamos que necesitaba necesarios ante los canales institucionales. Quiero pedir disculpas porque ayer circuló un audio mío privado con un amigo donde digo un par de exabruptos.'",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero señalo esto de la falsedad constante dentro de la que se mueve la derecha enloquecida de poder en la Argentina por lo que ocurre en la ciudad de Buenos Aires.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un cowboy, un actor de modestas características, un hombre de suma mediocridad pero muy volcado a la derecha, fue el que cambió la historia en 1980, en esos años 80. Ahora llegó uno peor que él y peor que Bush.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Van a seguir con Pablo Dugan mirando el helicóptero, viendo la llegada de Donald Trump. El personaje malo de Disney, como les decía, pero el hombre que más poder tiene en el mundo entero, un poder que mucho bien haría en cambiar en los Estados Unidos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7734
+}

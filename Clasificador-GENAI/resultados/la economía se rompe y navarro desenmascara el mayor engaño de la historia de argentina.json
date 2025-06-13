@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_economico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Solo un plan orquestado por un grupo de empresarios interesados únicamente en sus ganancias a corto plazo podría generar algo así.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿No fue Milei quien hace días afirmaba que varios sectores estaban repuntando?  Evidentemente, no. Los datos indican que Argentina se encuentra en una situación peor que durante la pandemia y que la de países en guerra.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué ocurre esto? Porque estamos ante un gobierno inusual, con un líder de escaso poder real, utilizado como figura decorativa para generar empatía en la población, mientras un grupo de empresarios maneja la situación en busca de sus ganancias.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando estos capitales se van, lo hacen todos juntos,  como vimos en marzo de 2018, y lo volveremos a ver pronto. El final será dramático.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1579
+}

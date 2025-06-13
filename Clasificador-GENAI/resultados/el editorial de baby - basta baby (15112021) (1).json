@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Basta de tomarnos el pelo!",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dicen que la provincia está subiendo un poquito.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un triunfo hubiera sido que no hubiera habido elecciones, porque son delincuentes y sinvergüenzas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo salgo de casa, paso por la Villa 31; les mando un beso a todos los que me ven y me quieren, pero no es culpa de ustedes, es culpa de quienes los gobiernan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no sé qué mierda tiene la pobreza de turístico, pero igualmente le han hecho cine, microcine, tiro al polígono, le han hecho todo adentro para que estén conformes, pero igual salen a vender drogas afuera.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí ves que están los primeros mantenidos nuestros, que son como doscientos mil: diputados, senadores, asesores, amantes, amigas, ascensoristas, sindicalistas, bibliotecarios, peluqueros…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Después agarra para Puerto Madero, un lugar turístico divino.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese es el primer circuito; mañana sale, ya me entregaron un ómnibus hoy, el Circuito de los Boludos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora viene el emporio del pelotudo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dio asco la cobardía del intendente de La Matanza, que se escondió cuando mataron al quiosquero, pero sin embargo estaba cagándose de risa como un triunfador, a quien le chupó un huevo a los muertos de La Matanza: Fernando Espinoza.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3242
+}

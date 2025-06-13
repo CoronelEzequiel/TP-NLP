@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hace unos días, Cristina Fernández de Kirchner, Sergio Massa y Axel Kicillof \"oleron sangre\"—la sangre de las heridas políticas de Javier Milei, causadas por los errores cometidos desde el Foro de Davos en adelante.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos quieren que el gobierno caiga y que Milei no sea presidente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un operativo de seguridad exitoso, según fuentes oficiales que destacaron la actuación pacífica de las fuerzas federales cuando no son agredidas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Cámara de Casación confirmó la condena a seis años de prisión e inhabilitación para ejercer cargos públicos para Cristina Fernández de Kirchner por corrupción.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un primer golpe político para Cristina fue la decisión de diputados peronistas afines a gobernadores como Martín Llaryora (Córdoba) y Raúl Jalil (Catamarca), quienes desconocen su autoridad como presidenta del PJ y votaron a favor del DNU para el acuerdo con el FMI.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La prohibición de ingreso a Estados Unidos para Cristina Fernández de Kirchner generó indignación en gran parte de la sociedad, afectando particularmente la imagen de Sergio Massa, quien no logró neutralizar la situación con sus apariciones públicas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Milei, a pesar de mostrarse optimista públicamente, es consciente de la baja de su imagen positiva, aunque considera normal una fluctuación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Según encuestas de Aurelio y de la consultora Ison Burman, su imagen negativa se redujo y la positiva aumentó ligeramente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei mantiene un tweet fijado atacando a Clarín y ha mostrado su apoyo a diferentes figuras públicas, como el ex arquero del Boca Juniors, \"El Pato\" Abbondanzieri.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2226
+}

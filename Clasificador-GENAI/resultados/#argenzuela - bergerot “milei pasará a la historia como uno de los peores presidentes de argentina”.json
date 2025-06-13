@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.067,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Un presidente extranjero que visita nuestro país sin reunirse con ningún representante del Estado español, e incluso insulta al gobierno, a las instituciones y al pueblo español, es inaceptable.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei critica al Estado por expandir y garantizar derechos ciudadanos, como la sanidad y la educación, pero no le parece mal utilizar los recursos del pueblo argentino para su viaje y agenda partidaria.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos mirar a Europa, ya que tras las elecciones del 23 de julio, España cuenta con un gobierno progresista de coalición que hay que proteger.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El modelo de Milei y Ayuso se basa en creerse por encima de las normas, con una falta de respeto a las instituciones y a la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como argentina y madrileña de adopción, me avergüenzo de sus declaraciones.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei pasará a la historia como uno de los peores presidentes de Argentina, pero el vínculo entre Argentina y España, basado en una historia de ayuda mutua y el rechazo a las dictaduras, perdurará.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1739
+}

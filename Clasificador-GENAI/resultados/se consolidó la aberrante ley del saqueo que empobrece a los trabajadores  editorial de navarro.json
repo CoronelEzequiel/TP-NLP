@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En la parte fiscal, se reduce el impuesto a las ganancias (que debería ser sobre los ingresos) para quienes ganan más de tres millones y medio de pesos. Sin embargo, a quienes ganan un millón ochocientos mil pesos, se les cobra más, afectando a los trabajadores con menores ingresos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La aprobación de esta ley evidencia un consenso entre la clase dirigente para que los trabajadores continúen transfiriendo sus ingresos a los sectores más ricos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien no soy un defensor de las divisiones territoriales, resulta preocupante que la aparición de recursos naturales no genere ningún beneficio para el país. No se observa un encadenamiento productivo, ni ingreso de dólares, ni aumento de la recaudación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estamos ante una dictadura militar, sino ante un consenso entre la clase dirigente argentina para el saqueo, despojo y empobrecimiento de la clase trabajadora.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1185
+}

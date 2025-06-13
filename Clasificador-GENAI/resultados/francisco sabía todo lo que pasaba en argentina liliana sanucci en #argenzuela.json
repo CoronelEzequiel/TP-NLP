@@ -1,0 +1,31 @@
+{
+  "texto_id": "sin_titulo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estamos, recién lo dijeron y es cierto, hoy sentimos la orfandad de no tener al Papa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Él tenía grandes deseos de venir a la Argentina. La agenda vaticana no la prepara nunca un Papa. El Papa sugiere, pero son otros poderes dentro del Vaticano que preparan por regiones, inclusive las agendas. Y él lo único que pedía era, en su retorno a Argentina, no ir en años electorales por los motivos que ya se conocen.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mira, la Fundación, que tiene diez años, tiene un perfil bastante bajo, pero le damos en este momento alimento a más de 300.000 personas por mes. Tenemos delegaciones en casi todo el país, además de la parte educativa, deportes y cuidado del medio ambiente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy el gato contó, se mandaba mensajes con muchos periodistas, les preguntaba cosas, sabía, sabía, sabía.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1727
+}

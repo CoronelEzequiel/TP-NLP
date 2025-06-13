@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Analizamos la situación entre Patricia Bullrich, quien logró fotografiarse con los gobernadores radicales de Mendoza, Rodolfo Suárez; de Corrientes, Gustavo Valdés; la posible candidata a gobernadora de Santa Fe, Carolina Losada; y el próximo gobernador de Mendoza, Alfredo Cornejo, quien ya lo fue y que muchas veces se había mencionado como posible candidato a acompañar a Bullrich en la boleta presidencial como candidato a vicepresidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dice Omar De Marchi: 'Todos los días me preguntan si voy a romper. Es la pregunta del millón. ¿Rompe o no rompe? No, pero mira, yo te voy a decir algo, y lo digo seriamente, no lo digo para esquivar una respuesta. No recuerdo un año en Mendoza en el cual, tres meses antes de una fecha de cierre de frentes o de listas, se esté discutiendo en momentos difíciles.'",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La unidad de Juntos por el Cambio en Mendoza es una obligación, no una opción. La provincia es muy importante para el proyecto nacional de Juntos por el Cambio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando volvemos al planteo de fondo como metáfora de lo apolíneo y lo dionisíaco, esta idea de que Apolo representa lo elevado, lo racional, mientras que Dionisio, el rey del vino, el rey de la vendimia, justo en este momento, representa lo terrenal, la sensualidad desatada, y que esa idea de lo racional la representara Horacio Rodríguez Larreta y la idea de lo pasional y terrenal podría ser representada por Patricia Bullrich.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Escuchemos al jefe de gabinete: 'A mi criterio, cuando ganas las elecciones y sos presidente electo, el día que ganaste las elecciones, el día posterior a que ganaste las elecciones no es lo mismo que el día anterior.'",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Es posible un gobierno, el 10 de diciembre, sea quien fuera el que gane, que no pueda contar con el apoyo de parte del que perdió? Ese es el gran dilema. ¿Y quién lo puede llevar adelante mejor, si un 'apolíneo' o un 'dionisíaco'?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3987
+}

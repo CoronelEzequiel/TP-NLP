@@ -1,0 +1,61 @@
+{
+  "texto_id": "Evo Morales en Argentina",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.353,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es un momento de mucha emoción, honor y orgullo volver a Argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente Alberto Fernández, la vicepresidenta Cristina Fernández de Kirchner, junto a otros mandatarios como Nicolás Maduro, Miguel Díaz-Canel de Cuba y el presidente de México, me salvaron la vida, y Argentina me brindó refugio durante un año.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Usted menciona, y lo reitera a menudo, que le \"salvaron la vida\". ¿Es esto literal?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno argentino de ese momento, el de Mauricio Macri, les terminó proporcionando armamento durante el golpe.",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los planes económicos del Banco Mundial o del FMI buscan la privatización de los recursos naturales y la mercantilización de los servicios básicos.",
+      "score": 0.95,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras que las políticas sociales de Bolivia se basan en la nacionalización y la recuperación de los recursos naturales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llegué a la presidencia gracias a la verdad y la honestidad, a pesar de las acusaciones de narcotráfico.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, esa es nuestra experiencia. La energía estaba en manos de empresas inglesas e italianas, el agua se estaba privatizando, el gas en manos de españolas, francesas y brasileñas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este giro a la centroizquierda y el progresismo en Latinoamérica, con Lula en Brasil y un presidente de izquierda en Colombia, ¿significa una nueva generación que reemplaza a Evo, Néstor Kirchner y Lula?",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay temor al avance de la derecha, con un político como Javier Milei.",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3304
+}

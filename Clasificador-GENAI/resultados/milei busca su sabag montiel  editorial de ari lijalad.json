@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.079,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La gravedad reside en la frase, que para quienes no vieron la película *Terminator* o son muy jóvenes, alude a una escena de extrema violencia donde el personaje asesina con esa frase antes de dispararle a su víctima.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, sufrimos un intento de magnicidio contra Cristina Fernández de Kirchner, perpetrado por Fernando Andrés Sabag Montiel.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando se deshumaniza a alguien, se facilita la idea de que se lo puede matar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "He leído recientemente declaraciones del presidente donde expresa su deseo de exterminar y terminar con quienes piensan diferente, un discurso extremadamente violento.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nuevamente, el presidente, directa o indirectamente, incita al asesinato de Beliboni, un sindicalista, un gobernador y un diputado.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su discurso busca su propio Sabag Montiel.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Espero que no lo encuentre.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1555
+}

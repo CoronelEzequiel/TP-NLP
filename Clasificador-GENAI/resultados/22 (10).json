@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.158,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, estuvimos acompañando a nuestro candidato, Sergio Massa, junto con ministros, gobernadores y un grupo numeroso que no solo pudo presenciar el debate de \"Precios Justos con la Patria\", sino también disfrutar del momento en que se encendieron las cámaras y tuvimos que explicar nuestras propuestas al pueblo argentino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para nosotros, la postura de Sergio Massa fue muy importante.  Pidió perdón por los problemas de Argentina y los errores del gobierno anterior, pero al mismo tiempo planteó con contundencia que el 10 de diciembre comenzará un nuevo gobierno, con decisiones firmes, equipos competentes y un trabajo incansable para alcanzar consensos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mensaje es claro: nuestro gobierno trabaja para mejorar la vida de la gente y no tolerará conductas que denigren la política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como miembro del gabinete nacional y candidata a diputada nacional, mi prioridad es trabajar en el Congreso para defender las transformaciones propuestas por Sergio Massa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero construir una Argentina con un estado que pueda afrontar los desafíos del país, con un sistema de educación y salud pública fuertes y un sistema democrático eficiente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La política debe ser un servicio público, no un medio para beneficio personal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1839
+}

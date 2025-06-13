@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.642,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los sindicatos reaccionarios que están tratando de generar caos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que la mejor forma de apoyar al Presidente, o por lo menos al gobierno, a la democracia, es empezar a desenmascarar a estos sinvergüenzas que viven del pobre, que no les cuidan el laburo, que cuando llegue el momento de que al compañero de la lechería lo rajen, ellos se van a hacer los \"boludos\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso mismo quiero decir que cuando todos tienen razón, nadie tiene razón.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces yo veo que dicen \"somos compañeros\". No, no somos compañeros, porque a los compañeros no se los deja solos, porque a los compañeros no se los deja teniendo el velador para que no se apague la luz, porque al compañero no se lo deja sosteniendo la fuente de trabajo para que vos mañana vengas y hagas otro paro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Digo esto porque se escuchan las campanas de un lado y del otro, pero nunca se escuchaban las del medio, que somos los que laburamos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Repito, me solidarizo con los que piden, con los compañeros.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1981
+}

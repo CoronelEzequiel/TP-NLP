@@ -1,0 +1,101 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.822,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hoy tuve muchos llamados a la radio Rivadavia por el tema de Patricia Bullrich.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que la gente se acostumbra a alguna gente que la sigue, que la quiere.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vamos a terminar justamente como el oficialismo que termina poniendo al que más mire y no al más decente.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este no es un país de mierda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo vengo de una Argentina donde el obrero era digno.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ningún hombre hubiese permitido en ese momento que le regalen un plan porque tenían mucha dignidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vos, Cafierito y tu plantel de gente, lo hicieron mierda.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si vos lo ves desde un avión y ves la hidrovía, por ejemplo, que ahora se la quedaron ustedes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Banco Nación no estaba a los amigos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un país bárbaro. Tenemos el mar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos los campos, que se los quiere quedar al borde con Vicentín y Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si no hubiesen estado ustedes, esto sería un vergel.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los que están haciendo mierda a la patria.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La Argentina es un país maravilloso a pesar de este gobierno de mierda, de mentiroso, de embustero, de sinvergüenza, que nos quiere llevar a China, a Venezuela, a Cuba, a los peores países del mundo\".",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No era un país de payasos, Cafierito.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos dejaron piedra sobre piedra.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hicieron al pobre muy pobre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y a los ricos les chupan ustedes un huevo, porque agarran todo y se van a Miami a blanquear guita.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3806
+}

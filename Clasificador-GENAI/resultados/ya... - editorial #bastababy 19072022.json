@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.786,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¡Alberto, vete a gobernar, ya! ¡Cristina, tiene que ir presa, ya!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es un \"Rodrigazo\".",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O sea, diariamente se hace el tonto el presidente y dice esas boludeces en los discursos, y Pimpinela se hace la histérica y dice las boludeces que dice, pero te la van poniendo y van generando una inflación que al final termino pensando que está preparada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces nosotros venimos con una gracia, porque yo no puedo entender que seamos tan tontos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no nos damos cuenta de que el asfalto nos va chupando, de que la inflación nos va chupando, de que la vida nos va chupando y nos va destruyendo, y nos acostamos con el dólar a 280 y nos levantamos con el dólar a 301, y no nos damos cuenta de que en estas doce horas de la noche perdimos otro cacho de sueldo, otro cacho del patrimonio, y los boludos van a sacar la guita del banco para comprar dólares, pero como el gerente dice: \"No, es Fredy García, espere un poco, mire, tenemos un plan nuevo, el 5% que estamos dando y la tarjeta de crédito\", y el boludo deja la plata porque es un pelotudo, porque no me hizo caso, no nos hizo caso.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que sacar toda la plata de los bancos, comprar dólares y guardarlos, porque usted se descapitaliza cada día más en el banco.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta es una hijaputez para empobrecer a todos los argentinos y que dependamos de un gobierno tirano, autoritario, hijo de puta, como el de Maduro.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3430
+}

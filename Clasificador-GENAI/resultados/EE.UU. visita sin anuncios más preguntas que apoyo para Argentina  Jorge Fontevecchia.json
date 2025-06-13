@@ -1,0 +1,31 @@
+{
+  "texto_id": "Tenemos el comienzo de nuestro programa con el día 4 de 92 de Millei y nos preguntamos a qué vino Scott Bezen",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si su visita, por ejemplo, tuviese que ver con condicionamientos, como se especuló, por parte del acuerdo con el Fondo Monetario Internacional, perfectamente podría haber hecho viajar al equipo económico argentino a Washington, como hace un acreedor con un deudor, como tantas veces ha viajado el equipo económico argentino a Washington para reunirse con el Fondo Monetario y alguna vez con el Tesoro.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este fragmento, Milei plantea que quiere un acuerdo de libre comercio, que está dispuesto a votar con los EE. UU., apoyarlo en cada decisión geopolítica, es decir, un alineamiento total, y en ese sentido, el término de 'aliado' es demasiado generoso, una implica algún tipo de paridad en una alianza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bezen es percibido como un genial estratega financiero y un pragmático que supo leer los cambios de aire en la política mundial, en ese momento representa los intereses en este momento de los EE. UU. y su presencia en nuestro país probablemente tenga más de económica que de ideológica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que sí podemos conocer de nuestra historia indica que el alineamiento demasiado monolítico a un bando político nunca fue mejor para la Argentina. Siempre fue mejor cuando pudimos comerciar y hacer negocios con todo el mundo, y como no sabemos a ciencia cierta a qué vino Bezen, ni siquiera lo sabemos si lo sabe el propio Bezen, nos vamos a despedir con un poco de humor: '¿Qué quiere usted de mí?' en el mismo bolero con el que abrimos esta columna.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4636
+}

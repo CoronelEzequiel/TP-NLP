@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.186,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La utilización política y mediática del conflicto en Venezuela por parte de la derecha nacional ha alcanzado niveles ridículos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veremos en un rato una reunión de comisión donde el gobierno afirma que el kirchnerismo es chavista y, por lo tanto, golpista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una instrumentalización política de este evento por parte de una derecha que ya venía actuando de manera contundente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, mientras la derecha nacional condena la que consideran dictadura de Maduro y califica de chavista al kirchnerismo, presenta hoy mismo al Congreso un proyecto anti-mafias que reducirá las libertades individuales en Argentina como nunca antes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hacen es volverse un gobierno cada vez más peligroso; esa es la palabra: cada vez más peligroso. ¿Para qué? Para tapar el desastre económico, para tapar el aumento del desempleo, para tapar el dato revelado hoy por Sentia, una consultora internacional de mucho prestigio que mide el consumo en muchos países del mundo, que indica una caída del consumo en julio —que casi termina— la más alta desde que asumió Mauricio Macri.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los argentinos vivimos en un nivel de mentira espantoso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora yo les digo lo que está pasando: los están llevando a la miseria, están destruyendo a la clase media y se están preparando para la represión y el ataque a las libertades individuales, cuando se den cuenta de que este gobierno los está perjudicando.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2155
+}

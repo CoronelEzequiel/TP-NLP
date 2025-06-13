@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En abril, con aroma a diciembre, la conflictividad social está en aumento debido al impacto de la estrategia que el gobierno nacional está implementando en los salarios, las asistencias, los subsidios y los aumentos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más que un ajuste: es destruir las condiciones de posibilidad de una vida medianamente estable.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay políticos a los que nada les hace daño hasta que, de golpe, reciben una 'malla' imprevista, y cuando se produce ese daño, de ahí en más, la caída es irrefrenable.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se busca alargar de tres a seis meses el periodo de prueba de los trabajadores, cambiar el régimen de indemnización por uno que reduzca el monto que se lleva el empleado, y este sistema estará inspirado en el conocido de la UOCRA, de los empleados de la construcción.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojalá eso no suceda nunca, y, por las dudas, alertamos desde hoy a las autoridades para que tengan cuidado en la represión de la conflictividad creciente, y lo que hay que hacer es profilaxis, más allá de la represión.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3342
+}

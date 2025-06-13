@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.618,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "A pesar de su ausencia, contamos con la presencia de gente maravillosa, como Javier Levina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero dejarlo claro: no pelearé contra el kirchnerismo mientras me lo permitan.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como dije desde el principio, y ahora todos dicen, del lado de Mauricio Macri hay un bloque fuerte, que se fortalece por la posibilidad de volver al poder.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una disputa interna por recursos y apoyos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos en un equilibrio de poder, gracias a Dios y la Virgen.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con figuras como Negri, se minimiza la posibilidad de corrupción.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este país tiene un problema grave de discriminación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Más allá de la política, son todos falsos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me gusta hablar con libertad en este espacio y criticar la hipocresía.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vidal no movió la provincia como debía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nivel internacional, no pueden creer que tengamos una vicepresidenta como Cristina Kirchner. Nos ven como un país corrupto. ¡Una vergüenza!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2123
+}

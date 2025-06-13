@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.78,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tienen menos huevos que una tortilla española.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los kirchneristas sacaron una carta pidiendo unidad para que no vuelva el neoliberalismo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos al borde del abismo y esta manga de ineptos peleándose todos contra todos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Peronismo: fue conservador con Luder, neoliberal con Menem, conservador popular con Duhalde, progresista con Kirchner y patético con Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Miriam Lewin. ¿Podemos esperar libertad de expresión de una persona que integró una organización armada que cometió actos de terrorismo?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6753
+}

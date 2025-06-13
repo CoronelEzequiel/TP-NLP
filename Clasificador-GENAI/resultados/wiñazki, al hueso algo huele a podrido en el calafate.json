@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Su muerte, violenta y con indicios de tortura, generó sospechas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Según el abogado de Facundo Saeta, uno de los acusados, el teléfono fue roto tras haber estado en poder del juez Narvarte.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El abogado argumenta que el traslado del teléfono a Buenos Aires implica una ruptura en la cadena de custodia, poniendo en duda la inviolabilidad de las pruebas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Técheldín también afirma que Facundo Gómez, otro imputado, lavaba dinero de Gutiérrez y solicita citar a once testigos que compraron camionetas de alta gama en El Calafate, presuntamente pertenecientes a Gutiérrez y vendidas en una concesionaria propiedad de Gómez.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La familia de Gutiérrez cree que hubo más involucrados en el asesinato y ha presentado pruebas adicionales al juez, como pisadas en la casa de la víctima que no coinciden con las zapatillas de los acusados.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La fiscal a cargo del caso, Natalia Mercado, es sobrina de Cristina Fernández de Kirchner, hija de Alicia Kirchner y prima de Máximo Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1448
+}

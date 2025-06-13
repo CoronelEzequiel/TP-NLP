@@ -1,0 +1,41 @@
+{
+  "texto_id": "Federico Achaval",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.108,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Achaval afirmó que en los encuentros del Frente de Todos, la posibilidad de una candidatura de Fernández de Kirchner genera gran expectativa y esperanza entre la militancia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Destacó que en sus recorridas por los barrios, la población percibe a Fernández de Kirchner como una defensora de los intereses nacionales, del cuidado de la industria nacional y de los derechos de la población, especialmente de los adultos mayores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Achaval considera que la experiencia de gestión de Fernández de Kirchner respalda su figura.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Achaval opina que ella impulsa la discusión política profunda y marca el rumbo en términos de contenido y horizonte.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Consultado sobre si consideran a Fernández de Kirchner la mejor candidata para el Frente de Todos, Achaval respondió con firmeza que sí, basado en la percepción popular que, según él, la apoya y la valora por sus acciones concretas, como la Asignación Universal por Hijo, el programa Conectar Igualdad y las moratorias jubilatorias.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Achaval también resaltó la creación de universidades en el conurbano bonaerense durante la gestión de Fernández de Kirchner, mencionando el proyecto de la Universidad Nacional de Pilar, que ha enfrentado obstáculos en el Congreso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1158
+}

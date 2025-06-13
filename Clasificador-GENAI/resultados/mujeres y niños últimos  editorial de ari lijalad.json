@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.075,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, la gestión de Javier Milei parece adoptar la estrategia opuesta: \"mujeres y niños últimos\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno decidió que esos niños no coman, recortando fondos para los comedores escolares y los programas de leche escolar.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, se conoció la noticia de la eliminación de los pocos recursos estatales destinados a la protección de los derechos de las mujeres, que constituyen la mayoría de la población argentina.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto representa un riesgo vital.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La eliminación de políticas públicas que protegen los derechos, especialmente derechos tan básicos como el derecho a la vida, genera muertes.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei ha decidido cortar con todo esto.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las mujeres y los niños no pueden ser los últimos; deben ser los primeros.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La dirigencia política, sindical, cultural y social que dice representar a las mayorías (que son mujeres), si no realiza una movilización contundente ante esta situación, se convierte en cómplice.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante la denuncia sobre los alimentos, Monseñor Ojea y Mirta Legrand reaccionaron más rápido que la dirigencia peronista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las mujeres de este país recordarán quiénes las pusieron en riesgo y quiénes no defendieron sus derechos.",
+      "score": 0.06,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1699
+}

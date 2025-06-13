@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Tenemos un canal estatal donde hay muchos empleados que ganan fortunas para producir programas de baja calidad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los piquetes… en el único país del mundo donde, primero, no hay… Además, se levantan en vacaciones de verano, los viernes y vuelven los lunes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es como la guerra, ¿viste? Tanto costó construir Ucrania para que venga un hijo de puta y la bombardee y la destruya en 24 horas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno, cuando toma la responsabilidad de algo, no importa la palabra, ni el registro civil, ni Dios, ni el Papa… me cago en todo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo, Cristina, espero que lo piensen, porque los únicos perjudicados somos nosotros.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2409
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "Gabriel_Sanfilippo_y_Omar_Maturano",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.192,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El reclamo central es el ajuste salarial para igualar la inflación; las ofertas de las empresas (0% en septiembre, 0% en octubre, 1% en noviembre y 1,5% en diciembre) son inaceptables.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Maturano critica la falta de interés del gobierno y las empresas en la situación de los trabajadores, argumentando que se busca reducir la participación de los trabajadores en la distribución de la riqueza.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El entrevistado rechaza la idea de que los sindicatos o políticos estén estafando a los trabajadores, afirmando que defenderá a sus compañeros.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Maturano hace referencia a la privatización de los ferrocarriles durante el gobierno de Menem, donde se redujo la cantidad de trabajadores de 90.000 a 14.000.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Respecto a la privatización, Maturano aclara que no teme al capital privado en sí, sino a un modelo que dependa de subsidios y perjudique a los trabajadores.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finaliza la entrevista con la posibilidad de un paro ferroviario inminente, que según él, no podría ser frenado dada la expiración de los plazos de la conciliación obligatoria.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1151
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "A días de las elecciones más importantes de la historia reciente del país, podemos analizar cuál es el límite de tolerancia que tiene el votante frente a la disyuntiva de elegir un candidato con fama de mentiroso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa me mintió siempre. Tenemos que decir si Massa continúa o no continúa. Y no hay incertidumbre. Con Milei tenemos todas las incertidumbres. No lo conocemos, nunca gobernó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En algún sentido, quien primero premia la relación laxa entre la verdad y la política es la propia Cristina Fernández de Kirchner, quien eligió a Massa como candidato de Unión por la Patria.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El planteador se irá a decir: 'Prefiero que me sigan cagando, pero no que venga alguien que me mate'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4451
+}

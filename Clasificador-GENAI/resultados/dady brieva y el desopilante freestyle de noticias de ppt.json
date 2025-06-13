@@ -1,0 +1,41 @@
+{
+  "texto_id": "Fin_de_semana_domingo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "¡Peronimos para todos!",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se confirman los rumores: Fabián Domán renunció a la presidencia del club Independiente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mauricio Macri quería que se votara por separado, pero la Reta mostró que ya no es su empleado, que ya no es tan obediente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aunque era jefa del PRO, Patricia Bullrich pidió licencia… ¡pero de ser candidata, la \"patito\" no se baja!",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Viviana Canosa y Dady Brieva, que no son gente de ciencia, se metieron a opinar sobre Cristina y Florencia Kirchner.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y aunque pidieron disculpas, la elección está a la vista: hablar mal de la gente no te hace periodista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 981
+}

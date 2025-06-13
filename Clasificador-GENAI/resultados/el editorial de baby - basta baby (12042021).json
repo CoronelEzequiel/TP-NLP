@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este no es un canal de televisión cualquiera; aquí no se firman contratos, se da la palabra.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aquí no hay dueños, hay amigos.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy las balas pican muy cerca, no por la edad, sino por la inoperancia de quienes deberían salvarnos la vida.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero nombrar a alguien de este canal que no siempre se destaca, pero que es una estrella: Luis Ventura, un gran amigo, buena gente, siempre dispuesto a ayudar a todos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy se fue Mauro, y a todos nos duele el corazón.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1751
+}

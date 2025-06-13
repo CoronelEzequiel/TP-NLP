@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.233,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer les contábamos que julio se estaba cerrando como el mes con menor consumo desde que asumió Javier Milei.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei utiliza esos dólares para venderlos en el mercado de contado con liquidación, con el fin de sacarlos del país a un precio bajo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, el consumo sigue cayendo, sin saber hasta cuándo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Brasil está cuidando los intereses de Argentina y la seguridad de sus ciudadanos, mientras el presidente Milei los insulta.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Moreno, por segunda vez, defiende a la vicepresidenta que reivindica a los genocidas, ignorando la historia del peronismo y sus víctimas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esper exacerba las ideas de extrema derecha, y el discurso se radicaliza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1696
+}

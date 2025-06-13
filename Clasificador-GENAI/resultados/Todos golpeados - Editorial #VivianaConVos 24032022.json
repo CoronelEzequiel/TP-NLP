@@ -1,0 +1,61 @@
+{
+  "texto_id": "sobreviviendo_sobreviviendo_sobreviviendo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.67,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En una Argentina en la que te matan por un par de zapatillas, no podés cargar la tarjeta SUBE, hay hambre, pobreza, indigencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivimos con un gobierno que valora la ideología de género, pero un gobierno que no valora al campo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La dictadura torturó, mató, creó centros clandestinos de detención y hasta se robó bebés. Un horror.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Videla, Viñoly, Viola y Massera fueron la representación del patriarcado en la dictadura militar. Y en la época que vivimos nosotros, la representa Mauricio Macri, Horacio Rodríguez Larreta y \"Juntos por el Cambio\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo es un apropiador serial de todo. Se apropiaron del Día de la Mujer, hoy se apropiaron del 24 de marzo. ¿Desde cuándo los derechos humanos les pertenecen? Los derechos humanos son de todos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos a un presidente absolutamente debilitado porque se mandó 1680 cagadas, pero ustedes con esto lo debilitan aún más, esto es un golpe blando o duro como quieras, ustedes son unos irresponsables, son unos irresponsables jugando con la democracia, jugando con nosotros los millones de argentinos...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gran problema de la Argentina, señores, señoras, es que estamos peleados con la verdad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los políticos sin barbijos, nuestros hijos con barbijos. Todo es una mentira, todo es una doble vara y una doble moral.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Europa, por supuesto, esto adquiere ribetes más radicales. Veamos el caso de Suecia. El partido de izquierda recientemente propuso una ley para obligar a los hombres a orinar desentados en los baños públicos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin familia no hay futuro, sin familia no hay futuro, es lo que quieren arruinarte, la familia y tu vida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9058
+}

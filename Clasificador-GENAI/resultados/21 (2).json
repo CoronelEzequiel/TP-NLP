@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.163,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ahora, cuando vos vas a un país a insultar al presidente y ya estás rompiendo todos los puentes, que es lo que me parece que pasó acá objetivamente, y sobre esos hechos son sobre los que la diplomacia tiene que operar, bueno, acá parece que no, que no se está trabajando en esa línea, sino que se redobla y se redobla y se redobla, lo que quizás genera aplausos para una tribuna interna.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de Milei, en su momento, dijo: no, nosotros no queremos participar de los BRICS y se fueron de los BRICS, porque queremos ser parte de la OECD. Perfecto. Ahora insultan a uno de los tipos que tiene una llave para entrar o, por ejemplo, el peso que los países europeos tienen en el Fondo Monetario Internacional. Entonces, Caputo está mangueando plata en el FMI para aumentar la deuda, para ver cómo hace y, por otro lado, insultan a quienes tienen las sillas en el Fondo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese sentido es muy contradictorio todo, pero, básicamente, lo que vemos es que la política de Javier Milei es anacrónica en términos de relaciones exteriores. ¿Por qué? Porque analiza con categorías que son de un tiempo pasado, pero muy pasado, y sobre todo a eso le pone esta suerte de nuevas extremas derechas, donde todo tiene que ser espectacular, tiene que espectacularizar todo y generar y es más que importante generar likes y retweets, que generar una relación seria y fundamentalmente que logre algún bienestar para los argentinos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después, debería empezar a prestigiar cuáles son las visitas de Estado que hacen los presidentes cuando viajan a otros países y no es el caso. Todos los viajes de Milei son o turismo político o turismo espiritual, pero ninguno tiene que ver con visitas de Estado, con generar lazos con otros gobiernos, con generar cooperación con otros países y mucho menos con traccionar inversiones o adquirir la oferta exportable de la Argentina, cosas que la Argentina necesita.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3702
+}

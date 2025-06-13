@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.83,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner, Alberto Fernández y Sergio Massa, el triángulo de las Bermudas del frente de nadie, puso al gobierno al borde del precipicio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina apeló a su autoritarismo habitual y a la trampa permanente.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es ridículo que Cristina considere que la marca Frente de Todos se haya ensuciado solamente por la inutilidad serial de Alberto Fernández.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, Alberto y Massa dejaron a nuestro país a la deriva, sin rumbo, en caída libre en todos los indicadores.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El señor feudal Gildo Insfrán, a quien Cristina y Alberto consideran el mejor gobernador, fue el ejecutor de todas las trapisondas por orden de la reina del calafate.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2237
+}

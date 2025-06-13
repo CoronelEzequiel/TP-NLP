@@ -1,0 +1,41 @@
+{
+  "texto_id": "Rafael Correa en Radio Diez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.075,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sudamérica estaba experimentando gobiernos progresistas, con prosperidad, crecimiento, equidad y justicia, presencia a nivel mundial.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La principal cuestión moral es la cuestión social; la injusticia clama al cielo, no puede haber tanta contradicción: que unos tengan todo, tengan los recursos para que todos vivan dignamente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Papa Francisco tuvo mucho cuidado en nombrar cardenales para que el Colegio Cardenalicio —que elige al Papa, no el Cónclave— tenga un poquito más de sentido progresista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ante un fraude de última generación, donde muy probablemente, como todos lo controlan ellos, prepararon papeletas…",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y lo que no se ha dicho es que es una condena al neoliberalismo, al individualismo, etcétera, al mercado, a la competencia, a las tonterías con que se nos llenan la cabeza todos los días.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Prepararse para ocupar un puestito en la sociedad, si no es para transformarla, más aún en América Latina, el continente más desigual del mundo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3231
+}

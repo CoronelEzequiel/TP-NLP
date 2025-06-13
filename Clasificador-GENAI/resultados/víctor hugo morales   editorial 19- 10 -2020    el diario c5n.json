@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.11,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es la democracia porque es a lo único que se puede apelar cuando además se sabe que el pueblo, lo que llamamos pueblo, es claramente mayoría.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Puede durar muy poco el neoliberalismo, de verdad, en América Latina, salvo con dictaduras.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Dónde pretende la derecha de Bolivia que viva el presidente de su país? Tan mal sienten a Bolivia, tan clasistas pueden ser, que cometieron todo tipo de desmanes.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo podría haber sido de otra manera? ¿Cómo pensar que Bolivia tuviese un destino diferente, por más que lo pretendiese la Organización de Estados Americanos (OEA), patio trasero de la Casa Blanca, recibiendo permanentemente las órdenes de una Casa Blanca que en este tiempo superó sus récords de malicia con respecto a lo que es América Latina?",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que pasar por Sebastián Piñera, hay que pasar por Janine Áñez, hay que pasar por Mauricio Macri para entregarle a los pueblos lo que los pueblos quieren: que es un poco más de igualdad, de justicia social, de derechos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7611
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "Discurso ante la Prefectura y la Policía Federal",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En la semana de la Policía, quiero reconocer la entrega y el sacrificio de quienes dan su vida por nuestra seguridad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me pregunto: ¿ser corrupto es una ideología? ¿Ser ineficiente? ¿Ser mentiroso, soberbio y absurdo?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno está en decadencia, sus miembros están nominados,  senten que se están agotando.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se intenta propiciar el regreso de Cristina Fernández de Kirchner.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno que, junto a Alberto Fernández, ha destruido el país, lo ha quebrado, estafado y robado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, ¿cuál es la ideología de este gobierno? ¿La corrupción? ¿El saqueo del país? El enriquecimiento ilícito de Lázaro Báez, la fortuna no declarada de Máximo Kirchner, las múltiples propiedades de la familia, la riqueza desmedida de Cristina Fernández de Kirchner…",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Claramente, lo que presenciamos es un gobierno corrupto, ineficiente, y que ha causado un daño irreparable al país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1716
+}

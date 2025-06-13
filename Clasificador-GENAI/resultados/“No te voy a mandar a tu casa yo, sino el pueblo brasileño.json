@@ -1,0 +1,41 @@
+{
+  "texto_id": "debate_brasil",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Y no te voy a mandar a tu casa, el pueblo brasileño, el próximo domingo, te va a enviar a tu casa\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Mentiroso, ex presidiario, traidor de la patria, que 'rachadinha', 'rachadinha' a tus hijos, robando mil millones de empresas após tu llegada al poder\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"La 'rachadinha' sería algo equivalente a la devolución que hacen los empleados que él contrata\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"la tragedia de Bolsonaro, o sea, lo acusa de haber, con su fracaso, traído a Bolsonaro\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Que la ley de cuotas es el pagamento de una dívida que el Brasil tiene de 350 años de escravidad\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Usted es responsable de la corrupción en Brasil, todos sabemos que usted cometió estos actos, usted es un descondenado\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3763
+}

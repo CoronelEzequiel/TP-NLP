@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.827,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Ya no son solo piqueteros, pobres o humildes; son egoístas, gente despreciable.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que llegó el momento de llamar a las cosas por su nombre porque la situación estalló, saltó la válvula de presión y estamos hartos de aguantar a los piqueteros Ben y Boni, que dicen que la semana que viene habrá cuatro días de piquete.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¡Que los metan presos! Ben y Boni no pueden estar libres amenazando las instituciones y la democracia.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos hartos, no pueden haber piquetes. Son vagos, delincuentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pensar que este hombre con cáncer paga impuestos para mantener a esos gordos que estaban ahí con la imagen del Che Guevara.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Basta de piquetes!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tenemos un presidente débil, que miente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este país no va bien.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si a mí me encuentran una goma de auto sin factura, voy preso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que llegó la hora del pueblo, de los que tenemos voz y voto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argentinos estamos hartos de que nos roben, de que nos engañen, de que nos impongan impuestos y no podamos vivir.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2679
+}

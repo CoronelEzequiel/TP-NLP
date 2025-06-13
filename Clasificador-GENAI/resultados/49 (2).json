@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_a_Ricardo_Quinteros",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.22,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy estamos en Neuquén, más tarde en Río Negro, y vamos a tratar de estar en las 23 provincias argentinas llevando nuestras propuestas, entusiasmando a nuestros compañeros, despertando esperanza, armando y construyendo un proyecto político que contenga a los 50 millones de argentinos y debatiendo internamente en el peronismo, porque nosotros propiciamos la unidad del movimiento peronista con un proyecto de país que se anteponga al proyecto del actual presidente de la nación y que satisfaga a los 50 millones de argentinos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Previo a eso, como dije anteriormente, tenemos un proceso de autocrítica interna para corregir las cosas que hemos hecho mal; hay muchas cosas en las que no estuvimos a la altura de las nuevas demandas de la sociedad, no solo el peronismo, sino todo el sistema político. Por eso votar por quien no propuso nada, sino simplemente un esquema destructivo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El respeto que tengo, el cariño, la admiración… pero creo que es importante que podamos presentar dos proyectos, dos propuestas, más que proyectos, porque el proyecto de país va a ser uno solo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo lo define el peronista; por lo tanto, tengo que decir a toda la fuerza política que siempre la columna vertebral del movimiento es el peronismo, y las columnas vertebrales del peronismo son los trabajadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decía que cada argentino debía producir por lo menos lo que consume, por eso nuestra propuesta siempre tiene que llamar al compromiso, al esfuerzo y al trabajo, no al estatismo y a la crueldad de la aplicabilidad de políticas que dañan a amplios sectores de nuestra sociedad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2623
+}

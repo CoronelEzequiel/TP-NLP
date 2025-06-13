@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¡Que se vayan a la puta madre que los parió!",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El sábado hay una marcha, voy a estar a las tres de la tarde en Plaza de Mayo con el campo, apoyando al campo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras la señora se encapricha, los pibes no pueden ir al colegio.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso mismo, ahora el capricho del pueblo. Queremos que vaya presa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Queremos que pague los daños que nos hizo. Queremos que pague esa soberbia de mierda con la que nos sometió 20 años.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La amiga de Putin que trajo las vacunas, la que fue a hacer negocios con Angola a llevar una vaca y una chiva, parecía el arca de Noé, y un tractor sin motor, la que hizo el tren bala que no llegó a ningún lado, la que en la isla de Marchi iba a hacer Hollywood, la que arrastraba a los pelotudos obsecuentes y alcahuetes que la seguían y la aplaudían como si hubiera sido, no sé, la pasionaria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2183
+}

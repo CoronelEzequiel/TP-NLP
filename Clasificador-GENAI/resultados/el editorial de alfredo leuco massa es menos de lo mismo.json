@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo voy a barrer a los ñoquis de La Cámpora que nos quieren dejar como parásitos en el Estado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa es uno de los cómplices de esta coalición que permitió el regreso de Cristina al poder y el peor gobierno de la historia democrática de Alberto Fernández.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Massa no tiene autoridad moral para fingir moderación y proponer diálogo cuando es parte de un gobierno agresivo que quiere instalar un nacional populismo autoritario por 20 años.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy es el principal socio y cómplice de Máximo Kirchner, el comandante jefe de la \"Orga\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La palabra de Sergio Massa está hecha a \"Ñicos\", igual que la de Alberto Fernández.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2023
+}

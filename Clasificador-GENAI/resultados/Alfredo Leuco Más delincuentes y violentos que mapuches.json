@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.831,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Nuestra maravillosa Patagonia está sufriendo usurpaciones reiteradas de tierras.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los responsables son grupos delictivos que se autodenominan mapuches, pero que no se identifican con ese pueblo noble, pacífico e integrado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La metodología que emplean es sumamente violenta: provocan incendios, vandalizan todo lo que encuentran y atacan con agresiones físicas y lanzamiento de piedras y palos a quienes se resisten.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se disfrazan de justicieros ideológicos, por lo que desconocen la ley y hasta la bandera argentina.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quieren fundar una nación mapuche dentro de nuestro territorio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aunque parezca mentira, cuentan con el apoyo incondicional de las autoridades, siempre del lado de los victimarios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La sociedad democrática debería estar alerta y exigir a las autoridades que apliquen todo el peso de la ley a quienes la violan.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos hablando de gente que son los soldados de Jones Huala.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2002
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "ModofonteVecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei contra el Congreso, nido de ratas, coimero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hablará de toneladas de mugre que hubo en el Estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quieren que los gobernadores hagan el ajuste a como dé lugar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la gente tiene derecho a morirse, si no aspiran, si no llegan, también está el derecho a morirse.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la justicia social en esta lógica de sacarle a unos compulsivamente para darles a otros, a criterio del funcionario de turno, ha logrado en la Argentina, ... un país muy pobre",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivimos épocas de tanta injusticia, casi digo de intensa injusticia, pocos ricos cada vez más poderosos y millones de pobres negados y descartados.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4367
+}

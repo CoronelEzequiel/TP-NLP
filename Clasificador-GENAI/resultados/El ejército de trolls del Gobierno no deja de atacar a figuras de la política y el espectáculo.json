@@ -1,0 +1,46 @@
+{
+  "texto_id": "apertura_20_de_marzo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.189,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esta frase nos sirve como disparador para pensar en la centralidad que tienen las redes sociales en la actualidad y cómo el gobierno de Javier Milei las utiliza en la construcción de un enemigo, su denostación y ataque permanente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto tiene el objetivo de mostrar que la mayoría de la gente está con el gobierno e intenta que este usuario crítico a la gestión de Milei tienda a dejar de subir contenido opositor, más que a subir, o además de subir, a producir.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es interesante que, a diferencia del troll center del macrismo, el gobierno no oculta su accionar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei: \"Estamos publicando las fotos de los traidores, textualmente. Estamos publicando aquellos diputados que votaron a favor y que votaron en contra, y quiénes son los que traicionaron a sus votantes, diciendo que estaban a favor del cambio, que en realidad son 'kischneristas' de buenos modales, digamos, o sea, son lobos con piel de cordero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando fue la discusión entre el presidente y el gobernador de Chubut, Ignacio Torres, por la coparticipación, el troll de Milei compartió una imagen de un joven con síndrome de Down, burlándose y comparándolo con el gobernador de la provincia.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ejemplo es la burla, el odio, el insulto\".",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Llamamos a la apertura de hoy \"Milei y la nueva inquisición\". Es una forma de terrorismo digital que busca disciplinar a la sociedad y producir el escarnio de aquellas personas que producen contenido que no están de acuerdo con la idea del mundo que tienen los libertarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3232
+}

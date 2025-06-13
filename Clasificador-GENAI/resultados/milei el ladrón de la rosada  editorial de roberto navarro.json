@@ -1,0 +1,136 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.026,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Durante la campaña, Milei afirmó que venía a \"destruir el Estado\", pero la gente no comprendió que el Estado son los hospitales, las escuelas, las universidades y el sistema de jubilaciones.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de Javier Milei está atacando a la sociedad, quitándole derechos básicos, alegando falta de recursos.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, sí hay dinero; se destinan recursos a beneficiar a los empresarios más ricos del país.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei le roba a los trabajadores para favorecer a los empresarios.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Redujo las jubilaciones, vetó la recomposición salarial del Congreso y eliminó gran parte de los medicamentos para jubilados.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recortó el presupuesto en educación y el financiamiento universitario.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pobreza crece, los medicamentos son cada vez más caros y, debido a la desregulación de las prepagas, muchas personas se vuelcan al sistema de salud pública, colapsándolo.",
+      "score": 0.04,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos traidores al pueblo están dispuestos a aprobarlo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Observemos las tomas estudiantiles en lucha: ¡abajo el veto de la ley de financiamiento educativo!",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La excusa de que no hay dinero es falsa.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les demostraremos que sí hay dinero y responderemos de dónde lo obtendremos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La lucha actual en las universidades, con el Congreso vallado para proteger a los traidores y los estudiantes afuera, asciende a 738.000 millones de pesos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para que los EOS no paguen IVA, las universidades se quedan sin fondos.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La diferencia es clara: 738.000 millones de pesos es lo que se discute hoy, y los traidores dicen que no hay dinero.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le regalaron a los más ricos 2.400 millones de pesos que no pagarán en impuestos este año.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los jubilados pasan hambre para que los ricos paguen menos impuestos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se están burlando de la población.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras se regalan miles de millones a los empresarios, se cierran los hospitales.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, en lo que va de su mandato, ha empobrecido a la misma cantidad de personas que Macri y Fernández.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se le regalaron 30 veces esa cantidad a las empresas de economía del conocimiento.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Busca Milei que el país explote?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dijo que vinieron a achicar el Estado para engrosar los bolsillos de los ricos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se cierran hospitales y se desfinancian universidades para enriquecer a los ricos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente está condenada a la pobreza mientras se reparte el dinero entre los más ricos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un ladrón en la Rosada que le roba a los trabajadores para favorecer a los ricos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3881
+}

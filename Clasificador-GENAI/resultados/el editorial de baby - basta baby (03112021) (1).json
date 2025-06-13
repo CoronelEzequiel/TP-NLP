@@ -1,0 +1,36 @@
+{
+  "texto_id": "¿Como le va?",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.846,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Ustedes hablarán del periodismo mercenario, porque yo, cuando el kirchnerismo dice que los periodistas son un virus, que son fachos, que yo creo que están hablando de C5N, que están hablando de Radio 10, de algunos periodistas, o de Navarro, yo creo que cuando hablan del mal periodismo, están hablando de esa gente que hace operaciones siniestras, como el \"pupup\" y todo esto, para beneficiar a los delincuentes del gobierno.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Creo que la pandemia son ustedes, que tienen 120.000 muertos por afanarse las vacunas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Primero aclaren los ilícitos de la jefa. Después devuélvannos la guita que se afanaron. Y ya que está, tráiganos la vacuna que se robaron.",
+      "score": 0.98,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero nosotros no tergiversamos nada porque somos... Así le explicaba una periodista en el pasillo. Tenemos cualquier cosa menos maldad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso le digo, realmente, querido compañero, que se limpien la boca, porque si algo tenemos los periodistas, es el laburo de 30 años, 30 años, dinastía de periodistas, el padre de la señora, la señora.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2887
+}

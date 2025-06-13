@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.23,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por eso digo, no le bajen el precio a Lucas, porque tiene antecedentes y una vida difícil.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las pericias psiquiátricas (fojas…), se concluye que Lucas Jorge Benvenuto no presenta indicadores de fabulación y se destaca que el damnificado podría haber sido inducido a participar en situaciones neurosexuales prematuras para su edad.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una locura lo que les voy a mostrar, los indignará más. Un tipo condenado se mete en el tema de Jey Mammón, donde éste lo denunció.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto también plantea la cuestión de qué hacer con esta gente. ¿Son recuperables? ¿Siguen siendo depredadores? ¿Es un peligro que estén libres?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a mostrarles cómo confirmamos que es él, de una manera… yo diría indetectable para un ojo inexperto, pero nosotros nos metimos ahí.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1633
+}

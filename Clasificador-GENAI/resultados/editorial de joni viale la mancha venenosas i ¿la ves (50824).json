@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.804,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto, típico progre que dice una cosa y hace otra, ¿viste?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Crearon un ministerio de la mujer y parece que habrían tenido un presidente golpeador.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ustedes eligieron a un delincuente vicepresidente como Boudou.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes eligieron a Alperovich para Tucumán. Un violador.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No se hagan los distraídos, no vale.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El mismo papel ridículo hizo Cristina en las últimas horas.",
+      "score": 0.88,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Opiniones libres, hechos sagrados.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4249
+}

@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Horacio Rodríguez Larreta ayer, en un programa de televisión junto con Luis Novaresio, en La Nación Más, confesó que estaba enamorado y que se iba a volver a unir en pareja después de haberse separado hace más de un año.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "desde mi perspectiva, al anunciar que está en pareja y oficializarla, creo que comenzó y lanzó su campaña presidencial en serio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Patricia Bullrich acaba de declarar que entrará en Villa Mascardi de manera evidente",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "si la economía empeora y la sensación de bronca y malestar crece, es probable que la sociedad se incline por el que represente más al Dios de la guerra. En ese caso, vale también para el frente de todos, probablemente alguien más cercano a lo que representa, o a ella misma, a Cristina Kirchner.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4014
+}

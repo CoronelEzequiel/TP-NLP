@@ -1,0 +1,46 @@
+{
+  "texto_id": "Viviana Con Vos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay que laburar, ¿no es cierto? No vamos a dejar de laburar, hay que laburar, hay que mantener a toda la gente que no está laburando.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta editorial se llama \"Se Ríen de Nosotros\" porque vivimos en un país que fabrica analfabetos, vivimos en un país que fabrica pobres, vivimos en un país en el que los políticos se ríen de nosotros, en nuestra cara.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicen una cosa y hacen otra. Y siempre impuestos, impuestos, impuestos. Nosotros les pagamos el sueldo y los vicios, los asesores, los gastos reservados, los gastos de representación, los viáticos. Y lo que se les ocurra a ellos, porque ellos son los poderosos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argentinos necesitamos una revolución moral, señores. Moral. Basta de inmorales. Basta de irrespetuosos con la nuestra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina necesita justicia de verdad, no fallos con bases partidarias, ideológicas. La ley debe ser justa y clara.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mérito, esfuerzo y trabajo. ¿Cómo no emocionarse con un tipo que la rompió toda, que es millonario, que se la ganó rompiéndose los tobillos? Contando cómo le preparaba a su padre el mate a la mañana y le lustraba los zapatos para que fuera a trabajar. Esta es la Argentina del mérito.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Al kilo costillar para selfie\". O sea, estamos tan mal, estamos tan mal, que la gente no ve las redes sociales, con mirá el asado que me clavo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8865
+}

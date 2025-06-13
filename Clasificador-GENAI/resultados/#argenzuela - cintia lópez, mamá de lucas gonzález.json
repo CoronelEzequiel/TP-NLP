@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.048,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cynthia López, madre de Lucas González, relata con profundo dolor la muerte de su hijo a manos de policías de la Ciudad de Buenos Aires.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su lucha por la justicia es inclaudicable, exigiendo cadena perpetua para los responsables.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cynthia describe la brutalidad del asesinato, la posterior manipulación de la escena del crimen y el racismo evidente por parte de los policías involucrados.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La entrevista muestra la lucha de una madre por encontrar paz y justicia, no solo para sí misma sino también por el bienestar de sus otros dos hijos, que también sufren la pérdida de su hermano.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su testimonio es un llamado a la justicia y una condena al accionar de los policías responsables.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El anhelo de Cynthia es que se haga justicia por Lucas y que su memoria no quede impune.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1066
+}

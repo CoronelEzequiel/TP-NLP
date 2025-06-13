@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_persico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.133,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La gente está muy preocupada por la situación económica. No es un tema periférico; la principal preocupación es la búsqueda de trabajo y la subsistencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Buscamos la mejor alternativa, y Alberto Fernández, sea cual sea su rol, formará parte del proceso. La discusión se centra en el armado de la lista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veo un ataque generalizado contra los movimientos populares. La oposición está presentando reiteradamente denuncias sin fundamento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso debemos construir un espacio de resistencia que incluya a la CGT, las CTA y los movimientos sociales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la época de Perón, el 80% de los trabajadores estaban registrados, y la pobreza se mantenía por debajo de los dos dígitos. Hoy, solo el 25% está registrado. La registración de los trabajadores es fundamental para mejorar la situación económica.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veo una insatisfacción democrática generalizada, una falta de resolución de problemas de fondo. Esto ha generado un 50% de pobreza, una situación insostenible.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1816
+}

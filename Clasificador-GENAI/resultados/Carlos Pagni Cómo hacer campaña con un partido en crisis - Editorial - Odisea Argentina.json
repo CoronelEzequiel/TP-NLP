@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En el marco de esa incertidumbre, en los últimos días, e incluso en el día de hoy, aparecen algunas ventajas para Macri o algunos indicios, algunos síntomas de que la situación de Macri ha mejorado en el último tiempo, y esa mejora, en el caso de Macri, no puede sino estar ligada a la situación económica.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gran adversario de Macri no es tanto la fórmula Alberto Fernández-Cristina Kirchner, cuanto la situación económica, y eso explica muchísimo el argumento, la discursividad, las estrategias, justamente, de Alberto Fernández.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que estamos viendo es que la campaña electoral y las estrategias electorales se meten ya con variables económicas centrales para este juego.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es evidente que Cristina Kirchner postula a Alberto Fernández, más allá de las mil razones que puede haber tenido, inclusive algunas de carácter personal y hasta emocional; lo postula porque supone que Alberto Fernández, que fue muy crítico de ella una vez que ella lo saca del gobierno, como suele pasar con los políticos que advierten una cantidad de errores cuando los dejan afuera, al elegir a ese candidato y se está tratando de tender un puente hacia aquellos que no la quieren o no la votarían.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6636
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "La Universidad Nacional del Chaco Austral produce 4000 repelentes diarios",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.164,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esto demuestra la importancia de la educación pública y la capacidad de la universidad argentina para producir y distribuir productos que llegan al consumidor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El precio sugerido es la mitad del precio de mercado. Mantenemos nuestros costos bajos para evitar la especulación y asegurar el acceso de la comunidad a un repelente a un precio accesible, especialmente en momentos de necesidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entiendo que este tipo de colaboración público-pública, entre universidades públicas y municipios, independientemente de su color político, es una solución eficiente en situaciones de emergencia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es fundamental destacar la importancia del sistema público y mostrar el funcionamiento del sistema universitario argentino.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es incomprensible la falta de apoyo en este caso.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habría que analizar las posibilidades, existen diferentes tipos de sociedades mixtas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esperamos que el Estado Nacional invierta en la educación pública.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2120
+}

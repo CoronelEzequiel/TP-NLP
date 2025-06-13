@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Necesitamos recuperar el salario perdido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto ha generado una situación de extrema vulnerabilidad, con policías que no pueden afrontar el alquiler y dependen de comedores comunitarios para alimentar a sus hijos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No pedimos lujos, solo que los policías puedan cubrir la canasta básica de sus familias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se han sumado docentes y médicos, que atraviesan una situación similar; por ejemplo, los médicos paran con un básico de 500.000 pesos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pedimos urgentemente que se atienda esta grave situación alimentaria.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aprovecho para expresar el agradecimiento a la ciudadanía por el apoyo al servicio que prestamos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1413
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.842,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei era y es extremadamente frágil.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Del otro lado estaba Goliat, un peronismo unido, muy difícil de vencer por el clientelismo histórico y por la cantidad de dinero que repartió Sergio Massa.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Maduro tuvo la \"cara dura\" de comparar a Milei con Hitler, Videla o Pinochet, un verdadero delincuente que no entiende nada y que banaliza tanto el holocausto como las dictaduras latinoamericanas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milei expresó en diálogo nuevo que va más allá del voto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay esperanza de que se haga justicia, por ejemplo, y que Cristina vaya presa como merece.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Muchos burócratas, extorsionadores del mundo sindical y piquetero van a tener que pensar muy bien si se les ocurre seguir con bloqueos y patotas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2530
+}

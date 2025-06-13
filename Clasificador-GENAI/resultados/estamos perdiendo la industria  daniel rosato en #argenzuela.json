@@ -1,0 +1,41 @@
+{
+  "texto_id": "Apertura de importaciones el impacto en las pymes argentinas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La apertura de importaciones está generando una profunda preocupación en el sector de las pequeñas y medianas empresas (pymes) argentinas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rosato denuncia la entrada de productos chinos a precios de dumping, afectando a sectores como el textil, el calzado, la fabricación de bienes de capital, el plástico, la madera, la fabricación de muebles, la industria del papel y la química.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de atención a los reclamos de la industria nacional y la priorización de otros objetivos, como la baja de la inflación a través de una recesión, están generando un escenario cada vez más crítico.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señaló la necesidad de un enfoque estadista que contemple la realidad de la economía real y las consecuencias sociales de la pérdida de empleos industriales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Propuso la implementación de medidas como la reducción de la presión impositiva basada en costos, la facilitación de créditos blandos a la industria, y la atención a las dificultades para acceder a financiamiento bancario (con tasas de interés del 30%, en contraste con las tasas bajas que se anuncian).",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La entrevista concluyó con la reiteración de la gravedad de la situación para las pymes argentinas y la necesidad de una urgente intervención gubernamental.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1486
+}

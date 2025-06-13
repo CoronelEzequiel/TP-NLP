@@ -1,0 +1,26 @@
+{
+  "texto_id": "cual_es_tu_gracia",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se trata de un show de talentos en Argenzuela.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "He apoyado a Guaidó en Venezuela, mi Venezuela.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos en vivo en Radio 10. Facebook.com.ar/radio10. Twitter: @Radio10. Instagram: @Radio10.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1393
+}

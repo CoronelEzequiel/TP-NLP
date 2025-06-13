@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_doman",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La gente cree que somos millonarios, pero vivimos al día.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No soy un tipo que cobra sueldo y no se lo paga a la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me contaron que quisieron frenar esa denuncia, y la presenté un viernes a las 8 de la mañana para que no pudieran frenarla.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No robé, no tapé nada, no abusé de nada.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si buscaban eso… sí.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me encanta lo de Qatar, porque cada vez que falta plata en Argentina, hablan de Qatar.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2828
+}

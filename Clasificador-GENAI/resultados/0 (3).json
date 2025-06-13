@@ -1,0 +1,41 @@
+{
+  "texto_id": "El diputado nacional por Santa Fe, Esteban Paulón",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.108,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Paulón describió el discurso del ministro como absolutamente retrógrado y ajeno a la condición humana, citando ejemplos de discriminación hacia jubilados, personas LGTB+ y mujeres víctimas de violencia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ministro, según Paulón, ofreció un discurso similar a un panfleto de Agustín Laje y Nicolás Márquez, evitando responder preguntas sobre la eliminación del Ministerio de las Mujeres y el INADI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Paulón cuestionó la falta de respuesta del ministro sobre el origen del INADI, tras los atentados a la AMIA, recordando la implicación del ministro en el encubrimiento del caso.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Paulón comparó esta situación con la presión política sufrida por él mismo durante la votación de una ley, en la que fue acusado falsamente de pedofilia a través de redes sociales, una maniobra que calificó como un intento de condicionar su voto.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El diputado afirmó que el discurso del ministro fue incendiario, discriminatorio y antiliberal, contradiciendo su supuesta defensa de la libertad individual.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, Paulón concluyó que el gobierno y el ministro son mediocres y que la sociedad democrática no merece un ministro de Justicia como Cuño Oliva Rona.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1419
+}

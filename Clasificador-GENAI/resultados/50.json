@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto no te baja ninguna intención de presentarte en las elecciones; esto está firme.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo lo que estoy haciendo es cuidar a mi club; yo no hago otra cosa que cuidar a mi club.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, pero se están volviendo a meter los mismos, los mismos que lo usaron políticamente se están volviendo a meter.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Acá la gente tiene que elegir entre Riquelme y Macri.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "seguimos siendo hinchas de Boca, ¿o dejamos que esta gente use el club para hacer política?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1285
+}

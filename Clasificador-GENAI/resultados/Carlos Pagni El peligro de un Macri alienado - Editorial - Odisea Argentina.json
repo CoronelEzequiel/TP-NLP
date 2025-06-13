@@ -1,0 +1,26 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Las elecciones de ayer produjeron un resultado inesperado, inesperado para quienes fueron los beneficiarios de ese resultado, el kirchnerismo, con **Alberto Fernández** y **Cristina Fernández de Kirchner** a la cabeza, mucho más inesperado todavía para quienes apostaban a la continuidad del gobierno de **Macri**, con un resultado, si no vencedor para **Macri**, por lo menos que lo dejara **Macri** en condiciones de seguir compitiendo con éxito para la reelección en las elecciones de octubre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy **Macri** dijo, de un modo u otro, que el problema que está viviendo hoy la Argentina es que la gente se equivocó al votar, lo dijo de otra manera, no llegó a decir esto, dijo, bueno, lo que pasa es que la gente eligió a un grupo de representantes encabezados por **Alberto Fernández** y **Cristina Fernández de Kirchner** que, a los mercados, él dijo, al mundo no le resultan confiables.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Habrá que ver si **Fernández** logra, una vez que lo saque a **Macri** del poder, que le convaliden todo el resto del contrato.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6626
+}

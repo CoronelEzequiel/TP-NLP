@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_debate",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.233,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto se debe a la intención de dolarización de sectores que poseían muchos pesos, y dos de los tres candidatos con posibilidades electorales, han impulsado esta idea.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina creció, se estatizaron las AFJP y se tomaron decisiones que mejoraron la vida de los argentinos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por lo tanto, debemos insistir diariamente en la tarea, a nuestro juicio, dañina que está llevando adelante Javier Milei contra la moneda nacional, contra el peso, contra la posibilidad de que Argentina decida sobre su política monetaria, sobre qué sectores promueve, sobre el valor de nuestros salarios y jubilaciones, y evitar entregar el control de nuestra economía a otro país que emite otra moneda.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ante una situación similar, el peronismo intentó frenar la corrida y lo logró.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí es peligrosísimo. No sé cómo encarar un proceso así llegando a la elección siendo ministro. Creo que es gravísimo porque, por un voto más, se está arriesgando el ahorro de la gente.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Está alentando una corrida, generando pobreza, aumento de precios, angustia y estrés.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2162
+}

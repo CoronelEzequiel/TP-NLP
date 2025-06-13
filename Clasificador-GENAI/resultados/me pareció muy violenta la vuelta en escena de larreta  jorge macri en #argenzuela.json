@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_a_jorge_macri",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "A ver, a mí me parece que cada uno de nosotros tiene responsabilidades y nos tenemos que hacer cargo del rol que tenemos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo lo que quiero es que Kicillof se haga cargo de la seguridad de la provincia de Buenos Aires, más que reemplazarlo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que, y en esto coincido con el presidente, la provincia de Buenos Aires carece de una política de seguridad integrada desde hace años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora, ¿qué creo que tiene que pasar? Hay que exigirle al gobernador que cumpla con sus obligaciones y, en la medida de lo posible, tratar de trabajar todos de forma más coordinada.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no creo que sea solamente un tema de recursos, es un tema primero de decisión política.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso para mí fue importante desdoblarla, porque si no íbamos a estar discutiendo la inflación. La inflación es tarea del presidente, no mía.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo quiero discutir la línea F, los manteros, si van a devolver la plata que se debe de la coparticipación, el puerto de la ciudad, a que me encantaría que como en otras provincias la ciudad pueda participar respecto de qué se hace y cómo se explota el puerto de la ciudad o la terminal de ómnibus, o que la ciudad pueda tener su propia IGJ, que es donde se registran las sociedades anónimas, que podría ser mucho más moderna y más fácil y más cómoda.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3864
+}

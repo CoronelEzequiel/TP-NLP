@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_a_ophelia_fernandez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.107,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En Jujuy, la represión y los reclamos al gobierno nacional, que también se ha pronunciado al respecto de la situación en la provincia gobernada por Gerardo Morales, han alcanzado niveles de impunidad extremos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me llamó la atención la sensación de una \"carrera hacia la derecha\", entre Patricia Bullrich y Javier Milei, una competencia por ver quién es más represivo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La represión se convierte en una forma gráfica de dirimir esta disputa interna, sin importar las consecuencias para la población.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, la principal líder de nuestro espacio, se encuentra en el blanco de una persecución judicial que la neutraliza políticamente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creemos que hay que abrir el debate, pero todo está ocurriendo en el último minuto.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La ESI es un tema utilizado para asustar a la sociedad, desviando la atención de otros temas importantes. Es una batalla simbólica en la competencia por quién es más de derecha.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ESI es fundamental para la protección de la infancia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1727
+}

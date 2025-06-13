@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_corte",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.163,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hoy comenzó en el Congreso el proceso de remoción de los cuatro miembros de la Corte Suprema.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yonto enfatizó que la falta de prioridad en las causas de lesa humanidad no se debe a su importancia, sino a su antigüedad, mientras que se priorizan casos con mayor repercusión mediática, como el de Fernando Báez Sosa, que tuvo un juicio oral rápido, en contraste con las audiencias semanales en megacausas de lesa humanidad, con cientos de testigos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La preocupación real de la Corte y el resto del poder judicial es garantizar el triunfo electoral de los candidatos afines al poder económico que controla la justicia y otros sectores clave de la economía (alimentos, alquileres, medicamentos, transporte, tarifas).",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los jueces son meros ejecutores de las políticas de este poder económico.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1524
+}

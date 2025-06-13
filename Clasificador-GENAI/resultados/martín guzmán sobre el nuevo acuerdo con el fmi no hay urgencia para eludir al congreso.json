@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_fmi",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿Qué urgencia hay? ¿Qué apuro existe para solicitar este préstamo al Fondo Monetario Internacional (FMI)? Desde el punto de vista procedimental, no hay urgencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, al realizar una acción que implica que el pueblo argentino se hará cargo de una deuda que financia, como veremos luego,  enormes retornos para unos pocos durante los últimos quince meses, no pueden dar explicaciones y eluden al Congreso, incumpliendo una ley vigente que establece que todo acuerdo con el FMI requiere una ley especial del Congreso de la Nación.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿A quién se está rescatando? En el préstamo de 2018 a Macri, el FMI entregó dólares que fueron vendidos a quienes realizaban operaciones de bicicleta financiera en pesos. ¿Quienes son los beneficiarios ahora?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI es una institución política que apoya las chances electorales del gobierno de Milei; es un préstamo de campaña.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le están dando dinero al mismo que dilapidó los 45.000 millones de dólares del FMI en 2018, beneficiando a capitales especulativos y pagando deudas insostenibles.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2459
+}

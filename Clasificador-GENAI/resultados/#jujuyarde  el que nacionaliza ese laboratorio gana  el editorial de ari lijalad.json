@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.113,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El tema más importante que debería ocupar la atención del Gobierno Nacional es la situación en Jujuy, donde el gobierno de Gerardo Morales ejerce una represión feroz.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Morales y sus aliados acusan a estas personas de viajar a Jujuy para fomentar las protestas, las cuales se originan en los salarios de miseria de los docentes y en la nueva Constitución provincial, con media sanción, que elimina derechos constitucionales, incluyendo el derecho a la protesta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta situación es sumamente preocupante. Jujuy, y más ampliamente el noroeste argentino (NOA), suele funcionar como un laboratorio para políticas represivas y económicas que luego se implementan a nivel nacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este modelo represivo y económico, implementado en 1966 en Jujuy y Tucumán, se replicó a nivel nacional en 1976.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En 2015, asume Gerardo Morales y en enero de 2016 detiene a Milagro Sala.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación actual muestra la misma dinámica: los aliados de Morales, como Horacio Rodríguez Larreta, Patricia Bullrich y Miguel Ángel Pichetto (Juntos por el Cambio), lo apoyan inmediatamente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de pronunciamiento del presidente Alberto Fernández es llamativa, considerando sus declaraciones anteriores.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La nacionalización de este conflicto es crucial. La pregunta es si se nacionalizará la represión o su freno. El laboratorio de Jujuy vuelve a operar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1632
+}

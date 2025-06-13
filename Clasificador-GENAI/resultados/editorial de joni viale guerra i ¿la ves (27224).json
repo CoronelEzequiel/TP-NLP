@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.746,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto es muy grave, eh.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué pasa si en los próximos días empieza a faltar nafta en la Argentina porque los gobernadores están enojados por la caja?",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La misma extorsión que hizo hoy el gobernador de la provincia de Buenos Aires, Axel Kicillof.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobernador reconoce que fantasea con cerrar los puertos y las aduanas interiores de la provincia.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Están locos.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y ahora viene a amenazar con cerrar los puertos de la provincia para joder a Milei o a la gente, te diría.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque los tarados son los que piensan que el Estado tiene que ser estúpido y comprar todo según la ley de la propia YPF, respetando su estatuto, si no, ¿dónde está la seguridad jurídica?",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El mismo que trataba, yo me acuerdo, de tarados a los que querían frenar esa expropiación de YPF.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei domina la agenda pública confrontando a la casta.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y después va y le dice \"Pautero y Llorón\" al gobernador de Córdoba, Martín Llaryora.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después va y dice que, a su compañera de su propio espacio, Carolina Píparo, es una traidora.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milei vive explotando política hábilmente, con mucha habilidad, la bronca, el hartazgo, el resentimiento de la gente con la política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y este tren fantasma está buscando volver de manera desesperada.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Señores, algo huele a podrido en Argentina.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4744
+}

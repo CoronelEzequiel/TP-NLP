@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Macri está pesificado, baja con el peso, sube con el peso, se estabiliza el peso, se estabiliza Macri, eventualmente repunta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Kicillof es comunista",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el arreglo de Massa con Cristina es una especie de regresión, como también parece una regresión la de Alberto Fernández.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Apareció la fórmula que le va a hablar a ese electorado y que le va a dar una salida frente al desencanto, sobre todo por la política económica de Macri, o es el abrazo entre dos náufragos?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que Macri logra, en esa foto, reforzar la disciplina interna de Cambiemos y tener a todos adentro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6184
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "avion_irani",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La experiencia argentina es que vienen a ponerte una bomba, entonces no quiero de ninguna manera sembrar incertidumbres, pero estos países son países muy complejos, de los que Argentina tendría que estar muy lejos, absolutamente lejos, especialmente Irán, que hay en la Argentina un antecedente realmente muy complicado que involucra a una organización terrorista que estaba relacionada y financiada por Irán, que es la AMIA.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El avión es una vergüenza, una vergüenza, una muestra más de inoperancia del gobierno, una muestra más de lo que ha sido la contradicción de nuestra política exterior.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se quedaron absolutamente callados, no dijeron nada. Solo saltó esto cuando lo dijimos desde la oposición y transcurrimos. Y segundo, cuando el avión se ha rechazado y no lo dejan entrar al espacio aéreo uruguayo. Tercer punto, ¿qué hicieron con esas alertas? No les prestaron atención, pusieron en peligro a toda la nación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al perro Coco no lo dejan entrar, pero dejamos entrar a los terroristas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo veo muy difícil que este gobierno que ha apoyado a Venezuela, a Irán, a Cuba, a Rusia, cambie su lugar en el mundo desde el punto de vista geopolítico. El lugar equivocado que eligió desde el principio, eligió estar con dictadores, eligió estar lejos de las democracias occidentales, eligió estar lejos de la libertad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "es un estatuto horrible, preocupante para los argentinos en general y ahí sí te hablo como judío. Yo llevo a mis hijos cada mañana a instituciones de la comunidad judía y tenemos pilotes en la puerta, tenemos que estar en seguridad en la puerta para cuidarnos de los iraníes, pero evidentemente porque no confiamos en nuestra fuerza de seguridad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3299
+}

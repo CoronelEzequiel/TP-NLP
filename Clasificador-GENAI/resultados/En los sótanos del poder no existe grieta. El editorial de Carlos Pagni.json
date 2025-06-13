@@ -1,0 +1,36 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hablan de clases dirigentes extractivas, es decir, élites, clases políticas, dirigencias, que gobiernan, ejercen el poder de tal manera que en vez de desarrollar a las sociedades, de un modo u otro, no solamente desde el punto de vista material económico, sino desde el punto de vista de las capacidades, de las libertades, de la creatividad, les \"chupan la sangre\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si uno observa, con un esfuerzo de observación, si trata de investigar los sótanos del poder en la Argentina de los últimos 20 años, empieza a advertir que entre facciones que se enfrentan en la superficie muy dramáticamente, con mucha estridencia, sin embargo, en el sótano lo que hay son continuidades y pactos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Curiosamente, esos intendentes del PRO son intendentes no alineados con Vidal, obviamente, sino alineados con Larreta, tanto que uno de ellos, Jorge Macri, trabaja ahora en el gobierno de Larreta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy hay un escándalo que festeja el kirchnerismo, por supuesto, que se ha hecho en el mundo del espionaje.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso del impuesto a los sellos, hay una cláusula en el pacto fiscal que dice que la máxima alícuota va a alcanzar a cualquier actividad, menos al juego.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7534
+}

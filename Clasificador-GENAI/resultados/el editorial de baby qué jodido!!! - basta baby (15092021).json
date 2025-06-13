@@ -1,0 +1,41 @@
+{
+  "texto_id": "archivo_de_log_correcciones",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.317,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mañana la agrupación Evita va a la plaza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina perdió la elección…",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si no fuera por Cristina…",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La cita de todos los malos de Argentina es la que le hicieron a Cristina…",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No queremos más comisión de moneda, una inflación estanteja…",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina no la creen…",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2026
+}

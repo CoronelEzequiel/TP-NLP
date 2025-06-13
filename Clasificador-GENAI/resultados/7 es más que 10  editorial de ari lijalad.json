@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.352,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Básicamente, ajuste, desregulación y liberalización para cualquier tipo de inversión extranjera.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, el presidente extorsiona una vez más a los gobernadores para que luego avalen un programa de gobierno que culminó con el estallido del 2001.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A eso llaman equilibrio, ese supuesto éxito, equivale a equilibrar la economía de una familia cortando la comida de los chicos y los medicamentos de los abuelos. Eso no es equilibrio, es una masacre social.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El punto 1 dice la inviolabilidad de la propiedad privada, el Consenso de Washington decía seguridad jurídica para los derechos de propiedad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los 7 puntos que planteó Kicillof son claramente más que los 10 puntos de saqueo, de miserias planificadas, de caos planificado y de crueldad planificada que Milei quiere que los gobernadores le firmen.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2544
+}

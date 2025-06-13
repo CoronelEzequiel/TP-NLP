@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El mediocre acuerdo con el Fondo es suficiente señal de transitoriedad y carencias.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque, si algo caracterizó a la administración actual, no fue la gestión sino el bloqueo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La primera es que, para el kirchnerismo duro, **Alberto** es un _títere_.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno les pertenece a ellos y nunca aceptaron el acuerdo con el organismo de crédito.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un presidente que no puede hacer es todo lo que **Alberto Fernández** ha configurado de sí mismo.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El cristinismo sigue teniendo claras sus premisas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nada de esto les sería tan fácil si **Alberto Fernández** tuviera tono y sustancialidad.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si acaso no puede irse por su imperiosa necesidad de mantener fueros y cajas, su permanencia es más que intención de unidad, un cerrojo al propio gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un presidente sitiado por su socia tiembla y duda en cada paso, mientras el kirchnerismo es brutal y voraz.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2345
+}

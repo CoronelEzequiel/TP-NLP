@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.614,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo decía hoy en la radio que a esta altura, después de tantos años – y es mérito, la verdad es mérito – el gobierno anterior de Cristina Fernández de Kirchner, de Alberto Fernández y de Mauricio Macri, hizo docencia.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mañana es el Día de la Mujer, no de los pañuelos verdes, no de la militancia a favor de Cristina, el día de mi mamá, el día de mi hija, el día de mi mujer, el día de ustedes, el día de todas las mujeres que nos parieron, que nos criaron, que nos cuidaron.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero me extrañó que estos cuatro hijos de puta no tengan la idea de que lo que estaban haciendo era una porquería, un delito gravísimo, si es verdad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo pensé que no iba a escuchar nada más de eso. Entonces también pensaba que poco sirvió el Ministerio de la Mujer, el derecho de igualdad, porque no enseñaron nada.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y la verdad que yo pensé cuando ganó Javier Milei, que voté – voté primero a Patricia Bullrich, siempre lo explico, y después por \"recantación\", voté a Milei – pensé que íbamos a empezar una Argentina de paz, de tranquilidad.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ojo que Rosario es una batalla que hay que empezar a darla, porque vos podés entrar como Bukele, pero están afuera los armados, que se van a vengar con inocentes.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero yo creo que mañana habría que mandar 15 mil gendarmes y no dejar uno en pie, porque además estos tipos no siguen con carajos. O sea, no dejar uno en pie.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2481
+}

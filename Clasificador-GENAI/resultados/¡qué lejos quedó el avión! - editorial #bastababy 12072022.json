@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina, con toda la guita que hizo, todas las carteras que tiene, todas las \"moscas\" que tiene... Vos fijate qué vergüenza.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una oposición que no está a la altura de las circunstancias, una oposición que se cree que son todos figurones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a tener de nuevo de presidente a Cristina, porque sabés que ellos van a tener la billetera, que van a salir a imprimir bonos de contribución, que son los billetes de mil, y lo van a repartir a lo loco.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos peor que Venezuela, porque Venezuela está haciendo negocios con Estados Unidos, con el petróleo, y está queriendo Maduro \"ponerse en la vida de los buenos\" para que no los fusilen.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el Papa se radicalizó zurdo, pero bien zurdo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros vivimos de una forma horrible e indigna.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vamos a ver un país sin fundamento y sin futuro.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les digo todo esto porque supuestamente, o este año o el que viene, nos van a echar a todos, no del canal, sino del país, porque hasta el Papa le echa la culpa al periodismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Seguimos protegiendo a este crisol de razas, pero la diferencia es el crisol de razas: que los crisoles son un tamiz.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estos vienen no a \"fanaear\" o a vender merca o a \"masijar\" gente... no todos, por eso digo, no todos, pero una gran mayoría sí.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3900
+}

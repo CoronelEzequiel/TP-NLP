@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El ex presidente de la nación, Mauricio Macri, apoyará explícitamente la candidatura de Patricia Bullrich.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que se juega nada menos que la dicotomía entre democracia republicana o nacional populismo chavista.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En cambio el equipo de Patricia al que hay que sumar a Mauricio Macri, Vidal, una franja del radicalismo que lidera Alfredo Cornejo, apuestan por un rumbo más liberal donde el Estado sea reducido solo a una proporción necesaria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso del lado de Patricia hay una mejor relación con López Murphy, Javier Milei y José Luis Espert y del lado de Horacio la mirada está puesta en peronistas, no kirchneristas o poco kirchneristas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La primera novedad es que Mauricio Macri anunciará que deja la neutralidad y que su candidata a presidenta de la nación es Patricia Bullrich.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1970
+}

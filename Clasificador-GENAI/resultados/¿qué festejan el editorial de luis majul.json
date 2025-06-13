@@ -1,0 +1,41 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "A ver, ¿qué festejan, que ganamos la Copa América de la inflación mensual, superando incluso a Venezuela, al país que cada día, desgraciadamente, nos estamos pareciendo más?",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que están fuera de contexto son ustedes, es la Vicepresidenta, Alberto, Massa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿No te acordás, Víctor Hugo, cómo arrancaste el programa del 29 de agosto de 2018, cuando el dólar estaba a 34 pesos?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo digo, a ver, que cada uno se haga cargo de lo que sucede, es una explicación probable esa, Javier.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo me acuerdo perfectamente, los varados en el exterior.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después toda su acción institucional es deplorable, todo lo que hizo en materia judicial es deplorable, toda su intromisión en la justicia es deplorable, lo quiso con el Consejo de la Magistratura y con la asignación de los jueces subrogantes, lo que inició con la llamada democratización de la justicia, todo eso es deplorable, lo que hizo con el tratado de Irán es deplorable, la muerte de Nisman es deplorable, la no resolución de la muerte es deplorable.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4947
+}

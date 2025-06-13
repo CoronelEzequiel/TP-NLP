@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.835,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Sobrevivimos un poquito más porque esto es comunismo para todos, señores.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno odia el capitalismo, para nosotros, no para ellos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que quieren es ver destruida la clase media, lo decimos todo el tiempo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos quieren convertir en Cuba o en Venezuela.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A esta señora y a este gobierno no les importan nuestros derechos y nuestras libertades. Son totalitarios.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos unos gobernantes muy HDP, pero mucho. Hacen mierda a las pymes sin parar. Las ahorcan, las ahogan. Yo siempre siento que ellos gozan, que disfrutan cuando una pyme se hace pelota.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos pidiendo que bajen la \"tibiesta\" porque nos van a llevar al comunismo estos soretes de mierda.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos repodridos de los políticos que no accionan. Disculpame, pero estamos repodridos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si tenemos suerte, va a ser una almacenera. Si tenemos mucha suerte, va a ser una buena almacenera.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este gobierno nos quiere aturdidos y, por momentos, siento que lo están logrando hasta que veo cómo se va despertando, gracias a Dios, el rebaño de pelotudos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8939
+}

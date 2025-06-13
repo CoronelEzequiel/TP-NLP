@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"La verdadera estafa no es la inflación, la verdadera estafa es el señoreaje, es la emisión monetaria la verdadera estafa.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"La deflación es algo sano, es decir, la deflación, de hecho, para los clásicos que se dedicaban a mirar todo el día qué estaba pasando en la economía y después escribían, para ellos no era un problema.\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El problema no está en la emisión que genera inflación, el problema está en la emisión misma. Si la economía creciera, habría que suspender igual la emisión, iríamos a la deflación, así como el exceso de emisión genera inflación, la contracción monetaria, el dejar muy pocos pesos en la economía, genera deflación. Y acá está la novedad, la deflación es buena, la deflación debe ser un objetivo.\"",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"...quiero cumplir con aquella idea de terminar con el Banco Central, que sería prohibirle la emisión monetaria y dejar constante una cantidad muy reducida de pesos.\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Gran parte del ajuste de Milei está basado en licuación de jubilaciones, suspensión de determinados pagos de prestaciones sociales... y licuación de los salarios del sector público, pero básicamente prestaciones sociales.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Si no hay una corte que inspire confianza, no hay recuperación económica.\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8871
+}

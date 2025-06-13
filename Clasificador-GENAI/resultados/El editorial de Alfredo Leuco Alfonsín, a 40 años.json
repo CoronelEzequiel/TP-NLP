@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "marchamos y luchamos para constituir la Unión Nacional, afianzar la justicia, consolidar la paz interior, proveer a la defensa común, promover el bienestar general y asegurar los beneficios de la libertad, para nosotros, para nuestra posteridad y para todos los hombres del mundo que quieran habitar el suelo argentino.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sergio Massa lo manchó al repetirlo con un oportunismo indigno de su falta de escrúpulos y de su cara de acero inoxidable.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Don Raúl, el padre de la democracia recuperada, caminando lento, como perdonando al viento, según la poesía emblemática del Día del Padre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alfonsín es mejor que la media de los presidentes que tuvimos. Y, si me apura, creo que es mejor que la media de la sociedad que tenemos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No fue por una cuestión de oportunismo, ni para cazar dinosaurios en el zoológico, como lo hicieron tardíamente los Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estos tiempos de cólera, corrupción y autoritarismo, su sabiduría podría iluminar el camino, para dejar en ridículo a un delirante desquiciado, como definió Alejandro Borensztein a Javier Milei, que colocaba la foto de Alfonsín en un \"pum-pim-bal\" para pegarle trompadas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Raúl Alfonsín fue el partero del período democrático más prolongado de toda la historia; siempre será un símbolo de la luz de las ideas que salieron del túnel de la muerte y el terrorismo de Estado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora los argentinos, los que amamos la democracia, los derechos humanos y la libertad, tenemos un lugar para ir a rezarle nuestros rezos laicos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3024
+}

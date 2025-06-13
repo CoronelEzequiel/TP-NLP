@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por ejemplo, la aparición de Mauricio Macri en el programa de Juan Avial.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerdan de los quilombos que tenía Macri con el helicóptero amarillo cuando gobernó?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero están en esa prisión, la única prisión real en Argentina: una prisión obligada por la sociedad.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En lugar de hablar de los delincuentes que nos gobiernan, de los que pasean para ver qué precio les hacen a las vacunas, de los que nos roban, quiero hablar de los que valen de verdad: los que dejaron su vida al país, y se quedaron mirando tras un vidrio, esperando que alguien los rescate.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Puede tener dignidad un país que no trae vacunas? ¿Un país con Cristina Kirchner como vicepresidenta?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Un sinvergüenza como Delia que dice que hay que traer a Javier Milei de ministro de Economía y a Milagros Sala?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2193
+}

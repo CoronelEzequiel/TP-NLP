@@ -1,0 +1,51 @@
+{
+  "texto_id": "Fernando Niembro te ayuda a pensar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.731,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por suerte, y hay que recordarlo porque es bastante peligroso, la teoría conspirativa, desesperada e interesada del vocero de Cristina Fernández de Kirchner, Andrés Larroque (¡por Dios, el vocero oficial!), responsabilizando a Mauricio Macri por la derrota contra Arabia Saudita, solo había permeado a esta altura en el núcleo duro del kirchnerismo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y recordemos también, por si alguien se olvidó en medio del Mundial, que su jefa, Cristina Fernández de Kirchner, es, junto a Alberto Fernández y Sergio Massa, la principal responsable del peor gobierno de la historia reciente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ayer estuve en una cena informal con gente… ¿cómo la podría definir? No fanática.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Corrupto, mafioso, estafador… los goles anulados no salieron de un repollo, sino del bar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la democracia tiene una deuda en materia de seguridad para sus ciudadanos. Ningún partido político lo ha podido solucionar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vamos de nuevo. Los delirios conspirativos, los de varios ideológicos, no son gratis. Los pagamos todos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Igual hay una noticia positiva para mí: cada vez hay menos argentinos dispuestos a dejarse engañar con los mismos trucos de siempre.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y por el otro, hay quienes, en su delirio cercano a Cristina Fernández de Kirchner, pretenden recrear una especie de 17 de Octubre trucho utilizando, de nuevo la utilización simbólica del populismo y los supuestos héroes, la imagen de la recientemente fallecida Hebe de Bonafini, quien en sus últimas declaraciones públicas soñó con organizar una pueblada grande para terminar con los jueces que podrían condenar por corrupta a Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 5491
+}

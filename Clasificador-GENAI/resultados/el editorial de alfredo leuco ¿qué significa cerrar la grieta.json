@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.898,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "¿Se puede cerrar la grieta con quienes se hicieron ultramillonarios en la función pública, como los Kirchner y sus socios? Yo no quiero cerrar ninguna grieta con ellos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los corruptos y los golpistas no pueden tener un lugar en la mesa junto a los dirigentes honrados y aquellos que proponen fortalecer una democracia republicana e inclusiva.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cerrar la grieta con los ladrones de Estado equivale a la impunidad y a la libertad para robar y enriquecerse ilícitamente.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que cerrar bien las puertas del calabozo para que paguen por sus delitos.",
+      "score": 0.93,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con los fanáticos autoritarios e integrantes del Ministerio de la Venganza no quiero cerrar ninguna grieta.",
+      "score": 0.94,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina debe reconstruirse sobre la base del respeto a la Constitución, la división de poderes y la ética republicana.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1953
+}

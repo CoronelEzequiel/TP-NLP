@@ -1,0 +1,46 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.514,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En la Argentina sigue su curso una campaña electoral que transcurre cada vez más en medio de un tembladeral, de una tormenta económica que se va acelerando, lo venimos registrando semana a semana y se registra, se acelera semana a semana.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La primera es cierta incapacidad para referirse a temas políticos. Una especie de economisismo extremo, de reduccionismo de todo a la idea del mercado, a la lógica del mercado, a las ideas económicas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Queda flotando siempre y quedó flotando en el debate de ayer, si existió o todavía existe un pacto, Milei Massa, es obvio que Massa pensó a Milei como un instrumento de su carrera hacia el poder, suponiendo que Milei era un factor de división del voto de Juntos por el Cambio, lo cual fue un consenso hasta las elecciones del 13 de agosto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En este contexto hay una perspectiva que alimenta esta corrida que es la idea de que a la larga va a haber una devaluación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La moneda peso debe ser repudiada porque la emiten los políticos, es decir, en su visión de las finanzas, en su visión de la dolarización, hay una ideología política que supone que el político que bueno o malo representa a la gente, no puede tener entre manos algo tan delicado como la moneda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Frente a esta situación tan delicada, que se vuelve más delicada por la acción de actores principales de la escena como Milei, el Banco Central que saca un comunicado que casi empeora la cosa, es un comunicado donde dice lo que uno ya sabe que no es, que es que el sistema financiero está sólido, digamos, hay una degradación del peso de la que el gobierno no se hace cargo, el comunicado se lo tendría que mandar Miguel Pesce a Sergio Massa, porque uno de los factores principales de esta situación es la pésima devaluación que llevó adelante Massa, y la pésima política fiscal que lleva adelante para comprar votos con emisión monetaria, este es el motor de esta crisis, que Milei acelera.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fíjense, está hablando del segundo trimestre del 2023 y la pobreza pasa de 38,7 a 41,5 en un gobierno peronista en el cual el candidato a presidente es el ministro de Economía que está a cargo de este problema, de esta economía.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8855
+}

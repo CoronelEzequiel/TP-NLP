@@ -1,0 +1,46 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.671,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por más que haya habido un bajón en los últimos días, sobre todo después de aquella experiencia de hace dos viernes con los jubilados que fueron a cobrar sus jubilaciones, más allá de que pueda haber habido una caída, Alberto Fernández tiene niveles de consideración popular sin precedentes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto Fernández, en las distintas entrevistas y manifestaciones que ha dado —la última con Jorge Fontevecchia— dice que no hay un dilema entre economía y salud, que no hay un dilema entre la cuarentena y la recesión, pero inmediatamente dice, como si lo hubiera, que a él no le importa cuántos puntos del PBI se derrumbe la economía si eso significa perder vidas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El contexto es que, como parte del discurso oficial alrededor de la pandemia y de la estrategia sanitaria del gobierno —la cuarentena, etcétera—, Argentina o el gobierno argentino decide —o, tal vez, es llevado por la inercia de operaciones anteriores o de antecedentes que estaban ahí fuera del momento en que empezó este problema— empezar a adquirir cierto grado de tensión diplomática con otros países.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un error pensar que las medidas económicas, la política económica, la ayuda económica, es un alivio frente a la cuarentena. No, es la condición de posibilidad de la cuarentena",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno mira cómo se piensan estas crisis en los países anglosajones, si uno mira, por ejemplo, la lógica de la ayuda del gobierno americano —no estoy hablando de Trump; estoy hablando del poder ejecutivo y del poder legislativo de los Estados Unidos—, lo que observa en la lógica de esos salvatajes es que se trata de salir de la emergencia, tratando de vulnerar lo menos posible la trama de contratos que constituye toda la economía, de contratos entre personas e instituciones, contratos de distinta naturaleza.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una tensión permanente desde el fondo de la historia entre el miedo y la libertad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos al borde de entrar en *default* con la deuda en dólares bajo jurisdicción internacional o jurisdicción New York. Esto plantea un problema, que como ustedes saben, es grave, porque Argentina vuelve al *default*, que es otra forma de romper un contrato, y desata una cantidad de incógnitas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6846
+}

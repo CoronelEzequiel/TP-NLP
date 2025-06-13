@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.669,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner y Axel Kicillof trabajan gratis para Javier Milei.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se pelean por el poder, se pelean porque la torta de los negocios de la política se les achicó, se raspan, se empujan porque hay menos cargos y quioscos para repartir.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un presidente que en las últimas horas no dudó al comentar el fallecimiento de Ginés González García en los mismos términos en que lo hacen, de manera justificada, muchos de los familiares de las víctimas de COVID.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el peronismo todo huele a naftalina, todo parece suceder en blanco y negro, las reuniones no son de cara a la gente, acontecen en estricto secreto, parece que se reunieron Kicillof y Cristina, tres horas dice que estuvieron, pero nadie puede confirmar ni qué se dijeron ni dónde.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, Milei, como Macri, considera que el momento de dar vuelta a la Argentina es ahora.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei y Caputo, en cambio, creen que el crecimiento de la economía se va a dar de manera más natural, cuando se termine de consolidar la baja del riesgo país, algunos están diciendo, che, estamos cada vez más cerca de salir del cepo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Apuestan a que la gente se está dando cuenta todos los días, un poco más, de cómo el peronismo les está mintiendo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei a veces parece irreducible.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5794
+}

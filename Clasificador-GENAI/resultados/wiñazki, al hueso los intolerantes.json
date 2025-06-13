@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Las manifestaciones de ayer, anticipadas incluso por altas autoridades del gobierno, fueron pacíficas pero contundentes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy, el jefe de Gabinete de Ministros, Santiago Cafiero, declaró que los manifestantes pertenecen a un sector del electorado de un partido político que no acepta el resultado de las elecciones de hace menos de un año.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En una democracia, las movilizaciones deben ser aceptadas, aun si se oponen a las políticas del gobierno.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Brieva manifestó su enojo con la situación política actual y con la marcha, llegando a bromear —de forma que muchos consideraron inaceptable— con atropellar a los manifestantes con un camión.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Resulta llamativo que el jefe de Gabinete, Santiago Cafiero, acuse a la oposición de generar discursos de odio y noticias falsas, mientras que el discurso de Brieva, que incluye amenazas de violencia, no recibe una condena explícita por parte del oficialismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En definitiva, la situación actual requiere una reflexión profunda sobre el discurso político y los límites de la libertad de expresión, especialmente cuando involucran amenazas de violencia en el contexto de una crisis económica profunda y una sociedad polarizada.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1527
+}

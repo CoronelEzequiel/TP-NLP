@@ -1,0 +1,51 @@
+{
+  "texto_id": "lidiana_con_vos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.825,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Y es imposible que las cosas salgan bien con esta gente que es el mal.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes son mendigos disfrazados de millonarios.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández no quiere entender que su única enemiga es Cristina Fernández de Kirchner, de Moral a Marzo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos gobierna una gente que lo único que tiene en común es el odio a Mauricio Macri, moral a marzo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A esa altura ya no sé qué es un ladrón de guante blanco porque tu gobierno, Alberto Fernández, robó con guantes de todos los colores, con una paleta enorme, así robó tu gobierno, moral a marzo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se tienen que ir los K y no volver nunca más.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Básicamente no me lo banco este feminismo trucho, este feminismo de marketing, de packaging. Que realmente nos pone a las mujeres en un lugar espantoso.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quieren incluir a la gente, hagan políticas públicas realmente inclusivas, no lenguaje inclusivo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8783
+}

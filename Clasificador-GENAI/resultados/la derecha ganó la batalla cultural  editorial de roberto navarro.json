@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.414,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Me preocupa la gravedad del ataque que sufre la provincia de Buenos Aires, encabezada por Axel Kicillof, con el pedido de rebelión fiscal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La razón no es simplemente una derrota electoral, sino la pérdida de la batalla cultural. La derecha argentina la ganó.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su extensa carta, Cristina Fernández de Kirchner propone adaptarse a la nueva realidad, mostrando la capacidad de mutación del peronismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Parrilli enfatiza la necesidad de un Estado presente y activo, que defienda los intereses de la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ayuda al gobierno actual se debe a la victoria cultural de la derecha.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La derecha busca eliminar completamente a la oposición.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la derecha ganó la batalla cultural, no solo una elección.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1702
+}

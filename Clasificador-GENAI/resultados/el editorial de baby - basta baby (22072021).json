@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.814,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "No entiendo cómo estos políticos vuelven a los canales a hablar. No tienen noción del daño que causaron gobernando, y vienen con orgullo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡La corrupción!  Escucharon los últimos discursos de Alberto Fernández. Logró algo: antes, cuando anunciaba cadena nacional al mediodía, era un fastidio. Ahora, la gente dice: \"¡Habla Alberto! ¡A ver qué dice!\", y nos reímos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Descubrimos irregularidades en las urnas de madera, en la vacuna… ¿Hasta cuándo los van a votar?  La gente es estúpida.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Murieron 50.000 personas… ¿Vamos a dejar que Ginés González García y Villanueva queden impunes?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Cuándo vendrá alguien con criterio, carácter y decisión? Hablas con ellos y no entiendes nada…",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Este país no va a ningún lado!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El mérito de perjudicar a 50.000 personas con la vacuna…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2553
+}

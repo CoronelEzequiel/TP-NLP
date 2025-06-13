@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.683,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy Cristina Kirchner, que tiene una viveza para el mal increíble.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo me fui a Plaza de Mayo, digo, pueden hacer cualquier cosa, estoy a favor del campo, pero no se toca la investidura presidencial.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero Alberto Fernández, cada vez que le dan un micrófono, dice \"ahora arrancamos\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chicos, Macri no existe hoy.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy está Sergio Massa, está este chico Milei, que hoy hizo un acto bárbaro.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después adoptando a un genocida como César Milani.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que el país está en manos de psicópatas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y bueno, vendémelo a 98. No, eso lo tenemos. Pero el blue no existe.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ese es el único dólar al que nos regimos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, viste… Bueno, qué se yo.",
+      "score": 0.1,
+      "etiqueta": "ultraizquierda"
+    },
+    {
+      "frase": "Pero lo que sí sé es que hoy en el acto, podían haber usado dos minutos de coherencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que es el intendente de… Merlo. Condenado por robo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3124
+}

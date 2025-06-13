@@ -1,0 +1,26 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ambientes naturales, monumentos históricos, museos, termas, gastronomía y mucho más te esperan en Concepción del Uruguay, Entre Ríos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En San Juan potenciamos la agroindustria vitivinícola y olivícola. Lideramos la inversión minera y el desarrollo energético. En esta tierra hay oportunidades. San Juan.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desde el día uno estamos transformando y no paramos porque tenemos un plan para seguir mejorando la calidad de vida de todos. La transformación no para. Buenos Aires Ciudad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1897
+}

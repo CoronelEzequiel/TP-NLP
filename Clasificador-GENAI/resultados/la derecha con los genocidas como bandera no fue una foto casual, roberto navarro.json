@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En esa lucha, la derecha siempre estuvo del lado del hombre abusador y golpeador.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue gracias a la lucha feminista y progresista que hoy tenemos un país que trata mejor a las mujeres y tenemos mujeres como Fabiola Sáenz que se atreven a denunciar a un hombre de poder cuando son golpeadas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vi ayer que los medios que dedicaron un mes y medio a cubrir el caso Loam para no hablar del hambre, luego semanas hablando de Venezuela para no hablar de que la indigencia llegó al 20%, ayer solo hablaron de Alberto Fernández, ni siquiera tuvieron tiempo de decir que la pobreza llegó al 55%.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer vi a Astiz, acusado de secuestro, tortura y asesinatos, posando en una foto con diputados de derecha, amigos de  Alfredo Leuco, Jorge Rial y Majul.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No son el cambio ni lo nuevo, son la vieja derecha, los hijos y nietos de los genocidas recreando su plan de entrega del país con el Riigi, la explotación laboral con la ley bases y el terror con la ley anti mafias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1782
+}

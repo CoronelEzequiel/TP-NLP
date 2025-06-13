@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.858,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Acabamos de escuchar a un salvaje, a un energúmeno llamado Ezequiel Guazzora.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un grupo de policía lo esperó en el lugar de votación, pero el talibán kirchnerista no concurrió a las urnas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Guazzora es tan descontrolado y, por lo tanto, tan peligroso, que hizo editoriales donde, como recién escuchamos, insultó duramente al propio Alberto Fernández porque no le contestaba los mensajes o porque no le ponía pauta publicitaria.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Casi todos los periodistas independientes, la mayoría de Radio Mitre y La Nación +, hemos padecido los escraches agresivos y feroces de este energúmeno.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su salvajismo tiene muchas historias de terror anteriores a la orden de captura del Juzgado Nacional en lo Criminal y Correccional número 54.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son todos marginales que el kirchnerismo suele utilizar para meter miedo a sus enemigos y que luego les suelta la mano y los abandona a su suerte.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por suerte, fue un fracaso electoral.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su partido, al que definió como el único peronista, sacó el 0,75% de los votos y quedó afuera de todo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Guazzora agarró a trompadas a un encargado de edificio, amenazó a mucha gente y, sin embargo, estaba libre.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue noticia cuando llamó a romper silobolsas con una navaja y su odio a los productores agropecuarios lo expresó diciendo que le gustaría pasar con un avión sobre los campos y arrojar una antorcha y después tirar algo más que por acá no lo puedo decir.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2540
+}

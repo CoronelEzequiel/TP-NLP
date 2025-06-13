@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_electoral",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.643,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este tema ha sido planteado públicamente por la oposición, quienes denuncian la intención del gobierno de posponer o suspender la elección de legisladores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oposición se mantiene firme en la necesidad de realizar las PASO, mientras que el oficialismo insiste en su suspensión.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La postergación de las elecciones podría tener costos significativos, como advierte la oposición.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El oficialismo no parece demostrar un compromiso genuino para resolver los desafíos sanitarios y garantizar elecciones seguras, como ha sido posible en otros países, incluyendo Brasil e incluso Argentina, como en las elecciones de Río Cuarto y en la Ciudad Autónoma de Buenos Aires en las últimas elecciones de Bolivia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por primera vez, el peronismo, estando en el poder, plantea la suspensión de las PASO, un mecanismo creado por el propio peronismo y al cual nunca se sometió con listas internas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Personalmente, creo que si la vacunación y la economía estuvieran en mejor estado, el calendario electoral no se modificaría.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las democracias se vota; en las monarquías, no.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1950
+}

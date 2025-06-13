@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.192,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El mes más complicado para el gobierno de Javier Milei, porque se le terminó el tiempo y porque se quedó sin reservas de dólares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno comenzó a mentir sobre sus reservas de dólares simplemente porque no las tenía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno nunca se preguntó por qué implementó el ajuste económico más grande de la historia. ¿Por qué no lo hicieron Macri, Menem o la dictadura?  Probablemente porque saben que la población tiene un límite.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, Fernando Alonso publicó en *La Nación* un informe del Bank of America que indicaba que el mismo día que se modificaría el arancel para las importaciones, el gobierno devaluaría.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Incluso si la inflación se moderara del 4% al 7% mensual, representaría un duro golpe para el gobierno y para la población.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se podría concluir que el gobierno cree que puede hacer lo que quiera sin consecuencias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1305
+}

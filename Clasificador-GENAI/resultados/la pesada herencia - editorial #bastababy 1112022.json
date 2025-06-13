@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.829,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Argentina, en efecto, arrastra una pesada herencia, manejada durante décadas por ineptos que nos han dejado cada vez peor.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debemos reconocer que ya estamos contando los años de otra manera.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando una chica desaparece, tampoco están.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gobierna y cállate la boca, imbécil.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No te das cuenta de que somos una caterva de inútiles que desaprovechamos las oportunidades que Dios nos da.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si ustedes se van, todos, los de la oposición, los del gobierno, si ustedes se corren un poco y nos dejan a nosotros, es muy posible que Argentina se convierta en una potencia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso les quiero avisar a todos los políticos, del centro, derecha, izquierda, de la oposición: córranse, los que no sirven y son una mierda para la herencia son ustedes.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2018
+}

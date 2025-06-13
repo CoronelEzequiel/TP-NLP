@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El viernes, ante la inminente caída del valor de Libra y las numerosas críticas por las pérdidas millonarias de los inversores, Javier Millay decidió eliminar la promoción de la criptomoneda y declaró no haber comprendido a cabalidad los detalles del proyecto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La CNV debería proteger a los inversores de fraudes como la oferta pública de este activo financiero desregulado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entre los implicados hay funcionarios, personas bajo investigación, quienes temen por su seguridad (como Davis) y otros que podrían ser usados como chivos expiatorios.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, muchos perdieron, mientras otros se beneficiaron de los sobornos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casares compartió esta información con funcionarios y allegados a Millay, desencadenando las alarmas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2175
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Los cuatro gobiernos kirchneristas quebraron económicamente a la Argentina y la sometieron a la megacorrupción y a un régimen nacional populista con fuertes sesgos autoritarios.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner y su equipo dieron vuelta la taba y se asociaron a las tiranías o dictaduras que más violan los derechos humanos en todo el planeta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Vladimir Putin todavía nos debe millones de dosis de la vacuna Sputnik, por la cual se pagó por adelantado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, como un felpudo —recientemente escuchamos el audio—, le ofreció nuestra tierra como puerta de entrada a la región.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El kirchnerismo no sabe, no contesta. Calla y otorga.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Cuba, cada día hay más presos políticos y torturados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, su gobierno, sus funcionarios, sus militantes en la cultura, los derechos humanos, o los que combaten la violencia contra la mujer, cierran la boca y convalidan semejantes salvajadas totalitarias.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2107
+}

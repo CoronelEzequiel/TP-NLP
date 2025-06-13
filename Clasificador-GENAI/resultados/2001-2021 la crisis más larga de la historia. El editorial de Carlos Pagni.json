@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.53,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es verdaderamente inexplicable por qué el gobierno dejó pasar tanto tiempo, Alberto Fernández, para llegar a un acuerdo con el Fondo.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una dificultad enorme para pensar el costo de caminos alternativos y la pagaron en las urnas, esa dificultad.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En las últimas elecciones, lo que quedó felizmente demostrado, probablemente el dato más auspicioso de las últimas elecciones parlamentarias que se terminaron de realizar el 14 de noviembre, es que en la Argentina hay equilibrio de poder.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si fueran tan consecuentes para la economía como lo son para este tipo de maniobras judiciales, habría presupuesto desde hace tres meses.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto que es muy auspicioso para el sistema, para la República, porque se introduce una cantidad de incentivos positivos en todos los actores muy distintos a cuando hay grandes distancias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6822
+}

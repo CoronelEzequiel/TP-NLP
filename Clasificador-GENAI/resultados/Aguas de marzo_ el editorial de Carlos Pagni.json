@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.58,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es un gobierno que tiene que empezar a dar explicaciones de distintos escenarios, de distintos problemas a los que lo fuerza la realidad, a los que lo fuerzan los propios errores.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué? Por varias razones, dos de ellas las más importantes: su logro macroeconómico, que es, básicamente, haber hecho retroceder la inflación y, la segunda, el segundo factor que determina esa fortaleza y explica en alguna medida, o en buena medida, la llegada de Milei al poder, es el estado paupérrimo, muy débil, muy indigente de la mayor parte de la oposición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El costo enorme de la insistencia, la obstinación de designar al juez Lijo en la corte, el tener que asistir a una mega operación empresarial que es la compra de Telefónica por parte de Telecom del Grupo Clarín sin que siquiera le avisen al gobierno que esa operación se va a realizar y, un tema, probablemente, el más importante de todos estos, si uno lo mira inclusive desde la escena oficialista, desde el escritorio del presidente, que es una inquietud creciente respecto de la consistencia del esquema cambiario, una inquietud creciente con el dólar, con la cotización del dólar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Trump dice: \"Bueno, sí, yo estoy dispuesto a considerar todo\" y hace específicamente este elogio muy enfático de Javier Milei. \"¿Es algo que considerarían con Argentina o con cualquier otro país? Consideraría cualquier cosa. Creo que es genial, por cierto, creo que es un gran líder, está haciendo un gran trabajo, está haciendo un gran trabajo, lo trajo de vuelta de Oblivion\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei entiende, y lo ha dicho, que no son críticas a él, que es un sistema de prensa, que es un sistema de prensa que, en realidad, pone la mira en criticar a Trump y que a él se lo critica como una especie de metáfora de Trump o como una especie de sucedáneo de Trump, y que por eso lo agreden.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8995
+}

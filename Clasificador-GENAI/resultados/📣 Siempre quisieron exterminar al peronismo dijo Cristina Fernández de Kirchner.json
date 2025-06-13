@@ -1,0 +1,36 @@
+{
+  "texto_id": "CayoGotos",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se recuerda un fantasma a la coalición opositora respecto a que el gobierno de Mauricio Macri terminó en diciembre de 2017, cuando se creía que, habiendo ganado las elecciones, podían ahora hacer lo que luego Mauricio Macri dijo: hacer lo mismo más rápido, que no habían podido hacer entre 2015 y 2017, y chocaron contra aquella tonelada de piedras cuando quisieron modificar el sistema de actualización de las jubilaciones.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los votos sin controlar la calle pueden terminar siendo de un mismo intelectual.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los hemos visto colgar bolsas mortuorias en las rejas de la Casa de Gobierno, con las caras de los principales dirigentes de nuestro espacio político. Pero los violentos somos nosotros. Los hemos visto colgar horcas y colocar guillotinas en las plazas de la República, pero los violentos somos nosotros. Es increíble el grado de cinismo y perversión de no asumir y hacerse cargo de lo que quieren: exterminar al peronismo, que fue siempre lo que quisieron, desde siempre.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo estos días escuché cualquier cosa, que es la policía de Larreta, un disparate. Yo quiero ser claro: esta es la policía que trabaja para cuidar a todos los argentinos que viven, que transitan, que nos visitan, que trabajan en la ciudad de Buenos Aires. Y es la policía la que ha logrado que la ciudad haya alcanzado los índices de delito más bajos de su historia desde que hay estadísticas. Es un orgullo de la ciudad de Buenos Aires la policía que tenemos. Y nosotros siempre vamos a trabajar para la paz social.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La vicepresidenta busca distraer, busca que la solución de sus problemas con la justicia de la nación, y que las manifestaciones de la nación argentina se diriman en la calle, enfrentando a unos argentinos con otros. No lo vamos a permitir.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4159
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.293,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto genera enojo en la gente, ya que la rapidez con la que se cerró el caso de Amón contrasta con la forma en que se manejan otros casos con figuras públicas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos se preguntan por qué la causa de Amón pasó desapercibida, requiriendo una investigación propia para encontrarla en el sistema.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ello, además del enojo con Amón, existe una gran indignación con la justicia.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Amón, como presunto victimario, no tiene esa potestad, aunque podría iniciar una demanda por calumnias, injurias o extorsión.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Legalmente, Amón es inocente, pero su imagen está dañada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El hecho de que la causa original se archivara sin mencionar a Montiel, y luego se reabra incluyéndolo, es llamativo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante destacar que, aunque Montiel sea una figura pública, el delito es grave e imperdonable.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1963
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.792,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El dólar paralelo se desploma; la inflación galopante parece incontrolable.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, incapaz de mantener la credibilidad fiscal ni por 24 horas —lo que podría generar cierta calma—, continúa emitiendo dinero sin conseguir cubrir siquiera los subsidios al transporte público.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Han destruido su propio sistema de asistencialismo y dependencia, y la contradicción entre el aumento del gasto público y las metas fiscales del Fondo Monetario Internacional (FMI), cada vez más difíciles de cumplir, es abrumadora.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si bien las exportaciones podrían generar ingresos récord este año, entre 90.000 y 100.000 millones de dólares, la incertidumbre y la ineficiencia gubernamental provocan una grave escasez de divisas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández culpa a los turistas por la suba del dólar, ignorando que, en el pasado, él mismo criticó al gobierno de Mauricio Macri por el aumento del dólar a 40 pesos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La desconexión con la realidad es tal que incluso sus propios votantes expresan su descontento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si el gobierno hubiera priorizado la infraestructura, por ejemplo construyendo el gasoducto, se habrían evitado millonarias importaciones de gas.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La vicepresidenta Cristina Fernández de Kirchner, en lugar de buscar soluciones, profundiza el conflicto con la Corte Suprema, debilitando aún más las instituciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un comunicado de Juntos por el Cambio responsabiliza al gobierno por el descalabro económico y denuncia la actitud de Cristina Fernández de Kirchner, calificándola como \"delictiva y conspirativa\".",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mientras el país se encuentra en una situación crítica, Cristina y Alberto Fernández buscan presionar a la justicia para lograr la impunidad de la vicepresidenta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La imagen de personas buscando dólares en un basural, entre los restos de una anciana fallecida, refleja el desesperación generalizada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, en lugar de solucionar los problemas, continúa empeorando la situación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2228
+}

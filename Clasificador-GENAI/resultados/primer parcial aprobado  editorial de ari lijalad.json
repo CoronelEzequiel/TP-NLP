@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer presenciamos un momento realmente impactante, una movilización descomunal, de las más grandes que he visto, por la cantidad de gente, su amplitud y su masividad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que este debe ser un punto de partida, una bisagra que nos permita empezar de nuevo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es contradictorio adherir a eso y después votarle al gobierno las leyes que destrozan la economía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La movilización por la universidad, de vuelta, no es solo por la universidad, es porque no existe un país sin universidad, pero tampoco existe universidad sin un país.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero, ¿por qué decía que es el primer parcial aprobado? Bueno, porque no hay universidad sin país.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei ayer a la noche dijo \"lágrimas de zurdos\", publicó una foto de un león, y dijo que lo de ayer para él es simplemente nada, algo que no le importa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Uno pensaría, en los términos de la política a la que está acostumbrado, que ante una movilización como la de ayer, el gobierno debería retroceder.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece más interesante pensar, a partir de lo de ayer, más que en qué va a cambiar Milei, cuya trascendencia, como bien siempre dice Nicolás, no está en ser presidente, sino en aplicar las recetas de una escuela económica absolutamente menor, pero que ha llegado al gobierno, pase lo que pase, sino en si lo de ayer hace cambiar a la oposición.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer me fui con mucha energía, con una sonrisa, con esperanza, porque fue realmente emotivo ver la enorme cantidad de personas, de organizaciones, de centros de estudiantes, de sindicatos, de familias que estaban ahí, entendiendo que hay que defender la universidad pública, gratuita y de calidad en todo el país, y que le dieron una demostración al gobierno de que están ahí.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2869
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.82,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Massa es el mayor peligro al que se enfrenta la democracia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner es la persona que mayor daño le hizo a la República y Sergio Massa es la continuidad histórica de Cristina, de sus peores propuestas y de la hecatombe económica que generó este que sigue siendo el peor gobierno de la historia de la democracia recuperada hace 40 años.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El cuarto gobierno kirchnerista deja un país absolutamente en la ruina.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el 19 de noviembre Sergio Massa es consagrado presidente, el país corre el riesgo de hundirse en el pantano del pasado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es Cristina y nadie puede hacerle más daño a la República que ellos porque ya lo hicieron.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei también es un peligro, pero por ahora solo lo demostró con palabras y en sus actitudes de delirante desquiciado, como lo definió Alejandro Borstein este domingo.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es difícil elegir entre las brasas y el fuego, como escribió Jorge Fernández Díaz.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero la realidad es que Sergio Massa y Cristina Fernández de Kirchner hicieron mucho daño y Milei todavía no gobernó.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue capaz de decir que no es kirchnerista.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su apuesta hegemónica es el ADN del kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2656
+}

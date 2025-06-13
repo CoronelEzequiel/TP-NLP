@@ -1,0 +1,51 @@
+{
+  "texto_id": "WB Ver y Rever",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.762,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner, según el fiscal, Diego Luciani y su adjunto, Sergio Mola, es acusada y hay pruebas, según ellos, para condenarla a 12 años de cárcel e inhabilitación perpetua para ejercer cargos públicos, porque así lo dictaminan los delitos que supuestamente, según los fiscales, cometió, que son los de asociación ilícita y administración fraudulenta de fondos públicos, en un caso donde no está solo ella acusada.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que podríamos refutarlas una por una, pero todo está basado en lo que ella no puede desmentir, y no desmintió, y es verdad que es su relación comercial con Néstor Kirchner y después la de sus hijos con Lázaro Báez.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "8.329.596 pesos le prestó Lázaro Báez a Cristina y a Néstor Kirchner para comprar el Hotel Alto Calafate, según las declaraciones juradas de los Kirchner.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llamar a un tribunal \"pelotón de fusilamiento\", una vicepresidenta de la República, presidenta del Senado donde se hacen las leyes, es grave.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no está lista, terminada la autopista que tiene que unir Comodoro Rivadavia con Caleta Olivia, en Santa Cruz?",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Oficina Anticorrupción y la Unidad de Información Financiera que estuvieron acusando, como los fiscales, que era su rol durante todo este juicio, cuando cambió el gobierno, cambiaron y la defendieron y la UIF pidió el sobreseimiento.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Báez tuvo un crecimiento patrimonial del 48.000%.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los Kirchner se hicieron más ricos por toda la plata que le dio Báez en alquiler de hoteles y de propiedades.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3897
+}

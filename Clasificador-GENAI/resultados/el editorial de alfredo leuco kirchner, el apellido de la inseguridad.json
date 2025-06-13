@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.815,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Nunca les importó el tema; todo lo contrario, decían que esa era una bandera de la derecha represora.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, con un nivel de desconocimiento feroz sobre el tema, apuntó contra Aníbal Fernández y Sergio Berni, los responsables de combatir la inseguridad a nivel nacional y en la provincia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se nota que no le interesa darle seguridad a los que viven en el sur y padecen los ataques del terrorismo seudomapuche, apoyado por tres ex jerarcas montoneros, pero tampoco registró que la gendarmería, en general, como fuerza, quedó muy resentida con el ataque del kirchnerismo, que intentó en su momento culparlos de un asesinato y una desaparición que nunca existieron.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy, las operaciones están a la orden del día.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El verdadero problema es que la inseguridad en la Argentina tiene doble apellido: Zaffaroni y el kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner, Alberto Fernández, Aníbal Fernández, Axel Kicillof, Sergio Berni, Máximo Kirchner, Zaffaroni, son dirigentes que todavía creen en ese dogma apolillado de que el delito es producto de la explotación de la sociedad capitalista y que el ladrón o el asesino son víctimas, y por eso los protegen, y si caen presos, los liberan lo más rápido posible.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A eso, estos caraduras le llaman derechos humanos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aníbal Fernández quedará en la historia por decir aquella burrada inédita: \"La inseguridad es una sensación\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández justificó plenamente la suelta de casi 5.000 presos al comienzo de la pandemia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo asocia todo el tiempo a la policía o a la gendarmería con la dictadura y la represión, en una inflamación ideológica de un simplismo infantil y peligroso.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, tantos años después de finalizada la dictadura, es hora de que las fuerzas de seguridad sean respetadas, capacitadas, pertrechadas y reconocidas económicamente como corresponde.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que ser duros con los delitos duros y duros con las causas que llevaron a esa persona a delinquir, pero, mientras tanto, hay que proteger la vida de la gente, proteger a los decentes y castigar a los delincuentes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dentro de la ley todo, fuera de la ley nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2771
+}

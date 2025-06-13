@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.631,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Va, y si no hablan mejor, porque ya a esta altura los políticos me rompieron las pelotas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Polítiquería y mentira, son los dos idiomas que manejan.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la mujer no es un electrodoméstico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que cambiar la vida.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que vivir como un aventurero.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y te crees que con eso ya hiciste el domingo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Disfrutá de la vida.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No se rasquen las bolas los fines de semana.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3641
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "inflacion",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Durante el gobierno de Alfonsín, con un déficit fiscal cercano al 15% del PBI, aprendí que a mayor emisión, mayores aumentos salariales.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La historia argentina muestra que la restricción externa (falta de dólares) provoca subas del dólar, seguidas por aumentos de precios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos dejar de considerar la emisión como la única causa de la inflación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La cuestión ideológica radica en la redistribución de la riqueza, gravando a los ricos que evaden impuestos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si ellos son los que controlan los precios, deberíamos enfocarnos en acumular poder para gravar adecuadamente a los ricos y así poder redistribuir, en vez de seguir con recetas fallidas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1703
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si bien el gobierno no lo admite públicamente, algunos funcionarios temen que 2021 sea incluso más complicado que 2020.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En 2020, si bien se mantuvo un confinamiento estricto durante mucho tiempo, lo cual afectó gravemente a la economía y a la salud mental de la población (generando un daño económico y psicológico profundo), el sistema de salud no llegó a colapsar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, el cierre de 90.000 negocios incrementó el desempleo, y actualmente 6 de cada 10 niños en Argentina viven en la pobreza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La llegada de la vacuna Sputnik V es lenta debido a la limitada capacidad de producción en Rusia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien el confinamiento total se considera un éxito por parte del gobierno, fue en realidad una medida adoptada mayoritariamente por la población, que se confinó voluntariamente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno emitió un decreto y reforzó el cumplimiento con medidas policiales, algunas de las cuales fueron excesivas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1445
+}

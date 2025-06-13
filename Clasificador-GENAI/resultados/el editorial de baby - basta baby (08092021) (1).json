@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Gracias a Dios que se termina el emporio de la mentira.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El emporio de la inutilidad es la política argentina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto fue el gobierno más desastroso y berreta de la historia argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gran enemigo del argentino es el que labura.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Damos vergüenza en el mundo civilizado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy hablé con Milei, realmente me impactó, porque a Milei cuando le hablás tranquilo y te hablás tranquilo, tiene fundamento, pero tampoco me imagino un país sin Banco Nación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La única palabra que habría que haber usado en la campaña no la usaron. Dos palabras. Una es libertad y la otra es trabajo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2813
+}

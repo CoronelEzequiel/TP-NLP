@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_seguridad_elecciones",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.533,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Carlos Reutemann ganó las elecciones de 1991 para gobernador en la provincia de Buenos Aires con el eslogan \"Mano Dura\" frente a la \"garantista\" Graciela Fernández Meijide.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vos pedís, como demagogia, ir a que vaya el ejército a hacer seguridad interior, y un soldado está entrenado para matar en una guerra, no para hacer prevención.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"También, el 1 de febrero, cuando la gente me elija presidente, el orden va a ser la regla y no el desorden.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si necesitamos usar las fuerzas armadas para combatir el narcotráfico, lo vamos a hacer.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"El Estado no puede matar\", del año 2017, o sea, el momento en el que Maldonado dice que Randazzo tenía la misma posición que tiene ahora.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Terminemos con este debate de 'vereta' de mano dura y garantistas\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3474
+}

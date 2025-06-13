@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.475,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La experiencia de Macri fracasó en el campo de la economía.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué hay tanto malestar con el ajuste? Porque estamos yendo a un proceso electoral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema principal del impuesto de mañana es que es un impuesto. Es decir, en un momento recesivo le quita recursos a la economía privada para dárselos al Estado. Aumenta la recesión. Parece algo de un fiscalismo casi de derecha.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este ejemplo sostiene que entre 2003 y 2015 la Argentina creció al 5%, es verdad, promedio, porque crecía al 8 y 9% en los buenos años de Néstor Kirchner, y después, con Cristina Fernández de Kirchner, a partir del 2009 y 2010, empezó un estancamiento que dura hasta hoy, e inclusive recesión.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7020
+}

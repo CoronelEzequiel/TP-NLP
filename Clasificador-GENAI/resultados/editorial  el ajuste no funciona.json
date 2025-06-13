@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.321,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La premisa de Macri era que había que reducir el nivel de vida de las mayorías, adecuándolo —entre comillas— a las \"verdaderas\" posibilidades mediante aumentos de tarifas, flexibilización laboral, reducción de la influencia sindical, disminución de salarios y recorte del gasto público, entre otras medidas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se recortaron las jubilaciones y la asignación universal por hijo, así como los salarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se ajustó el gasto público, superando incluso las metas pactadas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según datos del INDEC, las personas que no pueden cubrir sus necesidades básicas pasaron del 28,6% de la población en 2017 al 36,5% en 2022.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ajuste menemista de principios de los 90, presentado como exitoso, lo fue dentro de sus propios términos, al costo de endeudar salvajemente al país y afectar los derechos laborales.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta contradicción lleva a la moderación, a un ajuste crónico que perjudica a las mayorías sin lograr el despegue económico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta es: ¿Y si probamos con ajustar a los ajustadores?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1712
+}

@@ -1,0 +1,26 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Mucho pasa por la discusión entre los poderes del Estado y el Poder Judicial, el Estado Nacional y el Poder Judicial, el pedido de juicio político al presidente de la Corte Suprema de Justicia, la filtración de los audios, la licencia no renuncia del secretario de seguridad de la Ciudad de Buenos Aires, al que recordemos se le encontraron chats con, por un lado, miembros del Poder Judicial, el vocero del presidente de la Corte, Silvio Robles, por otra parte también con funcionarios del gobierno de la Ciudad de Buenos Aires relacionados a lo que es el tránsito.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A todo esto, ¿quién llega al gobierno nacional? Ayer nos lo contaba Alejandro Gomel, el nuevo jefe de asesores que es Antonio Aracre, un hombre de Syngenta, un hombre del mundo privado. Exactamente, buen día. A partir del 1 de febrero va a ser el jefe de asesores.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros consideramos que efectivamente esta Corte Suprema de Justicia, por una serie de hechos que se van a presentar oportunamente ante la opinión pública y por el mal desempeño observamos claramente una manifiesta parcialidad. Esta manifiesta parcialidad significa claramente que los fallos que hemos observado es para favorecer a una parcialidad política y esto pone de manifiesto uno de los problemas centrales, deben ser custodios y guardianes de la Constitución, pero lo que observamos es que los argentinos y las argentinas no pueden estar tranquilos en términos de salvaguarda de la vida, del patrimonio, del honor y de la libertad con miembros de la Corte Suprema de Justicia que violan clara y contundentemente la Constitución Nacional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4895
+}

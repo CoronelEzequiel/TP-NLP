@@ -1,0 +1,41 @@
+{
+  "texto_id": "WB",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.758,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner, según el fiscal, Diego Luciani y su adjunto, Diego Mola, es acusada y hay pruebas, según ellos, para condenarla a 12 años de cárcel e inhabilitación perpetua para ejercer cargos públicos, porque así lo dictaminan los delitos que supuestamente, según los fiscales, cometió, que son la asociación ilícita y la malversación de fondos públicos en un caso donde no está solo ella acusada.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que podríamos refutarlas una por una, pero todo está basado en lo que ella no puede desmentir y no desmintió, y es verdad que es su relación comercial, la de ella y la de Néstor Kirchner y después la de sus hijos con Lázaro Báez.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llamar a un tribunal \"pelotón de fusilamiento\", una vicepresidenta de la República, presidenta del Senado, donde se hacen las leyes, es grave.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Por qué no está lista, terminada, la autopista que tiene que unir Comodoro Rivadavia con Caleta Olivia en Santa Cruz?",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La oficina de anticorrupción se retiró del juicio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy Cristina Kirchner dijo que cuando llegó al poder, salió de su departamento de Juncal en Uruguay, y cuando se fue del poder volvió al mismo departamento, como diciendo, no tuvo crecimiento patrimonial.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3701
+}

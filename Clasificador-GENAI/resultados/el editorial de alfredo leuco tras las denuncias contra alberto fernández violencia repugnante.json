@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Así lo anunciaba Cristina Fernández de Kirchner",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la bajada de la portada digo textualmente: \"Alberto presidente es menos de lo mismo\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que el eje de la información y de la opinión es otro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina en su reciente declaración se quiso lavar las manos y hacernos creer que ella no tuvo nada que ver con haber designado a este energúmeno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no fue víctima de Alberto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo decía en esa época que Alberto fue el jefe de gabinete de Néstor y después de Cristina, fue el transmisor y muchas veces el ejecutor de las desmesuras y arbitrariedades autoritarias de ambos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y Alberto se usaron uno al otro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto dijo: \"Hay otra Cristina\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto renunció a la presidencia del Partido Justicialista antes de que lo tiraran por la ventana.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue tan masiva y extendida la corrupción de los cuatro gobiernos kirchneristas que me pregunto si hubo alguno honesto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el peronismo quiere resurgir y renovarse, debería tener en cuenta que tendrá que extirpar a los ladrones y a los violadores, o a los acosadores.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y sus cómplices han profanado todas las banderas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto diciendo que fue el primer presidente feminista, el que iba a terminar con el patriarcado y otras \"boludeces\" por el estilo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cínico, hipócrita, inútil, mentiroso e incapaz, ejercía una violencia repugnante contra su esposa y baboso, baboso, patético, sometía a algunas mujeres a la prostitución en Olivos y en la Casa Rosada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3140
+}

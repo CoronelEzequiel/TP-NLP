@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y luego Milei decidió ir a Estados Unidos a buscar una foto con Trump para respaldar su negociación de Argentina con el Fondo Monetario Internacional y se volvió con las manos vacías, dejando al descubierto la desesperación y la ansiedad que lo acecha.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como en una tragedia griega, parece que lo mismo que fortalecía Milei, ser parte de un fenómeno mundial de auge de la extrema derecha y del voto a figuras disruptivas con el orden mundial establecido desde la Segunda Guerra Mundial, hoy lo perjudica.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero gracias a las políticas de Trump, al que Milei sigue en todo, hoy vale la pena preguntarse si es una ventaja ser amigo o enemigo de Trump.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina es un país hiperpresidencialista, gracias a las atribuciones de la propia Constitución y de los cambios normativos que el mismo kirchnerismo implementó para su propio beneficio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Frente a esa hipótesis, ¿hará un gobierno más autoritario? ¿Se colocará en una posición aún más desafiante de la división de poderes tanto del judicial como del legislativo? ¿Apelará más a gobernar por decreto? ¿Aumentará el nivel de represión tanto física como moral de todo aquel que se oponga a sus ideas?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5526
+}

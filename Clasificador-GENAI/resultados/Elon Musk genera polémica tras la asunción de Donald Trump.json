@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.425,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que puede interpretarse como un saludo nazi de Elon Musk en la asunción del presidente norteamericano Donald Trump resulta un buen disparador para preguntarse acerca del carácter del nuevo gobierno norteamericano.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Independientemente de si el saludo nazi fue involuntario, pero real, otro gesto que todos malinterpretamos o una auténtica y premeditada provocación para que toda la prensa mundial discuta esto y no las primeras medidas de Trump, por ejemplo, el contenido del discurso del nuevo gobierno y el uso que Elon Musk le está dando a la red social X, tienen un carácter profundamente racista, misógino y reaccionario.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno podría pensar que el hecho de que parte de la familia de Musk sea nazi o fascista no lo hace serlo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El empresario afirmó allí que AFD es el último rayo de esperanza para Alemania y que el país está al borde del colapso económico y cultural.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Elon Musk transformó la ex Twitter en un territorio de polémica y discusión, en una enorme usina de la derecha trumpista.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La corriente política que utiliza fue quien mejor y de manera más perversa utilizó la propaganda y esta fue, de todas en la historia, el nazismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el fascismo regrese, lo hará en nombre de la libertad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Pero que sin dudas será considerado uno de sus grandes aportes a la humanidad, tomando control de una plataforma que se suponía era un foro de debate público, pero resulta que estaba programada para cancelar cualquier discurso que no fuera el discurso woke hegemónico.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5236
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "No se trata de un cambio que implique un giro en la política económica hacia un modelo más industrialista o intervencionista. Al contrario, creo que ambos buscan avanzar en las privatizaciones y el desmantelamiento del Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente, con claridad, ha definido su objetivo de destruir el Estado desde adentro; no es una interpretación mía, él mismo lo ha dicho.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se dice que el FMI presiona por una devaluación, pero ni el actual ni el potencial nuevo funcionario parecen dispuestos a asumir esa responsabilidad.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El FMI advierte que la recesión podría prolongarse, dificultando la desinflación y generando penurias y tensiones sociales, incluso con un refuerzo del gasto fiscal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno presume un equilibrio fiscal, logrado con ingresos similares al año pasado, pero con un recorte de gastos de 14 billones de pesos. Este recorte afecta a jubilaciones y pensiones (4500 billones), gastos de capital (3300 billones), subsidios (1833 billones), etc.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1333
+}

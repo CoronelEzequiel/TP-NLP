@@ -1,0 +1,61 @@
+{
+  "texto_id": "diana",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "seguimos rodeados de presos que salieron en pandemia... y ninguno volvió a la cárcel... vivimos llenos de inseguridad... la economía está rota... los chicos no van al colegio, no hay educación... la violencia es el pan de cada día...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "los **planeros**, los planes... la vagancia, la falta de laburo, la impunidad... falta guita para los jubilados... los jubilados no se compran ni un cuarto de queso mantecoso...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "tenemos tres presidentes en un mismo gobierno... Alberto Fernández, **Cristina Fernández de Kirchner**... y a partir de hoy **Sergio Massa**... como el dólar en Argentina tenemos un montón de presidentes...",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "hoy fue un día muy importante... para el frente de todos contra todos... fue el relanzamiento del gobierno... ya tenemos a nuestro tercer presidente... en un mandato... entre los que fueron al festejo... con más de 500 personas... se encontraban **Luis D'Elía** y **Pablo Moyano**...",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "endeudó a la Argentina con China por 5.000 millones de dólares... para construir dos represas en Santa Cruz...",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De la cárcel al aula, **Amado Boudou** dará clases en la Facultad de Periodismo de la Universidad de La Plata...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Continúa el juicio a **Cristina** por la causa de vialidad. La puso ante ser la jefa de una asociación ilícita que saqueó al país entre 2003 y 2015.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los que están jugando demasiado fuerte para mi gusto son los chicos de la Cámpora. Armaron un video bastante fuerte para la jefa de la banda. Juicio por la obra pública. Si la tocan a **Cristina**, qué quilombo que se va a armar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los de la Cámpora amenazan a la justicia argentina. Los de la Cámpora amenazan a la Argentina. Estos pibes quieren sangre. Y encima estos spots divinos que hacen, lo hacen con la nuestra.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "**Máximo Kirchner**, ¿quién vive en Puerto Madero? Es multimillonario en dólares...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9095
+}

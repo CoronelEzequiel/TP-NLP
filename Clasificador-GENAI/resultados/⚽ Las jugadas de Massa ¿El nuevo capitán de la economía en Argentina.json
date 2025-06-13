@@ -1,0 +1,56 @@
+{
+  "texto_id": "Los 100 días de Massa y el Mundial",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Vengo a trabajar de una manera muy comprometida para tratar de ayudar a que a la Argentina le vaya bien, y a los argentinos, mejor.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que enfrentar la inflación con determinación, porque es la mayor fábrica de pobreza que puede tener cualquier país.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En cuanto a los principios, orden fiscal, superávit comercial, fortalecimiento de reservas y desarrollo con inclusión.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Encaramos una segmentación que hoy nos muestra que casi 4 millones de hogares argentinos no solicitaron usar los subsidios.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La primera: vamos a cumplir con la meta del 2,5% del déficit primario del sistema público nacional, establecida por el presupuesto, que tuvimos que sacar por DNU, frente al rechazo del Congreso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Vamos a promover y defender cada dólar argentino y las denuncias, en coincidencia con lo que ha dicho en su momento la vicepresidenta, de malos manejos en la aduana.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Sergio Massa viene a hacer las reformas estructurales que la Economía necesita, viene a congelar el gasto público y generar equilibrio, y no imprimir dinero, no emitir para financiar este déficit, bienvenido sea, pero ¿alguien cree que viene eso?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que una sola virtud, sin que lo haya dicho, es tratar de encaminar, muy tardíamente, el acuerdo con el Fondo Monetario Internacional.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que esta es la lección principal que tenemos que llevarnos hoy los argentinos: que se derrumbó la mentira.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5708
+}

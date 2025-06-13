@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.586,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Emerenciano Sena es una especie de Milagro Sala del Chaco, que tiene una sólida sociedad política con el gobernador Jorge Milton Capitanich, alias \"Coqui\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Capitanich alimenta con fondos millonarios a este grupo piquetero, que es una extraña mezcla de kirchnerismo, guevarismo y chavismo, y que milita con un justicialista derechista como el gobernador.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En una escuela de gestión social que conducen, tienen como escudo el rostro del Che Guevara sobre una estrella de cinco puntas y utilizan guardapolvos rojos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parece que los chicos estuvieran en La Habana o en Caracas, pero están en el Chaco y cantan como himno \"Hasta siempre, comandante\", tema que Carlos Puebla compuso como homenaje al Che, y además portan banderas rojas con su rostro y pabellones venezolanos mientras izan la bandera de Cuba junto a la bandera argentina.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este caso terrorífico de la desaparición de una chica de 28 años y de su muy probable crimen salpica políticamente a Capitanich por el poder casi impune que le dio a Emerenciano Sena.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su momento le prohibió la entrada al Chaco al entonces presidente Mauricio Macri, el piquetero, antes de ser apresado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hasta ahora no hay una sola declaración de Ayelén Mazzina, la ministra de Mujeres, ni tampoco de la conducción kirchnerista del movimiento \"Ni una menos\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2190
+}

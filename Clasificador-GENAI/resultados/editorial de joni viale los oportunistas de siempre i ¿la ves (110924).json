@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El oportunista es el que cambia de opinión, de postura política, de equipo o de ideología por interés o conveniencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se acuerda que su jefa, la doctora Cristina Fernández de Kirchner, le vetó el 82% móvil a los jubilados?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque los argentinos no comen vidrio. Porque saben que yo no les miento. Porque saben que les digo la verdad.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los que se indignan y hacen marchas, tiran piedras y son violentos porque el presidente vetó la reforma jubilatoria son los mismos que vetaron el 82% móvil hace diez años, señores.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto se llama joder a los jubilados para siempre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El populismo, para mí, perdió la magia.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "2017, soy jubilado y cobro $7000 pesos gracias a vos, Macri. Voy a poder darme el lujo de ser indigente. 2024, soy jubilado y cobro $160 mil gracias a vos, Milei. Voy a poder darme el lujo de ser indigente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo único que pido, lo único, mirando a cámara, es que se vaya a Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ex viceministro de Massa te confiesa que el Plan Platita terminó arruinando la Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No permitamos que esta gente se despegue del desastre que nos hicieron.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3496
+}

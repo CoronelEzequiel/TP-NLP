@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.067,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Para empezar, hay que decir que este jefe tuvo mucho que ver con que votaran a Milei, porque fue el jefe que organizó la demonización del campo nacional y popular, el que te enseñó a pensar que los sindicatos son malos, que los abogados laboralistas son malos, que los políticos son todos malos, que luchar por tus derechos está mal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese periodista se llama Gonzalo Aziz, pero claramente él no es el importante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque adentro se estaba instrumentando un saqueo con represión.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Faccio de Mercuriali, tratando de hacer buena letra, porque cuanto más Faccio sos, más \"nieto\" te va ascendiendo, en el momento en que estaba herido, tirado, ese hombre que estaba defendiendo los derechos, lo trataba de corrupto.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivíamos en un país hasta 2015, en donde en este momento, ¿sabés a dónde estabas? De vacaciones estabas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los principales responsables y las personas más poderosas del país son los dueños de esos medios hegemónicos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El principal responsable se llama Magnetto.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2687
+}

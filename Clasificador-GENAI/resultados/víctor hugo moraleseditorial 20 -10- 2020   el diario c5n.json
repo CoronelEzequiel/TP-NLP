@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.27,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No estamos tan acostumbrados a que los mentirosos pierdan, a que la derecha no tenga razón.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo aquello que se mintió, todo lo que se dijo en el momento de desalojar del poder con un golpe de estado a Evo Morales, ahora ha cambiado y Bolivia se encamina hacia nuevos tiempos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto lo que nos está mostrando es que la prensa está totalmente comprada por los golpistas porque no les interesa mostrar la otra cara de la medalla.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El canciller argentino informa de que el presidente emitido de Bolivia, Evo Morales, ha llegado a Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todas estas mentiras dichas desde el primer momento en que Evo Morales sufrió el golpe de estado que le privó a Bolivia de un año de democracia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no lo matan, es golpe de estado, que es presionado por el ejército, sino, es un golpe de estado. Cuando se fue Evo Morales, escapando al intento de asesinarlo, de los mismos que ahora tienen que reconocer que Evo ha retornado con toda la gloria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El endeudamiento, quiero que quede claro, dos de cada tres pesos que tomamos de deuda fue para pagar deudas del gobierno anterior.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero si algo hay que reconocerle a la derecha es su persistencia. Trabajan hasta con Cavallo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dólar en agosto de 2018 se devaluó 25% y después de la convertibilidad de Cavallo se devaluó 40%.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Garavano es un delincuente. Garavano es un delincuente. En mi caso es especial porque yo fui extorsionado en forma personal por él, a diferencia de otros jueces.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un argumento absolutamente fascista dar vuelta las verdaderas y nobles interpretaciones de los otros para amañarlas y usarlas como un arma arrojadiza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De lo que sí podemos estar seguros. Y aquí la justicia ha hecho cualquier estropicio, pero también y sobre todo los medios de comunicación, es de cómo se produjo el suicidio de Nisman.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Respetemos a la gente de LATAM y espero que sea Transporte, o sea, Trabajo, porque nos dijeron el Transporte que tiene que ser Trabajo. Den la cita, den la audiencia a esta gente para que explique los desmanes que está cometiendo la empresa con 1.700 trabajadores.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La muerte de Mariano Ferreyra todavía duele, duele porque era un hombre joven, un luchador, un valiente que salía a pelear por sus ideales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Paradela Di Rizzo considera como posible que una cosa tuviera que ver con la otra. No quiero exagerar, pero cinco días después murió. Evidentemente él estaba bien informado y no le tembló la mano para hizo jugar a quien después tuvo que ir a la cárcel antecedentes, terrible del año diciembre del 2001, lo que pasó con Kosteki y Santillán, él no quería que eso ocurriera, le ocurriera el también a él. Creo que tomó esa decisión con total conciencia de lo que significaba eso y no le tembló la mano.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8060
+}

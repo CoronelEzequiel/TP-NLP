@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dentro de Juntos por el Cambio, inclusive, más de lo que se esperaba en un primer momento. Más ruido.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Yo no me someto a Mauricio Macri\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich se cortó sola y tomó este lugar sola sin consultar.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei necesita de todos ellos y de los aliados, que de hecho había empezado buscando a Schiaretti, logrando el apoyo de algunos hombres del Partido Justicialista y de los schiarettistas, porque necesita el apoyo en el Congreso de la Nación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En enero y febrero el que no tenga un generador, vaya comprándolo, ¿eh? Porque, digamos, si se llega a reactivar un poquito la industria, no hay para todos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6020
+}

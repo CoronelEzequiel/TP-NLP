@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.208,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Buscan revelar qué ocurrió en el hotel y quiénes son los responsables del derrumbe.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer nos presentamos en la causa para determinar las responsabilidades y controlar las medidas que está llevando a cabo la UPCM-CELS, a cargo de la fiscal Verónica Zamboni.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En quince días, ¿los responsables serán los propietarios y el arquitecto que dirigió la obra?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Y el municipio, por los permisos? Se hablaba de un permiso provisorio para la parte baja, y ellos hicieron obras en la parte superior.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El lunes tendremos una reunión con los damnificados en Villa Gesell, para quienes quieran consultarnos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los responsables son el dueño y el arquitecto.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1478
+}

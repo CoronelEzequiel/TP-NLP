@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En el Congreso atentaron una vez más contra la democracia. Prendieron fuego a un policía. Arrojaron piedras a mujeres policías.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La culpa es nuestra porque los votamos. Argentina va en caída libre como un tobogán. ¡Mírenlos a todos! A todos ellos les creímos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con la democracia no se come, no se cura y no se educa. Vivimos de fracaso en fracaso. Pero la responsabilidad es nuestra, porque nosotros los votamos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy estamos gobernados por una alianza donde el presidente de la Nación y el presidente de la Cámara de Diputados decían que la vicepresidenta era corrupta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mirá este hijo de puta que profanó las piedras de nuestros muertos de COVID.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estas minas quieren matar a los pibes con síndrome de Down.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy harta de ver a mi hija con ese trapo y a todos los chicos. ¿Y ustedes? ¿Pero qué es esto? ¿Cuál es el distanciamiento social? ¿Dónde tienen el barbijo? Se están cagando en todo. Quiero que me digan por qué tengo que ponerle ese trapo a mi hija para ir al colegio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8005
+}

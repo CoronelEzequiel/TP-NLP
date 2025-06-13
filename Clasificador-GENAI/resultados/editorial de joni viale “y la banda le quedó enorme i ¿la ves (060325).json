@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.692,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "“No tenés que tener poder cuando alguien toma, adopta una decisión y esa decisión se puede aplicar y es respetada por el conjunto de la sociedad. Eso es el poder. Que te pongan una banda y te den el bastón, un poquito es”.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, el gobernador Kicillof dijo ayer en la apertura del año legislativo que en la provincia hay un supuesto baño de sangre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Kicillof nombró, escuchen, vení, 50... ¿Llegan a ver ahí arriba? 50 personas por día durante 4 años. ¡Impresionante! 50 personas por día durante 4 años. ¡Impresionante! Parece que acá no hubo motosierra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que La Matanza pone miles de millones de pesos en pauta oficial. Yo no creo, lo sé. Y La Matanza compra el silencio de muchos medios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros lanzaremos entonces un plan provincial de desarme para reducir la circulación de armas de fuego. Gran idea, ¿eh? La verdad, felicitaciones. ¿Vos te imaginás a la banda de Mameluco Villalba yendo al plan diciendo: “Acá está la AK-47, tome ministro, se la voy a entregar en nombre del bien común y no sé qué”?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Conclusión, la sangre joven, entre muchas comillas, se llama Axel Kicillof, el hombre que como ministro de Economía nos hizo perder a todos los argentinos casi 50.000 millones de dólares. Miren las pérdidas de Kicillof, todo es nuestro, todo esto. Club de París, miren, YPF 16.000 millones de dólares. Ahí tenés Fondos Buitre, otros 16.000 millones de dólares. Deuda de la provincia. Bueno, en total, un tremendo inútil, tremendo inútil que nos costó carísimo, 50.000 millones de dólares a todos los argentinos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3903
+}

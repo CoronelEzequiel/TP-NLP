@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.043,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "María Teresa era una paciente oncológica a la que, desde diciembre, tras la asunción del gobierno de Javier Milei, se le interrumpió la entrega de medicamentos por parte de la ADACS",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer falleció abandonada por Milei, Villarroel, Mario Russo, Manuela Domi y Luis Caputo",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La muerte, en cambio, es irreversible, y ayer falleció María Teresa Troiano.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A María Teresa Troiano, y a muchos pacientes cuyos casos hemos presentado y ustedes han escuchado, se les negó el derecho a la salud y, en el caso de María Teresa, el derecho a la vida.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En medio de todo esto, el presidente Javier Milei afirmó que no se había interrumpido la entrega de medicamentos, que se habían cortado los “curros”.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Murió sola y abandonada por este gobierno y por buena parte de la dirigencia política que no priorizó este tema.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les pido que insistamos en que la solución debe ser colectiva, que se conozca este caso, que se sepa que Javier Milei, Victoria Villarroel, Luis Caputo, Mario Russo, Sandra Petrolillo y Manuela Domi abandonaron a María Teresa Troiano y ayer falleció.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2005
+}

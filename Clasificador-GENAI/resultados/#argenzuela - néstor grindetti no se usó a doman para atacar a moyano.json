@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_a_grindetti",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.483,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Entiendo su decisión desde lo personal, pero desde lo profesional e institucional, perjudicó al club.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El tema de la deuda con los mexicanos es complejo, pero lo estamos solucionando.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desde el inicio dijimos que íbamos a evaluar la situación. Si había cuestiones organizativas, las corregiríamos; si había cuestiones delictivas, las denunciaríamos.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina necesita reformas, habrá protestas, pero los dirigentes debemos explicar las cosas con responsabilidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Coincido con algunas ideas de Milei, pero no con sus extremos.  El Estado es necesario, pero debe ser eficiente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre sufre la clase trabajadora. Lo que hay que parar es la inflación.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2398
+}

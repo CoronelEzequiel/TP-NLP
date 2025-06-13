@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.689,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El kirchnerismo desprestigió a propósito e intencionalmente todo el papel institucional de la policía, de la gendarmería, de la prefectura y de los militares.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El orden es de derecha.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Durante 20 años nos llenaron la cabeza con que la policía es mala, los militares son malos, la ley es para los tontos, el orden es facho, consecuencia de esto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta señora es diputada nacional y está diciendo que se puede robar si sos pobre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hubo una decisión política y cultural de destruir el paradigma de la disciplina y el respeto, minando la confianza y el aprecio por la ley.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso no le tenés tanto respeto como le tenemos nosotros al oficio del chorro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insisto, no es gratis destrozar la cultura del esfuerzo, del mérito, del orden, del trabajo, del estudio.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Vamos a empezar a admirar a aquellos que dan todo por el cumplimiento de la ley?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los militares fueron maltratados por el kirchnerismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La cultura populista se nutre de enemigos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que la sociedad argentina está más avivada que nunca.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La batalla cultural la están ganando, ¿sabés quién? La gente, la Argentina.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero agradecerle al presidente Milei por haberme dado la oportunidad de ser la vicepresidente de todos los argentinos y, además, ser la orgullosa hija de un veterano de la guerra de Malvinas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei dijo que quiero hablarlo con Luis, llegó el momento de la reconciliación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6115
+}

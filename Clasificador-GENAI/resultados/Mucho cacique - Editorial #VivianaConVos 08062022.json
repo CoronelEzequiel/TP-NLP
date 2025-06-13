@@ -1,0 +1,36 @@
+{
+  "texto_id": "Viana con Vos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.904,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esperemos que los egos de muchos de los que están ahí no hagan que tengamos cuatro años más de kirchnerismo. Sería fatal para la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Decían que no les importaba un carajo, que iban casi a representar a Venezuela, y se fueron todos. Todo esto lo garpamos nosotros, el rebaño de pelotudos, como decía recién.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para los K, donde hay una necesidad, hay un curro. Ellos hacen negocio con todo, en vez de decir 'donde hay una necesidad, hay un derecho', para ellos hay un curro. Roban para la corona, mucho caudillo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno solo ayuda a los planeros. Este gobierno no ayuda a las pymes. Mucho caudillo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quieren la boleta única, no quieren transparencia, el kirchnerismo. Es indignante, mucho caudillo. No querés votar la boleta única es que te copa el fraude.",
+      "score": 0.92,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8261
+}

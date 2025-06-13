@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Yo amo España, amo España y amo a los españoles.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que la postura tiene mucho que ver con ser un estadista.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que después de Cristina Kirchner y todos sus secuaces, los ladrones, Alí Babá, porque la tierra está destruida, ya lo vimos con los piqueteros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Digo que Milei es un fenómeno, pero que hay que tener mucho cuidado, porque si todos los alcahuetes y genuflexos corren atrás de Milei, y pasa lo que nos pasa a algunos comunicadores hoy, que habiendo votado a Milei, habiendo apoyado a Milei, estando en la lucha de Milei porque todos queremos lo mismo, te llaman a la radio o te ven por la calle y te dicen: \"No le pegues a Milei\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso mismo, mi discurso es alejado de Milei, cerca con la idea, lejos de los cánticos y cosas que dice. No estoy en la patota de fundamentalistas de Milei, sí lo voy a ayudar cuando haga falta dentro de algunos meses, cuando en algún momento la cosa se ponga pesada porque las alimañas siguen vivas, salir a defenderlo, pero que Milei no se enamore de los que le cantan los cantos de sirena, los que le ven en el diario y le dicen, \"Oye, qué pelo tiene\", que los ojos son divinos, que se parece a un prócer.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que en este país hay que empezar a hablar, el Gran Acuerdo Nacional. Hay que empezar a hablar, todos hacemos falta.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3768
+}

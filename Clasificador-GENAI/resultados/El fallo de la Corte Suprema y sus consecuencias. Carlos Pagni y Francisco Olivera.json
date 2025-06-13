@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.456,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, son varios días donde **Alberto Fernández** se mueve como una especie de barrilete sin cola.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La innovación de la autonomía es que la ciudad tiene un derecho sobre esos recursos que le corresponden.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, acá, por eso la Corte dice expresamente: \"Esto no afecta a las provincias\".",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La segunda cuestión es la cuestión de carácter institucional-conceptual: la poca comprensión que hay de la autonomía porteña.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que **Fernández** obedeció a la presión de los gobernadores.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La idea de que **Alberto Fernández** no puede porque quiere sacarle recursos a la capital para pagarle a los policías de la provincia de Buenos Aires, que es lo que hizo cuando tuvo aquel levantamiento en septiembre del 2020.",
+      "score": 0.25,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, el Estado, en este caso, **Sergio Massa** le regala un mercado a la empresa **Mirgor**.",
+      "score": 0.2,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando la Coalición Cívica planteó la menor duda sobre el régimen de Tierra del Fuego, del que hemos hablado muchas veces, un comunicado de la conducción de la Unión Cívica Radical diciendo prácticamente esto no se puede hablar de esto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8893
+}

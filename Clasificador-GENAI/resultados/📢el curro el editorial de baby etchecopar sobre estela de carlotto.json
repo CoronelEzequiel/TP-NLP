@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Se sabe que muchos dirigentes peronistas aportaron personas, lo cual es lo peor de la \"casta\", ¿viste?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted avaló a los extremistas, a los guerrilleros.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes no defendieron a los argentinos, y se lo voy a explicar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted manejó espuriamente los destinos de la gente que no pensaba como usted, y peor aún, tuvo derechos humanos para un solo lado, el de ustedes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso le digo que no es momento para que usted se ofenda, porque realmente los que estamos ofendidos somos los argentinos de bien o de mal, que perdimos tantos años.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Primero diez años con su hijo y su nieto y su abuela y su cría, y los últimos veinte con la socia suya, con los socios suyos, con los saqueadores de la patria y los delincuentes que se llevaron la plata en bolsas de residuos y todavía no la encontramos porque ni ellos saben dónde la enterraron.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2830
+}

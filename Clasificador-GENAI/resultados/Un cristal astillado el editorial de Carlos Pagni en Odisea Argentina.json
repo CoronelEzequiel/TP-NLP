@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuando hay un dólar intervenido, como sucede ahora con el cepo, los movimientos del dólar libre, que pueden ser, en este caso, el MEP, el contado con liqui y el dólar blue, van indicando cuál es el nivel de inquietud de la gente respecto de cómo el gobierno va manejando las cosas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Liberar el cepo significa algún movimiento en la cotización del dólar hacia arriba y, por lo tanto, significa algún traslado a precios de ese movimiento del dólar y, si hay un traslado a precios, quiere decir que la percepción del público va a ser a cabo de la inflación y, como nosotros sabemos, el repliegue de la inflación es la mayor victoria política que el gobierno puede llevar a las elecciones de octubre, es la bandera.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el lado pro Cristina van a decir: no, esto es la persecución que ella viene denunciando, el *lawfare*. Esta es la discusión penal, pero se plantea otro problema, que es un problema específicamente político, que hay que exponer con independencia de que a uno le guste o no Cristina, y que crea que lo penal es justo o no, que es que del rompecabezas de la política argentina se saca una pieza, que representa el 30% aproximadamente del electorado y eso algún ruido genera, y alguna algún desequilibrio genera en el sistema,",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri dijo, aquí hay un problema de institucionalidad, de baja sensibilidad frente a los temas institucionales por parte de este gobierno, que eso está afectando esa pérdida de sensibilidad institucional, está en la raíz de la incertidumbre o de la inquietud que empezamos a encontrar en el mercado de cambios, en la economía general, y Macri se está refiriendo a las cuestiones institucionales y supongo que, centralmente, a un tema que ha sido polémico desde que se planteó en enero del año pasado, que fue la primera versión que hubo, que es la llegada de Ariel Lijo a la Corte Suprema de Justicia,",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8983
+}

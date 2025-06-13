@@ -1,0 +1,26 @@
+{
+  "texto_id": "swingers",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.433,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esta tendencia social consiste en la libertad de compartir la pareja con otra, estableciendo un intercambio consensuado de intimidad.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En Argentina, inicialmente generó mucho morbo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El *swinging* se basa en el consentimiento mutuo y explícito de todas las partes involucradas.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 969
+}

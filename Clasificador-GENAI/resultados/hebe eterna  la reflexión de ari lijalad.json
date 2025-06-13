@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Es un gran desafío porque no voy a decir nada que no hayan escuchado, pero creo que es un buen momento para recordar que en las Madres de Plaza de Mayo tuvimos la enseñanza del coraje para enfrentar la dictadura, la búsqueda incansable de sus hijos y nietos, la perseverancia en esa lucha hasta el día de hoy, y sobre todo, una enorme enseñanza democrática: la no venganza, la no violencia y la insistencia constante en el camino de la memoria, la verdad y la justicia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hebe de Bonafini era incómoda, por eso la odiaron hasta su último día y la odiarán siempre los sectores de poder.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me hizo acordar al cierre del discurso de Cristina Fernández de Kirchner el otro día en el Estadio Único de La Plata, al que Hebe quiso ir a pesar de su mal estado de salud.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que debemos decidir es si asumimos su legado y construimos un país sin odio, sin venganza, con memoria, verdad y justicia, donde la solidaridad sea algo cotidiano.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los argentinos y las argentinas tenemos que decidir si queremos ese país o no.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1976
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_jones_huala",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Nuestra Patagonia se construyó con habitantes de los pueblos originarios e ingleses.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La senadora de la República, Carmen Gloria Aravena, criticó las decisiones judiciales que entregaron la libertad a Jones Huala, y espera que termine de cumplir su pena sin ninguna posibilidad de que ninguna corte chilena le dé libertad condicional a este terrorista, que debe estar preso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Queremos que nos dejen ejercer nuestros derechos políticos y territoriales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquí, la violencia política del Estado tiene que seguir en el camino de la autodefensa a los peñis, a la Amiens y el sabotaje a las grandes empresas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todos sabían que estaba en la zona, nadie lo buscaba. La policía del Bolsón lo detiene sin saber quién era. Estaba alcoholizado, perdido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos una justicia también cómplice, cobarde, que genera este tipo de acciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4285
+}

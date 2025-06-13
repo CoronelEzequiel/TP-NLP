@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.329,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei, en el mismo día, denunció un sabotaje en la entrevista que le realizó el periodista Antonio Laje en A24, recordando cuando se quejaba de que en el debate con Sergio Massa había \"operadores\" para perjudicarlo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ese tipo de pensamientos, que siempre atribuyen a una conspiración un interés espurio en cada crítica que se le hace a su gestión, tiene similitudes con los pensamientos persecutorios de la paranoia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei denunció sabotaje y dijo que no le sorprende, porque ya lo habían querido sabotear en la campaña electoral. ¿Dónde está la prueba?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Decir que Cavallo criticaría a Milei para salvarse de causas judiciales, todo esto mientras en realidad casi la totalidad del texto de Cavallo era un elogio a la economía del gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aquellos que, además de escuchar, nos vieron por televisión, las pueden ver. \"Pero es lo que acabo de descubrir. Si no fuera el presidente, generaría una suerte de gracia, con ternura, como un rasgo infantil. El presidente cada vez que pasa por ese pasillo mira su cara y sus logros en una especie de representación como si fuera un superhéroe. Si hay algo parecido a la hipertrofia del yo de la que hablaba Lacan, debe ser esta misma foto que acabamos de mencionar\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre decimos que esperamos estar equivocados y que el presidente tenga razón, por el futuro de todos los argentinos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En ese caso, de ser así, habría el riesgo de que \"el presidente se lo coma el personaje\", como suele decirse en el teatro, y aquello que comenzó siendo una táctica, una manera de negociar, de generar fuerza cuando no la hay, se convierta en un rasgo permanente de su manera de ejercer el poder.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4525
+}

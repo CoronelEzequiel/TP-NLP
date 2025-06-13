@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Porque la imagen que se ha constituido alrededor de ella con elementos objetivos y en alguna medida imaginarios o supuestos, conjeturales, es que ella es en el Ministerio de Economía una delegada de Cristina Kirchner.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy para Batakis el problema es el gobierno en su conjunto, el funcionamiento de la administración y también el diseño político del gobierno, de un gobierno perforado políticamente, de un oficialismo que se ha ido deteriorando muchísimo en todos sus rostros, no solamente en el rostro de Alberto Fernández.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esa página 13 aparece un ajuste fiscal muy importante, muy doloroso, que le pide el fondo a Guzmán y que ahora se lo pide seguramente también a Batakis para compensar los desajustes que se hicieron durante el primer trimestre de funcionamiento de ese programa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiere decir que un gobierno con un enorme problema de financiamiento internacional y también local en dólares y también en pesos se va privando también de otras fuentes de ingresos por este tipo de conflictos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que el problema de incumplimiento del programa, es más el problema por el cual Batakis no puede cumplir las medidas que prometió ni bien asumió en aquella conferencia de prensa, no tienen que ver con Cristina Kirchner, no tienen que ver con el Fondo Monetario Internacional, tiene más bien que ver con gente del Gabinete de Fernández, que cuando vieron venir una interrupción en los flujos de fondo a las distintas dependencias comenzaron a gastar antes y a atacar la caja de Batakis por las dudas de que Batakis pueda cumplir lo que promete, que es pararse sobre la caja y no repartir plata.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un problema que sí Batakis va a tener con el kirchnerismo y tiene que ver con la segmentación de tarifas.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un gobierno que defiende aparentemente la soberanía nacional destruye la moneda y destruye al productor de el sector más competitivo que tiene el país, que es el agropecuario.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gobierno-Sindicato mapuches es una especie de ataque piraña no muy claro hacia cualquier inversión que vaya a Vaca Muerta y también de ataque piraña contra la posibilidad de hacer un gasoducto.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner, Alberto Fernández, Massa, todos tienen más de 60 por ciento de imagen negativa.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8123
+}

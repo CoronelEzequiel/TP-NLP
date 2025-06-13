@@ -1,0 +1,41 @@
+{
+  "texto_id": "¡Primera denuncia o pedido de amparo del gobierno contra las prepagas!",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy Milei, te guste o no, es una de las voces más alineadas con el eje democrático occidental.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy habló La Cámpora, el Cuervo Larroque, ministro de Kicillof. Dijo: \"El que cuestiona a Axel está en una joda rara\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La realidad es que el... El peronismo, vamos a decirlo ampliamente, está totalmente... Mariado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La conductora de nuestro movimiento es la señora Cristina Fernández de Kirchner que nos está diciendo ¡Apatada!",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El gobierno tiene que hablar más del presente, del futuro y menos del pasado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El camino no es la pelea caprichosa, no es la pelea caprichosa, la emboscada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6134
+}

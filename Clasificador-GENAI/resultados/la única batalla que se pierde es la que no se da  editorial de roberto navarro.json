@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.133,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "De esta manera, se sostiene el bloque que está llevando adelante la destrucción del Estado y la entrega de los principales activos del país.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Juntos por el Cambio es el partido que llegó al poder y se mantuvo con el \"lawfare\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante los cuatro años que gobernó, encubrió el saqueo, persiguiendo, estigmatizando y, en muchos casos, encarcelando a dirigentes y voces disidentes, incluso a propietarios de medios.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los 87 votos que consiguió Milei con los jubilados, y que podría conseguir nuevamente, fueron calificados como una victoria heroica. ¿Por qué pueden hacer eso? Bueno, porque los medios más grandes también son de derecha.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que en la sociedad hay al menos un 50%, seguramente muchos más, que no comulgan con todo esto. El problema es que esa mayoría está subrepresentada, como habrán visto en todo lo que mencioné. Y el otro 50%, o menos seguramente, está sobrerrepresentado.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que seguir a los jóvenes hasta frenar a este gobierno y terminar con este horror que no nos merecemos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1900
+}

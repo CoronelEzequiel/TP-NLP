@@ -1,0 +1,46 @@
+{
+  "texto_id": "nombre_del_texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.771,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sos un tipo tan digno, tan entero, tan hombre, tan valiente, que te agradezco esto y voy a comenzar preguntándote: dicen, Esteban, que Dios tiene un plan perfecto para cada uno de nosotros.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Somboleta\" porque no les importa lo importante, porque nos están robando el futuro. \"Somboleta\" porque le roban la educación a nuestros chicos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este momento tan particular porque la gente está muy mal. Por eso, lo único que le pido es que nadie se haga la víctima de este Estado, ya sea del Poder Judicial, del Poder Legislativo, o del Poder Ejecutivo. Por favor, que nadie se haga la víctima, y acá la única víctima son los que no llegan a fin de mes, no tienen laburo, no tienen para darle de comer a los chicos y no tienen para llevarlos a un colegio a la vuelta para que les den un plato de sopa o de carne.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Escuchad lo que dijo el impresentable del chino Navarro: \"Durante su gobierno excluyeron a millones de argentinas y argentinos de la economía formal y ahora hacen campaña diciéndonos que las opciones para los pobres son elegir trabajar en la peor de las informalidades o morirse de hambre.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos truchos usan a los pibes como escudo humano, son boleta. Muy hijos de puta, poner a los pibes en primera fila en una manifestación. A estos pibes les están enseñando que no hace falta ni que estudien ni que laburen. Qué hijos de puta. Los van formando para piqueteros.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mamita, son boleta, el presidente hablando de Venezuela y de Cuba. De Venezuela y de Cuba, ¿vos te representa este presidente?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo esto que este gobierno te quiere tirar a la basura, un tipo como Esteban Bullrich te lo reivindica, y ahí decís: \"Estamos por el buen camino\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6846
+}

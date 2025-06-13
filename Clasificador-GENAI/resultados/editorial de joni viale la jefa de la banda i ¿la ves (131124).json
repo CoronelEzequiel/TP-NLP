@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.683,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Robaron tanto, hicieron tanto daño, generaron tanta pobreza, compraron tantas estancias, lavaron tantos autos, entonces, seis años de prisión, ni siquiera efectiva.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La persigue el Código Penal, por chorra, por chorra.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bestias de la corrupción, se robaron 235 capitales federales, insaciables, voraces, buitres, despiadados, en serio, fueron una máquina de robar y no es porque sea mujer.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aún así dice el vaquero Juan Grabois que el kirchnerismo no se va a quedar de brazos cruzados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, mira, la última ratio, saben cuál es, la soberanía popular, es el pueblo organizado que va a estar apretando a estos corruptos de patria y ampliadores\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, Grabois dice que Cristina no tiene un pelo de corrupta.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No importa la persona, si yo chorro o chorra, no puede ser candidato, fin.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner ya debería estar presa, hoy, hoy.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que llegó el día, me parece que llegó el día.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3260
+}

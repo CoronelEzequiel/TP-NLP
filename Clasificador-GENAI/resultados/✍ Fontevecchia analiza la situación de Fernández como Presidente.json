@@ -1,0 +1,36 @@
+{
+  "texto_id": "diaz",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pero no hacen nada. Eso es peor, que alguien te diga \"no, estás equivocado, no, no se lo merecen, no corresponde, los movimientos sociales son una porquería\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente dice, \"no, son unos fenómenos, se hacen todo bien\". Después no escuchan los reclamos que tenemos. Ni uno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Batakis hizo anuncios referidos al sector financiero, al Fondo Monetario Internacional, a plantear la estabilidad del dólar y a cuidar a quienes exportan masivamente, sin importarle que acá en Argentina no podamos comer como corresponde, y no dio ningún anuncio respecto al resto del pueblo, o sea, a la población en general.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no recomponemos ingresos, la desestabilización no es Cristina, no somos Movimientos, no es la UTEP, no es la izquierda con Bregman. Son los mercados, lo tienes que entender.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuanto más concedes a estas empresas que hoy tienen más poder, están más extranjerizadas la economía, están más concentradas en la economía, y seguimos con la misma receta que hace 40 años, 30 años, que no funcionaron.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3898
+}

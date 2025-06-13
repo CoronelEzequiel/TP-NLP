@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta jornada, en la que se conocieron estas cifras, resulta propicia para analizar las medidas del gobierno, que responden a una lógica, hay que decirlo, bastante neoliberal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mejorar la macroeconomía, se realizan concesiones a sectores poderosos, siempre inclinándose hacia el mismo lado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, todo esto implica una transferencia de recursos del Estado (financiado con impuestos) hacia grupos económicos concentrados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay un Estado ausente, sino un Estado presente con una lógica neoliberal, que realiza concesiones para impulsar la economía, con las consecuencias que vemos hoy: un agravamiento de la crisis y un aumento de la pobreza.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1446
+}

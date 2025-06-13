@@ -1,0 +1,46 @@
+{
+  "texto_id": "audio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.073,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Lo veo positivo, que sea un gobernador del norte argentino, y de una provincia como Tucumán, que era la más importante del norte en términos cuantitativos y cualitativos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya sabemos que ellos quieren el orden con un esquema represivo, quieren desalojar, quitar derechos a la protesta, etcétera. Son los mismos actores del 2001, 2015 y 2019, que dejaron al país en las condiciones que lo dejaron.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que buscar la forma de armar un equipo sólido, con una propuesta y un programa de gobierno sólidos, fuertes, que entusiasmen y enamoren a la gente, y que planteen algo distinto.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos procurar que Unión por la Patria tenga una propuesta única.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No podemos entregarle el país a la derecha.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un país con enorme potencial, que va a salir de esta crisis, un país al que le generaremos distribución y oportunidades para todos los argentinos, incluyendo a nuestros pueblos originarios, que tienen los mismos derechos que los capitalinos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos tener una mirada más federal. No solo existe Buenos Aires; deben escucharnos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2431
+}

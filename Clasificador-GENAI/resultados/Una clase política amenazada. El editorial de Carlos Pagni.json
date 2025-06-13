@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_argentino",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.483,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Extraordinariamente polarizado entre izquierda y derecha, lo estuvo durante todos estos años.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Crecen opciones radicalizadas y crece el número de gente que le quita el cuerpo al sistema, que dice \"no quiero saber nada con ninguno\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El frente de todos, esta es la obsesión de Cristina; cuando lo mira Alberto Fernández, perdió entre el 2019 y el 2021, 40% de los votos. Eso se fue a la abstención, a la ultraizquierda, al voto en blanco.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una contracción de la moderación, que hace juego con una gran desconfianza, un gran rechazo a la política en general. Se expanden, entonces, las opciones que hablan en contra del sistema, y eso genera muchísima inquietud en los dos bloques dominantes.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este problema pareció haberse resuelto, y acá hay algo muy importante para entender este gobierno, y para entender el kirchnerismo, ilusoriamente, entre el 2003 y 2009-2010, con una ola de bonanza que pareció que encontramos de nuevo la clave, pero esa experiencia, liderada sobre todo por Néstor Kirchner, fue una experiencia ocasional, ligada al gran ajuste posterior a la convertibilidad, que fue la gran herencia que tuvo Kirchner: gobernar después de una crisis y los precios internacionales que empezaron a subir milagrosamente, prodigiosamente en el momento en que él llegara al poder.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos ante una clase política llamada a un enorme desafío, que es explicar, explicar y explicar, ¿desde dónde? Desde un lugar de autoridad política que implica autoridad moral, ¿con qué autoridad? Vos, dirigente político, vos, vamos a usar una palabra desagradable, \"casta\", ¿me vas a pedir que yo haga estos ajustes?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8695
+}

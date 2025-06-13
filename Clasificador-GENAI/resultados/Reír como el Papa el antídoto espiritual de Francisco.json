@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_papa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este monje representa esa parte del poder que teme lo lúdico, porque el juego, la ironía y la parodia no se pueden controlar, no obedecen, no se inclinan, no se toman en serio ni a sí mismos, como diría Bajtín, una forma de carnaval, de desorden, de jerarquías que burlan los mandamientos y hacen temblar los altares.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Papa Francisco fue una de las personas más influyentes del mundo y era inusualmente opuesto a esta forma de concebir el ejercicio del poder. Tenía un sentido del humor envidiable y, podríamos decir, conscientemente cultivado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Claro, los argentinos, cuando vieron un Papa argentino, se olvidaron de todos los que estaban a favor o en contra del Papa argentino. Y los argentinos que no somos humildes y que somos muy engreídos\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3449
+}

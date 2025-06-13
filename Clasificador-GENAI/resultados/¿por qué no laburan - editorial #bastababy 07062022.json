@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.57,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Pero tuve la suerte de trabajar al lado de grandes profesionales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mentira. Muy pocos hace ocho años que estamos luchando y siendo censurados y con juicios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También quería contar esta noche cómo fue trabajar con los Kirchner, que es una mierda, porque la verdad es que es una dictadura.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo estaba más en el juzgado que en el canal porque un día les conté, me hicieron un juicio desde Cabo Verde y yo no sabía ni dónde quedaba Cabo Verde ni qué carajo había dicho de Cabo Verde porque nunca hablé de Cabo Verde porque no lo conocía.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy quiero homenajear a los verdaderos periodistas, los movileros, esos que ustedes ven en la calle con la cámara, todo el día buscando la nota.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, quiero hablar hoy de eso, nada más, el orgullo de haber llegado hasta acá y lo cansado que uno está.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A mí nada.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero agradecer al doctor Vila, bien chupamedias voy a ser, a José Luis Manzano, a \"El Gordo\", me quedo con la libertad que me dan, la libertad que me dio Parodi, que me dan Hitas, porque te la dan, porque no te rompen las bolas, porque te conocen, a Pierluigi Vila, realmente maravilloso, el gerente de Nuñez, me dejan decir lo que quiera.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "a Jorge Lanata, que fue el que nos abrió el camino para que podamos hablar e investigar todos, y a los que quisimos investigar y hablar a través de Jorge Lanata y queremos descubrir los ilícitos y queremos una patria mejor, porque la realidad es esa, compañeros, acá no queremos plata, queremos una patria mejor, donde nuestros hijos puedan vivir en paz y en libertad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso hoy no hay un monólogo pegándole a los corruptos, porque corruptos tenemos todos los días, periodistas muy pocos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2765
+}

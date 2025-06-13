@@ -1,0 +1,31 @@
+{
+  "texto_id": "salud_laboral",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Quiero aclarar que, aunque vengo los viernes, me considero un amigo y compañero de todos los días.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Casi todo es modificable, exceptuando la herencia genética y la edad. Si uno lleva una dieta saludable y buenos hábitos, es probable que presente menos problemas de salud que alguien con hábitos alimenticios poco saludables, como muchos de nosotros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Debemos prestar atención a estas señales y priorizar lo que realmente importa: nuestros afectos, nuestra salud.  Debemos rodearnos de personas que nos aporten, ya sean familiares, amigos o compañeros de trabajo como el grupo que tenemos acá.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Aquí, en cambio, se ha logrado una gran conexión, gracias en parte al liderazgo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1529
+}

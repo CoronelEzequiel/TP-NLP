@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_rubinstein",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.72,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Gabriel Rubinstein es un técnico, un técnico al que nunca le interesó ser político, probablemente con la definición clara que tenían los griegos de la *TECNÉ*. La *TECNÉ* era aquello que estaba en el mundo de lo concreto, de la producción, de la fabricación material, y se oponía a la idea de la *praxis*, que era la esfera de la acción propiamente dicha.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No podríamos imaginar que Batakis, digamos, fracasara, no pudiera seguir adelante con medidas más fiscalistas, que empezara a tener más bombardeo de terismo y que la brecha entonces siguiera subiendo y finalmente todo eso desemboque, como sucedió más o menos en el 89, en una devaluación desordenada, una devaluación sin un plan oficial simplemente porque ya no tienen divisas, ya no pueden seguir pagando nada, entonces devalúan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Fíjense que el gobierno ha dicho, bueno nosotros no quisimos racionalizar energía, pero estás racionando la producción, para eso hubiera sido mejor racionar energía y que los partidos de fútbol se jueguen a la tarde y no a la noche y cosas por el estilo?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El vídeo político si no toma acciones que algunos le duelan, ¿a dónde van? No es nada, entonces yo creo que si ellos abrevaran bien en la historia, se darían cuenta para mí que mayor costo político es esta agonía con lo cual no van a ganar las elecciones y siempre están con el riesgo de estar invitación a la vuelta de elecciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este gobierno es incapaz mentalmente de hacerlo porque tiene taras mentales, empezando por Cristina que directamente no entiende el fenómeno, pero otros que lo entienden igual, no son potentes o no tienen suficiente apoyo político.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4294
+}

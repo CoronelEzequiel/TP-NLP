@@ -1,0 +1,116 @@
+{
+  "texto_id": "Texto Corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.674,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dos máculas indudables que se han valido de su poder para dictar dos leyes y así protegerse penalmente de delitos cometidos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El primero, el encubrimiento a Amado Boudou. Y el segundo, el encubrimiento al haber hecho aprobar por ley el tratado con Irán.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo hubiera querido que nada de esto ocurriera.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es necesario que Cristina explique. Y que explique claramente, no que se enoje.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no soy un dogmático.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un gobierno que renegaba de la política \"fashion\", ¿cómo puso a Boudou de vicepresidente? ¿Cómo hizo eso?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un gobierno que decía que era necesario poner fin a la corrupción menemista, ¿cómo explica a López con 9 millones de dólares en el baúl del auto?",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hay que ver. Yo estoy tan indignado como usted con López.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y yo quiero tanto como usted que se descubra lo de Báez, lo de López.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Definitivamente, ya a esta altura no comparto nada con Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y además, ya mi distancia es muy grande.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todo este quilombo que estamos viviendo, todo, los choreos, la falta de guita, la Argentina de subida, es culpa de Cristina Kirchner y de Néstor Kirchner.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto es un boludo, pato de la boda, egocéntrico, que llegó al final y creyó que iba a tener el bronce.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, no veamos a Alberto Fernández como el enemigo del pueblo, porque la verdadera enemiga del pueblo, en la que puso a Alberto Fernández, y lo ungió con la palabra, \"Alberto, acá tenés tu pueblo\", bueno, todo este quilombo que estamos viviendo, todo, los choreos, la falta de guita, la Argentina de subida, es culpa de Cristina Kirchner y de Néstor Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque también creo que usted que está en su casa se regodea y le gusta, hasta los golpes de Estado.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No te puede pasar nada mejor que le vaya mal al país, así vos que sos un fracasado lo justificas con el país.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pónganse de acuerdo como argentinos. No me importa de qué lado está de la grieta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si usted tiene ganas de que el país salga, deje de hinchar la pelota y empiece a hacer todo para que el país salga.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y déjese de bufonear y andar de, \"No, esto se va, el dólar se va a la mierda, esto se cae\", como hace un canal de televisión, colegas, donde todo lo que hace el presidente está pésimo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tienen que respetar al pueblo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo sigo en mi línea. Apoyo, pero no duermo con nadie.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4988
+}

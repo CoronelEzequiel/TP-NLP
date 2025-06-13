@@ -1,0 +1,46 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.471,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El mundo anglosajón, políticamente, se formó resistiendo el poder del estado para sacarle recursos al sector privado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la Argentina pareciera que la política está diseñada para poder darle al estado más poder para recaudar y obtener recursos con un problema central, que es la evasión; es decir, un sector de la sociedad paga más para que otro sector no pague.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el gobierno que llega, que es un gobierno que mayoritariamente fue votado por los más vulnerables, por aquellos que requieren de la asistencia del estado, a diferencia de los otros, que esperan que el estado los deje de seguir escorchando, estos otros necesitan del estado y, por lo tanto, tienen una visión por la cual lo que corresponde, el mandato electoral en alguna medida, es obtener recursos de ese 85% del PBI que votó a Macri, ese 40% del electorado que votó a Macri, que es el 85% del PBI, para asistir a aquellos que están excluidos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández, es evidente, recibió un mandato, y ese mandato es reanimar la economía; es decir, es muy probable que si el kirchnerismo vuelve al poder sea porque la política de Macri condenó a la sociedad argentina, y sobre todo a los sectores productivos, a la clase media, a una enorme recesión, y el mandato de Fernández es reactivar la economía y lograr sacar al país de la recesión.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto implica subir los impuestos de ese 85% del PBI, 40% del electorado que votó a Macri, para darle una mayor capacidad de consumo y de gasto a los sectores que, vamos a simplificar mucho, votaron a Fernández y a Cristina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una idea central de todo el pensamiento, digamos, keynesiano, que es que si yo restrinjo demasiado el gasto público, aumento la recesión y, al aumentar la recesión, recaudo menos y, por lo tanto, exagero o agiganto el déficit.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno cuida los dólares; aún cuidando los dólares con este nuevo cepo del impuesto del 30%, ¿alcanzan los dólares?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7728
+}

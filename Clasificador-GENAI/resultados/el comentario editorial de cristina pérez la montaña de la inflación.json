@@ -1,0 +1,66 @@
+{
+  "texto_id": "Noámicos suelen ser aburridos y, en cierto punto, bastante encriptados; los entienden los expertos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.732,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El primer consenso social para una salida de shock a la situación económica que se vivía fue el voto a Javier Milei.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y por eso el descenso de la montaña, de esta montaña que les estoy mostrando, es el principal dato político, no solo económico, de nuestro presente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La misma fue del 2,2%. Es el nivel más bajo desde el año 2020, es decir, la inflación más baja de los últimos años.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, el descenso de la montaña, ¿qué dice? Por un lado, que la receta dio resultado; por otro, augura y muestra también índices que reflejan el crecimiento de la economía.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es en este contexto que el gobierno busca ganar la batalla, llamémosle así, del sentido, saliéndole al cruce a los que hablan, por ejemplo, de atraso cambiario.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y busca el gobierno en momentos donde, en las encuestas, la inflación va bajando como preocupación, sube en otras cosas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El futuro, amigos, tampoco está libre de cisnes negros, y hay otras dos grandes montañas que tiene que bajar la Argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, esta última montaña, en este gobierno, tiene un antídoto que no habían utilizado otras administraciones, porque era un antídoto totalmente impopular, como lo es, impopular y súper ortodoxo, por otro lado, como lo es el equilibrio fiscal.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso ahora el viaje del presidente, del que yo les hablaba, el viaje a la CEPAC, que hace años se lo cuestionaban a Milei, ahora se convierte en una oportunidad diplomática.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno actualmente está dando una agresiva campaña por el relato en la economía estos días.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Decirle a Cavallo \"impresentable\" y echar a su hija, a riesgo de parecer injusto también, es demostrar que no va a negociar el tipo de cambio, ni aunque se lo diga Cavallo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4263
+}

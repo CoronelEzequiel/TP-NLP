@@ -1,0 +1,131 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.842,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En general, los dirigentes que son catapultados a la cima de la boleta electoral son elegidos por el mérito y por la capacidad demostrada en la gestión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sergio Massa y Wado de Pedro son los candidatos paridos por la hecatombe y el derrumbe de este cuarto gobierno kirchnerista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, primero quiero decir que los grandes responsables de este mamarracho indigno del oficialismo son Cristina Fernández, Alberto Fernández y Massa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca hubo un gobierno tan desastroso desde el regreso de la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y como si esto fuera poco, regaron la cultura con conceptos tóxicos como la impunidad, la reivindicación de la vagancia, los aprietes mafiosos y extorsivos de sindicalistas y piqueteros.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Está claro que los tres son los máximos culpables de que nos hayamos caído en este pozo tan profundo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ultramillonaria en su paso por el poder, pero este es un tema para otra columna.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Audaz y Vivillo, como se autopercibe, Massa aceptó ser ministro de economía, una apuesta de la timba que jugó con el futuro de los argentinos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso le digo que su posible candidatura es producto de la devastación que está dejando en nuestra patria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca visto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo premian a Massa por las barbaridades que hizo, o mejor dicho, no tienen muchos candidatos mejores porque Cristina en su verticalismo autoritario se dedicó a evitar que surgiera algún dirigente nuevo que fuera atractivo para el electorado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si no se arrodilla ante el altar de Cristina, ella lo desecha, lo humilla y lo ningunea hasta que cruzan de vereda.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Resulta increíble que el ministro de Economía de este gobierno tal vez haga campaña a presidente prometiendo hacer cosas buenas que hasta ahora no las hizo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No tuvieron una sola idea razonable, no solucionaron ninguno de los problemas y, si se les llega a ocurrir alguna idea positiva, alguna salida, bueno, sería bueno que la apliquen ahora, porque aunque lo leen, están en el poder, muchachos, y la mayoría de la gente no aguanta más.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos quiere hacer creer, al igual que Cristina, que no tiene nada que ver con este gobierno nefasto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero Wado es uno de los principales ministros y, como la \"materia gris\" de La Cámpora que es, tiene acceso con el máximo príncipe heredero a montañas de dinero de las principales cajas que manejan.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Eso, como usted ha visto, no les sirvió para gobernar bien ni para ayudar al pueblo con el que se llenan la boca, pero le fue útil para tener altísimos sueldos, chóferes, celulares, secretarias y para sabotear desde adentro al futuro gobierno si no llega a ser kirchnerista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Lo concreto es que una candidatura a presidente de Wado sería afrontar el riesgo de terminar terceros, de quedar afuera de la segunda vuelta y de llevar el peronismo a la peor elección de su historia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sus ideas son repeticiones calcadas de lo que dice y hace Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Se imagina usted este país gobernado por Sergio Massa o por Wado de Pedro?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, sería muy parecido a este gobierno que integran Sergio Massa y Wado de Pedro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería menos de lo mismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso es lo que son.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mucho menos de lo mismo y creo que la gran mayoría de la gente no estaría dispuesta a votarlos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3484
+}

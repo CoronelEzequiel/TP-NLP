@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Yo la pregunta que tengo es ¿se puede ser neutral cuando está en juego Occidente?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una parte importante del kirchnerismo, escuché por estas horas, salió a pedir neutralidad, mira.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei está haciendo todo lo posible, todo lo que está a su alcance por involucrarnos en una guerra que no nos es ajena.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo simpatiza, biológica y comercialmente, con Irán, muchachos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En Irán son lapidados y son ejecutados por ser homosexuales. Así de simple.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es un sector violento, fanatizado, que se llama yihadismo, islamismo extremo, que confía en Israel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo nunca fue neutral. Nunca lo fue.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy no importa saber quién voló la AMIA. Hoy no importa saber quién voló la embajada, dijo él.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, la neutralidad para mí es una forma elegante de decir que no te importa el tema.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3514
+}

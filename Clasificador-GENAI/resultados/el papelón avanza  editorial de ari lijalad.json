@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El ministro tuiteó —y podemos compartirlo— que las prepagas le están declarando la guerra a la clase media, y que desde el gobierno harán todo lo posible para defenderla.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No había opciones: o continuábamos con la interminable decadencia, o hacíamos algo distinto. De a poco, con mucho esfuerzo, vamos a salir adelante.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Caputo ha afirmado reiteradamente que la inflación baja, utilizando los precios de Jumbo (parte del grupo Cencosud), que informó en su último balance una rentabilidad superior a la inflación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hecho evidencia la necesidad de algunos funcionarios de mostrar resultados que la realidad niega.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la sucesión de errores de Caputo (sobre las prepagas), Menem (sobre la economía) y la utilización de un \"bot\" falso por parte de Caputo y Milei para justificar la baja de precios, resulta inaceptable, especialmente considerando sus cargos como presidente, ministro de Economía y presidente de la Cámara de Diputados, respectivamente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1669
+}

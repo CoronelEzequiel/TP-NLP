@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.067,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Anoche, los medios de derecha demonizaron a los trabajadores que reclamaban por sus salarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este derecho, conquistado con sangre luego de décadas de lucha, está demonizado; cualquier persona repite lo que escucha en la televisión.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un trabajador dice que quien trabaja en el aeropuerto no puede hacer huelga porque molesta; otro, que la maestra no puede hacerlo porque los chicos se quedan sin clases; otro, que el médico no puede porque hay que atender la salud; y otro, que los trabajadores del puerto no pueden porque necesitamos exportar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La actual ley no solo duplica la cantidad de indigentes por ingresos, sino que suspende la entrega de alimentos; de hecho, ya no se compran más.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las universidades fueron vaciadas; los profesores universitarios ganan entre un 30% y un 40% menos que el año pasado, y muchos buscan otro trabajo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos medicamentos que antes tenían un 100% de descuento ahora tienen un 40%, y la gente no puede comprarlos porque los medicamentos subieron mucho más que la inflación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos detenernos un momento y no acostumbrarnos, porque acostumbrarse es resignarse.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Exigimos una reunión inmediata con el interventor del PAMI. Tenemos sus correos electrónicos, sus teléfonos y nuestras firmas.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Deberíamos vivir así, al ritmo del más vulnerable, deteniéndonos a ayudar cuando alguien se cae o se enferma.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muchos antropólogos dicen que hay un cambio antropológico: el ser humano es más cruel y más estúpido.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2400
+}

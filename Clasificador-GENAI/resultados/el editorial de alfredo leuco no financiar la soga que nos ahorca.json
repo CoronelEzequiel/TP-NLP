@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.815,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "No estamos dispuestos a financiar la soga que nos ahorca.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el valor de la cosecha actual es de 40.000 millones de dólares, el gobierno se queda con 20.000 vía tipo de cambio y con 10.000 más por las retenciones.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso se llama confiscación o expropiación.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En los últimos 20 años, el Estado Nacional se quedó con 100.000 millones de dólares por retenciones, y nada de eso volvió al campo porque no son coparticipables.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En lugar de utilizar esa fortuna descomunal en producir fuentes de trabajo, fortalecer la educación o mejorar la infraestructura para la actividad, los Kirchner utilizaron esos fondos en el altar más brutal de los populismos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "De cada 100 pesos de la renta agraria, los estados nacionales, provinciales y municipales se quedan con 64,9 pesos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esa actitud pisotea cualquier brote de crecimiento con inclusión, expulsa las inversiones y castiga a quienes trabajan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así le va a este gobierno en descomposición, que agravó todos los problemas y no resolvió ninguno.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el gobierno de los Fernández insiste en humillar y descalificar a la agroindustria, seguirá profundizando su decadencia, su odio y su ideologización, y esto se le volverá en contra, sobre todo porque el campo es el gran motor del crecimiento y la única fábrica genuina de dólares que tiene Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Argentina se recuperará con el campo, nunca sin el campo y menos aún contra el campo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2311
+}

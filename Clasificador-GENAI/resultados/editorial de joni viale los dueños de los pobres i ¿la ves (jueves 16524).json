@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.805,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Aristóteles decía: la esclavitud nunca tiene tanto éxito como cuando el esclavo está convencido de que es por su propio bien.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Le han lavado el cerebro a misiones de argentinos, a misiones de argentinas, y se convirtieron en sus dueños.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estás naturalizando algo aberrante, maestro, algo inmoral, algo repugnante, algo asqueroso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No puede haber un solo caso en un movimiento social que le roben la plata a los pobres.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "De manera que esto se volvió un negocio impresionante, porque acá el tema es la plata, muchachos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El derecho lo tiene el que produce. No el que está viviendo de otros y además los abotea.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milei en campaña dijo algo. Si está bien o mal. Dijo: se termina el financiamiento, se acaba. Se terminan los piquetes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están acostumbrados a usar la plata del Estado para sostener sus cajas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre fueron amos y señores de los pobres, los dueños de los pobres.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta gente no se va a resignar a dejar de ser los dueños de la pobreza y, mejor dicho, los dueños de la Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 6618
+}

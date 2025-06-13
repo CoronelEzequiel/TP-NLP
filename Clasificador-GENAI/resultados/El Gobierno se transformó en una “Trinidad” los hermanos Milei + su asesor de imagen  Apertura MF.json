@@ -1,0 +1,46 @@
+{
+  "texto_id": "miercoles_29_de_mayo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.586,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a tratar de explicar por qué la foto de ayer y el hecho de que se haya hecho caminar a Guillermo Francos a través de la Plaza de Mayo marcan que el verdadero poder, luego del presidente Javier Milei y su hermana Karina Milei, es el asesor de comunicación.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno se transformó en una Trinidad en la que gobiernan los hermanos Milei y, cada vez más, su asesor de imagen, Santiago Caputo.",
+      "score": 0.58,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claramente, el poder queda constituido, como decíamos, por una nueva Trinidad, que componen los hermanos Milei junto con el asesor comunicacional.",
+      "score": 0.57,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el discurso del triunfo, Milei dijo que había textualmente alguien que se mantiene en las sombras, pero que fue el verdadero arquitecto del triunfo, y nombró a Santiago Caputo, un hombre hasta ese momento desconocido, al lado del apellido del hiperconocido Luis \"Toto\" Caputo.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según los allegados de Caputo, Santiago tomó la campaña de Milei muy distinto a las otras, porque él mismo es libertario, y tanta circunstancia con las ideas que Milei defiende lo predisponen muy especialmente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que, con un poco de humor, titulamos en la apertura de hoy, día 171: \"Santiago Caputo, el nuevo jefe de gabinete\", en un sentido simbólico.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y con el planteo de la divina Trinidad de Javier Milei, Karina Milei y Santiago Caputo cerramos la apertura de hoy con la misma música con la que abrimos, de la Santísima Trinidad, del compositor español del siglo XVIII, Antonio Soler.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4915
+}

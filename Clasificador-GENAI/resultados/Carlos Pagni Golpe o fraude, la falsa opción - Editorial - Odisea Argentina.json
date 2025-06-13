@@ -1,0 +1,41 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En Bolivia se ha planteado una situación extraordinariamente compleja, que la política local, argentina y regional está tratando de simplificar de manera maniquea, como si se pudiera elegir entre fraude o golpe de Estado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Calvimontes acaba de contestar que sí, que las Fuerzas Armadas van a responder al llamado de la presidenta provisional y van a responder al reclamo que ella hace a la policía para poner orden en una capital boliviana, que está tomada por aproximadamente 3.000 militantes armados, identificados con el presidente saliente, que está ahora buscando asilo en México, Evo Morales.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que estamos viendo en estas 48 horas dramáticas en Bolivia es que las distintas facciones que compiten dentro de cada país por el poder, por la interpretación de los hechos, por lo que se llama habitualmente el relato, usan la situación boliviana como un insumo para una u otra interpretación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahí se empieza a producir un levantamiento de distintos centros cívicos, sobre todo en Santa Cruz de la Sierra, que es un bastión contrario a Morales. En Potosí empieza a haber una gran movilización política, que primero es llevada adelante por las fuerzas clásicas de la oposición a Morales, y después queda liderada por Luis Fernando Camacho, que es un líder que no fue candidato a presidente, un líder que bordea lo antidemocrático, muy antisistema, ligado a cierto fundamentalismo religioso, que se mira, en alguna medida, en el espejo de Bolsonaro en Brasil, y que empieza a promover una rebelión cada vez más activa y más caudalosa contra el gobierno de Morales, acusado de fraudulento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es acá donde se vuelve muy capcioso, muy irreal, pedir si hay que elegir entre papá y mamá, es decir, si el que tiene la culpa es Morales, por todo el fraude institucional y electoral, o si tiene la culpa el ejército, por negarse a mantener el orden público.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando Alberto Fernández dice –citando a Cristina Kirchner– que Evo Morales tiene una especie de legitimidad especial, porque es el único o el primer presidente boliviano que se parece a los bolivianos; que habría una especie de legitimidad étnica por la raza.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6625
+}

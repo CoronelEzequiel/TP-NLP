@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "En estos días, tanto en el plano institucional como en el plano económico, la dirigencia política argentina está demostrando que puede comportarse como casta o como clase.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina le dice: \"No, consenso no. Lo va a poner el oficialismo\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No, el problema de Rafecas es que es muy principista y esto es un tema práctico\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, los oficialismos tienden a aparecerse entre ellos y los políticos tienden a aparecerse más entre ellos en su condición de políticos que a diferenciarse por el partido en el cual militan.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7478
+}

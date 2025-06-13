@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Para analizar el mundo que se abre tras la asunción del líder de la extrema derecha norteamericana, empezamos la columna de hoy con esta versión actual de 'YMCA' cantada por los propios Village People en un meeting del triunfo de Trump celebrado ayer en Washington.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Será verdad que a veces los fines justifican los medios? Por ejemplo, en el caso de Julio César, él ensayó la idea de una dictadura 'correcta', es decir, un régimen autoritario en beneficio de las mayorías.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En su última etapa, la famosa revista *The Economist* se aventura con una hipótesis muy catastrófica sobre el futuro del mundo en la nueva era Trump.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando Milei dice 'no tenemos miedo', se refiere a una suerte de autoritarismo *laissez faire* en el que la justicia es inconsensual con los sectores que lo sufrirán y sobre los plazos de ese sufrimiento ni las condiciones de recuperación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En nuestro caso, la respuesta sigue siendo: no vale la pena perder la democracia para conseguir, por ejemplo,, competir con un sistema no democrático o para simplemente detener la inflación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4920
+}

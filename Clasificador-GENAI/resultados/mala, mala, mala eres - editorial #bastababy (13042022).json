@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Que el gobierno que armó con Alberto es una porquería.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que nos llevó a un 7% de inflación. Que es un desastre.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo me preguntaba en medio de todo este circo, esta porquería, ¿por qué nosotros tenemos que estar condenados a soportar a esta cría de sinvergüenzas, incoherentes y malintencionados, además de ladrones, durante 20 años?",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y voy a hablar de ella y de la oposición.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los fideos cuestan 219 pesos, a fin de año van a costar 350.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso quiero decir que apoyo a Alberto Fernández este año y medio que le quedan para después poder votar a un presidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cualquiera que venga a priorizar esta situación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3266
+}

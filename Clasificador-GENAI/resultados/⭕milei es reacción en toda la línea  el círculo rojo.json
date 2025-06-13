@@ -1,0 +1,36 @@
+{
+  "texto_id": "La verdad del poder o el poder de la verdad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La Libertad Avanza, el partido de Javier Milei, está teniendo un éxito que no se refleja en la conversación pública, tal como lo llamaban los referentes del PRO en su momento.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El éxito al que me refiero está vinculado a la imposición de los términos del debate, y se basa en dos operaciones. En primer lugar, una operación básica que consiste en agitar fantasmas y tempestades que presuntamente acechaban al país, tanto a nivel general como en la economía en particular: la inflación llegando, según Milei, al 17.000%, la pobreza cercana al 100% y la recesión como un hecho consumado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿No reconoces el éxito de Milei en la desaceleración de la inflación?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La orientación económico-política debe considerarse como un conjunto, y la hoja de ruta de Milei, tomada como un todo, es esencialmente reaccionaria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parte de la batalla cultural es política y económica, ya que la cultura no es independiente de la economía política.  Esta discusión se centra en evaluar la orientación de conjunto, que en el caso de Milei es reaccionaria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1944
+}

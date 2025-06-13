@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.79,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me parece que el peronismo es otra cosa.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta vez, el 17 de octubre fue el día de la deslealtad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las últimas imágenes de la coalición de gobierno fueron metáforas de la división y de la falta de acuerdos mínimos entre sus líderes y entre el peronismo tradicional y el kirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La fractura expuesta se puede radiografiar de la siguiente manera: Ni el domingo ni el lunes hubo actos masivos que tuvieran como oradores a los principales líderes de esta coalición de gobierno que no funciona.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el acto del domingo, con \"piantavotos\" chavistas de la peor calaña, por momentos se castigó más a Alberto que a Macri.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Expresiones callejeras como las del lunes cortan calles, generan caos de tránsito y no le suman un solo voto al gobierno ni una sola gota de credibilidad a tantos jerarcas sindicales millonarios, enriquecidos en forma ilícita con trabajadores pobres.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Berni, mano derecha de Cristina en el más amplio sentido de la palabra derecha, dijo que no cree que Alberto sea peronista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El colmo es que peronistas primitivos como Guillermo Moreno, en clara actitud golpista, están reclamando que renuncien Alberto y Cristina y se llame nuevamente a elecciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presunto moderado Martín Insaurralde entró a la plaza rodeado de barras bravas de Los Andes, insultando a la madre del expresidente al grito de \"Mauricio Macri, la puta que te parió\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El signo de decadencia moral más grave, sin duda, fue la profanación del memorial de las piedras, como dijimos ayer, y de los muertos por el COVID y la mala praxis de los Fernández.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2708
+}

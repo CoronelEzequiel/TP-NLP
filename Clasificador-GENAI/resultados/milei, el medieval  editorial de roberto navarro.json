@@ -1,0 +1,41 @@
+{
+  "texto_id": "Navarro 2027",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.142,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se le otorgará al Presidente la potestad de actuar con discrecionalidad en diversos temas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En otras palabras, se le permitirá al Presidente, que claramente se opone a los derechos del consumidor, establecer políticas que permitan a los monopolios fijar precios a su antojo, sin que los trabajadores tengan la posibilidad de acceder a un salario justo que les permita satisfacer sus necesidades básicas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei parece ignorar esta realidad, y este proyecto de ley favorece este tipo de prácticas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ante el fin de un modelo basado en la idea de que “donde hay una necesidad, nace un derecho”, sin considerar que alguien debe pagar ese derecho, como ocurre con la llamada “justicia social”.",
+      "score": 0.2,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin el Estado, imperaría el caos y la ley del más fuerte.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei considera que el Estado es un obstáculo para las corporaciones, y lo compara con un pedófilo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1724
+}

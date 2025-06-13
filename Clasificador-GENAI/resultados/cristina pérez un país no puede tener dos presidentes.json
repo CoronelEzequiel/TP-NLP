@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.585,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La única guerra dentro del gobierno no es contra la inflación, es la guerra entre **Cristina Fernández de Kirchner** y **Alberto Fernández**.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El acuerdo con el Fondo Monetario Internacional (FMI) lo llevó a un límite tal que, parado en el jardín de los senderos que se bifurcan, se vio obligado a una decisión existencial: elegir entre los designios de ella, de Cristina, y su propia supervivencia ante el precipicio de otra crisis fenomenal.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, con el acuerdo puesto y la necesidad de cumplir las medidas que implica, hay una subversión de ese orden invertido impuesto por Cristina que ella vive como una traición.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Un país no puede tener dos presidentes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La crisis de gobernabilidad por el rumbo del gobierno generará cortocircuitos permanentes en cada decisión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero el cumplimiento del acuerdo con el FMI no admite ciertas contradicciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde la semana pasada decidieron ellos exponer la fractura.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como si el mandatario hubiera encontrado su fortaleza en mostrar la confrontación con Cristina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina no puede irse del gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso el combate se ha vuelto descarnado entre los dos, porque es por la supervivencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En un contexto desfavorable, nada mejor que declarar una guerra.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La guerra de los Fernández amenaza también con ser feroz y con cargarse algo que solía ser bandera del peronismo: las garantías de la gobernabilidad, eso que ahora parece deshilacharse.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ya se sabe que la primera patria para el peronismo no es otra cosa que el poder.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2876
+}

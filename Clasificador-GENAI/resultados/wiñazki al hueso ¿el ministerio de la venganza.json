@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nuestro colega Carlos Pagni alguna vez escribió en su columna en *La Nación* que los hermanos Hugo y Pablo Moyano, antes de que Alberto Fernández llegara al poder, empezaron a hablar del Ministerio de la Venganza, que querían estar al frente del mismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay un período de indagatoria a Mauricio Macri, el expresidente de la Nación, con una acusación muy grave: espionaje ilegal.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner se quejó de la persecución sufrida por el gobierno de Macri y ahora, como parte del Poder Ejecutivo (siendo vicepresidenta y presidenta del Senado), impulsa denuncias e investigaciones como si fuera la justicia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quieren reformar la Corte Suprema, ampliar el número de miembros.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y luego apareció Raúl Zaffaroni, el exjuez de la Corte, que dijo que los medios son el gran problema de la democracia en Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Comparó a los medios con el diario nazi *Völkischer Beobachter*.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y dijo que no faltan camisas pardas ni un partido nacionalsocialista para el totalitarismo en Argentina, y que nosotros somos el problema para que no se debatan cuestiones de fondo, como la reforma de la Constitución.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1945
+}

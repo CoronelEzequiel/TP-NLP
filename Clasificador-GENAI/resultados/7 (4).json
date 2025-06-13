@@ -1,0 +1,51 @@
+{
+  "texto_id": "Omar De Marchi",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.637,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando hablamos de que más del 50% de los argentinos son pobres, y que detrás de ese porcentaje hay familias, hay argentinos de carne y hueso, porque uno siempre tiende a hablar de estadísticas en términos genéricos, olvidándose de que son números representativos de comunidades humanas concretas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es la desesperación de advertir que hay un modelo de país que ha sido votado mayoritariamente por la ciudadanía, por la gente, y que hay obstáculos que imposibilitan ponerlo en marcha plenamente.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que responden parte de eso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Argentina tiene la chance de ser un gran país; en este momento no lo somos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El desarrollo va a venir en el momento en que empiece a haber inversión real en la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero hoy esos ahorros se están gastando en llegar a fin de mes. Bueno, es el costo que yo creo que todos estamos pagando para empezar a tener un país normal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina tiene que terminar de ordenarse de una buena vez y ahí empezar a agradecer.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero después la destrozaban en particular. Ahí hay una altísima cuota de hipocresía, porque en todo caso votan en contra en general.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2465
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Todo lo que ocurrió después, luego de la condena por los jueces y abogados que jugaban al fútbol en la quinta de Mauricio Macri, y de este intento de magnicidio con autores intelectuales que no están saliendo a la luz en el juicio, pero sobre quienes tenemos serias sospechas, cambió el destino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Durante varios años, persiguieron y encarcelaron a dirigentes políticos, lo hicieron con Cristina también, los difamaron, muchos terminaron presos, y eso funcionaba como disciplinador para el resto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Resulta que después nos enteramos de que todos esos chicos recibían plata. Y que el que más plata recibió, la recibió de la familia Caputo. También nos enteramos de que el número 2 de Patricia Bullrich, hace muchos años, en un bar, dicen que le dijo a sus dos secretarias: 'Mientras yo esté de viaje, la van a matar'.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esas circunstancias, gana este *freak* que hay hoy en la Casa Rosada. Con una Cristina perseguida judicialmente, y a la que quisieron matar.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Uno puede tener distintas diferencias con Cristina, pero cuando estaba Cristina, los chicos no se iban a dormir sin tomar la leche.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1782
+}

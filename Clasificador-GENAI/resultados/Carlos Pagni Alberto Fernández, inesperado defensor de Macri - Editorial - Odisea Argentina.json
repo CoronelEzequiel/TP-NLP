@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_mercosur_ue",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"¿Por qué? Porque la firma del acuerdo entre el Mercosur y la Unión Europea en materia de comercio obliga a plantear un debate que va a durar muchos años.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Cristina Fernández de Kirchner en algunos discursos solía decir algo que producía una enorme emoción y que plantea un enorme interrogante acerca de la viabilidad y de la sensatez que eso mismo, de eso mismo que decía, 'no vamos a importar ni un solo clavo'. El modelo de llegada, aquello a lo que aspiramos, es 'hacer todo nosotros, ser absolutamente autosuficientes'.\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Guedes fue clave en el proceso final de este acuerdo. ¿Por qué? Porque Guedes es un liberal, un hombre que cree, como cree Macri, como creen muchos miembros del gabinete de Macri, Nicolás Dujovne entre ellos, que los países que más progresaron en las últimas décadas o en los últimos siglos fueron los países que se abrieron más al intercambio comercial y que se volvieron más competitivos.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Alberto Fernández se puso en una posición proteccionista y dijo lo que suele decir todo el mundo que defiende ciertos niveles de protección que, en el caso del Mercosur, como decimos, son máximos niveles de protección. Dijo: 'probablemente un acuerdo como este destruiría la industria automotriz'.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Esta libertad de comercio está basada sobre la idea de que los países que progresan no son los que producen todos, son los que producen aquellos en los que son más competitivos...\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5592
+}

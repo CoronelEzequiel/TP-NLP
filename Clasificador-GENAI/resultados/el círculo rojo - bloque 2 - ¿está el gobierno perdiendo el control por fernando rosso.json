@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Desde que comenzó el gobierno de Javier Milei, la principal dificultad en el debate público es aceptar, quizás sin darse cuenta, el terreno de discusión que propone el oficialismo, sus voceros y sus aliados mediáticos, que son numerosos e influyentes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno está perdiendo el control: de la inflación (en febrero fue del 4% intermensual, superando el 2,2% de enero, según el INDEC), del dólar, de la calle, de las redes sociales, del Congreso (perdió el control en la última sesión de diputados) y de la agenda pública.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El programa económico del gobierno, a pesar de su proclamado éxito, depende de la ayuda del FMI.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En cuanto a las redes sociales, desde el caso Libra/CryptoGate, el gobierno viene perdiendo terreno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La respuesta de los manifestantes, en defensa propia, no es equiparable a la represión estatal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La participación de hinchas de fútbol en la manifestación refleja la debilidad de las organizaciones sindicales tradicionales (la CGT se reunirá para analizar un posible paro) y la penetración del reclamo jubilatorio en sectores populares.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1550
+}

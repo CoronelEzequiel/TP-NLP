@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.67,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Kirchner fue un fenómeno político que transformó la escena argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El acto se vio marcado por la ausencia de numerosos funcionarios emblemáticos del kirchnerismo, muchos de ellos presos o con prisión domiciliaria por causas de corrupción relacionadas con la obra pública del Ministerio de Planificación Federal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milagro Sala, presa en Jujuy con prisión domiciliaria, relata cómo Kirchner la sedujo con la promesa de integrarla a un proyecto nacional que le permitiría realizar sus proyectos en Jujuy.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Centro Cultural Néstor Kirchner, construido por José López (el hombre de los bolsos, preso y arrepentido en la causa de los cuadernos), es un ejemplo de ello.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La justicia considera que Cristina Kirchner estaba involucrada en el sistema recaudatorio, aunque se presume la inocencia hasta que se demuestre lo contrario.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1872
+}

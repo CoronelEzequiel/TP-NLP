@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.422,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Sí, sí, un 20% menos que el promedio de las otras temporadas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En la clase media, la clase media que está muy golpeada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gente que venía dos o tres semanas, ahora viene una semana o dejó de venir; algunos eligieron otro destino por el tema del dólar, por el tema de Brasil, por la devaluación y los precios, un combo… y la crisis que tiene el país, que es increíble, pero bueno, todos lo sabemos, ¿no?",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, le dijimos que había que apoyar… a ver, nosotros no pedimos ningún apoyo, no pedimos beneficios económicos.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Decimos que lo que está destinado al sector se use en publicidad.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Cuándo vieron una publicidad: “Visite la costa argentina”, “Visite Argentina”, “Apoye a nuestro país”, “Apueste al peso”? ¿Cuándo lo viste?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Al día de hoy no tuvimos respuesta, lamentablemente. Y bueno, tenemos que poner el hombro entre todos. El optimismo no lo perdemos, pero sí la preocupación la tenemos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque hay una crisis económica, hay una crisis de ingresos en la Argentina y sin embargo, está moviendo a mucha gente que se va al exterior; entonces, hay algo que no cuadra ahí.",
+      "score": 0.5,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me parece que en algún punto la historia se repite.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2870
+}

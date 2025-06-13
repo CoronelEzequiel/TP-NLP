@@ -1,0 +1,46 @@
+{
+  "texto_id": "Detenernos tratando de discernir lo principal de lo accesorio en esta nueva etapa del gobierno, cifrada en la presencia de Sergio Massa en el Ministerio de Economía",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La presencia de Massa en el Ministerio de Economía empezó con algunos problemas inesperados.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En cambio, lo que se suponía que iba a estar despejado como problema, el aspecto más seguro de esta gestión, iba a ser la política, porque se supone que Massa tiene dominio de esa disciplina, tiene experiencia en el manejo del poder y, sin embargo, Massa empezó en términos políticos con el pie izquierdo.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El segundo error que uno no esperaba de Massa es que postulara a un colaborador como Gabriel Rubinstein, cuya figura fue mencionada por todo el entorno de Massa y se publicó en los diarios, etcétera, como el futuro viceministro de economía, sin haber chequeado siquiera los antecedentes inmediatos de Rubinstein, que estaban caracterizados por una crítica demoledora y sistemática en el último mes a todo lo que podría surgir como ideas económicas de Cristina Fernández de Kirchner.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay anuncios energéticos, hay anuncios respecto de jubilaciones, hay anuncios respecto de futuras obtenciones de fondos, pero el centro del problema, que es la destrucción de la moneda, que es lo que genera que la gente huya del peso y trate de ir a cualquier cosa que se parezca a un dólar, y la consecuencia de todo esto, que es una brutal caída de reservas, ahí está el centro del problema.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa, hasta ahora, lo que ha planteado respecto de este problema son artificios que ahora vamos a analizar, bastante vidriosos, incomprobables, probablemente impracticables.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa viene a romper con ese mito, el mito del desendeudamiento que forma parte central del discurso de Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema fiscal es enorme, enorme.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8990
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.793,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El peronismo no aguanta estar mucho tiempo por afuera del poder.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo no es una fuerza democrática.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Odian la democracia cuando pierden.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nunca en la historia de la democracia se le hizo un paro general tan rápido a un gobierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El sindicalismo argentino no defiende al trabajador. Es, yo te diría simplemente, y esto sé que duele, una fuerza de choque del peronismo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milei es un forro del sistema. Es un paragolpes del sistema.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y las corporaciones te usan como un forro. Te usan para protegerse y te tiran.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5152
+}

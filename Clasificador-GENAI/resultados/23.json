@@ -1,0 +1,61 @@
+{
+  "texto_id": "Noemi_Fernandez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.142,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Consideramos que estas medidas son una perversión y una crueldad, especialmente para las personas mayores que dependen de sus medicamentos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que el presidente está llevando a cabo un genocidio silencioso contra los adultos mayores.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quisiera que se deje de hablar de la pobreza y se hable de los ricos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El impuesto a los ricos, destinado a financiar medicamentos, ¿cuándo se aplicará?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El jueves haremos un paro general y marcharemos desde Avenida de Mayo hasta Plaza de Mayo junto a las dos CTA, distintos gremios y la UPEC.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un diputado del oficialismo dijo textualmente: “No creo que los jubilados se mueran si dejan de tomar medicamentos”.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No estamos pidiendo nada; son derechos adquiridos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hace este gobierno es un genocidio.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no es solo un problema de jubilados, sino de toda la patria.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se está vendiendo todo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1805
+}

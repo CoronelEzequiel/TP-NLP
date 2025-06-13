@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En el único lugar donde todavía tenemos que andar como en Medio Oriente, con túnica, barbijo, es acá porque no nos vacunan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque no podemos tener un presidente de la Argentina que no sepa lo que está pasando en Cuba.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Di María estuvo sensacional, pero mejor estuvo Messi cuando no se prestó a la foto trucha que quería Alberto.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Espero que no me caiga encima este nombre como \"Argenzuela\", que lo armé yo y ahora se lo quedó otro para hacer un programa de radio.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no le permitamos a estos corruptos, en estos dos años que quedan, a ganarse lo que falta de la Argentina para dejarnos bien en pelotas como los países que admiran.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3096
+}

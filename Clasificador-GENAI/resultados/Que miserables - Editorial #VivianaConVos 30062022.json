@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "¡Qué miserables, qué miserables, qué miserables! ¡Qué indignos! Tienen a la gente viviendo en la pobreza permanente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿El número uno de los miserables, sabés quién es? El presidente, Alberto Fernández.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto hay que entenderlo de una vez por todas, lo que el macrismo hizo en la Argentina, y que es lo que nos ha dejado el peor escenario económico que podíamos tener.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No les pido que me ayuden, les pido que se callen. Re democrático Alberto Fernández, ¿eh?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es importante que sepan que los argentinos estamos juntos y atentos. No podrán pasar por arriba de la justicia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Van a otra provincia, en este caso, La Rioja, a contar todas las desgracias que están moviendo como ser riojanos no lo supieran, qué patético.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es Spilman en un rato en la mesa cuando venga María Eugenia Vidal, Florencia Arieto, con Campolongo, Mochacobete. Lo vamos a contar, condena firme, no jodan más, están defendiendo a una delincuente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8722
+}

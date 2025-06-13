@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.883,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de Alberto Fernández quiere que vote la menor cantidad de gente posible y que haya la mayor posibilidad de hacer trampas en las elecciones del domingo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sorprende, porque el kirchnerismo es capaz de atropellar leyes, órdenes de la Corte Suprema y hasta de violar todo tipo de normas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dicen que vinieron mejores, que volvieron mejores y que vinieron a ampliar derechos, pero en realidad esto demuestra que vinieron peores, más autoritarios, a cercenar derechos y a poner la democracia a su servicio.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otra trampita es demorar el regreso de miles de varados.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Suponen que el aparato del kirchnerismo y el peronismo van a llevar a la totalidad de sus votantes y que los que eligen a las opciones opositoras, bueno, son menos entusiastas y menos disciplinados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero los muchachos peronistas se niegan con fiereza y lo mismo pasa con la ley de ficha limpia, que no permite que los procesados se presenten a elecciones.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1932
+}

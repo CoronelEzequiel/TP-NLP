@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Acuérdense que nosotros veníamos solos mucho tiempo hasta que apareció la chica, seis puntos, exacto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si no querés, nos vamos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No le tememos al fracaso.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ustedes quieren ser diferentes a ellos? ¿Para qué no rompen las pelotas?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto va a pasar en la Argentina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Realmente, dense cuenta que la degradación es de ustedes, es de ustedes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, ayer me volví a casa después de la radio, no a la noche, y veía todo cerrado, ni un alma en la calle, y me agarró una angustia, porque repliqué la angustia del Covid y me acordé que estos hijos de puta nos tuvieron un año y medio metidos adentro de casa castigándonos, y salíamos puteándonos y salían todos los payasos, los infectólogos, que son seres diferentes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los votamos para que no nos cobren 160 impuestos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los votamos para que podamos llegar a fin de mes, para comernos un asado y que la carne no haya que comprarla en Tetoreli.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nos quedamos adentro como boludos, nos quedamos adentro como boludos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros seguimos peleando por las instituciones, seguimos peleando por un país mejor, los chorros que se hagan cargo, los que se robaron la plata de la Argentina que se hagan cargo, nosotros podemos esperar a la justicia que los condenen, lo que no vamos a soportar más, querido Alberto, es que nos tengan media hora más, no disfrutando del sol, porque a vos se te ocurre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3423
+}

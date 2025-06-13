@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.525,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Milei carga con la contradicción de, por un lado, ser un presidente votado fundamentalmente en el interior, en muchos de los lugares donde arrasó con números históricos, y, por el otro, generando importantes problemas de financiamiento a las provincias, cuyos habitantes son quienes más lo votaron.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ajuste es muy fuerte y lo están pagando la gente de los sectores más populares.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Parte de defender nuestra soberanía también es defender el federalismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi error fue haber ido a hablar con los gobernadores de una manera tan transparente y honesta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3644
+}

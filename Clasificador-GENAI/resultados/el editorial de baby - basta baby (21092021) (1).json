@@ -1,0 +1,76 @@
+{
+  "texto_id": "Cómodos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "No estamos a tiempo de hacer más miradas y tiros que buscan solo a las mujeres.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ya que en lo de Pueblo y Piso la gente dejó de escuchar a los políticos, vemos las cosas como son, nos siguen mintiendo, estamos cansados.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El papelón que están haciendo los señores de arriba, esos viejos, allá abajo, ahí hay una fuga de Quisilón.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que llamar y dejarlo en la mesa. Vayan todos los que crean. Miren que ya hace seis años estoy luchando con otras personas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son peligrosos, que están dando manotazos guardados. No crean que va a cambiar los seis minutos de fichón a diario.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y que la gente no se olvida, fui a aprovechar estos grandes minutos que me da el canal para recordarles que son los mismos que nos robaron la vacuna, los mismos que nos robaron la ira, los mismos de Santa…",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Luchar para asistirse, luchar para disfrutar, sacar a los chorros, los motochorros, los narcotraficantes, sacar a todo, por eso el coletazo se encuentra.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nos agredieron a la Argentina, nos destruyeron la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí salía y pudo hablar en un discurso que se me nota que Pau Itiago se le cambió el semblante, la delegación, todo mierda, le tumba la voz cuando habla, empecé 30 años, pero no sabía que era la pipa de Atriz.",
+      "score": 0.2,
+      "etiqueta": "ultraizquierda"
+    },
+    {
+      "frase": "Están muy violentos los paisanos.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hicieron cercos entrenados y sacaron cercos a la calle. Acá no cambió nada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me parece que a los mejores ellos piensan que traicionando a la gente van a ganar la selección.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay gente que puede ir a la mirada, con trabajo en blanco, digno, que va a sacar crédito, que va a sacar su pared de crédito y vivir ahí nuevamente como el resto del mundo y la clase media de la gente de la criatura.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3688
+}

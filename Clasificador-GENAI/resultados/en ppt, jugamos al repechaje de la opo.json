@@ -1,0 +1,46 @@
+{
+  "texto_id": "¿Qué pasa con Rinconcito",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.664,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cosa que los políticos de Juntos por el Cambio quieren hacer con los kirchneristas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Exterminar, fusilar, aplastar, destruir, liquidar, limpiar, pulverizar, momificar, degollar, cortarlos en fetas, en juliana, en concassé, hervirlos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Apodo que usa Horacio Rodríguez Larreta para referirse a su amigo íntimo, Diego Santilli.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Arengas que Bullrich podría hacerle a Carolina Losada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Le cagas la barba, Carolina!",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¡Hoy podés ser heroína!",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¡Cométe la cancha!",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1449
+}

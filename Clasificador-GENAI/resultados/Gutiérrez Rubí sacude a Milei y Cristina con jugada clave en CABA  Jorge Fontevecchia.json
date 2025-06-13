@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La división de la derecha le dio la posibilidad luego al gobernador bonaerense, Axel Kicillof, de hacer su jugada, desdoblando también las elecciones bonaerenses y plantándole cara a Cristina Fernández de Kirchner, quien, luego de designar como su candidato a Alberto Fernández, aparece debilitada en su propio seno peronista.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una traición en la espalda haber contratado a Gutiérrez Rubí. Decidió desdoblar y violentar la posibilidad de un acuerdo para defender el reducto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El acierto de Gutiérrez-Rubi fue obligar a La Libertad Avanza a anticipar sus cartas y mostrar que realmente quería fagocitarse al PRO, obligándolo a competir y evidenciando sus verdaderas intenciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En todos lados hay que aliarse a La Libertad Avanza.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La democracia precisa un PRO fuerte para reconstruir un Cambiemos 2.0 en 2027.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4085
+}

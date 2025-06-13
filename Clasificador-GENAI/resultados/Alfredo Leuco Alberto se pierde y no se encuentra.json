@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Está claro que el presidente se perdió, pero no se encontró. Se cayó, pero no se levantó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo e hizo torpezas que la historia se encargará de recordar como el peor presidente desde el retorno de la democracia.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto fue un frío verdugo, intentó serlo, de Claudio Zabalja.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Básicamente es un impostor, un simulador, alguien que se vendió racional y moderado y fue uno de los más crueles ejecutores de las peores medidas de Néstor Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto ni en sueños se imaginó como presidente y hoy lo vive como una pesadilla.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sus convicciones son rotativas y gelatinosas de acuerdo a sus intereses más urgentes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2229
+}

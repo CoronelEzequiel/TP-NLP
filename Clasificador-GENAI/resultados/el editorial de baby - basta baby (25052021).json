@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Pensando en el caso de Patricia Bullrich, me parece que el castigo por lo que dijo no es suficiente.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ginés González García y Alberto Fernández deberían dar una conferencia de prensa conjunta para explicar la negociación con Pfizer, que nunca se aclaró.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que lo único que puede limpiar su imagen es una conferencia de prensa y una auditoría de su gestión del último año, con sus 75.000 muertos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La respuesta del gobierno a Bullrich me dio mucha gracia, y aún más la respuesta de Duggan en Canal K, faltándole el respeto de forma brutal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana le voy a decir que voy al canal, voy a denunciar esa declaración misógina y xenófoba hacia Bullrich y Nini Taccardi, y en general contra todas las mujeres.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta degradación moral, donde jóvenes como ustedes ven cotidianamente que Cristina Fernández de Kirchner, los jueces, Beraldi, Ginés González García y hasta el mismísimo Alberto Fernández no representan a la patria ni a la República.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La patria es como un Ferrari, no un destartalado auto de 1962 que siempre fue taxi.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nosotros no tenemos la culpa de que se hayan vacunado VIP, de que se robaran el dinero del estado, de los negocios turbios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2354
+}

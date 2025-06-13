@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_sergio_massa",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta lógica política perjudica a la oposición y favorece el crecimiento de la derecha.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La mejor forma de no depender del FMI es generar los dólares necesarios con el trabajo argentino.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El tema de que paguen los que evadieron impuestos es un tema de justicia para quienes sí pagan sus impuestos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos generar instrumentos tributarios para quienes trabajan en la economía del conocimiento, muchos de los cuales no pueden formalizarse con la legislación actual, que está obsoleta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También se necesitan instrumentos para recuperar el poder adquisitivo de los trabajadores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2117
+}

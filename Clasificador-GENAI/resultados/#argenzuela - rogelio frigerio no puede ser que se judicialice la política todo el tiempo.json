@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_a_frigerio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.46,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Creo que lo que debemos analizar, con \"mi ley\" o con cualquier otro, es si podemos ponernos de acuerdo en algo, porque en Argentina nadie se pone de acuerdo en nada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si no hacemos algo para cerrar esta grieta, ponemos en riesgo la calidad de nuestra democracia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que por esas falencias volvió el kirchnerismo a gobernar Argentina.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "También hubo cosas buenas. Fuimos un gobierno que logró manejarse bien en la obra pública, entre otras cosas.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos empezar a discutir si este gobierno intenta resolver los problemas de la gente, porque ni siquiera esos problemas están en la agenda del gobierno.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3115
+}

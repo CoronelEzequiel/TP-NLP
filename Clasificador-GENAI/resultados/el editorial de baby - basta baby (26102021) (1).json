@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.689,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tengo mucho miedo de que venga la maga.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y me contó que esta mujer aparece ahora, porque comienzan las delaciones de arrepentidos de Maduro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los países necesitaban blanquear el dinero del narcotráfico, que son los financieros de Latinoamérica; o sea, Latinoamérica es de los narcotraficantes.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces necesitan un paraguas de protección.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Acuérdense, el Mercosur.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos los países de Latinoamérica se dedican a blanquear el dinero del narcotráfico.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, esto para que vayan descubriendo a quién tienen que votar.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como estoy lejos ahora, se los dejo por si me pasa algo en el avión, este recuerdo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Néstor Kirchner era el marido de Cristina Fernández de Kirchner, padre de Máximo Kirchner, a quien en un momento quisieron emular como un prócer.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2240
+}

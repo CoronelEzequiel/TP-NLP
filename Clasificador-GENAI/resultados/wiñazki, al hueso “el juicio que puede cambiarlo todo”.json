@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a hablar de la causa que puede cambiarlo todo: la ruta del dinero K.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se espera una condena.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La condena de Báez, socio del matrimonio Kirchner e incluso de Máximo Kirchner en algunos negocios, por lavado de dinero en Argentina, tendría un impacto significativo, considerando que Cristina Kirchner, la vicepresidenta, actualmente enfrenta otro juicio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este juicio es crucial porque una condena a Lázaro Báez acabaría con la narrativa de transparencia en los negocios de los Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La condena de Báez eliminaría cualquier excusa sobre persecución judicial contra Cristina Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner guarda silencio sobre Báez, a diferencia de otros casos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1701
+}

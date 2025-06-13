@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.586,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Victoria Villarroel ya no forma parte del gobierno en el mismo sentido que antes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo importante es que se rompió la confianza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Él cree que Villarroel está lista para asumir la presidencia desde el primer momento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fernández se molestó mucho cuando se enteró de que Villarroel habría contratado una agencia de trolls para su campaña en 2027.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La frase más suave que usó fue \"traidora de mierda\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación mayorista está bajando, la imagen de Fernández está mejorando, incluso hay una leve recuperación económica… y entonces aparece este conflicto.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le pedimos al presidente Fernández que sea estadista, que no se parezca a los anteriores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1870
+}

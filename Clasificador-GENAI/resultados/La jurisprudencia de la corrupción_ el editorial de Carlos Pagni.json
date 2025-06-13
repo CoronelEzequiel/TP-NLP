@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay un estado elefantiásico que creció en los últimos 20 años de manera insostenible.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La política que somos nosotros, que es el electorado, puso para resolver esta agenda a un gobierno carente de senadores, carente de diputados, sin anclaje territorial, no tiene intendentes, no tiene gobernadores que se le alinean naturalmente, tiene poca relación con el mundo sindical y casi está en conflicto con los movimientos sociales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es imposible designar al Lijo en la Corte si Cristina no pone los votos. Y es imposible que Cristina ponga los votos por razones obvias si no hay una garantía de impunidad en las causas donde Cristina está complicada.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si uno mira a Milei y mira a Cristina Fernández de Kirchner, pareciera que hay zonas de enemistad absoluta. Uno se cansa de ver declaraciones, manifestaciones, movimientos de gente ligada a Cristina Fernández de Kirchner, dirigentes ligados a Cristina Fernández de Kirchner, oponiéndose a la política económica de Milei. Sin embargo, hay un plano en el que coinciden. No pueden ponerse de acuerdo sobre el aumento de tarifas o sobre la recesión, pero pueden ponerse de acuerdo sobre algo mucho más importante: cómo armar la Corte.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 7395
+}

@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.064,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sin embargo, demostraremos que, lejos de ser un error, lo ocurrido hace 48 horas fue una estafa planificada durante meses, que incluyó un proceso de selección de inversores y en la que Milei fue el principal protagonista.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La acusación es clara: \"¿Cómo participaste en una estafa? La gente dice que invertí a través de Milei y no me devolvieron el dinero\".",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto era una estafa. Ese es el reproche de Tenembaum.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El viernes, el presidente participó en una estafa de 107 millones de dólares, afectando a 44.000 personas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei publicó en X (antes Twitter) e Instagram un mensaje promocionando la moneda.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El protagonista de esta estafa es Milei, no el CEO de la empresa.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nobili, el nexo con el CEO, financió la campaña de Milei.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta opinión proviene de un especialista en el tema, ajeno a la política argentina y sin ningún conflicto de interés con Milei.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se le ofreció un negocio a Milei; él lo estaba ofreciendo a varios y finalmente llegó a un acuerdo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gran estafa de Milei es la que está haciendo con los argentinos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Milei es un tonto o un corrupto? ¿O ambas cosas?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3816
+}

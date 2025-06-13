@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Massa se va a arrepentir toda su vida de haber dicho esto, que su objetivo era que la inflación empezara con el 3% en abril.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con estos números la hecatombe económica se profundiza y el presupuesto ha sido reducido a papel mojado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gestión de Sergio Massa es el doble, por lo menos, de mala.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Massa es el responsable de la devaluación en cuotas y por sectores y del ajuste brutal a los asalariados y a los jubilados, pero Grabois no quiere que se vaya de su lado.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa, al igual que Alberto Fernández, mintió descaradamente ante la justicia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy no solamente no barrió a ningún ñoqui, se puso una fábrica de pasta con Máximo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2094
+}

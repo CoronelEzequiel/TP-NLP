@@ -1,0 +1,36 @@
+{
+  "texto_id": "La inundación en Bahía Blanca",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.16,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Me asombran las actitudes del gobierno, que prácticamente se jacta de no brindar ayuda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado debe asumir su responsabilidad, debe aportar recursos económicos y logísticos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estoy a favor ni en contra del gobierno, pero lo que vi de la respuesta del Estado Nacional es inaceptable.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La solución del gobierno es culpar a la oposición y reprimir cualquier manifestación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La inundación es solo un síntoma del problema mayor: un Estado ausente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2351
+}

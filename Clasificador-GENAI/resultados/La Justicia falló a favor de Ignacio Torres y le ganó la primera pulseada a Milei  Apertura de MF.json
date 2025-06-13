@@ -1,0 +1,31 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Claro, se cumplen 80 días del gobierno de Javier Milei, que se muestra confrontativo, peleador, el presidente con casi todos los sectores.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde el gobierno dicen: 'Es una batalla cultural, estamos poniendo en orden quiénes están entre la gente de bien y quién es la casta'.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no le importa que la gente pueda viajar en colectivo, si no le importa que haya patrulleros o que haya seguridad, si no le importa nada de nada, y bueno, más o menos una invitación a hacer lo que puedan, lo que quieran.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y vino un tipo con toda la espalda, porque está cumpliendo exactamente lo que dijo Ibaser, dijo, no, que comprometiste a pagar esta plaza, diste de garantía la coparticipación por la continuidad, lo hizo la gobernadora anterior, ni siquiera lo hizo 'Nacho'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5449
+}

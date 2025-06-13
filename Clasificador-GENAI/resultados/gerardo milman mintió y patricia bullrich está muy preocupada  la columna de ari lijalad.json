@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_cfk",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La investigación por el atentado contra Cristina sigue hasta el día de hoy, después de dos meses, como si fuera un hecho de inseguridad común que le pasó a una persona en Recoleta, cuando lo que deberían estar investigando es el intento de asesinato de la vicepresidenta de la nación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema que tuvieron es que apareció un testigo, que dijo que él estaba en el bar Casablanca, al lado del Senado de la Nación, y lo escuchó a Gerardo Milman, que es diputado, decirle a dos asesoras, que cuando la mataran, él iba a estar camino a la costa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas asesoras que estaban con Milman, según este testigo, fueron citadas a declarar a Comodoro Rivadavia. Y cuando la jueza les preguntó, y el fiscal Rívolo les preguntó, \"¿Ustedes estaban en Casablanca el 30 de agosto con Milman?\". Ellas dijeron que no.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el otro expediente que sigue separado también por decisión de la Cámara Federal de Comodoro Rivadavia. El juez Marcelo Martínez de Georgi y el fiscal Gerardo Pollicita dijeron: \"Che, estos dos temas son el mismo\". O sea, Fernando Sabag Montiel y Brenda Uliarte tienen estrecha vinculación con Jonathan Morel y toda la banda de Revolución Federal.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De hecho, dice el fiscal, y nosotros lo hemos publicado en varias notas, que la guita, los 8,7 millones de pesos que la familia Caputo le mandó a Jonathan Morel, a sus supuestas socias, coinciden exactamente, exactamente, con el surgimiento de Revolución Federal, con todas sus acciones violentas, y que además, curiosamente, Revolución Federal deja de operar y se desmiembra el día del atentado contra Cristina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claramente no quieren investigar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4358
+}

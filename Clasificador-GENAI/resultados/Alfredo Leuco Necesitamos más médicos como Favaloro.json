@@ -1,0 +1,76 @@
+{
+  "texto_id": "columna_leuco",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.685,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La medicina implica el poder ayudar a nuestros semejantes en un momento difícil, cuando la salud se ha quebrado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En mi caso, fueron muy importantes los 12 años de médico rural, porque estuve en una zona pobre, y entonces me permitió ver todos los problemas sociales que aún son importantes en nuestro tiempo: la desocupación, la falta de trabajo, de vivienda, de agua potable, de cloacas, de alimentación, el hambre…",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hacemos nada con darle la medicación correcta, con indicarle qué procedimientos debe seguir, si después ese paciente queda desvalido en un rancho, sin nada.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les deseo lo mejor, creo que han elegido una carrera muy importante porque, insisto, está llena de afecto, amor y solidaridad, de poder cumplir con todos estos mandamientos importantes que involucran, insisto, a una de las profesiones más lindas que el hombre puede realizar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ayer comenté que hay que encarar la jerarquización económica y profesional de estos compatriotas a los que tanto les debemos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quiero caer en el patrioterismo barato ni en un clima malvinero, pero la épica y la mística les ayudará a los médicos a darles más energía, porque ellos luchan por nosotros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después sí podremos cantar el himno nacional juntos y gritar, cuando llegue la parte que dice: \"¡Al gran pueblo argentino, salud!\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hemos comprobado, por si no lo sabíamos, que son héroes esenciales a los que tenemos que homenajear siempre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A la hora de construir un equipo de trabajo, una familia o un país, yo me quedo como figura inspiradora con Favaloro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Favaloro también nació en un barrio humilde como El Mondongo. Llegó a la cumbre y a la gloria, y hoy está en el paraíso de los próceres y los héroes sociales de la Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy más que nunca los argentinos debemos hacer estas preguntas, me parece, y reflexionar, ahora que estamos asistiendo tristes y preocupados al país de la desmesura, de la impunidad ante la corrupción, el fanatismo autoritario que viola todas las leyes y las normas de convivencia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Vivo militantes de la cultura del esfuerzo y la excelencia, plantados sobre nuestra tierra con la ética, el mérito y la honradez como bandera.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tal vez Favaloro nos ayude, como nos ayudan todos los médicos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3114
+}

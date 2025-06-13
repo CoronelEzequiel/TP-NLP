@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esto explica que hoy, al conocerse el índice de confianza en el gobierno del mes de diciembre, que como todos sabemos publica la Escuela de Gobierno de la Universidad Torcuato Di Tella, no haya novedades, ¿por qué? Porque se repite el mismo índice del mes pasado: 2,66, con una variación mínima.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto indica que Milei lidera la lista y se encuentra, para este momento de su mandato, en una situación mejor que la de Macri en diciembre de 2016, y mucho mejor que la de Alberto Fernández en diciembre de 2020.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué implica esto? Una encrucijada para Milei. Este atraso cambiario, el control del dólar, mantenerlo estable, es una señal política importante y una forma de controlar la inflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A partir de esta visión, el gobierno elabora una estrategia, la misma que ha seguido durante bastante tiempo el principal asesor de Milei en materia política, **Santiago Caputo**, el \"mago del *gremlin*\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que vemos es que quieren tener candidatos propios en la Ciudad, donde La Libertad Avanza es extraordinariamente competitiva.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay quienes dicen que lo va a firmar. Tenía miedo de convertirse en un Alberto, se está convirtiendo en un Alberto. Hay quienes dicen que peor, que se está convirtiendo en un **Joly**, alguien todavía más subordinado, más obediente que Alberto.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8141
+}

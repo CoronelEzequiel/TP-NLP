@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.178,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sergio describió la situación como dolorosa y llena de bronca, especialmente considerando que se habían hecho denuncias previas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Había denuncias en la fiscalía por venta de droga a plena luz del día, 24 horas al día, con cientos de vehículos, desde autos lujosos hasta motos precarias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los vecinos se sentían desamparados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ana indicó que la impresión era que los narcotraficantes contaban con protección de alguien con mucho poder.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La policía detenía a jóvenes por pequeñas cantidades de marihuana, pero ignoraba el problema mayor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ana considera que existe complicidad entre la policía y los delincuentes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Anoche, los vecinos intentaron incendiar la casa, pero yo los detuve por el peligro del gas y la electricidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La policía ahora está presente, pero como dijo Ana, solo después del hecho.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta historia de Morón se repite en muchos barrios de Argentina.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1419
+}

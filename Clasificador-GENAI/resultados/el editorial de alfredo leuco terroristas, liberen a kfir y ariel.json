@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Son dos niños secuestrados por los terroristas de Hamás en Israel.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca habían matado a tantos judíos desde el régimen nazi de Adolf Hitler.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La puñalada en la espalda que recibimos es cuando preguntamos qué pasó con ellos después del ataque de los nazis de Hamás.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los repugnantes negacionistas del holocausto y los que tienen como objetivo exterminar al pueblo judío muchas veces se montan en la ignorancia o en la indiferencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1974
+}

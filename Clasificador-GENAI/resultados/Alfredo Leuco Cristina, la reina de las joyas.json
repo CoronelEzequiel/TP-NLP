@@ -1,0 +1,41 @@
+{
+  "texto_id": "¡Inclusiónados!",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina está por encima de la ley.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Digo que es todo un símbolo de la rendición definitiva de Alberto Fernández al discurso autoritario, vengativo y agresivo de Cristina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es otro emblema, la exitosa abogada que nunca ganó un juicio pero lo perdió varias veces, y que cobra fortunas con dos jubilaciones de privilegio más un sueldo como vicepresidenta.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es peor que las maniobras insólitas y groseras que hicieron en la cadena de hoteles Kirchner Resort All Inclusive.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es malversación de fondos, evasión impositiva agravada y ocultamiento de patrimonio.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las joyas de la reina Cristina son joyas de la corona.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2657
+}

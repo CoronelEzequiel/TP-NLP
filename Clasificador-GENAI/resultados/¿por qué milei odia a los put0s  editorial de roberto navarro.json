@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.37,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde la vuelta a la democracia, no había habido un presidente que agrediera a la población de tal manera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un discurso de odio que claramente empieza a permear en la población.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso también es fascismo, ese es el odio que generan los europeos contra los inmigrantes de otros países, y que empieza a generarlo acá, en un país, repito, en donde no había, hasta ahora, odio a los homosexuales, odio a los transexuales, odio a los bolivianos, y si alguno en su interior tenía ese odio, se lo tenía que callar, porque había un consenso democrático y de paz en esta Argentina que estos tipos vinieron a romper.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Elon Musk debe ser uno de los hombres más importantes de la historia que está empujando el progreso humano a ritmos vertiginosos y siempre ha defendido la libertad en su forma más pura para todos.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros entendemos, por supuesto así lo entiende el presidente, y es parte de nuestra agenda, eliminar o batallar, si se quiere, contra cualquier vestigio de las ideologías de izquierda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2993
+}

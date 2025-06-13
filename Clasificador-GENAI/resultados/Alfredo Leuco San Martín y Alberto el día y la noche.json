@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.808,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "San Martín es el día que nos ilumina y Alberto es la noche que nos oscurece como país, sobre todo si queremos construir una patria digna para todos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La vocación de Alberto es engancharnos como vagón de cola de las locomotoras del atraso y la violación de los derechos humanos como Cuba y Venezuela.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto, sin embargo, autorizó una fiesta clandestina de cumpleaños para su pareja con champagne y torta de alta gama.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto no denunció nunca los delitos ni los negociados que hizo el matrimonio Kirchner y ahora dice que nunca existieron y que la justicia persigue a su jefa porque es una líder revolucionaria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Le sintetizo el tipo de dirigente que nos dejó San Martín con su ejemplo: respeto por la libertad de expresión, independencia de poderes, austeridad republicana, honradez a prueba de bala, coraje, estrategia y un profundo amor para una patria de todos y para todos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un San Martín para que nos siga iluminando aún en los momentos más oscuros.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2136
+}

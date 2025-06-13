@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.094,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿En estos días es para preguntarse qué preferís: ¿un elefante en un bazar o Milei en un bazar?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Milei y todo su gobierno tienen una sistematicidad en lo que también definía Rodolfo Walsh en aquella carta abierta a la junta militar: una sistematicidad en ejecutar la miseria planificada.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En este caso, es miseria planificada con un montón de cómplices.",
+      "score": 0.08,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay un solo artículo que proteja algún derecho, no hay algún artículo que pueda hacer que la situación mejore.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fuimos los primeros en ser muy críticos a las decisiones en materia económica que se estaban tomando y que terminaron en el triunfo de Milei.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eliminaron todas y cada una de esas resoluciones que te protegían, eran para eso, y no sólo las eliminaron, sino que la Subsecretaría de Defensa de los Derechos del Consumidor lo festejó.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se trata de una ecuación que pone en riesgo la continuidad de muchas empresas, la eliminación de la obra pública con la pérdida no sólo de capital, sino también de los conocimientos productivos que ello implica y el consiguiente impacto sobre el empleo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, pasan un montón de cosas en el gobierno de Javier Milei que están en lo que Patricia Bullrich no quiere que leamos que es la letra chica, así como pasa, como dije en el comentario inicial, pero lo repito, que ayer Transener, la empresa que tiene el monopolio del transporte de la energía, experimentó un aumento del 209% en el transporte de la energía que forma parte de tu factura cuando tuvo rentabilidad en su último balance del 28%, de cada 100 pesos que le entraron 28 le quedaron de ganancia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quería hacer todo este resumen de vuelta. La ley es importantísima, la discusión de la ley habla también de las correlaciones de fuerzas, de cómo el gobierno de Milei no se pudo llevar todo puesto, de que no fue todo tan fácil, de lo torpes que son en términos políticos, pero también en el medio están pasando cosas que tienen que ver con nuestros derechos y que las hacen por fuera del Congreso y con lo que te permite los resortes del poder ejecutivo, y tenemos que estar atentos también a esas cosas y contarlas. Pasan cosas en la Argentina de Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3340
+}

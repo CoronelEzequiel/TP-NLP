@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.771,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Quiero decir que con los jubilados no.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Vos viste algún discurso hablar de los chicos indigentes? No pegaba, una noche de mucho brillo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero más terrible que el \"Martín Fierro\" fue el presidente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero que, bueno, ya lo dijo todo Canosa, el juez de San Isidro que anda buscando la vuelta para hacerle pagar el palo 400 para zafar del delito.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Si el presidente, eso no es ser honesto, es ser mentiroso.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque lo que hicieron ustedes es un delito federal. Y lo tienen que pagar con un juicio oral.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nadie los mandó a hacer una fiesta en Olivos cuando nos tenía a todos cagándonos muriendo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3002
+}

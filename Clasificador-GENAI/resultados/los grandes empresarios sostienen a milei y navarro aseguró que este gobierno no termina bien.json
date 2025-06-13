@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.357,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Tras la primera vuelta electoral, Macri contactó a Milley y a Patricia Bullrich.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En otras palabras, la decisión de que Milley ocupara la presidencia fue de Macri, un empresario que llegó a la primera magistratura.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto se debe a que la inflación ya consumió la devaluación de diciembre y existe una fuerte presión para una nueva devaluación del dólar oficial, demostrando la ineficacia de la medida anterior.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Volviendo al punto inicial, el gobierno presenta un superávit fiscal ficticio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno se caracteriza por el espionaje, la corrupción, una acusación prácticamente probada de secuestro de un funcionario durante más de cuatro horas para presionarlo a asumir culpabilidad, incapacidad manifiesta (falta de gas, medicamentos oncológicos y alimentos), y una acusación judicial contra dos periodistas,  Darío Villarroel, Inance y Pasos (se necesita aclarar los apellidos de Inance y Pasos).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los diputados y senadores no le otorgan gobernabilidad a sus leyes, sino a los grandes empresarios que lo impulsaron al poder.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este líder, que pone en peligro a la población, no es el único problema; su estado mental podría ser preocupante, pero el verdadero problema radica en los grandes empresarios y sus aliados en el Congreso que lo mantienen en el poder.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1620
+}

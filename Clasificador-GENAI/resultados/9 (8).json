@@ -1,0 +1,56 @@
+{
+  "texto_id": "entrevista_a_jorge_macri",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.639,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando gobiernas, tienes que enfrentar los problemas… si no, la gente los sufre.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nuestro espacio político acordó quitar la intermediación de los planes sociales a los líderes piqueteros… eso evita la extorsión…",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los chicos no tienen que estar en las marchas… cualquier agrupación que movilice niños tendrá consecuencias penales y económicas… los niños no tienen que dormir en la calle…",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si hay que reprimir, se reprime. El Estado tiene el rol de ordenar.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado tiene un rol fundamental. Quiero mejorar el nivel de todos…",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que dirigir el desarrollo… avenidas como Monte de Oca, Córdoba, Nazca… permiten altura… pero en los barrios hay que mantener la baja altura…",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El Estado tiene que tratar de que tu casa valga más…",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si el país es normal, necesitas créditos largos a tasas bajas…",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "hay que discutir la responsabilidad legal de un gremio… el respeto a la ley…  hay cosas que estamos naturalizando que no están bien… tenemos que volver a vivir en un país donde respetemos el derecho del otro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4081
+}

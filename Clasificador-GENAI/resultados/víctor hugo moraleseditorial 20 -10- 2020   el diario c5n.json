@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.106,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "No estamos acostumbrados a que los mentirosos ganen y la derecha tenga la razón.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bolivia, en una extraordinaria demostración de retorno a los valores democráticos, logró salir del ostracismo en el que la sumió el gobierno de facto de Jeanine Áñez.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto demuestra que la prensa está comprada por los golpistas, ya que no les interesa mostrar la otra cara de la moneda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señor Presidente, al terminar su mandato habrá dejado cinco millones de nuevos pobres, gente de clase media ahora hundida en la pobreza.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no lo matan en un golpe de estado, ¿qué es \"presionado por el ejército\" sino un golpe de estado?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es la realidad del neoliberalismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un argumento absolutamente fascista dar vuelta las interpretaciones de los otros para usarlas como armas arrojadizas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue fundamental y decisivo la voluntad del gobierno para que Mariano Ferreyra recibiera justicia por su injusta y absurda muerte.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5717
+}

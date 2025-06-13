@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En Argentina es pura impunidad política, mirá.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella y su marido saquearon la Argentina. Se la chorearon, se la afanaron.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina maneja el país desde el Instituto Patria e Impunidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno es una mezcla explosiva. Son burros y son hijos de puta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo único que crece en la Argentina es la pobreza y el hambre, pero no para Víctor Hugo Morales, el rey del relato K.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto después de subir el dólar, mirá Alberto Fernández.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Está diciendo que va a haber un estallido. Pero entienden que Juan Grabois está hablando de su gobierno. Imagínense a la oposición hablando así.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este gobierno está perdido ya, chocó, y no tiene rumbo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto, no renuncies. No renuncies porque nos morimos todos. Y si vas a renunciar, hacé c*** al país a Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8842
+}

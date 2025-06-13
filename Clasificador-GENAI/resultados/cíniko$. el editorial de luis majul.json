@@ -1,0 +1,101 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esta mañana, de manera desusada, definió como cínicos a los que ahora consideran a mi ley como la de un estafador, porque son los mismos que se encargaron de robar y callar durante más de 20 años, además de saquear la pobreza, lo que dejaron, sin que se les moviera un pelo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No, dejemos el cinismo y pongámonos a trabajar por el bien de la República, eso es lo que planteamos nosotros.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ver, como dijimos ayer, en vez de discutir si conviene o no conviene seguir con el \"tongo\" del Senado, acaban de obtener la mayoría, el oficialismo y sus aliados, porque se suspenden las PASO, el \"tongo\" de las PASO, a mi entender, eligieron ensuciar a mi ley, hay que investigar a mi ley y a todos, repitiendo la palabra \"estafador\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un gobierno de estafadores.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Juliana Di Tullio, Di Tullio, es el cómplice de la corrupción kirchnerista, ahí en primera fila, pero no solamente son cínicos al hablar de la presunta corrupción de los demás y nunca de la propia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "También resultan cínicos a través de su silencio cómplice, lo hablaba recién con Cristina, con el terrorismo más cruel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pregunto, ¿escribió algo Cristina Fernández de Kirchner, en su cuenta de X?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, ahora lo vamos a analizar.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero no escribió nada, ¿no?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y el pseudoprogresismo que muestra tanta ansiedad por derribar a Milei tampoco tiene nada que decir sobre la posición de Vanina Biassi, titular de la franquicia \"guionística\".",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No hablen más de la corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque el presidente confesó ser un corrupto y la hermana otra corrupta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Bueno, acá hay una diputada muy seria que yo respeto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Compraron el año pasado una camioneta último modelo y la usa un funcionario muy cercano a Zamora.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A esto le llamamos la ruta del dinero K de Zamora.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A ver, un poco de memoria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Acá tenés más o menos 20 causas, 20 escándalos, 20 hechos probados de enorme gravedad institucional, sobre los que no dijeron ni \"mu\", los kirchneristas, ni su franquicia de izquierda, ni los \"euro\" progresistas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina lo dijo cuando empezó a hacer política. Para hacer política se necesita platita.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4148
+}

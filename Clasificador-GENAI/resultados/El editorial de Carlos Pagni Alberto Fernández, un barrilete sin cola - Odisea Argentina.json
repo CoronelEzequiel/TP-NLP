@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si imagináramos que Alberto Fernández es un barrilete, pareciera que necesita para estabilizarse, para tomar decisiones, para tener un rumbo, una cola. Esa cola, ese estabilizador, se llama Cristina Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Losardo se fue disconforme con esos dos mensajes, con esos dos conceptos. El presidente dijo, se fue agobiada.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández en materia de política judicial, de política de justicia, tiene un enorme problema de muy difícil resolución. Quiere, por un lado, dar satisfacción a un clima de época que se expresa sobre todo en el voto opositor, no tanto en el voto oficialista.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy difícil llegar al poder y que la vicepresidenta de uno tenga que dar explicaciones en tribunales por cosas ocurridas en mandatos anteriores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una modificación del impuesto a las ganancias, como ustedes saben, que quita ganancias para una cantidad de particulares a los que se les eleva el mínimo no imponible para que queden exentos de ganancias, y como compensación se suspende o se mantiene la suspensión sobre el impuesto a las ganancias para empresas, para sociedades.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4497
+}

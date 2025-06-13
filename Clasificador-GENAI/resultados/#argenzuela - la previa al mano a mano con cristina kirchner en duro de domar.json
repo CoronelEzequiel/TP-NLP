@@ -1,0 +1,41 @@
+{
+  "texto_id": "entrevista_duggan_cfk",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.117,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Yo creo que la entrevista la hace el entrevistado, no el entrevistador. Creo que si el entrevistador pasa un poco desapercibido, es un éxito la entrevista, sobre todo con personajes que tienen tanto para decir como Cristina Fernández de Kirchner.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Imagino que la intención de Cristina –aunque nadie lo sabe, lo comprobaremos en la entrevista– es ampliar esas ideas que conforman una decisión que, por supuesto, ha generado amargura y frustración en muchos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un poco se trata de profundizar en eso, pero también en un diagnóstico sobre la situación del país, sobre estos 40 años de democracia, sobre el enfrentamiento del peronismo con los medios, el poder económico y la Justicia. Ahí creo que está el corazón del problema.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que es un gran dirigente, con mucha proyección. Hoy hablé con gente, incluso del propio kirchnerismo, que decía que el principal déficit de [nombre omitido] es el desconocimiento; entre quienes lo conocen, tiene buena aceptación, pero hay que darlo a conocer.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina es la mejor manejando sorpresas… ¿Quién está ahí? ¡Ah, mi hija! Temo que se me corte. Soy su esclavo.",
+      "score": 0.05,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pablo Duggan, excelente conductor de Radio 10 y responsable de \"Duro de Domar\", tendrá hoy a Cristina Fernández de Kirchner en un mano a mano, cinco años después de su última entrevista televisiva.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1919
+}

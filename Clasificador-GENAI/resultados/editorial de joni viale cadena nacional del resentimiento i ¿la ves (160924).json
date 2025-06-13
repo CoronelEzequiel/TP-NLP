@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.708,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nunca en la historia de la televisión privada, tomando la privatización como era moderna de la televisión en Argentina, nunca un prime time de la televisión fue tan espantoso, horroroso como el que logró ayer el presidente Javier Milei.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo me acuerdo que cada vez que Cristina Fernández de Kirchner comenzaba una cadena nacional el rating se desplomaba fatalmente porque la gente se había hartado de verla todos los días en el prime time de la tele.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La clase media y la clase baja no están resolviendo esto con violencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La violencia es una característica excluyente del kirchnerismo patotero y de la izquierda troskista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por lo tanto, reproducen, ¿sabes qué? La cadena nacional del resentimiento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La clase media está haciendo un esfuerzo sobrehumano, colosal, diría López Murphy.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3253
+}

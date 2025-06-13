@@ -1,0 +1,31 @@
+{
+  "texto_id": "oro",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.225,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En primer lugar, desde un punto de vista económico y financiero, en este momento de crisis mundial, donde los principales bancos centrales están invirtiendo en oro, nosotros corremos el riesgo de desinvertir en el peor momento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me preocupa especialmente la posibilidad de que se estén realizando operaciones especulativas con el oro, considerando la reputación de Luis Caputo en este tipo de transacciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando apostamos todo a préstamos externos, lo que deberíamos generar son dólares a través de la producción para superar las restricciones externas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que resguardar las reservas para usarlas cuando la crisis afecta específicamente a Argentina.  Debemos evitar desperdiciar recursos en situaciones donde la magnitud del problema es global e inevitable.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1729
+}

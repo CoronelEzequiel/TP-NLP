@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cada paso que el gobierno da desmiente su relato original.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei es más el producto de una profunda crisis económica, social y también política, un fenómeno berrante que emerge de esa crisis antes que una solución de esa crisis.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por último, Milei se presentó como un excéntrico, literalmente lejos del centro, como un outsider, como una referencia fuera del sistema político. Todo este año demostró que está rodeado de lo peor de todas las castas, desde el menemismo hasta acá, de lo peor del sistema político.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta perspectiva se inclina siempre por negar, o por no ver (porque no necesariamente es algo consciente o mal intencionado), las contradicciones del experimento político en curso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La respuesta a este interrogante tuvo, en general, dos grandes líneas narrativas, digámoslo así.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei es más el producto de una profunda crisis económica, social y también política, un fenómeno berrante que emerge de esa crisis antes que una solución de esa crisis.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2316
+}

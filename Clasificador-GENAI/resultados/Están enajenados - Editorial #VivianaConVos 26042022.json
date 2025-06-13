@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.807,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Yo pensaba, todo lo que hacemos por nuestros hijos: cuidarlos, ponerles límites, para que vengan estos tipos a hacer lo que quieran con ellos, con el aborto, con la \"falopa\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Roque, ¿quién carajo sos para decirle al presidente que lo tiene que echar a Guzmán? La Roque es la Cámpora, La Roque es Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A esta gente de La Cámpora, al intendente de Morón, se le ocurrió una idea buenísima: enseñarle a los pibes a drogarse, a tus hijos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Claro, hablan de la Argentina hace dos décadas, el kirchnerismo gobierna desde el 2003.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gracias Alberto Fernández por este narcoestado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Están tan enajenados como para gastar 650 millones en yerba mate. El gobierno destinará casi 650 millones de pesos a la compra de yerba mate para la población en situación de vulnerabilidad.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora viene con gusto el microprostol.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8848
+}

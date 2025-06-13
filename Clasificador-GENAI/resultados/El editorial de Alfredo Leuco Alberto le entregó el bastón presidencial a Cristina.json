@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.783,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Argentina atraviesa el peor momento del gobierno de la historia democrática.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el saldo más inquietante que deja la pelea irresponsable entre los integrantes de la fórmula.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner lo retó delante de millones de televidentes, le ordenó que utilizara la lapicera que ella le regaló, frunció el ceño como diciendo otra vez lo mismo cuando Alberto citó a Luis Alberto Spinetta y, finalmente, en dos minutos, removió a Matías Kulfas, tal vez el ministro de mayor amistad con Alberto.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La ironía del dibujo de Nik fue demoledora.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La voracidad por el poder y la irresponsabilidad desesperada que busca la impunidad de Cristina Fernández de Kirchner han puesto a la coalición de gobierno al borde de la implosión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca mejor llamado presidente Néstor Kirchner. Podríamos parafrasear a Evita o a Carlos Rosenkrantz: \"en los gobiernos kirchneristas donde hay una necesidad hay negociado\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1980
+}

@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.745,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Muchachos, primero, para ser presidentes que tenés república, no hay república.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo, para ser presidentes que tenés un país, no hay más país.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tercero, estamos fundidos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y sale el pibe este con la cara de alto, el radical.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y la verdad es que Lousteau nunca va a ser presidente porque le falta chapa todavía, pero tiene que comer mucho para ser presidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En cambio de decir, estamos juntándonos todos para defender la patria, porque los chorros siguen sueltos, tienen poder de fuego, siguen con los jueces corruptos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Gracias, y hay que decirlo, a Mauricio Macri, que un día se le ocurre a Cambiemos, y que fue bastante vapuleado, que hizo una excelente intendencia de la ciudad de Buenos Aires.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto es lo mismo que la payasada que criticamos enfrente de Boudou, un sinvergüenza, un nadie arma un partido político corrupto.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante dos años el único líder que va a traer Cambiemos es Mauricio Macri.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y les digo más, no se descuiden que puede volver a ser presidente y ustedes van a quedar dando vueltas al aire como pelotudos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y ahora venís.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2831
+}

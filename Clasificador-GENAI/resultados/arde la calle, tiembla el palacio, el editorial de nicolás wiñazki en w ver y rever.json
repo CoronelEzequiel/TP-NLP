@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.543,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Fernández tuvo que suspender un acto en Pergamino debido a una protesta de productores rurales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Axel Kicillof en Junín tuvo que dar un discurso abucheado por personas que le reclamaban diversas cosas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Asimismo, Horacio Rodríguez Larreta, en su última conferencia de prensa, al anunciar las nuevas restricciones por el COVID, habló con imágenes de bombas destruyendo edificios de fondo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Particularmente, el viernes pasado, hubo 50.000 personas, o incluso más, según algunas fuentes, de sectores liderados por el Polo Obrero disidente de Eduardo Belliboni, también del Frente de Organizaciones en Lucha y otros partidos de izquierda, así como de Barrios de Pie, lo que generó un gran impacto debido a la cantidad de gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, hoy invitamos a Javier Milei, economista, porque él representa de algún modo ese sector de la opinión pública que rechaza a los políticos tradicionales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy murió, por ejemplo, Horacio González, y su muerte, obviamente, no es más que la de ningún otro, fue director de la Biblioteca Nacional, participó de Carta Abierta, escribió ensayos, libros, pensó, murió después de dos meses de estar internado con COVID.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo alegría de alguna manera en la Cámara de Diputados, y la verdad, no sé si la clase dirigente o parte de ella está entendiendo lo que está pasando en la calle, porque la calle está enardecida, hay enojo y bronca, y en la Cámara de Diputados festejan un gol que se metió hace 35 años.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2176
+}

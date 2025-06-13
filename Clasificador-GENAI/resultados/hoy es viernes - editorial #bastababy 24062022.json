@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No sé si debería haber una materia cuando entramos a primer grado que te diga: “Haz lo que quieras con tu vida, sé tú mismo y sé feliz”.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y no echarle la culpa a los demás, ni a los ladrones, ni a la violencia.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después de lo que nos pasó en la vida, yo tendría que agarrar a Alberto, a Cristina, a Máximo, y decir: “¿Qué me ibas a enseñar? ¿Qué me quieres explicar?”",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos tenido que luchar contra la adversidad, y esto tiene que ver, al final, con Contrafuego.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero a pesar de todo hice como con la pierna, ¿no?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2451
+}

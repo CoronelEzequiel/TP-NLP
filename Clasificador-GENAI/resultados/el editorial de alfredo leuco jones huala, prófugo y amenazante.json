@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.809,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La amenaza terrorista contra la soberanía nacional por parte de los seudo mapuches es clave en la relación entre Argentina y Chile.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jones Huala en libertad es un papelón para ambos países y una amenaza para los argentinos y chilenos que quieren vivir en paz.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El comandante de estos violentos, antidemocráticos y anti argentinos, mediante un comunicado convocó a sus soldados a la lucha armada para vengar, ¿se acuerda?, el asesinato de Elías Garay, que ocurrió en una de sus usurpaciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta locura insurreccional y separatista es el corazón de sus palabras escritas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La paz social y la democracia no pueden subestimar ni naturalizar estos desafíos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es grave porque promete más sabotaje, más fuego y más muerte, pero es mucho más grave porque cuentan con la complicidad del gobierno.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Aníbal Fernández no se hace cargo de un conflicto que se salió de madre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay toda una administración que se excita y disfruta con cualquier grupo que se inspira o se parece a la guerrilla de los 70.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No piden nada, los muchachos. Pretenden medio país, y el que los apoye estaría incurriendo en alta traición a la patria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El que se levanta en armas contra la democracia merece el juicio, el castigo correspondiente y la condena.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los argentinos ya dijimos \"Nunca más\", nunca más a los que utilizan fusiles en lugar de ideas, nunca más a los que matan, dinamitan e incendian en lugar de argumentar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2357
+}

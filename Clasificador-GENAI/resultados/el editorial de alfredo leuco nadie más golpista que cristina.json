@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.792,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El bloque de diputados oficialista emitió un comunicado cargado de mentiras y falsedades.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay nadie más golpista que Cristina Fernández de Kirchner y su grupo de seguidores incondicionales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner es la jefa indiscutida de las maniobras desestabilizadoras.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La usina desestabilizadora está en el Instituto Patria, en la presidencia del Senado y en el departamento de Recoleta.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner destruyó el gabinete, ocupó todas las cajas millonarias con sus grupos afines y ni siquiera tiene un plan económico alternativo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La oposición tiene que tener una actitud prudente e inteligente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y nunca hubo una oposición más responsable y que respete las instituciones democráticas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca hubo un gobierno que se boicoteara tanto a sí mismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay nadie más golpista que Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El gobierno debe dejar de sembrar vientos si no quiere cosechar tempestades.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La mejor postura histórica opositora debe ser marcar las contradicciones, las locuras y los errores que cometen Alberto Fernández y Cristina Fernández de Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La dirigencia democrática y republicana debe acudir en ayuda, no del gobierno, sino de los ciudadanos, aportando ideas y soluciones para mantener viva una luz de esperanza hacia el 2023.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2335
+}

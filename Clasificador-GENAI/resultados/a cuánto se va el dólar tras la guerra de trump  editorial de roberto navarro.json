@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_economico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El desesperado viaje del presidente argentino a Estados Unidos para intentar obtener ayuda económica del presidente estadounidense resulta llamativo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Independientemente de la cantidad de dólares que ingresen al país, el Fondo Monetario Internacional (FMI) exige una devaluación previa como condición para otorgar préstamos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La Sociedad Rural Argentina solicita una devaluación a 1800 pesos, mientras que algunos inversores en el sector petrolero y de gas natural licuado (GNL) exigen 2000 pesos por dólar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta decisión de Trump, vista como un \"manotazo de ahogado\" por algunos analistas, refleja la decadencia de la potencia estadounidense, incapaz de competir con China, India y Vietnam en términos de productividad y generación de tecnología.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La llegada masiva de productos extranjeros baratos amenaza la industria nacional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de medidas concretas por parte del gobierno, la búsqueda de soluciones a corto plazo y la sumisión a las presiones internacionales, generan una profunda incertidumbre sobre el futuro del país.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1691
+}

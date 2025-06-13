@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.35,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El régimen cambiario, que está en rojo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Banco Central ha estado vendiendo los dólares depositados por la población, lo cual es gravísimo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las protestas de los jubilados evidencian la grave situación social y económica.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se suma a la preocupación por el retroceso democrático en Argentina, reflejado en índices internacionales que indican un riesgo de autocratización.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La división interna del peronismo, con figuras como Máximo Kirchner, Sergio Massa y Axel Kicilloff, dificulta la respuesta a la crisis.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El índice de confianza del consumidor y del empresario también ha bajado.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1896
+}

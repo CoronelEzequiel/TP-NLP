@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "“sin Cristina no hay peronismo y sin peronismo no hay Argentina”",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Yo la vi y yo pienso como abogada: van derecho a la recusación con esta foto, porque claramente se genera un problema bastante severo, ya que los jueces están obligados a ser imparciales, pero el que analiza y da lugar a nuestras imparcialidades y controla la legalidad del proceso es precisamente el fiscal. ¿Y cómo va a definir el fiscal que está envuelto en la misma situación?\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Vamos a continuar con un juicio ilegal, tarde o temprano, como le pasó con Lula, el juicio va a ser declarado ilegal.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Estamos viviendo una promiscuidad total entre funcionarios judiciales. Un nuevo hecho que de alguna manera sumerge aún más en la degradación, lamentablemente, a la justicia argentina.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2328
+}

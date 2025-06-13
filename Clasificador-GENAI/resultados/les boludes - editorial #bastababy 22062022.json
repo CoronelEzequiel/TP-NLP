@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.714,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno, en franca retirada y sin rumbo, realiza acciones desesperadas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero a veces me detengo a hablar con cartoneros; su nivel intelectual, léxico y manejo del lenguaje me asombran.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si vas a España, no entenderás todo, ya que su español es diferente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Díganle a Belgrano que hoy lo levantarían de la tumba y los correría a todos con su sable.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La gente ya despertó, se dio cuenta de que eres un mentiroso, Cristina una mentirosa, y Alberto Fernández un fabulador.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Han convertido el país de Belgrano en un país guerrillero.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Debemos pensar en una Argentina diferente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1638
+}

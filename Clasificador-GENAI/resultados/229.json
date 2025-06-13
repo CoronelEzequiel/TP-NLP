@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.12,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, no es fácil ahora en la Argentina, no hay mucha simpatía con nosotros, pero no nos importa la simpatía, nos importa encontrar a los nietos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, a pesar de todo lo que están haciendo en el Gobierno Nacional para desmantelar la actividad de los organismos, ustedes siguen dando pelea.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mira, hay que tener serenidad y respeto para que nos respeten. Y aparte de eso, el amor, la vida dedicada, calcula que todos hemos dedicado nuestra vida.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, nada, es el ensañamiento que tienen, investigados, maleducados; yo no digo maleducados en sentido grosero, sino la educación que han tenido, política, familiar y todo eso hace que no entiendan que si les hubiera pasado a ellos nosotros estaríamos buscándolos también, ojalá que esto no vuelva a pasar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, sí, cuando yo dije que la quieren cerrar, el señor me trató con una grosería, el que dirige ahora esa institución de la ex ESMA, pero bueno, yo siempre pienso lo que ellos quieren hacer y que no van a poder hacerlo porque hay un pueblo que se va a molestar muchísimo y no es bueno porque de ahí nacen después rencores que se pagan de otra manera que no deben ser, que es con la cárcel, con el engaño y hasta con la muerte, no queremos nada de eso, queremos saber que todos somos argentinos y que tenemos que, si no pensar igual, por lo menos respetar lo que le ha pasado al otro y ayudarlo en lo que corresponde.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2225
+}

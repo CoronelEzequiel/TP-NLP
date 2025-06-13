@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La idea era que Cristina Fernández de Kirchner no llegaba a ganar sola y por lo tanto necesitaba del aporte de votos de Alberto Fernández o la cuestión era más sofisticada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que recordar las palabras de aquel Alberto Fernández que se definía como casi toda persona políticamente correcta como un liberal de izquierdas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El corazón del problema es que se va montando un sistema de servicios públicos donde el negocio está en obtener subsidios del estado de manera más o menos opaca y obviamente quedarse con una empresa de distribución a la que los dueños suelen sacarle plata de alguna manera proveyéndole otros servicios con empresarios amigos que le ofrecen desde seguridad hasta servicio de limpieza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7642
+}

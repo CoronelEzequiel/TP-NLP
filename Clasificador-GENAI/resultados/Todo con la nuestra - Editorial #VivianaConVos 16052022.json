@@ -1,0 +1,61 @@
+{
+  "texto_id": "vivianacanosa",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.87,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Violaba el DNU y enterraba a mi suegra. Realmente dan vergüenza. Realmente usted, presidente, da vergüenza.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se hacen con la nuestra, es todo con la nuestra. Se creen los reyes con la nuestra y se llevan la nuestra. Siguen viviendo con la nuestra.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos al presidente menos ejemplificador de la historia argentina, una vergüenza.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Senado tiene 517 empleados y gastarán este año más de 23.700 millones de pesos en sueldos. Todo eso lo hacen con y gracias a la nuestra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández se evalúa pedir un crédito para pagar la donación de 1.600.000 pesos por la fiesta en Olivos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los niños no comen o comen de la basura y con la nuestra quieren gastar 50 palos para que la gente del Ministerio de la Mujer, que no sirve para nada, coma. Cierren ya el Ministerio de la Mujer.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Congreso chileno aprueba un nuevo proyecto que reemplazará… La palabra “mujer” por “persona menstruante”. Persona menstruante, las pelotas. A mí no me van a llamar “persona menstruante”, yo soy una mujer.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay duda, el feminismo odia a la mujer. Sí, este tipo de feminismo nos odia. Yo soy mujer.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Argentina dice ser de aquel lugar del mundo donde el presupuesto nacional asignado a planes sociales es superior al asignado a educación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con casi 20 años de kirchnerismo lograron que Argentina tenga ya tres generaciones de “planeros”.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9014
+}

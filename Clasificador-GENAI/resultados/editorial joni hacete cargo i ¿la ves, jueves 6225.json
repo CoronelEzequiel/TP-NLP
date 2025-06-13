@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.756,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno nacional es responsable del narcotráfico.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El PJ gobernó 34 de los últimos 42 años la provincia de Buenos Aires. Pero la culpa la tiene un gobierno que arrancó hace...",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero decís, no, vende droga tranquilo porque no pasa por ahí el fenómeno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le dan comida a la familia del chorro. Le dan psicólogo a la familia del chorro. Es al revés. Es el mundo al revés.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A estos tipos gobiernan la provincia literalmente hace 42 años y dicen que el problema es el dólar barato.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Creo que es una bestia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Subió 10 puntos en cinco meses, Milei.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Crecé, Kicillof, por favor, 53 años, hacete cargo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 4228
+}

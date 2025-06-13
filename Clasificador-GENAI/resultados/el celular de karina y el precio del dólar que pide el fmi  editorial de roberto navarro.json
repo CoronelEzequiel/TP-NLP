@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.122,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Creo que esto formará parte de la agenda argentina en las próximas semanas, en caso de que se le entregue el dispositivo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La familia Davis, que está ejerciendo presión sobre la prensa argentina, no debe ser tomada como fuente de información veraz cada vez que se la mencione.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más probable que estuvieran planeando la estafa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los medios de comunicación se centran en otros temas, lo que podría llevar a la gente a olvidar que el presidente de la nación y su hermana, quien también forma parte del gobierno, están acusados de una estafa monumental.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En medio de esta situación, Javier Milei intenta colocar dos jueces en la Corte Suprema por decreto, lo que convertiría al país en una república bananera, con dos jueces designados por un contrabandista y dos por un estafador.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich, socia de Milei, realizó un operativo policial contra jubilados, lo que aparentemente es bien visto por un sector de la población que apoya la represión policial.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un gráfico de las ventas totales de enero muestra que están al nivel de la pandemia, cuando gran parte del país estaba confinada y sin ingresos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei parece estar de acuerdo con estas políticas, a pesar de que sus acciones perjudican a Argentina.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación es desesperante y se oculta a la población.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2601
+}

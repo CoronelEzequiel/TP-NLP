@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.129,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En otras palabras, está sugiriendo que ser homosexual no está permitido en Argentina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto demuestra que el presidente quiere tener a todos los que lo rodean bajo su control.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso, justamente, es fascismo: arrinconar a un sector de la sociedad, sin importar si son buenas personas o abusadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si copia y pega lo que dice \"El Gordo Dan\", quien sabemos que frecuenta Olivos, tiene una relación cercana con el presidente… cumplir órdenes y repetir lo mismo solo demuestra que el presidente está orquestando todo esto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trabajar por orden del presidente contra una marcha… el periodismo es un contrapoder.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta gente, cuando se les quitó la comida a los comedores, justificó el hambre de los niños, diciendo que había robo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es un dato político que refleja una menor posibilidad de informarse, una mayor fortaleza de influencia y lobby comunicacional del gobierno, y un nuevo retroceso de la democracia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2408
+}

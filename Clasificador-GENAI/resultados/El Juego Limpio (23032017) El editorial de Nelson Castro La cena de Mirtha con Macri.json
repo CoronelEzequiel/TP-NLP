@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Necesitamos recuperar esa capacidad en la Argentina, que pensar diferente no signifique ser enemigo de nadie.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A mí me pareció exagerada la crítica a la entrevista y quiero expresar mi solidaridad con Mirtha, frente a lo que ha sufrido, sobre todo por la reacción que me ha sorprendido en algunos sectores del PRO, de Cambiemos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Digo, eso mismo lo hacía Cristina, eso mismo hacía el kirchnerismo. Prometieron cambiar, prometieron ser diferentes. Sin embargo, algunos se manifiestan con la misma intolerancia que tenía el kirchnerismo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 917
+}

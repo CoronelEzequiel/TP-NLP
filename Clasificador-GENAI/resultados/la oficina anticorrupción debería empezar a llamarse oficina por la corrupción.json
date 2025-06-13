@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.783,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La Oficina Anticorrupción (OA), organismo encargado de investigar delitos de corrupción y formular denuncias penales, renunció a participar en la causa Vialidad, en la que Cristina Fernández de Kirchner está acusada de liderar una asociación ilícita.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No sorprende que el titular del organismo, un miembro de Justicia Legítima vinculado al kirchnerismo, actúe más como un tácito defensor que como un investigador de presuntos actos de corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La falta de interés de la OA en mantenerse como querellante en esta causa, con todas estas evidencias, sugiere una velada complicidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La desidia no sorprende en un gobierno cuya política central ha sido la búsqueda de impunidad para Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En este contexto se enmarcan los continuos ataques contra la justicia, que en las últimas semanas han tenido como blanco a la Corte Suprema.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se teme que, en 2023, el frente judicial se sume a la inevitable pérdida del poder.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2093
+}

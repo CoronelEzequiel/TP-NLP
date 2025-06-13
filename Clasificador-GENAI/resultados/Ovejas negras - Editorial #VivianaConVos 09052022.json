@@ -1,0 +1,81 @@
+{
+  "texto_id": "Ovejas Negras",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ovejas negras en esta sociedad absolutamente degradada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las ovejas negras son los políticamente incorrectos como Casero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos, el gobierno, erosionan las instituciones.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Casero dijo el viernes lo que la gran mayoría de argentinos de bien pensamos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Estados Unidos, el expresidente Ronald Reagan abandonó su profesión de actor porque sentía que no estaba haciendo nada por su país.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estaría bueno, pensaba, mientras no veía, ahora no digan, que las ovejas negras nos involucráramos más en la política, nos metiéramos en política para hacer un 'stop', como diría Milei a la casta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya lo dijo el expresidente uruguayo, los argentinos son una manga de delincuentes, desde el primero hasta el último.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras tanto, aparece Cristina Fernández de Kirchner que tiene un conflicto con las hormonas, las neuronas. Dijo algo: 'algunos están fallando', sí, ustedes, tu gobierno.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos más ovejas negras como Alfredo Casero.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy lo tenemos a Milei. No hay libertad para el hombre donde su seguridad, su vida y sus bienes están a merced del capricho de un mandatario",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vos sos rica. Con la nuestra. Usas a los pobres. Sos una gerente del 'pobrismo'. Está presa con arresto domiciliario y esta mina nos da clases de moral.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora este muñeco es diputado nacional por Juntos por el Cambio. Tengo cierto olfato, porque pedí que lo rajaran la semana pasada cuando no votó la boleta única.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En una entrevista, el embajador argentino en China, Sabino Vaca Narvaja, defiende la alianza con el gigante asiático.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo más suave que le dice es montonero estalinista.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9135
+}

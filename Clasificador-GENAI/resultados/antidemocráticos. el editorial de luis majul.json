@@ -1,0 +1,41 @@
+{
+  "texto_id": "Antidemocraticos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.683,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Para ayudar a los antidemocráticos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como ordenó la antidemocrática y destituyente, dirían ellos, de Cristina Fernández de Kirchner a su tropa el sábado pasado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por ejemplo, bajar la inflación, por ejemplo, bajar la pobreza, por ejemplo, recuperar lentamente, pero recuperar, lo vamos a hablar ahora con José Luis Espert, el poder adquisitivo, el salario.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Les recomendaría dejar de pelearse, yo les diría, con los facundos manes de la vida, y con los dos o tres artistas que cada tanto se quejan y lloran por los pasillos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Realmente me sorprende que le den... Tanta entidad. Tanta entidad a una cosa tan, tan, pero tan marginal, en especial porque, digamos, Manes ha mentido de manera deliberada.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es más, tan o más grave que la imprudencia, le podemos decir imprudencia de Santiago Caputo, me parece la mentira de Manes, diciendo que le pegaron dos o tres piñas, yo no lo justifico, cuando fueron dos palmaditas en el pecho y paré de contar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2130
+}

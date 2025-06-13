@@ -1,0 +1,36 @@
+{
+  "texto_id": "elecciones_brasil",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lula es el *cara*, el *cara* es Lula.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El primer día de octubre, el primer día de octubre, tenemos la gran sorpresa de que Bolsonaro hizo una elección muchísimo mejor de lo esperado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Otra de las interpretaciones es que se le marcó la cancha a Lula en lo que sería una especie de giro de derecha, que Lula no va a poder llevar adelante un plan económico y social que sea muy de centro-izquierda y se va a tener que ajustar a una limitación diferente a la que tuvo cuando le tocó ser presidente.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Escuchen, existe un sentimiento en la población de que su vida no está igual a como estaba en la pandemia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Puedes cambiar para mejorar o para empeorar. Entonces entendimos que el cambio hacia la izquierda, por ejemplo, es lo que ocurre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2691
+}

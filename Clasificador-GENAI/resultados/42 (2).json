@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Brasil es nuestro principal socio comercial internacional, nuestro vecino, y tenemos una relación histórica desde 1991, desde la firma del Tratado de Mercosur.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A veces pienso que la actual gestión, con esta actitud, busca quebrar el Mercosur, y todo indicaría que va camino a eso.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Busca quebrar el Mercosur. ¿A cambio de qué? ¿Por qué? ¿Cuál es el plan B? Su plan B es convertirse en líder de la nueva derecha mundial, eso es lo que pretende.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que el presidente argentino está actuando en contra de los intereses del Estado argentino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una cruzada absolutamente personal, ideológica y de alcance mundial.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una falta de respeto, porque uno debe respetar a las personas por lo que son, por lo que fueron y por lo que están haciendo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y que él vaya a reunirse con Bolsonaro es, obviamente, una ofensa directa a Lula.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este es el problema del \"Titanic\" de hoy.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2257
+}

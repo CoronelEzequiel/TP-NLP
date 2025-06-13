@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Votemos a un presidente lógico, decente, honesto, puede ser **Macri**, puede ser **Milei**, puede ser **Larreta**, puede ser **Patricia Bullrich**, puede ser el de Mendoza, cualquiera, menos toda esta lacra, cualquiera.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos olvidamos de la palabra patria para empezar a hablar de la patria.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La patria es la celeste y blanca. La patria son los soldados de Malvinas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hace falta ser milico ni ser facho para querer a su tierra.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vamos a sacarle la del Che Guevara y la de La Cámpora y la colorada del comunismo y vamos a hacer flamear la celeste y blanca grande, grande, enorme, con un sol así, teñido con la sangre de los chicos de Malvinas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2828
+}

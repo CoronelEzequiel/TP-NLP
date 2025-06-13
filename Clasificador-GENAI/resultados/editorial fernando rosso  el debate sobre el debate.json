@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.367,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los partidarios de Javier Milei presentaron resultados de encuestas publicadas en medios de comunicación afines a la derecha, para demostrar su victoria en el debate.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los medios afines al gobierno celebraron la actuación de Sergio Massa, quien se mantuvo relativamente firme en un contexto económico y social adverso para cualquier candidato oficialista.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tanto los sectores afines al macrismo, al espacio de Schiaretti, al mileísmo, como los de izquierda, coincidieron en destacar la sólida intervención de Myriam Bregman del Frente de Izquierda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El ascenso de Javier Milei podría explicarse, según Grabois y Sergio Berni, por el apoyo del peronismo, que le armó las listas y cuidó la boleta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La izquierda propone canalizar el descontento a través de ella, y tiene el derecho y el deber de luchar por ello.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quienes culpan a la izquierda por el éxito de Milei, se engañan a sí mismos y engañan a la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1937
+}

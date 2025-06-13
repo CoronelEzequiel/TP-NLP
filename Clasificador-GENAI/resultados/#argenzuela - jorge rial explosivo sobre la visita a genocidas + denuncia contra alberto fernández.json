@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Milei busca a uno de los responsables, y ese responsable es Martín Menem. Menem autorizó la visita oficial, realizada en un transporte oficial pagado por todos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Podemos creerle a alguien que no puede controlar la frontera y deja escapar a un pedófilo?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Libertad Avanza, inicialmente concebida como una asociación para recaudar fondos (nadie creía que ganarían), está siendo investigada por su financiamiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los líderes de La Libertad Avanza no están preparados para gobernar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El “Pacto de la Milanesa” con Macri, incluyó el nombramiento de (nombre no especificado) en el Ministerio del Interior y Dietrich en un negocio de la hidrovía. Nadie es libertario gratis.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi consejo para la oposición, especialmente para el peronismo: no hablen. Dejen que el gobierno siga equivocándose. Tiene todos los frentes abiertos y se los abrió solo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1707
+}

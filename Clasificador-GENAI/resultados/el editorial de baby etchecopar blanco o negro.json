@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.483,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Empezamos con fuerza, superamos a todos los canales.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y encima la gente en la calle… es increíble lo crédula que es.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recién veía a Luis Majul, que parecía uno de los Reyes Magos, con su barba.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá recién ganó Alberto Fernández, se está formando el gabinete y debemos apoyarlo para que siga adelante.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con respecto a Evo Morales, no empecemos, si fue golpe de Estado o no.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Evo Morales es un sinvergüenza al que el pueblo sacó con el voto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2331
+}

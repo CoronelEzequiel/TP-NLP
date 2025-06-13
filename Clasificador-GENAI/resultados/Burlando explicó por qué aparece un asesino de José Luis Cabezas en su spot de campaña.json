@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Yo soy una persona que realmente respeta mucho la libertad de expresión, muchísima.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siempre recalco que, hasta ahora, el gasto que hemos tenido en campaña en 10 o 15 días, ha sido un tanque de nafta, que es mucho también, pero bueno, está cara la nafta.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no soy autoridad para cancelar a nadie. No me interesa hacerlo. Ni dar un paso adelante, ni siquiera soy el indicado para juzgar a la gente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entiéndame como quieran, porque, digamos, acá yo tengo espalda para... espalda abrazada a la verdad y a la ética. O sea, ya lo único es trabajar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, todas las personas tienen derecho a defensa, Fernando. El último asesino tiene derecho a defensa, así que lo entiendo perfectamente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero yo no voy a cancelar un barrio porque haya ocurrido un episodio de estas características. Eso es parte de la historia, eso es lo que yo no quiero, precisamente, en la política.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8403
+}

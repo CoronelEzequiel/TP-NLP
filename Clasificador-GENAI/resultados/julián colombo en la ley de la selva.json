@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.294,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Buscamos ofrecer un nivel adicional de seguridad para garantizar una lista de activos más confiable.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La regulación de la CNV es un tema fascinante.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es importante destacar las ventajas del mundo cripto, como la posibilidad de pagos internacionales independientes de los bancos centrales (como en el caso de Bitcoin), la compra de dólares tokenizados, transferencias rápidas de dinero y la cancelación de obligaciones con proveedores.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Intentamos visibilizar a la industria regulada.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es sospechoso que surjan como gurúes de criptomonedas figuras que nunca habíamos visto en la industria.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Julián, imagino que la Cámara Fintech y la Cámara de Blockchain intentaron entrevistar a Javier Milei. Él eligió a Haydn Day y a otros.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esperamos que ocurra pronto.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yannis Varoufakis, exministro de Economía de Grecia, respondió a todas las preguntas. Él es un crítico de las criptomonedas privadas, aunque considera que la tecnología *blockchain* podría ser útil para los bancos centrales y las monedas digitales de banco central.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2475
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.129,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El proyecto presentado ayer, con las correcciones realizadas por el gobierno de Mila, incluye, entre otras medidas, un severo ajuste a las jubilaciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recordemos que se está reduciendo el impuesto a los bienes personales, el impuesto a la riqueza para los sectores más acaudalados.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así, quienes blanquearon hasta $100.000 no pagarán nada, mientras que a los más ricos se les baja el impuesto a la riqueza y a los jubilados se les quita todo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, hay indicios de corrupción por miles de millones de dólares.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este plan, además de ser inconsistente y de derecha, presenta un problema en su sistema indexatorio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considero que entre abril y mayo, Macri podría incorporarse al gobierno.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tendremos un gobierno que será una fusión entre el ala dura del PRO (ya no sé cuál es el ala blanda) y el gobierno de Mila.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2162
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.088,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se les demonizaba e inventaba historias con el objetivo de convencer a la población de la necesidad de privatizar la empresa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se percibe una demonización generalizada del derecho a la protesta: el derecho a la huelga, a manifestarse en la calle, a luchar por los derechos laborales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los medios de comunicación han moldeado el sentido común de los argentinos.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En otras palabras, la función principal de los medios de comunicación podría ser modificar la opinión pública y enfrentarla contra sus propios intereses.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las últimas décadas, los medios dejaron de ser proyectos periodísticos para convertirse en armas de grandes corporaciones: compañías telefónicas, petroleras y constructoras internacionales los utilizan para presionar a los gobiernos y manipular la opinión pública.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creemos que la neutralidad no es posible; por eso, en 2014 creamos un portal informativo sin aceptar presiones ni comprometer nuestros principios.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entre el poder de los grandes medios empresariales y las redes sociales –con sus algoritmos que nos convierten en “zombies” informativos–, nuestro proyecto busca ser un espacio de periodismo independiente, donde el único elemento en común es el deseo de una sociedad más justa.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy seguro de que venceremos. La historia da muchas vueltas, pero la verdad y la legitimidad terminan imponiéndose.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1927
+}

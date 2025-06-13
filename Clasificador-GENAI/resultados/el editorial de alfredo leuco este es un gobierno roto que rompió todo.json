@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.875,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este es un gobierno fallido que destruyó todo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, Cristina Fernández de Kirchner y Sergio Massa producen estupor, inquietud y pánico porque todavía tienen mucho tiempo para destruir todo lo que se les ponga por delante.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso hay tanta unanimidad en caracterizarlos como el peor gobierno de la historia democrática.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Rompieron todo, incluso ese mito de que el peronismo sabe gobernar o que el peronismo roba pero hace.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se llenan la boca hablando del pueblo argentino, de los más humildes, y esos compatriotas son los principales perjudicados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, como se ve con los números, tiene más del doble de inflación que el \"diablo\" al que tanto fustigan.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En estas últimas horas vimos situaciones casi de guerra civil con vecinos haciendo justicia por mano propia, insultando a la policía, rompiendo comisarías y además agrediendo verbalmente a Sergio Berni mientras exigían su presencia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Su mirada \"zafaroniana\" de la vida los hace estar siempre del lado de los delincuentes y encontrar excusas para sus delitos, y nunca del lado de las víctimas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Llevan a nuestra bendita Argentina a ser los mejores amigos de los mayores dictadores.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El ladrón y feudalismo que encarnaron en la Argentina se repite en varias provincias.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es un gobierno a la deriva.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En síntesis, estamos tocando fondo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2478
+}

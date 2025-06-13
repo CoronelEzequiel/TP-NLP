@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Qué se está discutiendo hoy? ¿Cuántos argentinos hay varados en el exterior porque, debido a una adición administrativa, se cortaron buena parte de los vuelos y solo pueden entrar 600 personas por día a la Argentina?",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tener vacaciones es un derecho laboral en Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si uno quiere volver, debería poder hacerlo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El artículo 14 de la Constitución lo dice: los ciudadanos argentinos tienen derecho a salir y entrar del país cuando quieran y libremente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no digo que el gobierno haya hecho esto adrede, por supuesto que no.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero faltan las vacunas.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Volvamos a los 100.000 muertos por COVID-19; en realidad, perdón, son 93.668.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pobreza por la cuarentena llegó al 42% y afecta a 19,4 millones de personas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y ahí lo estamos viendo al gran Jairo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el propio gobierno admitió que se podrían haber evitado 5.500 muertes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2620
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.637,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El objetivo era sostener un sistema de salud deteriorado para enfrentar mejor la pandemia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Imaginen a un adulto mayor, un jubilado, alguien vulnerable al COVID-19, escuchando al presidente decir que no recibirá atención en la capital federal.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si este fuera el caso, deben solucionarlo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Así, en el día 138 del confinamiento, la política volvió a mezclarse con la pandemia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema, entonces, parecía radicar en el PAMI o, más bien, en el sistema de salud en general, donde la atención se brinda de todas formas, borrando la frontera entre capital y provincia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Máximo Kirchner, en su último discurso en la Cámara de Diputados, utilizó un tono posiblemente despectivo hacia las personas mayores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner, como jefe de La Cámpora, debe recordar que la juventud no es una virtud.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se debe cuidar a las personas mayores, quienes poseen experiencia y nos enseñan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2072
+}

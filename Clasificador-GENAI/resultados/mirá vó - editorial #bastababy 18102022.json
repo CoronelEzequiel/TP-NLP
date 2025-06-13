@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno está profundamente corrompido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los actos de la CGT del día de ayer mostraron a estos oportunistas en el escenario, alimentándose de los restos de una democracia destruida por el kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por un lado, hay una masa intentando evitar una catástrofe.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por otro, está Cristina Kirchner, escondida, intentando organizar un gran acto a sangre y fuego, sin importar las consecuencias.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora Cristina Kirchner está organizando un acto para noviembre, para movilizar a la gente antes de su condena.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Creo que se debería encarcelar a Pablo Moyano (hay suficientes pruebas), a los jueces corruptos que lo protegieron, a Cristina Kirchner y a sus protectores judiciales, a Baradel y a sus protectores.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Argentina necesita una limpieza de corruptos, y estos están a la vista, en los escenarios del Día de la Lealtad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Normalmente hay uno o dos corruptos, no todos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sindicalistas que circulan en Audi nos humillan, amenazan, extorsionan...",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Faltan doce meses para el fin de ese poder, y de repente aparece Mauricio Macri, un presidente desaparecido en acción, obsesionado con su mascota y con hablar de su vida personal, quien ahora nos grita.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner, escondida, espera crear un gran conflicto nacional el 17 del mes próximo; Alberto Fernández intenta ganar tiempo aunque está en una situación irrecuperable.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero, como en un reality show, Cristina Kirchner y Alberto Fernández están nominados.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2338
+}

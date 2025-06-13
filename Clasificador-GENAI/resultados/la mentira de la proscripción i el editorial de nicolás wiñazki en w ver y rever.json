@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner está mintiendo o, como mínimo, diciendo una falacia.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No existe ninguna proscripción para que Cristina Kirchner sea candidata.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es absolutamente falso que exista una proscripción contra la vicepresidenta, como ella misma aseguró hoy.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no le perdona a Messi y a la selección no haberse plegado a las presiones para sacarse fotos con los funcionarios nacionales y con ella.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ella podría ser candidata a consejera escolar, consejal, legisladora provincial, legisladora nacional, diputada, senadora, vicepresidenta o presidenta.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A nosotras, todo se tergiversa, se confunde, se magnifica y se miente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no mencionó a Lionel Messi ni celebró la victoria de la selección argentina en el Mundial de Qatar 2022.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fue la \"selección azul\" de Cristina, como diremos más adelante.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es bastante asombroso.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay una gran mentira, y es una pena que la vicepresidenta de la República y titular del Senado mienta de esta manera.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Desde algunos medios se habló del renunciamiento de Cristina y, desde otros, de su autoexclusión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a hablar claro: hay proscripción.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1808
+}

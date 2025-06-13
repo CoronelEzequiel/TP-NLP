@@ -1,0 +1,41 @@
+{
+  "texto_id": "ley_limusina",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.142,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esta ley, en realidad, es una \"limusina\" porque solo beneficia a un pequeño grupo de empresarios, no a los trabajadores ni a la población en general.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La lógica de liberar todo y dejar que las empresas hagan lo que quieran, creyendo que así todo funcionará bien, es falsa.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se elimina la ley de soberanía hidrocarburífera, que prioriza el autoabastecimiento para un crecimiento equitativo y sustentable.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Solo para aumentar tarifas, generar mayor rentabilidad y liberar la exportación de hidrocarburos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El artículo 103 habilita la libre exportación de hidrocarburos y prohíbe la intervención estatal en los precios internos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta ley \"limusina\" no beneficia a los trabajadores ni a la población en general.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1920
+}

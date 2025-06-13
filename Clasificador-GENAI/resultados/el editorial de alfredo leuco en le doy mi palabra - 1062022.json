@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.836,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Se quejó del dedito inquisidor de Alberto y confesó que cuando habla de alguien cercano que falleció en realidad se trata de Mauro Biale, pese a que la carta solo puso la inicial del apellido.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Señor presidente, usted es un mediocre confirmado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usted mintió, le echó la culpa a su mujer, argumentó que en el cumpleaños no estaba en funciones, nunca pidió disculpas sinceras por las desgracias que estamos pasando.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay una explicación: haber priorizado la ideología política a la realidad sanitaria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La viuda de Kirchner, en todo este mandato, nunca habló de la pandemia, poco le importa, pero sí opinó o tomó determinaciones sobre la economía o sobre la justicia.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se le cayó la épica a Víctor Hugo Morales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alberto Fernández, el presidente que no preside, nos escupió en la cara al decir que estamos entre los que mejor afrontaron el coronavirus, y agregó: \"Esto no lo difunden, lo silencian los mismos medios que intoxicaron la cabeza de los argentinos, los que siembran desánimo\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2246
+}

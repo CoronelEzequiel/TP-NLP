@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.59,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Soy un pilar fundamental.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A mí hasta me da vergüenza ser tan certero con los veredictos, con los pronósticos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, entré a la farmacia y le dije a mi hija ¿es de la 17, es kirchenerista o es de Milei?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si vos no admirás a tu enemigo, miren cómo vengo hoy.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo hoy tengo que decir que admiro, la detesto, por supuesto, la quiero presa, pero admiro el animal político que hay adentro de Cristina Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Milei, que no es malo, se está descascarando.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Baticino que el deterioro de Javier va a haber que ayudarlo, sin Karina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que tener mucho cuidado con los enemigos, Karina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "déjese de hinchar las bolas, arranquen a gobernar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Señor presidente, con todo respeto, ya nadie se ríe de sus chistes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5255
+}

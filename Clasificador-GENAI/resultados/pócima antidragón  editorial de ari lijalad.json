@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Al asumir, presentó datos catastróficos, exagerados e innecesarios, para justificar medidas igualmente innecesarias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei reconoció ayer que su plan económico, el que aplica desde hoy, generará más pobreza.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei tiene la opción de buscar recursos en quienes más tienen, en el Congreso Nacional.  Pero va a optar por recortar a la población en general.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado, del cual Milei habla tan mal, funciona gracias a los funcionarios del gobierno anterior, a quienes no se les aceptan las renuncias.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay alternativa al ajuste y al shock, dijo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1677
+}

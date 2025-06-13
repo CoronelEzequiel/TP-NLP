@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.112,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Se escandalizan si se vende a un homosexual, pero no si se odia a un empresario que explota a la gente",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sabemos que a un ladrón, cuando acumula más de 100 millones de dólares, se le llama \"señor\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como bien explicó Madu Budu ayer, la inflación es fundamentalmente un problema distributivo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no fuera millonario, se le llamaría ladrón. Pero como lo es, y hasta llegó a ser presidente, se le llama \"señor\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta gente, en cambio, lleva 23 años debiendo miles de millones de pesos al Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No irá preso por intentar condonar una deuda multimillonaria a su propia familia.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él también es impune, pues formó parte del equipo de Macri y Dujovne, que no solo no pagó las deudas del Estado, sino que lo endeudó sin cumplir con las leyes correspondientes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esos señores impunes, junto con sus amigos empresarios, también impunes (muchos investigados por lavado de dinero, evasión fiscal y negocios turbios), gobiernan actualmente, y lo harán hasta que dejen de ser impunes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2070
+}

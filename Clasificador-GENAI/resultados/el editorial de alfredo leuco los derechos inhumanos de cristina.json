@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.877,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno de Alberto Fernández no escatima en gastos a la hora de buscar la impunidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Defienden, en lugar de denunciar, las atrocidades que cometen los dictadores de la región y se colocan del lado de los victimarios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Van a participar tiranos y cómplices de tiranos del continente, a quienes todos conocemos y que la mayoría de los argentinos repudia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sus argumentos falaces son los mismos de Cristina Fernández de Kirchner y de otros delincuentes condenados por la justicia por hechos de corrupción.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La exmandataria fue condenada a seis años de prisión por corrupción, por haber robado millones de dólares del Estado para enriquecer a Lázaro Báez, su amigo, cómplice, empleado y testaferro.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los nombres más destacados que participarán de estas actividades son los mayores violadores de los derechos humanos en la región o los compañeros de ruta y socios de quienes encarcelan, torturan y asesinan a opositores políticos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo que son los derechos inhumanos de Cristina Fernández de Kirchner.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Convertirse en guardaespaldas ideológicos de autocracias y totalitarismos jurásicos de la región nos produce rechazo y vergüenza ajena.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Van a participar personajes nefastos como Rafael Correa, corrupto como Cristina Fernández de Kirchner y prófugo de la justicia de Ecuador, justo en el momento en que ese país expulsó al embajador argentino por ser cómplice de la huida de una de las ministras de Correa, quien también fue condenada por corrupción.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Aportarán sus falsedades autocráticas varios responsables de mirar para otro lado frente al juzgamiento que Nicolás Maduro somete a su pueblo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No es casual que más de seis millones de venezolanos, y me quedo corto, hayan huido de su país en búsqueda de justicia social y libertad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cuando hay un gobierno que no es amigo de ellos, defienden los derechos humanos. Pero cuando ellos llegan al gobierno, como Cristina Fernández de Kirchner, defienden a los corruptos y a los derechos inhumanos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Que nadie se confunda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2572
+}

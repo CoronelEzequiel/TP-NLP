@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sí, se está trabajando en varios sectores.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos varias hipótesis, y ninguna se descarta, pero la principal es la desaparición por extravío en el campo, y en eso se concentra la mayor parte del esfuerzo.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Prefectura Naval Argentina trabaja desde el primer momento con sus equipos técnicos, rastreando la zona de lagunas con lanchas y embarcaciones.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, la búsqueda está centralizada en los efectivos, no en civiles.",
+      "score": 0.3,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, participan Ejército Argentino, Prefectura Naval Argentina, Policía Federal Argentina, Policía de la Provincia, Bomberos Voluntarios y el Comando Unico de Prevención.",
+      "score": 0.4,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1768
+}

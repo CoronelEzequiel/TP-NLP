@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En diciembre, cuando se promulgó la ley [Nombre de la ley], se implementó inmediatamente un aumento del precio del dólar del 118% y una serie de desregulaciones que generaron una enorme transferencia de ingresos de la sociedad hacia las élites.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La ley [Nombre de la ley] desreguló el sector privado, vació los bolsillos de los argentinos y transfirió ingresos a las grandes empresas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los medios de comunicación, sin embargo, celebran que la inflación de abril no alcanzó el 10%.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se trata de una vieja política económica neoliberal con medidas como el blanqueo de capitales, la baja de impuestos a los bienes personales, la reforma que facilita la exportación de energía, la ley de inversiones, la flexibilización laboral, etc.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La solución no radica en un simple cambio de gobierno, retoques superficiales o en candidatos de centro que intentan agradar a la derecha, sino en un liderazgo que impulse una verdadera revolución que empodere a los trabajadores.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2109
+}

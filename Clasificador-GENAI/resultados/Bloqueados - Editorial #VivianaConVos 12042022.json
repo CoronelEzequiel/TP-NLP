@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.77,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "No puede ser que un grupo de saqueadores seriales se esté llevando a nuestra patria puesta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Basta de planeros, basta de pobrismo. Necesitamos una Argentina de trabajo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un pueblo que elige a corruptos, impostores, ladrones y traidores no es víctima, es cómplice. Tenemos que votar mejor, señores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Trabajos sí, planes no. Dejemos de ser un rebaño de pelotudos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única periodista que está en un listado de la ciudad. A donde vaya me encuentran. Como un GPS en el culo, ponéle.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8714
+}

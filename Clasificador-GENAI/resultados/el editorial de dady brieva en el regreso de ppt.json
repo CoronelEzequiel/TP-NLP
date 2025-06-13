@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando el canal me necesita, estoy a su disposición; eso es militancia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay peor cosa que quienes dicen: 'Soy un ciudadano que paga impuestos'. ¡Eso no es una virtud!",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si no te metés en la política de tu país, te roban el país.  Hay que involucrarse y abrazar a esa juventud decepcionada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Luego, hay que bajarse la careta. El partido de derecha, ¿por qué no se hace un partido de verdad?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las minorías, como la comunidad LGTB, la comunidad armenia, la judía… deben estar alerta, porque el exterminio, cuando empieza con uno, puede seguir con otros.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2409
+}

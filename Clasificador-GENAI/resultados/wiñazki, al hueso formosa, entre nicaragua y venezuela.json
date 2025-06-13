@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.733,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Argentina, como mencionamos el otro día, ha modificado su postura histórica frente a las denuncias de violaciones a los derechos humanos en el mundo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto Fernández declaró que las violaciones a los derechos humanos en Venezuela ya habían ocurrido o estaban superadas, lo que implica que, según él, efectivamente ocurrieron.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En el caso de Nicaragua, Argentina, a través de sus embajadores, Carlos Raimundi —impulsado por él y Cristina Fernández de Kirchner—, votó en contra de las denuncias contra el régimen del presidente Daniel Ortega, quien encarcela opositores y comete otras vejaciones contra la ciudadanía, especialmente en vistas de las próximas elecciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Gildo Insfrán ha batido otro récord.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A pesar de que la Corte Interamericana de Derechos Humanos, Amnistía Internacional y Human Rights Watch, entre otras organizaciones, denunciaron violaciones a los derechos humanos en Formosa bajo el gobierno de Gildo Insfrán, el gobierno argentino, aliado de Insfrán, guardó silencio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para proteger a un aliado, el gobierno argentino ha generado un problema aún mayor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1710
+}

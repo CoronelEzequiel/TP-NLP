@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_alperovich",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ya no tiene fueros, dejó de ser senador cristinista, pero sigue siendo el acusado por delitos sexuales más poderoso de la Argentina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Encima, Alperovich cuenta con el silencio cómplice del colectivo de mujeres kirchneristas que solo condena y denuncia con firmeza cuando los violadores o los abusadores no tienen su misma camiseta partidaria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que combatir a todos los golpeadores y violadores sin que importe la camiseta partidaria.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alperovich gobernó con mano de hierro Tucumán durante 12 años seguidos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso los podemos ubicar dentro de la categoría de \"ladrón feudal K\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2064
+}

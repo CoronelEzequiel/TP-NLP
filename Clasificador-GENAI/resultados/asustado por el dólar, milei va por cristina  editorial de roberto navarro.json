@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.425,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno, cuyo objetivo declarado es un dólar estable y, por lo tanto, una baja inflación, ha comenzado a implementar políticas similares a las de Mauricio Macri y otros presidentes desde que Cristina Fernández de Kirchner dejó la presidencia.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se dice que, hace unos días, en medio de la corrida, el presidente mantuvo una conversación con Macri, quien le ofreció asesoramiento y apoyo judicial.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Curiosamente, la Cámara de Casación rechazó el pedido de Cristina Fernández de Kirchner para la revisión de su condena.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según Hernán Cappiello, —y no es solo mi opinión, sino que así lo manifestó públicamente— todo esto ha sido organizado por el gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este hecho, que ocurre el 24 de marzo, día cargado de simbolismo en relación a la lucha por los derechos humanos, representa una agresión hacia ella, una amenaza velada de encarcelamiento o arresto domiciliario como forma de acumulación de poder.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, todo esto refleja la reconstrucción del antikirchnerismo: un conjunto de ideas destinadas a perseguir, demonizar y estigmatizar a Cristina Fernández de Kirchner como líder de un movimiento político, incluyendo a toda su dirigencia y a sus militantes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cabe destacar que durante los doce años del kirchnerismo, el PBI subió más del 70%, la industria creció un 72%, el campo duplicó su cosecha (de 60 a 120 millones de toneladas), la generación eléctrica aumentó un 50%, se completaron el interconectado nacional y la red de internet, se triplicó la cantidad de autopistas (de 900 a 3000 kilómetros), se invirtió fuertemente en educación y ciencia, se distribuyeron computadoras a los estudiantes (que hoy exportan), se inició el proyecto Vaca Muerta,  entre otras iniciativas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El actual gobierno, desesperado, recurre a la estrategia del antikirchnerismo, al igual que Macri, sin lograr resultados positivos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Resulta preocupante el apoyo de Marcos Galperín a Agustín Laje, quien promueve ideas contrarias a la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos memoria, verdad y justicia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2374
+}

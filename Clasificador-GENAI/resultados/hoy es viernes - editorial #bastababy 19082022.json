@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.629,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estamos en un estado que va a iniciar una semana terrible.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero nosotros tenemos algo maravilloso, que no se lo debemos a Cristina Fernández de Kirchner: la democracia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero decir esto y también le digo a Cristina Kirchner que acepte la condena si llega la condena, porque todos debemos tener la altura y la dignidad de aceptar las condenas si cometemos un error o, por lo menos, un delito.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Perdón por haber gobernado robando a la Argentina. Y gracias porque todavía no nos han colgado como Mussolini porque estamos en democracia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y a la gente se la saca con el voto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A mí me importa un bledo Cristina. Los detesto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hoy veo que están preocupados más en perjudicar a los ricos que en gobernar para los pobres. Así no se hace la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2683
+}

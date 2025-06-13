@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_tolosa_paz",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay una definición de lo que pasó el viernes: parimos la unidad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner y Sergio Massa, quienes hicieron que la Argentina tuviese este nacimiento, el nacimiento de una fórmula que a algunos les gustará más, a otros menos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es cierto que acá había que lograr bajar a Daniel Scioli y a Tolosa Paz y tratar de que Unión por la Patria no expresara un peronismo que hace tiempo no se siente representado por las voces de La Cámpora, que hace tiempo quizás nunca adhirió a la idea del Frente Renovador.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo voy a seguir haciendo política, obviamente, el 10 de diciembre, la banda presidencial, Alberto Fernández se la va a dar, estoy segura, a Sergio Tomás Massa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6407
+}

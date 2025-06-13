@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.159,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ya conocen a Donald Trump; no es apto para liderar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Contribuyó a anular el derecho al aborto con terribles consecuencias.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trump usará el poder para perseguir a sus opositores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Impondrá una cruel política de deportaciones masivas, causando estragos entre los pobres, la clase media y los empresarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Otro mandato de Trump sería perjudicial para el clima, rompería alianzas y fortalecería a los autócratas.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que está en juego es la democracia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En Argentina, se teme que la \"mi ley\" se radicalice si gana Trump, e incluso más allá.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos individuos, que se están convirtiendo en los dueños del mundo, organizan viajes a Marte sin la intervención de ningún estado, poseen sus propios centros de investigación en salud y ya hablan de la inmortalidad, solucionando (aparentemente solo para ellos) los problemas de salud que causan la muerte.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los teóricos de este grupo afirman que la democracia es contraria a la libertad y que, por lo tanto, hay que eliminarla.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se trata de un candidato presidencial más; tiene un plan para, como mínimo, restringir las libertades individuales y, como máximo, terminar con la democracia e incluso con los Estados-nación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si gana Trump, la oposición argentina deberá tener la madurez de superar sus internas y dedicarse a resistir la radicalización de \"mi ley\" antes de que sea tarde.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1823
+}

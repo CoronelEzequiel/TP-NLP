@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.713,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Inicialmente, hubo denuncias por violaciones a los derechos humanos relacionadas con personas varadas, centros de aislamiento y el trato a quienes eran atendidos o sospechosos de COVID-19 en la provincia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno de Insfrán ratificó la legitimidad de la detención,  a pesar de la indefendible situación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insfrán,  sin aspiraciones presidenciales, perfeccionó este modelo \"feudal peronista\", en detrimento de la democracia y la alternancia, incluso más que en Santa Cruz.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El apoyo al gobierno de Insfrán se debe, en parte, a los dos senadores que aporta al oficialismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insfrán respondió con la represión, como suele hacerlo con las comunidades originarias, especialmente con la comunidad qom.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Sin embargo, ¿cómo intervenir en una provincia cuyo gobernador es un aliado clave del gobierno nacional?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El modelo de Insfrán, similar al de Santa Cruz,  se caracteriza por una política sanitaria contraria a las recomendaciones internacionales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Insfrán, según declaraciones de la concejala Neme, afirma no temer perder las elecciones.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1853
+}

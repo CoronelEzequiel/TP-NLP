@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.175,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Recuerden que en este país, durante los gobiernos no militares, hubo un solo partido proscripto: el peronista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta definición describe bastante bien la situación de Cristina: la declararon públicamente malhechora, corrupta, 'chorra', ladrona... Esa demolición pública, que lleva diez años, culminó con un intento de asesinato: alguien le puso una pistola en la cabeza y gatilló dos veces, y aún no sabemos por qué milagro la bala no salió.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una cuestión vinculada a la proscripción de Cristina: un sector muy poderoso de Argentina ha jugado a proscribirla, y no es la primera vez.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un sector del poder económico que no quiere un gobierno que redistribuya la riqueza.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1808
+}

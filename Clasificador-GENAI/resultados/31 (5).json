@@ -1,0 +1,36 @@
+{
+  "texto_id": "santoro",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que hay un acuerdo tácito entre Marra y Jorge Macri, porque a Jorge le conviene que Marra descalifique a sus adversarios para evitar que los votantes de Lousteau nos consideren una alternativa viable.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El votante de Lousteau sabe que el primo de Macri, proveniente de Vicente López, no es un gran candidato para representar sus ideales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jorge, las propuestas y las acciones en la Ciudad Autónoma de Buenos Aires responden a una lógica de negocios y negociados. Detrás de cada política pública hay un curro: las grúas, las viandas escolares, las excepciones al código urbanístico durante la pandemia, la falta de políticas educativas y sanitarias.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La libertad avanza, y junto a ella, la política. Hasta ahora, lo que vemos es que, según mi ley, quien garantizaría la gobernabilidad si fuese presidente sería Macri.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay una preocupación transversal en todos los sectores sociales. Lo de las Taser es sencillo: cualquier arma no letal puede ser mal utilizada, pero eso depende de la capacitación y del protocolo, no del instrumento.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3465
+}

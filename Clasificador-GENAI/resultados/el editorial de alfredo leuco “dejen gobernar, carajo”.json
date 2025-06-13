@@ -1,0 +1,91 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.831,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Dejen gobernar, carajo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei ganó las elecciones por paliza de una manera transparente y su propuesta fue muy clara: hacer todo lo contrario de lo que el peronismo kirchnerista y chavista hizo durante 16 de los últimos 20 años.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿No tienen vergüenza?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se lo digo a los gordos de bolsillo de la CGT, millonarios, extorsionadores, patoteros en su mayoría, burócratas autoritarios de listas únicas y eternizados en el poder, que no quieren hacer una declaración jurada de su patrimonio a pesar de que manejan dinero público de las obras sociales.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Graciana Peñafort, escudera de Cristina Fernández de Kirchner, una persona inteligente pero enferma de \"ideologitis\", cruzó todos los límites al banalizar el Holocausto nazi.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo lo básico, ¿no? Dejen gobernar, carajo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El caradura de Martín Guzmán no tiene vergüenza ni estómago.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dejen gobernar. Dejen gobernar, carajo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Argentina que viene no debe tener más listas sábanas y apoyar la boleta única de papel, que termina con las trampas peronistas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que frenar los piquetes que cortan avenidas y rutas, algo que no existe en ningún lugar del mundo, y mucho menos en los países que ellos admiran, como Cuba o Venezuela.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El tiranosaurio de Nicolás Maduro se mete donde no lo llaman y asegura que Milei es un \"nazi de ultraderecha\".",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Privatizar las empresas que dan pérdidas y que esa pérdida la bancamos todos los argentinos es un buen remedio.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ampliar la legítima defensa para las víctimas de delitos y poner pena dura para los delincuentes es un reclamo a gritos de la inmensa mayoría de la sociedad, incluso de los que votaron a Massa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Elevar la puntería en la educación con un examen al final del secundario y declararla como actividad esencial a la educación es totalmente a favor de sectores más humildes.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Declarar la emergencia económica es una necesidad urgente.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No sean golpistas. Dejen gobernar, carajo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3269
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner no se quiere quedar de prepo y, por la fuerza, con el manejo de la ciudad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese totalitarismo de su carácter, esa bulimia por el poder y por el dinero, es la conexión que la llevó a instalar una autocracia en Santa Cruz y a soñar con una tiranía chavista similar a la de Venezuela y Cuba.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina y su tropa están en el gobierno, pero no están conformes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ese populismo autoritario se alimenta de violencia, odio y corrupción a gran escala.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como no pueden dominar este distrito, ahora Cristina propone revisar el tema de la autonomía.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Someter a la ciudad a sus caprichos es el primer paso para colonizar la justicia, quebrar a los medios de comunicación, hacerle un monumento a todos los ladrones de estado y convertirlos en héroes revolucionarios, y quedarse para siempre en el poder.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2172
+}

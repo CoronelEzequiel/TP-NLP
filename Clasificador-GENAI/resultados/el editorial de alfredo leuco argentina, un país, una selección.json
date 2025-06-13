@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.642,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cantamos y bailamos por el triunfo deportivo y también por la esperanza de una selección argentina de fútbol que, si sabemos aprovechar, nos puede marcar el rumbo de los valores que debemos recuperar.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Solo quedaron afuera los talibanes del chavismo K, que son incapaces de pensar la vida colectiva sin la trampa ni el oportunismo político.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Imaginamos que podemos construir un país a imagen y semejanza de la selección.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Derrotamos a los fantasmas del martes 13 y de los energúmenos que quisieron estigmatizar a un expresidente acusándolo de mufa.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Soportamos al peor gobierno de la historia, que fomenta acciones tóxicas que nos hunden en el barro de la historia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta realidad dolorosa es la que tenemos que derrotar por goleada, codo a codo, con los mejores argentinos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2150
+}

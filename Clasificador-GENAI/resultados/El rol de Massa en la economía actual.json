@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Este es un primer paso de mil millones de dólares muy enfocado en los bonos globales, sobre todo los de corto vencimiento, 29, 30, porque entendemos que ahí es donde tenemos que atacar para la mejor administración de la deuda, el perfil de deuda y el perfil de vencimiento de la Argentina.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Massa alarga la mecha y agranda la bomba\". Es decir, cada vez hacen más una bola de problemas con la deuda. Estamos pagando una deuda de 30 años y la que se vence dentro de 7 meses, no. Es decir, con las últimas reservas que tiene el país, un desastre.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Acaso los pocos dólares de las reservas no eran para la producción y, entre comillas, para la producción?\". Resulta que ahora son para, entre comillas, mejorar el riesgo país y los vencimientos, puntos suspensivos, de 2029, 2030.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Con esta medida Massa busca disminuir la brecha cambiaria. La recompra de deuda ordena al Banco Central para que intervenga en el mercado y compre inicialmente mil millones de dólares de los bonos Global 29 y 30. Claramente, esto es una intervención a dos o a tres bandas.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Esta es una buena oportunidad para bajar la deuda directamente\". Los llamados mercados generan los títulos de deuda argentina, se venden a un 30% de su valor nominal. Un título que vale 100 dólares se comercializa a 30. Entonces, el gobierno, aprovechando cierta situación de mejora de sus reservas, dice, bueno, esta es una buena oportunidad para bajar deuda porque con 30 compramos 100.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4038
+}

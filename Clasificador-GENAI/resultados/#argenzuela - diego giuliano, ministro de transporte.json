@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El miedo no es precisamente desconocer la verdad; es miedo *a* la verdad, miedo a la información transparente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El único miedo que veo es el que genera la posibilidad de la compraventa libre de órganos o la portación libre de armas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hablar de subsidios implica que el Estado debe participar, generando un ingreso indirecto que beneficia a trabajadores, empresarios y al medio ambiente (al priorizar el transporte público, se reduce el uso del automóvil particular y, por tanto, las emisiones).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El subsidio debe ir al bolsillo del usuario que lo necesita.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las principales cámaras apoyan la idea de que el subsidio vaya al bolsillo de la gente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1848
+}

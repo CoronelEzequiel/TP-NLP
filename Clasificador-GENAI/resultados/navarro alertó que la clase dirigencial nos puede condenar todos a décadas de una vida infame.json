@@ -1,0 +1,36 @@
+{
+  "texto_id": "Hoy es un día crucial",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto significa que Argentina está al borde del default; esto ocurrió ayer.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Respecto al RIGI, considero que es necesario un régimen para grandes inversiones, porque existen sectores que requieren capital que actualmente no está disponible.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No me gusta usar el término \"traidor a la patria\", pero no se me ocurre otra forma de calificar a quien vote en contra de esta ley, condenando a una gran parte de nuestra sociedad a la pobreza, la indigencia y la mediocridad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es importante destacar que esta es una ley antiderechos que perjudica a los trabajadores, eliminando las sanciones por el empleo en negro y la moratoria para quienes trabajaron en la informalidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los evasores reciben un blanqueo gratuito, mientras que a los ricos se les reduce el impuesto (del 2,5% al 0,25%), condenando a los trabajadores y jubilados a la pobreza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1903
+}

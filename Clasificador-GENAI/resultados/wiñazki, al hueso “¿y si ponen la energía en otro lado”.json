@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.821,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hay organismos que, obviamente, se ocupan de eso; podrían nombrar al Defensor del Pueblo, por ejemplo, un cargo constitucional que está vacante.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Y si enfocaran esa energía en todos esos problemas?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No están hablando de eso, están hablando de la justicia que le importa al poder.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y tal vez deberían (y esta es una opinión personal) enfocar la energía en un montón de otros problemas y, además, mejorar la justicia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer el Presidente dijo que el Poder Judicial se manejaba en los márgenes de la República y a los narcotraficantes y los posibles terroristas se los está acusando desde la justicia casi como si fuera justamente una mafia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Y la verdadera mafia?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y les digo esto último, perdón, la verdad es que se habla de la justicia como si fuera un crimen organizado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1578
+}

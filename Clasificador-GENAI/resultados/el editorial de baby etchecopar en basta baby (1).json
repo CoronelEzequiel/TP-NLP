@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.685,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, al ver las imágenes, me invadió una profunda tristeza.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me parece que, en la vida de un latinoamericano, las imágenes se repiten cíclicamente.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo único que a mí me impacta es que, desde el primer día de este programa, he hablado de la libertad de expresión y de la necesidad de proteger el periodismo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero también es cierto que Evo Morales es un narcotraficante, un sinvergüenza, un delincuente, todo lo que dicen sus detractores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue un golpe de Estado, y la prensa fue censurada para evitar que se difundiera la noticia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nosotros, en cambio, mezclamos todo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Evo Morales era un tramposo, cometió fraude.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero también es cierto que estaban esperando que tropezara para dar el golpe de Estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que son narcos, también es verdad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por favor, libertad de expresión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Simplemente quiero decir que usted no tiene vergüenza, que es la menos indicada para hablar, que no tiene crédito, que ensucia la democracia, que nadie le cree una palabra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es una señora fascista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Puede que yo sea uno de esos hijos de puta del 41%, pero del otro lado también hay hijos de puta, y entre ellos puede estar usted, Hebe, porque mi madre, la madre de [Madrius Vigna], nunca usó la muerte de mi hermano para hacer plata ni fundaciones.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2553
+}

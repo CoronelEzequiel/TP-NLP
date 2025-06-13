@@ -1,0 +1,31 @@
+{
+  "texto_id": "Archivo de Log - Correcciones",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Creo que la clase política es consciente de que posiblemente nos dirigimos hacia un desastre inevitable y no encuentran la manera de frenarlo; algunos, incluso, parecen acelerarlo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿A quién se le ocurre darle $50.000 a quien usurpa un terreno?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se premia a quien comete un delito, a pesar de que se reconocen las dificultades del problema, que es un problema de larga data y difícil solución.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un policía que debe desalojar un terreno gana menos que eso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1257
+}

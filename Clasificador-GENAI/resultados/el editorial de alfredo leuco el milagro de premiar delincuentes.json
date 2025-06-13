@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.924,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "En el ADN del kirchnerismo chavista está ese delirio de premiar a delincuentes y victimarios, y de castigar a las víctimas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La tropa de Cristina Fernández de Kirchner no se equivoca nunca, siempre está del lado oscuro y tramposo de la historia.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Empezando por Cristina Fernández de Kirchner, la jefa de la corrupción más grave de la historia democrática.",
+      "score": 0.99,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milagro es una violadora autoritaria y golpeadora, sobre todo, de mujeres.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Florencia Saintout hizo el milagro de premiar a una delincuente.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2002
+}

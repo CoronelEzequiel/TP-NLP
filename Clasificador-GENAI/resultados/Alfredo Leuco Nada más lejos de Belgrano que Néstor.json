@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.892,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Néstor Kirchner nació en un hogar humilde y murió multimillonario, con cientos de calles, puentes, barrios y plazas que recuerdan su nombre.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner dijo \"¿Qué te pasa Clarín, tenés miedo?\" y fogoneó el plan sistemático de ataque a la libertad de prensa más feroz desde 1983.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner fue un populista autocrático; imaginó un relato a favor de los trabajadores, pero dinamitó sus organizaciones sindicales en cinco pedazos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner no quiso recibir a la Comunidad Qom para preservar su alianza estratégica con el señor feudal de Formosa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner multiplicó sus cuentas bancarias y bóvedas, pese a que fue empleado público durante más de 20 años, y le dejó una fortuna como herencia a su esposa y a sus dos hijos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner fracturó la sociedad en todas sus entidades y organizaciones intermedias, sembró el odio y nos hizo retroceder a los años 50, cuando la Argentina se partió en dos mitades, a favor o en contra de Perón.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2056
+}

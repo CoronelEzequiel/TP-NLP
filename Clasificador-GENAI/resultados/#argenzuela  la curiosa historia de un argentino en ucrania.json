@@ -1,0 +1,31 @@
+{
+  "texto_id": "ucrania",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hay mucha desinformación y \"fake news\", lo que dificulta discernir la verdad sobre el avance del ejército ruso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Critica la parcialidad de los medios de comunicación internacionales, que en su opinión, presentan una visión sesgada a favor de la OTAN.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gerlán describe la polarización política en Ucrania, similar a la que se vive en Argentina, entre quienes apoyan a Rusia y quienes apoyan a Occidente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Destaca el auge económico que experimentó Ucrania antes de la guerra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 996
+}

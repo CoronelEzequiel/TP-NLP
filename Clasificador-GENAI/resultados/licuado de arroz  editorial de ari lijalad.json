@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.17,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La 'motosierra' y la 'licuadora', pilares del ajuste, no se negocian.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei logró superávit en enero, a costa de recortar jubilaciones, fondos a hospitales, docentes, provincias y sueldos estatales, mientras aumentaba la partida destinada a la deuda.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los empresarios se anticiparon a la inflación, aumentando los precios a costa de los salarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el gobierno de Milei, el 50% de los cargos más altos están ocupados por representantes de corporaciones como Corporación América (Eurnequian), Techint, Paolo Rocca, Grupo Vila Manzano, los hermanos Eurnekian, el Grupo Sigman y Cargill.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno, según el informe, está en manos de fracciones del capital financiero internacional y grandes capitales nacionales.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En lugar de explicar la situación real (el país entregado a los más ricos), se culpa a factores secundarios (festivales, gobiernos anteriores, etc.).",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1694
+}

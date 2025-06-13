@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El quilmesismo avanza sobre la República de los Niños.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto no es una broma y, aunque parezca trivial, refleja la forma de pensar de muchos dirigentes que supuestamente nos representan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El senador Traverso, insisto, presidente de la Comisión de Salud, quiere que la provincia destine fondos a un ente inexistente para controlar la República de los Niños, favoreciendo al PJ.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Traverso concibe el poder de forma similar a Kicillof, quien sancionó al intendente de Tandil, Miguel Lunghi, por su gestión de la pandemia, impidiéndole acceder a un fondo de 300 millones de pesos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por lo tanto, le solicito al senador Traverso y a los senadores que se oponen al proyecto (que probablemente no se aprobará por falta de mayoría) que visiten la República de los Niños para que aprecien su valor: el palacio legislativo, el palacio de justicia, el banco, el consejo deliberante y todo lo que representa para la educación cívica de los niños.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1592
+}

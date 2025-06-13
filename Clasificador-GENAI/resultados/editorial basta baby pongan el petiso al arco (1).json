@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.613,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mi problema no es que haya ganado Alberto, porque ahora Alberto es mi presidente a partir del 10 de diciembre.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que pasa es que también no sé cómo me la voy a arreglar, porque no lo van a querer sacar afuera, porque nadie quiere agarrar el fierro caliente.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero ahora hay que defender mucho a Alberto, hay que defender mucha masa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que nos hizo olvidar que hay una mujer que está procesada y es vicepresidenta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y antes se hacían delincuentes cuando empezaban a gobernar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero ahora ya vienen con los delitos confirmados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo decía, antes por lo menos vos confiabas y el segundo año te enterabas que había afanado y que era un hijo de puta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero ahora ya viene un hijo de puta de fábrica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después tenés a Grabois, no a Gravois, al boludo este de Quebracho, que está diciendo que lo sacaron de la cárcel y está gritando como un marrano que hay que cerrar la frontera, enjuiciar a la gente, llevar presos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La transición en paz la estamos logrando, Alberto y Macri.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Que a partir de marzo, abril, se van a estar cagando a trompadas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no se lo voy a mandar porque va a pensar que ahora que soy presidente me escribe, y ahora a mí me importa un carajo el poder de la gente, el único poder que lo tengo, lo tengo yo en las manos cuando salgo a laburar.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero realmente, sepan que lo que va a pasar es esto, el país no está tranquilo, no se crean que las elecciones bajaron las aguas de la matanza, el país no está tranquilo, hay muchas divisiones, por ejemplo, la gente que antes juntaba colchones cuando se inundaba la otra gente, ya está diciendo ahora que vayan a pedírselos a Magario, la gente que pasa hambre, ahora que se lo dé Cristina, la gente que está mal con la jubilación, anda a pedírselo a los K, en la provincia, con las desgracias que pasan, le van a decir, anda a ver a Kicillof que tenía la unidad y la fórmula, y realmente mucha gente me preguntó, y vos cómo estás, y yo estoy muy tranquilo, porque no es lo mismo jugar de defensor que jugar atacante.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora yo voy a estar en el grupo de los que bajan la lupa y no Alberto, voy a pedir a los jueces que no sean cobardes, cagones de mierda, y que enjuicien a Cristina, porque yo quiero que me devuelvan esa guita, aunque me digan si fue una película, de algún director que sacó un subsidio del Incaa, y entonces, la rosadita era mentira, y era un billete de utilería, que los bolsos de López eran mentira, y hacía semillita de López, y la escopeta era de mentira, los millones que se llevó un muñeco a Miami, también era mentira, o el Tesoro era mentira, el pacto iraní era mentira, la muerte de Nisman era mentira, porque no se crean que yo creo que Nisman se suicidó, porque un boludo lo pone en un libro, entonces realmente, hay un montón de cosas muy sucias, que no se tapan con un bailecito arriba de un escenario, ayer en un momento dicen, ahí viene Hebe de Bonafini, y yo digo que es la misma que rajó de la justicia, por la estafa de Sueños Compartidos y la Universidad de la Madre, Carlotto es la misma de Maldonado, son los mismos mentirosos de siempre, volvemos a agarrar la Escuela de Mecánica de la Armada, para que Teresa Parodi haga recitales, donde murió gente y torturaron mujeres y niños, esa es la pregunta que Chiche no me entendió, Chiche, a ver si me entendés, yo no estoy hablando de gorilismo, estoy hablando de dignidad y de honestidad, estoy hablando de quién mató a Nisman, qué pasó con Quebracho con Nisman, qué pasó con Delia con Nisman, qué pasó, qué pasó, qué pasó, con la guita que nos faltó a los argentinos, bueno, esa gente estaba festejando arriba del escenario de nuevo, ¿sabés cuál es el problema?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo me puedo bancar, me puedo bancar, que venga Espert, y digo a ver qué tal es, y me defrauda, pero que los tipos que nos afanaron, vuelvan a subir a festejar al escenario, y además la pregunta mía del millón es esta, Chiche, ganó el peronismo por poco margen, no tienen poder además, tienen el mismo poder que los amarillos, o sea, se les va a hacer muy difícil cagar, gracias a Dios, dividido, el parlamento dividido, gracias a Dios, porque si no íbamos a Venezuela, hay que cuidar mucho a los amarillos, que son el contra, el contra, reaseguro de estos pibes que ya nos robaron, entonces yo digo, la pregunta es, a todos los que estaban contentos, ¿ganaron? ¿Para qué?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4040
+}

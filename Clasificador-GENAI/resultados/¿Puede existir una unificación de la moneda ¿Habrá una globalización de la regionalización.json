@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La inmensa mayoría de los argentinos sentimos vergüenza de que nuestro país se asocie con otros donde hay persecución, tortura, narcoterrorismo, presos políticos y elecciones fraudulentas que se burlan de la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La llegada de Lula cambia toda la dimensión de la CELAC.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay voluntad política de Brasil y de Argentina en lograr esa unidad, y es mucho más fácil arrastrar al conjunto de países de América.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "el oficialismo trata de mostrar la importancia que tiene la llegada de Lula.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "la oposición trata de minimizar lo que significa la llegada de Lula y de Brasil, nuevamente a la CELAC",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4638
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.467,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Siento pena, porque además Jonatan es compañero mío de Radio Rivadavia, lo veo todos los días y me da pena.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que esto fue una mierda, porque perjudicó al Presidente, porque esto de que estaban anotadas las preguntas es más o menos como que te dice 'es culpable', cosa que dudo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que improvisan, hasta ahora venían 'guitarreando' fenómenos, venían con Jujuy, venían con el otro, venían con las dos cantantes de cumbia, venían a la vida y la venían llevando.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Les vuelvo a decir, yo le voy a ayudar al Presidente a que llegue a los cuatro años y cuatro más.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no se coman en su propia trampa, porque sería una estupidez pensar que hay un montón de periodistas que son afines al gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, mientras me están haciendo esta nota, un boludo de un cuarto o quinto piso frente a Paseo La Plaza me dice 'forro, aguante Milei', y se mete para adentro.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y me ha pasado con todos los gobiernos, porque ni bien el tipo sube, yo me pongo en contra, que es lo más divertido de mi profesión: estar en contra del gobierno, a ver cuánto duro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta mesa, este equipo, nosotros no estamos para el \"brancatelli\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y Javier, entre el país o ellos, mandalos bajo el tren, dándonos los nombres, y se acabó el partido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y después de lo que pasó, acá hay que entender, chicos, que nuestros compañeros, a quienes queremos tanto, piensan diferente a nosotros, y que tenés muchachos gineristas, comunistas, radicales y peronistas, y que a lo mejor te hacen una travesura.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso creo que el Presidente tendría que darle una nota a la oposición, de una hora y media igual, y sin edición.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El pueblo quiere saber de qué se trata, y no hagamos tiempo para que todo se diluya en agua de borrajas, porque va a pasar lo mismo que con Cristina, ¿viste?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4012
+}

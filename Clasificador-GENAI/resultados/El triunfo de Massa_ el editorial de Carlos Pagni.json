@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_electoral",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.483,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La dependencia de Massa con el conurbano indica una dependencia de Massa con Cristina Kirchner, que sigue siendo la figura principal de la representación de los sectores más vulnerables en esta geografía.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es evidente que hay distritos donde Juntos por el Cambio directamente se desactivó. Y pareciera que son distritos donde se desactivó en beneficio de Massa y no de Milei, porque Milei, por ejemplo, en Salta no da un batacazo, se recupera así, 6.5%.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En una división opositora que hay que mirarla en los números porque Massa ayer sacó 37% de los votos, eso es lo que tiene de propio, importante ver esto, importante para todos los regímenes de Balotaje, las decisiones antipáticas, las cuestiones que tengan que ver con ajustes para dominar o encarrilar la economía, el apoyo que va a tener es máximo 37% si es que llega a la presidencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa lo que va a hacer y empezó a hacer desde anoche es estimular esa grieta, estimular esa fisura. Anoche de hecho le dedicó una parte del discurso expresamente a los radicales hablando de valores que para los radicales son importantes y para el resto de Juntos por el Cambio sobre todo para el macrismo no son tan importantes y hacen que el macrismo sea más afín a Milei, por ejemplo la educación pública.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hubo una discusión ayer, era obvio que le iba a haber porque se están llevando pésimo desde hace mucho tiempo, entre Macri y Carrió, una discusión reservada porque Carrió puso como condición del discurso de Bullrich que ella quería sentirse representada en ese discurso si Bullrich no adhería a la candidatura de Milei.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mirgor, curiosamente de un viejo socio de Macri, Nicolás \"Niki\" Caputo, empresa de Tierra del Fuego, régimen que el mercado supone va a seguir siendo muy protegido por Massa.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8632
+}

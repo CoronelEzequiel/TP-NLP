@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.09,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "enfrentamos en Argentina un plan sistemático de destrucción del Estado, en donde los \"desaparecidos\" de esta época son los trabajadores y sus familias.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno nacional, encabezado por el presidente Alberto Fernández, los está condenando a todos a una muerte civil.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cada vez que se destruye un puesto de trabajo en el Estado, hay una política que se desmantela y un derecho que pierde la sociedad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto se parece cada vez más a una dictadura. Se suspenden derechos constitucionales, se suprimen garantías.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este modelo de país que nos están proponiendo, en el que no se garantiza una vida digna a los trabajadores, a los jubilados y a la clase media, solo se puede imponer con represión.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "no estamos frente a una gestión como ha ocurrido antes, a la que uno le puede exigir un cambio de rumbo, un giro en las políticas económicas.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos frente a un gobierno que se rige por una matriz ideológica en la que solo quieren el Estado para las lacras, para defender a las pocas lacras que lucran con los esfuerzos de todas las argentinas y argentinos",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso me parece que hoy los sindicatos estamos llamados a ejercer una verdadera oposición a este gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esperan que peleemos, que luchemos, no que escribamos en las redes sociales desde un café.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero decir que no lo van a lograr. Que este presidente, que utiliza términos de guerra (a él le gusta la guerra), es nuestro enemigo también, y utiliza términos de guerra diciendo que es un infiltrado en las filas enemigas, que es un \"topo\", dijo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2550
+}

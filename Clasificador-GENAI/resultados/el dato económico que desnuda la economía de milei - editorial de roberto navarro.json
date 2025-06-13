@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.032,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿Es liberal? No. Es la vieja derecha que genera desigualdad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A qué vino Milei? A quitarle a los pobres para darle a los ricos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina representa la justicia social y es un personaje histórico clave en la Argentina, comparable a Evita.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hasta que no haya justicia para Cristina, símbolo de la justicia social, no habrá justicia para nadie.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La desigualdad muestra que mientras muchos pierden, una minoría gana mucho.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su objetivo es quitarle a los pobres y al pueblo trabajador para darle a los más ricos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1506
+}

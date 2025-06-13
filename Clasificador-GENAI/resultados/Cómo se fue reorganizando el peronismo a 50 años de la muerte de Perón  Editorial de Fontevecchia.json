@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_peronismo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.483,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"De Milei a Cristina, Peronistas Son Todos\", porque un día como hoy, pero hace 50 años, el 1° de julio de 1974, murió Juan Domingo Perón a los 78 años, y su muerte, como su vida, despertó todo tipo de polémica.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Luego de la derrota frente a Javier Milei y de la decepción que significó el gobierno de Alberto Fernández, el peronismo se encuentra atravesando feroces internas, y aún así, es la principal fuerza de oposición a la gestión libertaria.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo siempre fui peronista, nunca me metí en política\". Y esta genial frase, completamente polisémica, presenta al peronismo como un instinto de clase, de mayoría, algo así como \"yo soy trabajador, soy peronista porque es el movimiento de los trabajadores\", y no necesito pensarlo más, o \"soy peronista porque la mayoría lo somos\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"El peronismo no quedó viejo, viejos quedaron algunos peronistas. ¿Algo de lo que planteaba Perón o el peronismo quedó viejo? ¿No se puede aplicar ya? No, al contrario, que se creaba de tercera posición, de comunidad organizada, de medio ambiente, de cuidar el medio ambiente, de educación, de armonizar el individuo con la comunidad, no, viejo no, no, viejo quedaron algunos, hay unos peronistas, hay unos peronistas que quedaron muy viejos y gorilas, ni hablar, pero el peronismo viejo no, para nada, al contrario\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Yo creo que nosotros tenemos que hacer una autocrítica, la conducción estratégica también del gobierno y del partido en el proceso que, para mí, tiene un punto muy central que comienza con la crisis del campo y confluye allí en el 2011. Ahí hay una construcción y hay una visión de la centro-izquierda que no tiene nada que ver con nuestra historia.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"En la Argentina hay socialistas, comunistas, conservadores, radicales, pero todos somos peronistas\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6086
+}

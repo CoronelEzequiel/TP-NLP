@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.183,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Privatizado por el grupo Clarín.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Papel Prensa condensa esa alianza empresario-militar que, a cambio del silencio del terrorismo de Estado, les entregó el negocio que les permitiría convertirse en el árbitro de la democracia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La dictadura no tuvo como objetivo la desaparición de 30.000 personas, ni el robo de bebés. El terror fue una metodología, y fue una metodología para implementar un reformateo económico que cambió la matriz productiva de la Argentina hasta el día de hoy, instaurando el modelo de valorización financiera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Su candidato a presidente dice que va a dolarizar la Argentina. Pero sabemos que para dolarizar hay que tener dólares. Y no se sabe de dónde los va a sacar porque no explicaste de dónde los van a sacar. La realidad es que los argentinos ahorran en dólares y Argentina es el tercer país poseedor de cantidad de dólares físicos en todo el mundo. ¿Qué vamos a hacer nosotros? Crear las condiciones de confiabilidad que claramente no creó tu gobierno para que los argentinos decidan utilizar sus dólares en nuestro país, puedan comprar, puedan invertir y puedan hacer su proyecto de vida acá.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Victoria Villarruel ayer, una vez más, volvió a decir que no hubo en la Argentina 30.000 detenidos desaparecidos, volvió a negar la dictadura cívico-militar, volvió a reivindicar además la dictadura cívico-militar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su abuela puso el cuerpo y está desaparecida, su madre puso el cuerpo y fue secuestrada a los 16 años, y ella pone el cuerpo hoy, Ana Fernández, para que nunca más tengamos Milagros y Villarruel.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3111
+}

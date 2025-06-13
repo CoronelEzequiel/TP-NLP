@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.05,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El imaginario de la escasez es un recurso retórico utilizado a nivel internacional por expresiones de ultraderecha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se impulsa una disputa entre los \"penúltimos\" y los \"últimos\", o entre pares, para competir por los escasos recursos y culpar a otros del supuesto \"despilfarro\" que llevó a la situación actual.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto implica una doble naturalización: la de la pobreza y, más importante aún, la de la riqueza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El enriquecimiento de estos individuos no se basa en el esfuerzo o el mérito, sino en la explotación laboral y la estrecha relación con el Estado, llegando incluso a la \"captura del Estado\", como señalan algunos investigadores.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En definitiva, hay que desmontar el mito de la escasez, mostrando la realidad de la abundancia concentrada, para dejar en evidencia que detrás del discurso de la \"casta\" se esconde el gobierno de la clase dominante.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1970
+}

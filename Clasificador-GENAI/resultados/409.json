@@ -1,0 +1,81 @@
+{
+  "texto_id": "Omar Plaini en Radio Diez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.129,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La campaña del actual presidente, Alberto Fernández, transitó por otro lado, dentro de la misma direccionalidad, pero recuerdo una frase que generó mucho simbolismo: \"Antes de subir un impuesto, me corto un brazo\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer hicimos un documento donde se evidencia que el ajuste no recae sobre la \"casta\", sino sobre el pueblo argentino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por eso, ayer, una vez más, nos reunimos.",
+      "score": 0.0,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Serán los propios votantes de este gobierno, muchos de los cuales se movilizaron y aplaudieron el \"no hay plata\", o aplaudían lo que decía el gobierno sobre el ajuste.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me pregunto: cuando estos impuestos lleguen a los sectores medios, cuando les aumenten el cable, la salud prepaga, la educación privada (ya aumentaron los combustibles), cuando les aumenten los servicios, ¿seguirán aplaudiendo el \"no hay plata\"?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto siempre favorece a un grupo selecto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ampliaron una de las medidas, dijeron que van a ampliar los planes sociales, para recibir a los nuevos pobres que caerán de la clase media.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la verdad, el Ejecutivo invoca las fuerzas del cielo… La única fuerza que hay son las decisiones políticas que se toman en un Ejecutivo nacional, porque gobernar es dar trabajo, es dar respuesta, porque la plata que uno saca de un lado la pone en el otro.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con la composición actual del gobierno —funcionarios de los 90, del gobierno de Macri y ahora libertarios—, esto me recuerda a Karl Marx: \"La historia se repite, la primera vez como tragedia, la segunda como farsa\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pudimos haber sido más condescendientes con el gobierno anterior, al que habíamos votado y acompañado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi autocrítica es que quizás muchos, y los archivos míos lo demuestran, cuando dije que el acuerdo con el FMI fue un antes y un después, el gobierno se quedó en mitad del río.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La responsabilidad de haber introducido nuevamente al FMI por un acuerdo político y económico no fue del anterior gobierno, sino del gobierno de Mauricio Macri.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esa es la excusa, me parece, para este ajuste brutal.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ojalá la dirigencia política entienda que si no vuelve a generar confianza, no va a volver a tener la confianza del pueblo argentino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3227
+}

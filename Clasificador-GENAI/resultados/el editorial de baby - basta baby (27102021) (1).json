@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.44,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Yo a los políticos –que yo quiero a muchos políticos– los veo hablar con esa soberbia de no ser nada, de ser muy ricos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y yo he estado con gente tan grande en mi carrera, tan divinamente grande, y he aprendido tanto, incluso el mismo Menem, que se bajaba del helicóptero para jugar al golf en el Hindú Club, y venía del Ballet Parking, y él le decía: \"¿Fernando Anello?\"",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque acá en la Argentina, tanto tenés, tanto valés.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y toda la vida le voy a estar agradecido a los compañeros con los que trabajé, la bondad… incluso el mismo [De Sousa] y Cristóbal López, con los que a veces me peleé, me peleé como ciudadano. Pero a veces les digo gracias porque cuando trabajamos en Radio 10, nos pagaron todos los meses, y estaban presos, igual pagaban, mantuvieron el medio para que trabajemos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Siempre en la Argentina los ricos tuvieron privilegios.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3202
+}

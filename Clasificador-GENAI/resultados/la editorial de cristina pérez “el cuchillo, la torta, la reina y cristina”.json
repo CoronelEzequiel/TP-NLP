@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.656,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Resulta irónico que el secretario de Comercio afirme que se está perdiendo la batalla contra la inflación, principal preocupación de los argentinos, seguida de la corrupción y la inseguridad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La cercanía a estas autocracias no se cuestiona; al contrario, se les rinde pleitesía.",
+      "score": 0.75,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las contraprestaciones, a cambio de promesas o migajas, seguramente no serán tan beneficiosas como se prometen.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta contradicción en la política exterior no es inocua.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Máximo Kirchner, en su rol de heredero político, a veces actúa como un actor estrafalario, confundiendo la confrontación con la política.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La unidad del Frente de Todos parece frágil.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En el contexto de la crisis por la cocaína adulterada, de la que aún se desconoce gran parte de la información, Aníbal Fernández fue acusado por Sergio Berni de inacción contra el narcotráfico.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este último punto es clave para Cristina Fernández de Kirchner, quien, como presidenta del Senado y principal figura del kirchnerismo duro, no podrá ocultar indefinidamente su postura respecto a Alberto Fernández, a quien consideran un simple ocupante del cargo.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1635
+}

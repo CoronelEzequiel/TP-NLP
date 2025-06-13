@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.62,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei le abre paso lentamente a su hermana, Karina Milei, para que comience a gestar el futuro político de \"La Libertad Avanza\", con o sin él a la cabeza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y si hay alguna cosa que tienen en común los Kirchner, los Milei, es la estructura familiar que tiene el poder.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Según Milei, su hermana Karina es el verdadero cerebro, él es solo un divulgador, ella es la profeta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Nada de todo esto hubiera sido posible sin la ayuda de la persona más importante de este equipo, Karina Milei\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Karina Milei, la primera seguidora de la banda de rock, ahora es la armadora política del partido \"La Libertad Avanza\" que se lanzó oficialmente ayer.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8802
+}

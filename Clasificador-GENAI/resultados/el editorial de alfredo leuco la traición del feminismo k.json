@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.892,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hace mucho tiempo que no escuchaba una agresión verbal tan violenta como la de Juan Grabois, la que Juan Grabois descargó sobre nuestra colega Cristina Pérez.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo profanó todo lo que tocó.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En lugar de denunciar todos los ataques sin importar quién sea la víctima o el victimario, se dedicaron a defender a la víctima solamente si era de su misma filiación política y repudiaron exclusivamente a los victimarios que no eran kirchneristas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El caso de Milagro Sala directamente te subleva porque el rostro de la delincuente jujeña con detención domiciliaria aparece reivindicado en las marchas con carteles como si fuera un símbolo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milagro Sala tuvo como abogados defensores a la exministra de la mujer, Elizabeth Gómez Alcorta, y a Juan Grabois, el mismo Juan Grabois que ayer fue capaz de insultar de arriba abajo a una destacada mujer periodista.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El silencio de las falsas feministas aturde, sus banderas están sucias de mentiras, la traición no tiene límites.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1936
+}

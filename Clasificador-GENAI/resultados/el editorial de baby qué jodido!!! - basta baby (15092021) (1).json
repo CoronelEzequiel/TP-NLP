@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El texto parece expresar la opinión del autor sobre una situación política, posiblemente relacionada con una elección y un personaje importante llamado Cristina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El autor expresa frustración e indignación por lo que percibe como corrupción e injusticia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay una crítica implícita al periodismo y a la forma en que se maneja la información.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se mencionan temas como la pobreza, la falta de seguridad y la manipulación política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El texto carece de una estructura narrativa clara, pero parece centrarse en una fuerte crítica a Cristina, a quienes la apoyan y a la situación política general.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1262
+}

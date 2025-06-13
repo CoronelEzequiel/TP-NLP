@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo mejor es enfocarnos en las cámaras, chicos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hoy habló bien Cafiero, si no hubiera pertenecido al mismo espacio político que hace diez días le entregó la llave de la Argentina a Putin, hubiera sido un estadista.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esto me hace pensar que nosotros estamos manejados por inconscientes, psicópatas, retrógrados y delincuentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy tenés a Milei, que a pesar de que yo estoy enemistado, es una voz nueva, una gran posibilidad política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y el pueblo armado está defendiendo a la segunda o tercera potencia del mundo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos somos ucranianos. Todos queremos que gane Ucrania.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me gustaría que esa sutileza que usted tiene, si me caigo, me levanto y si me olvido, me acuerdo, la use para detectar a los ladrones del kirchnerismo y entregar la guita que se afanaron y crear un fuerte advertimento para meter en cana a los ladrones que tiene alrededor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2984
+}

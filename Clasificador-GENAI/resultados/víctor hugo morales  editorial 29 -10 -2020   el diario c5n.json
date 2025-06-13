@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.14,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La jueza dio un montón de argumentos, pero de antemano no podía saber, imaginar, que las cosas iban a ser de esta manera.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Veamos a Pichetto jugando, como siempre, contra los pobres.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si usted mira a los mapuche, no pueden atravesar sus propios campos que ancestralmente les pertenecen.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una vez más la justicia de Entre Ríos falló a favor de los poderosos, a favor de los corruptos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Mauricio es el mayor hijo de p*** que jamás haya conocido\".",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6911
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.179,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Primero, lo que uno siente es indignación y vergüenza. El presidente de San Lorenzo tenga este tipo de actitudes, deberá defenderse en la justicia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahora nosotros hemos solicitado la renuncia del presidente por vía de la fiscalizadora, donde tenemos dos miembros, la Asamblea de Representantes de Socios, donde tenemos 14 miembros, y también desde el oficialismo, sus fiscalizadores pidieron la investigación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay empleados de San Lorenzo hoy que metió Marcelo Moretti; varios empleados lo criticaron tanto a Marcelo Tinelli en su momento que metió 13 gerentes y Marcelo Moretti metió unos cuantos con varios millones de pesos por mes en lugares que no se los ve, no rinden.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que uno está muy mal con este tema porque la gestión es mala, porque San Lorenzo económica y financieramente está mal, está muy mal.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace 15 días mandé la última carta documental al club y no fue respondida.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros estamos en la política, yo estuve en la política de San Lorenzo hace 15 años ya y, bueno, no pudimos cambiar la realidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, y no hay reuniones de comisión directiva hace tres meses, dijo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2900
+}

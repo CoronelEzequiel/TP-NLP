@@ -1,0 +1,76 @@
+{
+  "texto_id": "El Club del Helicóptero",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.708,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo creo que olieron sangre. Yo creo que olieron debilidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los jubilados son uno de los sectores más desprotegidos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como hincha de Racing Club de Avellaneda, me solidarizo con el acompañamiento de todas las hinchadas a los jubilados el próximo miércoles 12 de marzo frente al Congreso Nacional a las 17 horas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno se tiene que ir.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juicio político por inhabilidad moral del presidente y de Victoria Villarruel, que ahora se hace la que llora pero que es igual que él.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nosotros vamos a meter presos a Javier Milei, a Karina Milei, a Patricia Bullrich, a todos estos sinvergüenzas que están sometiendo de erizos. Van a ir presos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Patricia Bullrich es una asesina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo peleo por plata. No lo hago por la revolución. Lo hago por plata\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El presidente se tenía que ir por las buenas o por las malas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí hace cuatro días me dijeron, más hasta atrás de esto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Massa había desaparecido por completo hasta el sábado que habló.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Destruiste a los jubilados, destruiste el Tesoro, destruiste a los más pibes, destruiste al Banco Central, te gastaste 13 puntos del PBI en tu campaña, hasta perdiste en Tigre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A pesar de todo eso, no quiere de ninguna manera que este gobierno se caiga.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4490
+}

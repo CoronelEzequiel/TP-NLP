@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.11,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La guerra entre Rusia y Ucrania ha puesto nuevamente en el foco el papel de la OTAN.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No debemos olvidar que, además de los británicos, la OTAN está construyendo una fortaleza militar en nuestras Islas Malvinas y en todo el Atlántico Sur.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi perspectiva sobre Malvinas, más que política, es desde la distancia, desde Buenos Aires, desde la calle, donde prácticamente la única forma de expresarse era manifestarse.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ese momento, sentía una mezcla de bronca, sabiendo que la dictadura militar estaba utilizando Malvinas con fines políticos, pero también alegría por la recuperación del territorio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que el objetivo de todos los argentinos es que Malvinas vuelva a ser parte de nuestra historia y nuestro territorio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sí, es extraño este sometimiento que siempre hemos tenido con el Reino Unido.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como decías, intentaron ocultarlos, hacerlos desaparecer, siguiendo su método de eliminar lo que les molestaba.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los excombatientes eran una molestia enorme, testigos de la incapacidad y la crueldad que se vieron en Malvinas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que reivindicarlos, son los verdaderos héroes.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Prohibido olvidar.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1867
+}

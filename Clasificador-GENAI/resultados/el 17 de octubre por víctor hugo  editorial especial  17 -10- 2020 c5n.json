@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_peronismo",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.05,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Fue un día peronista formidable, un día de pueblo, un día de calle, un día de caravanas, un día de banderas y alegrías; una manifestación que desmiente la pretensión de que la oposición había tomado la calle.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 17 de octubre estuvo a punto de ser un día de humillación y traición, pero el valor del pueblo lo convirtió en un día de aurora y felicidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Nos van a querer desviar de nuestras metas, nos van a agraviar y descalificar todos los días, nos van a insultar permanentemente, pero nosotros tenemos una responsabilidad más grande: nuestra tarea es transformar la patria, nuestra tarea es devolver la justicia social, nuestra tarea es consolidar el proceso de industrialización, nuestra tarea es consolidar los procesos productivos\".",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando el peronismo no está en el gobierno, la distribución de la renta es 70% para los más ricos y 30% para los trabajadores; con el peronismo, cambia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A esta Argentina derrumbada la vamos a poner de pie nosotros. A esta Argentina que se enferma la vamos a curar nosotros. Y la vamos a curar como siempre hizo el peronismo. Sin odios. Las víctimas del odio fuimos nosotros.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El pueblo quiere trabajo y derechos. El peronismo tiene que ver con el derecho y el trabajo. Los trabajadores aman el peronismo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero decirles que fue muy grato poder presentarles estos materiales, porque el peronismo es el pasado, es el presente y es el futuro.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3808
+}

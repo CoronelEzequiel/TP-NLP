@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.68,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Realmente no me gustó para nada.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y una cosa que no me gusta de la oposición, fue mi amiga, a la que apoyo y quiero, Patricia Bullrich, con el traje de presa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El PRO necesita un líder.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y creo que el líder natural, les guste o no, porque tampoco nos comamos el verso de los K, de que Macri es un gato, Macri es malo…",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Realmente, ellos para tapar la macana que se mandaron, hicieron… Macri, no, no, no, no, no, no.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no. Cristina Kirchner inauguró, Cristina Kirchner trajo dos millones más de vacunas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy es una caldera de arena.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pésimo lo de la vacunación, lo de la cola del pelado de la RETA.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Horrible lo que hizo Bullrich con la ropa de presos, con eso no se juega.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No dejemos cambiar el eje de lo que es terrible.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay dos cosas terribles: la culpabilidad de Cristina Kirchner, que quiere cambiar a los jueces para que digan que es inocente, y el achaque horrible, horrible en el gobierno de Alberto Fernández y de Cristina Kirchner, del robo de las vacunas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y de pronto, cuánta gente ha muerto, cuánta gente ha muerto. Y cuánta gente muere por no estar vacunada por culpa de ustedes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por culpa suya, Alberto Fernández, usted es el presidente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por culpa de Cristina Kirchner, que es la vicepresidenta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cada día tenemos un presidente que nos desilusiona más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3312
+}

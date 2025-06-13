@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.911,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner fue y es la jefa de la banda delictiva, la jefa de la asociación ilícita que saqueó al Estado.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos fueron ladrones, esa es la verdad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Julio De Vido fue el gerente de coimas y retornos desde el ministerio de planificación, monitoreó casi todo el robo del siglo y Ricardo Jaime fue uno de los pocos que puenteaba a De Vido y le llevaba los bolsos con los billetes ilegales directamente a Néstor Kirchner.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández le soltó la mano hace mucho, ella nunca lo quiso porque cree que Jaime llevaba a Néstor Kirchner por las noches de la vida licenciosa, también porque es un corrupto confeso, aceptó ante los jueces que había cobrado suculentas coimas y, además, porque quiso extorsionar a Cristina Fernández, tal como surge de ese audio en el celular de Roberto Baratta, otro malandra, igual que José López, todos lugartenientes de De Vido.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son la banda delictiva de Cristina Fernández y no hay justicia adicta que borre esa verdad revelada, que sabe y repudia la mayoría del pueblo argentino.",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Repito: ni De Vido, ni Jaime, ni Baratta, ni José López, ni Fabián Gutiérrez, ni Daniel Muñoz se ganaron el pan con el sudor de su frente en algún trabajo privado, siempre fueron funcionarios, siempre fueron soldados de los Kirchner, siempre fueron estafadores, siempre integraron la banda delictiva de los buitres de Río Gallegos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podrán ser sobreseídos como Cristina Fernández una y mil veces, pero de nada vale, que corran, el incendio va con ellos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2292
+}

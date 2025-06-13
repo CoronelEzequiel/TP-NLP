@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.769,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En estos momentos, tres capas de un iceberg hasta ahora oculto emergen con toda su gravedad: inflación, pobreza y narcotráfico.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, el empobrecimiento afecta a todos los estratos sociales de manera fulminante.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Resulta increíble que, ante tal gravedad, el secretario de Comercio mantenga su puesto, o que el ala cristinista del gobierno solo busque nuevas medidas paliativas.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Al mismo tiempo, marchas como la de ayer, con una enorme capacidad logística inexplicable y costosa, revelan la instrumentalización de la pobreza con fines políticos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno solo ha sido eficiente en generar pobreza y no ofrece un horizonte; por eso, el presidente debe hablar de su reelección —no solo por estrategia, sino también por su falta de visión— para ganar tiempo, un tiempo que aún no existe.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La indiferencia ante el narcotráfico es complicidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, sumido en disputas internas, se muestra desconectado de la realidad y desprovisto de explicaciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo ya no tiene un relato creíble.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1913
+}

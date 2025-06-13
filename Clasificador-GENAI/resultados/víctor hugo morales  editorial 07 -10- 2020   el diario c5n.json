@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "La gestión de Horacio Rodríguez Larreta ha realizado un saqueo de la ciudad, todo de manera legal, aunque no legítimo, que llama la atención por su forma de proceder y la apropiación neoliberal de los recursos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se menciona el caso de Carlos Heller, quien fue blanco de un \"escrache\" por parte de sectores rurales, incluso con la participación de Kaczanowski, un economista que suele favorecer posturas de derecha.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Patricia Bullrich convoca a una manifestación el 12 de octubre, supuestamente para presionar a la Corte Suprema de Justicia.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se critica el discurso de odio y ambición de la oposición, su terraplanismo político y su oposición a la ciencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ricardo López Murphy vuelve a hablar del déficit fiscal, repitiendo la misma historia neoliberal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2700
+}

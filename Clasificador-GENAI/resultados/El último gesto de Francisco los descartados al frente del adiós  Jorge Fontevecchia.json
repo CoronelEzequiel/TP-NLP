@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_papa_francisco",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.208,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "En este día 502 de mi ley, titulamos el último adiós al Papa de los últimos. Porque mañana será el funeral del Papa Francisco en Roma y se han invitado a personas trans, diferentes integrantes de la comunidad LGBTQ+, presos, personas sin hogar y otros llamados \"descartables\" por este sistema, palabra que el Papa Francisco colocó en la agenda en su vocabulario, repitiéndola.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, la extrema derecha en auge en el mundo propone un capitalismo deshumanizante, un capitalismo de ganadores y perdedores solamente, pero eso no tiene por qué ser necesariamente el rumbo que tome el mundo, y Francisco nos propuso otro camino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta frase de Jesús brinda un mensaje revolucionario desde el punto de vista religioso: si somos todos pecadores ante los ojos de Dios, la clave no pasa por detectar quién peca más y apedrearlo para limpiar las propias miserias, la clave pasa por ayudarnos unos a otros a ser mejores personas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Iglesia católica fue expulsiva durante muchos años con los homosexuales, los divorciados. Trataba de preservar la moral impoluta, mientras tanto, reproducía lógicas que muchas veces amparaban sacerdotes que habían cometido delitos graves. Era piadosa con las cúpulas e implacable con los últimos, mientras que Francisco, en una vuelta al origen, que no es una transgresión, sino un regreso al origen, tuvo que ser transgresor para ser un cristiano clásico.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Una persona que quiere construir muros y no puentes no es cristiana. Eso no está en el Evangelio\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Toda persona es hijo de Dios, toda persona. Dios no rechaza a nadie, Dios es Padre. Y yo no tengo derecho a echar a nadie de la iglesia. Más aún, debes recibir siempre. En la iglesia no puedes cerrarle la puerta a nadie, a nadie.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4246
+}

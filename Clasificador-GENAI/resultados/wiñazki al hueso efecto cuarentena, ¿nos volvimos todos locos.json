@@ -1,0 +1,31 @@
+{
+  "texto_id": "Nicolás Guiñazú",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Mencionó las implicaciones económicas y sanitarias de la cuarentena, señalando la paradoja de un sistema de salud preparado durante la cuarentena en un país con altos niveles de pobreza.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Explicó que criticó la posibilidad de que algunos sectores del poder aprovecharan la pandemia para sus propios fines, incluyendo la ralentización de juicios contra Cristina Fernández de Kirchner.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aclaró que no cuestionaba la necesidad de la cuarentena, pero sí se preocupaba por sus consecuencias sociales y económicas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Finalizó reiterando que no abogó por levantar la cuarentena y que sus comentarios fueron una expresión de inquietud ciudadana, no una postura política.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1172
+}

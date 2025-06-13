@@ -1,0 +1,31 @@
+{
+  "texto_id": "Massot",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que básicamente el argumento es: no me pueden decir nada los que tienen causas de corrupción. Entonces es alarmante, porque lo primero que no hace es ponerse en un plano de diferencia respecto de aquello. Es como si estuviera diciendo que tiene autoridad moral, entonces es grave.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "también creo que estamos en el inicio de un nuevo mandato que ha marcado un rumbo que lo ha elegido la gente y que eso tiene una legitimidad que no está exenta de las críticas que le podamos hacer, pero que tiene una legitimidad y que está teniendo algunos logros que sería deshonesto no reconocer. En primer lugar, el descenso de la inflación y el ordenamiento macroeconómico.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que acá tenemos que estar concentrados en que digamos ya se han utilizado recursos públicos como la cuenta oficial de Twitter y la investidura presidencial para promocionar un negocio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces creo que le estamos dando al gobierno la posibilidad institucional, el escenario ideal para que los funcionarios que entornan al presidente y que lo han asesorado, si quiere, por ser benévolo en el verbo, en esta aventura, den las explicaciones que hasta ahora no ha dado nadie.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3504
+}

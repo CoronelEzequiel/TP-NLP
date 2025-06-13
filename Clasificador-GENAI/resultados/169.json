@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Fue una convocatoria importante para rechazar la ley recientemente aprobada.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lamentablemente, el gobierno, a través de los servicios de inteligencia, parece haber orquestado que un grupo reducido provocara disturbios: destrozos de vehículos, bibliotecas, lanzamiento de piedras… una cacería brutal contra estudiantes, jubilados y manifestantes pacíficos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, la única herramienta de los trabajadores es la unidad, y la CGT la ha mantenido desde el inicio de la discusión sobre la ley ómnibus.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los trabajadores necesitan tranquilidad; la CGT no se dividirá y seguirá confrontando este gobierno, que ataca a trabajadores, jubilados, y barrios populares, impulsando privatizaciones.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es necesaria la unidad del peronismo para ofrecer una alternativa de gobierno en las elecciones legislativas y presidenciales del año que viene.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una locura. Es como el peronismo de los 90, el de la “pizza y el champán”, que destruyó empresas y privatizó todo. Esa actitud me indigna.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1936
+}

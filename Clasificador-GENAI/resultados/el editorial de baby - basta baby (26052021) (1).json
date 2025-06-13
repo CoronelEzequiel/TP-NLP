@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.83,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno argentino demostró que está a favor del dictador Maduro, un sinvergüenza.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nunca se la tocó a Florencia, pero Florencia ya tiene 30 años y aceptó ser vicepresidenta de esa asociación; sabe lo que está haciendo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras tanto, la única forma de zafar que tiene el gobierno es llevarnos a una Venezuela donde salgan los matones con remeras rojas, como ayer, a pegarle a la gente y a marcar a los vecinos que no piensan igual; a llevarse presos a los que piensan diferente, a romper las manifestaciones, a procesar a los que no tienen al día el permiso para circular.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Creo que hay que ser \"facho\", y yo defiendo a la policía y la admiro.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso yo estoy a favor de los derechos humanos de todos, estoy en contra del hijo de puta de Maduro, estoy a favor del hombre que lo juzga mañana a Chocobar, estoy en contra de los chorros, a favor de las víctimas y a favor de la democracia y la libertad, como en Uruguay.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3098
+}

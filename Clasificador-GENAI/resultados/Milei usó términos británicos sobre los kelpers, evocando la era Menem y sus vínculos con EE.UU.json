@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, 2 de abril, Día del Veterano y de los Caídos en la Guerra de las Malvinas, el presidente Javier Milei utilizó el mismo argumento del Reino Unido al hablar del derecho de autodeterminación de los habitantes de esas islas, llamados \"kelpers\" por nosotros, y expresó su deseo de que los habitantes de Malvinas quisieran ser argentinos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al finalizar el día, tras la oleada de críticas de opositores políticos y excombatientes de Malvinas, Milei compartió una canción de la banda británica Queen, \"Friends Will Be Friends\", probablemente dedicada al expresidente estadounidense, con quien intentará hacer gestiones nuestro presidente Milei para terminar de cerrar el envío de dólares por parte del Fondo Monetario Internacional (FMI), del cual tanto depende la promesa de Milei de cierta forma de dolarización de la Argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, vale la pregunta: ¿Javier Milei es un \"sipayo\"? Lo que podemos afirmar es que tiene gestos políticos que nos pueden llevar a contestar que podría ser así.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, por quien Javier Milei muestra verdadera devoción, con escenas que dan esa mezcla de incomodidad y vergüenza ajena que los jóvenes denominan \"cringe\", es por la actitud \"cringe\" que tiene Milei hacia el expresidente Donald Trump, de devoción.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este permanente acercamiento a Estados Unidos no impidió que Estados Unidos pusiera trabas a las importaciones argentinas, lo que festejó el presidente como un logro en función de las muy buenas relaciones que tiene Argentina con Estados Unidos, de que nos peguen con solamente el 10%.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4906
+}

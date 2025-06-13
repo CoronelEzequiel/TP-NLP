@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si por un instante Dios se olvidara de que soy una marioneta de trapo y me regalara un trozo de vida, aprovecharía ese tiempo lo más que pudiera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A los hombres les probaría cuán equivocados están al pensar que dejan de enamorarse cuando envejecen, sin saber que envejecen cuando dejan de enamorarse.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "He aprendido que todo el mundo quiere vivir en la cima de la montaña sin saber que la verdadera felicidad está en la forma de subirla, escarpada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trata de decir siempre lo que sientes y siempre lo que piensas que es lo más profundo de tu corazón.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El mañana no le está asegurado a nadie, joven o viejo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo lo recuerdo erguido, orgulloso, aquel día que rechazó el frac para recibir el Nobel y se enfundó en el liqui liqui, el típico traje colombiano, pero más recuerdo sus palabras, tan reales como mágicas: \"Una nueva y arrasadora utopía de vida donde nadie pueda decidir por otros, hasta la forma de morir, donde sea de veras el amor y sea posible la felicidad, y donde las estirpes condenadas a 100 años de soledad tengan, por fin y para siempre, una segunda oportunidad sobre la tierra\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2531
+}

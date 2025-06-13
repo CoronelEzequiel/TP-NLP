@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.52,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ha habido una cantidad de manifestaciones en la ciudad de Buenos Aires, en la Plaza de Mayo y en otras ciudades del país, que tuvieron un significado especial para el oficialismo, para Juntos por el Cambio, y especialmente para **Mauricio Macri**, quien apareció muy emocionado en el balcón de la Casa Rosada, respondiendo a la presencia de gente que se movilizó por su cuenta para plantear la necesidad de una continuidad del actual gobierno en las elecciones.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué le dicen a **Alberto Fernández** esas manifestaciones? Es obvio que la gente que se está manifestando, que se manifestó este sábado, no lo hizo a favor de la economía de Macri.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, acá hay un entramado de problemas muy complejos que le esperan a Fernández, tal vez tan complejos como los de la economía.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuba es el lugar donde se maneja la consola del régimen venezolano, y probablemente esto (que significa muchas otras cosas) lo obliga a Fernández a decir: 'Yo sigo la política de México y la política de Uruguay en relación con Venezuela'.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que nos está diciendo Fernández con este comunicado es: 'No espero que el año que viene la Argentina crezca. Me va a tocar una escena muy complicada desde el punto de vista financiero, desde el punto de vista del tipo de cambio y la estabilidad cambiaria, por lo tanto, me va a tocar un nivel de pobreza más importante, me va a tocar atraso tarifario', es decir, 'voy a enfrentar una agenda muy escabrosa con un dato adicional: si miro Brasil, las recesiones empiezan a ser mucho más largas de lo que todos deseamos'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5647
+}

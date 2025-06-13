@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El problema es que la pandemia ha sido producto del populismo chavista de Cristina Fernández de Kirchner, Alberto Fernández y Sergio Massa.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Javier Milei ganó las elecciones prometiendo un plan motosierra, es decir, un ajuste brutal.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Muchos votaron a Milei para expulsar del poder a un kirchnerismo nefasto que le hizo mucho daño a la democracia y que nos tenía hartos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que ir más a fondo en ese ajuste.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La política de shock es un acierto, pero hay que estar muy atentos a la temperatura social.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1982
+}

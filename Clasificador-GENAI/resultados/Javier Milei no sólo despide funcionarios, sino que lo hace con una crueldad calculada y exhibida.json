@@ -1,0 +1,51 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei ayer echó a Sonia Cavallo, solo porque su padre, el exministro de Economía Domingo Cavallo, había criticado su política económica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si entre sus funcionarios rige la guillotina y el recorte de gastos estatal tiene la metáfora de la motosierra, es totalmente pertinente. Se pasa la motosierra por áreas tan sensibles como medicamentos, jubilados, la atención a discapacitados y los tratamientos a los enfermos de SIDA.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese Milei despidió a la representante argentina ante la OEA para castigar a Cavallo, y no fue la primera vez que despide a un funcionario por lo que hizo un familiar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En ambos casos, los funcionarios no hicieron nada que, por sí, fuera motivo de despido. Simplemente, fueron despedidos por lo que hicieron sus familiares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, Milei parece disfrutar con el accionar de la guillotina. En sus propias palabras sobre Marra, vamos a una entrevista donde Milei dice: \"Fue ejecutado\", literalmente, y su hermana tiene la guillotina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "De hecho, llevaron una guillotina a la Plaza de Mayo. Probablemente las coincidencias no tengan ningún punto de conexión, pero es llamativo el uso del mismo instrumento.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La motosierra, símbolo de campaña libertario contra el gasto estatal y la casta política, fue utilizada contra los débiles.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"No somos casta y necesitamos que nos escuchen, que nos escuchen de verdad, por favor se los pido. Nuestros hijos necesitan las terapias y necesitan profesionales dignos con sueldos dignos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5220
+}

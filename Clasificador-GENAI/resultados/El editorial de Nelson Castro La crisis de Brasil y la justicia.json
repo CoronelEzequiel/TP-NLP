@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.74,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Una justicia independiente, plena y potente que juzga a sus funcionarios en ejercicio del poder, y que además, basándose en una grabación que la justicia consideró relevante, no duda en implementar las acciones necesarias, como corresponde.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Brasil tiene alguna posibilidad de mejorar y avanzar hacia la decencia, es gracias a este accionar judicial.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Imaginen ustedes, un juez en Argentina que hubiera allanado el despacho de algún senador en el Congreso.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En estos días va a ser juzgada María Julia Alsogaray por irregularidades en la ex Entel, en el año 1989. Han pasado 28 años.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquí hay corruptos que no solo están libres, sino que aspiran a ser electos nuevamente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1149
+}

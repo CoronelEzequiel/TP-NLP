@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.152,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Acabamos de restituir dentro del ex ESMA el cuadro de Néstor, que fue sacado por el secretario de Derechos Humanos de Súpanbaño, secretario que además despidió al 70% de los trabajadores de la Secretaría.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei fue electo por el voto popular, tiene la misma actitud. Despidió a cerca de 250.000 trabajadores del sector privado, 50.000 laburantes del sector público, están desapareciendo las pymes, endeuda al país de una manera irracional, caga a palos a los pibes, a los adultos mayores.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eh, yo sé que está mal decirlo, pero es un sorete este presidente, porque la verdad que lo que hizo fue hostigarnos, perseguirnos, despedirnos, golpearnos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cerraron el ENIA, que era un programa para el embarazo adolescente. Donde están dejando sin medicamentos a los adultos mayores. Cerraron el Instituto del Cáncer. Puedo seguir porque la verdad que la barbaridad que genera este presidente es realmente brutal, devastadora.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "es una familia que hoy es víctima del terrorismo de Javier Milei.",
+      "score": 0.45,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1740
+}

@@ -1,0 +1,181 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.713,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Voy a recordar una frase que alguna vez dijo Jesús: \"Dar al César lo que es del César y a Dios lo que es de Dios\".",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero algo pasó en esta Argentina tan rara y libertaria que estamos viviendo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces la pregunta es, bueno, ¿qué bienes públicos me está dando a cambio?",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que no nos da nada, porque, la verdad, en términos de seguridad, la provincia es un baño de sangre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En términos de educación, los rendimientos de los alumnos son verdaderamente paupérrimos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, la verdad es que, aun cuando uno tuviera una visión menos negativa sobre el estado y lo interpretara como un seguro en un mundo de mercados incompletos, creo que uno podría hacer esa interpretación.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y por eso ¿usted banca la idea de \"EFER\"?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Absolutamente, porque el default de la provincia de Buenos Aires es el más grosero.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es fuerte que un presidente diga \"basta de pagar impuestos\".",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Claro, ¿te devuelve seguridad pública?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La gente ha privatizado la seguridad: alarmas, rejas, cámaras, garitas, seguridad privada.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto es educación pública.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tener los hospitales públicos destruidos, cucarachas, ratas, no hay turnos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Qué más? ¿Tenés obra pública?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces es obvio que la gente se pregunta, ¿en qué demonios se gastan mis impuestos?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También hay programas como \"Mar para Todas\", que busca garantizar el derecho al tiempo libre, el descanso de las mujeres, el EGBT y más.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando ves que el Estado se gasta tus impuestos en estas pavadas, lógicamente te volvés loco, lógicamente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estos son los delirios del populismo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No tenés trabajo, hospital público roto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces al gobernador le digo, no le voy a pagar más impuestos, no le voy a pagar más impuestos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Tremendo cómo entra el tema de los impuestos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo laburo, ellos no, yo pago impuestos, ellos no, yo pago las cuentas, ellos no.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es un modelo tramposo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Para tener estos hospitales, mirá, hospital Iriarte de Quilmes.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Y para qué deberían ser los impuestos?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Escuchá a esta señora mayor totalmente cansada de los piquetes y de la violencia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay un choque de civilizaciones grave entre cultura del trabajo y cultura de la dádiva.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta gente laborante se tiene que bancar que el ministro Larroque diga que en la provincia no hay impuestos.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En la provincia de Buenos Aires no hay un impuestazo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No conectan con la agenda de la gente, ¿qué te pasa a vos como ciudadano?",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Todo esto sucede porque hace años y años y años que la Argentina está en modo anomia.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay un problema de aptitud, por lo tanto, si es... estamos ante un presidente que no está apto para gobernar antes de la rebelión que trae problemas a la institución y por eso me parece muy bien lo que sacó Perfil.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nosotros nos votaron no solo para terminar con la inflación y terminar con la inseguridad, sino además para devolverle libertad a los argentinos, para que vuelvan a tener bienestar y no vamos a bajar los brazos bajo ningún punto de vista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Quiénes son Los Orcos?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8173
+}

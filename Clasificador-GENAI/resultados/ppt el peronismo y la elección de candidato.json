@@ -1,0 +1,36 @@
+{
+  "texto_id": "cosking",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El peronismo es como el gimnasio; si no hay constancia, uno engorda, ¿me entienden?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Grabois es un dirigente que, sin duda, es el futuro, va a ser la revolución. Cristina ya la hizo, esa era la diferencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina acomodó todo, le dio Fulguro, le dijo... Fue Fulguro que, para los que no vienen del Andaluz... Fulguro... pero ella siempre aplica bien, ella es una mezcla rara de la hija del carnicero y Simone de Beauvoir.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las organizaciones barriales van a ser, sobre todo con lo que se ve en el mundo, con lo que se va a estar viendo en Francia, que aparentemente no tiene nada que ver, pero tiene que ver, pueden llegar a ser el futuro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tiene la posibilidad en este nuevo momento histórico de la Argentina, el que lo esperó mucho, Sergio, Sergio Tomás. Tiene posibilidad de llegar a ser un Néstor. ¿Se lo va a perder?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4076
+}

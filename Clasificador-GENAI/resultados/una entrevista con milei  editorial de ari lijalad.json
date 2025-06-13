@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.136,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Queremos que el presidente Javier Milei nos dé una entrevista.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero, sobre todo, si tuviéramos una entrevista con Milei hoy, le preguntaríamos por qué miente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei tomó la decisión y la ejecutó primero a través de Sandra Pettovello, ahora a través del ministro Russo, el ministro de salud, del que tiene el pie arriba de la caja, que es el ministro Caputo, tomó la decisión de que haya personas que hace tres meses que no reciben los medicamentos que necesitan para vivir y es su derecho.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Están ignorando la salud de los demás. Pueden cortar la vida de las personas que están pendientes de esto. Sé que Milei tuvo mucho voto a partir de las redes sociales que se informen más y que aprendan a escuchar. Porque la verdad que lo que él está haciendo ahora son cosas que se habían dicho y que ya se veía bien que iba a hacer.\"",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Milei dice que esto no existe.\"",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acabamos de pasar nueve casos de los que hablamos nosotros donde la DADSE desde diciembre les cortó los medicamentos a pacientes que sin eso no pueden vivir y que es un derecho. Y eso lo decidió Javier Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer Javier Milei a través de un comunicado dijo que esto no pasó, que todas estas personas que ustedes acaban de escuchar, todas estas personas con las que nosotros hablamos no existen.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4199
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Cuando leo ahora en estos días sobre la Ley Ómnibus, claro, un ómnibus (un colectivo, un bondi) es un lugar popular, un lugar al cual todos nosotros nos subimos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No es una Ley Ómnibus, es una Ley Limusina. La limusina, ustedes saben, es un auto también muy grande, donde entran muchas cosas, muy largo, pero ¿dónde nos subimos todos? Se suben unos poquitos, que son los dueños de esa limusina, que van muy cómodos ahí adentro, que ocupa mucho lugar, pero no es para los sectores populares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ejemplo, ayer le dieron un premio al empresario del año, ¿saben a quién se lo dieron? A Eduardo Eurnekian. Merecidísimo, ¿eh? A mi entender, muy merecido el premio de Eduardo Eurnekian. Este año metió un presidente y medio gabinete.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bulgheroni dice que hay que salir de esta situación con dolor. ¿El dolor de quién? De él no. Yo ya les he contado los balances de Bulgheroni. Le dan cada vez mejor en términos de rentabilidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Ley Limusina que está en el Congreso plantea derogar eso [el artículo 1 de la ley de soberanía hidrocarburífera].",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sturzenegger es el compilador de toda esta ley del DNU. Sin cargo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2654
+}

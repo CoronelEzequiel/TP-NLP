@@ -1,0 +1,31 @@
+{
+  "texto_id": "entrevista_amaya",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, cayó muy fuerte y generó gran preocupación en la Junta Electoral.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Recordemos que la cautelar de la Corte Suprema de Justicia de la Nación disponía la suspensión de las elecciones solamente para los cargos de gobernador y vicegobernador, porque el cargo cuestionado es precisamente el de vicegobernador.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Absolutamente todo estaba desplegado, con un muy buen clima electoral, sin enfrentamientos, solo los cuestionamientos propios del folclore político electoral, con los pasos dados por 93 partidos políticos con absoluta normalidad.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto verdaderamente fue un duro golpe contra las expectativas electorales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1498
+}

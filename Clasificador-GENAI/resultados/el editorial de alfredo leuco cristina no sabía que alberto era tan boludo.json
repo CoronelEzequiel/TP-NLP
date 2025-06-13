@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.864,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina no para de bombardear a Alberto Fernández desde que se dio cuenta de que había cometido un error gigantesco al bendecirlo con la candidatura a la presidencia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina transformó la investidura presidencial en un \"trapo de piso\" rendido a sus pies.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En lugar de denunciar el golpismo, Cristina ayer aprovechó un tuit del chavista español Pablo Iglesias y apuntó contra cierto periodismo que difama, persigue y siembra desánimo con noticias falsas que niegan la democracia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De su autoritarismo corrupto, de su mezquindad personal, de su desigualdad, de su miseria.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ensañarse con una persona que ni siquiera le puede contestar es patear al caído.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina se encargó de darle masividad a los presuntos chats íntimos de Alberto cuando en su discurso dijo que \"cualquiera puede ver mi teléfono, pero otros no pueden mostrarlo\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Extorsión cristinista al palo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2155
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.443,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Un gobierno que reivindica a la dictadura, habían vuelto a actuar como en la dictadura",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer esa multitudinaria marcha nos demostró que no, que el horror no volvió.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para que la derecha no se adueñe de este país por las malas.",
+      "score": 0.95,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque los argentinos en 1985, con el juicio a las Juntas, fuimos testigos, escuchamos los testimonios de los secuestrados, de los torturados, de los familiares, de los desaparecidos, de los asesinados, de las mujeres violadas y ese horror hizo que no quedara en ese momento un argentino que fuera capaz de reivindicar esa dictadura.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde que ganó Milei y mucho más desde que atacaron a Sabrina, empezamos a pensar que la memoria había cedido, que el horror podía volver.",
+      "score": 0.9,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer fue un día importantísimo por la población en las calles, porque la pelea se gana en las calles, no en las redes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los quiero ver en la calle a los de las redes. La pelea se gana en la calle, la política se hace en la calle, los golpes y los \"no pasarán\" se hacen en la calle. Y ayer, en la calle, ganó la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1688
+}

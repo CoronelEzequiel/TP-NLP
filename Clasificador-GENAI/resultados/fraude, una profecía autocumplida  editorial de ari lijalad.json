@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.275,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Javier Milei nuevamente puso en duda el sistema electoral argentino.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quien cuenta los votos controla todo. Si la Cámpora y Máximo Kirchner son quienes cuentan los votos, ¿cómo podemos aceptar de buena fe un resultado?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei no solo miente, ya que la Cámara Nacional Electoral, y no la Cámpora ni Máximo Kirchner, es la responsable del escrutinio, sino que repite —incluso ante un periodista con amplia trayectoria continental— la narrativa de que si no gana, es por fraude.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Si gano, gano a pesar del fraude\" y \"Si pierdo, pierdo por culpa del fraude\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1396
+}

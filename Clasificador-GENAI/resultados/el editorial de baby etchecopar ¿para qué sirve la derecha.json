@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.657,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La corrupción campa a sus anchas, tanto en el oficialismo como en la oposición.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo único que parece relativamente débil es el sector de la derecha, representado por el gobierno de Macri, que obtuvo el 41% de los votos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque se prometió un cambio con respecto al kirchnerismo, pero no se ve ningún cambio real.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nuestro único resguardo es una oposición que fiscalice, nuestra última esperanza.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La derecha, en mi opinión, tampoco lo es.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Votaría a Macri nuevamente, no por simpatía, sino porque rechazo a Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para construir una derecha responsable y efectiva que controle a la izquierda, es necesario actuar con determinación y dejar de lado las estrategias erróneas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1511
+}

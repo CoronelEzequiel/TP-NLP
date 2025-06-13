@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.072,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Me parece que es una buena ocasión para que un judío converse con un palestino sobre lo sucedido y sobre cómo evitar que vuelva a ocurrir.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le agradezco que sea uno de los pocos que hablan de la verdad sobre lo que está pasando en Palestina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuántos palestinos han sido asesinados desde 1948 hasta hoy?",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No estamos hablando solo de Hamás, sino de un pueblo, el pueblo palestino, defendiendo su tierra.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jamás renunciaremos a Palestina, jamás a Gaza.  Palestina es para los palestinos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2636
+}

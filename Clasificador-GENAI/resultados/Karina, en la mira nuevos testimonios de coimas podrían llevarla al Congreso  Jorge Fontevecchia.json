@@ -1,0 +1,41 @@
+{
+  "texto_id": "21 de febrero",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Titulamos esta columna de hoy, día 441, “Ley de Karina Milei”, porque la oposición no pudo imponer en el Senado la Comisión Investigadora para un eventual juicio político, y tampoco logró que se llamara a la secretaria de la Presidencia, Karina Milei, para una interpelación por el supuesto cobro de coimas para organizar reuniones con su hermano, el presidente Javier Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Karina Milei, una mujer que fue secretaria, estudió relaciones públicas y hasta llegó a vender tortas por internet para afrontar sus gastos, está involucrada en una nueva estafa millonaria de alcance mundial, y se la acusa de cobrar coimas para acceder al presidente, e incluso por candidaturas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que siempre se dice de Karina Milei es que es una mujer con mucha codicia, con mucho deseo de dinero.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Norberto Milei recibió docenas de millones de dólares en subsidios, y parte de ellos terminó en los bolsillos de Javier y de Karina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La pregunta es: ¿Qué tan creíble es para usted que Karina Milei recibió coimas para promocionar la criptomoneda?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "No hay Javier Milei sin Karina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4652
+}

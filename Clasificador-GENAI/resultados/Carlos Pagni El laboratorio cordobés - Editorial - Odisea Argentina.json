@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Lo que pasó en Córdoba probablemente no despeje demasiadas incógnitas de las que están establecidas a nivel nacional, pero sí ayuda a pensarlas mejor, ayuda a pensar algunos de los rasgos principales que tiene ahí la política argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hace un discurso no presidencial anoche, pero sí nacional. Y un discurso donde habla de un peronismo republicano. Un peronismo que ofrezca gobernabilidad, pero que no por eso mansilla o transgrede las instituciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Schiaretti dijo algo, no lo dijo en estos términos personalizando, pero prácticamente dejó definido que ni Mauricio Macri ni Cristina Fernández de Kirchner, como si estuviera buscando una tercera posición.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desde 2015 hasta ahora se vino presumiendo y todo el discurso de la mayoría del análisis político de los que observan la escena de la vida pública en la Argentina, se repetía esta idea. El peronismo está perjudicado por Cristina Fernández de Kirchner.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy las circunstancias indicarían que esa no fue una lectura correcta, que al cabo de cuatro años el peronismo a nivel nacional está en problemas y Cristina Fernández de Kirchner vendría a ser la solución a esos problemas, una solución defectuosa, una solución del 30%, porque cuando uno mira el juego de la oposición daría la impresión de que la oposición está pensando más en armar un Cambiemos 2, como decíamos recién, con un sector del radicalismo, con el socialismo de Santa Fe, con el gen de Margarita Stolbizer, más que en ir a disputar el voto peronista con Cristina, con Massa o con cualquier otro candidato de ese sector.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5487
+}

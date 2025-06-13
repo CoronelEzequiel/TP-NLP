@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Hace tres semanas, cuando vimos en vivo la represión a los jubilados, el hecho tomó estado público; sin embargo, ellos vienen reclamando desde hace tiempo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es violencia desatada, una habilitación para ejercer la violencia que, contra los jubilados, no se justifica nunca.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La locura es de Patricia Bullrich, quien conduce la fuerza federal, y sabemos cómo termina esto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es hora de empezar a protegerlos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay que dejar a quienes solo tienen esa forma de protesta frente a una barbaridad que conocemos, porque no es algo repentino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Modificar una situación por decreto es posible, pero no un régimen general, porque el decreto no debe sortear al Congreso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mi tarea es solidarizarme y acompañar a los jubilados, y a cualquier sector que necesite protestar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina es mi conducción natural, pero también la vi cuando sus hijos eran perseguidos y cuando sufrió el atentado.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es más fácil pegarle a Cristina que reconocer que ella es la única miembro del peronismo que propone cosas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2386
+}

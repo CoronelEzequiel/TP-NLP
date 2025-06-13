@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_de_nuria",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.51,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El que decidió no firmar la conciliación obligatoria es el señor Omar Maturano, que además reclaman un bono.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El que la paga es el trabajador.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "están reclamando los del sindicato de trenes por ellos, por su paritaria, por su mejora salarial y, además, por un bono de 50 mil pesos para todos los jubilados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "un kirchnerismo que insiste con Cristina candidata.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández, que viaja en el día de hoy junto a parte de su gabinete, entre ellos, el ministro de economía, Sergio Massa, al foro de París.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "un Alberto Fernández que no dice... está en el medio. Me parece que quiere congraciarse con el kirchnerismo, pero es el ministro de Economía ahora, antes era más fácil, ¿no? Estar del lado del kirchnerismo y que no tener que controlar las cuentas y decir, bueno, sí, queremos un bono.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la otra discusión también, Nuria, tiene que ver, obviamente, con paso sí, paso no y candidatura",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "creo haber sido el presidente más maltratado en la democracia por los medios de comunicación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "un diputado, porque no deja de ser un diputado, Máximo Kirchner, que el hijo de la líder del frente de todos, salga tan duro como salió, a mí me hace un poco de ruido, ¿no?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "hay que tener en cuenta también cómo es el universo de esos salarios más bajos y además, también hay que tener en cuenta dónde hacés el corte, porque poneme que hacés el corte de alguien que gana 90.000 pesos y le metés una suma fija de 30.000 y se pasa a ganar 120.000 y el que gana 100.000 dice ya mí.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7247
+}

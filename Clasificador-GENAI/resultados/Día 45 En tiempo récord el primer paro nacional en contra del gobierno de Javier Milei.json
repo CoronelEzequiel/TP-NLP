@@ -1,0 +1,76 @@
+{
+  "texto_id": "analisis_paro_general",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.112,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El llamado a movilización más rápido desde el retorno de la democracia de 1983 es un hecho histórico que genera incertidumbre sobre el futuro, más aún ante el tratamiento de la ley ómnibus.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "**Milei** intenta, como ningún gobierno en la historia, dar vuelta completamente cientos de años de discusiones legislativas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y el segundo récord, quizás consecuencia de lo que acabamos de decir, es ser el primer gobierno que, a solo 45 días de iniciado su mandato, enfrenta un paro general convocado por todas las centrales sindicales, los movimientos sociales y una gran cantidad de partidos políticos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las centrales sindicales y el movimiento obrero en general tienen razones para oponerse a este paquete legislativo, y se acabaron las discusiones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora hay que ver si se aprueban o no se aprueban estas iniciativas, que prácticamente harían desaparecer el derecho a huelga; la protesta, tal como la conocemos, pasaría a ser ilegal, porque cualquier reunión de más de 30 personas en espacios públicos que no visen el Ministerio de Seguridad sería un acto ilegal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Una gran cantidad de actividades son declaradas esenciales, entonces solo puede pagar el 25% del personal, lo que reduce prácticamente a su mínima expresión el poder del sindicalismo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, muchos trabajadores del estado están siendo despedidos y empleados de las compañías estatales que se pretenden privatizar saben que pueden terminar con la misma suerte que sucedió en los años 90 en las compañías estatales que se privatizaron, que terminaron con menos de la mitad del personal original.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La reacción ante el gobierno de **Milei** fue casi inmediata: a los 15 días de asumir, fue anunciado el primer cacerolazo y las personas cantaban \"¡Paro, paro, paro, paro general!\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Desde la oposición más extrema, el presidente del bloque de Unión por la Patria, **Germán Martínez**, dijo que la ley que está a punto de debatirse era mucho peor que la ley Dromi y que esta última la definió como \"Heidi\" en comparación con aquella.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En la comparación, se ve un claro sesgo de la CGT.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de **Macri** apoya a los empresarios, o sea, empresarios mezcla de empresarios y dinosaurios.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Convocó a estar hoy en la marcha de camioneros, convocados justamente por **Hugo Moyano**.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A ver, el motivo por el cual yo vengo a la marcha es porque este gobierno, digamos, quiere reproducir lo que fue, digamos, el estado fascista de la década del 30, donde era una alianza entre políticos y empresarios, donde dejaban afuera a los trabajadores, y eso es lo que está intentando este gobierno.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7619
+}

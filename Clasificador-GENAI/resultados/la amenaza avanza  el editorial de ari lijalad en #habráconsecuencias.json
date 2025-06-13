@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_nisman",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se repetirá la versión de que el fiscal Nisman fue asesinado, que hubo vínculos con servicios de inteligencia relacionados con el kirchnerismo, que hubo impunidad, etc.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "la causa, que según las pericias del Cuerpo Médico Forense de la Corte Suprema indicaba un suicidio, fue trasladada de la justicia ordinaria de la Ciudad de Buenos Aires a manos del juez Claudio Bonadio, a instancias de un conglomerado de intereses que incluían a Bonadio, Clarín y el macrismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En siete años no han podido demostrar que el fiscal Nisman haya sido asesinado, al igual que no pudieron demostrar que el gobierno de Cristina Fernández de Kirchner pactara la impunidad para los acusados iraníes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "apoya a un fiscal procesado por espionaje ilegal, Carlos Stornelli, quien está protegido por la influencia de Bonadio para evitar que avance su procesamiento.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto envía dos mensajes: se toleran las acciones de Stornelli (incluyendo el espionaje ilegal), y se persigue a quienes critican al gobierno.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1606
+}

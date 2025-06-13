@@ -1,0 +1,36 @@
+{
+  "texto_id": "Música",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Con el **puñal** al suelo, le presto su conquistar a la gran basura del pueblo, combatiendo el camino, pero **un peón** de la **Quijada**, y que no **puede ser**.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El destinatario de este mensaje es todo el arco político, demostrando que el peronismo en determinadas circunstancias tiene un compromiso de cuerpo que va más allá de lo que se esté discutiendo en ese momento, lo que pudiéramos decir, lo exótico de la discusión.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No sé si no tenemos que pensar, en algún momento, en el federalismo, en cambiar la sede de la Corte Suprema a una provincia argentina, que lo aleje del microcentro porteño, donde la influencia nefasta de las corporaciones y de los estudios jurídicos tuercen muchas veces la voluntad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que se hizo ayer era un gesto del peronismo a todos los sectores de poder, no solamente a la Corte de Justicia, que más allá de lo que pase, van a estar unidos, y esa unión le da un poder como el que tiene la mayoría del Senado, porque se junta el peronismo no kirchnerista, el peronismo kirchnerista, el Frente Renovador, y finalmente hacen causa común.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con dinero o sin dinero hago siempre lo que quiero, mi palabra es la ley, es la ley.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2129
+}

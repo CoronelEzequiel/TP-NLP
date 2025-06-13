@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.21,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, 2 de abril, Día del Veterano y de los Caídos en la Guerra de las Malvinas, el presidente Javier Milei utilizó el mismo argumento del Reino Unido al hablar del derecho de autodeterminación de los habitantes de esas islas, a quienes se les denomina 'kelpers' por nosotros, y expresó su deseo de que los habitantes de Malvinas quisieran ser argentinos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, vale la pregunta: ¿Javier Milei es un *sipayo*? Lo que podemos afirmar es que tiene gestos políticos que nos pueden llevar a contestar que podría ser así.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Muy orgullosos de ti. Además, Javier Milei echó a la canciller Diana Mondino por no alinearse con el bloqueo económico a Cuba, cambió la posición sobre la guerra en Ucrania, dejó de considerar héroe y amigo a Zelenski para plegarse a la política exterior de Trump, más cercana a Putin, y se mostró peligrosamente aliado a Israel y a Estados Unidos en el conflicto en Medio Oriente, a pesar de nuestra historia del atentado a la comunidad judía en la Argentina, como fueron los ataques a la Embajada de Israel y a la AMIA.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Arranca sonrisas, ¿no? Un presidente un poco *sipayo* que vuelve a las llamadas relaciones carnales. Puede no ser lo mejor para defender los intereses de su país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El pueblo argentino siempre podrá contar con el apoyo de Francia, mucho más que un aliado en sectores clave como los metales críticos. Argentina es un amigo con quien queremos construir la economía del futuro",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4906
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.283,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Curiosamente, el Banco CMF figura entre las empresas que sufrieron la pérdida de documentación en los incendios de Iron Mountain en 2014 y 2023.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Muchas de las empresas afectadas en ambos incendios estaban siendo investigadas por delitos económicos, incluyendo lavado de dinero y evasión fiscal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras el gobierno congelaba los precios, empresas como Shell y Axion aumentaron sus precios, lo que provocó una migración masiva de consumidores hacia YPF,  que abastece aproximadamente el 60% del mercado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de comunicación por parte del gobierno, al no advertir sobre la inminente escasez, agravó la situación.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta estrategia, ya empleada por Bolsonaro y Trump, busca deslegitimar los resultados electorales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, el sistema electoral argentino cuenta con una larga trayectoria de transparencia y ha sido utilizado en elecciones en las que diferentes fuerzas políticas han ganado y perdido.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1414
+}

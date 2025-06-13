@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En este contexto, el gobierno argentino sobreactuó su apoyo a Israel.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Considero que este gobierno está haciendo todo lo posible por involucrarnos en una guerra ajena.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y ahora está haciendo todo lo posible por meternos en la guerra, no por evitarla.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay superávit fiscal porque no se le paga lo que corresponde a las provincias y no se paga la energía.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay recuperación de reservas porque no se pagan las importaciones y el control de la inflación se logra por inanición, porque la gente no tiene para comer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quizá gobernar para unos pocos con una jefa escondida termine saliendo mal.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1875
+}

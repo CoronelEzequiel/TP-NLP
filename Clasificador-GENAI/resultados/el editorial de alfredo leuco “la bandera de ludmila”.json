@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.82,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Finalmente, Ludmila cumplió su sueño y terminó el secundario.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ludmila Leguizamón tiene apenas 18 años y su esfuerzo y su apuesta al mérito pueden servirnos de bandera, o como bandera, para millones de argentinos frente al misterio del porvenir.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay muchas familias que terminaron agotadas, hartas de padecer al kirchnerismo o al peor gobierno de la historia, y ahora casi, casi, que no tienen fuerzas ni recursos económicos para recorrer el desierto que se viene.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando se igualan las oportunidades para arriba, eso se llama progreso. Cuando se igualan las imposibilidades para abajo, eso se llama decadencia, y por esas grietas se meten los peores disvalores: la vagancia, la dependencia del estado, la falta de iniciativa y hasta el alcohol y la droga.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Vivimos muchos años de autoritarismo y corrupción kirchnerista y, en muchos casos, se desalentó la superación individual y se igualó para abajo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1893
+}

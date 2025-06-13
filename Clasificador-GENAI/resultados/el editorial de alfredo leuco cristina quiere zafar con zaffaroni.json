@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El ex juez Eugenio Raúl Zaffaroni, a quien recién escuchamos, es el jefe del operativo de impunidad para Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zaffaroni mintió hablando de persecución y del lawfare contra Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zaffaroni es el autor intelectual de todas las trampas y chicanas para eludir a la justicia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zaffaroni, busquen el archivo, chicas, impuso una pena por abuso deshonesto y sostuvo que no correspondía aplicar la pena máxima porque, entre otras razones, la víctima, una niña de ocho años, había sido abusada con la luz apagada y, en palabras de su sentencia, abro comillas, el único hecho imputable se consumó a oscuras, lo que reduce aún más el contenido traumático de la desfavorable vivencia de la menor.",
+      "score": 1.0,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Zaffaroni, por el contrario, cosechó un repudio generalizado, encabezado por la representación política de la comunidad judía argentina y la entidad que agrupa a todas las entidades periodísticas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, es una de las personas que más daño le ha hecho a nuestro país en los últimos años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2405
+}

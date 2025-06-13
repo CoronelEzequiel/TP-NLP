@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Con la distancia que corresponde, voy a estar trabajando por la libertad, o algo así.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este es el disenso de la democracia y es la posibilidad que tenemos y lo que tenemos son los argentinos, gracias a Raúl Alfonsín, a Carlos Menem, y por qué no, te voy a contar que gracias a Herminio Iglesias y gracias a, ¿cuál era el contrincante de Alfonsín? Lúder, Ítalo Argentino Lúder, y a todos los hombres que hicieron la democracia, porque no podemos pelear en esta forma infantil de hacer política sin raigambres, sin cuna, sin educación y sin inteligencia, de decirnos todo lo que nos decimos, sin censura previa, de que el Presidente pueda decir \"son todos unos mierdas\" y que los \"mierdas\" digan \"y ustedes también\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En lo que a mí respecta, voy a hacer todo lo humanamente posible para ayudar a Milei a que dure cuatro años y si nos salva como dice que nos va a salvar de todo, lo voy a votar para cuatro años más, pero eso sí, necesitamos en carácter de urgencia, más que promesas del año que viene, realidades del 24 y del 31, donde la gente está contando las monedas para poder poner algo arriba de la mesa, y que no se ofendan, porque a veces los políticos cuando le hablas de la realidad, creen que estás haciendo política o que estás bajando línea y se ofenden.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Señor Presidente, a ver cómo le digo, son ladrones, no son políticos, no ofendan a los políticos, son chorros, son sinvergüenzas, son mierda, señor Presidente, si usted pelea con tal mierda va a terminar con olor a mierda, la mierda es para la cloaca y la cloaca de los políticos es la cárcel.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo hace 20 años que lucho todos los días, yo era antes humorista, hacía monólogos que hacían reír a la gente hasta que Cristina aquí me robó la alegría la gente, se la llevó, entonces digo, cago con un público sin alegría, de qué trabajo, bueno canalicemos el odio de la gente, la bronca de la gente, lo mal que está la gente, y yo voy a seguir hablando así hasta que esto no se enderece, ahora el año que viene calculo que seguiremos y si seguimos seguramente usted habrá arreglado todo esto que dijo en el discurso de hoy, entonces yo voy a volver a tener esos monólogos tan graciosos, antológicos que se replicaban en Twitter y en TikTok y en toda esta mierda, permanentemente la gente decía \"lo que me has hecho cagar de risa\", pero prefiero seguir haciéndolos pensar cada noche, analizándolo del día de una forma diferente a lo que es un River o Boca, por eso, señor Presidente, me gustaría, hoy dijo que lo iba a hacer, ver a todos los corruptos presos, y con respecto al de Paraguay me gustaría también que no fabriquen nuevos corruptos, porque tenemos corruptos para exportar, ok, gracias, señor Presidente, yo sé que usted lo va a tomar bien porque esta mañana le mandé unas felicidades, y si no lo toma bien me importa un carajo, lo importante es que cumpla lo que necesitamos los argentinos, salir de todo esto y como digo en el discurso que me gustó, arrancamos con un país mejor y yo le creí, no me defraude.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3369
+}

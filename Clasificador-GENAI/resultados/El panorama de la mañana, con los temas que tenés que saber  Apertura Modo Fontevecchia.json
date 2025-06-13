@@ -1,0 +1,56 @@
+{
+  "texto_id": "Modo Fontes de Quea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.556,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a estar acompañándolos junto con Elisabeth *Pejer* para que conozcan lo que está pasando.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mostrá las actas, Maduro, mostrá las actas de las elecciones.",
+      "score": 0.55,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero si el imperialismo norteamericano y los criminales fascistas nos obligan, no me temblará el pulso para llamar al pueblo a una nueva revolución con otras características.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahí tienen a los comunistas que apoyan a Maduro",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una definición importante.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y el propio presidente Javier Milei lo planteó en ese esquema al hablar o al acusar a Axel Kicillof como comunista",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me parece que es una discusión que muchos quieren dar hace mucho tiempo, pero no sé si el debate hoy, o la sociedad hoy, o la Argentina que veo hoy está dispuesta a hacer.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La sonrisa que ayer vino del deporte.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ganó Boca, ganó Gusto y goleó.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5258
+}

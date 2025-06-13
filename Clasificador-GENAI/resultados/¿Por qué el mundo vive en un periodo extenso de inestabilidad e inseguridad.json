@@ -1,0 +1,36 @@
+{
+  "texto_id": "balance_internacional",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Nuevamente tenemos un mundo que está atravesando ciertos grados de turbulencia, y entonces quiero leerles el *Collins English Dictionary*, donde la lengua, en este caso inglesa, pero en este caso se trata de una institución privada, declaró, creó un neologismo, la palabra \"permacrisis\", la palabra del año 2022.",
+      "score": 0.0,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El presidente ruso anunció en septiembre la anexión de cuatro territorios ocupados del sur y el este de Ucrania después de que las autoridades colocadas por Moscú organizaran referéndums, definidos como una farsa por Kiev y sus aliados occidentales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Francia pasando los mismos problemas sociales de un país como Argentina. Creo que, que nos escuchan todos los días, recordarán que yo había mencionado que Argentina era el país que tenía el sistema académico más francés fuera de Francia y estamos bastante parecidos en la idea de insumisa de nuestra sociedad, el “hagan lío” del papa Francisco, la potencia de los sindicatos en Argentina, muy parecida a Francia, la idea continua de los cortes de rutas y las manifestaciones, que es claramente la tradición francesa desde la Revolución Francesa.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Trump fue el único responsable del ataque al Capitolio el 6 de enero de 2021, lo siguió por televisión y estaba esperando que cediera este tipo de acto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante dos años, a medida que la inflación se disparó, a nivel de la delincuencia borró la frontera, Afganistán fue un desastre y Joe Biden destruyó nuestro país.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4133
+}

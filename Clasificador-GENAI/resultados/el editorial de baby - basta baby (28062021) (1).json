@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Por respeto a los muertos, no voy a hablar nada del acto de ayer, pero no por respeto a los políticos, que no lo merecen.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que, si Dios quiere, Milagro Sala está terminada.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y nos vamos sacando de a poco a los corruptos. Y, gracias a Dios, irá limpiando la corrupción.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero para que haya un presidente hay que tener una república y, para que haya una república, hay que tratar de votar bien y cambiar a algunos delincuentes; sacar la mugre que hay.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, yo había dicho que la democracia hay que limpiarla de estos personajes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Baradel, Moyano, Milagro Sala… eran unos patriotas bárbaros que habían llevado la bandera para que la hidrovía siga siendo del Estado, un Estado que se la iba a entregar a los chinos, y unos chinos que nos iban a dar a cambio una ruta y unos ferrocarriles, y nos iban a hipotecar por 50 años más, pero que Alberto iba a poder mostrar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y encima nos demostró que hay una oposición que, todavía como chicos en un colegio, están viendo quién se queda con la campana y quién se queda con la gente; quién va a izar la bandera cuando en realidad no hay más bandera ni campana.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hablo de la oposición, de Juntos por el Cambio, que son todavía unos irresponsables, unos inmaduros políticos que, a esta altura, con el peligro que tenemos encima, que entreguen la hidrovía y otros negocios más, como por ejemplo la medicina privada… ellos siguen jugando a ver quién la tiene más grande para poder estar en la boleta.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2569
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presidente compra, en una especie de \"hot sale\" de los tribunales, el perdón de la justicia, pagando en cuotas, con un crédito que a cualquier argentino le costaría conseguir y que no pueden explicar ni sus ingresos ni su patrimonio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina se desplaza hacia la izquierda y Sergio, hacia la derecha.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque el mimo a los productores rurales convive dentro del mismo gobierno que, con voracidad tributaria, solo busca meterles la mano en el bolsillo con más retenciones, aunque cambien de idea todos los días en la imparable fábrica de incertidumbre en la que se ha transformado este gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, cuando salen a hablar a favor de retenciones, a sabiendas de esto, solo reproducen un juego casi idéntico al de Massa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay que tener la cara bien entrenada luego de la mentira nacional de la fiesta de Olivos y una ostentosa desaprensión por el dolor de los otros para siquiera aceptar que hay horarios en que él no es presidente, como argumentó insólitamente el juez, aunque esté en Olivos con un banquete a costa de todos los contribuyentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2289
+}

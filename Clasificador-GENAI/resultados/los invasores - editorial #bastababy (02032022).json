@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nuestro país, a diferencia de algunos ciudadanos, se mantiene neutral en su postura respecto a la intervención de Rusia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Después de haber soportado estoicamente las protestas de grupos como la \"Sororidad\" y la presión de los movimientos feministas, con sus acciones a veces desmedidas, sufrí agresiones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si tiene una hija menor de edad que sale de noche por Palermo, por favor, cuídela; hay muchos violadores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Curiosamente, las mismas personas que integran los grupos feministas suelen proteger a quienes cometen abusos, sean militantes de La Cámpora, ministros, diputados o senadores.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El gobierno de Cristina Fernández de Kirchner se enfocó en la legalización del aborto y de la marihuana, priorizando esto por encima de la seguridad de las mujeres.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Temo que, si este gobierno corrupto continúa, figuras como [Nombre del actor] puedan ser utilizadas para desviar la atención de los problemas reales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1894
+}

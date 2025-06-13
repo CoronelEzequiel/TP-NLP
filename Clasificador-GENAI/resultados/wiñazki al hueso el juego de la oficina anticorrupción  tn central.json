@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La Oficina Anticorrupción se retira de ser querellante en dos de los juicios orales más importantes sobre corrupción: los casos Hotesur y Los Sauces.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Quiénes son los principales procesados en esos dos juicios? La actual vicepresidenta, Cristina Fernández de Kirchner; el diputado nacional, Máximo Kirchner; y Florencia Kirchner, entre muchos otros.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es muy grave lo que está pasando con la OA. ¿Es una señal para todas las justicias? Sí, una señal inequívoca de que, al contrario de lo que dijo el presidente Alberto Fernández en la apertura de sesiones ordinarias o en su discurso de asunción, la política se está metiendo –y saliendo– en el Poder Judicial, con un organismo que debería pelear contra la corrupción en dos juicios contra los Kirchner repletos de pruebas, de los que la OA se retira sorpresivamente.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿A quién beneficia? A la defensa de Cristina Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Félix Crous fue firmante de la solicitada de \"Justicia Legítima\", agrupación alineada a los Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No te podés ir como querellante de un juicio de corrupción si sos la Oficina Anticorrupción.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2152
+}

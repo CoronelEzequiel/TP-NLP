@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Daría la impresión de que no hay una oleada mecánica, digamos, fatal, por la cual en todas las elecciones después de las primarias vence el kirchnerismo o vence el peronismo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cornejo puede decir, me fue mejor ahora que en las primarias donde no me fue tan bien y ahora me fue mejor porque iba sin Macri en la boleta y en las primarias iba con Macri en la boleta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una pregunta central que nos estamos haciendo todos o que nos deberíamos hacer todos es si la Argentina va hacia un esquema equilibrado de poder o si va hacia una nueva hegemonía.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La pregunta por la hegemonía o la no hegemonía, la pregunta por la eventualidad de un reflujo autoritario o no, no está en el oficialismo, está más bien en la oposición.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Empieza Fernández a decir, como adoptando una agenda del otro, de esto me interesa mucho hablar con Santiago Gobertolo después, quiero funcionarios honestos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5413
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.23,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno salió ayer por la mañana a agraviar la verdad, la memoria y la justicia, y se encontró con una marcha gigantesca.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Habrán notado que no hay ningún incidente en tanto y en cuanto no haya ningún policía. Es decir, los malos son los de azul.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando dicen que quieren memoria completa, podríamos empezar, si quieren, para no irnos tan lejos, con el golpe del 30. Los bombardeos en la Plaza de Mayo, al pueblo, el golpe del 55, los fusilamientos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros criticamos, criticamos los excesos y las \"ilos\", las cosas atroces que se han cometido durante la dictadura, de un lado y del otro.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la verdad que lo que uno está viendo es que el campo popular está todo roto, que el peronismo vive en una interna interminable, que por momentos se profundiza, que se unen dos grupos para atacar a otro.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3949
+}

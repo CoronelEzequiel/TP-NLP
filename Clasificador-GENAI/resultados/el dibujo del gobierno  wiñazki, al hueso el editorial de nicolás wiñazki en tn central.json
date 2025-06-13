@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.613,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El presupuesto es un dibujo, no es un invento.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina nunca tuvo, digamos, una gran amistad o precisión con las estadísticas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En realidad, el año pasado habían dicho 29% y fue 45%.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si vos presentás la ley de leyes con una inflación que todo el mundo sabe que no va a ser así.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Después ya hay muchos otros temas. Son 95 artículos.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Guzmán recién utilizó un argumento que es interesante en la retórica: \"Si poníamos los pagos al FMI, hay que borrar los gastos a la UH, a todas las universidades\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O sea, el dólar que estaba presupuestado ya lo pasó.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y es nuestra plata, no es la de la clase política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2203
+}

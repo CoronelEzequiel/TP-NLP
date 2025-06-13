@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.827,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este proceso ultrainflacionario que estamos viviendo hoy en la Argentina es producto del endeudamiento criminal de los cuatro años del macrismo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina insiste en su discurso altanero, anticapitalista y negador de la realidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ella exige una menor libertad económica, controles más policiales, más castigo y represión desde el Estado y una peligrosa idea delictiva de violar secretos garantizados por la Constitución Nacional.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El inédito artefacto electoral que inventó Cristina se impuso en las elecciones presidenciales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero Cristina niega esa realidad, mira para otro lado y le apunta sus misiles verbales a Martín Guzmán, a Miguel Pesce, a Claudio Moroni y a Mercedes Marcó del Pont.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina tiene razón cuando plantea que el gobierno es un desastre y que el presidente pasó de títere a espantapájaros.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tanto Cristina como Alberto son los victimarios de un pueblo que está sufriendo como pocas veces el hambre, la miseria, la exclusión y el salvajismo del delito de la inseguridad criminal que el gobierno no combate.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Fernández han demostrado que no pueden manejar cuestiones muy simples y se atreven a pensar en huir hacia el pasado con una empresa estatal de alimentos.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Así como el Alberto del pasado fue uno de los críticos más duros de Cristina, llegó a llamarla psicópata, ahora ella se está vengando y asfixia al presidente hasta el límite del precipicio institucional.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este gobierno esquizofrénico, de disociaciones y alucinaciones, frenó todos los engranajes de la gestión.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No se hace cargo de haber gobernado 14 de los últimos 18 años y de la actualidad, con la inflación más alta en 30 años y un gasto público atómico que llega al 47% del producto bruto.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina bailando el himno nacional, por ejemplo, moviendo las cabezas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos naturalizando situaciones totalmente irregulares.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue otra humillación a cielo abierto para Alberto, que no sabe cómo cerrar la hemorragia de la pésima imagen de su gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo más grave, insisto, es que Cristina, la principal responsable, exige remedios que son mucho peor que la enfermedad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2477
+}

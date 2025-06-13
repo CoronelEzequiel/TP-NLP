@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Recordemos la frase de Milei: \"me cortaría un brazo antes de imponer un nuevo impuesto\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En resumen, Forbes argumenta que la intervención estatal en la economía a través de regulaciones permite controlar la vida de las personas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por lo tanto, la discusión, como dice Milei, se centra en que sus políticas son celebradas por quienes legitiman a los súper ricos, ya que publicaciones como *Forbes* naturalizan la existencia de multimillonarios que acumulan riqueza a costa de la población.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La solución no es la propuesta de Milei, sino gravar la riqueza de los ultra ricos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La discusión impositiva en Argentina debe centrarse en estos ultra ricos, gravando su patrimonio y fortuna.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2201
+}

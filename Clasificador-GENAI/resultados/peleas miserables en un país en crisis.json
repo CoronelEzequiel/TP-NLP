@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hoy, la crisis de unidad en el Frente de Todos tiene un espejo, de las mismas proporciones pero por distintas razones, en Juntos por el Cambio.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Llegaron al poder sin recursos abundantes para repartir o extraer, que es lo único que ellos entienden como gobernar: repartir o extraer de quienes trabajan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ya en las elecciones legislativas comenzaba a aflorar una fuerte presencia de sectores de centroderecha y un crecimiento de Patricia Bullrich como figura gravitacional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Milei le dijo de todo a Horacio Rodríguez Larreta, pero no puede afirmar que Cristina Fernández de Kirchner es corrupta a pesar de la montaña de causas judiciales y evidencias en su contra, ¿dónde está parado Milei en materia de impunidad?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo esto ocurre en un país en crisis que necesita líderes a la altura de los graves problemas que padece y ve en cambio peleas miserables que se desatan ante sus ojos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2783
+}

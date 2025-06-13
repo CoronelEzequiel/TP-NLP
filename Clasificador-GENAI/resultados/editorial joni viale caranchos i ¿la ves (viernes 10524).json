@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.706,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy tuvimos un show vergonzoso del carancheo político.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto es culpa, directa y sin atenuantes, de Javier Milei y sus secuaces.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El kirchnerismo dejó en trenes 30.102 empleados, único en el mundo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ah, pero Milei. Los datos matan cualquier relato, muchacho.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y ahora que pasó algo grave, gracias a Dios y muertos y gracias al SAME, hay que empezar a agradecer que el SAME trabaja muy bien, hay que decirlo, sale todo el kirchnerismo y todo el massismo a caranchear políticamente.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto no es privatización u estatización. Esto es ser un corrupto o ser un honesto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se olvidan que la corrupción del kirchnerismo nos costó 52 muertos en Once.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se robaron la plata de la gente, terminaron presos, bebidos, Jaime, Ricardo Jaime.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Muchachos, si siguen tratando a la gente como pelotuda, se van a calentar en serio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5677
+}

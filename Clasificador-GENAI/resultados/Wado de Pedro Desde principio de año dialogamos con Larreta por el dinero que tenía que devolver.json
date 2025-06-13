@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.28,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ayer la Corte Suprema de Justicia falló a favor de la ciudad de Buenos Aires, otorgándole el 2,9% de la participación en la coparticipación federal.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Profundizar la grieta es una traición a la patria\", dice Horacio Rodríguez Larreta",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Hoy salió un fallo injusto que hace trizas el federalismo\", dice Gildo Insfrán.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La transferencia de la policía se realizó por decreto y los fondos asignados a tal fin representaban más del doble del costo real para su funcionamiento.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los gobernadores de las provincias argentinas estamos cansados de manoseos y del desconocimiento del federalismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4390
+}

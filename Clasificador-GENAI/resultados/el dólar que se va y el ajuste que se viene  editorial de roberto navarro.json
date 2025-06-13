@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.136,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Mientras el ministro de Economía, [Nombre del Ministro], participaba en el Foro Económico Mundial de Davos, intentando proyectar una imagen similar a la del expresidente [Nombre del expresidente], se percibía una estrategia política cuestionable.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta política monetaria de [Nombre del Ministro] es criticada por su ineficacia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta política devaluación controlada está perjudicando la competitividad de la economía argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se critica el hecho de priorizar a los productores agropecuarios con mayores recursos, sobre los jubilados o personas de escasos recursos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "[Nombre del Ministro], en declaraciones en Davos, describió como \"privilegios\" el acceso a la vivienda y la educación, una postura que ha generado polémica.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, se alerta sobre un potencial ajuste aún más severo, que podría incluir el cierre de hospitales, la eliminación del PAMI (Instituto Nacional de Servicios Sociales para Jubilados y Pensionados) y la privatización de universidades.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se argumenta que esta política conduciría a un país sin derechos sociales y a un aumento de la desigualdad.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1699
+}

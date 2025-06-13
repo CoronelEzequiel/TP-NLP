@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.844,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Este es un país quebrado por la inflación, la pobreza, la inseguridad y las malas o nulas decisiones que toma este gobierno en descomposición.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son los principales herederos de Cristina Fernández de Kirchner y de Hugo Moyano.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Son millonarios que viven como millonarios y que dicen combatir a los millonarios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es la nueva oligarquía político-sindical.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su mecanismo funciona con el combustible del dinero de los contribuyentes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Jamás, ni Pablo ni Máximo, ganarían una elección a diputado o a concejal si se presentaran encabezando la lista y si se llamaran Pérez o Gutiérrez, bueno, muchísimo menos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se proponen liderar un país que sea socio de los que más violan los derechos humanos y van a presionar para construir una autocracia nacional populista y \"ladriprogresista\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No dicen nada de sus propios privilegios.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se sienten los dueños del país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1890
+}

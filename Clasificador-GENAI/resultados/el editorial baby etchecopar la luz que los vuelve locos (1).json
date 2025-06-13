@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.658,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La libertad de expresión, cuidemos la libertad de expresión.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es muy probable que vengan por la cabeza de algunos periodistas que estamos en contra de los K, y que hemos estado sistemáticamente, que seguiremos estando, no del peronismo, sí de lo K.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que los espacios de libertad se nos ganan.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero la libertad de expresión es un bien adquirido y fijate vos que no me la dio ni Macri ni me la dio Cristina, me la gané rompiéndomela para que gane el fonkín.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No hay que dejar crecer a los dictadores, en Venezuela se les fue de las manos, en Cuba se les fue de las manos, pero que no se nos vaya de las manos en la Argentina, pero los dictadores no son los pendejos que te hacen la vez de la victoria, los dictadores son los que dicen, \"Piche, cómo están, andan por todos lados\", no podemos tener un país tan cagón, y no me pidan a mí que me cuide, cuídense ustedes, cuídense ustedes y cuiden los fusiles de la trinchera que somos los perdedores que hablamos, por eso después ese talín que los vuelve locos, los lleva a discutir boludeces y se sientan 24 en un programa, y discuten de la libertad y la no libertad, y yo que estudié en la academia y a mí la libertad, y yo la libertad que tuve con Cristina, pero que sos un pajarito boludo que te dejan volar dentro de la habitación, sos un hombre que todo el mundo es tuyo, mirá, hay tres espacios: el tuyo con vos, el tuyo con el otro, y el tuyo con el otro y el universo, aprendé que hay un universo, empieza a vivir con pelotas y que no te marees, y tampoco te creas todo lo que te dice esa luz roja, porque con tal de vernos en esa luz roja, y yo también, porque seguramente vos en tu casa mientras tu mujer está enamorada de mí, vos le decías ese pelotudo, mirá la boludez que dice, no, no son boludeces, cómo están enamoradas de mí, no son boludeces, en la realidad acojonate, ¿cuántos años hace que no te acojonás?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo luché con Alfonsín y su radicalismo por la libertad de expresión, y el primer programa que hice acá, dije, lucho, vengo a pelear por la libertad de expresión hasta que me saquen, porque quiero enseñarle a los pibes, y a los viejos, y a la clase media, a la clase alta, que no tiene sentido la guita si no tenés los cojones bien puestos, entonces seamos libres, que lo de paz no importa nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3543
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_madur",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.537,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La oposición argentina arremetió con las denuncias penales contra el presidente de Venezuela, además de Cuba y Nicaragua, calificándolos de dictadores, lo cual estaría evitando la presencia de estos mandatarios en nuestro país, siendo Nicolás Maduro el epicentro de los reclamos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"No permitamos un Vietnam en América Latina\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Todo lo que hemos obtenido ha sido por el voto popular\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Leopoldo López, el responsable directo de las muertes en Venezuela\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Venezuela merece el premio Nobel de Economía\"",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Pido el apoyo a los movimientos sociales, sindicales y políticos de la Argentina patriótica, de la Argentina peronista, para Venezuela, para el rescate del avión, para la liberación de los pilotos secuestrados\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Presenté una declaración en el Congreso repudiando la invitación de estos tres terribles dictadores, uno de ellos es Maduro, los otros dos son el jefe de Estado de Cuba y de Nicaragua\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Si Nicolás Maduro viene a la Argentina, debe ser detenido de manera inmediata por haber cometido crímenes de lesa humanidad, tal como ocurrió con Pinochet en Londres en 1998\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3005
+}

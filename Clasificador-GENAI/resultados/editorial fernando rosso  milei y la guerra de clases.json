@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.11,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Parte de la estrategia para lograr un alineamiento incondicional con Sergio Massa consistía en afirmar que, del otro lado, estaba el \"fascismo\".",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En definitiva, el colectivo de *Crisis* evidencia el fracaso de intentar combatir a la derecha con lo que muchas veces llamamos el \"extremo centro\", es decir, copiando no solo el estilo de los adversarios, sino cada vez más su agenda: el ajuste, el punitivismo y sus objetivos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei es el presidente electo y ha comenzado a desplegar sus ideas, un programa que es básicamente una guerra de clases y social contra los trabajadores, las trabajadoras y los sectores populares.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei amenaza con una hiperinflación para imponer un disciplinamiento social y presentar un pedido de orden como única salida.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos ante un gobierno que quiere cambiar la relación de fuerzas en sentido regresivo, que no busca contener la crisis para un ajuste negociado, sino acelerarla para gobernar a través de ella con una política de shock.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2329
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_acto_CFK",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Durante años, tanto Néstor como Cristina insistieron en no autodenominarse \"kirchneristas\" ni \"K\", prefiriendo identificarse dentro del peronismo, argumentando que esas etiquetas desvalorizaban su figura.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como bien señaló Dady ayer en nuestra conversación, el acto careció de anuncios concretos, definiciones políticas o anuncios de candidatura.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Según Alemán, el kirchnerismo, tras finalizar sus gobiernos, no fue simplemente un oficialismo más, sino una \"anomalía contrahegemónica\" que duró doce años.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta \"anomalía\" se manifiesta en varios aspectos: un largo período de crecimiento con inclusión social (anómalo en la historia argentina); la ruptura con \"vacas sagradas\" (reestatización de YPF, modificación de la Carta Orgánica del Banco Central, estatización de la AFJP, sanción de una Ley de Medios democrática); y un rol destacado en la defensa de los derechos humanos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer comenzaron a circular especulaciones. Se habló de Sergio Massa, Axel Kicillof y Eduardo \"Wado\" De Pedro en el escenario detrás de Cristina Fernández de Kirchner, generando interrogantes sobre sus roles en el futuro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1760
+}

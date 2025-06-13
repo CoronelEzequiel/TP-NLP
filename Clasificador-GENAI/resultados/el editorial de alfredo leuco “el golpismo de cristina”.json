@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.912,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Al golpe palaciego de Cristina le falta el tiro de gracia.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Funcionarios que no funcionan, cartas cargadas de dinamita, el presidente es un mequetrefe y uno ocupa, el cuervo asegurando que cinco amigos le escriben el diario de Hipólito Yrigoyen, Axel Kicillof amenazando porque el que no se quiere pelear debe irse.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero lo más despreciable humanamente es que Cristina haya utilizado una fecha sagrada de homenaje a los héroes de Malvinas para seguir destilando veneno interno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como si esto fuera poco, no frenó ni desmintió a un chupamedia diputado chaqueño, que recién escuchamos que, escudado en su condición de ex combatiente, dijo que ella, que Cristina, era la presidenta de la Nación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mientras eso ocurría, un baboso Sergio Massa sonreía complacido por estas palabras antidemocráticas.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El regalo de Cristina es el símbolo de la última etapa demoledora antes del empujón golpista.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las únicas víctimas en todo esto son los argentinos, y los principales victimarios son Cristina y Alberto.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que su golpismo no tiene límites.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2355
+}

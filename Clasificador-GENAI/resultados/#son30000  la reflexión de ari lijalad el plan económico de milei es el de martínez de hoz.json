@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.383,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vamos a dedicar un bloque especial a los derechos humanos, la memoria, la verdad y la justicia; tema que debería haber sido abordado ayer.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su gestión trascendió los discursos, impulsando acciones concretas que se tradujeron en un aumento significativo de juicios por crímenes de lesa humanidad.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora, veamos la presentación de Milei y Victoria Villarroel (cuyos antecedentes, como recordatorio, publicamos el viernes pasado), quienes en sus escritos justifican a asesinos, violadores y ladrones.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Negar la dictadura no es solo negacionismo, sino una reivindicación de la misma y de sus planes económicos,  que justificaban la violencia como herramienta necesaria.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Escuchar los argumentos de genocidas en un debate presidencial, 40 años después del fin de la dictadura, es inadmisible, especialmente considerando que fue el candidato más votado en las PASO.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei propone un modelo económico similar al de Martínez de Hoz durante la dictadura: apertura, liberación cambiaria, importaciones restringidas… un plan que ya generó concentración económica, pobreza, endeudamiento y un país devastado en 1983.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei repite a Videla, Massera y Martínez de Hoz.",
+      "score": 0.98,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esta elección, enfrentamos una democracia imperfecta, con candidatos con los que podemos estar más o menos de acuerdo; pero también con uno que reivindica el terrorismo de Estado y el mismo plan económico que llevó a la dictadura al poder.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2124
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.846,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "A esta altura, nadie puede sorprenderse por la alianza de acero entre el kirchnerismo más duro y gran parte de la jerarquía eclesiástica.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El objetivo central de la misa fue santificar política y judicialmente a Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La presencia del Papa Francisco flotó en el ambiente; su formación juvenil en el peronismo afloró en el Vaticano e hizo cosas impensables para fortalecer a delincuentes como Milagro Sala y Luis D'Elía.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A muchos católicos les parece intolerable que el mismo partido que quemó iglesias en el pasado o que adora a Hebe de Bonafini, que fue capaz de hacer sus necesidades fisiológicas en la Catedral de Buenos Aires, hoy sean bendecidos por los que conducen el camino terrenal de su fe.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Recuerdo que Pichetto es el dirigente que con mayor firmeza cuestionó el \"pobrismo\", una especie de romantización de las carencias, el combate al progreso y al mérito, con el objetivo de mantener siempre a su lado a los fieles de ambas religiones, la católica y la peronista.",
+      "score": 0.68,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1815
+}

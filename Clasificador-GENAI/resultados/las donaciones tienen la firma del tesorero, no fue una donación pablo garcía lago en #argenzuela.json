@@ -1,0 +1,36 @@
+{
+  "texto_id": "audio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.4,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Una licencia aceptada por el bloque oficialista, que a su juicio es insuficiente. Usted planteó, incluso con una denuncia penal, que se proceda a la renuncia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es raro que se haya hecho en efectivo; nadie dona dinero en efectivo. Es muy obvio todo. Me dio mucha pena y bronca.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Renuncié porque no compartía la metodología de trabajo, los objetivos y tenía una visión diferente del club. En marzo di un paso al costado. Tres meses después me convencieron de volver, pero la situación empeoró, y mi reputación estaba en juego. A veces, los egos interfieren.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Él decía que eran \"usos y costumbres\", pero esos \"usos y costumbres\" son ilícitos. Yo soy abogado, y sé cómo deben hacerse las cosas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo abogaba por la austeridad. Ayer hablaban del contrato de Muñain, yo no lo vi porque ya no estaba. Pero alguien más sí lo vio.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2465
+}

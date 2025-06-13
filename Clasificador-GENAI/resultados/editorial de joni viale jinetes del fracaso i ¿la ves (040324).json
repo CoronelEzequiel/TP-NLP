@@ -1,0 +1,41 @@
+{
+  "texto_id": "4",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.683,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay un sector importante en la dirigencia política que no quiere abandonar los privilegios del antiguo régimen.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno es malo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obligaremos a los sindicatos a elegir sus autoridades a través de elecciones periódicas, libres y supervisadas por la autoridad electoral.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Las personas condenadas por corrupción en segunda instancia no podrán ser candidatos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En esta misma línea vamos a cerrar la agencia Télam, que ha sido utilizada durante las últimas décadas como agencia de propaganda kirchnerista.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto ahora está en riesgo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4193
+}

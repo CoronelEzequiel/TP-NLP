@@ -1,0 +1,31 @@
+{
+  "texto_id": "aullando",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si la vida es un infierno lleno de honra, se vive entre lágrimas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Cuál es el bien del que lucha en don para tu yo, limpio y tuyo? ¿Para qué?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si hoy la infamia del ratero y el amor, más aún en tu nombre, Dios, lo que he besado, en seguirte es dar ventaja, y en la mar te confundí al ver.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Noche de tango peronista, Cucu Zavaleta, y no hay heridas sin cuna, sin cuna, no hay heridas sin cuna.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1358
+}

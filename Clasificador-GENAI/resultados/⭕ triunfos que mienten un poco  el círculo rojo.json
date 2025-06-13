@@ -1,0 +1,46 @@
+{
+  "texto_id": "La verdad del poder o el poder de la verdad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.271,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros dimos el primer paso, pero si el sector privado no da el segundo, esto se cae.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Le hablan con el corazón a los dueños del país, tienen que animarse, les dicen, dependemos de que ustedes vayan para adelante y cosas así.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Observar qué hacen los empresarios o los bancos con la suya, es decir, con su plata, es un buen ángulo para evaluar la consistencia política de este gobierno o de cualquier gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un presidente, con el apoyo de un grupo de \"ratas\", como él mismo llamó a la gente que está en el Congreso (los diputados y diputadas), vetó una ley que aumentaba unos miserables pesos a los jubilados y jubiladas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un robo a los jubilados y jubiladas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo este cuadro muestra a un gobierno trabado, empantanado, que tiene la obligación de empezar a mostrar su verdadero rostro, unas consecuencias que ya se notan en el bolsillo y en el cuerpo, y el cuadro de conjunto sería muy distinto si contara con el salvataje de las fuerzas políticas y sindicales tradicionales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y para batallas como la que muy probablemente se dé ahora entre los trabajadores aeronaúticos y de Aerolíneas Argentinas, no hay que confundir la narración del gobierno sobre sí mismo con su realidad, que es mucho más precaria de lo que parece.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2601
+}

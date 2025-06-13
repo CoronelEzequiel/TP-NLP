@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ella quiere dejarlo sin nada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cada paso que da Cristina Fernández de Kirchner tiene que ver con su plan de poder para 2023.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El peronismo es trabajo y no planes, afirmó Cristina Fernández de Kirchner, desestimando directamente la metodología y a los líderes piqueteros que, además, tienen la audacia, según ella, de planear candidaturas propias en su territorio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner actúa como una sicaria, dice.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La última carta de Alberto Fernández es la frágil estabilidad y los magros resultados que puede aportar la gestión de Guzmán y el acuerdo con el FMI.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Kirchner le ha dejado en claro algo que decía, llanamente, Pablo Escobar Gaviria: \"Hay tres formas de hacer las cosas: como usted cree, como ellos creen y como yo digo\".",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2711
+}

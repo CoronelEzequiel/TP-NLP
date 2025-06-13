@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Los docentes deberían reflexionar sobre el significado de tantos días sin clases para los chicos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En lo que estamos viviendo, para que veamos cómo es todo, y en lo que representa hasta ahora un fracaso del gobierno, es interesante, entre comillas, ver cómo actúa la política, y esta es una lección para todas las diferencias políticas en cuanto a sus contradicciones.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Sinceramente, de corazón, han quedado atrapados en una lógica que era la lógica de otro país. No digo que sean la panacea, no digo que estén perfectos, pero para trabajadores que gozan de estabilidad frente al resto de los trabajadores, por ejemplo, por el tiempo que también tienen, cuatro horas frente a la jornada laboral obligatoria de ocho horas para cualquier trabajador, frente a la suerte también, y bueno, porque siempre fue así, está bien que sea así, de tres meses de vacaciones, a diferencia de trabajadores que tienen vacaciones mucho más reducidas. Con el esfuerzo que hemos hecho de dotar a nuestros alumnos de netbooks, ¿cómo es posible que cada vez que nos tengamos que reunir con sus dirigentes solo tengamos que hablar de salarios y nunca tengamos que hablar de qué pasa con los pibes que no tienen clases?\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La mentira del kirchnerismo, la contradicción del kirchnerismo, que es su esencia, y lo digo con mucha pena, porque cuando tenemos estos comportamientos, esto forma parte del oportunismo político, y el oportunismo político está en la base también del fracaso del cual nos hablaba Santiago Caballero.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1397
+}

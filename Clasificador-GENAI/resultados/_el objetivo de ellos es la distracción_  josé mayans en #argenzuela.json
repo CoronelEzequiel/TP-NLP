@@ -1,0 +1,36 @@
+{
+  "texto_id": "mayans",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero aparte de esto, de esta maniobra de distracción, ¿verdad?, el país está sin presupuesto, sin control de la deuda, en manos de \"Cruz de Hierro\", en manos de Caputo, con 100.000 millones de dólares más en un año.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es peor que Macri, ¿no? Porque este aceleró, porque Macri hizo 100.000 millones en cuatro años. Y este hizo 100.000 millones en un año. O sea, es peor todavía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son unos cuantos que votan en contra. Y en contra del... Fíjense que le habían hecho una operación al presidente de la Unión Cívica Radical de Cáceres, Karl Luthor, diciendo que él votó en contra de la gente de la AMIA, del tema del homenaje a la familia, una vergüenza.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que hicieron ayer fue eso muchachos, fue seguir dejando débil a este gobierno para seguir sacándole plata.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El tema es cuando van y negocian guita personal, como Cuevas.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4429
+}

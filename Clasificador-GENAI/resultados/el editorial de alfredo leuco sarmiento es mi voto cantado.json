@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.78,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy que los que manejan el Ministerio de Educación son los sindicalistas del atraso y la no capacitación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy que no se fomenta la excelencia ni la meritocracia.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es la contra cara de los que vienen mostrando los provocadores del odio y la caricatura de la lucha de clases de la prehistoria.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Frente a la barbarie de la prepotencia y la utilización perversa de los más pobres, en lugar de quejarnos solamente, nos vendría bien, sobre todo que en este día podamos revisitar la civilización de un prócer que nos puede iluminar el camino cuando muchos no ven la salida.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los capangas de los sindicatos están ciegos por el fanatismo y la inflamación ideológica.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No quieren que los chicos progresen.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sarmiento es la patria que necesitamos construir entre todos, porque además fue la honradez en persona.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se puede decir que fue un \"carrarabia\", un mujeriego que tuvo actitudes francamente discriminatorias, sobre todo contra los indios y los gauchos, pero el fanatismo de los \"cristinistas\" lo pretende borrar de la historia como si fuera un tirano.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Sarmiento lo quisieron borrar de la historia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fue un férreo defensor de las libertades civiles y un opositor feroz a los dictadores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2698
+}

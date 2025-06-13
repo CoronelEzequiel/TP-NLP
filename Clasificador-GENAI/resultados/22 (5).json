@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.364,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "De todas formas, me parece muy importante que recapacite y se dé cuenta de que el Poder Ejecutivo es el principal responsable de que se apruebe un presupuesto.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que hay funcionarios del gobierno que quieren y han trabajado para que se apruebe, y creo que hay otros funcionarios, más de la parte comunicacional, que piensan capitalizar esto.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El único indicador positivo es que se está frenando la inflación –lo que celebro–.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo tanto, si vamos a entrar en una nueva discusión de poder entre poderes para que, en definitiva, el gobierno se quede con la facultad de hacer lo que quiera con las partidas y manejarse sin un presupuesto, no vamos a ser socios de esa locura.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros somos un bloque que pidió la sesión, estamos empujando este tema y buscando votos y, en su caso, ausencias para aquellos que no quieren votar contra el gobierno, pero tampoco contra la universidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que estamos muy cerca de alcanzar el número, y el gobierno también está cerca de bloquearnos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "esperemos que este tema nos permita ponerle un límite al Ejecutivo y hacerle entender que la Argentina valora enormemente la educación pública de calidad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2814
+}

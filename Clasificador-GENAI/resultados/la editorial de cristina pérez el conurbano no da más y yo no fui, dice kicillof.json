@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En el conurbano y el interior, la situación social es insostenible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Como si no tuvieran absolutamente nada que ver con la crisis.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Negar a Alberto Fernández, como si eso bastara, para desentenderse de la catástrofe social, es algo que incluso Cristina Fernández de Kirchner intenta replicar, regalando libros sobre la hiperinflación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es difícil encontrar un gobierno de la provincia de Buenos Aires que haya recibido mayor asistencia financiera que el de Kicillof, gracias a la influencia de Cristina Fernández de Kirchner en la provincia y en los presupuestos nacionales, ya que la provincia es su bastión principal.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este distanciamiento, que intenta empatizar con quienes sufren la crisis sin asumir ninguna responsabilidad, es parte de un guion más amplio, que puede derivar incluso en elecciones desdobladas en la provincia para desvincularse de la suerte del Gobierno Nacional en las urnas, si así fuera necesario.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero, señor Gobernador, por más que se desvincule, por más distancia que tome, por más que diagnostique la situación como si no tuviera nada que ver, este es su gobierno.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora la táctica es que quede claro que la crisis es de Alberto Fernández y no de Cristina Fernández de Kirchner, y el resto, atribuirlo a la guerra.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2121
+}

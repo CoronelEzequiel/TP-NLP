@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Esto que provee a esas naciones la monarquía, en las repúblicas, como sucede en la Argentina, debe ser producto de la negociación y del diálogo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos viendo torpemente a una clase política que balbucea, que se pisa el cordón de los zapatos mientras camina en busca de un acuerdo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una brutal transferencia de ingresos de los sectores populares a los productores de soja y a los dueños de la tierra a través del alquiler, que obviamente tienen que pagar los productores.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Sociedad Rural Argentina es la gran beneficiaria de estas maneras. Es la primera vez que asistimos con esta intensidad a una transferencia de ingresos de los de abajo a los de arriba.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri está como Cristina, están mirando a ver hasta dónde pueden jugar o no, están disponiendo las piezas, ambos con inteligencia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8764
+}

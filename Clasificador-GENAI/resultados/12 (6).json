@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.183,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Ese día, el proyecto de ley llegó al Congreso, y el decreto que elimina la cuarta categoría del impuesto a las ganancias (establecido durante el gobierno de la Alianza, impulsado por José Luis Machinea) se publicó en el Boletín Oficial.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sergio Massa, en una presentación ante trabajadores, los instó a consumir (comprar electrodomésticos, viajar), desincentivando la compra de dólares en el mercado paralelo, lo que podría impactar en el precio de la divisa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "D’Atellis explicó que la eliminación de la cuarta categoría del impuesto a las ganancias es una buena medida que resuelve una vieja discusión sobre si el salario es o no ganancia, cerrando un debate que se remonta a la “tablita de Machinea”.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta medida, en un momento clave, aumenta los ingresos de la clase media (entre 700.000 y 1.770.000 pesos de salario), en algunos casos más del 20%, incentivando el consumo interno y generando un círculo virtuoso con mejoras en la recaudación (efecto de segunda vuelta).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Algunos sectores de la oposición, que antes reclamaban la eliminación del impuesto, ahora critican la medida, ignorando este efecto.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "D’Atellis destacó que las medidas apuntan a recomponer ingresos de autónomos, monotributistas y trabajadores informales, buscando mayor equidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "D’Atellis afirmó que el nuevo \"dólar soja\" (esquema 75-25) está arrojando buenos resultados, con un ingreso de entre 2000 y 2500 millones de dólares en agosto y septiembre.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta medida ayuda a controlar la brecha cambiaria, contrarrestando las especulaciones de la oposición sobre la eliminación de restricciones cambiarias o la dolarización.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "D’Atellis aclaró que, tras noviembre, se retomará el esquema de microdevaluaciones diarias, descartando un salto abrupto en el tipo de cambio.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1801
+}

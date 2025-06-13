@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.806,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández, a los gritos, produjo una suerte de linchamiento público, un fusilamiento conceptual al presidente y al vicepresidente de la Corte Suprema de Justicia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Directamente amenazó con tomar por asalto a la justicia para reducirla a la servidumbre o transformarla en una unidad básica.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández, poseído por el chavismo de Cristina Fernández de Kirchner, culpó a la Corte casi de todos los problemas que tiene nuestro país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie insultó ni descalificó tanto a la Corte Suprema como lo hizo hoy Alberto Fernández.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández es el político con mayor imagen negativa del momento.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Apeló a la demagogia de fingir un remedio de Robin Hood para darle a las provincias más pobres lo que le quiere sacar a las provincias más ricas y opulentas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En febrero se superó el 100% de inflación y llegamos a los tres dígitos por primera vez desde 1991.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es mucho menos que Cristina Fernández de Kirchner, pero tiene el mismo ADN autoritario y adicto a las falacias.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1862
+}

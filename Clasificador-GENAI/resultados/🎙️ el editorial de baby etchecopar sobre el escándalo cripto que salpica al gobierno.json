@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.71,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, lo peor de todo lo que nos pasó es este regreso de los \"muertos vivos\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todos: kirchneristas, peronistas, comunistas, toda la lacra que nos hizo mierda el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo lo voté y lo banco, lo voy a bancar en esta.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no tengo tantas ganas de tener malas noticias todos los días.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así que le digo al Presidente, con todo respeto, que a partir de ahora limpie su entorno de gente de mierda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo no voy a votar al \"chino\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estás haciendo las cosas bien.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero seguir creyendo en la buena fe de Javier, pero también, permíteme, Javier, que te pegue un \"tirón de orejas\" porque realmente, hoy, cuando dije que iba a decir una palabra al final, me dijeron \"esa palabra no\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Prefiero que seas boludo y no zurdo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Están buscando un golpe de estado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4297
+}

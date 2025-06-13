@@ -1,0 +1,26 @@
+{
+  "texto_id": "diana_con_vos",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este hombre es el gran responsable también de que estemos así con la educación en la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dos décadas casi de kirchnerismo. Causalidad o casualidad, la mala educación.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aparecen a la luz del día con niños y se ríen.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6623
+}

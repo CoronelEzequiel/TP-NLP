@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.573,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esta imagen suele utilizarse como metáfora de que muchas veces la humildad y la aparente debilidad pueden derrotar la soberbia de grandes músculos y poco cerebro.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es el emblema de la mano dura y el autoritarismo que desprecian todos los progresistas talibanes de Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Berni era intocable hasta que lo derribaron de un hondazo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Berni todavía tiene mucho que explicar de su inexplicable y sospechoso accionar en aquella escena del crimen.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nadie lo insultó tanto como Berni ante el silencio cómplice de Cristina.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dijo que \"el que trajo al borracho que se lo lleve\", sin comprender que al \"borracho\" lo trajo Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También dijo que si Néstor se levantaba de la tumba, lo sacaría a Alberto \"zapatadas en el culo\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Néstor hiciera eso, sería un golpista, porque Alberto fue elegido democráticamente, y solo lo deben sacar los votos en las urnas en la próxima elección.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tal vez, con el correr de los días, el justicialismo y el mismo Berni tomen la dimensión del abismo que se abrió a los pies del ministro y de sus compañeros de partido.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tal vez Berni deba recalcular sus objetivos estratégicos, replegarse como hacen los militares cuando están perdiendo la batalla.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos vimos a Berni en caída libre, a un Goliat derrotado.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2116
+}

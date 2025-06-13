@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.746,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Porque la destrozaron en las redes, los Trolls K, pero la barbaridad que le han puesto, la misoginia que manejan los Trolls K.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi hija es muy honesta para pelear con ustedes.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi hija nunca guardó 6 millones de dólares en un banco.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tanto miedo le tienen a los demócratas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tanto miedo a una chiquita que pesa 48 kilos con la ropa mojada.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todo el ejército de los kirchneristas, porque los kirchneristas son como los prosimios, viste, los simios, los grandes simios y los prosimios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No nos dejaron laburar, nos fundieron, nos arruinaron, gente se deprimió, gente se murió.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y hoy nos levantamos igual que cuando nos rendimos en Malvinas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "700.000 vacunados, boludo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usaron la vacuna para hacer negocio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No me voy a encerrar. Le afanaron la vacuna a los viejos que ahora están con respirador.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el gobierno es una mierda. Son unos sinvergüenzas, son unos caraduras, irresponsables.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero el virus mata de verdad. Mata de verdad. Y mueren argentinos de verdad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3367
+}

@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.722,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuidado con tu gente más cercana porque te puede traicionar cuando menos lo imaginas.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo sigo creyendo en una Argentina con diálogo en la que se pueda pensar diferente y no te agredan, no porque pienses diferente vas a ser el enemigo, ni me digan Lali Espósito y todas esas cosas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Le contesta a Cristina Fernández de Kirchner. Yo siempre digo que es mala, corrupta, autoritaria, nefasta, pero inteligente.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Para mí, mi traducción, yo creo que Trump está diciendo Estados Unidos no le suelta la mano a mi ley.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si mi ley sigue en 50, 51, 52, 53, es muy probable que gane cómodo la selección de octubre y los kirchneristas se agarren la cabeza mal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y la gente es, bajame la inflación. Y bajame la inseguridad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y la verdad que se han traspasado todos los límites en esta ocasión. Se han traspasado todos los límites. Y realmente, algunos dirigentes políticos los hemos visto hacer cosas que no son hacer política. Son directamente miserables.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Porque la oposición sigue siendo el mismo tren fantasma de siempre.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El facho de Bukele te bajó de 6.000 a 114 los homicidios.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En cambio, ese mismo progresismo bobo banca Kicillof cuando el gobernador defiende a los pibes chorros.",
+      "score": 0.81,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, insisto, la ineptitud del gobernador le es absolutamente funcional a mi ley.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mi ley, Caputo, todos los días apenas se levanten, deberían rezarle a Sankis y a los para que siga siendo el mismo inoperante de siempre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4190
+}

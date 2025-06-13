@@ -1,0 +1,36 @@
+{
+  "texto_id": "silvia_lopez_nato",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Definitivamente, cada voto cuenta. Es muy importante lo que se está construyendo a nivel federal para Juntos por el Cambio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Juntos por el Cambio llegará con una cantidad de gobernadores que favorecerán la gobernabilidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La pobreza, que era del 32% en 2015, es del 43% hoy y podría llegar al 45% o más en diciembre.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos el mejor equipo de Juntos por el Cambio, que creo que es el de Horacio Rodríguez Larreta.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos deudas en educación, salud y pobreza, pero una deuda que hemos intentado saldar y seguiremos saldando es la de los derechos humanos, la memoria y la justicia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1696
+}

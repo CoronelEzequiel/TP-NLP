@@ -1,0 +1,61 @@
+{
+  "texto_id": "criptomonedas_argentina",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "¿Cómo es el proceso para dar de alta una meme coin en su plataforma de venta?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nosotros preferimos aplicar un filtro más estricto, ya que estamos manejando los fondos de las personas y nos gusta brindar un nivel adicional de seguridad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Intentamos ser lo más neutrales posible en el mercado.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creemos que las personas tienen capacidad de decisión, siempre y cuando existan garantías de seguridad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La regulación actual de la CNV es un tema muy interesante.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es importante destacar las ventajas del mundo cripto, como la posibilidad de un sistema de pagos internacional independiente de los bancos centrales (Bitcoin, por ejemplo), la compra de dólares tokenizados para transferencias internacionales rápidas, y la cancelación de obligaciones con proveedores.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos intentando visibilizar la industria regulada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La Cámara Fintech y la Cámara de Blockchain solicitaron entrevistas a Milei. Él eligió reunirse con Hayden Davis y su grupo.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sí, trabajamos con todos los reguladores, antes con el Banco Central y ahora con la CNV.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Con Milei no hemos tenido esa oportunidad, pero esperamos que ocurra pronto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2495
+}

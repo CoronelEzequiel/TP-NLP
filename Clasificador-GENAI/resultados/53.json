@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.319,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Todo indica, según todas las versiones, que el apoyo explícito a Patricia Bullrich es inminente, pero no a título personal; ahí radica la gravedad.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si PRO, o mejor dicho, Patricia Bullrich, se desliga unilateralmente —pues dentro de PRO también hay divisiones— podría generar una crisis en Juntos por el Cambio.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La versión más fuerte es que se anunciará el apoyo a Javier Milei.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me acaban de confirmar oficialmente el apoyo de Patricia Bullrich.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que estamos viviendo es el acto más grande de egoísmo y egocentrismo de un político como Mauricio Macri.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este caos es producto de la personalidad de Mauricio Macri.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Arruinó la candidatura de Horacio Rodríguez Larreta con su accionar, y luego hizo lo mismo con Patricia Bullrich, jugando a dos bandas y sembrando dudas en el electorado, provocándole la derrota.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "48 horas después, la humilló para que apoyara a Milei, quien la acusó de ser montonera y asesina.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1899
+}

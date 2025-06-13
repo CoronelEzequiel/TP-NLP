@@ -1,0 +1,46 @@
+{
+  "texto_id": "ley_omnibus",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.214,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Una ley que, desde el primer artículo hasta el último, aun con todos los que quitaron, no tiene ninguna necesidad de existir y que en cada uno de sus artículos esconde un negocio.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque si hoy votan algunos artículos que les voy a mencionar ahora, a lo que vamos a estar asistiendo es a un grupo de representantes del pueblo en general garantizando negocios para un puñado de empresarios en particular.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, dice que los que hagan esa obra pública van a poder recuperar lo que inviertan, sea por peajes o por otras remuneraciones, y no aclara qué son esas otras remuneraciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Van a tener privilegios impositivos, que van a poder comprar acciones o instalaciones de empresas como ARSAT, YPF o ENARGAS.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si sospechás que alguien quiere entrar a tu casa, sospechás que alguien te quiere robar, matalo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los gobernadores insisten en que se coparticipe el impuesto PAIS.",
+      "score": 0.2,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, con obra pública, si pasa esto, vamos en ese camino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3361
+}

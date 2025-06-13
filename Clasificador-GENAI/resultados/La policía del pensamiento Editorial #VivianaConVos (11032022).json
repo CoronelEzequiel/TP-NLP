@@ -1,0 +1,41 @@
+{
+  "texto_id": "canosa",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.858,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Estamos dominados por ellos. La policía del pensamiento. Si no pensás como ellos, sos el enemigo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para mí, una barbaridad es que exista una editora de género.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes hablan de inclusión, pero quieren matar a los chicos con síndrome de Down. Ya casi no nacen chicos con síndrome de Down gracias al aborto.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo estoy del lado de la vida, soy pro vida, vos estás del lado de la muerte, aborto.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A los que pensamos distinto nos quieren domesticar. No lo van a lograr. A mí no me van a domesticar. Y cuando no te domestican, te miran como si fueras un bicho raro. Por eso te censuran.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En la batalla campal de ayer, yo, Viviana Canosa, estoy del lado de los policías. No vi al colectivo verde ni a la ministra Gómez Alcorta defender a esas mujeres policías que fueron recontracagadas a piedrazos ayer.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8737
+}

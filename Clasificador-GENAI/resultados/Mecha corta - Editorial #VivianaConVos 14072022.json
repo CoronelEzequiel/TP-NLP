@@ -1,0 +1,61 @@
+{
+  "texto_id": "Que lo cumpla feliz",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.76,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Claramente tienen el culo demasiado sucio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Recordemos al presidente Alberto Fernández cuando nos mentía a todos los argentinos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se tiene que terminar la Argentina de la impunidad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación de junio fue del 5,3% y la interanual del 64%. ¿Cómo no darse cuenta que los argentinos tenemos la mecha corta, muy corta?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nos tomaron de imbéciles porque obviamente pensaron que nosotros, el rebaño de pelotudos, no nos íbamos a enterar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente nos tomó a todos de idiotas, pero ojo, presidente, que tenemos la mecha muy corta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se cagaron de risa de nosotros, se burlaron de nosotros y de nuestros muertos. Y lo arreglaron con plata, como arreglan todos ellos. Las leyes las tenés que cumplir solo si sos un rebaño de pelotudos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La revista Noticias comparó a la violadora del DNU con Evita.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y detienen a la señora, una señora de bien que perdió un hijo durante la pandemia. No tienen perdón de Dios ninguno de ustedes. No tienen perdón de Dios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno sigue tirando más bidones de nafta a esta Argentina con la mecha corta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8948
+}

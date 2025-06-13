@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde hace tiempo venimos denunciando que las decisiones en Argentina, tanto en el ámbito judicial como en otros poderes del Estado, no siempre se ajustan a derecho, sino a intereses particulares.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos vivido en carne propia cómo empresarios, sectores de la justicia y medios de comunicación acuerdan acciones que no buscan mejorar la calidad de vida de la gente, sino intereses personales.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En mi caso, esto significó dos años de afectación de mi libertad y la apropiación casi total de nuestro patrimonio mediante procesos judiciales amañados e irregulares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que más me sorprende, 48 horas después de conocer estas conversaciones, es la inacción del Gobierno Nacional durante los últimos tres años, así como la inacción de los poderes que representan a la sociedad para restablecer el funcionamiento republicano de Argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El silencio de la clase política, especialmente en estos últimos tres años, es preocupante.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se cuestiona permanentemente la forma de sobrevivir.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En nuestros procesos judiciales, encuentro funcionarios del gobierno anterior que ocupan los mismos o incluso más importantes cargos en el actual gobierno.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vivimos en la misma condición que antes, con hechos irreales y fuertes, y con un silencio absoluto de la sociedad.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es fácil opinar desde el anonimato, pero nosotros tuvimos que vivir la persecución, 54 causas inventadas, mi mujer yendo a la cárcel a acompañarme…y cero acompañamiento del gobierno, a excepción del presidente.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un escándalo, y muchos prefieren las internas políticas a la República.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2843
+}

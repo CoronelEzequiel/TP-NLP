@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Y, como si fuera poco, la ilusión de los kirchneristas ayer se derritió como un helado en verano, ¿viste?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero no, se dedicó a hablar sin decir nada, se preocupó por los ojos celestes de Milei.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Fue una cobarde con Cromañón, una cobarde con Nisman, una cobarde.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cualquier cosa que pongamos, un tronco con una galera, va a ser mejor que los 20 años que tuvimos con esas caras.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, ahora quédese sentado y analice en frío las declaraciones de Milei en el programa del otro día y saque sus conclusiones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero prefiero que escuchen a Milei antes de escuchar una discusión bizantina sobre la clase magistral que Cristina nunca pudo dar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2550
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Horacio Pietragalla Corti, funcionario de La Cámpora y secretario de Derechos Humanos de la Nación, es investigado por enriquecimiento ilícito.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Según la denuncia, el patrimonio de Pietragalla Corti aumentó un 2300% entre 2018 y 2019.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pietragalla Corti argumenta que la diferencia se debe a una revaluación fiscal de las propiedades.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, la denuncia de la Dra. Martínez apunta a una operación sospechosa: la venta de una propiedad de su madre en diciembre de 2018 por 84.000 dólares (equivalente a aproximadamente tres millones de pesos en ese momento) a Susana Rearte, una monotributista con antecedentes de incumplimiento en el pago de impuestos y dada de baja en la AFIP.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante su etapa como diputado, se le atribuyen episodios de violencia, incluyendo el lanzamiento de piedras durante una sesión sobre jubilaciones.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "También se lo investiga por haber intentado, a través de llamadas telefónicas y pedidos escritos, la liberación de siete presos, cinco de ellos relacionados con casos de corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1447
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Justificar la violación de mujeres desde el Ministerio de las Mujeres",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.89,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Justificar la violación de mujeres desde el Ministerio de las Mujeres.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿En qué contorsión de la perspectiva de género la ministra del área terminó como aliada de los violadores?",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Licuar la responsabilidad de los individuos que cometen crímenes no solo atenta contra la juridicidad, sino que, sobre todo, les quita a las víctimas la posibilidad de justicia, de reparación moral, de consuelo, de humanidad, y representa una renuncia del Estado a sus propias atribuciones como árbitro máximo, desde el monopolio de la fuerza que ya no entendemos para qué lo tienen.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La ministra de las Mujeres realizó una peligrosa apología del delito con su comentario público.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ministra, podría ser su hermana, su hija, su madre o usted misma.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1890
+}

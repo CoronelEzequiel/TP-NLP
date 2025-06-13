@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.579,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esta frase, repetida por organizaciones obreras y presente en el *Manifiesto Comunista*, aludía a las discusiones sobre la distribución de la riqueza, la lucha de clases y los desafíos del capitalismo, especialmente en la era post-revolución industrial.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "[Nombre del político] reiteró su creencia en la infalibilidad del mercado (salvo por la intervención estatal) y defendió a los monopolios.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Regular los monopolios, destruir sus ganancias y los rendimientos crecientes destruiría automáticamente el crecimiento económico.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta discusión ignora datos como los del Banco Mundial, que indican que la lucha contra la pobreza se estancó y la desigualdad aumentó.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "[Nombre del político] culpó al Estado de los problemas económicos, concluyendo su discurso con un llamado a no dejarse amedrentar por la “casta política” y los “parásitos del Estado”, calificando a los empresarios como “benefactores sociales” y “héroes”.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Estado financia, decide qué sectores desarrollar, crea mercados y ofrece préstamos, pero a menudo no participa proporcionalmente en las ganancias.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso de [Nombre del político] no llama a la unidad de los trabajadores, sino a la unidad de los monopolios: \"¡Monopolios del mundo, uníos!\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2058
+}

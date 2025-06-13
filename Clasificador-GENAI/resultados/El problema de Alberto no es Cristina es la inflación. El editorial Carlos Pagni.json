@@ -1,0 +1,51 @@
+{
+  "texto_id": "politica_argentina_fmi",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Esta noche vamos a empezar el programa con una especie de visita guiada a los pliegues de ese acuerdo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El acuerdo debe ser una rendición.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El verdadero problema de Fernández es la inflación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y es lógico porque la inflación es un impuesto que castiga sobre todo a los pobres.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiere decir que el Fondo presume, como presume el mercado. Por eso la Argentina tiene un índice de riesgo país de 1900 puntos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ayudó a Fernández también para que no venga Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema de Fernández entonces es la inflación.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El otro es Facundo Manes.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8300
+}

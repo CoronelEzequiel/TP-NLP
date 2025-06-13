@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.91,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Comparar a San Martín con Cristina es como igualar el día y la noche.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina cruzó todos los límites legales y se convirtió en la jefa de la asociación ilícita para castigar al Estado y saquearlo, el delito más grave de la historia democrática.",
+      "score": 0.98,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "San Martín manejó cataratas de fondos públicos y murió sin un peso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina y antes Néstor Kirchner tuvieron como amigo, cómplice, testaferro y empleado a Lázaro Báez, ya condenado a 12 años de prisión.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Repito, insisto, todo lo contrario al \"vamos por todo\" y al intento de dominar con amenazas y poner de rodillas a la justicia para lograr impunidad.",
+      "score": 0.92,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2132
+}

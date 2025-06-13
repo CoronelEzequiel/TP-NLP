@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Y ese \"no se puede solucionar para mí, ni para el resto\" es porque este hombre, a pesar de la situación límite en la que está, que es tratando de salvar a su compañera, entiende que la solución es con más Estado, que el problema no es suyo individual.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las universidades están alertando que ya no pueden dar cursos ni funcionar en sus laboratorios.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las pymes están dejando de producir, con una caída del 30% de la producción de la industria pyme en la Argentina, una caída de la compra de alimentos del 37% y una caída de la compra de medicamentos del 45%.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, el gobierno anunció que va a dejar sin subsidio de luz y de gas prácticamente a todo el mundo porque establece una serie de criterios entre los cuales, por ejemplo, está que tengas medicina prepaga, cuyo precio también aumentó gracias a que liberaron a las empresas que aumenten lo que quieran.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cuándo va a ser demasiado? ¿Y cuál va a ser la gota que rebalsa el vaso y que haga frenar a este gobierno?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2254
+}

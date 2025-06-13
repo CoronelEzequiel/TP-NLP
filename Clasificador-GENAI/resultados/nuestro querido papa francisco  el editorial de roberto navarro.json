@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.114,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Defendió a los trabajadores, a los pobres, estuvo al lado de los más desfavorecidos, dijo a los poderosos lo que pensaba de sus acciones, intentó persuadirlos, hizo política.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenía claro que, en este mundo de superproducción de bienes y, sobre todo, de alimentos, el hambre provenía de la avaricia de los ricos y no de la vagancia de los pobres, como les gusta decir a algunos sectores de la derecha.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Papa no podía querer a ciertos políticos de derecha aunque fuera el hombre más tolerante del mundo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Francisco luchó contra un Dios mitificado, dio la pelea contra quienes atacan nuestra casa común, la Tierra.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Será nuestra tarea tomar sus enseñanzas, aprender de su tolerancia e inteligencia, beber de su tenacidad, tomar la posta de su tarea evangelizadora de la bondad.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Qué otra cosa que el mal es que se les quiten los alimentos a los comedores, los medicamentos a los enfermos, que se apale a los jubilados?",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y me parece que, si hay un legado que nos deja Francisco, es que la vida solo tiene sentido si hacemos todo lo que está en nuestras manos, mientras estemos en este mundo, por hacer el bien, por dejar un mundo mejor del que recibimos, por estar lo más cerca posible de quienes nos necesitan.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1657
+}

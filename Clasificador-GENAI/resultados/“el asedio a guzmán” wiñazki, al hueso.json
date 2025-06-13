@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.486,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Kirchner sigue diciendo en privado que Martín Guzmán es su enemigo y, hasta ahora, no ha renunciado ni va a renunciar.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Oscar Parrilli pidió que se desestine una ley para que los 4.350 millones de dólares que llegaron del FMI como ayuda extra para Argentina por el COVID se usen para combatir la pobreza y no para pagar la deuda con el FMI, que era el plan de Guzmán.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Kirchner ayer no habló, pero actuó.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Segundo, a través de Sergio Massa, en una comunicación con el titular de la Comisión de Relaciones Exteriores de la Cámara de Representantes de los Estados Unidos, el congresista Gregory Meeks, consiguió que 70 legisladores demócratas presenten un proyecto de resolución en la Cámara de Representantes, donde se le pide a la Casa Blanca que interceda ante el FMI para que suspenda o alargue el plan de pagos de la deuda que tiene Argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, causó buena impresión en un sector del oficialismo que también tiene que ver con la Cámara, que el propio FMI haya dicho que confía en Martín Guzmán como interlocutor, porque lo que le molesta a Cristina Kirchner es la buena relación que este tiene con el organismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué va a pasar en el viaje de Guzmán con el presidente?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La otra opción, según el kirchnerismo, es que Alberto Fernández va a tratar de convencer a Guzmán de que se acople al plan económico del Frente de Todos, que para ese sector comenzará en cuatro días con la gira por Europa.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1684
+}

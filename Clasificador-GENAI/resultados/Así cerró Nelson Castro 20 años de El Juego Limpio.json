@@ -1,0 +1,31 @@
+{
+  "texto_id": "Juego_Limpio",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"Alberto Juan, ¿cómo le va?\" Bien, bueno, me voy a dar la palabra a la señora. \"Menen se baja, no se baja\" solo un borracho podría decir eso.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que hay que distinguir Peronismo y PJ, ¿no? PJ es una organización de muchísimos años al servicio del mantenimiento del poder, vinculada a los negocios, lo que puede ser lo mismo que la diferencia entre la UCR y radicales, ¿no?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Axel Kicillof, ¿cómo le va?\" Bien, bien. ¿Usted es consciente de que estamos viviendo en un ajuste que es producto de lo que fue su mala gestión al frente del Ministerio de Economía? Parece que esa es su opinión, doctor Castro. Es de muchos. Que yo no coincido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El agradecimiento a todos los productores que han trabajado con nosotros durante todos estos 20 años. A los técnicos, a los camarógrafos, a todos. Que nos han dado cariño, estímulo y fundamentalmente unas ganas enormes para ir adelante.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1696
+}

@@ -1,0 +1,76 @@
+{
+  "texto_id": "El gobierno anticipa un colapso económico y prefiere distraer la atención pública",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.265,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno anticipa un colapso económico y prefiere distraer la atención pública.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En lugar de abordar el alto costo de vida, impulsa una \"batalla cultural\": un video sobre la dictadura, la remoción de un cartel del Centro Cultural Kirchner (CCK), y la destrucción del monumento a Osvaldo Bayer.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno cree que este sector se mantiene leal al negar la realidad económica, como la venta diaria de millones de dólares del Banco Central (Argentina no imprime dólares, por lo que este recurso es finito).",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La demolición del monumento a Bayer, un intelectual muy querido, genera controversia y desvía la atención.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fuentes cercanas a la Casa Rosada indican que la intensidad de estas acciones denota preocupación por temas ocultos, como la estafa cripto.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La posibilidad de un juicio oral por la estafa cripto genera nerviosismo.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El problema principal es la inminente devaluación, ya sea por la falta de medidas o por un acuerdo con el FMI que implicaría una devaluación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En las redes sociales, el gobierno intenta que se hable del CCK, Bayer o Laje, pero la principal preocupación de los argentinos es el dólar, ya que su valor determina su capacidad de llegar a fin de mes.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación es insostenible.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Analizando encuestas de Kourel y Zilla Vilcar, la imagen positiva del gobierno ha caído significativamente, especialmente entre los jóvenes varones.",
+      "score": 0.35,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno necesita distracciones constantes para ocultar esta debilidad.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Antes de las elecciones, es casi inevitable una devaluación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La situación del gobierno es crítica.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1821
+}

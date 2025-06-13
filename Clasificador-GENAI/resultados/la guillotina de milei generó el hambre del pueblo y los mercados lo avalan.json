@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Los mercados se benefician del hambre del pueblo, pero este hambre podría ser la guillotina de Milei.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta medida busca bajar los impuestos a los ricos, representando una mayor transferencia de recursos del pueblo a la élite.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei busca instaurar un gobierno autoritario con apoyo popular.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La única libertad que propone Milei es la libertad de aplastar al otro, sea político, candidato, etc.; la libertad de difamar y aplastar por disentir.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei ataca lo políticamente correcto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Medios, jueces y un enemigo común parecen ser la fórmula para evitar que el hambre se traduzca en expresión popular.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1705
+}

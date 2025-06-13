@@ -1,0 +1,31 @@
+{
+  "texto_id": "audio_guardiola",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.45,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Si ustedes quieren discutir… es político, ¿no? Si viene a Argentina es candidato a presidente. Es su política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este Guardiola, una vez le preguntaron quién era su referente y le hablaron de Marcelo Bielsa, y él dijo que sí, que lo tomaba como un referente. En otro momento dijo: \"No, Menotti, porque viajé 8 horas para hablar con él en Rosario cuando estaba por empezar mi carrera\".",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero Coco, hablando de Messi en este caso, le dio una clase a todos, además le ves algo más… creo que vos has visto muchísimos pibes que parecían que iban a explotar como Messi, pero les faltaba algo, ¿qué tuvo Messi además? ¿Qué extra tuvo Messi?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A ver, Coco, para que a la gente le quede claro, nos cagaron, ¿no? Sí, sí, claro que nos cagaron. Y estaba claro, si era la última oportunidad que tenía para salir campeón mundial a Brasil, cuando lo vio jugar a nosotros y lo vio volver a Maradona como volvió, dije bueno, vamos a pararlo esto, y chau.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4032
+}

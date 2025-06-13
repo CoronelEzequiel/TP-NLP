@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.79,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Alberto dice, yo los cuido, los educo, yo les enseño.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Usted llevaría a su hijo a un colegio donde Cristina es la directora?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, esta gente impresentable... Silencio, es la que maneja el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que para enseñar, primero hay que marcar algunas conductas, porque es verdad que Alberto dice que el mérito no existe.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando vos ves a un presidente como el de ayer, como el de hoy y el de mañana, pero como el de ayer, haciendo esa parodia que hizo despeinado para decir a Federico Luppi, ¿le parece el respeto a la investidura?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero ¿por qué me pasa a mí... que con Cristina y Alberto, lejos de ver al presidente, veo a una persona con conflictos, con problemas, con odio, con indiscreciones, ¿por qué me pasa eso, que no los puedo ver a ninguno o a los dos como representantes?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque ellos creen que haciendo brutos, sin colegio, sin educación, haciendo brutos que les perdonan los robos, inaugurando casas sin techo y sin ventana, esto parece un poema, ¿no?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y no soportamos muchas mentiras, estupideces, esa agónica melancolía de estos cuatro años.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me encantaría tener un país como tienen todos, con un presidente como tienen todos, al que los que no son del palo lo respetan.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Qué pueden enseñarnos Alberto y Cristina? Primero, que nosotros no sepamos. Y segundo, que no sepan ellos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2989
+}

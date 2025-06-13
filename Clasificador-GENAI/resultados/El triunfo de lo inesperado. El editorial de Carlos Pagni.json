@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Era inesperado para la mayoría de los electores que las primarias las ganara Javier Milei con La Libertad Avanza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que se insinúa es que la Argentina entró en una nueva época que se distingue de la anterior porque ya no organiza la política alrededor de dos bloques, alrededor de una polarización entre dos sectores que impedía el diálogo, que impedía el acuerdo, pero que le daba un orden más nítido a lo que sucedía.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es una clase política amenazada, no amenazada por la motosierra de Milei.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desaparecido ese factor amenazante, eclipsado el kirchnerismo, desaparecida la candidatura de Cristina este año, y ahora desaparecida Cristina, que tiene una capacidad extraordinaria para presentarse y ocultarse como si fuera por arte de magia, las razones por las cuales los distintos grupos, los distintos protagonistas de esa coalición opositora encuentran motivos para la unidad, empiezan también a volverse difusas y empieza a preguntarse: pero, ¿qué hago yo con este otro acá al lado?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa, si llegarás al poder, ¿lo vas a perseguir judicialmente a Macri?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8891
+}

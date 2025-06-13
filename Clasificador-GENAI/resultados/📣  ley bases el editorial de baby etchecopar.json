@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.64,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, lo que quiero decir es que cada vez que revolvemos algo del pasado, salen estos malos ejemplos que dan vergüenza, ¿no?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y ahora, esta mañana se tiene que votar una ley, la Ley Bases.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Porque mañana se espera una gran marcha.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y todos los que deberían estar presos en un país con jueces, van a estar como ídolos marchando.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy fueron a marchar estos que dan vergüenza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta mujer, según se dice, tenía que haber dado explicaciones del dinero de la agrupación [Nombre de la Agrupación].",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y me da gracia porque hoy había encabezado la editorial, hablaba de vergüenza, pero la vergüenza de ver que los políticos no saben tener recursos, no saben ahorrar, no saben gestionar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahora necesita este hombre... Creo que hay una imagen de [Nombre y Apellido] muy linda.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso ese es el tema que yo quería hablar. No quería hablar de la oposición ni de nada. Quería hablar de que cada vez que sigue un día más este gobierno, más susto les agarra a todos, porque más que menos, tienen un \"muertito\" en el placard y no quieren que se lo encuentren.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En homenaje a él, digo que a un tipo tan grande y que le dio tanto al espectáculo argentino, las \"feminazis\" le arruinaron la vida.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2528
+}

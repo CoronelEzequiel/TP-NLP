@@ -1,0 +1,56 @@
+{
+  "texto_id": "analisis_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.444,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Hacemos un trabajo de supervistas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si estás haciendo masajes en la calle, vas a aprender el día.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Sabes por qué no gustan los liberales? Porque pierden.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Enviamos cheques de $1400 a millones de hogares.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es hora de que las empresas de Estados Unidos y el 1% más rico empiecen a pagar lo que les corresponde.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Kamala refuerza la idea de que ella representa los valores democráticos de los Estados Unidos y entusiasma a los demócratas que en el mundo sufren la ola de extrema derecha.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Indudablemente, la sociedad americana viró a la derecha, inclusive en la elección de Donald Trump, que perdió Trump, pero la diferencia fue apenas 4%.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El candidato que le compita a la Libertad Avanza tendría que tener en cuenta el giro a la derecha de la sociedad argentina y tener posiciones moderadas, viniendo del progresismo, o, por el contrario, tendría que ser más progresista y más radical.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bernie Sanders, de la izquierda del partido demócrata, le habría ganado a un candidato de extrema derecha republicana como lo es Trump.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5050
+}

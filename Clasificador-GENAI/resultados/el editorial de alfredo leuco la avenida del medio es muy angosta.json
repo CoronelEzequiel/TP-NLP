@@ -1,0 +1,86 @@
+{
+  "texto_id": "Marcos_Juarez",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.82,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Todo lo contrario a los valores negativos y tóxicos que instaló y que quiere seguir instalando el kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La victoria en las urnas de Sara Majorel, a quien acabamos de escuchar, y de Juntos por el Cambio, fue realmente abrumadora.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, se castigó al kirchnerismo en todas sus formas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo, se castigó a los encuestadores; una vez más quedaron en ridículo en una elección con tan pocos votantes.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tercero, se castigó a Schiaretti y a la presunta, abro comillas, \"ancha avenida del medio\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy la política gira alrededor de lo que generan dos tipos de liderazgos: por un lado, Juntos por el Cambio, y por el otro, Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina, por un lado, y Juntos por el Cambio, por el otro, son el agua y el aceite, el día y la noche.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La única solución es derrotarla electoralmente hasta convertirla en una opción sectaria de poco peso electoral.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no cree en el Estado de derecho.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no cree en el pluralismo y la alternancia democrática.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no cree en la libertad de prensa y por eso todo el tiempo pone a los medios de comunicación en el lugar de los enemigos y nunca descarta una nueva ley de medios.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no cree en la convivencia entre distintos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una vez que el peronismo logre liberarse del sometimiento de Cristina, tal vez vuelva la posibilidad de que cada agrupación juegue su partido en forma individual.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aquellos que crean que el futuro de la Argentina será más próspero, racional y plural sin el protagonismo clave de Cristina deberían unirse pese a sus diferencias.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por ahora no hay otra alternativa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2545
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.066,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Pero la paz cuesta mucho conquistarla, con una derecha que se va cada vez más a una situación de ultras, que están fuera de sí, que se llevan todo por delante: la democracia, la república; pero que también atentan contra la vida y la seguridad de las personas cuando a ellos se les antoja, por ejemplo, a *Clarín*.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Igual que *La Nación*, habló de masividad de la marcha. Masivo era el hecho de los autos: 50 autos por cuadra, 60, 20 cuadras, ¿quieren ustedes? 1200 autos. 1200 autos son 4000 personas. Y alrededor del Obelisco, miren lo que es eso, media plaza del Obelisco, nada más. ¿Cuánta gente cabe? Si en una cuadra pueden ir más o menos 3000 personas, ¿cuántos había ahí? Esta es la masividad de la que hablan *Clarín* y *La Nación*. Mienten a diario, mienten con fruición, mienten con placer, pero también mienten asumiendo el riesgo de que cada día se entiende más el juego.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derecha, como siempre, es la propietaria de la violencia, es la que origina la violencia. ¿Qué busca, *mañeto*, la gente de *Clarín*? ¿Cómo van a dar la dirección de *Cristina Fernández*? Un acto tremendamente cobarde, pero además anti-periodístico.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es la policía de la ciudad, es la policía de *Rodríguez Larreta*, no puede tener otro perfil moral. A la gente que insulta no se le dice absolutamente nada, a los que defienden del insulto a las personas insultadas sí se los retiene y se les provoca algún problema.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de la marcha, oportunismo, desvergüenza, a decir cualquier cosa. No le importa a *Macri* saber que los demás, hasta los propios, saben cuando mienten. Y él lo hace igual. Es un caso de fatología.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Don *Rodríguez Larreta* es algo que espanta, la forma en que se roba una ciudad en la cara de todo el mundo, con los 35 partícipes de aquello de *Alí Babá*, en vez de 40, 35, que le votaron en las legislaturas que se pueda privatizar *costas al Güero*, eso que han tenido en concesión desde siempre, concesiones entre ellos, que se han dado, se han prestado, han ganado dinero increíble, un día lo declararon zona liberada de la policía para que pudieran vender drogas en una fiesta en la que murieron cinco chicos.",
+      "score": 0.03,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "*Lousteau* ya venía desembozadamente jugando para la derecha. Es inolvidable ese discurso contra las personas con discapacidad hace meses nada más en el Congreso de la Nación, queriéndole quitar a las personas que no tienen nada y que además compiten en la vida en esa famosa meritocracia dando tantas, pero tantas ventajas. Y él le quería sacar eso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8711
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El sistema bancario público inyecta capital, otorga préstamos a sectores productivos que, paradójicamente, producen menos, exportan menos y generan menos dólares.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El sector privado no solo exige la eliminación de retenciones, sino que se opone a la liquidación al dólar oficial con una devaluación del 2% mensual, demandando una devaluación mayor.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La aparente baja de la inflación, si es que ocurre, se debe a la inanición, no a un equilibrio de mercado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se comparan los gráficos de venta minorista, producción de pymes y caída salarial, se observa una tendencia similar: una caída progresiva que se acentuó drásticamente con la implementación de mi ley.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobernador Axel Kicillof planteó la necesidad de un pacto que incluya a la industria, las jubilaciones y una política de precios para evitar una situación aún peor.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1696
+}

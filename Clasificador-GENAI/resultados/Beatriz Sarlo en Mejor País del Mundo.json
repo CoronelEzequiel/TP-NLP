@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.417,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Mis primeras impresiones son que todavía estoy bajo el impacto de que vamos a cambiar no solamente de presidente, sino de estilo presidencial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo que se pueden realizar profundas medidas de cambio político sin que cada uno se disfrace con un nuevo hallazgo de estilo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, si representara a esos sectores, estaría enojada una parte muy importante de la Argentina, incluso aquellos que se han atendido en los hospitales públicos, incluso aquellos que dependen de esas políticas públicas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es un gobierno que llega sin equipos, o con muy pocos equipos, va a estar con dos o tres nombres que lo rodean y el resto no aparece. Es decir, que no tiene estructura política para gobernar, para tomar los lugares, que son muchos los lugares de una estructura burocrático-política.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las señoritas muy bien vestidas que siguen las marchas con cuadernitos para controlar que estén todos, los que reciben los jefes de familia, las jefas de familia que reciben planes y subsidios, esas señoritas no pueden ser líderes.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De falta de pensamiento político que pueda ser traducido en acciones políticas concretas. A mí la palabra liderazgo no me simpatiza. Yo digo lo que falta hoy en la Argentina, un país que tuvo planes y que tuvo líderes que tenían esos planes, etcétera, es falta de pensamiento político y de estilo político que puedan llevar planes que sus dirigentes piensen y que transmitan a los votantes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2412
+}

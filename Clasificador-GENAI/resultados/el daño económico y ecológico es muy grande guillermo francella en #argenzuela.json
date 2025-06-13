@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.267,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobernador de Santa Fe, Maximiliano Pullaro (se asume que es él por el contexto, pero debería confirmarse), se comunicó conmigo para ofrecer apoyo, enviando personal de Protección Civil provincial.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Coordinamos esfuerzos con Protección Civil municipal, estableciendo un centro de operaciones en el cuartel de bomberos.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hemos habilitado un centro de evacuados. Estamos asistiendo a la población.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El daño material y ecológico es significativo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Priorizamos la asistencia a los damnificados y luego la reconstrucción.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "pedimos a la ciudadanía que evite circular innecesariamente para facilitar el trabajo de bomberos, policía y cuadrillas municipales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1248
+}

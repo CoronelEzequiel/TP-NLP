@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.725,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Debía salir, porque la evasión fiscal en el país tiene penas mínimas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gobierno está desesperadamente tratando de hacer algo para frenar… un año y medio de inoperancia, ineptitud y corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El peligro es el virus.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay vacunas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quizás mañana nos encierren de nuevo a partir de las seis de la tarde. Me parece una medida china o rusa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estoy deprimido. Señor Presidente, me quedaría en casa a las seis de la tarde, pero no lo hago porque su gobierno me robó la vacuna.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos podridos, no hay plata, el país está quebrado…  Pagamos sueldos enormes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dejen de romper las pelotas con el distanciamiento social y los barbijos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2093
+}

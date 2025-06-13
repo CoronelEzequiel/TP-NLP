@@ -1,0 +1,71 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.325,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El gobierno anticipa una crisis económica severa y busca distraer la atención pública.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En lugar de abordar la inflación y el alto costo de vida, promueve controversias culturales: un video sobre la dictadura, la remoción de un cartel del SSK (se requiere aclarar qué es SSK), y la destrucción del monumento a Oswaldo Bayer.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estas acciones, cada vez más frecuentes (diarias, en lugar de mensuales o semanales), parecen una muestra de debilidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El objetivo es mantener unido a su núcleo duro, un sector que se alimenta del odio y necesita ser constantemente estimulado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta estrategia, sin embargo, oculta problemas económicos más profundos, como la venta diaria de millones de dólares del Banco Central, reservas que no son infinitas dado que Argentina no imprime su propia moneda.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un ejemplo de esta táctica es la polémica generada por la demolición del monumento a Bayer, una figura respetada y querida por muchos, pero que desvía la atención de la crisis económica.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Fuentes cercanas a la Casa Rosada indican que la intensidad del discurso oficial busca disimular la preocupación por la situación económica, particularmente la crisis en el mercado de criptomonedas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto sugiere que la compra de candidaturas y favores es una práctica sistemática desde la asunción del gobierno.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei, según el texto, fracasó en sus intentos de explicar su involucramiento en la estafa cripto en entrevistas con Jonathan Viale y Mahul.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se espera que Guillermo Franco explique el tema ante el Congreso, una tarea difícil dado que implica justificar la emisión de una moneda que luego no se pudo mantener.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno enfrenta un dilema: la posibilidad de una devaluación inminente, ya sea por inacción o por un acuerdo con el FMI que exigiría ajustes en el sistema cambiario.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La crisis se agrava por otros factores, como la reducción de las reservas del Banco Central, la baja en el turismo internacional y la creciente producción de petróleo barato en Estados Unidos, que afecta la economía argentina.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1811
+}

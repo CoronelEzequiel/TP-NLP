@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.08,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "¿Cómo es que en el mundo, además, se ha perdido tanto en lo económico para que no parezca que solo Argentina pierde, que es lo que ha intentado mostrar el periodismo hegemónico y los sectores de derecha?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por supuesto que están muy entretenidos en la brutal estafa que la derecha le hace a la República Argentina cotidianamente, al mundo podríamos decir, porque vamos a dar también algunos ejemplos en ese sentido.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy 35 cómplices acompañaron a Rodríguez Larreta en otro robo a la ciudad de Buenos Aires.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A la derecha les parece encantador Rodríguez Larreta, el robo de Buenos Aires, lo de atrás del Sheraton, lo de Vicentín.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "50 personas en Estados Unidos tienen la misma cantidad de dinero que 165 millones de pobres que también tienen Estados Unidos.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 6049
+}

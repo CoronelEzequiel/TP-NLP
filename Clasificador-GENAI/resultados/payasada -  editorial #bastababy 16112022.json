@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.736,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Se teme que la concentración masiva de personas, en el marco de la movilización en apoyo a Cristina Fernández de Kirchner, pueda generar situaciones de riesgo para los alumnos y el personal del colegio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mañana se espera una gran concentración en apoyo a la expresidenta, acusada de diversos delitos, y a quien se considera responsable de la profunda grieta social que atraviesa al país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernández de Kirchner, quien evita enfrentar los cargos en su contra ante la Corte Suprema, parece utilizar este acto como una demostración de fuerza y apoyo popular.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si bien el gobierno se caracteriza por actos de corrupción, la mayor responsabilidad recae sobre Cristina Fernández de Kirchner y su entorno, incluyendo figuras como José Luis Pérsico, quien aún debe rendir cuentas sobre el manejo de fondos públicos sin la debida auditoría.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La situación se agrava con la falta de transparencia y la impunidad de los funcionarios públicos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La situación económica también es crítica, con una inflación galopante y una creciente pobreza.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La perseverancia de figuras como Cristina Fernández de Kirchner en mantener su influencia política, utilizando eventos multitudinarios y mensajes populistas, genera cuestionamientos y preocupación sobre el futuro del país.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1626
+}

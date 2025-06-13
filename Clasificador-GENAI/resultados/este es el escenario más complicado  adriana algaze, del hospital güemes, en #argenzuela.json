@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Por un lado, la desregulación de las prepagas ha provocado que mucha gente se vuelque al sistema de salud público, que a su vez sufre los mayores recortes presupuestarios.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, a medida que reciben más gente, tienen menos recursos para atenderlos. Es la tormenta perfecta.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ahora funciona mucho peor. No lo vinieron a arreglar, lo vinieron a empeorar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y pensé en la falacia que se desarmó. Como hubo mucha gente que romantizaba el rol del Estado sin usarlo, porque tenía prepaga, mandaba a sus hijos a colegios privados… y se fue generando este rencor de decir: \"ustedes me van a decir a mí cómo funciona este Estado, que yo sé que funciona muy mal\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo no puedo creer que sigamos culpando al Estado de esta manera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2384
+}

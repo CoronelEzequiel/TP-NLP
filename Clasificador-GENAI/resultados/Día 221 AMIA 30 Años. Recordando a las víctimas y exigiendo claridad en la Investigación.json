@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.567,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El ataque de Israel fue el más grave contra el pueblo judío fuera de Israel desde la Segunda Guerra Mundial. Fue el ataque terrorista más importante de la historia argentina.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se impone aquí la pena de muerte. En caso de haber detenido a los responsables de este crimen, ¿qué es lo que merecen? ¿Continuar con vida?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lamentablemente, la Causa AMIA es monumental, compleja, un ejemplo de impunidad, la corrupción, el encubrimiento y la utilización política de estos hechos trágicos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Desde su asunción, el gobierno nacional tomó la decisión de alinearse con el gobierno actual de Israel, con Benjamín Netanyahu.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mañana se cumplirán 30 años del atentado cobarde a la AMIA, a través del cual el terrorismo iraní se cobró la vida de 85 argentinos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Solo existe el bien y el mal. Por eso hemos declarado a Hamas como organización terrorista, algo que ningún gobierno se animó a hacer por especulación diplomática, a pesar de que siempre fue una obviedad para todos aquellos que saben algo del caso, obviamente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5289
+}

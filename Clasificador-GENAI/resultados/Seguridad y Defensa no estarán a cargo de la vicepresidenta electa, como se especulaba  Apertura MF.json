@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.433,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Durante la campaña en el balotaje, la entonces candidata a vicepresidenta **Victoria Villarruel** hizo un vínculo entre las fuerzas militares y de seguridad, que se remonta a lo más profundo de su propia intimidad, puesto que su padre formó parte del ejército, su tío también, y le permitió construir una plataforma con la que llegó a la vicepresidencia.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Spot de **Patricia Bullrich**: \"La fuerza del cambio. Si no es todo, es nada. Si estuviéramos en un país normal, tal vez alcanzaría con un buen administrador o un teórico de la economía, pero no estamos viviendo en un país normal, estamos en esta Argentina. Sufrimos hambre. Son siempre los mismos, no arrancan las clases. Acá nada es como debería ser y va a hacer falta mucha fuerza para recuperar el orden que perdimos. Fuerza porque el diálogo no saca a los narcos de Rosario, porque la corrupción no se termina por consenso, porque no se acuerda con las mafias. ¡Tengo la suficiente pelota! Fuerza porque a las cajas y a los privilegios nunca se los suelta negociando. Fuerza porque el mejor plan del mundo va a tener que defenderse más que en la teoría económica, en la calle. Ya vimos con qué agresividad se resiste el cambio y no podemos darnos el lujo de hacerlo a medias otra vez. Si no es todo, es nada. Llegó el momento de generar grandes cambios estructurales y hacer lo que nunca se hizo. Bienvenida a la fuerza que hace falta para ordenar el país. Bienvenida a la fuerza del cambio\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voy a confesar que a mí me tranquiliza que **Patricia Bullrich** sea ministra de seguridad y **Luis Petri** ministro de defensa, y no sean personas delegadas de **Villarruel**. Me parece que, dentro de la posición dura que tiene **Patricia Bullrich**, por lo menos tiene la experiencia de haber estado en el gobierno y, al mismo tiempo, tiene la subjetividad no marcada por la dictadura y por, podríamos decir, los planes represivos que se aplicaban en las épocas de la dictadura. Todo lo contrario, ella lo sufrió. Así que nunca imaginé que me iba a dejar tranquilo **Patricia Bullrich** manejando la seguridad, con más no duda, pero comparado con **Villarruel**, me parece que es realmente para alegrarse.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Siguiendo con esta teoría, sería natural que un gobierno que tiene números históricamente bajos de diputados y senadores, que no posee un solo gobernador propio, ensaye o tenga que ensayar un giro represivo mayor.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La no injerencia del Ejército en asuntos internos es un consenso básico de nuestra democracia de 1983.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es interesante rescatar que es difícil medir la eficacia que tiene la política de Bukele en las detenciones masivas de miles de personas asociadas a las maras. Hay que comprender también la realidad de ese país, mucho peor a la nuestra. Hay quienes dicen que, en realidad, la presencia de las maras no bajó decisivamente; hay quienes aseguran que sí. Lo que no cabe ninguna duda es que hay un retroceso institucional y democrático en El Salvador.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7337
+}

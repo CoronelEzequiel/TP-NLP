@@ -1,0 +1,36 @@
+{
+  "texto_id": "audio_analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ayer, en medio de la discusión en el Congreso por la ley de unión, hubo represión a quienes se manifestaban en contra y hechos de violencia a partidarios del gobierno.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La ley es polémica solo para aquellos que quieren cuidar sus privilegios, que vienen del modelo anterior, que nos trajo hasta aquí a este lugar de miseria, indigencia, insustentabilidad.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con esta ley, le devolvemos la libertad a los argentinos, y aquí van a prestar atención a cómo cada uno considera que es libertad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se necesitan estadistas, no leones. El capitalismo moderno es anarcopopulismo de derecha con falta de humanismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno optó por reprimir con palos, con gases lacrimógenos, integrantes de las asambleas barriales, militantes sociales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7510
+}

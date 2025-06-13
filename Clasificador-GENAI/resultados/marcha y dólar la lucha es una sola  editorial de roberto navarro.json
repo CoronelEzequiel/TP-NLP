@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.26,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Mientras el gobierno se prepara para reprimir, amenazando a la gente en las estaciones de tren, el dólar cripto a esa hora ya estaba en $1316.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, el ministro de Economía —ya uno no sabe si por ineptitud, intencionalidad o para favorecer a sus amigos en la especulación— habló del acuerdo con el FMI.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo, ayer, de dos maneras diferentes —los senadores de Unión por la Patria y el PJ reunido— le dijo que no reconocerá la deuda.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Adorni dice que las fuerzas harán respetar la ley. ¿Habló con el presidente? Hablo permanentemente. ¿Cuál es la mirada del presidente? El presidente tiene la misma mirada que siempre: el que las hace las paga, la calle debe estar en orden, las protestas deben ser dentro de la ley y no se permitirá la violencia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si creen que nos van a convertir en Perú, no, muchachos. Eso no va a pasar. Tenemos una historia de lucha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3779
+}

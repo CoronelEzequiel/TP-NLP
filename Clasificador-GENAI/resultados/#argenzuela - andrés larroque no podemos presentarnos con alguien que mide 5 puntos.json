@@ -1,0 +1,41 @@
+{
+  "texto_id": "El debate sobre la inseguridad en Rosario",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.158,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "La diferencia en recursos entre la Ciudad Autónoma de Buenos Aires (CABA) y cualquier distrito del conurbano bonaerense es enorme.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larroque considera que si bien el discurso del Presidente en materia de justicia fue acertado, existen discrepancias en cuanto a la ejecución de políticas económicas y otras cuestiones de concepción.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larroque menciona la compleja crisis que enfrenta el país y la influencia de un sistema de poder con tentáculos en la justicia, el poder económico y los medios hegemónicos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Larroque cree que se debe a una desilusión con la gestión de Fernández, una desilusión compartida por muchos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Larroque considera que ella es la única líder capaz de enfrentar la crisis actual y que la unidad del peronismo es crucial.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se descarta la candidatura de Alberto Fernández y se argumenta a favor de Cristina, aunque se reconoce la posibilidad de una proscripción.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1260
+}

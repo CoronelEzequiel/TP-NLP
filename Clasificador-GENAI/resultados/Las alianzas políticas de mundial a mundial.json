@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_mundial_qatar",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.25,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Toda monarquía absoluta es una dictadura.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claramente hay hipocresía en el mundo cuando se plantean las autocracias que lo son Rusia y China, y se olvidan las autocracias que significan las monarquías absolutas, como la de Qatar, como la de Arabia Saudita.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Son sistemas arcaicos de gobierno a los que el verdadero liberalismo, que nada tiene que ver con los libertarios, vino a liberarnos, vino a liberarnos de que haya una persona por encima de todas las demás, se llame Zar, se llame Kaiser, se llame presidente del Politburó, se llame como se llame.",
+      "score": 0.4,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "Sobre esta riqueza se establece una dictadura, una dictadura monárquica que, por ejemplo, reprime a los homosexuales con pena de muerte. Lo mismo que sucede en Arabia Saudita.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "la construcción del estadio consumió 6.500 personas, una cantidad totalmente escandalosa, parece como la construcción de las pirámides de Egipto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es como una teocracia feudal, puede lavar su imagen gracias al deporte, como los estados occidentales se venden y le ponen alfombra roja a la dictadura de Qatar.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de un estado criminal como Qatar, y creo que es muy importante cómo el deporte, en el deporte han estado los jeques árabes como nuevo actor dentro de este mercado, porque saben que para controlar el mundo deben controlar también el deporte.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando los gobiernos del mundo miran para otro lado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras todos miren el primer partido de la selección española, nosotros pondremos foco en que, a 7.100 kilómetros de ese mismo estadio, cientos de familias de refugiados son reprimidas salvajemente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y esto lo que habla claramente es de la hipocresía de los Estados Unidos, que protege a uno, protege al otro, en función de sus intereses geopolíticos, que nada tienen que ver con lo que reclama de autocracia versus democracia",
+      "score": 0.4,
+      "etiqueta": "centro"
+    }
+  ],
+  "tokens_procesados": 5656
+}

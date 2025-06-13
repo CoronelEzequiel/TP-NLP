@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.171,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esto constituye un hito en la historia del país, ya que una obra de esta envergadura (580 kilómetros por el medio del campo) suele tardar 14 o 15 meses, y nosotros la estamos ejecutando en 9.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Más allá de esto, el sector energético puede aportar estabilidad y previsibilidad a la macroeconomía argentina, permitiendo el desarrollo de comercios e industrias con acceso a energía a precios más competitivos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es una obra deslumbrante: genera empleos, sustitución de importaciones, divisas y nos acerca a la soberanía energética (autoabastecimiento gasífero).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si pensamos en sustituir las políticas de gobierno (de cuatro años) por políticas de Estado a mediano y largo plazo (15 o 20 años), la recuperación de YPF es clave.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Estado realizó las inversiones necesarias para desarrollar Vaca Muerta, lo que explica la necesidad de construir este gasoducto debido a la falta de capacidad de transporte.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este proyecto, al igual que la segunda etapa del gasoducto, se financia con aportes del Tesoro Nacional y un 25% del aporte solidario.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El sector energético se posiciona como un nuevo polo exportador, una alternativa al agro.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1848
+}

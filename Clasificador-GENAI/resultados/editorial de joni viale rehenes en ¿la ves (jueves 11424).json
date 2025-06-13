@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.718,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Somos rehenes de los piqueteros, rehenes de los sindicalistas, rehenes de la UTA, hoy la UTA nos volvió locos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta señora es la representación acabada, perfecta, de los cuatro millones de argentinos que quedaron como rehenes del paro de la UTA.",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces el paro de hoy, lo vuelvo a decir, no afectó a mi ley. Mi ley está en Miami, no afectó a Karina, ni a Caputo, ni a Demonio.",
+      "score": 0.82,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta es la casta Milei. Este señor Roberto Fernández no es muy querido por los trabajadores colectiveros.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso digo, somos rehenes de mafias sindicales a las cuales les importa un carajo la sociedad argentina.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La sociedad votó a Milei y a Patricia para terminar con la violencia, con la patota, con la intimidación y con la extorsión.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay una argentina que trabaja, que labura, que estudia, que paga impuestos, que cree en el progreso, que respeta al otro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay otra que es la que mantiene a esa otra, que vive del plan, que vive de cortar la calle, que vive de hacer paros, que vive de hacer quilombo.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y la Argentina violenta, esta segunda, toma de rehén a la Argentina trabajadora.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La sociedad argentina no se está comiendo la curva, ¿eh?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La nueva crítica es que a Milei no le gusta comer.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En definitiva, tiene razón, Franchella. La verdad, tiene razón, Franchella. Opiniones libres, hechos sagrados.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Amigos, amigas, el frío todavía no afloja y hay que ser mierda.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La llama de los feminismos bonaerenses, creo que es.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 8770
+}

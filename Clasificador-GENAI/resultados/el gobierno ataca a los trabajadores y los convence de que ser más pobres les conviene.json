@@ -1,0 +1,66 @@
+{
+  "texto_id": "El discurso antisindical",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.07,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El discurso antisindical que prolifera en los medios de comunicación resulta insoportable.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La forma en que se retrata a los gremios como \"mafia sindical\" es preocupante.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La organización sindical es uno de los mayores logros de los trabajadores.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El discurso mediático, en cambio, se dirige contra esa herramienta.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se observa con atención, se advierte que los medios de comunicación atacan a todos aquellos que defienden a los trabajadores: a los abogados laboralistas los acusan de formar una \"mafia laboral\", difaman a las madres, a las abuelas, e incluso a figuras públicas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta construcción de un sentido común negativo hace que los trabajadores terminen votando a sus propios victimarios.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es el resultado de años de influencia de medios de comunicación de derecha: se ha logrado convencer a los trabajadores de que necesitan sindicatos, abogados laboralistas y medios que los defiendan, pero que todo eso es malo para ellos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno nacional, por ejemplo, no solo recortó los fondos destinados a la lucha contra incendios (aproximadamente al 10%), sino que tampoco respondió adecuadamente a la emergencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En democracia, debemos combatir este sentido común impuesto por los medios de comunicación que lleva al pueblo trabajador a votar a sus victimarios, incluso a aquellos que no benefician ni a la clase media alta, sino solo a un pequeño porcentaje de la población.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo, los sindicatos y las organizaciones sociales deberían actuar.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quien controla la narrativa, controla la situación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2054
+}

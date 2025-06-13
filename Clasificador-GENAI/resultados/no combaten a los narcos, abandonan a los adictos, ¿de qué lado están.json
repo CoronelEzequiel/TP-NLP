@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.7,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Uno de los puntos de dicha legislación considera excepcional la internación involuntaria, y la madre del cantante argumenta que su hijo, debido a su adicción a las drogas, carece de la voluntad necesaria para decidir su internación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En un país donde el narcotráfico no se combate eficazmente, donde niños y jóvenes de bajos recursos son víctimas de su maquinaria de tráfico, convirtiéndose en traficantes desde temprana edad; donde incluso desde las municipalidades se ha sugerido un consumo moderado de sustancias adictivas (cuando \"poquito\" es mucho y peligroso, como advirtió la Academia Nacional de Medicina), las políticas públicas son, cuando menos, confusas, erráticas y sospechosas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿De qué lado están quienes sostienen políticas que dejan a los adictos a la deriva, sin posibilidad de rescate?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El debate previo a su sanción en 2010 marcó un triunfo de las corrientes antipsiquiátricas, que minimizan la influencia de la psiquiatría en el tratamiento de las enfermedades mentales, equiparándola a la psicología o el trabajo social, y poniendo trabas a las internaciones, considerando los hospitales psiquiátricos como instrumentos represivos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se prometen esfuerzos para cumplir las expectativas de la gente, expectativas elementales pero contundentes que deberían guiar la persecución y el juzgamiento de estos delitos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué falta para una discusión honesta y una reforma legislativa alejada de teorías y líneas políticas e ideológicas?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Actualmente, se está dejando un vacío que equivale al abandono para quienes intentan que sus seres queridos tengan otra oportunidad y no mueran de una sobredosis.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2574
+}

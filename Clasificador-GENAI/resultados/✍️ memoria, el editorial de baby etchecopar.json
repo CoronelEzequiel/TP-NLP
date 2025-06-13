@@ -1,0 +1,36 @@
+{
+  "texto_id": "Texto corregido",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cuando la justicia te requiere y te cita, te llama insistentemente y me dice: \"¿Por qué no se presenta?\"",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora es la ladrona y enfrenta las consecuencias.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Además, la justicia está empezando a emitir veredictos contundentes, ¿viste?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por supuesto, desde este programa vamos a intentar que Alberto aguante.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo noto que gracias a los chicos del mundial estamos empezando a tener más optimismo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1626
+}

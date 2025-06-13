@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.388,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay una ola de miedo en el mundo ante la posibilidad de que, en la nación más poderosa, triunfe un individuo violento que promete restricciones democráticas.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, un hombre antidemocrático y violento llega a gobernar con todo el poder en la primera nación del mundo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdad es que lo que falló es la economía. Lo que fallaron son figuras como **Trump**, que instalaron una economía concentrada que genera esa insatisfacción democrática que después se traduce en frustración y enojo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, la derecha generó la crisis y la derecha promete arreglarla, pero esta vez por las malas.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y por último, y me parece que siempre es lo más importante, está la propuesta económica. **Trump** tiene una propuesta antiglobalización.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y da la impresión de que al final del viaje, o en este momento del viaje, este capitalismo que se había quedado solo nos está trayendo de vuelta al fascismo, o por lo menos un neofascismo, por la insatisfacción que genera en la sociedad del capitalismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es decir, **Milei** se siente bien con **Trump**, claramente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es decir, el peligro, el más inmediato, diría yo, es un **Milei** radicalizado, un **Milei** peor que el que conocemos hasta hoy.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2821
+}

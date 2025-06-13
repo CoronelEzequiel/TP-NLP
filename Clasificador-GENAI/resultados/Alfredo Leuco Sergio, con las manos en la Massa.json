@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Las encuestas coinciden en señalar que gran parte de sus votos se fueron diluyendo a medida que Massa se mimetizó con Cristina Fernández de Kirchner y se asoció a Máximo Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como si esto fuera poco, las tres mujeres más poderosas de la oposición, Patricia Bullrich, Elisa Carrió y María Eugenia Vidal, se proponen desplazarlo de la presidencia de la Cámara de Diputados.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pocos gobiernos como los cuatro kirchneristas han violado y atacado más las instituciones republicanas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Massa no tiene autoridad moral para fingir moderación y proponer diálogo cuando es parte de un gobierno herético que quiere instalar un nacional populismo autoritario por 20 años.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hoy Sergio Tomás Massa es más cristinista que Cristina Fernández de Kirchner y sus cómplices.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La palabra de Sergio Massa está hecha añicos, igual que la de Alberto Fernández.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2085
+}

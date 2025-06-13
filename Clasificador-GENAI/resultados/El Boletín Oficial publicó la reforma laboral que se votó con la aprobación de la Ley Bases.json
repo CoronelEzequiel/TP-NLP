@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_reforma_laboral",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En resumen, la reforma abarata los costos laborales de los empleadores y condona algunas deudas por cargas patronales adeudadas. Vuelve más sencilla y económica la contratación y el despido.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno apuntó a tratar de terminar con lo que llamó la \"industria del juicio\", que constituye una especie de alianza entre malos trabajadores y abogados laboralistas, quienes hacen negocio litigando contra los empleadores.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La CGT, si bien considera que hay puntos a reclamar, la nueva normativa contempló algunos de sus pedidos, fundamentalmente los que resguardaban el poder de sus organizaciones.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las cámaras empresariales expresaron que, si bien la reforma no es tan profunda como hubieran querido, sí representa un paso adelante, y habrá que ver cómo impacta realmente en todos los sectores que hacen el trabajo, si verdaderamente genera más puestos de trabajo y en mejores condiciones.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Demuestra el autoritarismo de este gobierno, que deja de lado el Congreso, que se olvida de que estamos viviendo una etapa democrática y que cumple disciplinadamente con todo lo que le exigen los poderes económicos nacionales e internacionales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3921
+}

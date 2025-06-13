@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.607,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Lo que me preocupa es por qué administraron el Estado como si fuera suyo, con qué autorización los kirchneristas otorgaban estos lugares.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Necesitamos navegar un poco en paz, necesitamos la \"playita\", ¿viste?, necesitamos disfrutar del paisaje, no podemos estar todo el tiempo en conflicto.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por otro lado, ahora Villarruel, que se va a postular por la ultra-ultraderecha sola, con un partido, y seguramente no le va a ir mal porque hay una franja de ultra-ultraderecha en la Argentina que le encanta.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, en cambio de ser tres tercios, van a ser cuatro de 25, que creo que va a ser la elección del año que viene.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo creo, con todo respeto, y ahora hay que ver si se puede decir, que el presidente gobierna muy bien para afuera, pero gobierna más o menos para adentro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Con Milei, los más ricos comen bárbaro, pero la clase media se está gastando los ahorros.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso yo creo que habría que hacer un gobierno... que nos saque a esos que vienen de madera del culo un poquito y nos deje transitar en paz.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2889
+}

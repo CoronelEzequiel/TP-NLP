@@ -1,0 +1,31 @@
+{
+  "texto_id": "discurso_cristina_kirchner",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.275,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Su afirmación más contundente fue que no hay fondos para pagar al FMI y, por lo tanto, la deuda no se puede saldar.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se alegó que la vicepresidenta vive en una \"Disneylandia\" porque, mientras se afirma que Argentina se vacuna gracias a las relaciones con Rusia y China, existe una escasez de vacunas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El acto conmemorativo del golpe de Estado se vio empañado al acusar a Estados Unidos de apoyar el golpe militar y la guerra de Malvinas, mezclando las acciones de un gobierno estadounidense del pasado con las actuales políticas del FMI.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La conclusión es que el discurso de la vicepresidenta, en su estilo característico, refleja una postura crítica hacia el gobierno y hacia el FMI, con afirmaciones que generaron controversia y cuestionamientos a la coherencia de sus argumentos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1512
+}

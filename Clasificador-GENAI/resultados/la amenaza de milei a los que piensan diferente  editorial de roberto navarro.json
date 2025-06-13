@@ -1,0 +1,71 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.092,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Javier Milei planea prohibir los aumentos salariales. Uno se pregunta qué celebran quienes lo celebran. ¿Cuál es la razón de su júbilo?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei está demostrando su odio al pueblo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer, Fernando Alonso publicó en *El Destape* —y luego comentó aquí— que la Cámara Argentina de Comercio, muy cercana al gobierno de Milei, prevé que este año no se recuperará el consumo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, Mariano Martín publica en *El Destape* que el gobierno no homologará paritarias que impliquen aumentos salariales, es decir, se encamina hacia la paritaria cero.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto no es inédito; durante la dictadura no había paritarias, Alfonsín no las restituyó inmediatamente y durante el menemismo tampoco existieron.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras tanto, a los ricos se les concede el RICI y se les baja el impuesto a la riqueza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Cómo un libertario prohíbe los aumentos salariales? Lo que hacen es acabar con los sindicatos para que solo algunos puedan negociar aumentos salariales con sus empleadores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Están matando de hambre a la población y diciéndoles: “no se van a recuperar”.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Un saludo nazi comparable al de los nazis, en el contexto de un (nombre omitido) que financia partidos nazis en todo el mundo.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El presidente insulta a quienes piensan diferente, amenazando con perseguirlos por todo el planeta.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei se está convirtiendo en alguien peligroso, envalentonado por creerse amigo del presidente de los Estados Unidos y del hombre más rico del mundo, amenazando a la mayoría de los argentinos con persecución e insultos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sepan los trabajadores que este no es su gobierno. Este año, la paritaria es cero.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2693
+}

@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La verdad que no tengo ganas de hablar de política, porque me hincha las pelotas la política.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Tenemos que volver a ganar la calle.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora empiezo a trabajar de nuevo para recuperar pequeños espacios de libertad con mis compañeras.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y yo entré en una cruzada, así como fui el primero hace 20 años con Jorge Lanata, Lilita Carrió, un montón de locos más, como los locos de la Zotea, en empezar a combatir esto que estamos terminando de combatir, que es el fascismo del populismo berreta y los chorros del gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, recuperemos el humor.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no tenemos que permitir que nos roben la risa.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3604
+}

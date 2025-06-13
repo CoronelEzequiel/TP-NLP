@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.11,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Nosotros tenemos una fortuna. Pertenecemos a un movimiento, no somos una alternativa electoral.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo es un movimiento entroncado a la necesidad de la gente, la actuación no es personal.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El peronismo con su lucha y con la imposición en primera etapa de los derechos humanos, las Madres y las Abuelas de Plaza de Mayo son nuestras.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo veo en este panel de canales que aparecen los Cavallo, los Melconian, aparecen los que están vinculados a toda esa operación que fue el proceso cívico-militar y con cierta participación de sectores religiosos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros tenemos que conversar con el que vota, no con los dirigentes adversarios que saben lo que piensan.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En esta elección, Juntos por el Cambio va a pasar a estado latente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta no es una elección donde no estén en juego los derechos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que salir... Me parece bien lo que se está haciendo ahora.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3340
+}

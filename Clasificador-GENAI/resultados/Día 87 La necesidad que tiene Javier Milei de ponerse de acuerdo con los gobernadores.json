@@ -1,0 +1,61 @@
+{
+  "texto_id": "dia_87",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Decidimos abrir el programa de hoy con \"Ponernos de acuerdo\", de Marcelo Moura, para hablar de la necesidad que tiene el gobierno nacional de Javier Milei de ponerse de acuerdo con los gobernadores.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei anunció la convocatoria al Pacto de Mayo en ese famoso discurso que realizó cuando se abrió la sesión ordinaria, con 10 puntos que vamos a recordar",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto puede ser para muchas cosas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei ha tensionado muchísimo la relación con estos mandatarios provinciales, que también cuentan con la legitimidad del voto, inclusive en muchos casos, mayor que la del propio presidente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno está teniendo mucho éxito económico",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así que ahora estamos esperando que, después de contener la inflación, que es el flagelo más grande de Argentina, que vaya reduciéndose drásticamente y a partir de ahí venga el rebote y crecimiento de la economía, para el cual el campo va a ser un aporte muy importante",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei dejaría de tener la posibilidad de convocar a este tipo de iniciativas y podría verse una profunda crisis de gobierno.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esperemos, como decimos desde siempre, que el gobierno encuentre el camino del diálogo y se puedan canalizar los debates por las instituciones, a través de las instituciones y los ámbitos de discusión democrática.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es muy curioso decir que la vicepresidenta no aplaudió nunca, mientras que Martín Menem aplaudía todo el tiempo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Faltan 13 días para que se cumplan los 100 días de gobierno de Javier Milei, que creo que van a habilitar a muchos a decir: \"Bueno, ya pasó un tiempo prudencial, ahora voy a comenzar a criticar\".",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4230
+}

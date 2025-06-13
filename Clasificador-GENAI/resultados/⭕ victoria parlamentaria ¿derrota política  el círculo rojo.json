@@ -1,0 +1,41 @@
+{
+  "texto_id": "La verdad del poder o el poder de la verdad",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.167,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El movimiento estudiantil universitario y los conflictos en las universidades están sacudiendo el escenario político, probablemente durante los próximos días.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei, quien aún parece estar en modo campaña electoral permanente, se vio directamente afectado.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Su retroceso político se debe a que, con una minoría parlamentaria, logró bloquear leyes, enfrentándose a una mayoría parlamentaria y social.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este conflicto también sacude al gobierno y a la oposición política y sindical.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mientras el sistema político busca adaptarse, el movimiento estudiantil adopta medidas radicales como las tomas de facultades, más allá de marchas o protestas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, el movimiento estudiantil golpea al gobierno, a la oposición y a las formas de interpretar la realidad, expresándose en las calles.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1690
+}

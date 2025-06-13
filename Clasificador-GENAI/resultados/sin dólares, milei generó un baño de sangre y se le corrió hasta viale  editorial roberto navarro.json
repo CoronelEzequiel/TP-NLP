@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.09,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El ajuste económico genera dudas sobre su sostenibilidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos seguir manifestándonos, pero este gobierno no ha respondido a las demandas, recurriendo a la represión.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La represión del miércoles pasado provocó una caída en el precio de las acciones argentinas, una subida del dólar, un aumento del riesgo país y una baja en los bonos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los mercados desconfían porque el ajuste afecta a los jubilados y la respuesta gubernamental ha sido una provocación, con los gremios comprometidos a apoyar a los jubilados y exigir un aumento de sus pensiones.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La represión del miércoles fue la más grande desde 2001, durante la presidencia de Fernando de la Rúa, con 40 muertos y 672 heridos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se acusa al gobierno de utilizar un discurso similar al de una dictadura militar para justificar la represión.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se critica la violencia policial y el minimizar la gravedad de las heridas sufridas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se critica fuertemente a Patricia Bullrich por su historial de violencia y represión.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se denuncia la falta de investigación sobre el disparo que hirió a Pablo Grillo, atribuyendo la responsabilidad al gobierno.",
+      "score": 0.02,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se concluye con una fuerte crítica al gobierno y a Patricia Bullrich.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2026
+}

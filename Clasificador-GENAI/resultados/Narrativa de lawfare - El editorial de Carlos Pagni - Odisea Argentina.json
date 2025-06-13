@@ -1,0 +1,61 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.49,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Es un oficialismo donde el segundo le da órdenes al primero porque es el que tiene el poder, es el que tiene los votos, es el que tiene la legitimidad.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Casi que pensaba más parecido a Macri que a Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy el presidente dijo que coincidía con Cristina Fernández de Kirchner en su visión de los problemas judiciales.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La noticia es que en el Supremo Tribunal Federal Brasileño, que es una especie de corte constitucional que está por encima, es la cúspide de todo el poder judicial en Brasil, hay una sala que se encarga de la causa del \"Lava Jato\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "De nuevo, las pruebas de que en América Latina, tanto en el caso de Brasil como en el caso de Rafael Correa en Ecuador, de Evo Morales en Bolivia y eminentemente en la Argentina con Cristina Fernández de Kirchner, lo que ha habido es una persecución de los medios, la derecha, los Estados Unidos, el sistema financiero, los empresarios, etc., para culpar a aquellos que eran inocentes, es decir, una persecución estrictamente política.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si hay alguien que perseguía a Cristina en la justicia se llamaba Sergio Maza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En algún debate anterior, dice ella, estoy citando, mencioné que en determinados medios de comunicación se decía tal o cual cosa en nombre de la República y la Constitución, porque hacerlo en nombre de los verdaderos intereses sonaba horrible.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es probablemente de las dos o tres personas más ligadas a él y a su carrera política, y, al ponerla él ahí, quiso expresar que su relación con las ideas de Cristina estaba en tensión, que no tenían la misma visión.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que quiere decir Cristina es otra cosa, es que la política de Kicillof fue convalidada en las urnas, por lo tanto, igual que el \"lawfare\", es la correcta.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es Macri. De 0,3 a 4,3. De esto le hablaba Elisa Carrió. De esto le hablaba Macri a Alfredo Cornejo. Si vos seguís subiendo las tarifas, perdemos las elecciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 9086
+}

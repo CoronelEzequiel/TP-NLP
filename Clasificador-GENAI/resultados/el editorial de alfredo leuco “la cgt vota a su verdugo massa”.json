@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.843,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Massa les pidió a los jerarcas de la CGT que no realizaran un acto en su apoyo, ya que son \"piantavotos\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quieren hacer público que los une la defensa de sus privilegios y no el bienestar de los trabajadores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La verdad es que quieren mantener sus prebendas, las que los hicieron poderosos, extorsionadores, patoteros y millonarios.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Massa es el principal responsable de la hecatombe económica que están sufriendo los trabajadores, pero es un compañero peronista, por supuesto, y, por lo tanto, hay que ayudarlo a que siga en el poder y pueda concretar su sueño del quinto gobierno kirchnerista y el primero de la dinastía matrimonial Massa-Malena Galmarini.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Massa multiplicó la inflación y el dólar al infinito.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Los más castigados son los que menos tienen: los desocupados, los trabajadores en negro y los jubilados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La CGT fue y será una corporación más de la gran corporación oligárquica en la que se convirtió el peronismo secuestrado por el kirchnerismo.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2447
+}

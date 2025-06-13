@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Con el regreso de la derecha al poder volvieron las denuncias, los servicios de inteligencia, las fotos y los videos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno necesitaba este escándalo para disimular el aumento de la pobreza al 55%, la indigencia al 20% y el rebote de la inflación al 5,1% en la ciudad de Buenos Aires.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Javier Milei tiene en su escritorio el proyecto secreto de un decreto para liberar a los genocidas.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Así como para lograr el objetivo de bajar la inflación, el gobierno está destruyendo buena parte de la geografía fabril y cientos de miles de empleos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei y sus trolls y sus comunicadores pagos están generando una degradación de la vida social argentina aberrante para instalar un plan económico y social aún más aberrante.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1394
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_a_malena_galmarini",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.164,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Somos Sergio y yo muy independientes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos un límite al código urbanístico.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El objetivo de eliminar el ministerio es parte de la agenda conservadora y machista.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creemos que el Estado debe ser un facilitador.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los planes sociales deben ser planes de empleo.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sergio puede ganarle a cualquiera, es el más formado, el que más conoce el Estado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Resolvió la deuda que nos dejaron los que quieren volver.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3558
+}

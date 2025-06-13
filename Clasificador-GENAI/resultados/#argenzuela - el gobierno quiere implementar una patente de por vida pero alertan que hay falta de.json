@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_registros_automotor",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Desde la gestión gubernamental se está hablando de que esto es un curro, y los medios lo repiten.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No se puede cambiar todo el sistema de un día para el otro, poniendo en juego el trabajo de más de 12.000 empleados que trabajan en los registros y de todos nosotros, los jefes de registro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto es cierto, pero en cualquier provincia de la República Argentina, si se toma un apellido conocido, se encontrará que ese apellido tiene diputados, jueces, directores de diarios y seguramente algún jefe de registro.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso estamos instando a trabajar con el gobierno en un diálogo para encaminar todo este sistema; todavía confiamos en que lo podemos enderezar, porque el sistema es muy sólido.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2263
+}

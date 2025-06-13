@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Después del discurso de Alberto de ayer, y que se juntó toda la CGT, ¿no? Y Alberto dice: \"Yo los cuido, los educo, yo les enseño\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Usted llevaría a su hijo a un colegio donde Cristina es la directora?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo creo que para enseñar, primero hay que marcar algunas conductas, porque es verdad que Alberto dice que el mérito no existe.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero, ¿por qué me pasa a mí... que con Cristina y Alberto, lejos de ver al presidente, veo a una persona con conflictos, con problemas, con odio, con indiscreciones?",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero, ¿por qué será que no se ganaron el respeto de la gente?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no soportamos muchas mentiras, estupideces, esa agónica melancolía de estos cuatro años.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2749
+}

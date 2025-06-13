@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.09,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Milei propone una economía primarizada; nuevamente nos ofrece al mundo como la \"granja del mundo\".",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El modelo de negocios y el modelo político de los libertarios es el odio: el odio como gran movilizador político.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este fin de semana, el usuario de Twitter conocido como \"el gordo Dan\", junto con Agustín Romo, Agustín Laje y otros jóvenes libertarios, presentaron una agrupación que ellos describieron como el brazo armado del gobierno de Milei.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La violencia, como la que se observa en la represión policial a jubilados que protestan, es parte de su identidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Por ello, todos los que quieran seguir viviendo en democracia, evitar la violencia, el surgimiento de grupos paramilitares y salir de esta oscuridad, deberían armar una coalición amplia que impida que esta gente siga haciendo daño.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2237
+}

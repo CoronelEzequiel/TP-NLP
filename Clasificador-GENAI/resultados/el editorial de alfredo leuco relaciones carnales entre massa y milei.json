@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.637,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sergio Massa, en Estados Unidos, dijo que, juntos por el cambio, había intentado trabar el desembolso para que el gobierno pagara todos los costos, pero que Javier Milei había sido colaborativo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei acaba de demostrar que no es racional.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo más importante es que Sergio Massa dijo que esa teoría de la vocera era un delirio y desató su furia contra ella.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Faltó que le dieran un piquito, ¿no?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei es tan populista como los K y que tiene que demostrarle a él que no tiene problemas de estabilidad emocional.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bullrich pretende abrir las puertas para ofrecer a la sociedad un cambio racional, profundo, duradero en el tiempo, sustentable en la experiencia, en la administración del Estado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más república y menos anarquía, más sentido común y soluciones concretas, menos desmesuras, por supuesto, como llamar socialista a Joe Biden o gusano comunista a Horacio Rodríguez Larreta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Viva la libertad, por supuesto, pero también viva la república y la democracia, que es el menos malo de los sistemas conocidos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2390
+}

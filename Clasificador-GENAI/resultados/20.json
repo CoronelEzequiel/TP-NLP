@@ -1,0 +1,36 @@
+{
+  "texto_id": "entrevista_paulon",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.18,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Sí, junto a la diputada Mónica Fein, denunciamos incitación al odio y a la violencia colectiva. Este acto de escenografía fascista y discurso violento es un atentado contra la democracia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Miedo en los gobernadores por los recortes presupuestarios –tema que debatiremos en los próximos días en el Congreso–. Miedo en los colectivos sociales al perseguir y censurar la lectura de libros en el ámbito pedagógico, mientras desde las redes se lanzan barbaridades.  Incluso, quienes participan de estos ataques luego se escandalizan por la mención de un libro que relata un abuso sexual. La sociedad entera siente miedo. Es el mecanismo que utiliza el presidente Javier Milei para imponerse desde una minoría, para mostrarse fuerte desde su posición minoritaria.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hace un rato, el presidente Milei publicó un tuit bastante extenso, pero hay una parte que dice textualmente: 'A estos pseudoperiodistas les quiero decir que les llegó el momento de tener que bancarse el vuelto por haber mentido, por alumbrar en Jorelio hasta haber cometido delito de extorsión'.  Esteban, el presidente está amenazando. Es un lenguaje agresivo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mira, hace 40 años recuperamos la democracia en Argentina, y ese pacto social fue: 'volvemos a una democracia en paz'.  Tenemos debates apasionados, nos peleamos, salimos a la calle por el aborto, el matrimonio igualitario, el divorcio… pero una vez que se debate y se resuelve, la sociedad argentina continúa en un debate democrático. Estos movimientos y declaraciones del presidente y lo que pasó el sábado ponen en riesgo ese pacto social de construir una democracia en paz, después de lo que nos costó, después de la violencia de los 70, después de todo el dolor… parece que algunos no aprenden.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando era funcionario en Santa Fe, hasta me hicieron rezar el rosario en la puerta de las clases de educación sexual integral. Invitaba a los padres a que escuchen de qué se trata la ESI y a que valoren su importancia para prevenir la violencia, la discriminación y el abuso.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2455
+}

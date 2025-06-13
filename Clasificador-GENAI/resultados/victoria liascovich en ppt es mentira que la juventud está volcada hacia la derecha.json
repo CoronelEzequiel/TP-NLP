@@ -1,0 +1,36 @@
+{
+  "texto_id": "Victoria Diaskovich",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.38,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El kirchnerismo y el peronismo moderno expandieron el marco de la militancia juvenil, creando la posibilidad de que jóvenes de diferentes ideologías, incluyendo aquellos con posturas de derecha, participen en la política.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Critica la actitud derrotista de algunos sectores peronistas que se lamentan por la supuesta pérdida de la juventud hacia la derecha, instando a enfocarse en acciones concretas para reconquistar su apoyo a través de políticas públicas efectivas.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Critica la incapacidad del peronismo en el gobierno para implementar sus propias políticas, lo que lleva a la búsqueda de alternativas en los extremos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Plantea la necesidad de volver a las bases del peronismo y centrarse en la justicia social.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Finalmente, Victoria habla sobre su preferencia por Sergio Massa como posible candidato presidencial, reconociendo las dificultades de un escenario político sin Cristina Fernández de Kirchner como candidata.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1349
+}

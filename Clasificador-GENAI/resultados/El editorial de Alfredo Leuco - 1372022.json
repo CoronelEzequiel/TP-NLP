@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.794,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Confieso que también tengo una relación humana con Raúl Castro.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuba es una dictadura criminal que somete a su gente desde hace 63 años.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Papa Francisco no tuvo palabras de rechazo para los tiranos de Cuba y Venezuela, a pesar de que los obispos y la Iglesia de esos dos países son perseguidos y atacados ferozmente.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su apuesta por un \"pobrismo\" asistido, siempre por el Estado, no es una postura inmune, sino una apuesta a la consolidación de un clientelismo que da limosnas en lugar de generar trabajo y progreso.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Jorge Bergoglio se cansó de recibir, abrazar, bendecir y entregar rosarios a Cristina Fernández de Kirchner, a Milagro Sala, a Juan Grabois y a Guillermo Moreno, e incluso a mafiosos más peligrosos como \"el Caballo\" Suárez y los Moyano.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En lugar de ocupar su lugar ecuménico y predicar la paz y la libertad, el Papa se posiciona a favor de una facción que le hizo mucho daño a la Argentina y a varios países del mundo.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El Papa no puede ignorar las barbaridades antidemocráticas que dijo e hizo Hebe de Bonafini.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me duele esta columna, porque el Papa Francisco podría jugar un rol integrador y sanador, pero insiste en hablar como un dirigente político negativo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2270
+}

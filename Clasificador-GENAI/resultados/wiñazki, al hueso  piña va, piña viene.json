@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.53,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Grabois considera que el gabinete es ineficaz por ser, según él, \"muy porteño, muy blanco y muy clasemediero\".",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Critica el acuerdo con el FMI por ser negociado en lugar de una \"batalla política\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La afirmación de que el gabinete es \"muy blanco\" es particularmente polémica y potencialmente discriminatoria.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Además, calificar al gabinete de \"clasemediero\" es engañoso.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En conclusión, las declaraciones de Grabois presentan una visión simplista y peligrosa de la política, que promueve la confrontación y la descalificación, en lugar del diálogo y la búsqueda de soluciones consensuadas.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1387
+}

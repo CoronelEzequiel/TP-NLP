@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Y eso que la inflación creció durante el gobierno de Alberto Fernández, Cristina Fernández y Sergio Massa un 1020%, vamos de nuevo, 120%.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero ahora que hay un gobierno que está empezando a bajar la inflación, reduciendo la pobreza, de a poco, tampoco es un espectáculo, y que genera cierta esperanza, cierta expectativa entre los argentinos que menos tienen, acaban de anunciar un paro para el 10 de abril, de 36 horas de mentirita, sin ponerse colorados.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque son millonarios y se fueron enriqueciendo desde hace varias décadas, al mismo tiempo en que los laburantes de verdad se empobrecían cada día más, no tienen nada que decir de eso.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos sindicalistas que dicen defender a su gremio, no andan a pata ni usan la SUV, tienen custodia, chofer, además tienen una debilidad por los autos de marca, ahí arriba, por ejemplo, los Audi, una de las marcas más caras del mundo.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para decirlo sin disimulo, estos millonarios que hablan en nombre del pueblo, los pobres y los trabajadores, no tienen autoridad moral, ni para decir buen día.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3126
+}

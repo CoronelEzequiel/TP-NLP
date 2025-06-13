@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "No quiero culpar a nadie en particular, pero este gobierno, desde el primer día, implementó una transferencia gigantesca de ingresos con una mega devaluación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A esta violencia real —trabajadores que deben caminar por las vías del tren, niños que pasan hambre, enfermos de cáncer sin medicación— se suma la violencia simbólica de un presidente que nos insulta a todos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Debemos convivir con un presidente que nos insulta, con operadores mediáticos que nos difaman y con usuarios de redes sociales que nos amenazan. Eso es violencia de Estado.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si el plan es dejarnos morir de hambre, si es matarnos de a poco al no poder comprar medicamentos, al cerrar hospitales, al obligarnos a caminar por las vías del tren para ir a trabajar… ¿esperan que no haya violencia?",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo, criado en un ambiente humilde, donde era habitual que la gente resolviera sus conflictos con golpes de puño, entiendo la violencia física.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2026
+}

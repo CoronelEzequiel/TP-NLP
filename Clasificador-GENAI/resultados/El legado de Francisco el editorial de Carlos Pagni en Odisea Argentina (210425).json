@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Del mismo modo que fue una conmoción que permitiera bendecir a parejas del mismo género.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La promoción o el poner en primer plano palabras que por momentos parecen pasadas de moda: solidaridad, inclusión, misericordia, prestar atención al débil, al que no es exitoso, por lo menos en las categorías con que se mide el éxito en una sociedad de mercado muy competitiva.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Obviamente, que había una posición o una sensibilidad política en Bergoglio que podríamos decir conflictiva con el liberalismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Era un religioso al que le gustaba la política.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Importante: solidaridad, inclusión, misericordia, en un momento en que, deliberadamente, muchas fuerzas políticas interpretan que la forma de movilizar a la sociedad es el odio, que no hay nada que movilice más que el odio, que la movilización del corazón de la gente, de los electorados, de la sociedad, de la opinión pública, es contra algo, no a favor de algo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5677
+}

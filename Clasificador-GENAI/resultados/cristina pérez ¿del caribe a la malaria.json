@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.709,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si Argentina quisiera pagar su próximo vencimiento, no podría.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería el primero con un organismo internacional.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El cierre drástico de un proceso de revisión, dicen, como esta comisión que se abrió y cerró en cuatro días, es inquietante.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entre las consecuencias del desopilante tour de force por las autocracias más poderosas del mundo, hubo un eco no deseado en la reacción de sectores más duros de Washington que ahora no verían con buenos ojos ayudar a Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aunque las cúpulas hayan buscado contemporizar, es indudable el malestar por los flirteos con China y Rusia en un mundo que vuelve a viejos resquemores de la Guerra Fría.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Soros dice que en 2022 se definirá la dirección que seguirá el mundo, ni más ni menos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿Dónde queda Argentina en el mapa, en medio de esta puja de sistemas que representan cabalmente Estados Unidos y China?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Al mismo tiempo, Argentina, por su geografía y por sus instituciones democráticas y republicanas, tiene clara pertenencia a Occidente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el actual gobierno se muestra aliado de las autocracias y, como se ha visto, elige actuar como un renegado de Occidente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como advirtió Claudio Loser, ex encargado de negocios para el hemisferio occidental del Fondo, no acordar es autocondenarse a vivir en una economía de guerra, ser un paria de verdad, las penurias de lo que se llama directamente vivir al día.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Eso ya lo padece la sociedad, que escucha atónita al secretario de Precios, que había aparecido en la escena como el gran controlador, anticipar que la inflación seguirá alta, mientras desde el Banco Central se sincera de a poco porque no queda otra: la devaluación que la brecha con el dólar no esconde.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2233
+}

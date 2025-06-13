@@ -1,0 +1,41 @@
+{
+  "texto_id": "12 del mediodia",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.142,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "A mí lo que me preocupa son los periodistas de carne y hueso ocupando lugares esenciales en la escena, diciendo barbaridades sin ningún tipo de...",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me vengo \"faltando\" muchas... yo hoy tantas, me parece que tiene un problema básicamente con las mujeres, pero de verdad, de verdad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El debate real es, ¿les molesto yo o no? ¿El programa me molesta?",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero en este país todavía no para tener un pensamiento \"progre\" y un pensamiento más de izquierda, siendo una celebrity popular, no es tan posible todavía, no es tan posible.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "cuando me atacan ciertos periodistas te das cuenta de qué lado de la grieta están, porque la virulencia con la que me atacan tiene más que ver con no bancar mi pensamiento político, pero sí llenarse la boca diciendo que que el pensamiento político que tenemos nosotros no escucha a nadie, pero ellos nos cancelan y nos agreden.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "yo no soy agresiva, porque de verdad no lo soy, porque quienes me conocen en este medio que hace 40 años laburo, quienes me conocen saben cómo soy, saben cómo soy con los compañeros, saben cómo soy con Nina, saben cómo soy una Nina transversal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4628
+}

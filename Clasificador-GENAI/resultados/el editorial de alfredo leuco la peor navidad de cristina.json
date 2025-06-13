@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner está más autoritaria e irracional que nunca porque está atravesando el peor momento de su vida política.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sabe que le espera un \"árbol de Navidad\" cargado de luces de alertas y malas noticias por una casi segura, gravísima e histórica condena.",
+      "score": 0.88,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Diego Sebastián Luciani entró en la historia porque fue el principal protagonista del juicio más importante de todos los tiempos después del juicio a las juntas militares que condenaron el terrorismo de Estado.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No solamente solicitó al tribunal Luciani 12 años de cárcel para la \"reina del calafate\", también pidió su inhabilitación de por vida para ejercer cargos públicos y que devuelvan la montaña de dinero que robaron del Estado.",
+      "score": 0.92,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La cleptocracia instalada, primero por Néstor y luego por Cristina y Máximo, quedó desnuda en su metodología perversa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sospecho que ni la historia ni el pueblo argentino la absolverá y que la justicia, que jamás violó ninguna de sus garantías, la condenará con todas las de la ley.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1984
+}

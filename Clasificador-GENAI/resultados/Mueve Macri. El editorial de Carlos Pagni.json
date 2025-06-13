@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ese desencanto ya no se reduce a gente que está en contra de un grupo político, anti-kircheneristas, anti-macristas. Empieza a haber manifestaciones anti-sistema en general.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y del otro lado, por el lado de la derecha, hay un fenómeno que no dice 'voy en contra del sistema', se cuida de decirlo, aclara que está a favor del sistema, pero va en contra de una casta.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por la izquierda, el lunes pasado estuvimos con alguien del troskismo que nos aclaraba: 'nosotros somos antisistema, estamos en contra no de este gobierno, no del otro, del capitalismo, ni siquiera de un sistema de gobierno, estamos en contra de un sistema económico, de una forma de organización de la sociedad'.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los funcionarios de Macri, esto es un delirio, digamos, funcionarios de un gobierno surgido del voto popular, felizmente, de un sistema democrático que no tiene objeciones a nivel de la legitimidad y la claridad del voto, comparados en la ESMA con torturadores, represores, gente que hacía desaparecer personas en un centro clandestino de detención, es decir, un campo de concentración.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Macri mira a la interna de Cambiemos con bastante autosuficiencia. Él dice: 'los votos que van para Patricia Bullrich en el fondo son votos que están ahí en el fondo. Que están ahí porque yo no juego. Pero el votante de Bullrich, y es más, mucha gente del equipo de Bullrich probablemente estaría conmigo'.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7448
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "radio10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy enfrentamos fuertes aumentos en las tarifas de luz, gas y agua.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Necesitamos reglas claras y una competencia justa.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Valoramos a nuestros empleados; no son solo números de legajo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El cierre de panaderías impacta significativamente en la generación de empleo directo e indirecto a nivel provincial y nacional.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Las panaderías, en su mayoría PyMEs familiares, necesitan trabajar y crecer, pero la situación actual lo dificulta enormemente.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1394
+}

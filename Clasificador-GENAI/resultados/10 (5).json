@@ -1,0 +1,51 @@
+{
+  "texto_id": "entrevista_a_marcelo_lewandowski",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.213,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Presentaremos nuestras propuestas, especialmente nuestro plan de viviendas, tan necesario en un momento en que el alquiler es tan caro.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Proponemos construir viviendas con cuotas accesibles, para que quienes pagan alquiler puedan acceder a la propiedad de su casa.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Proponemos exenciones e impuestos provinciales para que las empresas construyan viviendas y las destinen al alquiler durante los primeros cinco años.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Creo que hay que hacer todo lo posible para que la gente tenga un ingreso que supere la inflación.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "soy partidario de pagar el bono de 30.000 pesos en dos cuotas. Hay que ayudar a la gente, especialmente a los trabajadores, que son los que más lo necesitan.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estoy mostrando las incoherencias de mis contrincantes.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mi contrincante fue ministro de seguridad y dejó 1400 muertos en la provincia, y ahora se presenta como alguien que combatirá la inseguridad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente debe decidir: ¿volver al pasado o buscar un futuro diferente?",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1635
+}

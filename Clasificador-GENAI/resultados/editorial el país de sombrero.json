@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_dnu",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El decreto elimina decenas de regulaciones, habilita la privatización de empresas públicas, como YPF, y flexibiliza las operaciones con dólares.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Propone una reforma regresiva del sistema laboral, eliminando conquistas obtenidas por el movimiento obrero tras décadas de lucha.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La derogación de la ley de góndolas, abastecimiento y observatorio de precios beneficia a la coordinadora de productos de la alimentación, la poderosa Gopal, que representa a las grandes empresas del sector.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milay, en condiciones diferentes a las de Margaret Thatcher, busca un reseteo general del país para devolver el poder a los poderosos,  centrando su estrategia en el conflicto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Enfrentar su plan solo por vías parlamentarias o judiciales sería darle una fuerza que no posee.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1806
+}

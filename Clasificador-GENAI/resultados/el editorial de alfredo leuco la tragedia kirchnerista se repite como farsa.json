@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.66,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "La tragedia argentina en democracia es la llegada al poder de una banda de delincuentes y autoritarios liderados por el matrimonio Kirchner.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie robó tanto durante tanto tiempo como el cartel de los pingüinos liderados primero por Néstor y después por Cristina.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tres gobiernos consecutivos de los Kirchner fueron degradando valores como la educación, el mérito, el diálogo y la honradez.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La inflación descontrolada es culpa de Mauricio Macri y del Fondo Monetario Internacional.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner es una santa, honesta, que nunca robó un peso.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El intento de asesinato de Cristina Fernández de Kirchner no fue ejecutado por un grupito de marginales ignorantes; fue una acción de Mauricio Macri en conjunto con la CIA y el Mossad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para la presidenta del PRO, se trata de un típico discurso fascista o estalinista que construye un relato donde se matan o borran a opositores para construir un poder con discurso único y que se instale para siempre en el país.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich agregó que seguramente esta operación salió del laboratorio de Cristina Fernández de Kirchner, que \"tira la piedra y esconde la mano\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "De todos modos, con una renuncia no alcanza.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Gran parte de los argentinos ya se dio cuenta de que la tragedia kirchnerista ahora se está repitiendo como farsa.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2315
+}

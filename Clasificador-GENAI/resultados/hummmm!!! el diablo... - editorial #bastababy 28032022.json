@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.867,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Alberto Fernández —con todo el respeto— incapaz de culpar a Massa, al hambre en Argentina, al demonio… porque sabe que el demonio también es argentino; si existiera, habría arrastrado a usted, Cristina Kirchner, al infierno.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Kirchner utiliza el hambre del pueblo para prolongar una campaña electoral y evitar que se hable de Macri, Bullrich o Patricia Bullrich (para evitar repeticiones).",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Destruyeron la Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ustedes son ladrones, hijos de puta, que nos robaron la Argentina.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Recuerdo el caso de Boico, Javier Boico y Frontín, los \"cuidaditos\" de Cristina Kirchner, que fueron jueces subrogantes en Comodoro Py, puestos por Cristina Kirchner, para manipular las causas Odebrecht, Ivánco, Nisman y el Pacto con Irán.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se les viene la noche, si Dios quiere.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2143
+}

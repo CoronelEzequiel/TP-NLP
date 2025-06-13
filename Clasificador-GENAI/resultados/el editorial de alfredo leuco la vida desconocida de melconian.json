@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.721,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "En su última declaración jurada en el 2016, confesó que el 85% de los casi 78 millones de dólares que tenía estaban en el exterior, en una casa de mil metros cuadrados en Punta del Este y el resto en inversiones en Estados Unidos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Con la dignidad y la cultura del esfuerzo inmigrante, abrieron una pequeña zapatería donde Carlos se fue entrenando en el difícil arte de vender y convencer.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y en un tiro por elevación para Milei, aseguró, hay luz al final del túnel, no es un salto al vacío.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El eje es instalar un modelo bimonetario en donde se legalice la posibilidad de realizar contratos tanto en pesos como en dólares.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Combate la inflación, el excesivo gasto público, achica la cantidad de ministerios, promete la baja de impuestos, la reducción de la burocracia estatal y quita la totalidad de las retenciones agropecuarias en las economías regionales.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Alienta las inversiones y dice que hay que volver a la tabla del dos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Patricia Bullrich le pide dos cosas: que ayude a desnudar las propuestas explosivas e irracionales de Milei y que, si ganan, contribuya a recuperar la Argentina que fue, la del esfuerzo, el mérito, la dignidad del trabajo, la honradez y la movilidad social ascendente que lo hizo el primer profesional de su familia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2373
+}

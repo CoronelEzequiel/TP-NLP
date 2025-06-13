@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.864,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Porque viajan por el mundo nuestros representantes, defendiendo dictaduras.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Gastan toda nuestra guita, a la del rebaño de pelotudos, en ministerios que nos sirven absolutamente para nada.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los planeros se convirtieron a diario en los dueños de la calle.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si te metés con Alberto no pasa nada, pero si te metés con ella, sos \"boleta\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Finalmente, puso los huevos sobre la mesa y dijo basta en la ciudad del lenguaje inclusivo. No más \"chiques\" ni \"todes\", el gobierno porteño prohibió el lenguaje inclusivo en las escuelas.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo suyo es vergonzoso, presidente. Es menos leal que jura.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tenemos un presidente que va a la cumbre de las Américas a hablar por Venezuela y no por Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8783
+}

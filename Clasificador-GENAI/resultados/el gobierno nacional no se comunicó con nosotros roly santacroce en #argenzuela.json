@@ -1,0 +1,46 @@
+{
+  "texto_id": "entrevista_intendente",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.094,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esto también es consecuencia de acciones humanas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Exactamente, los que niegan el cambio climático, acá tienen las consecuencias.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Quiero aclarar que el estado provincial está presente; el gobierno provincial está trabajando con nosotros en la internet.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobernador sí está presente, el gobierno nacional no tanto, pero el provincial sí.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los intendentes somos los primeros en responder. Obvio, obvio. Estamos todos los días con la gente. Son fundamentales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Porque los intendentes, tanto Rolando como Guillermo (al que mencionamos antes), son vecinos, viven acá. No es como… que vive en Olivos, a quien le importa lo que pasa en Funes.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Acá está el estado, tiene que estar el estado protegiendo a la gente. Este es el estado que necesitamos.",
+      "score": 0.01,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1817
+}

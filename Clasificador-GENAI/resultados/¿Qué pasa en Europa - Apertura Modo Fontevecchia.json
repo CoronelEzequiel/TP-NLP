@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.743,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "\"Hermanos de Italia\", como ustedes saben, es una organización que tenía conexiones con el atentado a la vicepresidenta, y \"Hermanos de Italia\" es el partido de extrema derecha que tiene posibilidades de ganar las elecciones este próximo domingo 25 en Italia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Sí a la familia natural, no a los lobby LGBT; sí a la identidad sexual, no a la ideología de género; sí a la cultura de la vida, no al abismo de la muerte; sí a la universidad de la cruz, no a la violencia islamista; sí a fronteras seguras, no a la inmigración masiva; sí al trabajo de nuestros ciudadanos, no a las grandes finanzas internacionales; sí a la soberanía de los pueblos, no a los burócratas de Bruselas; y sí a nuestra civilización, y no a quienes quieren destruirla\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Nosotros hemos venido a representar a una mayoría patriótica, a una mayoría de españoles, voten lo que voten, que se sienten llamados por nuestras ideas, por nuestros principios, por nuestros valores y por nuestra manera de querer a nuestra patria. Hay que ir más allá, tenemos que ser muchos más. Nuestra razón de ser es dar voz al español medio, al español de la calle, al que no avergüenza de nuestra historia, de nuestros símbolos nacionales, de nuestras tradiciones, de nuestras raíces, de nuestro rey, de todo lo que representa nuestra patria, porque lo básico es otra vez, y lo será siempre, el sentido común, el esfuerzo, el mérito, el honor, el valor, la caridad bien entendida, la disciplina, el respeto a la autoridad, la igualdad de oportunidades. Nos han dicho que está mal apoyar a nuestra policía y a nuestra guardia civil y a nuestras dos hermanas, pues claro que no, no está mal. Hay que amar a la patria, porque es básico también y porque es un sentimiento natural del alma humana. Y tenemos la obligación de transmitir la mejorada\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Poner fin a la inmigración anárquica y masiva, lo digo claramente, esta inmigración contribuye a agravar la inseguridad de nuestro país. Por eso, yo propongo un referéndum a los franceses: decidiremos quién viene, quién se queda y quién debe irse. Yo lo que quiero es luchar contra el islamismo. No se me olvida que hay yihadistas islamistas. Debemos luchar contra el ideologismo islamista, lo repito, no lucho contra una religión, contra el Islam. Estoy a favor de la prohibición del velo en los espacios públicos, ya lo he dicho claramente, para mí es un uniforme impuesto por los islamistas y gran parte de las jóvenes que lo llevan no pueden hacer nada, aunque no se quejen\".",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Y a la presidencia es una persona estúpida. Cuando México envía a sus personas, no envían lo mejor, no envían a ti, no envían a ti, es enviar a gente que tiene muchos problemas y que traen esos problemas con nosotros. Traen drogas, traen crimen, son rapistas y algunos... bueno, nos mandan mexicanos que violan gente, que traen droga\".",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Estamos dispuestos a luchar por nuestra libertad y por nuestra patria. Somos la mayoría, somos los buenos y estamos dispuestos a luchar por nuestra libertad y nuestra patria. Tenemos que atraer a los jóvenes de izquierda a nuestro lado, mostrarles la verdad y mostrarles lo que tienen que perder con su candidato\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta canción fue escrita para honrar la lucha de izquierda, de la Revolución de los Claveles en Portugal, que terminó con la dictadura de Portugal hace algunas décadas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3429
+}

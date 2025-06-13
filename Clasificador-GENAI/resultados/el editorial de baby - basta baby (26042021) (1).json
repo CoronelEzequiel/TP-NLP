@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.82,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Un administrador es un hombre que se encarga de los recursos, de decir: \"Mira, andamos mal de plata, facilitemos el trabajo a la gente, andamos mal de plata, ayudemos al campo, bajemos las retenciones, seamos responsables\".",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Qué es Alberto Fernández? Un tipo que trata de poner palos en la rueda para colaborar con el maoísmo de Zannini y Cristina Kirchner, que pretenden que el país se destruya para construir uno nuevo sobre las cenizas.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y entonces, como la plata cambia de mano, y en este momento los ricos de abolengo son los ladrones del kirchnerismo, hacen que todo lo que afanaron sirva, porque ya no siguen comprando dólares para comprar estancias, hoteles, casas, campos…",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Un presidente que nos dé la lista de quiénes ya se apropiaron de las vacunas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire que me iba pisando escarcha al colegio a las siete y media de la mañana con la galletita Bubú en el bolsillo, como un tonto, para llegar a esta Argentina donde sos ladrón y ganas más plata que siendo estudiante o decente, y a los médicos recibidos todavía no les dieron el diploma.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2652
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "audio_liliana_lemoyne",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.3,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Ella es una especie de asesora de imagen de Milei; lo peina, lo maquilla, le crea el look.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se empezó a alejar del espacio cuando vio la vinculación de Milei con Carolina Píccoli, por ejemplo. Dijo: 'Esto no es libertario, no me gusta'.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta mujer, esta futura diputada (si Milei logra el mismo resultado que el 13 de agosto y lo repite el 22 de octubre), parece que sí, porque miren lo que le sugiere a Ramiro en esta serie de audios que vamos a escuchar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ramiro, gracias. Que sea más realista. El tema de Cristina, no pongas una foto de Cristina. O sea, poné 'Cristina' y una foto de un escote o algo, pero que no sea su cara.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando vos miras, hace poco quisieron instalar, normalmente, que cada fiscal de Unión por la Patria había cobrado 50.000 pesos para archivar denuncias, bueno, o sea, y lo instalan a partir de mensajes falsos",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4619
+}

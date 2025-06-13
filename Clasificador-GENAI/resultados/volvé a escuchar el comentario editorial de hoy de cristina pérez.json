@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Vivimos en un país donde asombra que, desde el imperio de la ley, alguien se anime a cuestionar el imperio de la fuerza.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los Moyano representan esa impunidad basada en la fuerza: tirarles un camión a la justicia o a quien sea, si es necesario.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El caso sentó un precedente sobre la ilicitud de los bloqueos que, bajo el paraguas de la protección sindical, son en realidad métodos cuasi mafiosos para presionar con encuadramientos y exigir coimas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Emerge una sensación de justicia por el mero hecho de que se concreten procedimientos judiciales de rutina ante lo que, en la mayoría de los casos, parecen prácticas naturales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Que una empresa deba ceder a la fuerza, abandonada por toda protección legal, como si la justicia se volviera impotente ante los prepotentes.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su caso puede ser el caso del fin del miedo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2152
+}

@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El Senado aprobó una ley que entrega los recursos naturales a países centrales, generando una profunda injusticia.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La eliminación de las multas por trabajo informal generará un aumento significativo del empleo en negro, posiblemente superando el 70%.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Antes, se priorizaba el abastecimiento interno a precios justos para el desarrollo de la industria nacional, exportándose solo el excedente.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta postura refleja una falta de confianza en la buena fe de quienes impulsaron estas modificaciones en el Senado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Predomina la mentira en la política argentina, lo que explica el auge de la antipolítica.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El establishment político logró imponer su agenda, con un resultado que se manifiesta en el alza de los mercados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se invierte en ciencia y tecnología, es posible un futuro mejor, incluso sin esos recursos, pero la falta de inversión y la exportación indiscriminada de gas, petróleo y electricidad perjudicarán el desarrollo nacional.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El país necesita un cambio político, con jóvenes dirigentes honestos y comprometidos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1656
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.817,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hay un grupo de serviles acá, la GESCAPO de Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo está en franco derrumbe, en franca caída.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque si pierden el poder, como son nadie, se caen a pedazos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Armaron una estrategia de inteligencia rara, porque la mano derecha de Federico, que es la jefa de prensa de Federico, tiene información del servicio de inteligencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estaban tan preocupados en sus quilombos que se olvidaron de mí por ahora.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dan vergüenza, dan lástima.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La derrota que nos ha llevado Alberto Fernández o Cristina Kirchner, nos lleva a estas porquerías: que nos afanen las vacunas, que encima Cristina diga “no hay que politizar la vacuna”.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son los demócratas que no son.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si sos amigo del poder, podés hacer negocios y tener buena reputación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2200
+}

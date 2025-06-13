@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Con el país movilizado y consternado, con los reclamos correspondientes para que apareciera, con el telón de fondo de una tragedia creciente y de una respuesta lastimosa del Estado, puesto contra las cuerdas por la realidad y, ¿por qué no?, hasta por la eficiencia de un chico como Santiago Maratea, al romper un silencio incomprensible, el presidente de la Nación dijo: \"En Corrientes hicimos todo lo que estuvo a nuestro alcance\".",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo peor es que no fue una declaración de impotencia o un pedido de disculpas o un reconocimiento de la incapacidad evidente del área y del Estado.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El relato, después de todo, suele ser una especie de aviso publicitario de lo que luego no viene cuando uno compra el producto.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo increíble es que con el país contemplando su frivolidad al elegir hacer papelones en la playa en vez de apersonarse en la tragedia, el presidente solo atinó a confirmar en la cara de los argentinos que no está a la altura, que tuvo tiempo de ir a Mar del Plata a atajar penales o inaugurar un polideportivo, pero no de conmoverse siquiera por el drama de Corrientes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Alguien puede explicar la cobardía de no ir al lugar del desastre?",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces tampoco tuvieron nada a su alcance y además eran responsables.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando el segundo coche se incrustó dentro del primero, todo fue más allá de cualquier desastre conocido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2133
+}

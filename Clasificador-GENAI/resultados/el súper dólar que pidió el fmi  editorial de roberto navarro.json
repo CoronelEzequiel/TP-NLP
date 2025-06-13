@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.286,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Argentina se encuentra en una situación crítica, obligada a cerrar un acuerdo con el Fondo Monetario Internacional (FMI) en medio de una fortísima tormenta financiera internacional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El FMI exige, bajo el eufemismo de \"cambios en el sistema cambiario\", una devaluación del peso argentino.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de octubre, algunos analistas mencionan la necesidad de alcanzar un precio \"real\" del dólar, tal vez basándose en el índice Big Mac, lo que podría implicar un valor de 2500 pesos.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La caída de la bolsa de valores refleja la anticipación del mercado a una recesión, incluso depresión económica.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La baja del precio del petróleo, crucial para la economía mundial, impacta negativamente a Argentina, que dependía de las exportaciones de Vaca Muerta.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El comportamiento de Massa, negando la gravedad de la situación, genera mayor tensión.",
+      "score": 0.5,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las medidas que podrían tomar se limitan a implementar aranceles, coordinar acciones con el Mercosur y evitar mayores fugas de capitales.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2082
+}

@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.85,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Sigue el baile con la inflación, sigue el baile con la pobreza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner está avanzando en el Senado para modificar la Corte Suprema. Parece que quiere sumar a Beraldi, a Zannini, a Rusconi y a Peñafort. Y así seguro queda suelta de sus causas, que tanto la preocupan, mientras nos hace bailar.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Qué lástima que la reina de Tolosa no tenga nada de empatía con los problemas de nosotros, el rebaño de pelotudos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Porque la prioridad para el kirchnerismo es la impunidad.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá este video que es kirchnerismo en estado puro. Ellos viven el piquete de la abundancia.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los argentinos pensaba hoy, mientras escribía, en una especie de relación tóxica con el kirchnerismo. Los puteamos, los queremos cagar a trompadas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Narcisista, egocéntrica, insoportable, fría, cero empática. Lo loco es que armó un relato que millones, millones de argentinos compraron.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Así tratan a los jubilados, los maltratan. Sigue el baile. Si no pasó nada. Ella volvió con su novio y no pasó nada. Ellos eran la gran vida en Cancún y vos que aportaste toda la vida, en una ventana, para decirle que tenés un bolonqui de salud.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No voy a gastar, dice la mina, el dinero de los contribuyentes en este curro, porque es un curro el feminismo en toda parte del mundo.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A nosotros, nos amenazan por decir lo que pensamos.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8607
+}

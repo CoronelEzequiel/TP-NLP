@@ -1,0 +1,111 @@
+{
+  "texto_id": "Varsky",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.797,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Wow, estos 30 segundos que elegimos resumen a la perfección lo que es Cristina Fernández de Kirchner, el desprecio que le tiene a su propia gente, los trata de burros, los trata de ignorar.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo ya me cansé de Cristina, ya no está en la agenda Cristina, pero les tiro miguitas para que me sigan, yo te enseño, yo tengo la verdad, yo soy la vanguardia iluminada, ¿viste?",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero que lo vea esto Cunha Libarona.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mercado Libre, el enemigo público número uno del pueblo, ¿puedes creer que con los quilombos que hay, el problema sea Mercado Libre?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, señora, la que debería devolver todo lo que se robó es usted, señora.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Odian Buenos Aires, viven en Recoleta, odian Estados Unidos, pero se compran todo Miami, odian Apple, se compran el iPhone 15, odian a Galperín y se compran las acciones de Mercado Libre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "O sea, el problema no son los políticos, es una empresa que generó 80 mil puestos de trabajo en 18 países, ¿estamos locos?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La llave, la regla de no gastar más de lo que se ingresa, debe observarse, el equilibrio fiscal debe cuidarse, eso implica más y mejor recaudación, eficiencia y cuidado en el gasto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Primero, la gente quiere orden, basta de piquetes, te digo, hoy recién estaba bastante tranquilo, el Congreso había cinco mil, diez mil del Polo Obrero nada más.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Segundo, la gente quiere cuentas claras, basta de curros.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tercero, la gente no quiere más iluminados, Cristina, basta de discursos largos, eternos, superioridad moral, el púlpito, hoy te hablo desde acá arriba, te miro para abajo, basta, se terminó eso.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y cuarto, la gente quiere sinceridad, coaching, el TikTok forzado, con las Swifties, la Rata, focus group, todo eso terminó, basta de fingir algo que no sos, basta de corrección política.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina no pega con este nuevo mundo, Cristina aburre, a mí me aburrió el otro día, no lo pude ni completar el discurso, tuve que cambiar, me quedaba dormido.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina o no, Cristina atrasa, atrasa, es el tío borracho que siempre te cuenta el mismo chiste en Navidad, el mago que le conoces todos los trucos, pero para ser justo, no es solo Cristina, toda la oposición está huérfana de liderazgos, poneme, tenés la encuesta para ver, y lo estamos viendo con la ley de bases ahora, no hay voz cantante.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo me imagino a Milei, dame más de esto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y sobre todo no tiene ninguna autoridad moral para hablar después del espantoso gobierno que acaba de hacer.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Entonces, soltemos un poquito a Cristina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina debería estar presa.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La mayoría de la población votó un cambio de modelo de país, de modelo de país.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por lo tanto, cierro, ir en contra de esta ley del nuevo gobierno, para mí es suicida, incluso para ellos mismos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5532
+}

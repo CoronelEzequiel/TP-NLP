@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.83,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La campaña ya comenzó: “Destruyamos a los periodistas”.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Quiero mostrarles a un sicario de Cristina Kirchner, peligrosísimo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este individuo, llamado Agua Zorra, venía a la puerta de la radio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ustedes, los que me bardean y me insultan, ¡ustedes, pedazos de mierda!, que putean a Baby, a Majul, a Feinmann, a los Leuco, ¿por qué no los fueron a buscar?",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto es incitación a la violencia contra el periodismo; mañana presentaré otra denuncia con este video.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un acto bochornoso que avergonzaría al mismo Juan Domingo Perón.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La Cámpora, igual que Montoneros en la plaza, pero sin la conducta, ni los huevos, ni la mística.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Máximo Kirchner llegó a la plaza rodeado por un montón de alcahuetes, con un perímetro de 20 metros. ¿Eso es pueblo?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La editorial de hoy se llama \"El día después\", porque después de la derrota catastrófica del kirchnerismo, vino esta payasada.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Les digo que no les extrañe si mañana aparezco con una puñalada en la espalda.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2456
+}

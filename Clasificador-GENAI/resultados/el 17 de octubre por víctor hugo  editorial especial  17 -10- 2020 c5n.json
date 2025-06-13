@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.025,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Una manifestación que desmiente la pretensión de la oposición de haber tomado la calle.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los peronistas, un poco enojados, salieron a demostrar quiénes son, cuántos son y cómo son.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Él mismo cuenta cómo ese estatuto, que benefició a los peones desamparados que carecían incluso de calzado, representó un acto de justicia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo que intentarían desviarlos de sus metas, agraviarlos, descalificarlos e insultarlos, pero que ellos tenían una responsabilidad mayor: transformar la patria, devolver la justicia social, consolidar la industrialización y los procesos productivos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Tenemos que rescatar el valor de la lealtad, no como seguidismo, sino como reconocimiento de la defensa de los intereses populares.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dijo que levantarían a esta Argentina derrumbada, que la curarían sin odios, ya que las víctimas del odio habían sido ellos mismos.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El pueblo quiere trabajo y derechos; el peronismo representa esos ideales.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si vuelve el peronismo, la renta se reparte equitativamente; si no, la clase trabajadora recibe menos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2796
+}

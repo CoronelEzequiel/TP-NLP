@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_corregido",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.183,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "En Entre Ríos hablar de Artigas es una cosa fuerte, un proyecto que tiene que ver con el primer hombre que se preocupa por una ley agraria, por un reparto de tierras en esta área del mundo y con ese proyecto y con lo que Dolores cede de su parte del campo que le corresponde a la familia, empiezan un bellísimo proyecto, pues los gauchos, torpes, locos, provocadores, matones, sinvergüenzas se lo quieren llevar por delante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La verdadera grieta de la Argentina es entre la gente que produce, que trabaja y el otro sector es un sector parasitario que vive de quienes crean riqueza.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos son los cómplices de Echeverry, Macri, una forma mafiosa de manejar familias, de manejar fortunas, de relacionarse con la propia economía y necesidades del país.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Echeverry es un personaje propio de este tiempo, de esta manera de ser neoliberal, de este mundo que se lleva todo por delante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "José María Blaquier, 4 millones de dólares a futuro. Ellos eran los compradores. José María Torello, 800 mil. Nicky Caputo, cuando no. Cablevisión, Magnetto, 2 millones de dólares.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ibonodio que fue el líder de toda esta locura de la justicia, estuvo por encima incluso de Ercolini y de otros tipos muy serviles que hay en la justicia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 7925
+}

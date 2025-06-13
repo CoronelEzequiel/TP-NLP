@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_jujuy",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Establecía que cualquier habitante pagara un seguro si ganaba dos salarios mínimos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Lo que proponían era, lisa y llanamente, una privatización del sistema.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ahora está, ahora es el tipo que maneja la historia de la medicina prepaga, depende de lo que ella hizo a lo largo de sus últimos años. Es decir, los actuales integrantes del gabinete nacional en el nivel sanitario son tipos que vienen de la actividad de la salud. Los actuales integrantes del gabinete nacional en el nivel sanitario son tipos que vienen de la actividad privada y que claramente están más pensando en el negocio que en la salud pública.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí es una falta de ética total en un gobierno que pone funcionarios que vienen de los sectores privados, que, además, expresamente defienden los intereses del sector privado a tomar decisiones desde el sector público, que no van a beneficiar a la sociedad en su conjunto, sino que van a ser enormes negociados, con decisiones políticas que tomen, desde la política sanitaria en este caso en particular.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2929
+}

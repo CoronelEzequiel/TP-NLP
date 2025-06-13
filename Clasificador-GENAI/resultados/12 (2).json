@@ -1,0 +1,31 @@
+{
+  "texto_id": "texto_taxistas",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y bueno, la cifra se hizo alta porque el gobierno se negó a actualizar nuestra tarifa de acuerdo con la tremenda inflación que hay hoy en el país.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mire, yo no lo llamaría competencia porque… ¿qué sé yo? Eso es lo mismo que… no sé… hay realmente una invasión en nuestro país de multinacionales. No es casi que se esté enfrentando empresa grande con empresa chica. Y, en nuestro caso, esto ocurrió con el gobierno de Mauricio Macri, en 2016, cuando ingresaron impunemente estas empresas multinacionales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mire, cuando la miseria avanza, uno trata de sobrevivir como puede. Ese es un factor. Y el otro es que hay, lamentablemente, poca conciencia de clase, diría yo, en algunos compañeros, para defender la actividad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo trabajé… nunca superé las nueve horas en los años de gobierno de Néstor Kirchner y de Cristina Fernández de Kirchner, nunca. Y trabajé muy poco los sábados y los domingos nunca; o sea, cumplía a rajatabla las 48 o 45 horas de trabajo semanales. Y vivía, vivía bien y renové tres coches, porque normalmente los renovábamos cada tres años y medio.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2190
+}

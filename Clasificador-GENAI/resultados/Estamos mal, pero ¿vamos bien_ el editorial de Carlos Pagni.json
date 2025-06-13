@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "El presidente Milei se ufana de que está haciendo, y lo dice con orgullo, el ajuste más importante de la historia de la humanidad.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La oposición cree que los movimientos sociales están callados, los sindicatos no pueden homologar sus convenios, pero siguen callados.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estamos hablando de una situación muy parecida a la del primer semestre del 2020 en plena pandemia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto es el estado de la política, este es el estado de la justicia en la Argentina de hoy, para liquidar una discusión que Guzmán, más allá del juicio que nos merezca su paso por el Ministerio de Economía, tiene todo el derecho de plantear.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei se rodea de economistas hiperortodoxos, es decir, daría la impresión de que si uno mira con qué gente se rodea cada vez más Milei, el presidente Milei, no da el brazo a torcer respecto del concepto sobre la economía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El Fondo Monetario Internacional le habla a Milei desde la izquierda.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay varias provincias argentinas, yo tengo la información por lo menos de tres, donde los gobernadores están mirando que dado los aumentos de tarifas que van a venir, aún en provincias que no tienen tan atrasada la tarifa como puede ser la provincia de Buenos Aires, donde las empresas han ido adecuando las tarifas autorizadas por los gobiernos provinciales, aún en esas provincias, va a haber un aumento de tarifas de tal magnitud que la gente va a dejar de pagarlo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es imposible pensar en un ajuste fiscal sin un mínimo de acuerdo con los gobernadores?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei con la candidatura de Lijo y, en alguna medida también con la de Santiago Viola, parece estar infligiéndose un daño enorme en su credibilidad en el plano institucional.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8911
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.257,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Yo soy una mujer que, desde chica, porque nací en una familia donde papá era… socialista, mamá, peronista militante, que iba a dar clases al conurbano.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para mí el peronismo es identidad. Para mí, como lo es el tango, como lo es el rock también.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Jujuy es lo que me angustia en este momento particularmente. Milagro, si me ves te mando un beso, te amo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La unión del peronismo. Y el General decía: “Si el peronismo no es revolucionario, no es nada”.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero pensando en ella humanamente, la verdad, no quiero que sufra más, no quiero que esté al borde, y no quiero que la ataquen más.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero ¿me entendés a dónde voy respecto a muchas cosas parecidas, lamentables?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¡Vamos el Rojo! ¡Vamos!",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2367
+}

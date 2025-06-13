@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.267,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Probablemente, los jubilados sean el sector que más perdió con el gobierno de Javier Milei, y la gravísima situación que viven los adultos mayores ha generado también que sean uno de los sectores que más se ha movilizado y al que más se lo ha reprimido durante este gobierno.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La unidad de diferentes sectores ante el gobierno y la permanencia de la movilización callejera puede ser un foco de oposición muy preocupante para el gobierno de Milei.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En primer lugar, hay que separar hinchas de barrabravas. Puede haber barrabravas, pero no todos los hinchas son barrabravas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "También hay que aclarar que todo aquello que se opone al gobierno de Javier Milei no es kirchnerismo, porque hay un epíteto ahí que se califica siempre en sentido degradante como \"kirchnerista\", cuando, en realidad, si así fuera el kirchnerismo, si fuera tan grande, hubiese ganado las elecciones, y claramente las perdió.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El defensor de la tercera edad, Eugenio Semino, explicó que esta situación, textualmente, el superávit que festeja el gobierno está pagando con la vida de los jubilados.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno, en vez de pagar justicia social, pagó gas pimienta, le convenía.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 5279
+}

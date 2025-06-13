@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.845,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Mientras Cristina Kirchner sufría un ataque contra su vivienda (le arrojaron una piedra a la ventana), el precio de la nafta subió un 10,5%, llevando al país al borde del colapso.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Permítanme pensar que es otro engaño.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Señora, basta con los inventos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y peor aún, un país en crisis, con el sector agropecuario sufriendo, con el campo sufriendo…",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora el campo se da cuenta de que lo traicionaron, que le clavaron una puñalada en la espalda, como a todos los argentinos, porque son traidores.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Permítanme no creerle más, como ya no le creo a Alberto desde hace tiempo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante veinte años nos dijeron que iba a estar mejor y nos entregan un país hecho mierda, destruido, robado por todos lados, saqueado.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Usted se desgastó políticamente y ya no la sigue nadie, ni a usted ni a su hijo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No sirven para gobernar; son inútiles.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estoy seguro porque ya no le tenemos miedo, Cristina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Así que póngase a gobernar, porque ya no le tenemos más miedo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2526
+}

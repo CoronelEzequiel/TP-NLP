@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.214,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Este consorcio descubrió que numerosos empresarios, líderes políticos e incluso presidentes en ejercicio tenían sus fortunas estructuradas a través de paraísos fiscales para evadir impuestos en sus países.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "A menudo se escucha el discurso de que el Estado es ineficiente, que las obras públicas son innecesarias y que deberían ser financiadas por el sector privado.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, el sector privado no financiaría una ruta solo para el transporte de nueces. El Estado lo hace, permitiendo el funcionamiento de las economías provinciales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Todo ese dinero que no regresa a Argentina se necesita para obras públicas, que a su vez generan empleos y consumo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri era presidente cuando esto salió a la luz, y está directamente relacionado con el precio de los alimentos, los medicamentos y las tarifas.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cuando las empresas argentinas operan a través de paraísos fiscales, eluden impuestos, vaciando las arcas del Estado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy comienza el juicio, en el que se intentó involucrar a Cristina Kirchner, pero quien sí aparece es Macri, representando a muchas empresas argentinas que hacen lo mismo, como Paolo Rocca (con su empresa en Luxemburgo), el Grupo Clarín (con empresas en Panamá y Delaware), y Marcos Galperín (con empresas en Delaware y Suiza).",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2276
+}

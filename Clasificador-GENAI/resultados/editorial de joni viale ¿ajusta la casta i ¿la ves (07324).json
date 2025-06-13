@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Dame una definición de casta, por favor, para pensar en la palabra de moda.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "¿No empatizan con la gente? ¿No entienden que a la sociedad le rompe, perdón, soberanamente las pelotas que se aumenten el 30% mientras los jubilados no le ganan a la inflación?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso es correcta la decisión de Milei, del oficialismo, de Menem, tarde, pero correcta, de dar marcha atrás.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, yo insisto, yo creo que los políticos en general tienen que empezar a empatizar más con la calentura de la gente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se terminó la caja para hacer populismo barato.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Aristóteles decía que la oligarquía es un tipo de gobierno donde el poder está en manos de unas pocas personas pertenecientes a una clase social privilegiada, dominante. Y yo creo que la política argentina se transformó en un nido, no de ratas, en un nido de oligarcas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4838
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "Ameal_Radio10",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Estamos trabajando fuertemente. Desde el primer día que llegamos, dijimos Bombonera 360 y tenemos que trabajar en la ampliación de La Bombonera.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, le hizo mal al país y le haría mal a Boca.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, no pienso en rivales. En la elección, si nos ponemos a mirar la elección, ahí nos podemos equivocar. Nosotros tenemos que trabajar en la gestión. Gestionar, gestionar, gestionar.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Los fantasmas están siempre. Ah, están. Esos fantasmas que vemos fuera, están. Pero nosotros… a ver, vamos a ser claritos. Nosotros tenemos un camino.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, es un cuento. No, para nada. Siempre van a buscar algo, algo que pueda pasar. Nada, nada. Yo tengo una excelente relación con él.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3668
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "plan_rubinstein",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.56,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Cuanto más a la izquierda sea ese plan para lograr el equilibrio fiscal, más reposaría en aumentar impuestos, incluyendo las tarifas públicas",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "cuanto más a la derecha sea ese plan, más orientado a bajar el gasto",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Rubinstein asignaba mejor performance a un plan de estabilización de centro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Para mí, si Cristina Fernández de Kirchner fuera tan inteligente como lo es para la política, para revolver ministros, para hablar, para todo lo que hace, para aprender un poco de economía, esa podría llegar a decir acá, es mucho más eficiente un plan de estabilización que no solo no va a traer recesión, no solo va a traer grandes conflictos políticos, sino que, al contrario, la gente lo va a valorar como valoró la convertibilidad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "en el fondo lo estás reemplazando lo que se llama el impuesto inflacionario por otros impuestos o aumentos de tarifas o baja de gasto público",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3699
+}

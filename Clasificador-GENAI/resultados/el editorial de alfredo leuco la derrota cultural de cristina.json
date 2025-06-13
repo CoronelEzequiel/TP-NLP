@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.84,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El relato perdió mística y épica, se llenó de demasiadas mentiras, fracasos y contradicciones.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Chocaron la calesita, pusieron cientos de excusas, pero la realidad es que hay más pobreza, más inseguridad, más inflación y quedó claro que ninguno de los integrantes del \"Triángulo de las Bermudas\" pudo controlar las principales variables.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Siempre maltrató a los que se animaron a poner algún matiz en su discurso blindado y vetusto.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es la más grande cleptocracia de la historia democrática e involucra a toda la familia Kirchner, a gran parte de sus funcionarios y a muchos empresarios corruptos.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las fuerzas democráticas y republicanas deben estar alertas y unidas en defensa de la legalidad y la paz social.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2109
+}

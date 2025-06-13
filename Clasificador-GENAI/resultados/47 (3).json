@@ -1,0 +1,106 @@
+{
+  "texto_id": "entrevista_castagneto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.063,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Simplemente habíamos ido a sacar una foto, estar un poco con la gente, saludar y volver a trabajar, porque teníamos muchas comisiones ese día.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pero ya sabes cómo se maneja este gobierno, con Patricia Bullrich a la cabeza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Voy a hacer la denuncia penal correspondiente, porque esto no es normal.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me duele mucho físicamente, pero me duele más el sabotaje a la ley, porque afecta a todos los argentinos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el próximo Congreso de diputados, vamos a seguir trabajando para el pueblo, como hicimos con la ley provisional, haremos con el FONID y presentaremos todas las leyes necesarias para que no se pierdan los derechos de los argentinos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este presidente incita la violencia; esto me recuerda a los hechos del 17 de octubre, que también se desarrollaron en el Congreso.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se incita a la violencia cuando el presidente llama \"terroristas\" a los manifestantes, como hizo con  Máximo Kirchner en la campaña.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ayer hubo un golpe contra el pueblo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No quiero que los dirigentes se escondan; la gente necesita saber que hay otros que están con ellos.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si se aprueba esta ley, lamentablemente, todos los trabajadores, públicos y privados, estarán en riesgo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No solo se están afectando las empresas públicas, también se están quitando los derechos laborales y se están vendiendo los recursos naturales del país.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y vamos a luchar por eso...  No, \"luchar\" no es la palabra adecuada. En este momento no hablo de eso, sino simplemente de discutir ideas y que la gente sepa que nosotros vamos a estar a la altura de las circunstancias, vamos a luchar por el bienestar común de la población.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si ayer la CGT se hubiera movilizado, no me habría pasado lo que pasó.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Después de esta reforma laboral, irán contra los sindicatos, porque ya no tendrán la misma representación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay un tema claro: hay que empezar a depurar al peronismo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esta ley es nefasta para el país; es una gran suma de dinero que se entrega al juego.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que reconstruir el partido para ganar las próximas elecciones.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Este gobierno tiene muchas excusas, pero no veo cómo puede gobernar para el bien del pueblo, porque está vendiendo bonos y recursos naturales a empresas extranjeras.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me voy a recuperar pronto y volveremos a luchar por este país.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2766
+}

@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.722,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "A esta altura, en este punto de la crisis argentina, no hay dudas de que Alberto Fernández es el peor presidente de la historia democrática.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Nadie fue tan humillado por su propia fuerza política.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ambos, por derecha y por izquierda, tienen como jefa absoluta a Cristina Fernández de Kirchner.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Berni aseguró, como acabamos de escuchar, que si Néstor Kirchner se levantara de la tumba, sacaría a patadas a Alberto, propinándole patadas en donde la espalda pierde su nombre.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no puede decir que no tiene nada que ver si ella lo postuló como candidato.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La erosión de la investidura presidencial ha sido brutal.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Fernanda fue suave comparada con su ya histórico tsunami de agresiones, que instalaron palabras como \"mequetrefe\", \"ocupa\", \"enfermo\" y varios improperios más.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las críticas de Larroque fueron y son implacables, pero con más contenido político que agravios.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es el presidente más humillado de la historia por su propia fuerza política.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2081
+}

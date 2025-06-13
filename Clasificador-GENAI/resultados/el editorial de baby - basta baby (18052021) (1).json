@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.729,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Pero espero que ganemos si algunos diputados, que Carolina va a mencionar luego, votan a favor del pueblo y no a favor del bolsillo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, realmente estamos un poco cansados de que los senadores y diputados voten para su bolsillo y no en beneficio del pueblo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Creo que el gobierno argentino de Cristina Fernández de Kirchner y Alberto Fernández no ha estado a la altura de las circunstancias en este año y medio.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si Macri fue un mal gobierno, cosa que puede ser, no estoy para defenderlo, un buen gobierno tendría que haber mejorado lo malo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Sin embargo, en la pandemia nos estamos muriendo, tenemos más de 70.000 muertos, todavía no llegaron las vacunas, las pocas que llegaron se las robaron y son un desastre.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A ver, si el gobierno hubiese estado a la altura de las circunstancias, hubiera sido tan bueno como dicen ser, hoy la gente no se estaría comiendo un pedazo de bife inaccesible para los argentinos, que comen polenta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso quería decirles que este gobierno podría ser una buena intendencia para un pueblo de campo de 200 habitantes.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2771
+}

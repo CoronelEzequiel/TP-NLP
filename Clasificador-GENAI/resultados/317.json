@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.34,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Rialde explicó que sus opiniones políticas están publicadas en la prensa escrita, en la revista *Perfil*, y que ahí sí detalla su postura respecto a las elecciones, las cuales considera un reflejo del caos social argentino.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Afirmó que los intelectuales tienen la responsabilidad de analizar cuidadosamente sus posiciones frente a ese contexto.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Señaló que muchos sectores de las clases medias se conforman con simplificaciones como \"caos\", \"emblemático\" y \"grieta\" en lugar de profundizar en la realidad política.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Prefiere un análisis más profundo y matizado, enfatizando la necesidad de un entendimiento más preciso del estado actual de la sociedad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Rechazó la idea de que su participación en la solicitada invalidaba sus opiniones publicadas, ya que sus posiciones son conocidas por quienes siguen su trabajo.",
+      "score": 0.7,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1014
+}

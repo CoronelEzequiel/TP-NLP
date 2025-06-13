@@ -1,0 +1,41 @@
+{
+  "texto_id": "Cocaína envenenada.",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El veneno lento no les parece un problema.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Adictos olvidados en el día a día del consumo son, en definitiva, su producto, su materia prima.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando la ley no para a los motochorros, en realidad, con lo que no para es con la clientela sin redención del negocio narco.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¿Alguien dijo que les importaba el pueblo?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Prosperó la idea de que la ley es el mayor obstáculo para la felicidad.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La cocaína ya era veneno desde antes, con efectos devastadores en el cerebro, el corazón y la vida.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1967
+}

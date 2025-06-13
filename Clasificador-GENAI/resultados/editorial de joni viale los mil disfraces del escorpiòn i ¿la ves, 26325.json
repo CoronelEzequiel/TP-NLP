@@ -1,0 +1,66 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.736,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hasta que alguien se dio cuenta de que, en realidad, se trataba de un escorpión venenoso y traicionero.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo lo definiría como descomposición institucional en un marco grave de la economía que atraviesa hoy la República Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sergio Massa llegó a decir que a los jubilados les alcanzaba para llegar a fin de mes con 120 mil pesos.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta misma gente organiza la marcha de les jubilades.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una jubilación no es retribuir el esfuerzo que hizo un laburante toda su vida.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo es, siempre y en todo lugar, una enorme contradicción moral y material.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por ejemplo, hay 604 ex miembros del Cuerpo Diplomático, embajadores y cónsules, cuya jubilación promedio es de 8.500.000 pesos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Incentivar la devaluación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ahí se viene el gran reto.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si la inflación salta, se acaba el caballito de batalla principal del gobierno.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Opiniones libres, hechos sagrados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3243
+}

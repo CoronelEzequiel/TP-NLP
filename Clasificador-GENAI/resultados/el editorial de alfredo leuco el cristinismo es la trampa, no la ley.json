@@ -1,0 +1,116 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.807,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Cambiar las reglas del juego cuando falta tan poco para que el pueblo argentino decida en las urnas es un verdadero atropello institucional que no se debe permitir.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Primero, porque sabe que así le hace mucho daño a la oposición, que necesita como el aire ese mecanismo transparente para elegir a sus candidatos.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y segundo, porque de esa manera Cristina Fernández de Kirchner mantiene la lapicera que arma todas las listas de candidatos del país.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una vez más se quieren quedar con todo, con las cajas millonarias que manejan ahora y con los principales lugares a nivel nacional, provincial y municipal.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esta vez se juega su libertad ambulatoria.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner y el cártel de los pingüinos millonarios van a mover cielo y tierra para conseguirlo y también van a mover algunas millones de razones para convencer a los diputados más remisos.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "No hay que tergiversar los procesos electorales en marcha.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las PASO son el mejor camino para definir candidaturas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dijo que el kirchnerismo invadió al peronismo y que la CGT va a defender la realización de las PASO.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Maturano declaró que el peronismo está cerrado y roto y, fíjese, amenazó con armar un partido laborista propio e incluso con acercarse al peronismo republicano de Miguel Ángel Pichetto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Saben que se viene una paliza en las urnas y reaccionan yendo contra los derechos de los ciudadanos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Mi humilde opinión es que las PASO son muy útiles para que sean los ciudadanos y no las roscas políticas de cúpula las que elijan los candidatos y que ayuden, además, a la renovación de los partidos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cambiar el formato comicial tan cerca de la fecha es un traje a medida del gobierno.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería una malversación, una estafa antidemocrática, pero no descarte que Cristina Fernández de Kirchner y su tropa lo aprueben entre gallos y medianoche.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Avanzan a paso redoblado y a tambor batiente.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usan y abusan de todos los recursos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Elecciones primarias sí, elecciones primarias no.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Desde que los Kirchner llegaron al gobierno provincial con Néstor Kirchner como gobernador, nunca perdieron una elección.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hacen lo que quieren y San se acabó, a llorar a la iglesia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los regímenes autoritarios y feudales son así.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Son totalitarios, quieren la suma del poder público, violan la ley y amamantan a los niños.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 3094
+}

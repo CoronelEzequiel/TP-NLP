@@ -1,0 +1,31 @@
+{
+  "texto_id": "Me tenés podrido",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.575,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "\"La paciencia se va agotando. En un contexto donde, más allá del cambio de nombre, a lo mejor sí me parece que nuestro gobierno ya entra en zona de descuento, por decirlo de alguna forma, que estamos ya en un escenario donde, sin duda, estamos por detrás de las expectativas que generamos en nuestra sociedad.\"",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Estos cambios no cambian nada, porque no significan ni una nueva impronta, ni una resolución de los problemas. Porque no es un tema de nombres ni de género, yo creo en la paridad en los gabinetes. Ahora, creo que hoy esa es una urgencia de segundo orden en la Argentina.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Oficialmente, 14 tipos de cambio, ¿qué país del mundo genera confianza con 14 tipos de cambio? Esto es un parche más, un vamos viendo más, una etapa más del plan llegar, de ganar tiempo, de llegar hasta diciembre del año que viene.\"",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Olmos no tiene experiencia en el ámbito laboral, pero bueno, hay un expectativo abierto que pueda desarrollar una buena gestión.\"",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3753
+}

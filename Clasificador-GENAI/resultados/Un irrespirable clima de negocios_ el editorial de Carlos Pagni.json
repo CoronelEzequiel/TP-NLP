@@ -1,0 +1,41 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.517,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Gana en primer lugar Javier Milei, un fundamentalista ciego del mercado, que aplica el mercado para todo.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sale segunda una fuerza con dos exponentes: Patricia Bullrich y Horacio Rodríguez Larreta, ambos pro-mercado. Los dos piensan, ahora reunidos de nuevo por la convocatoria de Bullrich a Larreta para que sea eventualmente su jefe de gabinete, unidos en la idea de que en el centro de la organización económica debe estar la iniciativa privada y que todo este desastre macroeconómico hay que ordenarlo rápido.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tercero, Massa, que es la versión destartalada, pero más ortodoxa, de lo que puede ofrecer Unión por la Patria. No es un candidato surgido del ala más dura de la izquierda.",
+      "score": 0.3,
+      "etiqueta": "centro"
+    },
+    {
+      "frase": "La Comisión de Juicio Político finalmente emitió un dictamen, se impuso la opinión del kirchnerismo en contra de la Corte para promoverle el juicio político a la Corte.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Enorme signo de interrogación que pesa sobre Javier Milei, que gusta y es votado porque no tiene nada que ver con la política. Acá está el gran dilema de Milei, pero después le piden gobernabilidad, sin casta. No hay gobernabilidad sin casta.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gran problema, entonces, no es qué, que ya sabemos y es muy parecido a lo que dice Prat-Gay, es decir, la incertidumbre, la volatilidad, la disparada de las variables económicas hacia niveles de mayor desorden.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8946
+}

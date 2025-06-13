@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.19,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Rosatti repitió que el capitalismo tiene como base lo que dice la Constitución: protección de la propiedad privada, promoción de la iniciativa privada y competencia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que hizo hoy Horacio Rosatti fue mostrarse una vez más como el CEO de la Corte entre los CEOs de las empresas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Estos son los dueños de la Argentina, que manejan resortes importantes del Estado como la Corte Suprema.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hay que tener cuidado con esta Corte Suprema que se reúne con los grandes empresarios y les dice que sostendrá el modelo económico, que será la garante del modelo económico en el cual ellos ganan.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El problema que están generando con estas decisiones de la Corte, como la de hoy (el mismo día que charla con los empresarios y deja a dos provincias sin elección), es que no hay Estado si la Corte Suprema se transforma en una empresa y su CEO hace lo que quieren los dueños de la Argentina.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2183
+}

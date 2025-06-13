@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.2,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "El caso que estamos analizando requiere un análisis profundo, especialmente porque sospecho que intentarán minimizar la responsabilidad de Javier Milei.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, debo señalar que las acciones cayeron un 6%, el dólar subió 15 pesos, y el hecho de que mañana no sea feriado en Estados Unidos podría generar consecuencias adicionales para la economía argentina.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Fue un esquema Ponzi clásico: si participas, accedes a esto.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Milei lo presentó como un proyecto serio para financiar a las pymes argentinas, algo que, imagino, no les hará mucha gracia a las pymes que resultaron afectadas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me impresionó mucho, y contrasta con la entrevista de Milei en TN, donde no se le preguntó sobre la denuncia ante el FBI, ni ante la SEC, ni sobre el impacto de este escándalo en las negociaciones con el FMI, ni en el financiamiento de Argentina, ni en la cotización de sus valores.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No creo que fuera una manipulación pura y simple, ya que Milei lleva más de cinco años relacionado con Novelli.  Hay amistad, sin duda.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta foto muestra a Mauricio Novelli con Agustín Lage, presidente de la Fundación Faro, un hombre con mucho acceso a Milei, al punto de que Milei le encargó la cabeza de una fundación para recaudar fondos para la campaña electoral.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 3052
+}

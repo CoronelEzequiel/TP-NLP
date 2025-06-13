@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.138,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Si unimos ese recorte salvaje en ciencia con el recorte universitario —hace un rato, Ari Ljoed hacía una nota al respecto—, vemos cómo se define el futuro de un país: en la calidad de sus recursos humanos, en los conocimientos de la población y en lo que somos capaces de generar y crear en materia de ciencia y tecnología.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Ese gobierno al que llamaron \"populista\", el de Cristina Fernández de Kirchner fundamentalmente, les dio computadoras a los chicos.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Repatrió a mil científicos. ¿Por qué usamos la palabra \"repatrió\"? Porque los habían echado Domingo Cavallo y Martín Lousteau; se habían ido cuando Cavallo les dijo \"váyanse a lavar los platos\", y habían ido a otros países a aplicar los conocimientos adquiridos en las universidades locales.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para evitar estos desfiles de presidentes y vicepresidentes con ametralladoras, creo que Bertrand Russell decía que el fascismo seduce primero a los tontos y luego se consolida amordazando a los inteligentes.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1682
+}

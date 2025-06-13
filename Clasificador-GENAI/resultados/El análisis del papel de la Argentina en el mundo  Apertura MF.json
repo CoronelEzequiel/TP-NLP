@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.36,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Evidentemente, el presidente de los Estados Unidos está recibiendo a un presidente argentino que está en su último año de mandato, con posibilidades muy altas de que la oposición sea quien gobierne a fin de este año.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estábamos en el centro del mundo, todo el mundo estaba acá apoyándonos, acababa de irse el G20 dándonos una centralidad única.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y ayer Juan Domingo Biden llamó a la sindicalización como una forma de promover los derechos sociales en los Estados Unidos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hagamos lo que hablamos durante estos años en los que yo estaba aquí en el Senado, aquí en el Congreso. Démosle a Medicare el poder de ahorrar cientos de miles de millones de dólares negociando precios más bajos para los medicamentos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Es hora de que las empresas de los Estados Unidos y el 1% de los más ricos empiecen a pagar lo que les corresponde.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4102
+}

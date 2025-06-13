@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.675,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Es la crisis más importante que enfrenta hasta ahora Alberto Fernández, porque se cruzan muchos problemas, muchas fisuras que tiene este oficialismo, en el drama entre Martín Guzmán y Federico Basualdo, por sintetizarlo entre el ministro de Economía y el subsecretario de Política Eléctrica de la Secretaría de Energía, un subordinado suyo, al que quisieron desplazar y no pudieron.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Somos una coalición diversa donde intervienen distintos actores, donde, como diría el ministro Guzmán, se sintetizan distintos conceptos? ¿O esto es kirchnerismo enmascarado con otros elementos, pero un grupo donde el centro de gravedad, la única voz, la única disposición de una estrategia está en la calle Uruguay y Juncal de la Recoleta, donde ahora está reunida con su equipo íntimo, Cristina Fernández de Kirchner?",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este kirchnerismo, de esta nueva etapa, es una especie de pez fuera del agua, ¿por qué? Porque es un populismo que tiene que hacer algo tan raro como un programa de —subrayo esta palabra— austeridad, es decir, es un populismo que debe incorporar un concepto muy desagradable para los populismos, o para los gobiernos con impulsos demagógicos, que es el de la restricción presupuestaria, de que todo no se puede, dicho en los términos del ex senador platense Juan de Amadeo Mondarain, es un distribucionismo sin plata.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández termina el fin de semana de la peor manera, no pudo echar a un subsecretario.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8932
+}

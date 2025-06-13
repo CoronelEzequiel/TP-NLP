@@ -1,0 +1,46 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.529,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "¿Por qué llama tanto la atención? Porque la Argentina parece haber ingresado, al ingresar al año electoral, no a una competencia. La política argentina entró en una guerra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando un político, cuando disputa el poder, está disputando a su vez su libertad personal o la posibilidad de caer bajo una sanción penal o evadirse de ella, la guerra o la competencia se vuelve guerra.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "En esta situación está buena parte del peronismo opositor identificado con Cristina Fernández de Kirchner. Pero en la misma situación parece estar también Cambiemos o el presidente y su grupo, con independencia de las causas judiciales que tengan abiertas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hugo Moyano a sus amigos les dice: 'Yo ya pedí el ministerio que quiero ocupar si volvemos al poder'. Es el ministerio de la venganza. Quiere decir que también desde ese sector se promete un destino lamentable para aquellos que perderían el poder.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Macri tiene una vulnerabilidad evidente y es la vulnerabilidad a la cual apuntan sus adversarios, es la economía, son los números.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema de Cristina centralmente es la corrupción que afecta muchísimo, moviliza muchísimo el voto urbano de los grandes centros urbanos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La polarización ha introducido en la Argentina y en otros países una dinámica impensada en otro momento. ¿Cuál era el interés de un candidato tradicionalmente en la política? Ir al centro.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5569
+}

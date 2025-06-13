@@ -1,0 +1,121 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.873,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Rechazamos rotundamente las declaraciones irrespetuosas que se hicieron hoy sobre México y Brasil.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Nadie en nuestro equipo es comunista (eso son ideas de Cristina Fernández de Kirchner y sus allegados).",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Nadie está a favor de Venezuela (eso son ideas de Cristina Fernández de Kirchner y sus allegados).",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Quiero dejar algo muy en claro: Nadie en nuestro equipo es comunista (eso son ideas de Cristina Fernández de Kirchner y sus allegados).",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Habló de \"revolución agraria\", lo cual implica expropiar tierras a los campesinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La gente del campo debe abrir los ojos; esto es un peligro.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Me da mucha vergüenza que este gobierno nos represente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estos no son pequeños detalles; son muestra de una falta de respeto enorme.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Una diputada, una sinvergüenza, dijo que ellos debían ganar como sea.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "¡Es una locura! Ya hemos vacunado a 8 millones de menores.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Son unas bestias! Están destrozando el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto ya no es una cuestión ideológica; es una cuestión de la destrucción de Argentina.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La mediocridad y la ineptitud reinan.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno de Alberto Fernández nos ha hecho sufrir mucho.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ahora, Alberto Fernández se cree dueño del INADI y del Código Penal.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Estamos cansados de su intolerancia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Son misóginos, xenófobos, nazis.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Dejémoslos dos años más para que se cocinen en su propia salsa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¡Un gobierno de bestias!",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Este gobierno solo se preocupa por su propio beneficio, no por el país.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "85 mil muertos tenemos y estos sinvergüenzas dicen que la vacuna no era necesaria.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero lo de los campos… eso sí me preocupa.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2602
+}

@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis_elecciones",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.54,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Argentina demostró nuevamente rasgos muy conservadores y poco anacrónicos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "el discurso de Sergio Massa es un conjunto de lugares comunes que hemos escuchado hasta el hartazgo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "ha votado a candidatos que tienen visiblemente rasgos autocráticos -así lo dijo Milei y Massa-",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Creo que Milei es un voto demasiado enojado y que el enojo no es buen método.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "el próximo 19 de noviembre no habrá balotaje, lo que habrá será un referéndum porque a diferencia de otros comicios en los que compitieron candidatos peronistas, radicales, macristas, en lo que viene competirá un representante del sistema de partidos tradicionales con un líder antisistema.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4393
+}

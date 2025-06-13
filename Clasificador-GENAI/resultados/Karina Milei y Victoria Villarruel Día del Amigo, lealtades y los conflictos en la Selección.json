@@ -1,0 +1,36 @@
+{
+  "texto_id": "Modo Fontevecchia",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Primero, bueno, el estilo Milei, que cada vez se profundiza más. ¿Qué decimos del estilo Milei? El enfrentamiento, la confrontación, como modo de relacionarse, bueno, casi en la vida, de Javier Milei.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero el dato político que más impactó en las últimas horas fue la decisión de Karina Milei, la hermana de Milei, la Secretaria General y Técnica de la Presidencia, Secretaria General de la Presidencia, pero además la otra persona fuerte, casi como el presidente bis que tiene la Argentina, que es Karina Milei, ir personalmente hacia la Embajada de Francia y pedir disculpas.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Allí hay un choque ideológico importante dentro de estos dos representantes de la derecha en la Argentina. Aquí aparecen las diferencias aquí. Cuando se habla de colonialismo, de patriotismo. Y cómo hay que pararse frente a algunas cuestiones.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece fantástico que lo hayan echado. El presidente es un tipo que estaba rodillando feo. Se lo veía como estaba a punto de sobarle la quena a alguien. Yo no quiero un funcionario en el gobierno que vaya a chuparle nada a ninguna potencia extranjera.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer, Javier Milei, respecto de la salida de Garro, respecto de la salida de, vos lo mencionabas, Karagosian y Despotorno, del consejo de asesores, hablaba de traición. Bueno, parece que en algún sentido y también después de la multiplicación de posteos de algunos referentes o militantes de La Libertad Avanza, como por ejemplo, el Gordo D'án, que suele después repostear el propio presidente, se producen salidas de funcionarios por pensar distinto. Javier Milei lo define como traición.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5333
+}

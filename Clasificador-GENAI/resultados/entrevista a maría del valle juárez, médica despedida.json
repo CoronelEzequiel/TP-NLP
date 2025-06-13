@@ -1,0 +1,41 @@
+{
+  "texto_id": "Juárez",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.125,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Esas enfermedades siguen existiendo, tienen vacunas preventivas, pero las acciones y el mensaje que se están transmitiendo están afectando gravemente al programa de vacunación.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Se despidió a personal clave, de forma quirúrgica.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Claramente, se prioriza una eficiencia diferente a la nuestra.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La compra por parte de una sola entidad (el país) permite mejores negociaciones que las compras individuales de cada jurisdicción.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Dejar de comprar vacunas implica mayor demanda de camas, respiradores, antibióticos, antivirales… Es más caro en términos de atención.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Aislarnos de esto nos impide acceder a las mejores estrategias sanitarias.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2219
+}

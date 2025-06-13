@@ -1,0 +1,36 @@
+{
+  "texto_id": "entradas_seleccion",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La entrada general para ver el partido de la Selección Argentina contra Panamá costará 12.000 pesos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me gusta ir a conciertos al exterior; cada vez que hay un evento que me interesa, compro la entrada por internet.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me dijeron que se busca evitar estafas, ya que es más fácil hackear o falsificar una entrada virtual que una física.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A los argentinos les gusta hacer fila, incluso cuando tienen una reserva.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La capacidad del estadio es de 83.000 personas, pero se pondrán a la venta alrededor de 60.000 a 65.000 entradas, ya que el resto se reserva para jugadores, dirigentes y patrocinadores.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1340
+}

@@ -1,0 +1,86 @@
+{
+  "texto_id": "Odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.377,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Bueno, el experimento Fernández, el experimento Alberto Fernández, podríamos decir el albertismo, aunque ahí estaríamos como identificando esto con una corriente, es algo parecido todavía a uno de estos seres mitológicos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ya sabemos que Fernández decidió lo que probablemente no tenía otra opción sino decidir, decidió lo inevitable, bueno, casi una fatalidad, que es que su relación principal, su alianza principal, es con Cristina Fernández de Kirchner.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Han tomado una decisión muy importante, muy predictiva, que es que cuando vaya un proyecto al Congreso lo que van a tratar de hacer es una gran negociación interna y consensuar.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuidado con Máximo Kirchner porque hay una permanente descalificación sistemática, me parece, de gente que no ha estado muy atenta a su comportamiento en el Congreso.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Alberto Fernández tomó una decisión muy importante que habla muy bien de la plasticidad de Fernández y de la forma en que está pensando su gabinete, su equipo.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, ahora Fernández dijo: \"No, prefiero algo posiblemente más transparente, menos condicionado, más ligado a la historia reciente del peronismo, reciente estoy hablando del 83 para acá, que es poner al frente del ministerio de Salud posiblemente a la persona central del PJ en materia de salud, que es Ginés González García, que va a ser el nuevo ministro de Salud\".",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, Alberto Fernández está pensando en modificar ese esquema, y todavía hay un debate que se cursa alrededor de él, que consiste en o liquidar la AFI o desarmarla, pero con un criterio central, prohibir cualquier relación de ahora en adelante entre los servicios de espionaje y la justicia federal.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Lo que importa de lo que publicó Paz Rodríguez Merlino es si, bajo la dependencia del procurador del Tesoro, es decir de Zannini, eventualmente, de Zannini, va a estar la UIF, es decir, la Unidad de Información Financiera, que tiene un poder extraordinario y que ha sido conducida con mucha neutralidad y con mucha seriedad en estos últimos 4 años por Mariano Federici, bueno, es la oficina que se dedica a investigar el lavado de la UIF.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y Eduardo Valdés, que se está transformando en un hombre clave en el entorno de Alberto Fernández, va a ser probablemente un socio, un aliado, un colaborador muy determinante de Máximo Kirchner en la Cámara de Diputados para armar las mayorías que necesita armar el próximo nuevo gobierno.",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bueno, Argüello es un hombre que viene de las filas del PJ Capital.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Todas tienen que ver con algo a lo que parece que Fernández es muy sensible en este momento que es evitar el reproche ético por dos motivos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pareciera ahora que Nielsen está rezagado en la carrera por el Ministerio, lo que hoy sería el Ministerio de Hacienda y Finanzas.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y esa decisión política es: \"No nos vamos a\", comillas, \"contaminar con los números del gobierno de Macri\", porque nosotros vamos a mostrar nuestros propios números.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esta trampa que la han hecho muchos economistas a lo largo de la historia podría estar detrás de este aislamiento, de esta falta de conexión que dice: \"Prefiero ni escuchar lo que me dicen que dejan\".",
+      "score": 0.35,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por eso, una incógnita importantísima es quién va a ser el embajador en Brasil en un momento en que no solamente Fernández está peleado con Bolsonaro, sino que en Brasil hay un gobierno extraordinariamente liberal, inclusive para la historia de Brasil.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6649
+}

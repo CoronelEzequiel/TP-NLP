@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.819,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Hace ocho años se inauguró este hermoso centro con el nombre de un corrupto.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Basta de culto al personalismo, culto al personalismo.",
+      "score": 0.78,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Las cosas lindas e importantes de un país no pueden, no deben llevar el nombre de corruptos.",
+      "score": 0.82,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Néstor Kirchner fue un gran corrupto.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Basta de manguear, basta de llorar, basta de pedir, basta de rogar, basta de mendigar.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El kirchnerismo nos metió en la cabeza que el Estado te tiene que mantener absolutamente todo.",
+      "score": 0.88,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Me parece que una manera de empezar a saldar esta deuda tan profunda es con los corruptos afuera.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 6359
+}

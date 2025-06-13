@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.48,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La intención de conseguir apoyo político, no tanto para un acuerdo con el Fondo Monetario Internacional (FMI), sino para poder prescindir de un acuerdo con el Fondo hasta después de las elecciones, y poder de alguna manera enmascarar lo que sería una sensación de pagos, un *default*, con el Club de París durante este mes de mayo.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En el caso de países deudores como la Argentina y en el caso específico de la Argentina, donde el Fondo le prestó a Macri especialmente para jugar en la elección argentina y evitar el triunfo del Frente de Todos o favorecer la reelección de Macri, el Fondo debería tener en cuenta ese error y ese privilegio con una disminución de la tasa y además con un plazo para reestructurar la deuda, dice Moreau, de por lo menos 20 años.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué, dice Moreau, la Argentina, y ya había una chicana también muy clásica en el lenguaje oficialista, tuvo dos pandemias, no una, una la del coronavirus y la otra la de Macri?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hay política más retrógrada, más conservadora, más reaccionaria que subsidiar a los ricos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esta bandera, digamos burguesa, vamos a decirlo de otra manera, de derecha la levantan Pérsico y Grabois, tal vez molestos porque ese reparto de comida se hace a través de una tarjeta sin intermediación de las organizaciones sociales a las que ellos pertenecen y en las que ellos militan.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8850
+}

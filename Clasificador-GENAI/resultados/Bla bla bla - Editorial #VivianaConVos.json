@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy el presidente habló y fue puro bla bla bla y yo, y supongo que vos, estamos hartos del bla bla bla.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández es un impostor, un impostor.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si podemos hablar de los pibes de una agrupación kirchnerista que violaron a una piba de 20 años.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un gobierno que habla de justicia social, pero hoy lo leía el DITI. Y el DITI hablaba de todo esto, de la joyería que tiene la presidenta encima.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Dale, boludo, dale boludo, pediste un minuto de silencio.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y no le paguemos más a esos ministerios de la mujer que no nos representa, no dijeron nada sobre esta chica violada, que ¿por qué? A mí es que me importa, pero si uno de los míos hace una cagada, voy a ser la primera que lo denuncia, porque eso es ser gente de bien.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5440
+}

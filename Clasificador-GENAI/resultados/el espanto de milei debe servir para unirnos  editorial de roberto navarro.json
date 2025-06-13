@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.171,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "No importa que se desfinancien las universidades, que se vacíen los hospitales, no importa que se reduzcan los ingresos de los jubilados, ni que la ley perjudique a toda la sociedad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Que tenga un sesgo autoritario, algo que no veíamos desde la dictadura, pero que no es menos preocupante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La gente soporta cualquier cosa con tal de que baje la inflación.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Además, es evidente que 'Mi Ley' miente al comparar la inflación actual con una hiperinflación que nunca existió o con el 25% que – supuestamente – alcanzó en el pasado.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Beneficia a los más ricos, pero su forma de hacer política ha calado en una buena parte de los más pobres.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras caen las ventas de lácteos y carne, aumentan las ventas de artículos importados y televisores de gran tamaño. Y esa desigualdad es aceptada, naturalizada, como en una sociedad de castas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "¿Por qué prefieren más balas rosadas? No lo entiendo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2316
+}

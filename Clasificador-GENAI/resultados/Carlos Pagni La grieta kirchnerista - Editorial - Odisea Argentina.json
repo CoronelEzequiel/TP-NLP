@@ -1,0 +1,36 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La fórmula de Alberto Fernández y Cristina Fernández de Kirchner, no solo su composición, sino su rodaje, la forma en que esa fórmula, en que esa propuesta se va desplegando y se va expresando, tiene una cantidad de peculiaridades que llama mucho la atención respecto de cuál va a ser el éxito o el fracaso de lo que quisieron hacer.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner obtiene una gran lealtad de aquellos que la quieren, que la siguen, que ven en ella una forma de encarnación de lo que sería la Argentina, pero necesita romper ese techo para llegar al poder nuevamente, capturando otras adhesiones.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Alberto Fernández puede estar representando en este momento lo que representaba Daniel Scioli en el año 2015, el emergente, el instrumento, el vehículo de un peronismo, sobre todo de las provincias, que no se siente liderado conceptualmente por Cristina Fernández de Kirchner.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que si me imagino es que puede encabezar una disidencia, como la encabezó Chacho Álvarez en el gobierno de De la Rúa, lo puede vaciar a Fernández.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Estamos en un ciclo histórico donde el peronismo está en crisis.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5055
+}

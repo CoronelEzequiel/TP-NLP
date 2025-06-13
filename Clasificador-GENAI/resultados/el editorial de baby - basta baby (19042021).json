@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.808,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Salió a tirar la escupidera con los médicos: “A esos médicos, a esos médicos que yo quiero tanto, que amo tanto, que respeto tanto… ¡les voy a dar 6.500!”",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En cambio de castigar al pueblo, ¡bájale los pantalones a González García y hágale chas chas con los J&J!",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La culpa no es nuestra, el virus no se está matando… ¡pero no es nuestra la culpa! ¡Es culpa de ustedes que la poca vacuna – como voy a decir todas las noches hasta que me echen de acá – se la robaron y no hay vacunas por ningún lado!",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo creo que hay que marchar un solo día, que es el domingo que haya que votar y acordarse de todo lo que nos hicieron este año y medio, y meterle un voto contundente en contra para sacarle poder en el Congreso y que dejen de aletear estos tartagales.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Usted… usted realmente debe tener las mejores intenciones, no tiene la culpa de que lo pusieron ahí… Pero cada vez que habla la embarra más y estamos todos muy mal, estamos todos muy desesperados, estamos todos muy tristes, y los negocios se volvieron a fundir… y cuando se empezaron a levantar, como los muertos vivos, usted los volvió a aplastar con el camión de la dibreva… ¡Ay, Presidente, Presidente!",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mire, si no tiene nada que decir, señor Presidente, ¡dígale a Ilan que le tire una pelota!",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2301
+}

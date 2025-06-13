@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.806,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La violencia física es un límite que no debe cruzarse, y los argentinos tenemos una larga memoria al respecto.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El diputado nacional Carlos Alberto Vivero, debe ser expulsado de la Cámara.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La violencia física ejercida por Vivero contra Fernando Iglesias en el pasillo del Congreso es mucho más grave que el beso en el pecho que el diputado Juan Ameri le dio a su novia en plena sesión por Zoom.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Es la glorificación de la violencia.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En democracia, lo único que sirve son los argumentos y el diálogo.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si Alberto Fernández y Cristina Fernández de Kirchner tienen como modelos de líderes a Gildo Insfrán, Hugo Moyano y Nicolás Maduro, estaremos en problemas, porque estos personajes son lo contrario al tipo de dirigentes que necesitamos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Hay que ser muy drástico en la sanción para frenar en seco la prepotencia de los que pretenden arreglar todo a las patadas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Carlos Alberto Vivero no es un militante cualquiera, es el jefe de la agrupación Kolina de Neuquén y depende de Alicia Kirchner, gobernadora de Santa Cruz y ex funcionaria de la dictadura de Videla.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A medida que se van consolidando los fracasos económicos y sanitarios del gobierno de los Fernández, algunos de sus militantes y dirigentes se desesperan y se van poniendo más irracionales y agresivos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2385
+}

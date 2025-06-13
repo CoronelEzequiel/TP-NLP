@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.657,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Gastón Kabanak mencionó, al inicio del programa, la utilización de unidades básicas del partido gobernante (La Cámpora) y de partidos aliados, incluso en municipios opositores, para la inscripción y la información sobre la vacunación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Mientras hospitales y centros de salud con personal capacitado ofrecen sus instalaciones,  se opta por la apertura de escuelas con personal contratado, generando incertidumbre sobre la eficacia y la logística del plan.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "A todo esto se añaden los problemas estructurales crónicos de Argentina: la falta de un plan claro para controlar la inflación, la pérdida de 240.000 puestos de trabajo formales, los ataques al sector privado (como Mercado Libre, criticado por Juan Grabois), la inestabilidad en las exportaciones del sector agropecuario y la incertidumbre sobre el tipo de cambio, agravada por el cepo cambiario y las escasas reservas del Banco Central.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La situación se complica con la aparición de irregularidades en el proceso de vacunación, con políticos que se han salteado la fila, al igual que sucede en otros países (como España).",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En contraste con otros países, la gestión de la vacunación en Argentina está marcada por la improvisación y la falta de planificación.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La incertidumbre se extiende a los servicios públicos (tarifas, transporte público, Aerolíneas Argentinas, YPF) y a la tensión entre el presidente y la vicepresidenta, lo que dificulta la generación de propuestas políticas alternativas.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La visita de Pitragala a Formosa, y la orden impartida por Alberto Fernández y Cristina Fernández de Kirchner, revelan una falta de claridad en la cadena de mando, generando mayor ruido y confusión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1687
+}

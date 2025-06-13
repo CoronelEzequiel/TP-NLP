@@ -1,0 +1,41 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.742,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Argentina, nuestra querida y amada Argentina, es una tragedia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Qué bueno es saber que todavía quedan personas como este bombero, no como quienes nos gobiernan, que son en este país una verdadera tragedia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno decidió quitarle el control de los 180.000 planes sociales a las organizaciones y traspasarlos a gobernadores e intendentes. Claro, ellos ahora necesitan recuperar el voto de los pobres, esos pobres que ellos tienen como rehenes.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina es una tragedia y Alberto es una tragedia. Argentina, por ellos, es una tragedia.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Déjense de boludear con el lenguaje inclusivo porque no tienen la menor idea de nada la mayoría de los chicos.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estos tipos se robaron tus vacunas. Estos tipos hicieron un vacunatorio VIP, un Olivos Gate y andá a saber todas las cosas que hicieron que no nos enteramos. No les importaron nuestros muertos. Prefirieron la ideología a la salud. Son una tragedia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7798
+}

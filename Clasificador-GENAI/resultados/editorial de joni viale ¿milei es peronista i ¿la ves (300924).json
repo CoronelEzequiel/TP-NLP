@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.708,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Para los jubilados no hay plata, pero para poner dos micros y que salgan, se ve que sobra.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Milei no ganó el año pasado con el apoyo de la clase media antiperonista de Capital Federal.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entonces, la búsqueda central de la construcción política de La Libertad Avanza no es ser un partido de clase media urbana como el PRO, como la UCR, como la Coalición Cívica, sino un nuevo movimiento popular.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Cristina tiene que ir presa no porque lo pidan los militantes de La Libertad Avanza, sino porque está condenada por ladrona de la nación argentina.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Yo no promovería la relación con comunistas. Ni con Cuba, ni con Venezuela, ni con Corea del Norte, ni con Nicaragua, ni con China.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El liberalismo económico conforma un poquito peronistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3349
+}

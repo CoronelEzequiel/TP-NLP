@@ -1,0 +1,81 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.557,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Ahora, sí, recién lo estoy viendo con perspectiva.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quiero agradecer a mi compañera, Mando, y a mi hija, que me ayudaron mucho.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Gracias a Dios, unos violetas de la Policía Federal nos ayudaron a comprobar la verdad.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Ahora vamos a llamar a esa hija de puta, y tendré que compartir la información de mi hija, quien está siendo investigada por la policía.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ahora todo está bien.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Me contaron algo terrible sobre la vida de mi vecina, allí la gente te manipula, te explota.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando uno se niega, lo presionan; no quieren que nosotros nos beneficiemos mientras ellos desorganizan a la gente del campo, diciéndoles que no toquen nada, mientras en la ciudad toman lo que quieren, para ganar votos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto me recuerda a los \"rosarios\", el \"tariza rosario\".",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los jóvenes iban a renovar la política, hasta que llegó la idea de [Nombre del político], con sus vicios, con la delincuencia.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Dicen tener un gobierno científico, pero solo dicen mentiras.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Me arruinaron la vida.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si tiene que ser comunista, que sea comunista, pero ladrones no.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si no se la tienen, se acabó la época de la violencia de la paz.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Si van a criticar, que lo hagan sin venganza.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2840
+}

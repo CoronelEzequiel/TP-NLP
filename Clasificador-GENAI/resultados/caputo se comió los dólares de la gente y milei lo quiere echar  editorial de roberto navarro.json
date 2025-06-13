@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.28,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Resulta increíble que un gobierno lleve quince meses vendiendo los dólares de los depositantes.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Massa buscaba fortalecer las reservas, mientras que Caputo parece facilitar que sus amigos obtengan dólares a bajo precio.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No hace falta especular sobre la honestidad de Caputo; sus acciones demuestran su falta de transparencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Si bien el peronismo tiene un historial de cumplimiento de sus deudas, el temor a un retorno del \"populismo\" impulsa la fuga de capitales.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La crisis internacional, agravada por las políticas de **Donald Trump**,  impacta negativamente en una economía ya vulnerable como la Argentina.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2301
+}

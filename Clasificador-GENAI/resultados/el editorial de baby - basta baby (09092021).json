@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.75,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy habló Cristina, ¿viste?",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Usted dice que Macri es dueño de La Nación, usted es dueña de C5N, usted es dueña de... de todos los medios.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Por eso, y después dijo algo que no me gustó, dijo a los periodistas que dicen \"digo lo que quiero\".",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hay que limpiar la Argentina y hay que poner gente que nos administre, que sirva y que nos saque hasta la orilla.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Vayan a votar, fiscalicen, cuiden su voto, porque ahora sí armamos una república, tenemos en esta la última que nos queda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Voten para que las fábricas vuelvan a echar humo de las chimeneas, para que la Argentina abra los portones oxidados al mundo y tengamos un país como la gente que lo merecemos, porque en un país que puede darle de comer a 400 millones de personas, no entendemos que haya 20 millones de argentinos que revuelven la basura de la miseria.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2664
+}

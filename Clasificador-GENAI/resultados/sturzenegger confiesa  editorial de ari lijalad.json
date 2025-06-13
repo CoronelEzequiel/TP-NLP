@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.1,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Este DNU implica una desregulación económica y la eliminación de leyes que protegen a los consumidores en materia de alimentos, salud, alquileres y financiamiento con tarjetas de crédito, así como la eliminación de derechos laborales.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La falta de transparencia en la redacción del DNU es alarmante.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sturzenegger, en una charla en la Universidad de Miami, confesó haber redactado el DNU y la \"ley de bases\" (a la que él mismo nombró), lo que representa una grave irregularidad.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sturzenegger explicó que el objetivo del DNU era generar un \"shock de libertad\", modificando incluso aspectos del Código Civil y Comercial.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En resumen, la violación de la Ley de Procedimiento Administrativo, la falta de transparencia en la autoría y la confesión de Sturzenegger de su participación en la redacción hacen que el DNU sea nulo.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El Congreso debe rechazarlo, y el Poder Judicial debe actuar en consecuencia.",
+      "score": 0.0,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La reiterada aparición de Sturzenegger en momentos cruciales de crisis económicas argentinas (2001, gobierno de Macri y el presente) exige una revisión de su rol en la política económica del país.",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1523
+}

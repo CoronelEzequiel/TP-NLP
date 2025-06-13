@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.78,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Usted no es John Lennon, Alberto. Toca la guitarra como el culo y canta peor.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no es ni una arquitecta egipcia ni Golda Meir, es una mujer que no mide el daño, solo le importa ella.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina tiene que arrancar por devolvernos la plata y después empezar a criticar a los demás, pero primero una autocrítica, ya que estamos hablando de terapia.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Para terminar la inflación no hay que perseguir al que tiene, hay que poner a laburar a los atorrantes que usted quería en Almacicos en Plaza de Mayo.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Por eso están desahuciados, terriblemente desahuciados, están terminados.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3413
+}

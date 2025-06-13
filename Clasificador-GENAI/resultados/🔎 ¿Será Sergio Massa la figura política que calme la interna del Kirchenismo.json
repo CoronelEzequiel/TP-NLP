@@ -1,0 +1,36 @@
+{
+  "texto_id": "interregno",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.6,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Interregno porque también tiene que ver con la economía, con las noticias de ayer sobre un nuevo dólar para el campo durante un periodo corto de tiempo, y con el regreso de la ministra Silvina Batakis de las reuniones con el Fondo Monetario Internacional.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Quizás sea excesivo plantear una lucha de paradigmas y una lucha respecto a qué es lo que hay que hacer con el gobierno dentro del Frente de Todos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Eso no parece indicar, por parte del Frente de Todos, un giro hacia la izquierda en ninguno de los casos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"No saben lo que es la propiedad privada\", dice el líder entrerriano.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es un acuerdo posible dentro de las restricciones que esto tiene. O sea, creo que primero es un stock de deuda muy elevado, segundo supera la cuota admisible por el fondo, el 1277%, obviamente no implica la restricción desde el punto de vista de la salida de capitales que genera un condicionamiento desde el punto de vista de su cancelación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 3869
+}

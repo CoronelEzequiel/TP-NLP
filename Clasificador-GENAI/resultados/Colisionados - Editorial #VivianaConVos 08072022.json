@@ -1,0 +1,51 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.862,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Por ejemplo, en este país, la libertad colisiona con el kirchnerismo.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina Fernández de Kirchner colisiona con la justicia.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El presidente Alberto Fernández colisiona con la verdad, con el mérito y con la dignidad.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Los gerentes del \"pobrismo\" colisionan con el aguro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno colisionó con el éxito.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A Cristina solo le importa la justicia para ella, la impunidad.",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Mirá toda la gente que va a esos actos, no laburan, viven de la nuestra, del rebaño de pelotudos.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Estamos \"meados\" y es culpa nuestra por elegirlos una y otra vez.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 8693
+}

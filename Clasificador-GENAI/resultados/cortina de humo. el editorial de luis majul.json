@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.778,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Sí, una *fake news*.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Cristina no nos perdona que hayamos publicado *El Dueño*, uno de los primeros libros que desenmascaró la corrupción K, no el único.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Esto lo vamos a solucionar con más información y mejor información.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero no se justifica si se piensa que la mejor manera de ir más allá del fracaso es quemar la casa donde vive la sociedad y la política.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como estamos hartos, por supuesto, de las medidas de este gobierno populista que tanto daño le provocan al sector productivo.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "De que la inflación nos carcome el salario a todos, absolutamente a todos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "No quieren que les contemos de por qué la canasta básica de alimentos en el Gran Buenos Aires, de nuevo, donde tiene su clientela, en los primeros tres meses de este año, subió el 21%, cuatro veces más que en los primeros tres meses del segundo semestre de 2021.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero esto es la culpa de los que están en Balcarce 50 o en el edificio de la Patria.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Y de todo esto estamos cansados, como estamos hartos, los que laburamos todos los santos días de la semana, de las marchas de protesta, por un lado, y de los planes sociales como respuesta demagógica por el otro.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5259
+}

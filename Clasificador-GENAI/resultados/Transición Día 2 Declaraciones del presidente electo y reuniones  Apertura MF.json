@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.55,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Mientras ayer, Javier Milei planteó que privatizará YPF, Aerolíneas Argentinas y los ferrocarriles. En duda, el cobro de los aguinaldos y habló sobre la detención total de toda la obra pública.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Del otro lado, hay un protocolo intachable y una actitud colaborativa que encarrila el proceso con menos dificultades de las que podrían haberse esperado.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El capital político de Milei es que dijo exactamente lo que iba a hacer. Estamos ante un fenómeno nuevo porque hasta el domingo pasado pensábamos que nadie gana prometiendo ajustes y, como dijo Milei, \"se quemaron todos los manuales de la política\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sin embargo, hay que decir que Milei siempre planteó que el ajuste lo iba a pagar la casta política y no la gente. Y eso no parece ser lo que va a suceder porque, evidentemente, no gasta el 15% de déficit que quiere ahorrar el nuevo presidente, como para que el costo del ajuste lo pague la casta política; lo va a pagar la gente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por un lado se manifestaron dispuestos a acompañar el rumbo económico del nuevo gobierno y, por el otro, plantearon la necesidad de una compensación por los problemas que, según ellos, generó la eliminación del impuesto a las ganancias de la cuarta categoría que era coparticipable.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "\"Necesitamos un gobierno nacional que no se nos caiga en la cabeza\".",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se ofrecen dar gobernabilidad y visibilidad al nuevo gobierno a cambio de cierto respeto a los grados de coparticipación que no hagan inviables sus provincias.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Javier Milei sobre los créditos UVA: \"El gobierno puso una pistola en la cabeza para quienes lo tomaron.\"",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lo que pueda estar en manos del sector privado, va a estar en las manos del sector privado.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Todos saben que un presupuesto nacional no se puede sostener con 15 puntos de inversión dedicada a infraestructura, en el mundo esto lo hacen los privados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4310
+}

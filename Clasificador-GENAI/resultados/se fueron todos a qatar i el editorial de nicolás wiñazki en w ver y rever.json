@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.583,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La situación es polémica: ¿puede frenarse el Senado por el viaje de una persona a un mundial?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "También abordaremos la historia de la venta de un terreno en Tierra del Fuego, perteneciente a Cristóbal López, a la provincia por 10 millones de dólares, un precio muy superior a su valor real.",
+      "score": 0.65,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "El gabinete parece consciente de que el Mundial frena la atención sobre los problemas económicos, pero la realidad, como el dólar y la inflación, continúa su curso.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Este doble discurso genera irritación, especialmente considerando la baja de las reservas del Banco Central.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Su presencia en el Mundial, considerando la situación económica del país y la pobreza de gran parte de la población, resulta cuestionable.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Se cuestiona si los funcionarios que viajaron obtuvieron legalmente esa suma, ya que deben regirse por la ética pública.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1581
+}

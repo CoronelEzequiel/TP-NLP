@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.32,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me parece que el gobierno está eligiendo mal al enemigo.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Hoy, si no hubiesen estado los senadores, los dos senadores del PRO que bajaron, difícilmente se hubiese conseguido el quórum en el oficialismo.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Nosotros ahora tenemos una sola misión, que es destruir a Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entonces, ¿qué hubiera pasado si Alfonsín decía: \"Hay que destruir a Menem\"?",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Me parece que hay gente sobregirada.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno tiene una concepción extraña del tema de negociar, siente que negociar es como ser débil, ¿no?",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Argentina no es Suecia, no es Bélgica, por lo tanto, hay momentos donde no te queda otra que sentarte a negociar con esta gente, con los pichetos de la vida, que es todo horrible, ya lo sé.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Paren un poco, bajen un cambio, porque a este ritmo se van a quedar solos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno y el pueblo de los radicales deberían estar trabajando juntos para cambiar esta porquería.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "La misión del gobierno es: uno, bajar la inflación.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 4378
+}

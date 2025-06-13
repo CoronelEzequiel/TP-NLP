@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Si Argentina quisiera pagar su próximo vencimiento, no podría.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El cierre drástico de un proceso de revisión, dicen, como esta comisión que se abrió y cerró en cuatro días, es inquietante.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Entre las consecuencias del desopilante tour de force por las autocracias más poderosas del mundo, hubo un eco no deseado en la reacción de sectores más duros de Washington, que ahora no verían con buenos ojos ayudar a Argentina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Dónde queda Argentina en el mapa, en medio de esta puja de sistemas que representan cabalmente Estados Unidos y China?",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Pero el actual gobierno se muestra aliado de las autocracias y, como se ha visto, elige actuar como un renegado de Occidente.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Como bien sabemos, en los diarios no hablaron de ti, en los diarios no hablaron de ti ni de mí, pero sí de las medidas que se suceden para restringir el acceso a los dólares, que ya no hay, en una sequía que paralizará aún más una economía plagada de cepos.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Como advirtió Claudio Loser, ex encargado de negocios para la hemisferia occidental del FMI, no acordar es autocondenarse a vivir en una economía de guerra, ser un paria de verdad, las penurias de lo que se llama directamente vivir al día.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2001
+}

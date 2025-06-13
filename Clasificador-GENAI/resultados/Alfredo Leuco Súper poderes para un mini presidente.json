@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.894,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "La expresidenta Cristina Fernández de Kirchner convirtió a nuestro país en el reino del revés.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto Fernández demostró que no tiene autoridad ni para echar de su cargo a un subsecretario de tercer nivel y, sin embargo, quiere que el Congreso le delegue facultades extraordinarias.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Ese es la batalla que debe dar Fernández: recuperar el sillón de Rivadavia y la investidura presidencial que le expropió Cristina.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Habría que sincerar esa relación de amo y esclavo que mantienen Cristina y Alberto y dejar de hacerles perder tiempo, trabajo y vidas a todos los argentinos.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El proyecto de ley es un nuevo atropello anticonstitucional y evidencia que este cuarto gobierno kirchnerista está confundido por tantos fracasos y no puede ni siquiera fijar prioridades.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "En lugar de conseguir vacunas, de aplicar rápido las que tiene, de testear constantemente y de seguir aumentando la capacidad del sistema sanitario, están empecinados en atacar a Horacio Rodríguez Larreta con el tema de las clases presenciales en la primaria.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La ley que pretenden es absolutamente antifederal, porque reduce a los gobernadores casi a la categoría de peones del ajedrez nacional que manejan la expresidenta y sus alfiles.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Llenaron a este país de imprudencias, torpezas y corruptelas.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La verdad es que Argentina no es una mierda: la hicieron mierda los que lo gobernaron, y la mayoría de ese tiempo en el país y en la provincia de Buenos Aires gobernó la fuerza política que integra a Cafiero.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 2410
+}

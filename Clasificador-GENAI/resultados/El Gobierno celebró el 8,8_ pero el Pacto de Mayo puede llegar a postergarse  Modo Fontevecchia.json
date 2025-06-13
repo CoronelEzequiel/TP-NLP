@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.505,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Indudablemente, es una buena noticia para el gobierno, que venía prometiendo un ajuste fiscal y la reducción de la emisión monetaria, medidas con las que se esperaba generar una baja de la inflación.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Podríamos decir que, incluso, podría proyectarse para el mes de mayo una cifra de hasta el 5%.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Es lícito preguntarse si el ajuste fiscal es suficiente para un plan de estabilización.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Por ejemplo, economistas como Miguel Ángel Broda y Domingo Cavallo plantean que, cuando se llegue al 5%, se alcanzará una meseta muy difícil de perforar, porque la inflación no solo es una cuestión monetaria –y para solucionar este problema con recesión habría que tener una recesión monumental durante mucho tiempo–, sino que también tiene un efecto inercial y requiere otro tipo de medidas, muy lejanas a la filosofía libertaria, que tienen que ver con ciertos acuerdos y medidas heterodoxas entre los sectores económicos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Vamos a escuchar primero a Agustín Etchebarne, economista de la Fundación Libertad.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La razón por la cual los países vecinos tienen una baja inflación de un dígito por año es porque sus bancos centrales son independientes y priorizan darle a sus ciudadanos una moneda estable y confiable, y para eso producen exactamente lo que la gente demanda de su moneda.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El problema del tipo de cambio insostenible tiene que ver con esto que mencionábamos recién ayer, perdón, recién lo mencionábamos también ayer, de la enfermedad holandesa, de poder generar la suficiente cantidad de dólares de exportaciones para que no se genere un déficit comercial.",
+      "score": 0.45,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cuando finalmente los tres conceptos de los que hablamos al principio de la apertura, quienes analizan el caso de la estabilización económica más importante de los últimos años, resaltan sobre todo que hace falta consenso social.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Las reformas estructurales tarde o temprano las vamos a hacer.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Veremos cómo Argentina logra, por un lado, la baja de la inflación y, por otro lado, la suba de los consensos.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 5654
+}

@@ -1,0 +1,76 @@
+{
+  "texto_id": "texto_sin_titulo",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.754,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "El único secreto, ¿saben cuál es? Laburar. Si no sabes cuánto te cuesta lo que te compras, no lo vas a valorar nunca. Nunca.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Toda la tarde al pedo y nosotros bancándole la marchita.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Se preguntaron en el Día de la Mujer dónde está Marcela López, desaparecida en Río Gallegos, el 22 de mayo de 2021?",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Doble discurso, doble moral, doble vara para todo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Votando a los graduados por el Pelle, estás votando a la Franja Morada, estás votando al Consejo Superior, votando al Frente de los Graduados por la Democratización, estás votando el ser como una herramienta hacia la democratización.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, parece que en el kirchnerismo la obediencia debida está a la orden del día.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "O sea, que le estamos pagando el sueldo a la ministra Gómez Alcorta para que defienda a delincuentes como Miriam (o Myriam) Salá.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El gobierno, ya lo tengo, el gobierno me tiene absolutamente harta con el populismo de género.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "El lema podría ser: ¡Viva la vagancia!",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ansés tiene un programa de violencia de género para que la gente se entienda. ¿Qué es lo que fomenta el kirchnerismo? Es un programa de violencia de género para que la gente se entienda y se entienda.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y esto es lo que escuchan las feministas en una marcha. O sea, ¿ustedes entienden que dicen no a la violencia de género y están escuchando un tema que hace apología del delito?",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Más allá de la ironía y la acidez, les deseo un feliz día a todas ustedes, mujeres de trabajo, de lucha, que cuidan a sus familias, a los niños desde la concepción, que creen en la cultura del trabajo como yo, que nos hicimos todas muy de abajo, que laboramos y que tenemos valores.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Y entonces endeudaron al país como nunca nadie había endeudado a la Argentina.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4883
+}

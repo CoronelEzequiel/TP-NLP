@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.833,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "El que las hace las paga.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Este salvaje energúmeno llamado Gastón Mercanzini las hizo y las debe pagar.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Se trata de un militante hiperkirchnerista que canalizó su odio hacia Milei con el lanzamiento de ese objeto contundente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Debería ser un castigo ejemplificador de la nueva etapa.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Una sociedad civilizada tiene el derecho y el deber de vivir en paz y de confiar en la justicia y en las fuerzas policiales frente a cualquier situación delictiva.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Justicia, nación y ciudad, juntos contra los delincuentes que creen que siguen viviendo en el país de la impunidad.",
+      "score": 1.0,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1792
+}

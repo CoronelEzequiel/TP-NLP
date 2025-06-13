@@ -1,0 +1,56 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.178,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "El aumento de la pobreza, especialmente de la pobreza extrema (indigencia), es alarmante.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Entramos en 2024 con una devaluación previa y un fuerte shock inflacionario, sin un ajuste de ingresos correspondiente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto provocó una caída significativa de la clase media por debajo de la línea de pobreza: del 44% al 55% en promedio durante el trimestre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para que la pobreza baje del 50-55% al 38% inicial, se necesitaría una inflación más baja y que los salarios de los trabajadores asalariados se recuperen a través de las paritarias.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Argentina está muy fragmentada: hay salarios de 2 o 3 millones, pero también muchos por debajo de los 800.000 pesos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La sociedad argentina se está dividiendo en dos clases sociales, como en muchos otros países.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mirando el aspecto económico y social, la ruptura se dio durante la dictadura.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La desindustrialización y el fuerte endeudamiento contribuyeron a la crisis.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El 25% de la población argentina vive en hogares con inseguridad alimentaria, y un 12% experimenta hambre con frecuencia.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2497
+}

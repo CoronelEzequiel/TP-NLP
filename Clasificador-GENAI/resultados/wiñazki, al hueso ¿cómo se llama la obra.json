@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Cristina Fernández de Kirchner, durante su mandato, enfrentó numerosas acusaciones de corrupción.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se ataca a los investigadores judiciales y periodistas que investigan casos de corrupción, incluso a través de las redes sociales por parte de la propia Cristina Fernández de Kirchner.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Se cuestiona la situación carcelaria de varios presos K, alegando una supuesta persecución política, sin embargo, existen múltiples fallos judiciales que justifican su detención.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Durante el kirchnerismo, se ejerció una fuerte presión sobre el Poder Judicial, dificultando la investigación en numerosos casos, llegando incluso a obstaculizar el acceso a la documentación oficial.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Actualmente, se avanza contra jueces en el Senado y contra el procurador general de la Nación, acciones que parecen dirigirse específicamente contra aquellos que fallaron contra los Kirchner.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Algo huele a podrido en la relación entre la política y la justicia.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 1658
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto_politico_argentina",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.686,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Como presidente de la República, yo pido al pueblo que me escuche en lo que voy a decirle. Nosotros, como pueblo civilizado, no podemos tomar medidas que sean aconsejadas por la pasión, sino por la reflexión.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Tres son los medios de la liberación: la verdad, la libertad y la valentía cívica, sostenida por la determinación serena, pero definitiva, de las fuerzas armadas, que decidieron sobreponerse a escrúpulos legalistas, de una imparcialidad que suele haber sido complicidad, y que han impuesto nuevamente el equilibrio con el restablecimiento de libertades y garantías que son propios de la condición humana y patrimonio histórico de los argentinos.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Caída del régimen de corrupción y de despotismo que padeció la República durante doce años\", señala un acontecimiento histórico de más trascendencia que el derrocamiento de la pirámide rosista.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Con intensa emoción he observado la obra que realizan sus hechos argentinos en pro de la pacificación de nuestro pueblo. La conmoción que ha vivido la República ha sido tan dramática y tan honda, que no habrá un solo espíritu que tenga sentimiento de patria que no ponga todas sus fuerzas al servicio de la idea de fraternidad, de paz y de armonía entre todos los argentinos.\"",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "\"Se comunica a la población, y a partir de la fecha, el país se encuentra bajo el control operacional de la junta militar. Se recomienda a todos los habitantes el estricto acatamiento a las disposiciones y directivas que emanen de autoridad militar, de seguridad o policial, así como extremar el cuidado en evitar acciones y actitudes individuales o delictivas que puedan exigir la intervención drástica del personal en operación\"",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Viendo este pasado, cómo se configuraba la verdad que no debería tener ninguna nostalgia, y sentirnos contentos de este presente.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Y más allá de que fue malinterpretada la idea de la casa está en orden, porque luego vino dos leyes que relativizaron la responsabilidad en los subalternos... Sin ninguna duda, la casa terminó en orden. Nunca más golpes militares pudieron tener éxito en la Argentina.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3407
+}

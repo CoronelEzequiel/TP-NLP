@@ -1,0 +1,36 @@
+{
+  "texto_id": "Analizando la reforma judicial",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.9,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Esta solicitud, a simple vista, podría parecer una corrección menor, pero revela una estrategia preocupante que busca la impunidad para el kirchnerismo y el control de los medios de comunicación.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Esto podría generar autocensura en la prensa y silenciar investigaciones periodísticas sobre la actuación de la justicia.",
+      "score": 0.85,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Un ejemplo concreto de esta problemática se encuentra en las declaraciones de Parrilli en audios filtrados, donde se menciona la posibilidad de \"apretar\" a jueces considerados \"blanditos\".",
+      "score": 0.95,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La modificación propuesta por Parrilli, lejos de garantizar la transparencia, fortalece un intento de control de la prensa y el Poder Judicial.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En definitiva, la solicitud de Parrilli evidencia una estrategia que va más allá de la impunidad para hechos del pasado; busca garantizar la impunidad para el futuro, mediante el control de la prensa y el Poder Judicial.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1343
+}

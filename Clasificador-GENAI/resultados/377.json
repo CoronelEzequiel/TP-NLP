@@ -1,0 +1,86 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.153,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Fuimos uno de los pocos que ayer logramos frenarlo, ¿no? Hubo otros países que no pudieron.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y yo digo, che, muchacho, como sociedad nos dimos cuenta de que íbamos al abismo, y no nos suicidamos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No, anoche lo más antidemocrático me pareció lo de Patricia Bullrich. ¡Qué pena! ¡Qué lamentable! ¡Qué lamentable ese discurso!",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, esas son las actitudes que uno quiere para recrear una Argentina de convivencia democrática pacífica.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Como fue derrotado el periodismo militante, Jorge, que se hagan cargo muchos ahora, ¿eh?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Recién leí algunos tuits durísimos. Hay un antiperonismo muy sangriento, muy feo, ¿eh?",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Clarín hasta el sábado a la mañana tratando de influir con el dólar blue, haciendo campaña con el dólar blue, y hay que decirles, yo anoche medio en broma a los compañeros que hacen economía, les dije: “Muchachos, paren con el dólar blue también, paren con la incertidumbre, la incertidumbre, dejen de vender incertidumbre”.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Al argentino ya con plata y miedo no lo tiene el argentino.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Y aparte hay que destacar que después de las PASO, el gobierno de Massa reaccionó con medidas concretas para el bolsillo de la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La campaña de la semana pasada clarificando cuánto iba a estar el boleto de colectivo. Eso entró. Eso entró en la gente.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, ya se están peleando entre ellos de una manera feroz, ya se tratan de drogadictos, más o menos están poniendo blancos sobre el héroe, lo que todos sospechábamos.",
+      "score": 0.3,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Mauricio Macri… Bueno, ojo con este porque va a tratar de hacer daño de aquí hasta el 19 de noviembre.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Bueno, pero acá hay que trabajar, te venía escuchando y lo venís haciendo siempre, hay que trabajar mucho sobre los radicales, ya por suerte empezaron a expresarse, hasta Myriam Bregman hace un ratito dijo: “No son lo mismo”.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sergio Massa le ganó a Milei.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que tanto Massa como Kicillof son los dos tipos que van… Hoy son los dos líderes, clarito, del peronismo.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 4085
+}

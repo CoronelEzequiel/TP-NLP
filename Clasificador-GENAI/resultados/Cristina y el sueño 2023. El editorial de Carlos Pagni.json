@@ -1,0 +1,31 @@
+{
+  "texto_id": "odisea",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y en la Argentina la vacunación sigue siendo un problema.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La más importante de todas: las malas noticias, las cosas desagradables, las hace Alberto Fernández, que para eso fue puesto en la Casa Rosada.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En este cuadro de un gobierno que tenía el monopolio del voto joven y que empieza a perderlo en los sectores menos capacitados, se entiende perfectamente que Cristina hable de \"traperos\" en sus discursos, que lo haya nombrado elegante, a pesar de que lo nombró como \"elegant\", lo que demuestra que todavía el coaching no fue del todo perfeccionado para dirigirse a ese votante que ella pretende recuperar como figura central de la campaña.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si es una venganza es porque algo hizo.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 6251
+}

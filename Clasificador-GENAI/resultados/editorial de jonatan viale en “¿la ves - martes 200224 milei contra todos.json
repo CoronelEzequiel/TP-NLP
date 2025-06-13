@@ -1,0 +1,61 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.745,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Fijate lo que dijo anoche en Corrientes: \"Y que, por la lógica del sistema electoral, todavía no tenga esa representación en ese nido de ratas que es la Cámara de Diputados.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo parto del supuesto de que son una mierda que la gente los detesta.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "El señor Larreta creó una lista alternativa encabezada por el traidor López Murphy.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cuando vos le escuchas a Vidal, o sea, su discurso colectivista es repugnante.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "La gente desprecia profundamente a la casta política.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Milei está alineado con el Estado de Israel que está cometiendo una masacre en Gaza",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Milei, no la gobernabilidad, eso no está en discusión.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Los que roban a Venezuela, los que saquean a Venezuela, los que sancionan a Venezuela, los que tratan de hacerle daño a Venezuela son sus dioses.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "A Milei, lo sostiene la decadencia que tiene enfrente.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Yo les pido, por favor, no la defrauden, porque estarían habilitando el regreso de los peores demonios.",
+      "score": 0.8,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 5197
+}

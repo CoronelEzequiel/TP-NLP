@@ -1,0 +1,31 @@
+{
+  "texto_id": "analisis_brasil",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.625,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hay muchos mensajes de la elección brasileña que el kirchnerismo interpreta como dirigidos a él, al kirchnerismo, aunque no lo sean.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Lula recibe a Alberto Fernández después de haberse puesto la gorra \"CFK 2023\".",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Argentina se está discutiendo, se ha empezado a discutir y esta es la crisis que hay dentro de Juntos por el Cambio... Lo que hay es una discusión respecto de quién lidera el antikirchnerismo.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es imposible manejar el voto desde las estructuras políticas desde hace mucho tiempo. Es muy difícil hacer un acuerdo entre dirigentes y que ese acuerdo sea seguido por la gente en todos los casos.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 8170
+}

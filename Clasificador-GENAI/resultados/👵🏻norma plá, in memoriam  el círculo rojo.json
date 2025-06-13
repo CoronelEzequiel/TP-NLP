@@ -1,0 +1,36 @@
+{
+  "texto_id": "Norma Beatriz Guimil",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.15,
+    "interpretacion": "ultraizquierda"
+  },
+  "frases": [
+    {
+      "frase": "Norma Plá se transformó en un emblema de la resistencia contra el menemismo, y particularmente en la defensa de quienes son blanco de ataque, muchas veces, de los gobiernos más salvajes, es decir, los jubilados y las jubiladas.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Norma Plá fue parte de la educación cívica y política de toda una generación que daba sus primeros pasos en el oficio de resistir a un gobierno que estaba guiado por un principio infame: ser débiles con los fuertes y fuertes con los débiles.",
+      "score": 0.05,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Para los que creen que la crueldad llegó con este gobierno, que son crueles, es verdad, en octubre de 1992 el entonces presidente Carlos Menem despreció completamente a los jubilados que se manifestaban y dijo: 'Si tienen tanta fuerza para protestar y mandar a policías al hospital, bien podrían tener fuerza para trabajar y no lo hacen'.",
+      "score": 0.15,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno de Milei está subido a su propio 'pony' creyéndose infalible como tantos otros, quizá con un poco más de énfasis. Junto a todas las medidas reaccionarias que está tomando, vetó el magro aumento de los jubilados y jubiladas que había votado el Congreso.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Tenemos que convocar a jóvenes y no tan jóvenes también, para seguir enfrentando a este gobierno que nos dice que estamos en el primer mundo. Si este es el primer mundo, yo no lo quiero\".",
+      "score": 0.25,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 2519
+}

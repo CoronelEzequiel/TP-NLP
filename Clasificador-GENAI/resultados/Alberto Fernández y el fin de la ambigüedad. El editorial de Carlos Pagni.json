@@ -1,0 +1,26 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.5,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "La elección por parte de **Cristina Fernández de Kirchner** de **Alberto Fernández**, su proclamación a través de un tuit, fue una apuesta a la ambigüedad, a elegir como presidente a un delegado, no a pesar de, sino porque expresaba -o nos había hecho creer que expresaba- ideas distintas a las de **Cristina Fernández de Kirchner**.",
+      "score": 0.4,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "El gobierno tiene que definir un programa económico para poder renovar la deuda de 42.000 millones de dólares con el Fondo Monetario Internacional, y, además, ligada a esa encrucijada económica, hay otra encrucijada geopolítica, porque le están pidiendo desde el exterior que defina su alineamiento.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "**Guzmán** espera que el fondo no descalifique esa negociación. Ahora es muy difícil que el FMI, en el acuerdo con la Argentina, pueda decir que esa deuda es sustentable con alta probabilidad, que es la fórmula prevista para cuando los bonos que emite un país son de alta calidad y no presentan riesgo, porque los bonos argentinos hoy presentan un riesgo de *default* como si dentro de cinco años fuéramos a defaultear, es decir, como si dentro de cinco años hubiera necesidad de otra negociación igual que la que se hizo el año pasado.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 7088
+}

@@ -1,0 +1,46 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.757,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy Evelyn De Bonafilm declaró que debería haber una protesta, mostrando una irresponsabilidad extrema.",
+      "score": 0.65,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si ustedes hubiesen estudiado historia, dentro de 20 años estarían hablando de la decadencia del Imperio Argentino.",
+      "score": 0.55,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Bonafini ya no es un emblema de las Madres que buscaron a sus hijos desaparecidos. Es un emblema de la corrupción.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Pero el gobierno, la única misión que tiene es salvar a Cristina.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Espero que todos recordemos que Cristina Kirchner fue el gobierno más sinvergüenza, más corrupto y más fraudulento de la historia argentina.",
+      "score": 0.95,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Con respecto a la amenaza de Navarro, que no los confunda el juez de los prostíbulos, porque Navarro dijo lo que dijo porque se lo ordenaron los \"disidentes patria\" y porque es una orden para bajar, silenciarnos a los periodistas.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ellos pueden robar lo que nosotros no podemos contar.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 2966
+}

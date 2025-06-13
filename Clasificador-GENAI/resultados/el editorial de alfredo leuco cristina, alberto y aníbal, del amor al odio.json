@@ -1,0 +1,36 @@
+{
+  "texto_id": "analisis_politico",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.73,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Hoy escuchamos a Aníbal Domingo Fernández, un defensor de Alberto Ángel Fernández y un duro crítico de Cristina Elisabet Fernández de Kirchner.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Ayer lo comentamos, no hacen otra cosa que confesar que se equivocaron al elegirlo, porque Alberto es un mequetrefe, ocupa y enfermo, que tiene funcionarios que no funcionan, que carece de poder por más que tenga la banda y el bastón, y que defiende a un ministro de Economía que apoya el Fondo Monetario Internacional y el Grupo Clarín.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Cristina llegó a decir que Alemania estaba más preocupada que nosotros por el tema de la pobreza.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Alberto le dijo a Aníbal, en un exabrupto verbal, que sufre complejo de inferioridad y le enrostró que ahora se disfraza de progresista para agradar a La Cámpora, y le recordó a Aníbal, cuando era intendente de Quilmes, que tuvo que salir escondido en el baúl de un auto.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Es que no los une el amor por la Argentina; los une la irresponsabilidad de haber detonado una hecatombe política, social y cultural en este país.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    }
+  ],
+  "tokens_procesados": 2210
+}

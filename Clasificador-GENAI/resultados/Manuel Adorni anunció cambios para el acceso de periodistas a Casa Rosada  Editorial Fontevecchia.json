@@ -1,0 +1,46 @@
+{
+  "texto_id": "analisis_milei",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.386,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Me parece largo el tiempo de gestión del presidente Javier Milei y el título es \"Preguntas calificadas\", un paso previo al \"voto calificado\", porque el vocero presidencial, Manuel Adorni, aseguró que quiere una sala de prensa de élite y para eso implementará un nuevo sistema de acreditación para los medios, textualmente, según su alcance y su audiencia.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Pensamos que Javier Milei y su equipo se comportan como aquel niño: la discusión política en el debate democrático es válida en tanto no lo critiquen, y ahí se apropian de la Casa Rosada y solo invitan a los periodistas que le \"dejan hacer un gol\", por decirlo de alguna manera.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Sin embargo, ahora el gobierno, que se autotitula \"Libertad\" y que quiere terminar con la injerencia estatal y las regulaciones en los negocios privados, quiere decidir qué periodistas tienen que enviar las empresas de medios a la Casa Rosada. Esto es un grado de injerencia estatal que no tuvo ninguno, ni siquiera los que sostienen la bandera de la injerencia estatal, como el kirchnerismo, que tuvo múltiples arbitrariedades de todo tipo con la prensa, pero no esa justamente.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "\"Vamos a hacer que sea un privilegio ser un periodista acreditado en Casa Rosada. Nosotros estamos trabajando en una nueva resolución. No tengo todavía los detalles finales, pero vamos a hacer que la sala de conferencias de la Casa Rosada, que sea un privilegio estar en la sala de conferencias y que sea un privilegio ser periodista acreditado, en realidad medio acreditado, porque nosotros acreditamos medios, no periodistas, y vamos a hacer un nuevo esquema más afín a los, buscando la excelencia que es acreditar medios según su alcance, según su audiencia, y además exigiendo determinadas características del periodista en términos de experiencia, en términos de, por supuesto, que estén en relación de dependencia con los medios.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Adorni también eligió un look distinto para ejercer su cargo presidencial.",
+      "score": 0.5,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hay una periodista española que realmente hizo bien su trabajo y a Adorni respondió de manera difusa.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "La fundación liberal mexicana, Friedrich Naumann, hizo un video con una buena síntesis del sentido que tiene la libertad de prensa.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 5845
+}

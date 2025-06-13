@@ -1,0 +1,41 @@
+{
+  "texto_id": "texto",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.717,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y usted, es honesto, che, Milei, y debería buscar asesoramiento médico para no decir barbaridades.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Cristina está leyendo un libro de este personaje.",
+      "score": 0.6,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "O sea, que está tan enojada con la pérdida de la jubilación de privilegio, que lo mandó el diputado massista este, Martínez, a chicanear en la familia Menem.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Pero vení, perdón, como un golpeador, 17 millones de pesos, hermanos, tan en pedo, mil disculpas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Bueno, yo creo que esto no va más, basta de sangre azul, basta de privilegios, basta de nobleza, basta de aristocracia, basta de lo que se creen un linaje superior, porque son un linaje superior, custodios, secretarias, choferes, despacho, tiene sol Lusco que dice, no, yo quiero ganar más que un cajero de banco.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Entonces, muchachos, tienen que inventar algo de verdad, pero porque hace falta, además, una oposición que se reinvente, sino en tanto la oposición siga representada por dirigentes acabados.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 3501
+}

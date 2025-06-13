@@ -1,0 +1,46 @@
+{
+  "texto_id": "Alberto Samid en la radio",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.429,
+    "interpretacion": "neutral"
+  },
+  "frases": [
+    {
+      "frase": "Quiero intentar construir un gobierno de unidad municipal con todos los sectores, para primero sacarla adelante y, luego, dividirla.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Yo no creo que la situación nacional nos haga mucho daño.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Hemos tenido en los últimos 20 años gobiernos traicioneros, traidores, ineptos.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "No la escuché a Cristina decir que tenemos que terminar los contratos, que no podemos regalar nuestra riqueza.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Yo creo que Menem hizo un buen gobierno el primero.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "A mí no me desagrada Milei.",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Sería candidato de Milei en La Matanza. No tengo dudas. Sí, sería.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 4721
+}

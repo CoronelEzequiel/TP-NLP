@@ -1,0 +1,26 @@
+{
+  "texto_id": "Odebrecht",
+  "etiqueta_original": "neutral",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.767,
+    "interpretacion": "derecha moderada"
+  },
+  "frases": [
+    {
+      "frase": "Y [era] Cristina Fernández de Kirchner, no hay otra.",
+      "score": 0.9,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "¿Hay un juez que hoy podría allanar el Congreso, la Casa de Gobierno? Respuesta: hasta aquí, hasta aquí no me voy del caso Odebrecht, así que para que tenga claro, caso Odebrecht, cuando se avance, la mayoría de los funcionarios son kirchneristas, no hay vuelta de hojas.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "En Brasil está en juego la presidencia como consecuencia de esta investigación de corrupción. ¿Sería esto posible aquí, en Argentina?",
+      "score": 0.6,
+      "etiqueta": "derecha"
+    }
+  ],
+  "tokens_procesados": 1846
+}

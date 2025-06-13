@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_analisis",
+  "etiqueta_original": "izquierda",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.24,
+    "interpretacion": "izquierda moderada"
+  },
+  "frases": [
+    {
+      "frase": "Él mencionó la crisis del sector agropecuario.",
+      "score": 0.4,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Esto se debe a las políticas de fomento de la actividad y a las retenciones.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "Esto nos perjudica a nosotros y al mercado interno, que demanda nuestra fruta.",
+      "score": 0.3,
+      "etiqueta": "neutral"
+    },
+    {
+      "frase": "Insistimos en que el Estado debe mirar al interior del país y saber que existen pequeños agricultores que somos la garantía de la ruralidad.",
+      "score": 0.1,
+      "etiqueta": "izquierda"
+    },
+    {
+      "frase": "En septiembre, el día 1, estuvimos en la Secretaría de Agricultura de la Nación planteando la crisis de la producción de mango, y hasta hoy no hemos recibido respuesta del Gobierno Nacional.",
+      "score": 0.2,
+      "etiqueta": "izquierda"
+    }
+  ],
+  "tokens_procesados": 1339
+}

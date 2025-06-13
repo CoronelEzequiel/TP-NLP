@@ -1,0 +1,36 @@
+{
+  "texto_id": "texto_a_analizar",
+  "etiqueta_original": "derecha",
+  "perfil_global_del_texto": {
+    "score_promedio": 0.8,
+    "interpretacion": "ultraderecha"
+  },
+  "frases": [
+    {
+      "frase": "Pablo Moyano, imputado en una causa por asociación ilícita, fue señalado por posibles irregularidades en Independiente por ex jefes de la barra brava del club, Bebote Álvarez y Daniel Lanagrone.",
+      "score": 0.7,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "La excepcionalidad radica en el peso político de Moyano: su presencia junto al presidente de la República en Olivos sin barbijo (hecho que el propio presidente reconoció como inapropiado), y en sus intentos, junto a su abogado Daniel Germán, de frenar la indagatoria en varias ocasiones, lo cual resulta poco transparente.",
+      "score": 0.8,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Si se sospecha de alguien de manejos indebidos con dinero, violencia e influencia política sobre una barra brava, cabría esperar una mayor predisposición a declarar y demostrar su inocencia.",
+      "score": 0.75,
+      "etiqueta": "derecha"
+    },
+    {
+      "frase": "Hoy, Moyano, desde el sindicato de camioneros, comenzó a declarar con insultos y faltas de respeto a la autoridad judicial.",
+      "score": 0.85,
+      "etiqueta": "ultraderecha"
+    },
+    {
+      "frase": "Su reacción, inusual en una indagatoria, incluyó agresiones verbales contra periodistas y la afirmación de que todo era una conspiración.",
+      "score": 0.9,
+      "etiqueta": "ultraderecha"
+    }
+  ],
+  "tokens_procesados": 1599
+}
