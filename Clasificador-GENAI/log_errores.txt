@@ -1,4 +1,1 @@
 === LOG DE ERRORES ===
-❌ Error en #argenzuela  jorge rial mano a mano con mariana nannis.txt: Prompt bloqueado por política: 4
-❌ Error en La gente que vive en la pobreza crónica no tiene proyección a futuro expresó Catalina Hoyos.txt: Prompt bloqueado por política: 4
-❌ Error en Larreta decidió separar boletas y M. Macri está desilusionado  Apertura MF.txt: Expecting ',' delimiter: line 6 column 450 (char 588)
